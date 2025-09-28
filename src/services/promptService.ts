@@ -29,24 +29,34 @@ export class PromptService {
       openAIApiKey: process.env.OPENAI_API_KEY,
     });
 
-    this.systemPrompt = `Você é um assistente especializado em JavaScript baseado no livro "JavaScript: The Definitive Guide" de David Flanagan.
+    this.systemPrompt = `Você é um assistente especializado EXCLUSIVAMENTE no livro "JavaScript: The Definitive Guide" de David Flanagan.
+
+LIMITAÇÕES IMPORTANTES:
+- Você SÓ pode responder perguntas sobre JavaScript e tecnologias web relacionadas
+- Você SÓ pode usar informações que estão no contexto fornecido do livro
+- Você NÃO foi treinado em outras linguagens de programação, frameworks, ou tópicos não relacionados
+- Você NÃO pode responder perguntas sobre Python, Java, C++, PHP, Ruby, Go, Rust, etc.
+- Você NÃO pode responder perguntas sobre banco de dados, DevOps, IA, mobile, jogos, culinária, esportes, política, saúde, viagens, etc.
 
 CONTEXTO DO LIVRO:
 - Este é um guia definitivo e abrangente sobre JavaScript
 - Cobre desde conceitos básicos até recursos avançados
 - Inclui ECMAScript 5 e versões mais recentes
-- Foca em programação web, DOM, Node.js e muito mais
+- Foca em programação web, DOM, Node.js e tecnologias relacionadas
 
-INSTRUÇÕES IMPORTANTES:
-1. Responda APENAS perguntas relacionadas a JavaScript e programação web
-2. Use APENAS as informações fornecidas no contexto abaixo
-3. Se a pergunta não for sobre JavaScript, responda: "Esta pergunta está fora do contexto do livro JavaScript: The Definitive Guide. Por favor, faça uma pergunta sobre JavaScript, programação web, DOM, ou conceitos relacionados."
-4. Se não encontrar informação suficiente no contexto, diga: "Não encontrei informações suficientes sobre isso no contexto fornecido do livro JavaScript: The Definitive Guide."
-5. Seja preciso, técnico e educativo
-6. Cite exemplos de código quando apropriado
-7. Mantenha o foco no JavaScript e tecnologias relacionadas
-8. Responda de forma natural e conversacional, como um especialista explicando para um colega
-9. Use formatação markdown quando apropriado para destacar código e conceitos importantes`;
+INSTRUÇÕES RIGOROSAS:
+1. Se a pergunta NÃO for sobre JavaScript ou tecnologias web relacionadas, responda EXATAMENTE:
+   "Desculpe, mas não posso responder essa pergunta. Eu sou um assistente especializado apenas no livro 'JavaScript: The Definitive Guide' de David Flanagan. Só posso responder perguntas sobre JavaScript, programação web, DOM, e tecnologias relacionadas abordadas no livro. Por favor, faça uma pergunta sobre JavaScript."
+
+2. Se não encontrar informação suficiente no contexto fornecido, responda EXATAMENTE:
+   "Não encontrei informações suficientes sobre isso no contexto fornecido do livro 'JavaScript: The Definitive Guide'. O livro pode não cobrir esse tópico específico ou pode estar em uma seção que não foi incluída no contexto atual."
+
+3. Use APENAS as informações fornecidas no contexto abaixo
+4. Seja preciso, técnico e educativo
+5. Cite exemplos de código quando apropriado
+6. Mantenha o foco EXCLUSIVAMENTE no JavaScript e tecnologias relacionadas
+7. Responda de forma natural e conversacional, como um especialista explicando para um colega
+8. Use formatação markdown quando apropriado para destacar código e conceitos importantes`;
   }
 
   async generateResponse(
@@ -67,7 +77,7 @@ INSTRUÇÕES IMPORTANTES:
     
     if (!isRelevant) {
       return {
-        answer: "Esta pergunta está fora do contexto do livro JavaScript: The Definitive Guide. Por favor, faça uma pergunta sobre JavaScript, programação web, DOM, ou conceitos relacionados.",
+        answer: "Desculpe, mas não posso responder essa pergunta. Eu sou um assistente especializado apenas no livro 'JavaScript: The Definitive Guide' de David Flanagan. Só posso responder perguntas sobre JavaScript, programação web, DOM, e tecnologias relacionadas abordadas no livro. Por favor, faça uma pergunta sobre JavaScript.",
         confidence: 'high',
         contextUsed: [],
         isRelevant: false,
@@ -80,7 +90,7 @@ INSTRUÇÕES IMPORTANTES:
     
     if (context.length === 0) {
       return {
-        answer: "Não encontrei informações suficientes sobre isso no contexto fornecido do livro JavaScript: The Definitive Guide.",
+        answer: "Não encontrei informações suficientes sobre isso no contexto fornecido do livro 'JavaScript: The Definitive Guide'. O livro pode não cobrir esse tópico específico ou pode estar em uma seção que não foi incluída no contexto atual.",
         confidence: 'low',
         contextUsed: [],
         isRelevant: true,
@@ -129,7 +139,12 @@ INSTRUÇÕES IMPORTANTES:
       'loop', 'for', 'while', 'if', 'else', 'switch', 'case', 'break', 'continue', 'return',
       'scope', 'escopo', 'hoisting', 'this', 'bind', 'call', 'apply', 'arrow', 'function',
       'module', 'import', 'export', 'require', 'package', 'npm', 'yarn', 'webpack', 'babel',
-      'react', 'vue', 'angular', 'jquery', 'typescript', 'ts', 'jsx', 'template', 'literal'
+      'react', 'vue', 'angular', 'jquery', 'typescript', 'ts', 'jsx', 'template', 'literal',
+      'var', 'let', 'const', 'if', 'else', 'for', 'while', 'do', 'switch', 'case', 'break',
+      'continue', 'return', 'throw', 'try', 'catch', 'finally', 'new', 'delete', 'typeof',
+      'instanceof', 'in', 'of', 'void', 'with', 'eval', 'settimeout', 'setinterval',
+      'console', 'alert', 'confirm', 'prompt', 'window', 'document', 'navigator', 'location',
+      'history', 'screen', 'localstorage', 'sessionstorage', 'cookies', 'cors', 'xhr'
     ];
 
     // Verificar se a pergunta contém palavras-chave relevantes
@@ -139,24 +154,55 @@ INSTRUÇÕES IMPORTANTES:
 
     // Verificar se a pergunta não é sobre outros tópicos não relacionados
     const unrelatedKeywords = [
-      'python', 'java', 'c++', 'c#', 'php', 'ruby', 'go', 'rust', 'swift', 'kotlin',
-      'database', 'sql', 'mysql', 'postgresql', 'mongodb', 'redis', 'elasticsearch',
-      'docker', 'kubernetes', 'aws', 'azure', 'gcp', 'devops', 'ci', 'cd',
-      'machine learning', 'ai', 'artificial intelligence', 'data science', 'analytics',
-      'mobile', 'ios', 'android', 'flutter', 'react native', 'xamarin',
-      'game', 'jogo', 'unity', 'unreal', 'opengl', 'directx',
-      'cooking', 'cozinha', 'recipe', 'receita', 'food', 'comida',
-      'sports', 'esporte', 'futebol', 'football', 'basketball', 'tennis',
-      'politics', 'política', 'election', 'eleição', 'government', 'governo',
-      'health', 'saúde', 'medical', 'médico', 'doctor', 'doutor',
-      'travel', 'viagem', 'trip', 'vacation', 'férias', 'hotel', 'flight', 'voo'
+      'python', 'java', 'c++', 'c#', 'php', 'ruby', 'go', 'rust', 'swift', 'kotlin', 'scala',
+      'database', 'sql', 'mysql', 'postgresql', 'mongodb', 'redis', 'elasticsearch', 'oracle',
+      'docker', 'kubernetes', 'aws', 'azure', 'gcp', 'devops', 'ci', 'cd', 'jenkins', 'gitlab',
+      'machine learning', 'ai', 'artificial intelligence', 'data science', 'analytics', 'tensorflow',
+      'mobile', 'ios', 'android', 'flutter', 'react native', 'xamarin', 'cordova', 'phonegap',
+      'game', 'jogo', 'unity', 'unreal', 'opengl', 'directx', 'opencv', 'pytorch',
+      'cooking', 'cozinha', 'recipe', 'receita', 'food', 'comida', 'chef', 'restaurant',
+      'sports', 'esporte', 'futebol', 'football', 'basketball', 'tennis', 'soccer', 'baseball',
+      'politics', 'política', 'election', 'eleição', 'government', 'governo', 'president',
+      'health', 'saúde', 'medical', 'médico', 'doctor', 'doutor', 'hospital', 'medicine',
+      'travel', 'viagem', 'trip', 'vacation', 'férias', 'hotel', 'flight', 'voo', 'tourism',
+      'finance', 'finanças', 'bank', 'banco', 'money', 'dinheiro', 'investment', 'investimento',
+      'education', 'educação', 'school', 'escola', 'university', 'universidade', 'college',
+      'art', 'arte', 'music', 'música', 'painting', 'pintura', 'drawing', 'desenho',
+      'history', 'história', 'war', 'guerra', 'ancient', 'antigo', 'medieval', 'medieval',
+      'science', 'ciência', 'physics', 'física', 'chemistry', 'química', 'biology', 'biologia',
+      'math', 'matemática', 'algebra', 'álgebra', 'geometry', 'geometria', 'calculus', 'cálculo'
     ];
 
     const hasUnrelatedKeywords = unrelatedKeywords.some(keyword => 
       questionLower.includes(keyword)
     );
 
-    return hasRelevantKeywords && !hasUnrelatedKeywords;
+    // Se tem palavras não relacionadas, é irrelevante
+    if (hasUnrelatedKeywords) {
+      return false;
+    }
+
+    // Se não tem palavras relevantes, é irrelevante
+    if (!hasRelevantKeywords) {
+      return false;
+    }
+
+    // Verificar se a pergunta é muito genérica ou vaga
+    const genericQuestions = [
+      'o que é', 'what is', 'como funciona', 'how does', 'explique', 'explain',
+      'me ajude', 'help me', 'me ensine', 'teach me', 'me fale', 'tell me'
+    ];
+
+    const isGeneric = genericQuestions.some(phrase => 
+      questionLower.includes(phrase)
+    );
+
+    // Se é genérica mas não tem contexto JavaScript, é irrelevante
+    if (isGeneric && !hasRelevantKeywords) {
+      return false;
+    }
+
+    return true;
   }
 
   private buildContext(
