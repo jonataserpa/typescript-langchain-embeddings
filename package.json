@@ -10,24 +10,39 @@
     "process-pdf": "ts-node src/processPdf.ts",
     "search": "ts-node src/search.ts",
     "examples": "ts-node src/examples.ts",
+    "api": "ts-node src/api/server.ts",
+    "api:prod": "node dist/api/server.js",
     "clean": "rm -rf dist"
   },
-  "keywords": ["langchain", "pdf", "semantic-search", "redis", "openai"],
+  "keywords": [
+    "langchain",
+    "pdf",
+    "semantic-search",
+    "redis",
+    "openai"
+  ],
   "author": "Jonata",
   "license": "MIT",
   "dependencies": {
     "@langchain/community": "^0.0.28",
     "@langchain/openai": "^0.0.14",
     "@langchain/redis": "^0.0.2",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.3",
+    "@types/morgan": "^1.9.10",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^5.1.0",
+    "helmet": "^8.1.0",
     "langchain": "^0.1.0",
+    "morgan": "^1.10.1",
     "pdf-parse": "^1.1.1",
-    "redis": "^4.6.12",
-    "dotenv": "^16.3.1"
+    "redis": "^4.6.12"
   },
   "devDependencies": {
     "@types/node": "^20.10.0",
     "@types/pdf-parse": "^1.1.4",
-    "typescript": "^5.3.0",
-    "ts-node": "^10.9.0"
+    "ts-node": "^10.9.0",
+    "typescript": "^5.3.0"
   }
 }

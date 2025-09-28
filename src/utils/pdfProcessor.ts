@@ -45,11 +45,19 @@ export class PDFProcessor {
   splitTextIntoChunks(text: string, chunkSize: number, overlap: number): string[] {
     console.log(`Dividindo texto em chunks de ${chunkSize} caracteres com overlap de ${overlap}`);
     
+    // Verificar se o texto é muito grande e limitar se necessário
+    const maxTextLength = 50 * 1024 * 1024; // 50MB limite
+    if (text.length > maxTextLength) {
+      console.warn(`Texto muito grande (${text.length} chars), limitando para ${maxTextLength} caracteres`);
+      text = text.substring(0, maxTextLength);
+    }
+    
     const chunks: string[] = [];
     let start = 0;
     let chunkIndex = 0;
+    const maxChunks = 10000; // Limite de chunks para evitar arrays muito grandes
 
-    while (start < text.length) {
+    while (start < text.length && chunkIndex < maxChunks) {
       const end = Math.min(start + chunkSize, text.length);
       let chunk = text.slice(start, end);
 
