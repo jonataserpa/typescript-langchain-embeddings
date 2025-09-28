@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4116",
+  "content": "t>\n// ... restante do documento HTML aqui ...\n<script language=\"JavaScript\">\n// Aqui, usamos objetos Date para cronometragem\n// Dividimos por 1000 para converter milissegundos em segundos\nnow = new Date();\ndocument.write('<p>It took ' +\n    (now.getTime()-today.getTime())/1000    +\n    'seconds to load this page.');\n</script>\nConsulte também\nDate.parse(), Date.UTC()\nDate.getDate()\nretorna o campo de dia do mês de um objeto Date\nSinopse\ndata.getDate()\nRetorna\nO dia do mês do objeto Date \ndata especificado, usando hora local. Os valores de retorno estão entre \n1 e 31.\n\n      Referência de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4116,
+    "totalChunks": 10000
+  }
+}

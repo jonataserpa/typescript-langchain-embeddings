@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_944",
+  "content": "ento for \nomitido (ou for passado \nnull ou outro valor falso), será usado em seu lugar o array vazio recém-\n-criado.\nNote que, ao projetar funções com argumentos opcionais, você deve certificar-se de colocar \nos  que  são  opcionais  no  final  da  lista  de  argumentos  para  que  eles  possam  ser  omitidos.  O  \nprogramador  que  chamar  sua  função  não  poderá  omitir  o  primeiro  argumento  e  passar  o  \nsegundo: ele precisaria passar undefined explicitamente para o primeiro argumento. Observe \ntambém o uso do comentário /* opcional */ na definição de função, para salientar o fato de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 944,
+    "totalChunks": 10000
+  }
+}

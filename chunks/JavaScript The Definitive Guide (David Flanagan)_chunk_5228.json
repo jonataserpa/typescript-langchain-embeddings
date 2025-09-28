@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5228",
+  "content": "close() fecha a janela de nível superior do navegador na qual é chamado. Geralmente, os \nscripts só podem fechar as janelas que abriram.\nboolean confirm(string mensagem)\nEsse método exibe a pergunta especificada como texto puro em uma caixa de diálogo modal. A cai-\nxa de diálogo contém botões OK e Cancel que o usuário pode usar para responder a pergunta. Se \no usuário clica no botão OK, confirm() retorna true. Se clica em Cancel, confirm() retorna false.\nvoid focus()\nEsse método dá o foco do teclado para a janela do navegador. Na maioria das plataformas, uma janela de \nnível superior é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5228,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_684",
+  "content": "dades de o e Object.prototype\np.y = 2;                   // e tem uma propriedade própria y.\nvar q = inherit(p);        // q herda propriedades de p, o e Object.prototype\nq.z = 3;                   // e tem uma propriedade própria z.\nvar s = q.toString();      // toString é herdado de Object.prototype\nq.x + q.y                  // => 3: x e y são herdados de o e p\nAgora, suponha que você atribua um valor à propriedade x do objeto o. Se o já tem uma proprieda-\nde própria (não herdada) chamada x, então a atribuição simplesmente altera o valor dessa proprie-\ndade já existente. Caso contrário, a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 684,
+    "totalChunks": 10000
+  }
+}

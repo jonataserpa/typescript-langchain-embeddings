@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4737",
+  "content": "lemento body do objeto Document contêiner.\nvoid click()\nEsse método simula um clique nesse elemento. Se clicar nesse elemento normalmente faria algo \nacontecer (seguir um link, por exemplo), esse método também faz isso acontecer. Caso contrário, \nchamar esse método apenas dispara um evento click no elemento.\nvoid focus()\nTransfere o foco do teclado para esse elemento.\nstring getAttribute(string nomeQualificado)\ngetAttribute() retorna o valor de um atributo nomeado de um elemento ou null, caso não exista \num atributo com esse nome. Note que o objeto HTMLElement define propriedades de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4737,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3423",
+  "content": "gistrada no objeto ApplicationCache que é o valor \nda propriedade applicationCache do objeto Window. Os navegadores que suportam uma cache de \naplicativo vão definir essa propriedade. Além do evento updateready mostrado anteriormente, exis-\ntem sete outros eventos de cache de aplicativo que podem ser monitorados. O Exemplo 20-4 mostra \nrotinas de tratamento simples que exibem mensagens para o usuário informando sobre o andamento \nda atualização da cache e sobre o status atual da cache.\nExemplo 20-4 Tratando de eventos da cache de aplicativo\n// Todas as rotinas de tratamento de evento a seguir",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3423,
+    "totalChunks": 10000
+  }
+}

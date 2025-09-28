@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2386",
+  "content": "rgulas ficam fora das strings. Eles são apenas pontos e vírgulas normais de \nJavaScript; os pontos e vírgulas utilizados em folhas de estilos CSS não são exigidos como parte dos \nvalores de string definidos com JavaScript.\nAlém disso, lembre-se de que todas as propriedades de posicionamento exigem unidades. Assim, não \né correto configurar a propriedade \nleft como segue:\ne.style.left = 300;   // Incorreto: esse é um número, não uma string\ne.style.left = \"300\"; // Incorreto: estão faltando as unidades\nAs unidades são obrigatórias ao se configurar propriedades de estilo em JavaScript, assim",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2386,
+    "totalChunks": 10000
+  }
+}

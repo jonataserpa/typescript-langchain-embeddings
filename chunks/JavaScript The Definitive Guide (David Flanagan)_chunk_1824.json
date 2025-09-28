@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1824",
+  "content": "está\n    // dentro do comentário condicional do IE. Isso significa que todos os navegadores,\n    // exceto o IE, vão executar este código.\n    alert('You are not using Internet Explorer');\n/*@end\n  @*/\n13.5   Acessibilidade\nA Web é uma ferramenta maravilhosa para disseminar informações e os programas JavaScript po-\ndem melhorar o acesso a essas informações. No entanto, os programadores de JavaScript devem ser \ncuidadosos: é fácil escrever código JavaScript que inadvertidamente nega informações aos visitantes \ncom limitações visuais ou físicas.\nOs usuários cegos podem usar uma forma de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1824,
+    "totalChunks": 10000
+  }
+}

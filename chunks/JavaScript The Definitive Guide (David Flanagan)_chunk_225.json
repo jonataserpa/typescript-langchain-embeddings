@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_225",
+  "content": "\"). Os caracteres de aspas duplas \npodem estar contidos dentro de strings delimitadas por caracteres de aspas simples e estes podem \nestar contidos dentro de strings delimitadas por aspas duplas. Aqui estão exemplos de strings literais:\n\"\"  // A string vazia: ela tem zero caracteres\n'testing'\n\"3.14\"\n\n36          Parte     I     JavaScript     básica\n'name=\"myform\"'\n\"Wouldn't you prefer O'Reilly's book?\"\n\"This string\\nhas two lines\"\n\"π is the ratio of a circle's circumference to its diameter\"\nEm ECMAScript 3, as strings literais devem ser escritas em uma única linha. Em ECMAScript 5, \nno",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 225,
+    "totalChunks": 10000
+  }
+}

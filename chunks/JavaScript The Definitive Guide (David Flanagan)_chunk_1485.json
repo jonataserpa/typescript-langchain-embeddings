@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1485",
+  "content": ".\nA palavra-chave \nlet pode ser usada de quatro maneiras:\n •   como uma declaração de variável, como \nvar;\n •   em um laço\n for ou for/in, como substituta para var;\n •   como uma instrução de bloco, para definir novas variáveis e delimitar seu escopo explicita-\nmente; e\n •   para definir variáveis cujo escopo é uma única expressão.\nA forma mais simples de usar \nlet é como uma substituta informal para var. As variáveis declaradas \ncom var são definidas por toda a função circundante. As variáveis declaradas com let são definidas \nsomente dentro do bloco circundante mais próximo (e qualquer",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1485,
+    "totalChunks": 10000
+  }
+}

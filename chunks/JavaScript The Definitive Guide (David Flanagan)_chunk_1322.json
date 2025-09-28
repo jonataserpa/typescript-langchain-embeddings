@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1322",
+  "content": "om extremidades fortemente encapsuladas\n// Esta versão da classe Range é mutável, mas encapsula suas variáveis\n// limites para manter invariante o fato de que from <= to.\nfunction Range(from, to) {\n    // Verifica o que a invariante contém quando criamos\n    if (from > to) throw new Error(\"Range: from must be <= to\");\n    // Define os métodos de acesso que mantêm a invariante\n    function getFrom() { return from; }\n    function getTo() { return to; }\n    function setFrom(f) {       // Não permite que from seja configurado > to\n        if (f <= to) from = f;\n        else throw new",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1322,
+    "totalChunks": 10000
+  }
+}

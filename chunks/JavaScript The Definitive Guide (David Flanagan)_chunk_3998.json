@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3998",
+  "content": "de rede bastante especializado. As conexões de rede mais gerais \npela Internet (ou intranets locais) frequentemente são mais duradouras e envolvem troca bidirecio-\nnal de mensagens em soquetes TCP. Não é seguro dar acesso a soquetes TCP de baixo nível a código \nJavaScript do lado do cliente não confiável, mas a API WebSocket define uma alternativa segura: \nela permite que código do lado do cliente crie conexões bidirecionais tipo soquete com servidores \nque suportem o protocolo WebSocket. Isso torna muito mais fácil executar certos tipos de tarefas de \nconeção em rede.\n\n698          Parte II",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3998,
+    "totalChunks": 10000
+  }
+}

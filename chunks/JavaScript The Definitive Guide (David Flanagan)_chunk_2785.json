@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2785",
+  "content": "e uma função \ngetText() que demonstra como receber eventos readystatechan-\nge. Primeiro, a rotina de tratamento de evento garante que a requisição esteja completa. Se estiver, \nela verifica o código de status da resposta para garantir que a requisição foi bem-sucedida. Então, \nexamina o cabeçalho “Content-Type” para verificar se a resposta foi do tipo esperado. Se todas as três \ncondições forem satisfeitas, ela passa o corpo da resposta (como texto) para uma função de callback \nespecificada.\nExemplo 18-2 Obtendo uma resposta HTTP onreadystatechange\n// Faz uma requisição HTTP GET solicitando o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2785,
+    "totalChunks": 10000
+  }
+}

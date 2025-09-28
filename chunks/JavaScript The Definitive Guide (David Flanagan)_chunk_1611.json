@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1611",
+  "content": "a janela\n        // para exibir o url, o nome de arquivo e o andamento do download\n        var row = Box.createHorizontalBox();     // Cria a linha\n        row.setBorder(padding);                 // Fornece a ela algum preenchimento\n        var label = url.toString() + \": \";       // Exibe o URL\n        row.add(new JLabel(label));             // em um JLabel\n        var bar = new JProgressBar(0, 100);      // Adiciona uma barra de progresso\n        bar.stringPainted = true;               // Exibe o nome do arquivo na\n        bar.string = file.toString();            // barra de progresso",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1611,
+    "totalChunks": 10000
+  }
+}

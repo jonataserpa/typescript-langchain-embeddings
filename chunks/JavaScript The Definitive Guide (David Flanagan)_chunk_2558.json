@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2558",
+  "content": "m atributo HTML, o navegador converte sua string de código JavaScript em uma função. \nOs navegadores – menos o IE – constroem uma função com um único argumento chamado \nevent. \nO IE constrói uma função que não espera argumentos. Se você usa o identificador event em uma \nfunção assim, está se referindo a window.event. Em um ou outro caso, as rotinas de tratamento de \nevento HTML podem se referir ao objeto evento como event.\n17.3.2   Contexto de rotina de tratamento de evento\nQuando uma rotina de tratamento de evento é registrada pela configuração de uma propriedade, é \ncomo se você estivesse",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2558,
+    "totalChunks": 10000
+  }
+}

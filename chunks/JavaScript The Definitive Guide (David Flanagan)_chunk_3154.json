@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3154",
+  "content": "eout”\nSe uma requisição Ajax não é concluída dentro do intervalo de tempo-limite escolhido, a função callback \nde erro é chamada com esse código de status. Por padrão, as requisições Ajax da jQuery não atingem \num tempo-limite; você só vai ver esse código de status se configurar a opção \ntimeout (Seção 19.6.3.1).\n“parsererror”\nEsse  código  de  status  indica  que  a  requisição  HTTP  foi  concluída  com  sucesso,  mas  que  a  jQuery  \nnão conseguiu analisá-la do modo esperado. Esse código de status ocorre se o servidor envia um \ndocumento XML malformado ou um texto JSON malformado, por",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3154,
+    "totalChunks": 10000
+  }
+}

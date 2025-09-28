@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2378",
+  "content": "div class=\"titlebar\">Test Window</div>\n\n420          Parte II     JavaScript do lado do cliente\n<div class=\"content\">\n1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>0<br><!-- Muitas linhas para -->\n1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>0<br><!-- demonstrar a rolagem-->\n</div>\n</div>\n<!-- Aqui está outra janela, com posição, cor e espessura de fonte diferentes -->\n<div class=\"window\" style=\"left: 75px; top: 110px; z-index: 20;\">\n<div class=\"titlebar\">Another Window</div>\n<div class=\"content translucent\"\n    style=\"background-color:#ccc;    font-weight:bold;\">\nThis is another window. Its",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2378,
+    "totalChunks": 10000
+  }
+}

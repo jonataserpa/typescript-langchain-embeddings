@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2120",
+  "content": "pelo elemento <b>\n    b.appendChild(n);                     // Torna n um filho do elemento <b>\n}\nA Seção 15.5.1 apresentou a propriedade outerHTML de um elemento e explicou que ela não foi \nimplementada nas versões atuais do Firefox. O Exemplo 15-5 mostra como implementar essa \npropriedade no Firefox (e em qualquer outro navegador que suporte innerHTML, tenha um objeto \nElement.prototype extensível e tenha métodos para definir getters e setters de propriedade). O \ncódigo também demonstra um uso prático para os métodos \nremoveChild() e cloneNode().\n\nCapítulo 15     Escrevendo script de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2120,
+    "totalChunks": 10000
+  }
+}

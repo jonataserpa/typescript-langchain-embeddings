@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2257",
+  "content": "entro de um elemento <pre>, \npor exemplo.\nO método \ndocument.write() não é comumente usado em código moderno: a propriedade innerHTML \ne outras técnicas de DOM oferecem um modo melhor de adicionar conteúdo em um documento. \nPor outro lado, alguns algoritmos servem muito bem como API de E/S em estilo fluxo, como a \nfornecida pelo método write(). Se estiver escrevendo código que calcula e gera texto ao ser executa-\ndo, talvez esteja interessado no Exemplo 15-10, que envolve métodos write() e close() simples na \npropriedade \ninnerHTML de um elemento especificado.\nExemplo 15-10 Uma API de fluxo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2257,
+    "totalChunks": 10000
+  }
+}

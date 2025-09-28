@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2648",
+  "content": "I do IE e acrescenta novos recursos que tornam a API muito mais fácil de usar. \nEssa nova API de DnD fácil de usar não estava implementada quando este livro estava sendo escrito; \nportanto, esta seção aborda a API do IE, com a bênção do padrão HTML5.\nA API de DnD do IE é complicada de usar e diferenças de implementação nos navegadores atuais \ntornam impossível utilizar algumas das partes mais sofisticadas dela em todos eles, mas ela permite \nque aplicativos Web participem na aplicação conjunta da DnD como os aplicativos de área de tra-\nbalho normais. Os navegadores sempre foram capazes de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2648,
+    "totalChunks": 10000
+  }
+}

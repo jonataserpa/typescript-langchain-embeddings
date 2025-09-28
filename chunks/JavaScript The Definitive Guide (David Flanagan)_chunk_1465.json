@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1465",
+  "content": "ionam uma etapa de transformação de código que verifica se o código se ajusta ao \nsubconjunto maior, o transforma para usar um subconjunto menor da linguagem e acrescenta veri-\nficações em tempo de execução quando a análise estática do código não é suficiente para garantir a \nsegurança.\nPara permitir que a segurança de JavaScript seja verificada estaticamente, vários recursos precisam \nser removidos:\n •\neval() e a construtora Function() são proibidas em qualquer subconjunto seguro, pois per-\nmitem a execução de strings de código arbitrárias e essas strings não podem ser analisadas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1465,
+    "totalChunks": 10000
+  }
+}

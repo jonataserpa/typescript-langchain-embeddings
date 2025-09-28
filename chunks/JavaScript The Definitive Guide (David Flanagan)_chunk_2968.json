@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2968",
+  "content": "ndo argumento.\nLembre-se dessas generalizações sobre métodos getter e setter ao ler o restante desta seção. Cada \nsubseção a seguir explica uma categoria importante de métodos getter/setter da jQuery.\n19.2.1   Obtendo e configurando atributos HTML\nO método attr() é o getter/setter da jQuery para atributos HTML e obedece a cada uma das ge-\nneralizações descritas anteriormente. attr() trata de incompatibilidades de navegador e de casos \nespeciais, permitindo usar nomes de atributo HTML ou suas propriedades JavaScript equivalentes \n(quando elas diferem). Por exemplo, você pode usar “for” ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2968,
+    "totalChunks": 10000
+  }
+}

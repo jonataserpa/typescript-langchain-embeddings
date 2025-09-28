@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1020",
+  "content": "[i] = constfunc(i);\n// A função no elemento 5 do array retorna o valor 5.\nfuncs[5]()   // => 5\nAo se trabalhar com código como esse, que cria várias closures usando um laço, é um erro co-\nmum tentar colocar o laço dentro da função que define as closures. Pense no código a seguir, \npor exemplo:\n// Retorna um array de funções que retornam os valores 0-9\nfunction constfuncs() {\n    var funcs = [];\n    for(var i = 0; i < 10; i++)\n        funcs[i] = function() { return i; };\n    return    funcs;\n}\nvar funcs = constfuncs();\nfuncs[5]()   // O que isso retorna?\nO  código  anterior  cria  10  closures",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1020,
+    "totalChunks": 10000
+  }
+}

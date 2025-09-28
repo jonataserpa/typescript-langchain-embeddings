@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2069",
+  "content": "entanto, se o atributo utiliza mais de uma palavra, coloque a primeira letra de \ncada palavra após a primeira delas em maiúscula: defaultChecked e tabIndex, por exemplo.\nAlguns nomes de atributo HTML são palavras reservadas em JavaScript. Para esses, a regra geral \né prefixar o nome de propriedade com “html”. O atributo HTML \nfor (do elemento <label>), \npor exemplo, se torna a propriedade JavaScript htmlFor. “class” é uma palavra reservada (mas não \nutilizada) em JavaScript e o importante atributo HTML class é uma exceção à regra anterior: \nele se torna className em código JavaScript. Vamos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2069,
+    "totalChunks": 10000
+  }
+}

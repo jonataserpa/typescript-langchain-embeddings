@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4863",
+  "content": "riedade tex-\ntContent herdada de Node. Elementos FieldSet não implementam essa propriedade.\nreadonly boolean willValidate\nEssa propriedade é true se o controle toma parte na validação de formulário; caso contrário, é \nfalse.\nRotinas de tratamento de evento\nOs controles de formulário definem as seguintes propriedades de tratamento de evento. Você tam-\nbém pode registrar rotinas de tratamento de evento usando os métodos EventTarget implementados \npor todos os Elements:\nRotina de tratamento de eventoChamada quando\nonformchange\nQuando um evento change é disparado em qualquer controle no",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4863,
+    "totalChunks": 10000
+  }
+}

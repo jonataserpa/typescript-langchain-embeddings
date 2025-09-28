@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4687",
+  "content": "ções receptoras de evento registradas no nó original ou na \nárvore não são copiadas. Consulte também adoptNode().\nWindow open(string url, string nome, string recursos, [boolean substituição])\nQuando o método open() de um documento é chamado com três ou mais argumentos, ele age como \no método open() do objeto Window. Consulte Window.\n\n      Referência de JavaScript do lado do cliente      881\nReferência de \nJavaScript do lado \ndo cliente\nDocument open([string tipo], [string substituição])\nCom dois ou menos argumentos, esse método apaga o documento atual e inicia um novo (usan-\ndo o objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4687,
+    "totalChunks": 10000
+  }
+}

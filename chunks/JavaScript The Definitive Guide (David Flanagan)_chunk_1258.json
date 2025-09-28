@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1258",
+  "content": "pe);  // A subclasse herda da superclasse\nB.prototype.constructor = B;        // Sobrescreve a prop. construtora herdada.\nEssas duas linhas de código são o segredo da criação de subclasses em JavaScript. Sem elas, o objeto \nprotótipo será um objeto normal – um objeto que herda de \nObject.prototype – e isso significa que \nsua classe será uma subclasse de Object, assim como todas as classes. Se adicionamos essas duas li-\nnhas na função \ndefineClass() (da Seção 9.3), podemos transformá-la na função defineSubclass() e \nno método \nFunction.prototype.extend(), mostrados no Exemplo 9-11.\nExemplo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1258,
+    "totalChunks": 10000
+  }
+}

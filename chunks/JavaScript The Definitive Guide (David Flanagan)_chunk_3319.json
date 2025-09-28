@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3319",
+  "content": "sa API consiste nos objetos \nlocalStorage e sessionStorage, \nque são basicamente arrays associativos persistentes que mapeiam chaves de string em valores \nde string. É muito fácil usar Web Storage. A API é conveniente para armazenar grandes volu-\nmes de dados (mas não enormes) e está disponível em todos os navegadores atuais, mas não \né suportada pelos mais antigos. \nlocalStorage e sessionStorage são abordados na Seção 20.1.\nCookies\nOs cookies são um antigo mecanismo de armazenamento no lado do cliente, projetado para \nuso por scripts do lado do servidor. Uma complicada API JavaScript torna",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3319,
+    "totalChunks": 10000
+  }
+}

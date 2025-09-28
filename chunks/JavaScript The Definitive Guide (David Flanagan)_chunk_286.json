@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_286",
+  "content": "s iguais e também descreve o operador de igualdade restrito ===, \nque não faz conversões ao testar a igualdade.\nLembre-se de que a capacidade de conversão de um valor para outro não implica na igualdade desses \ndois valores. Se \nundefined for usado onde é esperado um valor booleano, por exemplo, ele será con-\nvertido em false. Mas isso não significa que undefined == false. Os operadores e as instruções em \nJavaScript esperam valores de vários tipos e fazem as conversões para esses tipos. A instrução if con-\nverte undefined em false, mas o operador == nunca tenta converter seus operandos para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 286,
+    "totalChunks": 10000
+  }
+}

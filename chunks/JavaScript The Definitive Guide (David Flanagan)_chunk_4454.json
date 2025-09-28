@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4454",
+  "content": "decompor apenas um prefixo da string em um array de caracteres:\n\"hello\".split(\"\");       // Retorna [\"h\",\"e\",\"l\",\"l\",\"o\"]\n\"hello\".split(\"\", 3);    // Retorna [\"h\",\"e\",\"l\"]\n\n      Referência de JavaScript básica      833\nReferência de \nJavaScript básica\nSe quiser incluir os delimitadores ou uma ou mais partes do delimitador no array retornado, use \numa expressão regular com subexpressões entre parênteses. Por exemplo, o código a seguir decom-\npõe uma string em tags HTML e inclui essas tags no array retornado:\nvar text = \"hello <b>world</b>\";\ntext.split(/(<[^>]*>)/); // Retorna [\"hello",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4454,
+    "totalChunks": 10000
+  }
+}

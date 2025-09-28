@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2653",
+  "content": "ar \numa imagem ou elemento do documento a ser usado como representação visual do arrasto.\nEnquanto o arrasto está em andamento, o navegador dispara eventos drag na origem de arrasto. Você \npode receber esses eventos, se quiser atualizar a imagem de arrastamento ou alterar os dados que \nestão sendo oferecidos, mas geralmente não é necessário registrar rotinas de tratamento de “arrasto”.\n\n464          Parte II     JavaScript do lado do cliente\nQuando ocorre uma soltura, o evento dragend é disparado. Se sua origem de arrastamento suporta \numa operação “mover”, ela deve verificar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2653,
+    "totalChunks": 10000
+  }
+}

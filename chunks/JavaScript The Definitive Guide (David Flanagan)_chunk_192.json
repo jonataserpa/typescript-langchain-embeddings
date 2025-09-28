@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_192",
+  "content": "o número em string automaticamente. Se \nvocê usa um valor não booleano onde é esperado um booleano, JavaScript converte adequadamente. \nAs regras de conversão de valor são explicadas na Seção 3.8. As regras de conversão de valor liberais \nde JavaScript afetam sua definição de igualdade, sendo que o operador de igualdade \n== realiza con-\nversões de tipo conforme descrito na Seção 3.8.1.\nAs variáveis em JavaScript são não tipadas: você pode atribuir um valor de qualquer tipo a uma \nvariável e, posteriormente, atribuir um valor de tipo diferente para a mesma variável. As variáveis \nsão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 192,
+    "totalChunks": 10000
+  }
+}

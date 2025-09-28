@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4351",
+  "content": "iedades em um objeto\nSinopse\nObject.preventExtensions(o)\nArgumentos\no\nO objeto que terá seu atributo extensible configurado\nRetorna\nO objeto argumento \no.\nDescrição\nObject.preventExtensions() configura o atributo extensible de o como false para que nenhuma pro-\npriedade nova possa ser adicionada a ele. Essa é uma alteração permanente: uma vez que um objeto \nse torne não extensível, não pode se tornar extensível novamente.\nNote que \nObject.preventExtensions() não afeta o encadeamento de protótipos e que um objeto não \nextensível ainda pode ganhar novas propriedades herdadas.\nNote que esse não",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4351,
+    "totalChunks": 10000
+  }
+}

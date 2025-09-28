@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4689",
+  "content": "documento de texto puro. Se o argumento substituição é true, o novo documento \nsubstitui o antigo no histórico de navegação.\nEsse método não deve ser chamado por um script ou rotina de tratamento de evento que faça parte do \ndocumento que está sendo sobrescrito, pois o próprio script ou rotina de tratamento será sobrescrito.\nboolean queryCommandEnabled(string idComando)\nRetorna true  se  for  significativo  passar  idComando  para  execCommand()  e  false,  caso  contrário.  O  \ncomando “undo”, por exemplo, não é habilitado se não há nada para desfazer. Consulte a Seção \n15.10.4.\nboolean",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4689,
+    "totalChunks": 10000
+  }
+}

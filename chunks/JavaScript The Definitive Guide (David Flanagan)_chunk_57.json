@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_57",
+  "content": "se destinam a serem lidos mais ou menos \nem ordem. Porém, aprender uma nova linguagem de programação nunca é um processo linear, e a \ndescrição de uma linguagem também não é linear: cada recurso da linguagem se relaciona a outros \nrecursos e este livro está repleto de referências cruzadas – às vezes para trás e às vezes à frente do ma-\nterial que você ainda não leu. Este capítulo faz um giro rápido pela linguagem básica e pela API do \nlado do cliente, apresentando recursos importantes que tornarão mais fácil entender o tratamento \naprofundado dos capítulos seguintes.\nExplorando JavaScript\nAo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 57,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3950",
+  "content": "specificação oficial dessa API parou e esse banco de dados SQL com-\npleto provavelmente nunca vai se tornar um padrão oficial nem extra-oficial, mas uma característica \ninteroperável da plataforma Web.\nAgora os trabalhos de padronização estão concentrados em outra API de banco de dados, conhecida \ncomo IndexedDB. É cedo demais para documentar essa API em detalhes (ela não é abordada na \nParte IV), mas o Firefox 4 e o Chrome 11 incluem implementações e esta seção contém um exemplo \nfuncional que demonstra alguns dos recursos mais importantes da API IndexedDB.\nIndexedDB é um banco de dados de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3950,
+    "totalChunks": 10000
+  }
+}

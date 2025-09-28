@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_824",
+  "content": "em que foram criados, em vez \nda ordem numérica. As implementações diferem no modo como tratam desse caso; portanto, se a \nordem da iteração importa para seu algoritmo, é melhor usar um laço for normal, em vez de for/in.\nECMAScript 5 define vários métodos novos para iterar por elementos de array, passando cada um, \nna ordem do índice, para uma função definida por você. O método \nforEach() é o mais geral deles:\nvar data = [1,2,3,4,5];                // Este é o array pelo qual queremos iterar\nvar sumOfSquares = 0;         // Queremos calcular a soma dos quadrados de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 824,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3432",
+  "content": "arquivo de manifesto da rede. Os eventos que seguem o evento checking \nsão diferentes em diferentes situações:\nNão há atualização disponível\nSe o aplicativo já está na cache e o arquivo de manifesto não mudou, o navegador dispara um \nevento noupdate.\nAtualização disponível\nSe um aplicativo está na cache e seu arquivo de manifesto mudou, o navegador dispara um \nevento downloading e começa a baixar e a colocar na cache todos os arquivos listados no mani-\nfesto. À medida que esse download ocorre, ele dispara eventos progress. E quando o download \ntermina, ele dispara um evento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3432,
+    "totalChunks": 10000
+  }
+}

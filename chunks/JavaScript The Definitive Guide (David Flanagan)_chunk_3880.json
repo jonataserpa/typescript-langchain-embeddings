@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3880",
+  "content": "a Seção 22.6.4 e na Seção 22.6.5, vamos ver como é possível utilizar o conteúdo do \narquivo.\nAlém de selecionar arquivos com um elemento \n<input>, o usuário também pode dar a um script \nacesso a arquivos locais, soltando-os no navegador. Quando um aplicativo receber um evento drop, \na propriedade dataTransfer.files do objeto evento será o objeto FileList associado à soltura, caso te-\nnha havido uma. A API de arrastar e soltar foi abordada na Seção 17.7 e o Exemplo 22-10, a seguir, \ndemonstra seu uso com arquivos.\n22.6.2   Baixando   Blobs\nO Capítulo 18 abordou os scripts HTTP com o objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3880,
+    "totalChunks": 10000
+  }
+}

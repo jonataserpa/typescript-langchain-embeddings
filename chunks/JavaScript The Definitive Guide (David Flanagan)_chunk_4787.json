@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4787",
+  "content": "ctrlKey\nSe a tecla Ctrl estava pressionada quando o evento ocorreu. Definida para eventos de mouse e \ntecla e também por eventos do IE.\nreadonly EventTarget currentTarget*\nO objeto Element, Document ou Window que está tratando desse evento. Durante a captura \ne a borbulha, isso é diferente de target. Não é definida por eventos do IE, mas é simulada por \neventos da jQuery.\nreadonly DataTransfer dataTransfer\nPara eventos arrastar e soltar, essa propriedade especifica o objeto DataTransfer que coordena a \noperação de arrastar e soltar inteira. Os eventos arrastar e soltar são um tipo de evento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4787,
+    "totalChunks": 10000
+  }
+}

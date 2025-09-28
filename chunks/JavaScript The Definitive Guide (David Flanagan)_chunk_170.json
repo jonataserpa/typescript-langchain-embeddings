@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_170",
+  "content": "ios. Outro estilo é omitir os pontos \ne vírgulas quando possível, utilizando-os nas poucas situações que os exigem. Qualquer que seja o \nestilo escolhido, existem alguns detalhes que você deve entender sobre os pontos e vírgulas opcionais \nem JavaScript.\nConsidere o código a seguir. Como as duas instruções aparecem em linhas separadas, o primeiro \nponto e vírgula poderia ser omitido:\na = 3;\nb = 4;\nContudo, escrito como a seguir, o primeiro ponto e vírgula é obrigatório:\na = 3; b = 4;\nNote que JavaScript não trata toda quebra de linha como ponto e vírgula: ela normalmente trata as \nquebras de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 170,
+    "totalChunks": 10000
+  }
+}

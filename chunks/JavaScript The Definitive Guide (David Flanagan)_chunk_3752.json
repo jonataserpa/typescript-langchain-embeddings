@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3752",
+  "content": "odo de detectar essas mudanças de estado para que possa ler o estado armazenado \nno identificador de fragmento e atualizar-se de forma correspondente. Em HTML5, o navegador \ndispara um evento hashchange no objeto Window quando o identificador de fragmento muda. Nos \nnavegadores que suportam o evento hashchange, você pode configurar \nwindow.onhashchange como \numa função de tratamento que será chamada quando o identificador de fragmento mudar como \nresultado de navegação pelo histórico. Quando essa função de tratamento fosse chamada, sua função \nanalisaria o valor de \nlocation.hash e exibiria",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3752,
+    "totalChunks": 10000
+  }
+}

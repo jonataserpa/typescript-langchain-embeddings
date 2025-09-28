@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3755",
+  "content": "rgumento é um URL opcional que \nserá exibido como localização do estado atual. Os URLs relativos são determinados em relação à \nlocalização atual do documento e é comum especificar simplesmente uma parte hash (ou “iden-\ntificador de fragmento”) do URL, como #state. A associação de um URL a cada estado permite \nque o usuário marque estados internos de seu aplicativo e, se você incluir informações suficientes \nno URL, seu aplicativo poderá restaurar seu estado quando for carregado a partir de um marcador.\nClones estruturados\nConforme mencionado anteriormente, o método pushState() aceita um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3755,
+    "totalChunks": 10000
+  }
+}

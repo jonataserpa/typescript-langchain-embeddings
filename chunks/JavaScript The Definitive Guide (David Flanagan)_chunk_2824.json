@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2824",
+  "content": "e soltar (Seção 17.7) também permite acessar os arquivos que o usuário “solta” \nem um elemento, por intermédio da propriedade \ndataTransfer.files do evento drop. Vamos ver \nmais sobre o objeto File na Seção 22.6 e na Seção 22.7. Por enquanto, podemos tratá-lo como uma \nrepresentação completamente opaca de arquivo selecionado pelo usuário, conveniente para carregar \npor meio de send(). O Exemplo 18-9 é uma função JavaScript discreta que adiciona uma rotina \nde tratamento de evento change em certos elementos de carregamento de arquivo, para que possa \npostar (com POST) automaticamente o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2824,
+    "totalChunks": 10000
+  }
+}

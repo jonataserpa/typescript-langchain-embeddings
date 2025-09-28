@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3305",
+  "content": "á como você poderia implementar uma pseudoclasse \n:data(x) que retorna true somente \npara argumentos que têm um atributo \ndata-x (consulte a Seção 15.4.3):\njQuery.expr[':'].data = function(element, index, match, array) {\n    // Nota: o IE7 e anteriores não implementam hasAttribute()\n    return element.hasAttribute(\"data-\" + match[3]);\n};\n19.10   A biblioteca jQuery UI\nA jQuery se limita a fornecer DOM, CSS, tratamento de eventos e funcionalidades Ajax. Isso forne-\nce uma base excelente para a construção de abstrações de nível mais alto, como widgets de interface \ncom o usuário, sendo que a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3305,
+    "totalChunks": 10000
+  }
+}

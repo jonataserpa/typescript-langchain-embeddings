@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4818",
+  "content": "ectar novamente, crie um novo objeto EventSource.\nRotinas de tratamento de evento\nA comunicação pela rede é assíncrona, de modo que EventSource dispara eventos quando a cone-\nxão se abre, quando ocorre um erro e quando chegam mensagens do servidor. Você pode registrar \nrotinas de tratamento de evento nas propriedades listadas aqui ou, em vez disso, usar os métodos de \nEventTarget. Todos os eventos de EventSource são enviados no próprio objeto EventSource. Eles não \nborbulham e não têm uma ação padrão que possa ser cancelada.\n\n906          Parte IV     Referência de JavaScript do lado do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4818,
+    "totalChunks": 10000
+  }
+}

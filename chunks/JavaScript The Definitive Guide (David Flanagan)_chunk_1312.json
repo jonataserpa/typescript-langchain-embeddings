@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1312",
+  "content": "ue:to, enumerable:true, writable:false, configurable:false}\n    };\n    if (this instanceof Range)                  // Se for chamada como uma construtora\n        Object.defineProperties(this, props);    // Define as propriedades\n    else                              // Caso contrário, como uma fábrica\n        return Object.create(Range.prototype,    // Cria e retorna um novo\n                      props);          // objeto Range com props\n}\n// Se adicionamos propriedades no objeto Range.prototype da mesma maneira,\n// então podemos configurar atributos nessas propriedades. Como não",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1312,
+    "totalChunks": 10000
+  }
+}

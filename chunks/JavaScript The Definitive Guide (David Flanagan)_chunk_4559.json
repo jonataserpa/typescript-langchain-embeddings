@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4559",
+  "content": "desenhar) caminhos. Essa proprie-\ndade pode ser uma string de cor CSS ou um objeto CanvasGradient ou CanvasPattern.\nstring textAlign\nEspecifica o alinhamento horizontal do texto e o significado da coordenada X passada para \nfillText() e strokeText(). Os valores válidos são “left”, “center”, “right”, “start” e “end”. O \nsignificado de “start” e “end” depende do atributo dir (direção do texto) da tag <canvas>. O \npadrão é “start”.\n\n      Referência de JavaScript do lado do cliente      857\nReferência de \nJavaScript do lado \ndo cliente\nstring textBaseline\nEspecifica  o  alinhamento  vertical  do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4559,
+    "totalChunks": 10000
+  }
+}

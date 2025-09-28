@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_200",
+  "content": "usam a sintaxe tradicional dos \nnúmeros reais. Um valor real é representado como a parte inteira do número, seguida de um ponto \ndecimal e a parte fracionária do número.\nOs literais em ponto flutuante também podem ser representados usando-se notação exponencial: \num número real seguido da letra e (ou E), seguido por um sinal de adição ou subtração opcional, se-\nguido por um expoente inteiro. Essa notação representa o número real multiplicado por 10, elevado \nà potência do expoente.\nMais sucintamente, a sintaxe é:\n[dígitos][.dígitos][(E|e)[(+|-)]dígitos]\nPor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 200,
+    "totalChunks": 10000
+  }
+}

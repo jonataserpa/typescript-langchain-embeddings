@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2641",
+  "content": "\";   // Configura-o no quadro\n   }\n            if (deltaY) {\n                frameheight -= deltaY;  // Faz o mesmo para a altura do quadro\n                frameheight = Math.min(frameheight, contentheight);\n                frameheight = Math.max(frameheight-deltaY, 50);\n                frame.style.height = frameheight + \"px\";\n   }\n  }\n        else { // Sem a modificadora Alt, dá uma panorâmica no conteúdo dentro do quadro\n            if (deltaX) {\n                // Não rola mais do que isso\n                var minoffset = Math.min(framewidth-contentwidth, 0);\n                // Soma deltaX",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2641,
+    "totalChunks": 10000
+  }
+}

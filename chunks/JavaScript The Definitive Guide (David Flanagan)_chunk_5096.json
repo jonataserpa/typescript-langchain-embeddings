@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5096",
+  "content": "o.\n\n      Referência de JavaScript do lado do cliente      963\nReferência de \nJavaScript do lado \ndo cliente\nstring lookupPrefix(string namespace)\nEsse método retorna o prefixo do namespace associado ao URL de namespace especificado ou null, \nse não houver nenhum.\nvoid normalize()\nEsse método normaliza os descendentes do nó de texto desse nó, mesclando os nós adjacentes e \nremovendo os nós vazios. Os documentos normalmente não têm nós de texto vazios ou adjacentes, \nmas isso pode ocorrer quando um script adiciona ou remove nós.\nNode removeChild(Node filhoAntigo)\nEsse método remove filhoAntigo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5096,
+    "totalChunks": 10000
+  }
+}

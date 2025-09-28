@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3424",
+  "content": "20-4 Tratando de eventos da cache de aplicativo\n// Todas as rotinas de tratamento de evento a seguir utilizam esta função para exibir \n// mensagens de status.\n// Como todas as rotinas de tratamento exibem mensagens de status dessa maneira, elas \n// retornam false\n// para cancelar o evento e impedir que o navegador exiba seu próprio status.\nfunction status(msg) {\n    // Exibe a mensagem no elemento do documento com identificação \"statusline\"\n    document.getElementById(\"statusline\").innerHTML = msg;\n    console.log(msg);    // E também na console de depuração\n}\n// Sempre que o aplicativo é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3424,
+    "totalChunks": 10000
+  }
+}

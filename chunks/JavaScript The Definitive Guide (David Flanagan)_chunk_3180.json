@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3180",
+  "content": "ões entre domínios, assim como acontece com o tipo “script”. Quan-\ndo você usa esse tipo, seu URL ou string de dados normalmente deve incluir um parâmetro como \n\"&jsonp=?\" ou \"&callback=?\". A jQuery vai substituir o ponto de interrogação pelo nome de uma \nfunção callback gerada automaticamente. (Mas consulte as opções \njsonp e jsonpCallback na Seção \n19.6.3.3 para ver alternativas.)\nSe você não especifica um desses tipos ao chamar \njQuery.get(), jQuery.post() ou jQuery.ajax(), a \njQuery examina o cabeçalho Content-Type da resposta HTTP. Se esse cabeçalho contém a string “xml”, \né passado um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3180,
+    "totalChunks": 10000
+  }
+}

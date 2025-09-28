@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5133",
+  "content": "xibe as opções alternativas tão explicitamente. size tem como padrão 4 quando \no atributo multiple é configurado; caso contrário é 1.\nA propriedade \noptions[] do elemento Select é a mais interessante. Esse é um objeto semelhante a um \narray de elementos <option> (consulte Option) que descrevem as escolhas apresentadas pelo elemento \nSelect. Por motivos históricos, esse objeto semelhante a um array tem alguns comportamentos in-\ncomuns para adicionar e remover novos elementos <option>. Consulte HTMLOptionsCollection para \nver os detalhes.\nPara um elemento Select sem o atributo \nmultiple",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5133,
+    "totalChunks": 10000
+  }
+}

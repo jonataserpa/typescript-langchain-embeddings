@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4610",
+  "content": "tagem, string dados)\nstring substringData(unsigned long deslocamento, unsigned long contagem)\nOs nós Comment têm a maioria dos métodos de um nó Text e esses métodos funcionam como \nacontece nos nós Text. Eles estão listados aqui, mas consulte a documentação em Text.\n\n866          Parte IV     Referência de JavaScript do lado do cliente\nConsole\nsaída de depuração\nOs navegadores modernos (e os mais antigos com extensões para depuração instaladas, como o \nFirebug) definem uma propriedade global \nconsole que se refere a um objeto Console. Os métodos \ndesse objeto definem uma API para tarefas de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4610,
+    "totalChunks": 10000
+  }
+}

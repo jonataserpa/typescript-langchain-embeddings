@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_73",
+  "content": "s\n// JavaScript define alguns operadores aritméticos de forma abreviada\nvar count = 0; // Define uma variável\ncount++; // Incrementa a variável\ncount--; // Decrementa a variável\ncount += 2; // Soma 2: o mesmo que count = count + 2;\ncount *= 3; // Multiplica por 3: o mesmo que count = count * 3;\ncount // => 6: nomes de variáveis também são expressões.\n// Os operadores de igualdade e relacionais testam se dois valores são iguais,\n// desiguais, menores que, maiores que, etc. São avaliados como verdadeiros ou falsos.\nvar x = 2, y = 3; // Esses sinais = são atribuições e não testes\n // de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 73,
+    "totalChunks": 10000
+  }
+}

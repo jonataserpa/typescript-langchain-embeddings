@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5305",
+  "content": "} (chaves)\n    caracteres de escape em sintaxe de literal XML da \nE4X, 277\n    em    defi nições de função, 159\n    em torno de corpo de função, omitindo em fun-\nções de atalho, 275\n    englobando blocos de instrução, 86\n    englobando expressões inicializadoras de objeto, \n58\n    expressões inicializadoras entre, 5\n$ (cifrão)\n    correspondência de fi nal de string em expressões \nregulares, 246, 252\nÍndice\n\n1004          Índice\n    função $( ), 11, 510, 511–514\n        pesquisando elementos pela identifi cação, 343\n        usando, em vez de querySelectorAll( ), 515\n    método $$( ),",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5305,
+    "totalChunks": 10000
+  }
+}

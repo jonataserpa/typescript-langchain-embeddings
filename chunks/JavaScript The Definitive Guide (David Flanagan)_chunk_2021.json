@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2021",
+  "content": "opriedade documentElement da classe Document se refere ao elemento-raiz do documento. Em \ndocumentos HTML isso é sempre um elemento <html>.\nNodeLists e HTMLCollections\ngetElementsByName()  e  getElementsByTagName()  retornam  objetos  NodeList,  e  propriedades  como  \ndocument.images e document.forms são objetos HTMLCollection.\nEsses objetos são objetos semelhantes a um array somente para leitura (consulte a Seção 7.11). Eles têm \npropriedades \nlength e podem ser indexados (para leitura, mas não para gravação) como arrays verdadeiros. \nVocê pode iterar através do conteúdo de um NodeList ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2021,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5222",
+  "content": "simplesmente uma referência a \num objeto de espaço reservado que definia as funções documentadas em URL. No futuro, essa \npropriedade pode se tornar uma construtora URL() e definir uma API para analisar URLs e suas \nstrings de consulta.\nreadonly Window window\nA propriedade window é idêntica à propriedade self: ela contém uma referência para essa jane-\nla. Como o objeto Window é o objeto global de JavaScript do lado do cliente, essa propriedade \nnos permite escrever window para nos referirmos ao objeto global.\nConstrutoras\nComo objeto global de JavaScript do lado do cliente, o objeto Window",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5222,
+    "totalChunks": 10000
+  }
+}

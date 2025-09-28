@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_668",
+  "content": ". Em vez de passar o objeto diretamente para a função, você pode passar um herdeiro. \nSe a função lê as propriedades do herdeiro, vai ver os valores herdados. No entanto, se ela configura \npropriedades, essas propriedades só vão afetar o herdeiro e não seu objeto original:\nvar o = { x: \"don't change this value\" };\nlibrary_function(inherit(o));   // Precavê contra modificações acidentais de o\nPara entender por que isso funciona, você precisa saber como as propriedades são consultadas e con-\nfiguradas em JavaScript. Esses são os temas da próxima seção.\n1\n  Douglas Crockford é geralmente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 668,
+    "totalChunks": 10000
+  }
+}

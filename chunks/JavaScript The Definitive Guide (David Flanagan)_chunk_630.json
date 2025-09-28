@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_630",
+  "content": "e verificação de \nerro mais forte e mais segurança. As diferenças entre o modo restrito e o modo não restrito são as \nseguintes (as três primeiras são especialmente importantes):\n •   A instrução \nwith não é permitida no modo restrito.\n •   No modo restrito, todas as variáveis devem ser declaradas: um ReferenceError é lançado se \nvocê atribui um valor a um identificador que não é uma variável, função, parâmetro de fun-\nção, parâmetro de cláusula \ncatch ou propriedade declarada do objeto global. (No modo não \nrestrito, isso declara uma variável global implicitamente, pela adição de uma nova",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 630,
+    "totalChunks": 10000
+  }
+}

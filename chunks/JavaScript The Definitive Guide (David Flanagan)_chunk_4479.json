@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4479",
+  "content": "mponent(), caso a string especificada contenha pares substitutos Unicode inválidos. Con-\nsulte Error para ver os detalhes sobre como lançar e capturar exceções.\nConsulte também\nError, Error.message, Error.name\n\nEsta parte do livro é uma referência de JavaScript do lado do cliente. Ela contém entradas para \nimportantes  objetos  de  JavaScript  do  lado  do  cliente,  como  Window, Document, Element, Event, \nXMLHttpRequest, Storage, Canvas e File. Também há uma entrada para a biblioteca jQuery. As en-\ntradas estão organizadas em ordem alfabética por nome de objeto e cada entrada inclui uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4479,
+    "totalChunks": 10000
+  }
+}

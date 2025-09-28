@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4507",
+  "content": "ito grandes \ne representar dados binários, mas nada disso é obrigatório. Os Blobs são frequentemente armazena-\ndos em arquivos, mas isso é um detalhe da implementação. Os Blobs expõem apenas seu tamanho \ne, opcionalmente, um tipo MIME. Eles definem um único método para tratar de uma região de um \nBlob como Blob.\nVárias APIs utilizam Blobs: consulte \nFileReader para ver uma maneira de ler o conteúdo de um \nBlob e BlobBuilder para ver um modo de criar novos objetos Blob. Consulte XMLHttpRequest para ver \nmaneiras de baixar e carregar Blobs. Consulte a Seção 22.6 para ver uma discussão sobre",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4507,
+    "totalChunks": 10000
+  }
+}

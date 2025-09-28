@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5671",
+  "content": "171\n    globais,    25\n    referência de variável como expressão primária, 57\n    tipos de dados e, 30\nvariáveis globais, 25, 30\n    como propriedades do objeto global, 54\n    evitando a criação de, em módulos, 240\n    evitando com o uso de funções como namespaces, \n174\n    restrição em subconjuntos seguros, 260\n    uso de identifi cações de elemento como, 343\nvariáveis não tipadas, 30\nvariável heading, 343\nvariável input, 343\nvariável self, usando com funções aninhadas, 164\nversões, 262\nvisibilidade\n    propriedade visibility, 407–408, 415\n    visibilidade parcial com propriedades de estilo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5671,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1110",
+  "content": "emplo 9-1 e o Exemplo 9-2: os méto-\ndos range são definidos e chamados da mesma maneira para as duas classes.\n9.2.1   Construtoras e identidade de classe\nComo vimos, o objeto protótipo é fundamental para a identidade de uma classe: dois objetos são \ninstâncias da mesma classe se, e somente se, herdam do mesmo objeto protótipo. A função constru-\ntora que inicializa o estado de um novo objeto não é fundamental: duas funções construtoras podem \nter propriedades \nprototype que apontam para o mesmo objeto protótipo. Então, as duas construto-\nras podem ser usadas para criar instâncias da mesma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1110,
+    "totalChunks": 10000
+  }
+}

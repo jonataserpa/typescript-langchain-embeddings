@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1103",
+  "content": "clusivas desse objeto.\n\n196          Parte     I     JavaScript     básica\n    this.from = from;\n    this.to = to;\n}\n// Todos os objetos Range herdam desse objeto.\n// Note que o nome de propriedade deve ser \"prototype\" para que isso funcione.\nRange.prototype = {\n    // Retorna true se x está no intervalo; caso contrário, false\n    // Este método funciona tanto para intervalos textuais e Date como para numéricos.\n    includes: function(x) { return this.from <= x && x <= this.to; },\n    // Chama f uma vez para cada inteiro no intervalo.\n    // Este método só funciona para intervalos numéricos.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1103,
+    "totalChunks": 10000
+  }
+}

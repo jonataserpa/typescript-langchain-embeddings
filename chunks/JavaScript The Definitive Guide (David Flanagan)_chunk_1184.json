@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1184",
+  "content": "ction(value) {\n    return    this.values.hasOwnProperty(Set._v2s(value));\n};\n// Retorna o tamanho do conjunto.\nSet.prototype.size = function() { return this.n; };\n// Chama a função f no contexto especificado para cada elemento do conjunto.\nSet.prototype.foreach = function(f, context) {\n    for(var s in this.values)                   // Para cada string no conjunto\n        if (this.values.hasOwnProperty(s))       // Ignora as propriedades herdadas\n            f.call(context, this.values[s]);    // Chama f no valor\n};\n// Esta função interna mapeia qualquer valor de JavaScript em uma string",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1184,
+    "totalChunks": 10000
+  }
+}

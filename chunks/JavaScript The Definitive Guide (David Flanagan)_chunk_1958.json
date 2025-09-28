@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1958",
+  "content": "ento é um valor booleano que indica se o URL especificado como primeiro \nargumento deve substituir a entrada atual no histórico de navegação da janela (\ntrue) ou criar uma \nnova entrada no histórico de navegação da janela (\nfalse). Omitir esse argumento é o mesmo que \npassar \nfalse.\nO valor de retorno do método \nopen() é o objeto Window que representa a janela nomeada ou recém-\n-criada. Você pode usar esse objeto Window em seu código JavaScript para se referir à nova janela, \nexatamente como usa o objeto Window implícito \nwindow para se referir à janela dentro da qual seu \ncódigo está sendo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1958,
+    "totalChunks": 10000
+  }
+}

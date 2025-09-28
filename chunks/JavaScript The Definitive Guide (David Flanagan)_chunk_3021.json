@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3021",
+  "content": "mentos <h1> com elementos <i>\n$(\"h1\").wrap(document.createElement(\"i\"));       //       Produz       <i><h1>...</h1></i>\n// Empacota o conteúdo de todos os elementos <h1>. Usar um argumento de string é mais \n// fácil.\n$(\"h1\").wrapInner(\"<i/>\");                      // Produz <h1><i>...</i></h1>\n// Empacota o primeiro parágrafo em uma âncora e div\n$(\"body>p:first\").wrap(\"<a name='lead'><div class='first'></div></a>\");\n// Empacota todos os outros parágrafos em outro div\n$(\"body>p:not(:first)\").wrapAll(\"<div class='rest'></div>\");\n\n526          Parte II     JavaScript do lado do cliente\n19.3.4",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3021,
+    "totalChunks": 10000
+  }
+}

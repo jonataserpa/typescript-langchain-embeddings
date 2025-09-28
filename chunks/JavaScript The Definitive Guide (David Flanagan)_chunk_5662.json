@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5662",
+  "content": "objeto Canvas, 642, 849\ntoExponential( ), objeto Number, 47, 788–789\ntoFixed( ), objeto Number, 47, 789–790\ntoLocaleDateString( ), objeto Date, 746\ntoLocaleLowerCase( ), objeto String, 834–835\ntoLocaleTimeString( ), objeto Date, 747\ntoLocaleUpperCase( ), objeto String, 835–836\ntoPrecision( ), objeto Number, 47, 791–792\ntoTimeString( ), objeto Date, 748\ntouchscreens, eventos, 444\ntraço\n    cores, gradientes e padrões em Canvas, 631–634, \n851–852\n    defi nição, 863\n    não cortado, 638\n    traço padrão e gradiente, 633\ntransbordando conteúdo, elementos rolantes em \ndocumentos,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5662,
+    "totalChunks": 10000
+  }
+}

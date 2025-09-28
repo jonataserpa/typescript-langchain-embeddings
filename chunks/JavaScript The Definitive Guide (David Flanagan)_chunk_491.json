@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_491",
+  "content": "os hospedeiros. No entanto, a Microsoft sempre tem usado objetos \nque podem ser chamados não nativos para seus métodos no lado do cliente, sendo que antes do IE 9 \no operador typeof retorna “objeto” para eles, mesmo que se comportem como funções. No IE9 esses \nmétodos do lado do cliente são agora verdadeiros objetos de função nativos. Consulte a Seção 8.7.7 \npara mais informações sobre a distinção entre funções verdadeiras e objetos que podem ser chamados.\n4.13.3   O operador delete\ndelete é um operador unário que tenta excluir a propriedade do objeto ou elemento do array es-\npecificado como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 491,
+    "totalChunks": 10000
+  }
+}

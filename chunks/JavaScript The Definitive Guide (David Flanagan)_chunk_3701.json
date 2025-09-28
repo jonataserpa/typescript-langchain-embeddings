@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3701",
+  "content": "a página de \nreferência de ImageData.\nExemplo 21-10 Motion blur com ImageData\n// Borra os pixels do retângulo à direita, produzindo um\n// tipo de motion blur, como se os objetos estivessem indo da direita para a esquerda.\n// n deve ser 2 ou mais. Valores maiores produzem borrões maiores.\n// O retângulo é especificado no sistema de coordenadas padrão.\nfunction smear(c, n, x, y, w, h) {\n    // Obtém o objeto ImageData que representa o retângulo de pixels a borrar\n    var pixels = c.getImageData(x,y,w,h);\n    // Esse borrão é feito no local e exige apenas o ImageData de origem.\n    // Alguns",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3701,
+    "totalChunks": 10000
+  }
+}

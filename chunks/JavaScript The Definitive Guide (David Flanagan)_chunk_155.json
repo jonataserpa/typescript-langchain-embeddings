@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_155",
+  "content": "ias e são consideradas diferentes pelo computador. O padrão Unicode define a codificação pre-\nferida para todos os caracteres e especifica um procedimento de normalização para converter texto \n\nCapítulo 2     Estrutura léxica      23\nJavaScript básica\nem uma forma canônica conveniente para comparações. JavaScript presume que o código-fonte que \nestá interpretando já foi normalizado e não tenta normalizar identificadores, strings nem expressões \nregulares.\n2.2   Comentários\nJavaScript aceita dois estilos de comentários. Qualquer texto entre // e o final de uma linha é tratado \ncomo comentário",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 155,
+    "totalChunks": 10000
+  }
+}

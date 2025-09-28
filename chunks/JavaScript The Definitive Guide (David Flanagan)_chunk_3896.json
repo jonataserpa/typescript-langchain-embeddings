@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3896",
+  "content": "ength; i++) {           // Itera por todos eles\n            var type = files[i].type;\n            if (type.substring(0,6) !== \"image/\")        // Pula o que não for imagem\n                  continue;\n            var img = document.createElement(\"img\");     // Cria um elemento <img>\n            img.src = getBlobURL(files[i]);              // Usa URL de Blob com <img>\n            img.onload = function() {                    // Quando ele for carregado\n                this.width = 100;                        // ajusta seu tamanho e\n                  document.body.appendChild(this);",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3896,
+    "totalChunks": 10000
+  }
+}

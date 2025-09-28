@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5032",
+  "content": "uma música ou filme.\nunsigned short HAVE_FUTURE_DATA = 3\nForam carregados dados de mídia suficientes para começar a reproduzir, mas provavelmente \nnão o suficiente para reproduzir até o fim sem pausa para baixar mais dados.\nunsigned short HAVE_ENOUGH_DATA = 4\nForam carregados dados de mídia suficientes para que o navegador provavelmente possa repro-\nduzir até o fim, sem pausa.\nPropriedades\nboolean autoplay\nSe for true, o elemento de mídia vai começar a reprodução automaticamente quando tiver \ncarregado dados suficientes. Espelha o atributo HTML autoplay.\nreadonly TimeRanges buffered\nOs",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5032,
+    "totalChunks": 10000
+  }
+}

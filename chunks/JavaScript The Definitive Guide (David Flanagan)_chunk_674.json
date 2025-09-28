@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_674",
+  "content": "C ou Java. A segunda sintaxe, usando colchetes e \numa string, parece acesso a array, mas a um array indexado por strings e não por números. Esse tipo \nde array é conhecido como array associativo (ou hash ou mapa ou dicionário). Os objetos JavaScript \nsão arrays associativos e esta seção explica por que isso é importante.\nEm C, C++, Java e linguagens fortemente tipadas semelhantes, um objeto só pode ter um número \nfixo de propriedades e os nomes dessas propriedades devem ser definidos antecipadamente. Como \nJavaScript é uma linguagem pouco tipada, essa regra não se aplica: um programa pode",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 674,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_924",
+  "content": "xpressões de acesso \nà propriedade consistem em duas partes: um objeto (neste caso, \no) e um nome de propriedade (m). \nEm uma expressão de invocação de método como essa, o objeto o se torna o contexto da chamada e \no corpo da função pode se referir a esse objeto usando a palavra-chave this. Aqui está um exemplo \nconcreto:\nvar calculator = {    // Um objeto literal\n    operand1:    1,\n    operand2:    1,\n    add: function() {\n        // Note o uso da palavra-chave this para se referir a esse objeto.\n        this.result = this.operand1 + this.operand2;\n }\n};\ncalculator.add();     // Uma chamada",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 924,
+    "totalChunks": 10000
+  }
+}

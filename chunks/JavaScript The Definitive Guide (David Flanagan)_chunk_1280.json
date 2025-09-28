@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1280",
+  "content": "cipação como membro no conjunto. Cada combinação de superclasse e função filtro exigiu a \ncriação de uma nova classe.\nNo entanto, há uma maneira melhor de fazer isso. Um princípio bastante conhecido no projeto \norientado a objetos é “prefira a composição em vez da herança”\n2\n. Nesse caso, podemos usar com-\nposição definindo uma nova implementação de conjunto que “empacota” outro objeto conjunto e \nencaminha pedidos para ele, após filtrar os membros proibidos. O Exemplo 9-15 mostra como isso \né feito.\nExemplo 9-15 Composição de conjuntos em vez de subclasses\n/*\n *  Um FilteredSet empacota um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1280,
+    "totalChunks": 10000
+  }
+}

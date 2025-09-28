@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2211",
+  "content": "s são utilizados para controlar como os dados \ndo formulário são enviados para o servidor Web e onde os resultados são exibidos. JavaScript do lado \ndo cliente pode configurar o valor dessas propriedades, mas elas só são úteis quando o formulário é \nrealmente enviado para um programa do lado do servidor.\nAntes de JavaScript, um formulário era enviado com um botão de propósito especial Submit e os \nelementos de formulário tinham seus valores redefinidos com um botão de propósito especial Reset.\nO objeto Form de JavaScript suporta dois métodos, \nsubmit() e reset(), que têm o mesmo objetivo.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2211,
+    "totalChunks": 10000
+  }
+}

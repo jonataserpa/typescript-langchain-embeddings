@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5026",
+  "content": "do \ndo cliente\nLocation configura essa propriedade e usar um objeto Location como string usa o valor dessa \npropriedade.\nstring pathname\nA parte do nome de caminho de um URL – por exemplo, “/catalog/search.html”.\nstring port\nA parte da porta de um URL – por exemplo, “1234”. Note que essa propriedade é uma string \ne não um número.\nstring protocol\nA parte do protocolo de um URL, incluindo os dois-pontos à direita – por exemplo, “http:”.\nstring search\nA parte da consulta de um URL, incluindo o ponto de interrogação à esquerda – por exemplo, \n“?q=JavaScript&m=10”.\nMétodos\nvoid assign(string",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5026,
+    "totalChunks": 10000
+  }
+}

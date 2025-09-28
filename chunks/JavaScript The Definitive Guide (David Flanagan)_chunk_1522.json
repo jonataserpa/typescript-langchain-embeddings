@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1522",
+  "content": "terator__() nem tratar da exceção StopIteration – o laço for/in faz isso para você. Se, \n\n270          Parte     I     JavaScript     básica\npor algum motivo, você quiser obter um objeto iterador de um objeto iterável explicitamente, cha-\nme a função Iterator(). (Iterator() é uma função global nova de JavaScript 1.7.) Se o argumento \ndessa função é um objeto iterável, ela simplesmente retorna o resultado de uma chamada para o \nmétodo \n__iterator__(), mantendo seu código mais limpo. (Se você passar um segundo argumento \npara Iterator(), ela passará esse argumento para o método",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1522,
+    "totalChunks": 10000
+  }
+}

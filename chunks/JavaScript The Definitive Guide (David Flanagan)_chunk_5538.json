@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5538",
+  "content": "), 658\n    métodos back( ), forward( ) e go( ), 336\nobjeto HTMLCollection, 357, 921\n    elementos de formulário, 388\n    visão geral do, 357\nobjeto HTMLDocument, 353\n (consulte também objeto Document)\n    método getElementsByName( ), 355\n    propriedades images, forms e links, 357\nobjeto HTMLElement, 353\n (consulte também objeto Element)\n    propriedade text, 306\n    propriedades espelhando atributos HTML de ele-\nmentos, 365\n    representando elementos HTML em documentos, \n342\nobjeto HTMLOptionsCollection, 922\nobjeto IDBRange, 690–691\nobjeto IFrame, 923\nobjeto ImageData, 647\nobjeto Input,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5538,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3264",
+  "content": "a gramática de seletor.\nO modo mais simples de refinar uma seleção é pela posição dentro da seleção. \nfirst() retorna um \nobjeto jQuery contendo apenas o primeiro elemento selecionado e last() retorna um objeto jQuery \ncontendo apenas o último elemento. Geralmente, o método eq() retorna um objeto jQuery con-\ntendo o único elemento selecionado no índice especificado. (Na jQuery 1.4 são permitidos índices \nnegativos e eles contam a partir do fim da seleção.) Note que esses métodos retornam um objeto \njQuery com um único elemento. Isso é diferente da indexação de array normal, que retorna um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3264,
+    "totalChunks": 10000
+  }
+}

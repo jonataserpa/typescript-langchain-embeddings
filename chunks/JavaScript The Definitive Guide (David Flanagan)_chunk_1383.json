@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1383",
+  "content": "e objeto (ou inicializadoras), como {}\n e [], criam \num novo objeto cada vez que são encontrados. Se você escrever \nvar a = [] no corpo de um laço, por \nexemplo, cada iteração do laço vai criar um novo array vazio.\nAs literais de expressão regular são um caso especial. A especificação ECMAScript 3 diz que uma literal \nRegExp é convertida em um objeto RegExp quando o código é analisado e cada avaliação do código retor-\nna o mesmo objeto. A especificação ECMAScript 5 inverte isso e exige que cada avaliação de um RegExp \nretorne um novo objeto. O IE sempre implementou o comportamento de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1383,
+    "totalChunks": 10000
+  }
+}

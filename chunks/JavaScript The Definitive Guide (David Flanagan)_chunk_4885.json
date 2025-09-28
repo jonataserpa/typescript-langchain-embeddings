@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4885",
+  "content": "e é o URL completo e \nnão apenas a parte hash dele.\nreadonly string oldURL\nEssa propriedade contém o valor antigo de location.href.\n\n920          Parte IV     Referência de JavaScript do lado do cliente\nHistory\no histórico de navegação de um objeto Window\nO objeto History representa o histórico de navegação de uma janela. Contudo, por motivos de pri-\nvacidade, ele não permite acesso através de script aos URLs reais que foram visitados. Os métodos \ndo objeto History permitem que os scripts movam a janela para trás e para frente no histórico de \nnavegação e adicionem novas entradas no",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4885,
+    "totalChunks": 10000
+  }
+}

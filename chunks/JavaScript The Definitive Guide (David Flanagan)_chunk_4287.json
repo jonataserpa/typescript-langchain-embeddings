@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4287",
+  "content": "como \ndiferente de qualquer outro número, incluindo o próprio NaN. Assim, você não pode verificar o valor \nnot-a-number comparando com Number.NaN; em vez disso, use a função isNaN(). Em ECMAScript \nv1 e posteriores, você também pode usar a propriedade global predefinida NaN, em vez de Number.NaN.\nConsulte também\nisNaN(), NaN\nNumber.NEGATIVE_INFINITY\ninfinito negativo\nSinopse\nNumber.NEGATIVE_INFINITY\nDescrição\nNumber.NEGATIVE_INFINITY é um valor numérico especial retornado quando uma operação aritméti-\nca ou função matemática gera um valor negativo maior do que o maior número representável em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4287,
+    "totalChunks": 10000
+  }
+}

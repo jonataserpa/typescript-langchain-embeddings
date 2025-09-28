@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1001",
+  "content": "or retorna “local scope” e não “global scope”. Essa, \nem poucas palavras, é a natureza surpreendente e poderosa das closures: elas capturam os vínculos de \nvariável local (e o parâmetro) da função externa dentro da qual são definidas.\n\nCapítulo     8     Funções          177\nJavaScript básica\nNa Seção 8.4.1, definimos uma função uniqueInteger() que usava uma propriedade da própria fun-\nção para monitorar o próximo valor a ser retornado. Uma desvantagem dessa estratégia é que um \ncódigo defeituoso ou mal-intencionado poderia zerar o contador ou configurá-lo com um valor não \ninteiro, fazendo a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1001,
+    "totalChunks": 10000
+  }
+}

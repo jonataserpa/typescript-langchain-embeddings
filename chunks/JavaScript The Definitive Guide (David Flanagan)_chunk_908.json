@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_908",
+  "content": "s apenas uma vez, como nos dois \núltimos exemplos.\nNomes de função\nQualquer identificador JavaScript válido pode ser um nome de função. Tente escolher nomes de função \ndescritivos, mas concisos. Encontrar um ponto de equilíbrio é uma arte que se adquire com a experiência. \nNomes de função bem escolhidos podem fazer uma grande diferença na legibilidade (e, portanto, na ma-\nnutenibilidade) de seu código.\nMuitas vezes, os nomes de função são verbos ou frases que começam com verbos. É uma convenção iniciar \nnomes de função com uma letra minúscula. Quando um nome contém várias palavras, uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 908,
+    "totalChunks": 10000
+  }
+}

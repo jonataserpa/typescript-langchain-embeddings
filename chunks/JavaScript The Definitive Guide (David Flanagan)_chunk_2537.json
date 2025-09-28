@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2537",
+  "content": "t.getElementById(\"shipping_address\");\n    // Registra uma função de tratamento de evento que vai ser chamada\n    // imediatamente antes do envio do formulário.\n    elt.onsubmit = function() { return validate(this); }\n}\nEssa técnica de registro de rotina de tratamento de evento funciona em todos os navegadores para \ntodos os tipos de evento normalmente usados. Em geral, todas as APIs Web amplamente implemen-\ntadas que definem eventos permitem o registro de rotinas de tratamento por meio da configuração \nde propriedades.\nA desvantagem das propriedades de rotina de tratamento de evento é que são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2537,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1078",
+  "content": "ui estão alguns exemplos:\nvar increment = partialLeft(sum, 1);\nvar cuberoot = partialRight(Math.pow, 1/3);\nString.prototype.first = partial(String.prototype.charAt, 0);\nString.prototype.last = partial(String.prototype.substr, -1, 1);\n\nCapítulo     8     Funções          191\nJavaScript básica\nA aplicação parcial se torna ainda mais interessante quando a combinamos com outras funções de \nmais alta ordem. Aqui, por exemplo, está uma maneira de definir a função not() mostrada anterior-\nmente, usando composição e aplicação parcial:\nvar not = partialLeft(compose, function(x) { return !x; });\nvar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1078,
+    "totalChunks": 10000
+  }
+}

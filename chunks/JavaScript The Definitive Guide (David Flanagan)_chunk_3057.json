@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3057",
+  "content": "Vincula f como rotina de tratamento de mouseover no espaço de nomes \"myMod\" a todos os \n// elementos <a>\n$('a').bind('mouseover.myMod', f);\nÉ possível até atribuir uma rotina de tratamento a vários espaços de nomes, como segue:\n// Vincula f como rotina de tratamento de mouseout nos espaços de nomes \"myMod\" e \n// \"yourMod\"\n$('a').bind('mouseout.myMod.yourMod', f);\nO último recurso de bind() é que o primeiro argumento pode ser um objeto que mapeia nomes de \nevento em funções de tratamento. Para usar o método hover() como exemplo novamente, a chama-\nda $('a').hover(f,g) é o mesmo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3057,
+    "totalChunks": 10000
+  }
+}

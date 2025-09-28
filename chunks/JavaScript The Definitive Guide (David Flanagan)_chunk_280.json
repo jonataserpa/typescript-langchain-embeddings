@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_280",
+  "content": "que talvez você ache surpreendentes. As células \nvazias indicam que nenhuma conversão é necessária e nada é feito.\nTabela 3-2 Conversões de tipo da JavaScript\nValorConvertido em:\nStringNúmeroBooleanoObjeto\nundefined\"undefined\"NaNfalselança TypeError\nnull\"null\"0falselança TypeError\ntrue\"true\"1new Boolean(true)\nfalse\"false\"0new \nBoolean(false)\n\"\" (string vazia)0falsenew String(\"\")\n\"1.2\" (não vazio, \nnumérico)\n1.2true       new String(\"1.2\")\n\"one\" (não vazio, não \nnumérico)\nNaNtrue       new String(\"one\")\n0\"0\"falsenew Number(0)\n-0\"0\"falsenew Number(-0)\nNaN\"NaN\"falsenew",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 280,
+    "totalChunks": 10000
+  }
+}

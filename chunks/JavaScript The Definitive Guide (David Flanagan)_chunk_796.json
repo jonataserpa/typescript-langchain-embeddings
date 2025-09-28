@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_796",
+  "content": "ava o elemento 1\ni = 2;\na[i] = 3;             // Grava o elemento 2\na[i + 1] = \"hello\";   // Grava o elemento 3\na[a[i]] = a[0];       // Lê os elementos 0 e 2, grava o elemento 3\nLembre-se de que os arrays são um tipo especializado de objeto. Os colchetes usados para acessar \nelementos do array funcionam exatamente como os colchetes usados para acessar propriedades de \nobjeto. JavaScript converte o índice numérico especificado do array em uma string – o índice 1 se \ntorna a string \"1\" – e, então, usa essa string como um nome de propriedade. Não há nada de especial \nna conversão do índice, de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 796,
+    "totalChunks": 10000
+  }
+}

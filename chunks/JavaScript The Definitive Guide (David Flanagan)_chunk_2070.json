@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2070",
+  "content": "ibuto HTML class é uma exceção à regra anterior: \nele se torna className em código JavaScript. Vamos ver a propriedade className novamente, no \nCapítulo 16.\nAs propriedades que representam atributos HTML normalmente têm um valor de string. Quan-\ndo o atributo é um valor booleano ou numérico (os atributos \ndefaultChecked e maxLength de um \nelemento <input>, por exemplo), os valores das propriedades são booleanos ou números, em vez \nde strings. Os atributos de rotina de tratamento de evento sempre têm objetos Function (ou null) \ncomo valores. A especificação HTML5 define alguns atributos (como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2070,
+    "totalChunks": 10000
+  }
+}

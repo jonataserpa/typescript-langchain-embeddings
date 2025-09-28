@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1884",
+  "content": "ontents”) dentro do documento, o objeto Location é atualizado para \nrefletir isso, mas a propriedade document.URL permanece intacta.\n14.2.1   Analisando   URLs\nA propriedade location de uma janela é uma referência a um objeto Location; ela representa o URL \natual do documento que está sendo exibido nessa janela. A propriedade href do objeto Location é \numa string que contém o texto completo do URL. O método toString() do objeto Location retorna \no valor da propriedade href; portanto, nos contextos que chamam toString() implicitamente, pode-\n-se escrever apenas location, em vez de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1884,
+    "totalChunks": 10000
+  }
+}

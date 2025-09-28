@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1226",
+  "content": "rna 0 quando \ndois intervalos têm o mesmo limite inferior. Isso significa que, no que diz respeito a compareTo(), \nquaisquer dois intervalos que começam no mesmo ponto são iguais. Essa definição de igualdade \né incompatível com a definição usada pelo método equals(), que exige que os dois pontos extre-\nmos sejam coincidentes. Noções incompatíveis de igualdade podem ser uma fonte fatal de erros, \npor isso é melhor tornar seus métodos equals() e compareTo() compatíveis. Aqui está um método \ncompareTo() revisado para a classe Range. Ele é compatível com equals() e também lança um erro se \nfor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1226,
+    "totalChunks": 10000
+  }
+}

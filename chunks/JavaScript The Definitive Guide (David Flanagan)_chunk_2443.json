@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2443",
+  "content": "smo tipo usado para representar \nestilos em linha e computados. Esse objeto CSSStyleDeclaration pode ser usado para consultar os \nvalores de estilo ou para configurar novos estilos para a regra. Frequentemente, ao percorrer uma \nfolha de estilo, você está interessado no texto da regra e não em uma representação analisada dela. \nNesse caso, use a propriedade cssText do objeto CSSStyleDeclaration para obter a representação \ntextual das regras.\nAlém de consultar e alterar as regras existentes de uma folha de estilo, também é possível adicionar \ne remover regras. A interface da API padrão define",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2443,
+    "totalChunks": 10000
+  }
+}

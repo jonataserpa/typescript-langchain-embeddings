@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_141",
+  "content": "aScript\n        if (year % 5 == 0 && year*12 !== payments)         // Numera cada 5 anos\n            g.fillText(String(year), x, y-5);\n }\n    // Marca valores de pagamento ao longo da margem direita\n    g.textAlign = \"right\";             // Alinha o texto à direita\n    g.textBaseline = \"middle\";         // Centraliza verticalmente\n    var ticks = [monthly*payments, principal];   //  Os dois pontos que marcaremos\n    var rightEdge = paymentToX(payments);        // Coordenada X do eixo Y\n    for(var i = 0; i < ticks.length; i++) {      // Para cada um dos 2 pontos\n        var y =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 141,
+    "totalChunks": 10000
+  }
+}

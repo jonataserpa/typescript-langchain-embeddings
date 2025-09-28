@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_945",
+  "content": "Observe \ntambém o uso do comentário /* opcional */ na definição de função, para salientar o fato de que \no parâmetro é opcional.\n\nCapítulo     8     Funções          167\nJavaScript básica\n8.3.2   Listas de argumento de comprimento variável: o objeto Arguments\nQuando uma função é chamada com mais valores de argumento do que os nomes de parâmetro \nexistentes, não há maneira de se referir diretamente aos valores não nomeados. O objeto Arguments \nfornece uma solução para esse problema. Dentro do corpo de uma função, o identificador arguments \nse refere ao objeto Arguments para essa chamada. O",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 945,
+    "totalChunks": 10000
+  }
+}

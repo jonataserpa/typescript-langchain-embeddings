@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5341",
+  "content": "eventos dinâmicos, 536\n    eventos disparados manualmente, 533\n    local na propagação de eventos após a chamada de \nrotinas de tratamento de evento, 451\n    tratamento de evento na jQuery, 527\n    versão sem borbulha de eventos de mouse no IE, \n440\nbordas\n    especifi cando cor da borda de elemento, 415\n    especifi cando em CSS, 412\n    no modelo de caixa CSS, 413\nbotões\n    botões de alternância em formulários, 392\n    botões de pressão em formulários, 391\n    elementos <button>, 387\n        registrando rotinas de tratamento para evento \nclick, 446\n        rotina de tratamento de evento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5341,
+    "totalChunks": 10000
+  }
+}

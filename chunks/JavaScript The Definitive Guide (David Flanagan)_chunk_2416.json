@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2416",
+  "content": "g e b\n        var x = Number(components[i]) * factor;        // Muda a escala de cada um\n        x = Math.round(Math.min(Math.max(x, 0), 255)); // Arredonda e define limites\n        components[i] = String(x);\n }\n    if (components.length == 3) // Uma cor rgb()\n        e.style.backgroundColor = \"rgb(\" + components.join() + \")\";\n    else              // Uma cor rgba()\n        e.style.backgroundColor = \"rgba(\" + components.join() + \")\";\n}\nOs estilos computados podem ser complicados e consultá-los nem sempre fornece a informação \nesperada. Considere a propriedade\n font-family: ela aceita uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2416,
+    "totalChunks": 10000
+  }
+}

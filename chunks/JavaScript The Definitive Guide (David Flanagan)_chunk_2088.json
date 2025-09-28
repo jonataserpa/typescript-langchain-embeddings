@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2088",
+  "content": "nerHTML pode ser usada com elementos XML e com elementos HTML.)\nOs navegadores Web são muito bons na análise de HTML e a configuração de \ninnerHTML normal-\nmente é muito eficiente, mesmo que o valor especificado precise ser analisado. Note, entretanto, que \nanexar trechos de texto repetidamente na propriedade \ninnerHTML com o operador += normalmente \nnão é eficiente, pois isso exige uma etapa de serialização e uma etapa de análise.\nA propriedade \ninnerHTML foi introduzida no IE4. Embora seja suportada há tempos por todos os \nnavegadores, somente com o advento de HTML5 foi padronizada. HTML5",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2088,
+    "totalChunks": 10000
+  }
+}

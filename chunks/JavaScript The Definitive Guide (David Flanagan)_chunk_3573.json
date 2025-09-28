@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3573",
+  "content": "Inicia um novo caminho e adiciona subcaminhos poligonais\nc.beginPath();\npolygon(c, 3, 50, 70, 50);                      // Triângulo\npolygon(c, 4, 150, 60, 50, Math.PI/4);           // Quadrado\npolygon(c, 5, 255, 55, 50);                     // Pentágono\npolygon(c, 6, 365, 53, 50, Math.PI/6);           // Hexágono\npolygon(c, 4, 365, 53, 20, Math.PI/4, true);     // Pequeno quadrado dentro do hexágono\n// Configura algumas propriedades que controlam a aparência do elemento gráfico\nc.fillStyle = \"#ccc\";  // Interiores cinza-claro\nc.strokeStyle = \"#008\";         // contornados com linhas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3573,
+    "totalChunks": 10000
+  }
+}

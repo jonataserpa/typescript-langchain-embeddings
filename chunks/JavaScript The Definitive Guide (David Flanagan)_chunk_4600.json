@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4600",
+  "content": "ax + cy + e\ny' = b d f × y  =  bx + dy + f\n1    0 0 1   1\nvoid stroke()\nO método stroke() desenha o contorno do caminho atual. O caminho define a geometria da linha \nproduzida, mas a aparência visual dessa linha depende das propriedades strokeStyle, lineWidth, \nlineCap, lineJoin e miterLimit.\nO termo stroke se refere a um traço de caneta ou pincel. Significa “desenhar o contorno de”. Com-\npare esse método \nstroke() com fill(), que preenche o interior de um caminho, em vez de traçar \nseu contorno.\nvoid strokeRect(double x, y, w, h)\nEsse método desenha o contorno (mas não preenche o interior)",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4600,
+    "totalChunks": 10000
+  }
+}

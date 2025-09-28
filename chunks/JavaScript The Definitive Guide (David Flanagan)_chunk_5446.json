@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5446",
+  "content": "jeto Event, 441, 469, 904\ninsertAdjacentHTML( ), objeto Element, 369, \n891–892\n    implementando com innerHTML e Documen-\ntFragment, 376\ninsertRule( ), objeto CSSStyleSheet, 430, 872\ninspect( ), ConsoleCommandLine, 868\ninstâncias, 193\n    arrays de, classifi cando, 218\n    criando e inicializando com função fábrica, 194\n    métodos fábrica retornando, 221\n    propriedade constructor, 198\ninstruções, 85–111\n    compostas e vazias, 86\n    condicionais,    90\n        else    if,    92\n\n1026          Índice\n        if,    90\n        switch,    93\n    declaração,    87\n    declaração de função,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5446,
+    "totalChunks": 10000
+  }
+}

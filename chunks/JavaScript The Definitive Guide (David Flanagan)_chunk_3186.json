@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3186",
+  "content": "ery.get(), por exemplo, você poderia em vez disso \npassá-la para o método \nsuccess() do objeto jqXHR retornado por essa função utilitária:\njQuery.get(\"data.txt\")\n    .success(function(data) { console.log(\"Got\", data); })\n    .success(function(data) { process(data); });\n19.6.3.1   Opções   comuns\nAs opções de jQuery.ajax()mais usadas são:\ntype\nEspecifica o método da requisição HTTP. O padrão é “GET”. “POST” é outro valor normal-\nmente usado. Você pode especificar outros métodos de requisição HTTP, como “DELETE” \ne “PUT”, mas nem todos os navegadores os suportam. Note que essa opção tem nome",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3186,
+    "totalChunks": 10000
+  }
+}

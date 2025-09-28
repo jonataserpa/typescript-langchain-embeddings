@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5417",
+  "content": "o FBJS, 262\nfase de execução dirigida por eventos, 310\nfechando janelas, 347\nferramentas de console, 3\nfi las, animação na jQuery, 538\n    cancelando, atrasando e enfi leirando efeitos, 543\n    propriedade queue, objeto opções de animação, 541\nfi ll( ), CanvasRenderingContext2D, 619, 859\nfi llRect( ), CanvasRenderingContext2D, 631, 860\nfi llText( ), CanvasRenderingContext2D, 636, 860\nfi ltrando entrada de usuário, 469–471\nfi ltros de pseudoclasse, 570\nFirefox, 338\n (consulte também navegadores Web)\n    alterações na API History feitas no Firefox 4, 658\n    estratégia de composição global,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5417,
+    "totalChunks": 10000
+  }
+}

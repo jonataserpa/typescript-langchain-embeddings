@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5597",
+  "content": "objeto Error, 754, 755\n    objeto EvalError, 758\n    objeto File, 677–678, 908\n    objeto Form, 912\n    objeto FormControl, 914\n    objeto IFrame, 923\n    objeto ReferenceError, 813–814\n    objeto URIError, 840\n    objeto Window, 345, 987\npropriedade namespace URI, objeto Attr, 846\npropriedade navigator\n    objeto Window, 337, 987\n    objeto WorkerGlobalScope, 668, 993\npropriedade newURL, objeto HashChangeEvent, \n919\npropriedade newValue, objeto StorageEvent, \n972–973\npropriedade nextSibling, objeto Node, 360–361, \n960\npropriedade nodeName, objeto Node, 361–362, \n960\npropriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5597,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2915",
+  "content": "// Agora envia essa mensagem para todos os clientes que estiverem recebendo\n            clients.forEach(function(client) { client.write(message); });\n        });\n }\n    // Caso contrário, um cliente está solicitando um fluxo de mensagens\n    else    {\n        // Configura o tipo de conteúdo e envia um evento message inicial\n        response.writeHead(200, {'Content-Type': \"text/event-stream\" });\n        response.write(\"data:    Connected\\n\\n\");\n        // Se o cliente fecha a conexão, remove o objeto\n        // resposta correspondente do array de clientes ativos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2915,
+    "totalChunks": 10000
+  }
+}

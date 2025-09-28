@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4026",
+  "content": "o que está em execução. Fornece uma maneira para uma função não \nnomeada se referir a si mesma. Essa propriedade é definida somente dentro do corpo de uma função.\nExemplo\n// Uma função literal não nomeada utiliza a propriedade callee para se referir\n// a si mesma, de modo que possa ser recursiva\nvar factorial = function(x) {\n    if (x < 2) return 1;\n\n      Referência de JavaScript básica      705\nReferência de \nJavaScript básica\n    else return x * arguments.callee(x-1);\n}\nvar y = factorial(5); // Retorna 120\nArguments.length\no número de argumentos passados para uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4026,
+    "totalChunks": 10000
+  }
+}

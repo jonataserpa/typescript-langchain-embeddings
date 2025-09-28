@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5202",
+  "content": "itos a seguir são todos disparados no \nobjeto WebSocket. Nenhum deles borbulha e nenhum tem uma ação padrão para cancelar. Note, \nentretanto, que eles têm diferentes objetos evento associados.\nonclose\nUm evento close é disparado quando a conexão de WebSocket se fecha (e readyState muda \npara CLOSED). O objeto evento associado é um \nCloseEvent, o qual especifica se a conexão \nfechou normalmente ou não.\n\n      Referência de JavaScript do lado do cliente      985\nReferência de \nJavaScript do lado \ndo cliente\nonerror\nUm evento error é disparado quando ocorre um erro de rede ou do protocolo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5202,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3058",
+  "content": "atamento. Para usar o método hover() como exemplo novamente, a chama-\nda $('a').hover(f,g) é o mesmo que:\n$('a').bind({mouseenter:f, mouseleave:g});\nQuando essa forma de bind() é usada, os nomes de propriedade no objeto passado podem ser strings \nde tipos de evento separadas por espaços e pode incluir espaços de nomes. Se você especifica um \nsegundo argumento após o primeiro argumento de objeto, esse valor é usado como argumento de \ndados para cada um dos vínculos do evento.\nA jQuery tem outro método de registro de rotina de tratamento de evento. O método \none() é chama-\ndo e funciona",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3058,
+    "totalChunks": 10000
+  }
+}

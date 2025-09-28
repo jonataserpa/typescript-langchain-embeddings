@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2024",
+  "content": "adas tendo em mente linguagens menos dinâmi-\ncas do que JavaScript em mente. Ambas definem um método \nitem(). Ele espera um inteiro e retorna o \n\n358          Parte II     JavaScript do lado do cliente\n15.2.4   Selecionando elementos por classe CSS\nO atributo class de uma HTML é uma lista separada de zero ou mais identificadores por espaços. \nEle descreve uma maneira de definir conjuntos de elementos relacionados do documento: todos os \nelementos que têm o mesmo identificador em seu atributo class fazem parte do mesmo conjunto. \nclass é uma palavra reservada de JavaScript, de modo que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2024,
+    "totalChunks": 10000
+  }
+}

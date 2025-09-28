@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4510",
+  "content": "um novo BlobBuilder chamando a construtora BlobBuilder() sem argumentos.\nMétodos\nvoid append(string texto, [string finais])\nAnexa o texto especificado, codificado com UTF-8, no Blob que está sendo construído.\nvoid append(Blob dados)\nAnexa o conteúdo dos dados de Blob no Blob que está sendo construído.\nvoid append(ArrayBuffer dados)\nAnexa os bytes dos dados de ArrayBuffer no Blob que está sendo construído.\nBlob getBlob([string tipoConteúdo])\nRetorna um Blob que representa todos os dados que foram anexados nesse BlobBuilder desde que \nele foi criado. Cada chamada desse método retorna um novo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4510,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3953",
+  "content": "r meio da qual pode ser classificado e recuperado do “store”. As chaves \ndevem ser exclusivas – dois objetos no mesmo store não podem ter a mesma chave – e ter uma or-\ndem natural para que possam ser classificadas. Strings JavaScript, número e objetos Date são chaves \nválidas. Um banco de dados IndexedDB pode gerar automaticamente uma chave exclusiva para cada \nobjeto inserido no banco de dados. Frequentemente, contudo, os objetos inseridos em um object \nstore já tem uma propriedade conveniente para uso como chave. Nesse caso, você especifica um \n“caminho de chave” para essa propriedade, ao",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3953,
+    "totalChunks": 10000
+  }
+}

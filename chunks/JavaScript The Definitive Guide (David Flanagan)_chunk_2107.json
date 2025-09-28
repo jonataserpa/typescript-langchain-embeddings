@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2107",
+  "content": "nós\nComo  mostrado  no  código  anterior,  é  possível  criar  novos  nós  Element  com  o  método  \ncreateElement() do objeto Document. Passe o nome da tag do elemento como argumento do méto-\ndo: esse nome não diferencia letras maiúsculas e minúsculas para documentos HTML e diferencia \npara documentos XML.\nOs nós Text são criados com um método semelhante:\nvar newnode = document.createTextNode(\"text node content\");\nDocument também define outros métodos de fábrica, como o pouco usado createComment(). Vamos \nusar o método \ncreateDocumentFragment() na Seção 15.6.4. Ao trabalhar com documentos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2107,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4346",
+  "content": "nção\n// Os próprios objetos protótipos têm protótipos. A chamada a seguir\n// retorna true, mostrando que os objetos função herdam propriedades\n// de Function.prototype e também de Object.prototype.\nObject.prototype.isPrototypeOf(Function.prototype);\nConsulte também\nFunction.prototype, Object.constructor; Capítulo 9\nObject.isSealed() ECMAScript 5\npropriedades podem ser adicionadas ou excluídas de um objeto?\nSinopse\nObject.isSealed(o)\n\n      Referência de JavaScript básica      805\nReferência de \nJavaScript básica\nArgumentos\no\nO objeto a ser verificado.\nRetorna\ntrue se o está selado ou false,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4346,
+    "totalChunks": 10000
+  }
+}

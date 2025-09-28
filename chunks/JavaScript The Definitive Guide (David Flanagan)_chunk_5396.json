@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5396",
+  "content": "tratamento de evento, 449\n    funções JavaScript e, 158\n    objeto    WorkerGlobalScope,    993\n    sessionStorage,    578\n    threads    Worker,    667\n    userData do IE, 586\n    variáveis como propriedades, 54\n    variáveis    defi nidas com a palavra-chave let, 263\nescopo de bloco, 53\n    falta de, tratando com a palavra-chave let, 262\n\n1018          Índice\nescopo de função, 30\n    como namespace privado em módulos, 242–244\n    e içamento, 53\nescopo léxico, 30, 54, 175\n    e funções compartilhadas entre quadros ou jane-\nlas, 348–349\n    regras para funções aninhadas, 176\nespaço de cor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5396,
+    "totalChunks": 10000
+  }
+}

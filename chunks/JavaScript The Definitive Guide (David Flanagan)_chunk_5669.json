@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5669",
+  "content": "s em ponto fl utuante e erros de arredonda-\nmento, 33\nvalores false e true, 44\nvalores hexadecimais, 31\nvalores indefi nidos, 28, 40, 838–839\n    expressões de acesso à propriedade e, 59\n    propriedades com, erros de acesso, 120\n    propriedades    confi guradas com, testando, 122\n    retornados por funções, 161\n    variáveis declaradas sem inicializador, 88\nvalores infi nitos, 32\nvalores null, 28, 40\n    expressões de acesso à propriedade e, 59\n    propriedades com, erros de acesso, 120\nvalores octais, 31\nvalores relativos para animação de propriedades nu-\nméricas, 540\nvalores true e false,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5669,
+    "totalChunks": 10000
+  }
+}

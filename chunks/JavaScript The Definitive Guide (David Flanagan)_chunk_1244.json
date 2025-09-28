@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1244",
+  "content": "extremos de um objeto \nRange não vão mudar depois de ele ter sido criado. No entanto, a não ser que usemos recursos de \nECMAScript 5 (consulte a Seção 9.8.3), as propriedades from e to ainda são graváveis e os objetos de \nRange não são realmente imutáveis:\nvar r = new Range(1,5);     // Um intervalo \"imutável\"\nr.from = function() { return 0; };   // Muda pela substituição do método\n\nCapítulo 9     Classes e módulos      221\nJavaScript básica\nLembre-se de que existe uma sobrecarga nessa técnica de encapsulamento. Uma classe que utiliza \numa closure para encapsular seu estado quase certamente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1244,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1547",
+  "content": "sa parte de um comprehension compreende uma \nvariável (ou, com atribuição de desestruturação, várias variáveis) que aparece à esquerda da \npalavra-chave in e um objeto (que pode ser um gerador, um objeto iterável ou um array, por \nexemplo) à direita de in. Embora não haja corpo de laço após o objeto, essa parte do array \ncomprehension executa uma iteração e atribui sucessivos valores à variável especificada. Note \nque nem a palavra-chave var nem let é permitida antes do nome da variável – um let está \nimplícito e a variável usada no array comprehension não é visível fora dos colchetes e não",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1547,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_584",
+  "content": "sar o mesmo identificador como rótulo \nde instrução e como nome de variável ou função. Os rótulos de instrução são definidos somente \ndentro da instrução na qual são aplicados (e dentro de suas subinstruções, evidentemente). Uma \ninstrução pode não ter o mesmo rótulo de uma instrução que a contém, mas duas instruções po-\ndem ter o mesmo rótulo, desde que nenhuma delas esteja aninhada dentro da outra. As próprias \ninstruções rotuladas podem ser rotuladas. Efetivamente, isso significa que qualquer instrução \npode ter vários rótulos.\n\nCapítulo     5     Instruções          101\nJavaScript",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 584,
+    "totalChunks": 10000
+  }
+}

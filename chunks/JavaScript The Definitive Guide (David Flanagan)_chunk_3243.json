@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3243",
+  "content": "classe\nCorresponde aos elementos cujo atributo class (quando interpretado como uma lista de palavras \nseparadas por espaços) inclui a palavra \nclasse.\n[atr]\nCorresponde aos elementos que têm um atributo atr (independente de seu valor).\n[atr=val]\nCorresponde aos elementos que têm um atributo atr cujo valor é val.\n[atr!=val]\nCorresponde aos elementos que não têm atributo atr ou cujo atributo atr não é igual a val \n(extensão da jQuery).\n[atr^=val]\nCorresponde aos elementos cujo atributo atr tem um valor que começa com val.\n[atr$=val]\nCorresponde aos elementos cujo atributo atr tem um valor que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3243,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_481",
+  "content": "r “eval”. Quando eval() é chamada a partir \nde código de modo restrito ou quando a própria string de código a ser avaliada começa com uma \ndiretiva “use strict”, eval() faz um eval local com um ambiente de variável privado. Isso significa \nque, no modo restrito, o código avaliado pode consultar e configurar variáveis locais, mas não pode \ndefinir novas variáveis ou funções no escopo local.\nAlém disso, o modo restrito torna \neval() ainda mais parecida com um operador, transformando \n“eval” efetivamente em uma palavra reservada. Não é permitido sobrescrever a função \neval() com \num novo valor.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 481,
+    "totalChunks": 10000
+  }
+}

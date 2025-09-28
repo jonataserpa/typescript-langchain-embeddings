@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4375",
+  "content": "nt() analisa e retorna o primeiro número (com um sinal de subtração opcional à esquerda) \nque ocorre em s. A análise para (e o valor é retornado) quando parseInt() encontra um caractere em \ns que não é um dígito válido para a raiz especificada. Se s não começa com um número que par-\nseInt() possa analisar, a função retorna o valor not-a-number NaN. Use a função isNaN() para testar \nesse valor de retorno.\nO argumento raiz especifica a base do número a ser analisado. Especificar 10 faz parseInt() analisar \num número decimal. O valor 8 especifica que um número octal (usando dígitos de 0 a 7)",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4375,
+    "totalChunks": 10000
+  }
+}

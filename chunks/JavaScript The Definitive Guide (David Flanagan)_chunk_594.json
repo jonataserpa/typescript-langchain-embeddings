@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_594",
+  "content": "Em um laço \nfor, a expressão de incremento é avaliada e a expressão de teste é novamente testa-\nda para determinar se deve ser feita outra iteração.\n •   Em um laço \nfor/in, o laço começa novamente com o próximo nome de propriedade sendo \natribuído à variável especificada.\nNote a diferença no comportamento da instrução \ncontinue nos laços while e for: um laço while re-\ntorna diretamente para sua condição, mas um laço for primeiramente avalia sua expressão de incre-\nmento e depois retorna para sua condição. Anteriormente, consideramos o comportamento do laço \nfor em termos de um laço while",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 594,
+    "totalChunks": 10000
+  }
+}

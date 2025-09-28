@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3132",
+  "content": "método \nstop() é o primeiro: ele interrompe qualquer animação que esteja em execução nos ele-\nmentos selecionados. \nstop() aceita dois argumentos booleanos opcionais. Se o primeiro argumento \nfor \ntrue, a fila da animação será apagada para os elementos selecionados: isso vai cancelar qualquer \nanimação pendente e também vai interromper a atual. O padrão é \nfalse: se esse argumento é omiti-\ndo, as animações enfileiradas não são canceladas. O segundo argumento especifica se as propriedades \nCSS que estão sendo animadas devem ser deixadas como estão no momento ou se devem ser con-\nfiguradas com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3132,
+    "totalChunks": 10000
+  }
+}

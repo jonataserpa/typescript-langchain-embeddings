@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1724",
+  "content": "no link abre um avaliador de \nexpressão JavaScript simples que permite avaliar expressões e executar instruções no contexto da \npágina:\n<a href='javascript:\n  var e = \"\", r = \"\"; /* Expressão a avaliar e o resultado */\n  do {\n    /* Exibe a expressão e o resultado e pede uma nova expressão */\n\nCapítulo 13     JavaScript em navegadores Web      309\nJavaScript do\n lado do cliente\n    e = prompt(\"Expression: \" + e + \"\\n\" + r + \"\\n\", e);\n    try { r = \"Result: \" + eval(e); }   /* Tenta avaliar a expressão */\n    catch(ex) { r = ex; }              /* Ou lembra do erro */\n  } while(e);    /*",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1724,
+    "totalChunks": 10000
+  }
+}

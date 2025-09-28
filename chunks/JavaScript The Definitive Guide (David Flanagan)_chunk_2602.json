@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2602",
+  "content": "gadores atribuem diferentes valores para essa propriedade, de \nmodo que é difícil usar isso de forma portável. Consulte a página de referência de Event para ver os \ndetalhes. Alguns navegadores só disparam eventos click para cliques com o botão esquerdo. Se preci-\nsar detectar cliques de outros botões, você deve usar mousedown e mouseup. O evento contextmenu \nnormalmente sinaliza um clique do botão direito, mas, conforme mencionado, pode ser impossível \nimpedir a aparição de um menu de contexto quando esse evento ocorre.\nO objeto evento de eventos de mouse tem algumas outras propriedades",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2602,
+    "totalChunks": 10000
+  }
+}

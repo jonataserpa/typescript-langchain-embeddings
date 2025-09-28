@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3604",
+  "content": "a primeira transformação para a última.\nAs transformações suportadas pelo canvas são conhecidas como transformações afins. As transforma-\nções afins podem modificar as distâncias entre pontos e os ângulos entre linhas, mas linhas paralelas \nsempre permanecem paralelas após uma transformação afim – não é possível, por exemplo, especi-\nficar uma distorção de lente olho de peixe com uma transformação afim. Uma transformação afim \narbitrária pode ser descrita pelos seis parâmetros \na até f nas seguintes equações:\nx' = ax + cy + e\ny' = bx + dy + f\nVocê pode aplicar uma transformação arbitrária no",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3604,
+    "totalChunks": 10000
+  }
+}

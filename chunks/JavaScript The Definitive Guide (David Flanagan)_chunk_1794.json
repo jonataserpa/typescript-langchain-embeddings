@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1794",
+  "content": "orma está evoluindo rapidamente, eu evito fazer declarações categóricas sobre versões específicas de \nnavegadores específicos: é provável que tais afirmativas fiquem desatualizadas bem antes do surgimento \nde uma nova edição deste livro. Portanto, você vai ver que muitas vezes limito minhas declarações com lin-\nguagem intencionalmente vaga, como “todos os navegadores atuais” (ou, às vezes, “todos os navegadores \natuais, exceto o IE”). Para contextualizar isso, enquanto eu estava escrevendo este capítulo, os navegado-\nres correntes (não beta) eram:\n •Internet Explorer 8\n •Firefox 3.6\n •Safari",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1794,
+    "totalChunks": 10000
+  }
+}

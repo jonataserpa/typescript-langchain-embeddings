@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1037",
+  "content": "unção são passados para a função original. Por exemplo:\nfunction f(y) { return this.x + y; } // Esta função precisa ser vinculada\nvar o = { x : 1 };         // Um objeto no qual vincularemos\nvar g = f.bind(o);         // Chamar g(x) chama o.f(x)\ng(2)                                   //    =>    3\nÉ fácil fazer esse tipo de vínculo com um código como o seguinte:\n// Retorna uma função que chama f como método de o, passando todos os seus argumentos.\nfunction bind(f, o) {\n    if (f.bind) return f.bind(o);   // Usa o método bind, se houver um\n    else return function() {        // Caso contrário,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1037,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4778",
+  "content": "eventos é apenas \num objeto Event normal. Esta página documenta esse objeto Event “normal”, além das propriedades \nde alguns de seus subtipos. As propriedades marcadas com um asterisco na lista a seguir são aquelas \ndefinidas pelo próprio tipo Event. Essas são as propriedades herdadas por tipos de evento como \nMessageEvent e são as propriedades definidas para eventos normais simples, como o evento load do \nobjeto Window e o evento playing de um objeto MediaElement.\nConstantes\nEstas constantes definem os valores da propriedade eventPhase. Essa propriedade (e as constantes) \nnão são suportadas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4778,
+    "totalChunks": 10000
+  }
+}

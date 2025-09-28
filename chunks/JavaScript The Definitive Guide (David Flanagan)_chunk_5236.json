@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5236",
+  "content": "“Clones estruturados”, na página 672). origemAlvo deve ser um URL absoluto especificando o \nesquema, host e porta da origem desejada. Ou então, origemAlvo pode ser “*”, se qualquer origem for \naceitável, ou “/”, para usar a própria origem do script.\nChamar esse método em uma janela causa um evento message nessa janela. Consulte \nMessageEvent \ne a Seção 22.3.\nvoid print()\nChamar print() faz o navegador se comportar como se o usuário tivesse selecionado o botão ou item \nde menu Print. Normalmente, isso apresenta uma caixa de diálogo que permite ao usuário cancelar \nou personalizar o pedido de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5236,
+    "totalChunks": 10000
+  }
+}

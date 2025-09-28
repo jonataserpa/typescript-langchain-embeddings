@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4193",
+  "content": "ndo necessária uma \npequena digressão para explicar essas diferenças. É muito mais fácil implementar interpretadores \neficientes quando uma linguagem de programação define eval como operador e não como função. \neval em JavaScript é uma função, mas por eficiência, a linguagem faz uma distinção entre chamadas \ntipo operador diretas para eval() e chamadas indiretas. Uma chamada direta utiliza o identificador \neval diretamente e, se você removesse os parênteses, eval pareceria um operador. Qualquer outra \nchamada de eval() é indireta. Se você atribui a função eval() a uma variável com um nome",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4193,
+    "totalChunks": 10000
+  }
+}

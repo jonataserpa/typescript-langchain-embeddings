@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1081",
+  "content": "compose(square,\n                                               partial(sum,    neg(mean)))),\n                                  sum),\n                           reciprocal(sum(data.length,-1))));\n8.8.4   Memoização\nNa Seção 8.4.1, definimos uma função de fatorial que colocava na cache os resultados calculados \nanteriormente. Na programação funcional, esse tipo de uso de cache é denominado memoização. \nO código a seguir mostra uma função de ordem mais alta, memoize(), que aceita uma função como \nargumento e retorna uma versão memoizada da função:\n// Retorna uma versão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1081,
+    "totalChunks": 10000
+  }
+}

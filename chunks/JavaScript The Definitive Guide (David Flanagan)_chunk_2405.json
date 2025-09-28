@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2405",
+  "content": "do cliente, como a jQuery, normalmente suportam efeitos visuais predefinidos; portanto, \ntalvez você nunca precise escrever uma função de animação como shake(), a não ser que queira criar \num efeito visual especialmente complexo. Uma biblioteca de efeitos antiga e digna de nota é a Scrip-\ntaculous, que foi projetada para uso com a estrutura Prototype. Visite http://script.aculo.us/ e http://\nscripty2.com/ para saber mais.\nO módulo CSS3 Transitions define uma maneira de especificar efeitos animados em folhas de estilo, \neliminando a necessidade de qualquer script. Em vez de definir uma função",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2405,
+    "totalChunks": 10000
+  }
+}

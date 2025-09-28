@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1770",
+  "content": "s <script> que não têm os atributos async \nou defer, ele adiciona esses elementos no documento e, em seguida, executa o script em linha \nou externo. Esses scripts são executados de forma síncrona e o analisador faz uma pausa en-\nquanto o script é baixado (se necessário) e executado. Scripts como esses podem usar document.\nwrite() para inserir texto no fluxo de entrada. Esse texto vai se tornar parte do documento \nquando o analisador reiniciar. Muitas vezes, os scripts síncronos simplesmente definem fun-\nções e registram rotinas de tratamento de evento para uso posterior, mas podem percorrer e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1770,
+    "totalChunks": 10000
+  }
+}

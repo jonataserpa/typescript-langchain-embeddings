@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2839",
+  "content": "LHttpRequest a fim de registrar \nrotinas de tratamento para cada um desses eventos progress. Se você tem somente uma rotina de \ntratamento para cada tipo de evento, geralmente é mais fácil apenas configurar a propriedade da ro-\ntina de tratamento correspondente, como onprogress e onload. Você pode até usar a existência dessas \npropriedades de evento para testar se um navegador suporta eventos progress:\nif (\"onprogress\" in (new XMLHttpRequest())) {\n    // Eventos progress são suportados\n}\nO objeto evento associado a esses eventos progress tem três propriedades úteis, além das proprie-\ndades",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2839,
+    "totalChunks": 10000
+  }
+}

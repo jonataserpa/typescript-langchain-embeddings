@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_217",
+  "content": "ecimal que evite esses pro-\nblemas de arredondamento. Até então, talvez você queira efetuar cálculos financeiros importantes \nusando inteiros adaptados. Por exemplo, você poderia manipular valores monetários como centavos \ninteiros, em vez de frações de moeda.\n3.1.5   Datas e horas\nJavaScript básico inclui uma construtora Date() para criar objetos que representam datas e horas. \nEsses objetos Date têm métodos que fornecem uma API para cálculos simples de data. Os objetos \nDate não são um tipo fundamental como os números. Esta seção apresenta um estudo rápido sobre \no trabalho com datas.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 217,
+    "totalChunks": 10000
+  }
+}

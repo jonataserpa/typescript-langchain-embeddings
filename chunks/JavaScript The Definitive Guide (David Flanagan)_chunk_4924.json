@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4924",
+  "content": "Para caixas de seleção, essa propriedade especifica se o elemento está em um estado indetermi-\nnado (nem marcado, nem não marcado). Essa propriedade não espelha um atributo HTML: \nvocê só pode configurá-la com JavaScript.\nreadonly Element list*\nUm elemento <datalist> contendo elementos <option> que um navegador pode usar como \nsugestões ou valores de preenchimento automático.\nstring max*\nUm valor máximo válido para esse elemento Input.\nlong maxLength\nSe type é “text” ou “password”, essa propriedade especifica o número máximo de caracteres \nque o usuário pode inserir. Note que isso não é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4924,
+    "totalChunks": 10000
+  }
+}

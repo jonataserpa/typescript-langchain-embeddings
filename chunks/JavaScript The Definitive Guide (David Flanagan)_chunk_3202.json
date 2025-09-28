@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3202",
+  "content": "o. Note que as requisições com dataType “script” \nque retornam código JavaScript inválido não causam erros. Qualquer erro no script é ignorado \nsilenciosamente e é chamada a callback \nsuccess, em vez da callback error.\ncomplete\nEsta opção especifica uma função callback a ser chamada quando a requisição Ajax estiver \nconcluída. Todo pedido Ajax ou é bem-sucedido e chama a callback \nsuccess ou falha e chama \na função callback \nerror. A jQuery chama a callback complete depois de chamar success ou \nerror. O primeiro argumento da callback complete é o objeto XMLHttpRequest e o segundo \né o código",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3202,
+    "totalChunks": 10000
+  }
+}

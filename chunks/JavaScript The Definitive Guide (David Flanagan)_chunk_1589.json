@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1589",
+  "content": "// => falso: é um Writer, não um Reader\nout instanceof java.io.Closeable // => verdadeiro: Writer implementa Closeable\nComo você pode ver, nos exemplos anteriores de instanciação de objeto, o Rhino permite que valo-\nres sejam passados para construtoras Java e que o valor de retorno dessas construtoras seja atribuído \na variáveis JavaScript. (Observe a conversão de tipo implícita feita pelo Rhino nesse exemplo: a \nstring JavaScript “/type/test” é convertida automaticamente em um valor java.lang.String de Java.) \nOs métodos Java são muito parecidos com as construtoras Java e o Rhino permite",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1589,
+    "totalChunks": 10000
+  }
+}

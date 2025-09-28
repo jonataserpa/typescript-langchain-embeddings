@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2516",
+  "content": "rsos de HTML muito anunciados é a inclusão de elementos \n<audio> e <video> para \nreprodução de som e vídeo. Esses elementos têm uma longa lista de eventos disparados para enviar \nnotificações sobre eventos de rede, status do buffer de dados e estado da reprodução:\ncanplay            loadeddata      playing           stalled\ncanplaythrough   loadedmetadata   progress         suspend\ndurationchange   loadstart       ratechange       timeupdate\nemptied            pause  seeked            volumechange\nended           play             seeking           waiting\nEsses eventos de mídia recebem um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2516,
+    "totalChunks": 10000
+  }
+}

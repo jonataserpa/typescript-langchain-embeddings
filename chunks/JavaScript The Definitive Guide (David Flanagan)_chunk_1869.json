@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1869",
+  "content": "eitos visuais.\nDojo\nA Dojo (http://dojotoolkit.org) é uma estrutura grande que apregoa sua “incrível profundi-\ndade”. Ela inclui um amplo conjunto de widgets de interface com o usuário, um sistema de \npacotes, uma camada de abstração de dados e muito mais.\nYUI\nA YUI (http://developer.yahoo.com/yui/) é a biblioteca interna do Yahoo! e é usada em sua home \npage. Assim como a Dojo, é uma biblioteca grande e abrangente com utilitários da linguagem, \n\nCapítulo 13     JavaScript em navegadores Web      331\nJavaScript do\n lado do cliente\nutilitários DOM, widgets de interface com o usuário, etc. Na",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1869,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2076",
+  "content": "e receberem uma única string como nome de atri-\nbuto, esses métodos recebem duas. A primeira é o URI que identifica o espaço de nomes. O segundo \nnormalmente é o nome local não qualificado do atributo dentro do espaço de nomes. Contudo, \napenas para setAttributeNS(), o segundo argumento é o nome qualificado do atributo e inclui o \nprefixo do espaço de nomes. Você pode ler mais sobre esses métodos com atributo com consciência \nde espaço de nomes na Parte IV.\n15.4.3   Atributos de conjuntos de dados\nÀs vezes é útil anexar informações nos elementos HTML, normalmente quando o código Java-\nScript",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2076,
+    "totalChunks": 10000
+  }
+}

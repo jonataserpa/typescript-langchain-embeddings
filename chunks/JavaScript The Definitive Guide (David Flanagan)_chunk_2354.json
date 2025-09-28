@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2354",
+  "content": "erar o layout do documento. No entanto, se a propriedade \ndisplay de um elemento é configurada \ncomo \nnone, nenhum espaço é alocado para ele no layout do documento; os elementos nos seus dois \nlados dele se aproximam como se ele não estivesse lá. A propriedade \ndisplay é útil, por exemplo, ao \nse criar listas de tópicos que se expandem e contraem.\nvisibility e display têm efeitos equivalentes quando usadas com elementos de posição absoluta \nou fixa, pois esses elementos não fazem parte do layout do documento. Contudo, a propriedade \nvisibility geralmente é preferida para ocultar e exibir",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2354,
+    "totalChunks": 10000
+  }
+}

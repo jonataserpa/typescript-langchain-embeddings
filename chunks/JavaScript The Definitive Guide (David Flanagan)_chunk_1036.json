@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1036",
+  "content": "de métodos já existentes às vezes é chamado de “monkey-patching”*.\n8.7.4   O método bind()\nO método bind() foi adicionado em ECMAScript 5, mas é fácil simulá-lo em ECMAScript 3. Con-\nforme o nome lembra, o principal objetivo de bind() é vincular uma função a um objeto. Quando \no método bind() é chamado em uma função f e um objeto o é passado, o método retorna uma nova \nfunção. Chamar a nova função (como função) chama a função original f como método de o. Os \nargumentos passados para a nova função são passados para a função original. Por exemplo:\nfunction f(y) { return this.x + y; } // Esta",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1036,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_558",
+  "content": ");\nO laço do/while é menos comumente usado do que seu primo while – na prática, é um tanto inco-\nmum ter certeza de que se quer executar um laço pelo menos uma vez. Aqui está um exemplo de \nlaço\n do/while:\nfunction printArray(a) {\n    var len = a.length, i = 0;\n    if (len == 0)\n        console.log(\"Empty    Array\");\n    else    {\n        do    {\n            console.log(a[i]);\n        } while (++i < len);\n }\n}\nExistem duas diferenças sintáticas entre o laço do/while e o laço while normal. Primeiramente, o \nlaço \ndo exige a palavra-chave do (para marcar o início do laço) e a palavra-chave",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 558,
+    "totalChunks": 10000
+  }
+}

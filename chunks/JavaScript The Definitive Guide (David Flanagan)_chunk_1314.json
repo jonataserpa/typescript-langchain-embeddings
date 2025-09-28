@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1314",
+  "content": "value: function() { return \"(\" + this.from + \"...\" + this.to + \")\"; }\n }\n});\nO Exemplo 9-18 usa Object.defineProperties() e Object.create() para definir propriedades imu-\ntáveis e não enumeráveis. Esses métodos são poderosos, mas os objetos descritores de propriedade \nque exigem podem tornar o código difícil de ler. Uma alternativa é definir funções utilitárias para \nmodificar os atributos de propriedades que já foram definidas. O Exemplo 9-19 mostra duas dessas \nfunções utilitárias.\n\n234          Parte     I     JavaScript     básica\nExemplo 9-19 Utilitários descritores de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1314,
+    "totalChunks": 10000
+  }
+}

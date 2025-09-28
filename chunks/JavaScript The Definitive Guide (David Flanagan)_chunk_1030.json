@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1030",
+  "content": "totype.toString em um objeto cuja classe queríamos determinar.) O primeiro argumento \nde call() e de apply() é o objeto em que a função vai ser chamada; esse argumento é o contexto da \nchamada e se torna o valor da palavra-chave \nthis dentro do corpo da função. Para chamar a função \nf() como um método do objeto o (não passando argumento algum), você poderia usar call() ou \napply():\nf.call(o);\nf.apply(o);\nAs duas linhas de código anteriores são semelhantes ao seguinte (que presume que o ainda não tem \numa propriedade chamada m):\no.m = f;     // Torna f um método temporário de o.\no.m();      //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1030,
+    "totalChunks": 10000
+  }
+}

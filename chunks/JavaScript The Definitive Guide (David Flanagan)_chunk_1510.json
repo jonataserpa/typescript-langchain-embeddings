@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1510",
+  "content": "le.log(p);         // Imprime os índices de array 0, 1, 2\nfor each (let v in a) console.log(v);   // Imprime elementos de array 'one', 'two', \n'three'\nNote que o laço for/each não se limita aos elementos de um array – ele enumera o valor de qualquer \npropriedade enumerável do array, incluindo métodos enumeráveis herdados pelo array. Por isso, \nnormalmente não é recomendado usar o laço for/each com arrays. Isso é especialmente verdade \npara código que precisa interagir com versões JavaScript anteriores à ECMAScript 5, em que não é \npossível tornar não enumeráveis propriedades e métodos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1510,
+    "totalChunks": 10000
+  }
+}

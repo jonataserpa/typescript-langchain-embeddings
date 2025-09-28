@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2334",
+  "content": "uzir um efeito semelhante com posicionamento. -->\n<span style=\"position:relative;\">\n Shadowed        <!-- Este é o texto que projeta a sombra. -->\n\n412          Parte II     JavaScript do lado do cliente\n  <span style=\"position:absolute; top:3px; left:3px; z-index:-1; color: #888\">\n    hadowed  <!-- Esta é a sombra -->\n  </span>\n</span>\nO texto a ser sombreado é incluído em um elemento <span> posicionado relativamente. Não há pro-\npriedades de posição configuradas, de modo que o texto aparece em sua posição normal no fluxo. A \nsombra está em um elemento <span> posicionado de forma absoluta",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2334,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5320",
+  "content": "odo toDataURL( ), 642, 849\n    referência,    849–864\n    retângulos,    631\n    sombras,    639\n    transformações de sistema de coordenadas, 624\nAPI Cross-Document Messaging, 443\nAPI de fl uxo for propriedade innerHTML, 397\nAPI Geolocation, 653–656\n    exemplo demonstrando todos os recursos, 655\n    usando para exibir um mapa, 654\nAPI IndexedDB, 574, 690–698\n    banco de dados de códigos postais dos EUA \n(exemplo), 692–698\nAPI OpenSocial, 261\nAPI POSIX (Unix), uso em Node, 281\nAPI Selectors, 360\nAPI userData (IE), 574\nAPI Web Storage, 443, 573, 690\nAPI XMLHttpRequest, 480\n    Partes básicas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5320,
+    "totalChunks": 10000
+  }
+}

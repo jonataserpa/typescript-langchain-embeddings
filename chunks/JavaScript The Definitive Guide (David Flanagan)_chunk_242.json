@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_242",
+  "content": "inúsculas\nOs objetos RegExp definem vários métodos úteis e as strings também têm métodos que aceitam \nargumentos de RegExp. Por exemplo:\nvar text = \"testing: 1, 2, 3\";  // Exemplo de texto\nvar pattern = /\\d+/g   // Corresponde a todas as instâncias de um ou mais\n                              //    dígitos\npattern.test(text)     // => verdadeiro: existe uma correspondência\ntext.search(pattern)   // => 9: posição da primeira correspondência\ntext.match(pattern)    // => [\"1\", \"2\", \"3\"]: array de todas as correspondências\ntext.replace(pattern, \"#\");     // => \"testing: #, #, #\"\ntext.split(/\\D+/);",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 242,
+    "totalChunks": 10000
+  }
+}

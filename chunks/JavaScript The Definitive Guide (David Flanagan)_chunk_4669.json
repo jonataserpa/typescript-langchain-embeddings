@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4669",
+  "content": "ios relacionados. \nConsulte a Seção 13.6.2.1 para ver os detalhes.\nreadonly HTMLCollection embeds\nUm objeto semelhante a um array de elementos <embed> no documento.\nreadonly HTMLCollection forms\nUm objeto semelhante a um array com todos os elementos Form no documento.\nreadonly Element head\nPara documentos HTML, essa propriedade se refere ao elemento <head>.\nreadonly HTMLCollection images\nUm objeto semelhante a um array com todos os elementos Image no documento.\nreadonly DOMImplementation implementation\nO objeto DOMImplementation desse documento.\nreadonly string lastModified\nEspecifica a data",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4669,
+    "totalChunks": 10000
+  }
+}

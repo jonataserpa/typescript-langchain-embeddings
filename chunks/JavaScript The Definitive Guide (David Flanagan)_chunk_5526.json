@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5526",
+  "content": "o moveTo( ), 861\n    método putImageData( ), 647, 862\n    método quadraticCurveTo( ), 862\n    método rect( ), 862\n    método restore( ), 862\n    método rotate( ), 862\n    método save( ), 863\n    método scale( ), 863\n    método setTransform( ), 863\n    método stroke( ), 863\n    método strokeRect( ), 863\n    método strokeText( ), 636, 863\n    método transform( ), 864\n    método translate( ), 864\n    métodos save( ) e restore( ), 854\nobjeto CharacterData, 371\nobjeto ClientRect, 864\nobjeto CloseEvent, 865\nobjeto Console, 866\n    métodos,    866\nobjeto ConsoleCommandLine, 867\nobjeto CSSRule, 430,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5526,
+    "totalChunks": 10000
+  }
+}

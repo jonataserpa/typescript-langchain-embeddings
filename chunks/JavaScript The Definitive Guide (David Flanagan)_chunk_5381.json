@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5381",
+  "content": "visão geral do DOM, 352\ndocumentos Web\n    JavaScript em, 302\nDojo, 330\n    biblioteca Sizzle, 360\n    dojox.secure,    261\nDOM (Document Object Model)\n    cancelamento de evento na versão draft do módu-\nlo Events atual, 452\n    especifi cação DOM Level 2 Events, 317\n    especifi cação DOM Level 3 Events, 435, 440, 441\n        método    proposto,    904\n        propriedade    key,    473\n        propriedades    propostas,    903–904\n    evento textinput, 469\n    implementação de tipos como classes, 364\n    objetos XML e padrão E4X, 277\n    visão geral, 352\ndomínios\n    atributo domínio,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5381,
+    "totalChunks": 10000
+  }
+}

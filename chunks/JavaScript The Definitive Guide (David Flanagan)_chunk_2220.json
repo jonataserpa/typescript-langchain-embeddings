@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2220",
+  "content": "u onchange. A terceira coluna da Tabela 15-1 especifica a principal rotina de tra-\ntamento de evento de cada elemento de formulário. Em geral, os elementos de formulário que são \nbotões disparam um evento click quando ativados (mesmo quando essa ativação acontece por meio \ndo teclado, em vez de um clique de mouse). Outros elementos de formulário disparam um evento \nchange quando o usuário muda o valor representado pelo elemento. Isso acontece quando o usuário \ninsere texto em um campo de texto ou seleciona uma opção em uma lista suspensa. Note que esse \nevento não é disparado sempre que o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2220,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5378",
+  "content": "isparando eventos, 533\n    impedindo a jQuery de disparar eventos relacio-\nnados a Ajax, 557\ndisparo de evento síncrono na jQuery, 533\ndispatchEvent( ), objeto EventTarget, 906\ndispatchFormChange( ), objeto Form, 913\ndispatchFormInput( ), objeto Form, 913\ndispositivos móveis, eventos, 436, 444\ndivisão por zero, 33\nDnD (consulte arrastar e soltar)\ndocumentElement, objeto Document, 357, 381–\n382, 877\ndocumentos, 351–401\n    alterando a estrutura usando jQuery, 523–526\n    associando folha de estilo CSS a, 404\n    atributos de elementos, 365–368\n    carregando novos, 335\n    consultando texto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5378,
+    "totalChunks": 10000
+  }
+}

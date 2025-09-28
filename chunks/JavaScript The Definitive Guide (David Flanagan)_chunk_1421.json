@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1421",
+  "content": "de várias linhas, ao início de uma linha.\n$\nCorresponde ao final da string e, em pesquisas de várias linhas, ao final de uma linha.\n\\b\nCorresponde a um limite de palavra. Isto é, corresponde à posição entre um caractere \\w e um caractere \n\\W ou entre um caractere \\w e o início ou o final de uma string. (Note, entretanto, que [\\b] corresponde \na backspace.)\n\\B\nCorresponde a uma posição que não é um limite de palavra.\n(?= p)\nUma declaração de leitura antecipada positiva. Exige que os caracteres seguintes correspondam ao padrão \np, mas não inclui esses caracteres na correspondência.\n(?! p)\nUma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1421,
+    "totalChunks": 10000
+  }
+}

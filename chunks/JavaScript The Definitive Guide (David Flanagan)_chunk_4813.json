@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4813",
+  "content": "DOM_KEY_LOCATION_STANDARD, DOM_KEY_LOCATION_\nLEFT, DOM_KEY_LOCATION_RIGHT, DOM_KEY_LOCATION_NUMPAD, DOM_KEY_LOCATION_MOBILE, DOM_KEY_LO-\nCATION_JOYSTICK.\nreadonly boolean repeat\nPara eventos de teclado, essa propriedade será true se o evento foi causado porque uma tecla \nfoi pressionada por tempo suficiente para começar a se repetir.\nMétodo proposto\nAssim como as propriedades propostas listadas anteriormente, o método listado aqui foi proposto \nem uma versão preliminar do padrão, mas ainda não foi implementado por nenhum navegador.\nboolean getModifierState(string modificadora)\nPara eventos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4813,
+    "totalChunks": 10000
+  }
+}

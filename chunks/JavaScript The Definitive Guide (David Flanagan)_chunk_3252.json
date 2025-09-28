@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3252",
+  "content": "ma mais geral, \nn pode ser uma fórmula da forma xn ou xn+y, onde x e y são inteiros e n é a \nletra n literal. Assim, nth-child(3n+1) seleciona o primeiro, quarto e sétimo (etc.) elementos.\nNote que esse filtro usa índices baseados em um, de modo que um elemento que é o primeiro filho \nde seu pai é considerado ímpar e é correspondido por \n3n+1 e não 3n. Compare isso com os filtros \n:even e :odd, que filtram de acordo com a posição baseada em zero de um elemento na lista de \ncorrespondências.\n:odd\nCorresponde aos elementos com índices ímpares (baseados em zero) na lista. Note que os elementos 1",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3252,
+    "totalChunks": 10000
+  }
+}

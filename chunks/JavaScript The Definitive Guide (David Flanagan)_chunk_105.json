@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_105",
+  "content": "compatibilidade com o IE8 e anteriores\n            image.attachEvent(\"onclick\",    hide);\n }\n    // Esta é a função de rotina para tratamento de evento registrada anteriormente\n    function hide(event) { event.target.style.visibility = \"hidden\"; }\n};\nOs capítulos 15, 16 e 17 explicam como usar JavaScript para fazer scripts do conteúdo (HTML), \nda apresentação (CSS) e do comportamento (tratamento de eventos) de páginas Web. As APIs des-\ncritas nesses capítulos são um pouco complexas e, até recentemente, cheias de incompatibilidades \ncom os navegadores. Por esses motivos, a maioria dos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 105,
+    "totalChunks": 10000
+  }
+}

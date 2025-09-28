@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2337",
+  "content": "har uma linha embaixo de um elemento, por exemplo, basta especificar sua propriedade \nborder-bottom. É possível até especificar a largura, estilo ou a cor de um único lado de um elemento \ncom propriedades como border-top-width e border-left-color.\nEm CSS3 é possível arredondar todos os cantos de uma borda com a propriedade\n border-radius e \narredondar cantos individuais com nomes de propriedade mais explícitos. Por exemplo:\nborder-top-right-radius: 50px;\nAs propriedades margin e padding especificam ambas espaço em branco em torno de um elemento. \nA diferença importante é que margin especifica",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2337,
+    "totalChunks": 10000
+  }
+}

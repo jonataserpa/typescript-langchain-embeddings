@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3318",
+  "content": "podem ser salvos no disco rígido e armazenados permanentemente, para que \nestejam disponíveis meses ou anos depois.\nExistem várias formas de armazenamento do lado do cliente:\nWeb Storage\nWeb Storage é uma API originalmente definida como parte de HTML5, mas que foi desmem-\nbrada como uma especificação independente. Essa especificação ainda é preliminar (draft), \nmas está parcialmente implementada (e de forma a operar em conjunto) em todos os nave-\ngadores atuais, incluindo o IE8. Essa API consiste nos objetos \nlocalStorage e sessionStorage, \nque são basicamente arrays associativos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3318,
+    "totalChunks": 10000
+  }
+}

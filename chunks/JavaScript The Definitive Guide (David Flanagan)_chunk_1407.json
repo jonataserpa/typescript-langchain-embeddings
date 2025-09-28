@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1407",
+  "content": "regular. Isso é feito colocando-se um ou mais dígitos \ndepois do caractere \n\\. Os dígitos se referem à posição da subexpressão entre parênteses dentro da ex-\npressão regular. Por exemplo, \\1 se refere à primeira subexpressão e \\3 se refere à terceira. Note que, \ncomo as subexpressões podem ser aninhadas dentro de outras, é a posição do parêntese esquerdo que \nconta. Na expressão regular a seguir, por exemplo, a subexpressão aninhada ([Ss]cript) é referida \ncom \\2:\n/([Jj]ava([Ss]cript)?)\\sis\\s(fun\\w*)/\nUma referência a uma subexpressão anterior de uma expressão regular não se refere ao padrão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1407,
+    "totalChunks": 10000
+  }
+}

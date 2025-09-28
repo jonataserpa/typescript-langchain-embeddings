@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1032",
+  "content": "correspondente.\nQualquer argumento para \ncall(), após o primeiro argumento de contexto da chamada, é o valor \npassado para a função chamada. Por exemplo, para passar dois números para a função f() e chamá-la \ncomo se fosse um método do objeto o, você poderia usar o código a seguir:\nf.call(o, 1, 2);\nO método apply() é como o método call(), exceto que os argumentos a serem passados para a fun-\nção são especificados como um array:\nf.apply(o, [1,2]);\nSe uma função é definida para aceitar um número de argumentos arbitrário, o método apply() per-\nmite chamar essa função no conteúdo de um array de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1032,
+    "totalChunks": 10000
+  }
+}

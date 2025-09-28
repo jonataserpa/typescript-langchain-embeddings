@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1586",
+  "content": "ndereço http://www.mozilla.org/\nrhino/. O Rhino versão 1.7r2 implementa ECMAScript 3, além de várias extensões da linguagem descritas \nno Capítulo 11. O Rhino é um software maduro e novas versões não são lançadas com frequência. Quando \neste livro estava sendo produzido, uma versão de pré-lançamento do 1.7r3 estava disponível no repositó-\nrio de código-fonte e incluía uma implementação parcial de ECMAScript 5.\nO Rhino é distribuído como um arquivo compactado JAR. Inicie-o com uma linha de comando como a \nseguinte:\njava -jar rhino1_7R2/js.jar programa.js\nSe você omitir programa.js, o Rhino vai",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1586,
+    "totalChunks": 10000
+  }
+}

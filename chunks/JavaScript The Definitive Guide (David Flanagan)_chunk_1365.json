@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1365",
+  "content": "es = {};              // As propriedades deste objeto contêm o conjunto\n        this.n = 0;          // Quantos valores existem no conjunto\n        this.add.apply(this, arguments);   // Todos os argumentos são valores a adicionar\n }\n    // Agora define métodos de instância em Set.prototype.\n    // Por brevidade, o código foi omitido aqui\n    Set.prototype.contains = function(value) {\n        // Note que chamamos v2s() e não a pesadamente prefixada Set._v2s()\n        return    this.values.hasOwnProperty(v2s(value));\n    };\n    Set.prototype.size = function() { return this.n; };",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1365,
+    "totalChunks": 10000
+  }
+}

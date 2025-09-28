@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2003",
+  "content": "eguir explicam cada uma dessas técnicas de seleção de elemento.\n15.2.1   Selecionando elementos pela identificação\nQualquer elemento HTML pode ter um atributo id. O valor desse atributo deve ser único dentro \ndo documento – dois elementos no mesmo documento não podem ter a mesma identificação. Você \npode selecionar um elemento com base nessa identificação exclusiva com o método getElementById() \ndo objeto Document. Já usamos esse método no Capítulo 13 e no Capítulo 14:\nvar section1 = document.getElementById(\"section1\");\nEssa é a maneira mais simples e normalmente usada de selecionar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2003,
+    "totalChunks": 10000
+  }
+}

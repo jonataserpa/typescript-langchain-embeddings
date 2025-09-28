@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1471",
+  "content": "ico ou uma string literal. Os subconjuntos \nseguros substituem os operadores \n[] por funções globais para consultar e configurar proprieda-\n\nCapítulo 11     Subconjuntos e extensões de JavaScript      261\nJavaScript básica\ndes de objeto – essas funções fazem verificações em tempo de execução para garantir que não \nsejam usadas a fim de acessar propriedades proibidas.\nAlgumas dessas restrições, como a proibição do uso de \neval() e da instrução with, não trazem pro-\nblemas para os programadores, pois esses recursos não são comumente usados na programação com \nJavaScript. Outras, como a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1471,
+    "totalChunks": 10000
+  }
+}

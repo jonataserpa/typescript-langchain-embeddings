@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2039",
+  "content": "na somente o primeiro (na ordem do documento) elemento coinciden-\nte ou null, caso não haja elemento coincidente.\nEsses dois métodos também são definidos em Elements (e também em nós DocumentFragment; \nconsulte a Seção 15.6.4). Quando chamados em um elemento, o seletor especificado é comparado \nno documento inteiro e, então, o conjunto resultante é filtrado para que inclua somente os descen-\ndentes do elemento especificado. Isso pode parecer absurdo, pois significa que a string do seletor \npode incluir ascendentes do elemento em relação ao qual é comparado.\nNote que CSS define pseudoelementos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2039,
+    "totalChunks": 10000
+  }
+}

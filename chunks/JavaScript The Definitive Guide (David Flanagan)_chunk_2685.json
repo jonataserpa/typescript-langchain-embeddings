@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2685",
+  "content": "ma operação copiar ou mover.\n            if (e.dataTransfer.dropEffect === \"move\")\n                  target.parentNode.removeChild(target);\n  }\n        // Esta é a função utilitária que usamos em ondragenter e ondragleave.\n        // Retorna true se a é filho de b.\n        function ischild(a,b) {\n            for(; a; a = a.parentNode) if (a === b) return true;\n            return    false;\n  }\n }\n});\n17.8   Eventos de texto\nOs navegadores têm três eventos legados para entrada de teclado. Os eventos keydown e keyup são \nde baixo nível e são abordados na próxima seção. No entanto, o evento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2685,
+    "totalChunks": 10000
+  }
+}

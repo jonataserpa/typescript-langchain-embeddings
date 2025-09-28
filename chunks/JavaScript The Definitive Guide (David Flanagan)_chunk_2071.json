@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2071",
+  "content": "re têm objetos Function (ou null) \ncomo valores. A especificação HTML5 define alguns atributos (como o atributo form de <input> \ne elementos relacionados) que convertem identificações de elemento em objetos Element reais. \nPor fim, o valor da propriedade style de qualquer elemento HTML é um objeto CSSStyleDe-\nclaration, em vez de uma string. Vamos ver muito mais sobre essa importante propriedade, no \nCapítulo 16.\nNote que essa API baseada em propriedades para obter e configurar valores de atributo não defi-\nne nenhuma maneira de remover um atributo de um elemento. Em especial, o operador",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2071,
+    "totalChunks": 10000
+  }
+}

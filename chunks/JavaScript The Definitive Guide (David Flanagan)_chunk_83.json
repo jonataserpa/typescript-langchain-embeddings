@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_83",
+  "content": "//    cláusula.\n}            // Observe as instruções return aninhadas dentro de \n                //    if/else\n.\nfunction factorial(n) { // Uma função para calcular fatoriais\n    var product = 1; // Começa com o produto de 1\n    while(n > 1) { // Repete as instruções que estão em {}, enquanto a\n             // expressão em () for verdadeira\n        product *= n; // Atalho para product = product * n;\n        n--;  // Atalho para n = n – 1\n    }         // Fim do laço\n    return product;    // Retorna o produto\n}\nfactorial(4)           // => 24: 1*4*3*2\n\n8          Capítulo     1",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 83,
+    "totalChunks": 10000
+  }
+}

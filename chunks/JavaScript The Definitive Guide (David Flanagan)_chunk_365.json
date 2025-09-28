@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_365",
+  "content": "função; 0 é a expressão de argumento.\nMath.max(x,y,z)       // Math.max é a função; x, y e z são os argumentos.\na.sort()              // a.sort é a função; não há argumentos.\nQuando uma expressão de invocação é avaliada, a expressão de função é avaliada primeiro e depois \nas expressões de argumento são avaliadas para produzir uma lista de valores de argumento. Se o valor \nda expressão de função não é um objeto que possa ser chamado, é lançado um TypeError. (Todas as \nfunções podem ser chamadas. Objetos hospedeiros também podem ser chamados, mesmo que não \nsejam funções. Essa distinção é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 365,
+    "totalChunks": 10000
+  }
+}

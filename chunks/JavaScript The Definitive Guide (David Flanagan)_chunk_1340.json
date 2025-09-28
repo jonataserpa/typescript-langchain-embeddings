@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1340",
+  "content": "this\n            names = Object.getOwnPropertyNames(this);\n        else if (arguments.length == 1 && Array.isArray(arguments[0]))\n            names = arguments[0];   // Ou um array de nomes\n        else                  // Ou os nomes que estão na lista de argumentos\n            names = Array.prototype.splice.call(arguments, 0);\n        // Retorna um novo objeto Properties representando as propriedades nomeadas\n        return new Properties(this, names);\n }\n    // A transforma uma nova propriedade não enumerável de Object.prototype.\n    // Esse é o único valor exportado desse escopo de função",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1340,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4255",
+  "content": "que objetos RegExp possam ser serializados\nvar text = JSON.stringify(patterns, function(key, value) {\n    if (value.constructor === RegExp) return value.toString();\n    return    value;\n});\n// Ou obtém a mesma substituição como segue:\nRegExp.prototype.toJSON = function() { return this.toString(); }\nConsulte também\nJSON.parse(), Seção 6.9\nMath\nfunções e constantes matemáticas\nSinopse\nMath.constante\nMath.função()\nConstantes\nMath.E\nA constante e, a base do logaritmo natural.\n\n774          Parte III     Referência de JavaScript básica\nMath.LN10\nO logaritmo natural de 10.\nMath.LN2\nO logaritmo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4255,
+    "totalChunks": 10000
+  }
+}

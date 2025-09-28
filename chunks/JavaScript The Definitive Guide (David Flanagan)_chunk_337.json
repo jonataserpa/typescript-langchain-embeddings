@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_337",
+  "content": "ambém dentro de qualquer função aninhada dentro dessa função.\nSe pensarmos nas variáveis locais como propriedades de algum tipo de objeto definido pela imple-\nmentação, então há outro modo de considerarmos o escopo das variáveis. Cada trecho de código \nJavaScript (código ou funções globais) tem um encadeamento de escopo associado. Esse encadeamento \nde escopo é uma lista ou encadeamento de objetos que define as variáveis que estão “no escopo” para \nesse código. Quando JavaScript precisa pesquisar o valor de uma variável \nx (um processo chamado \nsolução de variável), ela começa examinando o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 337,
+    "totalChunks": 10000
+  }
+}

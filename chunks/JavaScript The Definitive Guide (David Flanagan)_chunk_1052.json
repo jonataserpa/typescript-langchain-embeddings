@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1052",
+  "content": "ne novas variáveis e funções em seu próprio escopo privado. Raramente deve \nser necessário usar essa construtora em seu código.\n\n186          Parte     I     JavaScript     básica\n8.7.7   Objetos que podem ser chamados\nAprendemos na Seção 7.11 que existem objetos “semelhantes a arrays” que não são arrays reais, mas \npodem ser tratados como arrays para a maioria dos propósitos. Existe uma situação semelhante para \nfunções. Um objeto que pode ser chamado é qualquer objeto que possa ser chamado em uma expres-\nsão de invocação de função. Todas as funções podem ser chamadas, mas nem todos os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1052,
+    "totalChunks": 10000
+  }
+}

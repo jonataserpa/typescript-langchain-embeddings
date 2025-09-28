@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3172",
+  "content": "pecificada. jQuery.get() faz isso usando \numa requisição HTTP GET e jQuery.post() usa uma requisição POST, mas fora isso essas duas \nfunções utilitárias são iguais. Esses dois métodos recebem os mesmos três argumentos que jQuery.\ngetJSON(): o URL solicitado, uma string de dados ou objeto opcional e uma função callback tecnica-\nmente opcional, mas quase sempre utilizada. A função callback é invocada com os dados retornados \ncomo seu primeiro argumento, a string “success” como segundo e o objeto XMLHttpRequest (se \nhouve um) como terceiro:\n// Solicita texto do servidor e o exibe em um diálogo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3172,
+    "totalChunks": 10000
+  }
+}

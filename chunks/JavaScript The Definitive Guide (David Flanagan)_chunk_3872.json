@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3872",
+  "content": "ltar, \nconforme explicado na Seção 22.6.1. Os objetos File também podem ser obtidos usando-se a \nAPI Filesystem, o que é abordado na Seção 22.7.\nUma vez que você tenha um Blob, existem várias coisas que podem ser feitas com ele, muitas delas \nsimétricas aos itens anteriores:\n\nCapítulo 22     APIs de HTML5      677\nJavaScript do\n lado do cliente\n •   Um Blob pode ser enviado para outra janela ou thread worker com postMessage(). Consulte a \nSeção 22.3 e a Seção 22.4.\n •   Um Blob pode ser armazenado em um banco de dados do lado do cliente. Consulte a Seção \n22.8.\n •   Um Blob pode ser carregado",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3872,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3563",
+  "content": "ente em um canvas grande, fora da tela, para produzir elementos gráficos de alta resolução.\n21.4.1   Desenhando linhas e preenchendo polígonos\nPara desenhar linhas em um canvas e para preencher as áreas envolvidas por essas linhas, você co-\nmeça definindo um caminho. Um caminho é uma sequência de um ou mais subcaminhos. Um \nsubcaminho é uma sequência de dois ou mais pontos conectados por segmentos de linha (ou, con-\nforme vamos ver posteriormente, por segmentos de curva). Inicie um novo caminho com o método \nbeginPath(). Inicie um novo subcaminho com o método moveTo(). Uma vez que tenha",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3563,
+    "totalChunks": 10000
+  }
+}

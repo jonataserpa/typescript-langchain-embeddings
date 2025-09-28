@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2751",
+  "content": "r um transporte Comet confiável independente de plataforma, sendo que a \nmaioria dos desenvolvedores de aplicativo Web que utilizam a arquitetura Comet conta com os \ntransportes das bibliotecas de estrutura Web, como a Dojo. Quando este livro estava sendo escrito, \nos navegadores estavam começando a implementar uma versão preliminar de especificação relacio-\nnada a HTML5, conhecida como Server-Sent Events, que define uma API Comet simples na forma \nde um objeto EventSource. A Seção 18.3 aborda a API EventSource e demonstra uma simulação \nsimples dela, usando XMLHttpRequest.\nÉ possível",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2751,
+    "totalChunks": 10000
+  }
+}

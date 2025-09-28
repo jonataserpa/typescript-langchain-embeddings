@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1495",
+  "content": "sintaxe que imita a sintaxe de array e objeto literal.\n\nCapítulo 11     Subconjuntos e extensões de JavaScript      265\nJavaScript básica\nQuando uma atribuição de desestruturação ocorre, um ou mais valores são extraídos (“desestrutura-\ndos”) do valor da direita e armazenados nas variáveis nomeadas da esquerda. Além de seu uso com o \noperador de atribuição normal, a atribuição de desestruturação também pode ser usada na inicializa-\nção de variáveis recentemente declaradas com var e let.\nA atribuição de desestruturação é simples e poderosa ao trabalhar com arrays e é especialmente \nútil com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1495,
+    "totalChunks": 10000
+  }
+}

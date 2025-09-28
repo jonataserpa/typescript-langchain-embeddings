@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1721",
+  "content": "id window.open('about:blank');\">Open Window</a>\nSem o operador void nesse URL, o valor de retorno da chamada do método Window.open() seria (em \nalguns navegadores) convertido em uma string e exibido, e o documento corrente seria sobrescrito \npor um documento que contivesse este texto:\n[object Window]\nAssim como os atributos de tratamento de evento HTML, os URLs de JavaScript são remanescentes \ndos primórdios da Web e geralmente são evitados na HTML moderna. Os URLs javascript: têm \numa função útil a desempenhar fora de documentos HTML. Se você precisa testar um pequeno \ntrecho de código",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1721,
+    "totalChunks": 10000
+  }
+}

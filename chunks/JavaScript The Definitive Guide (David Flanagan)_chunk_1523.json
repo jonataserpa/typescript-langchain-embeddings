@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1523",
+  "content": "mpo. (Se você passar um segundo argumento \npara Iterator(), ela passará esse argumento para o método __iterator__().)\nNo entanto, há outro propósito importante para a função\n Iterator(). Quando ela é chamada em um \nobjeto (ou array) que não tem um método __iterator__(), retorna um iterador iterável personaliza-\ndo para o objeto. Cada chamada do método next() desse iterador retorna um array de dois valores. \nO primeiro elemento do array é um nome de propriedade e o segundo é o valor da propriedade \nnomeada. Como esse objeto é um iterador iterável, você pode usá-lo com um laço for/in, em vez de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1523,
+    "totalChunks": 10000
+  }
+}

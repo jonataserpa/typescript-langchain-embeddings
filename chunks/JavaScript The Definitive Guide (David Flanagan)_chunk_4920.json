@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4920",
+  "content": "erior. Espelha o atributo autocomplete. Consulte também a propriedade autocomplete \nde Form.\nboolean checked\nPara elementos de entrada que podem ser marcados, essa propriedade especifica se o elemento está \n“marcado” ou não. Configurar essa propriedade muda a aparência visual do elemento de entrada.\n\n      Referência de JavaScript do lado do cliente      927\nReferência de \nJavaScript do lado \ndo cliente\nboolean defaultChecked\nPara elementos de entrada que podem ser marcados, essa propriedade especifica o estado da \nmarcação inicial do elemento. Quando o formulário é redefinido, a propriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4920,
+    "totalChunks": 10000
+  }
+}

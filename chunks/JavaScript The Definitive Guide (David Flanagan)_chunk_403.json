@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_403",
+  "content": "tão, o número 1 é concatenado com a nova string para produzir \no resultado final.\n4.8.2   Operadores aritméticos unários\nOs operadores unários modificam o valor de um único operando para produzir um novo valor. Em \nJavaScript, todos os operadores unários têm precedência alta e todos são associativos à direita. Todos \noperadores aritméticos unários descritos nesta seção (+, -, ++ e --) convertem seu único operando \nem um número, se necessário. Note que os caracteres de pontuação + e – são usados tanto como \noperadores unários como binários.\nOs operadores aritméticos unários são os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 403,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4881",
+  "content": "o poderia ser cau-\nsado por um erro da rede, por exemplo.\n\n      Referência de JavaScript do lado do cliente      919\nReferência de \nJavaScript do lado \ndo cliente\nunsigned short TIMEOUT = 3\nA localização não pode ser determinada dentro do tempo designado (consulte a opção timeout \ndescrita em Geolocation).\nPropriedades\nreadonly unsigned short code\nEssa propriedade terá um dos três valores anteriores.\nreadonly string message\nUma mensagem fornecendo mais detalhes sobre o erro. A mensagem se destina a ajudar na \ndepuração e não é conveniente para exibição aos usuários finais.\nGeoposition\num",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4881,
+    "totalChunks": 10000
+  }
+}

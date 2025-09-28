@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5550",
+  "content": "propriedade top, 347\n    propriedade URL, 982\n    propriedades,    985\n    propriedades localStorage e sessionStorage, 575\n    propriedades    pageXOff set e pageYOff set, 381–\n382\n    recursos disponíveis para objetos WorkerGlobalS-\ncope, 668\n    rotina de tratamento de evento onbeforeunload, \n450\n    rotina de tratamento de evento onload, 301\n    rotinas de tratamento de evento, 991\n    rotinas de tratamento de evento direcionadas ao \nnavegador como um todo, 445\nobjeto WindowProxy, 350\nobjeto Worker, 666, 992\nobjeto WorkerGlobalScope, 667, 993\n    propriedades,    668\nobjeto WorkerLocation,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5550,
+    "totalChunks": 10000
+  }
+}

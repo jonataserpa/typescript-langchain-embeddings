@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3891",
+  "content": "mente, ele implementa um “alvo \nde soltura” que capta eventos arrastar e soltar envolvendo arquivos. Então, quando o usuário solta \num ou mais arquivos no alvo de soltura, o exemplo usa \ncreateObjectURL() para obter um URL para \ncada um e, então, cria elementos <img> para exibir miniaturas das imagens referenciadas por esses \nURLs.\nExemplo 22-10 Exibindo arquivos de imagem soltos com URLs de Blob\n<!DOCTYPE html>\n<html><head>\n<script>\n// Quando este livro estava sendo escrito, o Firefox e o Webkit discordavam quanto ao\n// nome da função createObjectURL()\nvar getBlobURL = (window.URL &&",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3891,
+    "totalChunks": 10000
+  }
+}

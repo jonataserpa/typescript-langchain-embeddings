@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_204",
+  "content": "//              Trigonometria:              também Math.cos, Math.atan, etc.\nMath.log(10) // Logaritmo natural de 10\nMath.log(100)/Math.LN10  // Logaritmo de base 10 de 100\nMath.log(512)/Math.LN2   // Logaritmo de base 2 de 512\nMath.exp(3) // Math.E ao cubo\nConsulte o objeto Math na seção de referência para ver detalhes completos sobre todas as funções \nmatemáticas suportadas por JavaScript.\nA aritmética em JavaScript não gera erros em casos de estouro, estouro negativo ou divisão por \nzero. Quando o resultado de uma operação numérica é maior do que o maior número representável",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 204,
+    "totalChunks": 10000
+  }
+}

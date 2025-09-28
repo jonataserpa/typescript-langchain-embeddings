@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5581",
+  "content": "propriedade cssRules, CSSStyleSheet, 430, 871\npropriedade cssText\n    objeto CSSRule, 869\n    objeto CSSStyleDeclaration, 422, 430, 870\npropriedade ctrlKey, 439, 455, 472\n    objeto Event, 900\npropriedade currentStyle\n    no Internet Explorer (IE), 426\n    objeto Element, 887–888\npropriedade currentTarget, objeto Event, 529, 900\npropriedade data\n    nó    Text,    977\n    objeto CharacterData, 371\n    objeto Comment, 865\n    objeto Event, 441, 469, 530, 903–904\n    objeto ImageData, 673, 926\n    objeto MessageEvent, 662, 955\n    objeto ProcessingInstruction, 966\npropriedade dataset, objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5581,
+    "totalChunks": 10000
+  }
+}

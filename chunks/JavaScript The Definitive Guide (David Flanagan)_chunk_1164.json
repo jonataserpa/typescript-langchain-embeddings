@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1164",
+  "content": "vez de perguntar “qual é a classe desse objeto?”, perguntamos “o que esse objeto pode fazer?” Essa \nestratégia de programação é comum em linguagens como Python e Ruby e se chama tipagem do pato, \npor causa desta frase (frequentemente atribuída ao poeta James Whitcomb Riley):\nQuando vejo um pássaro que caminha como um pato, nada como um pato e grasna como um pato, \nchamo esse pássaro de pato.\nPara programadores JavaScript, essa definição pode ser entendida como “se um objeto caminha, \nnada e grasna como um Pato, então podemos tratá-lo como um Pato, mesmo que não herde do \nobjeto protótipo da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1164,
+    "totalChunks": 10000
+  }
+}

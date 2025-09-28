@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1948",
+  "content": "tras \njanelas. Isso é discutido com mais detalhes na Seção 14.8.3. Quando a política da mesma origem \nimpede que os scripts de duas janelas distintas interajam diretamente, HTML5 fornece uma API de \npassagem de mensagens baseada em eventos para comunicação indireta. Você pode ler sobre isso na \nSeção 22.3.\n\nCapítulo 14     O objeto Window      345\nJavaScript do\n lado do cliente\n14.8.1   Abrindo e fechando janelas\nVocê pode abrir uma nova janela (ou guia; normalmente isso é uma opção de configuração do na-\nvegador) de navegador Web com o método open() do objeto Window. Window.open() carrega o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1948,
+    "totalChunks": 10000
+  }
+}

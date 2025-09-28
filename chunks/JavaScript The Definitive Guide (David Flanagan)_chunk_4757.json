@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4757",
+  "content": "oltura)\nonerror*\no carregamento do recurso falhou (normalmente devido a um erro de rede)\nonfocus*\no\n elemento ganha o foco do teclado\n(continua)\n\n894          Parte IV     Referência de JavaScript do lado do cliente\nRotina de tratamento de eventoChamada quando...\noninput\na entrada ocorre em um elemento de formulário (disparado mais frequentemente do que \nonchange)\nonkeydown\no usuário pressiona uma tecla\nonkeypress\num pressionamento de tecla gera um caractere imprimível\nonkeyup\no usuário solta uma tecla\nonload*\no carregamento do recurso (por exemplo, de <img>) foi concluído\nonmousedown\no",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4757,
+    "totalChunks": 10000
+  }
+}

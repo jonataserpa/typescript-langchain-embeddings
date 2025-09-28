@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5123",
+  "content": "ansferência de dados para um ProgressEvent \ne pode ser calculada como:\n        var percentComplete = Math.floor(100*e.loaded/e.total);\nreadonly unsigned long loaded\nQuantos bytes foram transferidos até o momento.\nreadonly unsigned long total\nO número total de bytes a serem transferidos, caso esse valor seja conhecido; caso contrário, \n0. Essa informação pode vir da propriedade size de um Blob ou do cabeçalho Content-Length \nretornado por um servidor Web, por exemplo.\nScreen\ninformações sobre a tela\nA propriedade \nscreen de um Window se refere a um objeto Screen. As propriedades desse objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5123,
+    "totalChunks": 10000
+  }
+}

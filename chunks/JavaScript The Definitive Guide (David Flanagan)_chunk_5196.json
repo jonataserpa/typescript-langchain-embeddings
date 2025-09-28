@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5196",
+  "content": "subprotocolo. Se o argumento é especificado, essa é a maneira de \no cliente informar ao servidor com quais protocolos de comunicação ou quais versões de protocolo \né capaz de “falar”. O servidor deve escolher um e informar ao cliente como parte do processo de co-\nnexão. protocols também pode ser especificado como uma única string, em vez de um array – nesse \ncaso, é tratado como um array de comprimento 1.\nConstantes\nEstas constantes são os valores da propriedade readyState.\nunsigned short CONNECTING = 0\nUm processo de conexão está em andamento.\nunsigned short OPEN = 1\nO WebSocket está",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5196,
+    "totalChunks": 10000
+  }
+}

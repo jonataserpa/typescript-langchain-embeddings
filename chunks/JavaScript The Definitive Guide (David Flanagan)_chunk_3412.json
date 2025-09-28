@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3412",
+  "content": "o \nna cache, qualquer carregamento subsequente será feito a partir da cache. Quando um aplicativo \né carregado a partir da cache, qualquer recurso que exija deve estar listado no manifesto. Recursos \nnão listados não serão carregados. Essa política simula o estado off-line. Se um aplicativo simples \ncolocado na cache pode ser executado a partir de lá, também pode ser executado enquanto o \nnavegador está off-line. Em geral, os aplicativos Web mais complicados não podem colocar na \ncache todos os recursos que exigem. Eles ainda podem usar a cache de aplicativo se tiverem um \nmanifesto mais",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3412,
+    "totalChunks": 10000
+  }
+}

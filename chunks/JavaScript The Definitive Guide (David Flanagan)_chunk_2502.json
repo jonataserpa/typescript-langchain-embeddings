@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2502",
+  "content": "padroniza.\nQuando o usuário gira a roda do mouse, os navegadores disparam um evento mousewheel (ou, \nno Firefox, um evento DOMMouseScroll). O objeto evento passado com esses eventos contém \npropriedades que especificam o quanto e em qual direção a roda girou. A especificação Level 3 \nEvents do DOM está padronizando um evento wheel multidimensional mais geral que, se for \nimplementado, vai substituir mousewheel e DOMMouseScroll. A Seção 17.6 contém um exem-\nplo de evento mousewheel.\n17.1.1.4   Eventos de teclado\nQuando o navegador Web tem foco de teclado, gera eventos sempre que o usuário",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2502,
+    "totalChunks": 10000
+  }
+}

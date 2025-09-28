@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5298",
+  "content": "tTarget\nUm objeto XMLHttpRequestUpload define um conjunto de propriedades de registro de rotinas \nde tratamento de evento para monitorar o andamento do carregamento de um corpo de requisição \nHTTP. Nos navegadores que implementam a especificação XMLHttpRequest Level 2, cada objeto \nXMLHttpRequest tem uma propriedade \nupload que se refere a um objeto desse tipo. Para monitorar \n\n1002          Parte IV     Referência de JavaScript do lado do cliente\no andamento do carregamento da requisição, basta configurar essas propriedades com as funções \nde tratamento de evento apropriadas ou chamar os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5298,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1953",
+  "content": "nto vinculado para uma nova janela em branco, para a janela ou quadro \npai ou para a janela de nível superior.\nA propriedade \nname de um objeto Window contém seu nome, caso ele tenha um. Essa propriedade pode \nser gravada e os scripts podem configurá-la como desejarem. Se um nome (que não seja “_blank”) for \npassado para \nWindow.open(), a janela criada por essa chamada vai ter o nome especificado como valor \ninicial de sua propriedade\n name. Se um elemento <iframe> tem um atributo name, o objeto Window que \nrepresenta esse quadro vai usar esse atributo \nname como valor inicial da propriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1953,
+    "totalChunks": 10000
+  }
+}

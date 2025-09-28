@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1401",
+  "content": "sultados esperados. Considere o pa-\ndrão \n/a+b/, que corresponde a uma ou mais letras a, seguidas da letra b. Quando aplicado na string \n“aaab”, ele corresponde à string inteira. Agora vamos usar a versão não gananciosa: /a+?b/. Isso deve \ncorresponder à letra b, precedida pelo menor número de letras a possível. Quando aplicada à mesma \nstring “aaab”, você poderia esperar que correspondesse a apenas uma letra a e à última letra b. Na \nverdade, contudo, esse padrão corresponde à string inteira, exatamente como sua versão gananciosa. \nIsso acontece porque a comparação de padrões de expressões",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1401,
+    "totalChunks": 10000
+  }
+}

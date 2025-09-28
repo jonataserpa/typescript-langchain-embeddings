@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4208",
+  "content": "s que se refere a um objeto Arguments. Esse objeto é um array dos valores passa-\ndos como argumentos para a função. Não confunda isso com a propriedade desaprovada arguments[] \nlistada anteriormente. Consulte a página de referência de Arguments para ver os detalhes.\nConsulte também\nArguments; Capítulo 8, Capítulo 9\nFunction.apply()\nchama uma função como método de um objeto\nSinopse\nfunção.apply(objthis, args)\n\n      Referência de JavaScript básica      761\nReferência de \nJavaScript básica\nArgumentos\nobjthis\nO objeto no qual função será aplicada. No corpo da função, objthis se torna o valor da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4208,
+    "totalChunks": 10000
+  }
+}

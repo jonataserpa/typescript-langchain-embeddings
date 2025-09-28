@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4508",
+  "content": "st para ver \nmaneiras de baixar e carregar Blobs. Consulte a Seção 22.6 para ver uma discussão sobre Blobs e as \nAPIs que os utilizam.\nPropriedades\nreadonly unsigned long size\nO comprimento, em bytes, do Blob.\nreadonly string type\nO tipo MIME do Blob, se ele tiver um, ou a string vazia, caso contrário.\nMétodos\nBlob slice(unsigned long início, unsigned long comprimento, [string tipoConteúdo])\nRetorna um novo Blob representando os comprimento bytes desse Blob, começando no deslocamento \n(offset) início. Se tipoConteúdo for especificado, será usado como a propriedade type do Blob",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4508,
+    "totalChunks": 10000
+  }
+}

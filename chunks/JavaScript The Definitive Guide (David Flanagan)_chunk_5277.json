@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5277",
+  "content": "osta do servidor. O valor dessa propriedade começa em \n0 quando um XMLHttpRequest é criado e aumenta para 4 quando a resposta HTTP comple-\nta é recebida. As constantes listadas anteriormente definem os valores possíveis.\nO valor de \nreadyState nunca diminui, a não ser que abort() ou open() seja chamado em uma \nrequisição que já esteja em andamento.\nTeoricamente, um evento \nreadystatechange é enviado sempre que o valor dessa propriedade \nmuda. Na prática, contudo, um evento é realmente garantido somente quando readyState \nmuda para 4. (Os eventos progress da XHR2 fornecem uma maneira mais",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5277,
+    "totalChunks": 10000
+  }
+}

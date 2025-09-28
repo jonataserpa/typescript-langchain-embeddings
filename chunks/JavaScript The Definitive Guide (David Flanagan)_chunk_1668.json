@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1668",
+  "content": "odem carregar novas informações dinamicamente, conforme \na necessidade, podem ser gráficas em vez de textuais e podem funcionar off-line e salvar dados de \nforma local, para que possam restaurar seus estados quando você visitá-las novamente. Ainda outras \npáginas Web ficam em algum ponto no meio desse espectro e combinam recursos de documentos e \nde aplicativos.\nEste capítulo começa com uma visão geral de JavaScript do lado do cliente. Ele contém um exem-\nplo simples e uma discussão do papel de JavaScript em documentos e em aplicativos Web. Essa \nprimeira seção introdutória também explica o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1668,
+    "totalChunks": 10000
+  }
+}

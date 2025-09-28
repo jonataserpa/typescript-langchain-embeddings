@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_773",
+  "content": "seja, é possível utilizá-los em chamadas de função aninhadas:\n// Cria um objeto selado com protótipo congelado e uma propriedade não enumerável\nvar o = Object.seal(Object.create(Object.freeze({x:1}),\n                        {y: {value: 2, writable: true}}));\n\nCapítulo     6     Objetos          135\nJavaScript básica\n6.9   Serializando   objetos\nSerialização de objeto é o processo de converter o estado de um objeto em uma string a partir da qual \nele pode ser restaurado posteriormente. ECMAScript 5 fornece as funções nativas JSON.stringify() \ne JSON.parse() para serializar e restaurar objetos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 773,
+    "totalChunks": 10000
+  }
+}

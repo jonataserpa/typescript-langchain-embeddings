@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3639",
+  "content": "as> (mesmo que nunca tenha sido adicionado no docu-\nmento e não esteja visível) como fonte de padrão para outro \n<canvas>:\nvar offscreen = document.createElement(\"canvas\");         // Cria um canvas fora da tela\noffscreen.width = offscreen.height = 10;                   // Configura seu tamanho\noffscreen.getContext(\"2d\").strokeRect(0,0,6,6);           // Obtém seu contexto e desenha\nvar pattern = c.createPattern(offscreen,\"repeat\");        // E o utiliza como padrão\nPara preencher (ou traçar) com um gradiente de cor, configure fillStyle (ou strokeStyle) com um \nobjeto CanvasGradient retornado",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3639,
+    "totalChunks": 10000
+  }
+}

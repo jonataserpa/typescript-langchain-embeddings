@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1019",
+  "content": "a variável (ou variáveis) privada. Essa é uma técnica importante, mas \n\n180          Parte     I     JavaScript     básica\ntambém é importante reconhecer quando as closures compartilham inadvertidamente o acesso a \numa variável que não deveriam compartilhar. Considere o código a seguir:\n// Esta função retorna uma função que sempre retorna v\nfunction constfunc(v) { return function() { return v; }; }\n// Cria um array de funções constantes:\nvar funcs = [];\nfor(var i = 0; i < 10; i++) funcs[i] = constfunc(i);\n// A função no elemento 5 do array retorna o valor 5.\nfuncs[5]()   // => 5\nAo se",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1019,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3334",
+  "content": "este capítulo para melhorar a experiên-\ncia do usuário em seu site; não os utilize como mecanismo de coleta de dados que invada a privacidade. \nSe sites demais abusarem do armazenamento no lado do cliente, os usuários vão desabilitá-lo ou limpá-lo \nfrequentemente, o que anularia o propósito e incapacitaria os sites que dependem disso.\n\n576          Parte II     JavaScript do lado do cliente\nvar x = parseInt(localStorage.x);\n// Converte um objeto Date em uma string ao configurar e analisa-o, ao obter\nlocalStorage.lastRead = (new Date()).toUTCString();\nvar lastRead = new",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3334,
+    "totalChunks": 10000
+  }
+}

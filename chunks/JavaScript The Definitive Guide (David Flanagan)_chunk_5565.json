@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5565",
+  "content": "633, 850–851\npáginas Web, 12\n    script de conteúdo, apresentação e comportamen-\nto, 9\npalavra-chave break, 94\npalavra-chave case, 93\npalavra-chave const, 262\npalavra-chave function, 58, 159\n    criando uma variável, 348–349\npalavra-chave let, 262\n    atribuição de desestruturação usada para iniciali-\nzar variáveis, 265\n    usada como inicializador de laço, 263\n    usando como declaração de variável, 263\npalavra-chave new\n    instanciando classes Java, 283\n    precedendo expressões de criação de objeto, 60\npalavra-chave return, uso por funções construtoras, \n165\npalavra-chave this\n    como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5565,
+    "totalChunks": 10000
+  }
+}

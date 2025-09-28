@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1121",
+  "content": "todos associados à classe e não às instâncias.\nUm modo pelo qual JavaScript difere da linguagem Java é que suas funções são valores e não há dis-\ntinção rígida entre métodos e campos. Se o valor de uma propriedade é uma função, essa proprieda-\nde define um método; caso contrário, é apenas uma propriedade ou “campo” normal. Apesar dessa \ndiferença, podemos simular em JavaScript cada uma das quatro categorias de membros de classe da \nlinguagem Java. Em JavaScript existem três objetos diferentes envolvidos em qualquer definição de \nclasse (consulte a Figura 9-1) e as propriedades desses três",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1121,
+    "totalChunks": 10000
+  }
+}

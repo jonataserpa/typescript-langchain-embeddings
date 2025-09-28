@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4331",
+  "content": "stem dois tipos de propriedades JavaScript. Uma propriedade de \ndados tem um valor e três atributos: enumerable, writable e configurable. Uma propriedade de acesso \ntem um método getter e/ou setter, assim como os atributos enumerable e configurable.\nO descritor de uma propriedade de dados é como segue:\n{\n    value:           /* qualquer valor de JavaScript */,\n    writable:        /* verdadeiro ou falso */,\n    enumerable:       /* verdadeiro ou falso */,\n    configurable:    /* verdadeiro ou falso */\n}\nO descritor de uma propriedade de acesso é como segue:\n{\n    get:                /* função",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4331,
+    "totalChunks": 10000
+  }
+}

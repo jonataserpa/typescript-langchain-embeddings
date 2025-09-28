@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4800",
+  "content": "e tratamento de evento com o \n“on” inicial removido – por exemplo, “click”, “load” ou “submit”. Essa propriedade é definida \npor eventos padrão e eventos do IE.\nreadonly Window view\nA janela (chamada de “view” por motivos históricos) na qual o evento foi gerado. Essa pro-\npriedade é definida para todos os eventos de interface com o usuário padrão, como eventos de \nmouse e teclado. Não é suportada em eventos do IE.\nreadonly integer wheelDelta\nPara eventos da roda do mouse, essa propriedade especifica a quantidade de rolagem ocorrida \nno eixo Y. Diferentes navegadores configuram diferentes",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4800,
+    "totalChunks": 10000
+  }
+}

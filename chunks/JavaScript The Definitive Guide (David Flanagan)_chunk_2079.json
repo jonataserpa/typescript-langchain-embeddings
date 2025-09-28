@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2079",
+  "content": "jetos Element. Essa propriedade se refere \na um objeto, o qual tem propriedades que correspondem aos atributos data- com o prefixo removi-\ndo. Assim, dataset.x conteria o valor do atributo data-x. Os atributos hifenizados são mapeados em \nnomes de propriedade com maiúsculas no meio: o atributo data-jquery-test se torna a propriedade \ndataset.jqueryTest.\nComo um exemplo mais concreto, suponha que um documento contém a seguinte marcação:\n<span class=\"sparkline\" data-ymin=\"0\" data-ymax=\"10\">\n1 1 1 2 2 3 4 5 5 4 3 5 6 7 7 4 2 1\n</span>\nSparkline é um pequeno gráfico – frequentemente um gráfico de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2079,
+    "totalChunks": 10000
+  }
+}

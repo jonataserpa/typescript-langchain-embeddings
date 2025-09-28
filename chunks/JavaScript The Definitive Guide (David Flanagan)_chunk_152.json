@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_152",
+  "content": "em de byte (\n\\uFEFF) é tratado como caractere de espaço.\n2.1.3   Sequências de escape Unicode\nAlguns componentes de hardware e software de computador não conseguem exibir ou introduzir o \nconjunto completo de caracteres Unicode. Para ajudar os programadores que utilizam essa tecnolo-\ngia mais antiga, JavaScript define sequências especiais de seis caracteres ASCII para representar qual-\nquer código Unicode de 16 bits. Esses escapes Unicode começam com os caracteres \n\\u e são seguidos \npor exatamente quatro dígitos hexadecimais (usando as letras A–F maiúsculas ou minúsculas). Os \nescapes",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 152,
+    "totalChunks": 10000
+  }
+}

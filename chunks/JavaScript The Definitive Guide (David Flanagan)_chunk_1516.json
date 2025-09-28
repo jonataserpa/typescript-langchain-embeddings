@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1516",
+  "content": "// Tenta chamar seu método next()\n }\n\nCapítulo 11     Subconjuntos e extensões de JavaScript      269\nJavaScript básica\n    catch(e)    {\n        if (e == StopIteration) break;  // Sai do laço em StopIteration\n        else throw e;\n }\n}\nObserve como é estranho usar um objeto iterador em um laço onde o método StopIteration deve \nser manipulado explicitamente. Por causa disso, não utilizamos objetos iteradores diretamente com \nmuita frequência. Em vez disso, usamos objetos iteráveis. Um objeto iterável representa um con-\njunto de valores que podem ser iterados. Um objeto iterável deve",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1516,
+    "totalChunks": 10000
+  }
+}

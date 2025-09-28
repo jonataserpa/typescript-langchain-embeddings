@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2580",
+  "content": "as. Um uso \n\n452          Parte II     JavaScript do lado do cliente\ncomum da captura de evento é no tratamento de arrastos do mouse, onde os eventos de movimento \ndo mouse precisam ser tratados pelo objeto que está sendo arrastado e não os elementos do docu-\nmento sobre os quais é arrastado. Consulte o Exemplo 17-2 para ter uma ideia.\n17.3.7   Cancelamento de evento\nA Seção 17.3.4 explicou que o valor de retorno das rotinas de tratamento de evento registradas como \npropriedades pode ser usado para cancelar a ação padrão do navegador para o evento. Nos navega-\ndores que suportam",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2580,
+    "totalChunks": 10000
+  }
+}

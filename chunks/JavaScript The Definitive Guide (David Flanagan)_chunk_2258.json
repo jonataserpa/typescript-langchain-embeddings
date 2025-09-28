@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2258",
+  "content": "ose() simples na \npropriedade \ninnerHTML de um elemento especificado.\nExemplo 15-10 Uma API de fluxo para a propriedade innerHTML\n// Define uma API \"de fluxo\" simples para configurar o innerHTML de um elemento.\nfunction ElementStream(elt) {\n    if (typeof elt === \"string\") elt = document.getElementById(elt);\n    this.elt = elt;\n    this.buffer = \"\";\n}\n// Concatena todos os argumentos e anexa no buffer\nElementStream.prototype.write = function() {\n    this.buffer += Array.prototype.join.call(arguments, \"\");\n};\n// Como write(), mas adiciona uma nova linha\nElementStream.prototype.writeln =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2258,
+    "totalChunks": 10000
+  }
+}

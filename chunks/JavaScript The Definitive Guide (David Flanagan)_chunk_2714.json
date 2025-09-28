@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2714",
+  "content": "de keydown \nusa a propriedade key do Level 3 do DOM, caso esteja definida. Se não estiver, procura a proprieda-\nde Webkit keyIdentifier e a utiliza. Caso contrário, recorre à propriedade não padronizada keyCode. \nO Exemplo 17-8 começa com um longo comentário explicando o módulo com mais detalhes.\nExemplo 17-8 Uma classe Keymap para atalhos de teclado\n/*\n * Keymap.js: vincula eventos de tecla a funções de tratamento.\n *\n * Este módulo define uma classe Keymap. Uma instância dessa classe representa um\n * mapeamento de identificadores de tecla (definido abaixo) em funções de tratamento. \n *",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2714,
+    "totalChunks": 10000
+  }
+}

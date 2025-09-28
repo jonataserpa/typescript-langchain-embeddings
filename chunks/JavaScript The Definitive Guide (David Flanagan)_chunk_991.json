@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_991",
+  "content": "i++) {\n                var source = arguments[i];\n                for(var prop in source) o[prop] = source[prop];\n   }\n            return    o;\n        };\n }\n    // Se chegamos até aqui, isso significa que o laço for/in não enumerou\n    // a propriedade toString do objeto de teste. Portanto, retorna uma versão\n    // da função extend() que testa explicitamente as propriedades\n    // não enumeráveis de Object.prototype.\n    // E agora verifica as propriedades de caso especial\n    for(var j = 0; j < protoprops.length; j++) {\n        prop = protoprops[j];\n        if",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 991,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3192",
+  "content": "os em qualquer requisição subsequente pelo mesmo URL. Isso instrui o servidor a enviar \numa resposta HTTP 304 “Not Modified”, caso o URL não tenha mudado desde a última vez \nque foi solicitado. Por padrão, esta opção não é configurada e a jQuery não configura nem \nregistra esses cabeçalhos.\nA jQuery transforma uma resposta HTTP 304 no código de status “notmodified”. O status \n“notmodified” não é considerado um erro e esse valor é passado para a callback \nsuccess, em \nvez do código de status normal “success”. Assim, se você configurar a opção\n ifModified, deve \nverificar o código de status em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3192,
+    "totalChunks": 10000
+  }
+}

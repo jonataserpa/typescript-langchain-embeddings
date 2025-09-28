@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1363",
+  "content": "lo (a classe Set, nesse caso) dentro de uma função. Confor-\nme descrito na Seção 8.5, as variáveis e funções definidas dentro de outra função são locais para essa \nfunção e invisíveis fora dela. Na verdade, podemos usar o escopo de uma função (às vezes chamado \nde “função módulo”) como um espaço de nomes privado para nosso módulo. O Exemplo 9-24 mos-\ntra como isso ficaria para nossa classe Set.\nExemplo 9-24 Uma classe Set em uma função módulo\n// Declara uma variável global Set e atribui a ela o valor de retorno dessa função\n// O parêntese de abertura e o nome de função abaixo sugerem que a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1363,
+    "totalChunks": 10000
+  }
+}

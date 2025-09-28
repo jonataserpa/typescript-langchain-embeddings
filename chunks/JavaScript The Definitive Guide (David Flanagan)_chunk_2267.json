@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2267",
+  "content": "rão inseridos. Aqui está um elemento HTML que cria uma região que pode ser editada:\n<div id=\"editor\" contenteditable>\nClick to edit\n</div>\nOs navegadores podem suportar verificação ortográfica automática de campos de formulário e ele-\nmentos \ncontenteditable. Nos navegadores que suportam isso, a verificação pode ser ativada ou de-\nsativada por padrão. Adicione o atributo \nspellcheck para ativar a verificação explicitamente nos \nnavegadores que a suportam. E use \nspellcheck=false para desabilitar a verificação explicitamente \n(quando, por exemplo, um \n<textarea> vai exibir código-fonte ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2267,
+    "totalChunks": 10000
+  }
+}

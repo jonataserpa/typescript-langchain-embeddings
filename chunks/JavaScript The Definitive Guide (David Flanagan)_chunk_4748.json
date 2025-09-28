@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4748",
+  "content": "Attribute(), exceto que o atributo a ser re-\nmovido é especificado pelo URI de namespace e pelo nome local.\nvoid scrollIntoView([boolean topo])\nSe um elemento HTML não está visível na janela, esse método rola o documento para que ele se \ntorne visível. O argumento topo é uma dica opcional sobre se o elemento deve ser posicionado pró-\nximo à parte superior ou inferior da janela. Se for true ou omitido, o navegador vai tentar posicionar \no elemento próximo à parte superior. Se for false, o navegador vai tentar posicioná-lo próximo à \nparte inferior. Para elementos que aceitam o foco do teclado,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4748,
+    "totalChunks": 10000
+  }
+}

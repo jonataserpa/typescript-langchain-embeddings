@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2128",
+  "content": "ntFragment();\n    // Agora itera para trás através dos filhos, movendo cada um para o fragmento.\n    // O último filho de n se torna o primeiro filho de f e vice-versa.\n    // Note que anexar um filho em f o remove automaticamente de n.\n    while(n.lastChild)    f.appendChild(n.lastChild);\n     // Por fim, move os filhos de f, todos de uma vez, de volta para n, tudo de uma só vez.\n    n.appendChild(f);\n}\nO Exemplo 15-6 implementa o método insertAdjacentHTML() (consulte a Seção 15.5.1) usando a \npropriedade innerHTML e um DocumentFragment. Ele também define funções de inserção HTML \ncom nomes",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2128,
+    "totalChunks": 10000
+  }
+}

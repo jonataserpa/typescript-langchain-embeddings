@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1442",
+  "content": "ar \numa string inserida pelo usuário, uma expressão regular deve ser criada em tempo de execução com \nRegExp().\n10.3.1   Propriedades de RegExp\nCada objeto RegExp tem cinco propriedades. A propriedade source é uma string somente de leitura \nque contém o texto da expressão regular. A propriedade \nglobal é um valor booleano somente de \nleitura que especifica se a expressão regular tem o flag g. A propriedade ignoreCase é um valor boo-\nleano somente de leitura que especifica se a expressão regular tem o flag\n i. A propriedade multiline \né um valor booleano somente de leitura que especifica se a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1442,
+    "totalChunks": 10000
+  }
+}

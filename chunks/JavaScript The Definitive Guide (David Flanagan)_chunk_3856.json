@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3856",
+  "content": "omeça no byte 14 do buffer\nlast3.byteLength               // => 6: este modo de exibição tem 6 bytes (3 ints de 16 \n//    bits) de comprimento\nO objeto ArrayBuffer em si tem apenas uma propriedade que retorna seu comprimento:\nlast3.byteLength       // => 6: este modo de exibição tem 6 bytes de comprimento\nlast3.buffer.byteLength         // => 20: mas o buffer subjacente tem 20 bytes\nOs ArrayBuffers são apenas trechos de bytes opacos. Você pode acessar esses bytes com arrays tipa-\ndos, mas um ArrayBuffer não é ele mesmo um array tipado. Contudo, tome cuidado: indexação \nnumérica de array pode",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3856,
+    "totalChunks": 10000
+  }
+}

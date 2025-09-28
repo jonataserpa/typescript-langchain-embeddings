@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1408",
+  "content": "fun\\w*)/\nUma referência a uma subexpressão anterior de uma expressão regular não se refere ao padrão usado \npara essa subexpressão, mas sim ao texto que correspondeu ao padrão. Assim, as referências podem \nser usadas para impor a restrição de separar as partes de uma string que contenham exatamente os \nmesmos caracteres. Por exemplo, a expressão regular a seguir corresponde a zero ou mais caracteres \nentre aspas simples ou duplas. Contudo, ela não exige que as aspas de abertura e fechamento corres-\npondam (isto é, ambas aspas simples ou ambas duplas):\n/['\"][^'\"]*['\"]/\nPara exigir que as aspas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1408,
+    "totalChunks": 10000
+  }
+}

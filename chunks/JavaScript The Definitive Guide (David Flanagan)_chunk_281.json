@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_281",
+  "content": "co)\nNaNtrue       new String(\"one\")\n0\"0\"falsenew Number(0)\n-0\"0\"falsenew Number(-0)\nNaN\"NaN\"falsenew Number(NaN)\nInfinity\"Infinity\"true       new \nNumber(Infinity)\n-Infinity\"-Infinity\"true       new Number(-\nInfinity)\n1 (finito, não zero)\"1\"true       new Number(1)\n{} (qualquer objeto)consulte a Seção \n3.8.3\nconsulte a \nSeção 3.8.3\ntrue\n[] (array vazio)\"\"0true\n[9] (1 elt numérico)\"9\"9true\n['a'] (qualquer outro \narray)\nuse o método join()NaNtrue\nfunction(){} (qualquer \nfunção)\nconsulte a Seção \n3.8.3\nNaNtrue\nAs conversões de valor primitivo para valor primitivo mostradas na tabela são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 281,
+    "totalChunks": 10000
+  }
+}

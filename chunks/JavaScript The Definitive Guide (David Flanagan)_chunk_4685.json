@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4685",
+  "content": "terface Element define um método de mesmo nome que só pesquisa uma subárvore \ndo documento.\nNodeList getElementsByTagNameNS(string namespace, string nomeLocal)\nEsse método funciona como getElementsByTagName(), mas especifica o nome de tag desejado como \numa combinação de URI de namespace e nome local dentro desse espaço de nomes.\nboolean hasFocus()\nEsse método retorna true se o objeto Window desse documento tem o foco do teclado (e, se essa \njanela não é de nível superior, todas as suas ascendentes têm o foco).\nNode importNode(Node nó, boolean profundidade)\nEsse método recebe um nó definido",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4685,
+    "totalChunks": 10000
+  }
+}

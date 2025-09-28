@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3910",
+  "content": "ipt>\n// Lê o arquivo de texto especificado e o exibe no elemento <pre> a seguir\nfunction readfile(f) {\n    var reader = new FileReader();  // Cria um objeto FileReader\n    reader.readAsText(f);           // Lê o arquivo\n    reader.onload = function() {    // Define uma rotina de tratamento de evento\n        var text = reader.result;                        // Este é o conteúdo do arquivo\n        var out = document.getElementById(\"output\");     // Localiza o elemento de saída\n        out.innerHTML = \"\";                              // Limpa-o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3910,
+    "totalChunks": 10000
+  }
+}

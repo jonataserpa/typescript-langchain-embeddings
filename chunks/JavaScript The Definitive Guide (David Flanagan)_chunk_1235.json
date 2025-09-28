@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1235",
+  "content": "função construtora\n    // se estiver disponível e os nomes e valores de todas as propriedades\n    // não herdadas que não são funções.\n    toString: function() {\n        var s = '[';\n        // Se o objeto tem uma construtora e a construtora tem um nome,\n        // usa esse nome de classe como parte da string retornada. Note que\n        // a propriedade name de funções não é padronizada e não é suportada\n        // em qualquer lugar.\n        if (this.constructor && this.constructor.name)\n            s += this.constructor.name + \": \";\n        // Agora enumera todas as propriedades não herdadas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1235,
+    "totalChunks": 10000
+  }
+}

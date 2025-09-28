@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4441",
+  "content": "ara que a primeira letra de todas as palavras em uma string seja maiúscula:\ntext.replace(/\\b\\w+\\b/g, function(word) {\n                          return word.substring(0,1).toUpperCase() +\n                                  word.substring(1);\n                           });\nConsulte também\nRegExp, RegExp.exec(), RegExp.test(), String.match(), String.search(); Capítulo 10\nString.search()\npesquisa uma expressão regular\n\n830          Parte III     Referência de JavaScript básica\nSinopse\nstring.search(expreg)\nArgumentos\nexpreg\nUm objeto RegExp que especifica o padrão a ser procurado em string. Se",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4441,
+    "totalChunks": 10000
+  }
+}

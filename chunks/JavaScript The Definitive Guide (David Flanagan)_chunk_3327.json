@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3327",
+  "content": "tudo que você salva fica no disco rígido do \nusuário na forma não criptografada. Portanto, os dados armazenados ficam acessíveis a usuários curiosos \nque compartilham o acesso ao computador e a software mal-intencionado (como um spyware) que possa \nexistir no computador. Por isso, nenhuma forma de armazenamento no lado do cliente deve ser utilizada \npara senhas, números de conta bancária ou outras informações sigilosas. Lembre-se: apenas porque um \n\nCapítulo 20     Armazenamento no lado do cliente      575\nJavaScript do\n lado do cliente\n20.1   localStorage e sessionStorage\nOs navegadores que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3327,
+    "totalChunks": 10000
+  }
+}

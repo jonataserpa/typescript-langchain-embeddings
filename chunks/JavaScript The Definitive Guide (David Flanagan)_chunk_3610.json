@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3610",
+  "content": "linha são determinados por translações, \nrotações e operações de mudança de escala.\nExemplo 21-6 Um floco de neve de Koch com transformações\nvar deg = Math.PI/180; // Para converter graus em radianos\n// Desenha um fractal de floco de neve de Koch de nível n no contexto canvas c,\n// com o canto inferior esquerdo em (x,y) e comprimento lateral len.\nfunction snowflake(c, n, x, y, len) {\n    c.save();         // Salva a transformação corrente\n    c.translate(x,y);     // Translada a origem para o ponto de partida\n    c.moveTo(0,0);    // Inicia um novo subcaminho na nova origem\n    leg(n);",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3610,
+    "totalChunks": 10000
+  }
+}

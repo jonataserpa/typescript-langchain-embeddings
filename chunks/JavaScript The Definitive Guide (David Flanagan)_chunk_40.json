@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_40",
+  "content": "6.6   Escrevendo scripts de folhas de estilo 429\n\nSumário          xvii\n  17      Tratando  eventos  ........................................................................................................ 433\n17.1   Tipos de eventos 435\n17.2   Registrando rotinas de tratamento de evento 444\n17.3   Chamada de rotina de tratamento de evento 448\n17.4   Eventos de carga de documento 453\n17.5   Eventos   de   mouse   454\n17.6   Eventos de roda do mouse 459\n17.7   Eventos arrastar e soltar 462\n17.8   Eventos   de   texto   469\n17.9   Eventos   de   teclado   472\n  18      Scripts  HTTP",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 40,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5572",
+  "content": "lementos\n    exemplo de CSS, texto sombreado, 411\n    geometria e rolamento de documento e elemento, \n380–386\n    modelo de caixa CSS, 413\n    obtendo e confi gurando geometria de elemento na \njQuery, 520\n    tratando de eventos mousewheel (exemplo), \n460–462\n    usando CSS, 409–412\nposições da barra de rolagem de uma janela, 381–\n382\nposições de código (Unicode), 35, 469\nprecedência, operador, 64\nprecisão para números, 791–792\npreenchimento\n    especifi cando para elementos com CSS, 412\n    no modelo de caixa CSS, 413\npreenchimentos\n    cortados,    638\n    cores, degradês e padrões em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5572,
+    "totalChunks": 10000
+  }
+}

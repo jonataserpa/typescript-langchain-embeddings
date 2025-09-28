@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_94",
+  "content": "rior, \npor exemplo, funciona como um arquivo HTML independente.\nO Capítulo 15, Escrevendo scripts de documentos, trata do que é realmente JavaScript do lado do cliente, \nfazendo scripts de conteúdo de documentos HTML. Ele mostra como se seleciona elementos HTML \nespecíficos dentro de um documento, como se define os atributos HTML desses elementos, como se \naltera o conteúdo desses elementos e como se adiciona novos elementos no documento. A função a \nseguir demonstra diversas dessas técnicas básicas de pesquisa e modificação de documentos:\n// Exibe uma mensagem em uma seção de saída de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 94,
+    "totalChunks": 10000
+  }
+}

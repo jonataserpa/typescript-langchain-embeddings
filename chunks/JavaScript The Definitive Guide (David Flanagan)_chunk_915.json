@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_915",
+  "content": "riáveis da função (ou funções) dentro das quais estão aninhadas. No \ncódigo anterior, por exemplo, a função interna square() pode ler e gravar os parâmetros a e b defi-\nnidos pela função externa hypotenuse(). Essas regras de escopo para funções aninhadas são muito \nimportantes e vamos considerá-las novamente na Seção 8.6.\nConforme observado na Seção 5.3.2, as instruções de declaração de função não são instruções ver-\ndadeiras e a especificação ECMAScript só as permite como instruções de nível superior. Elas podem \naparecer em código global ou dentro de outras funções, mas não podem aparecer",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 915,
+    "totalChunks": 10000
+  }
+}

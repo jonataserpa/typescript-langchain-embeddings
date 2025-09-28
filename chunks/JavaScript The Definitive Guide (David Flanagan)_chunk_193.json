@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_193",
+  "content": "ável e, posteriormente, atribuir um valor de tipo diferente para a mesma variável. As variáveis \nsão declaradas com a palavra-chave \nvar. JavaScript utiliza escopo léxico. As variáveis declaradas fora \nde uma função são variáveis globais e são visíveis por toda parte em um programa JavaScript. As \nvariáveis declaradas dentro de uma função têm escopo de função e são visíveis apenas para o código \nque aparece dentro dessa função. A declaração e o escopo de variáveis são abordados na Seção 3.9 e \nna Seção 3.10.\n3.1   Números\nAo  contrário  de  muitas  linguagens,  JavaScript  não  faz  distinção",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 193,
+    "totalChunks": 10000
+  }
+}

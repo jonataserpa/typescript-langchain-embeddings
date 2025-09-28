@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4436",
+  "content": "ento é uma string, \nele é usado como um padrão de texto literal a ser procurado; não é primeiramente convertido \nem um objeto RegExp.\nsubstituição\nUma string especificando o texto substituto ou uma função que é chamada para gerar o texto \nsubstituto. Consulte a seção Descrição para ver os detalhes.\nRetorna\nUma nova string com a primeira coincidência (ou todas as coincidências) de \nexpreg substituídas por \nsubstituição.\nDescrição\nreplace() executa uma operação de busca e troca em string. Pesquisa string em busca de uma ou \nmais substrings que correspondam a expreg e as substitui por",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4436,
+    "totalChunks": 10000
+  }
+}

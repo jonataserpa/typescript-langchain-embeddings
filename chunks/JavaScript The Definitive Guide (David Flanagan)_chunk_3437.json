@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3437",
+  "content": "aixada e colocada na cache.\nApplicationCache.OBSOLETE (5)\nO manifesto não existe mais e a cache será excluída.\nO objeto ApplicationCache também define dois métodos. \nupdate() chama explicitamente o algorit-\nmo de atualização de cache para procurar uma nova versão do aplicativo. Isso faz o navegador passar \npela mesma verificação de manifesto (e disparar os mesmos eventos) que faz quando um aplicativo \né carregado pela primeira vez.\nO método \nswapCache() é mais complicado. Lembre-se de que, quando o navegador baixa e coloca na \ncache uma versão atualizada de um aplicativo, o usuário ainda está",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3437,
+    "totalChunks": 10000
+  }
+}

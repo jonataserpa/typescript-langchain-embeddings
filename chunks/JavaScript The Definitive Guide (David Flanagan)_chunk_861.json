@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_861",
+  "content": "4   every() e some()\nOs métodos every() e some() são predicados de array: eles aplicam uma função de predicado especi-\nficada nos elementos do array e, então, retornam true ou false.\n\nCapítulo     7     Arrays          151\nJavaScript básica\nO método every() é como o quantificador matemático “para todo” ∀: ele retorna true se, e somente \nse, sua função de predicado retorna true para todos os elementos do array:\na = [1,2,3,4,5];\na.every(function(x) { return x < 10; })        // => verdadeiro: todos os valores < 10.\na.every(function(x) { return x % 2 === 0; })   // => falso: nem todos os valores",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 861,
+    "totalChunks": 10000
+  }
+}

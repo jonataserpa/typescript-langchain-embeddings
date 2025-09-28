@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3729",
+  "content": "a Seção 22.9 aborda a API Web Sockets, que permite aos aplicativos Web conectarem \nservidores usando conexão em rede baseada em fluxo bidirecional, em vez do modelo de liga-\nção em rede tipo pedido/resposta sem estado, suportado por XMLHttpRequest.\nOs recursos documentados neste capítulo não se encaixam naturalmente em nenhum dos capítulos \nanteriores ou ainda não são estáveis e amadurecidos o suficiente para serem integrados nos capítulos \nprincipais do livro. Algumas das APIs parecem estáveis o bastante para documentar na seção de re-\nferência, enquanto em outros casos a API ainda está em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3729,
+    "totalChunks": 10000
+  }
+}

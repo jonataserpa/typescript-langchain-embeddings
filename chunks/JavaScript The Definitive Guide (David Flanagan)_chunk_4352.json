@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4352",
+  "content": "pos e que um objeto não \nextensível ainda pode ganhar novas propriedades herdadas.\nNote que esse não é um método a ser chamado em um objeto: é uma função global e você deve \npassar um objeto para ela.\nConsulte também\nObject.freeze(), Object.isExtensible(), Object.seal(), Seção 6.8.3\nObject.propertyIsEnumerable()\na propriedade será vista por um laço for/in?\nSinopse\nobjeto.propertyIsEnumerable(nomeprop)\nArgumentos\nnomeprop\nUma string contendo o nome de uma propriedade de objeto.\n\n      Referência de JavaScript básica      807\nReferência de \nJavaScript básica\nRetorna\ntrue se objeto tem uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4352,
+    "totalChunks": 10000
+  }
+}

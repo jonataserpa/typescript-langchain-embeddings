@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3999",
+  "content": "torna muito mais fácil executar certos tipos de tarefas de \nconeção em rede.\n\n698          Parte II     JavaScript do lado do cliente\nO protocolo WebSocket\nPara usar WebSockets em JavaScript, você só precisa entender a API WebSocket do lado do cliente \ndescrita aqui. Não existe uma API equivalente do lado do servidor para escrever servidores WebSocket, \nmas esta seção inclui um exemplo de servidor simples que utiliza Node (Seção 12.2) junto com uma bi-\nblioteca de servidor WebSocket externa. O cliente e o servidor se comunicam por meio de um soquete \nTCP de longa duração, seguindo regras",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3999,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1254",
+  "content": "o de métodos. Da mesma forma, a construtora da subclasse \nB() às vezes \npode chamar a construtora da superclasse \nA(). Isso é chamado de encadeamento de construtoras. \nAs próprias subclasses podem ter subclasses e ao se trabalhar com hierarquias de classes, às vezes \né útil definir classes abstratas. Uma classe abstrata é aquela que define um ou mais métodos sem \numa implementação. A implementação desses métodos abstratos é deixada para as subclasses con-\ncretas da classe abstrata.\nO segredo da criação de subclasses em JavaScript é a inicialização correta do objeto protótipo. \nSe a classe B",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1254,
+    "totalChunks": 10000
+  }
+}

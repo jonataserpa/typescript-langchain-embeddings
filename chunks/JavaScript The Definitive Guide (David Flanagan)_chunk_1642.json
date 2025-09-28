@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1642",
+  "content": "readdirSync(dir);      // Lê o conteúdo do diretório\nprocess.stdout.write(\"Name\\tSize\\tDate\\n\");         // Saída de um cabeçalho\nfiles.forEach(function(filename) {    // Para cada nome de arquivo\n    var fullname = path.join(dir,filename);         // Une dir e nome\n    var stats = fs.statSync(fullname); // Obtém atributos do arquivo\n    if (stats.isDirectory()) filename += \"/\";       // Marca subdiretórios\n    process.stdout.write(filename + \"\\t\" + // Saída do nome de arquivo mais\n                         stats.size + \"\\t\" +        // tamanho do arquivo mais",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1642,
+    "totalChunks": 10000
+  }
+}

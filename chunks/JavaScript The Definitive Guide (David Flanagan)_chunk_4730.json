@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4730",
+  "content": "eadonly long offsetWidth\nA altura e largura, em pixels, do elemento e todo seu conteúdo, incluindo o preenchimento e \na borda CSS do elemento, mas não sua margem.\nreadonly long offsetLeft\nreadonly long offsetTop\nAs coordenadas X e Y do canto superior esquerdo da borda CSS do elemento em relação ao \nelemento contêiner offsetParent.\nreadonly Element offsetParent\nEspecifica o elemento contêiner que define o sistema de coordenadas no qual offsetLeft e \noffsetTop são medidos. Para a maioria dos elementos, offsetParent é o elemento <body> que \nos contém. Contudo, se um elemento tem um contêiner",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4730,
+    "totalChunks": 10000
+  }
+}

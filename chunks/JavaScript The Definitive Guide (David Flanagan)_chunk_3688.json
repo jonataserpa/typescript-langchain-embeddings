@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3688",
+  "content": "s novos pixels de \norigem fossem desenhados embaixo dos pixels de destino existentes. Se o destino é translúcido \nou transparente, parte da cor (ou toda ela) do pixel de origem fica visível na cor resultante.\n“source-over”, “destination-over” e “copy” são três dos tipos de composição mais usados, mas a \nAPI Canvas suporta 11 valores para o atributo\n globalCompositeOperation. Os nomes dessas ope-\nrações de composição sugerem o que elas fazem e você pode aprender muito sobre composição \ncombinando os nomes de operação com exemplos visuais de seu funcionamento. A Figura 21-16 \nilustra todas as",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3688,
+    "totalChunks": 10000
+  }
+}

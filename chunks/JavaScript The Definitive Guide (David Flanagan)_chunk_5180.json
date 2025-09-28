@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5180",
+  "content": "diferem entre si apenas no número \nde bytes por elemento de array e na maneira como esses bytes são interpretados. Os oito tipos são:\nInt8Array\nUm byte por elemento de array, interpretado como um inteiro com sinal.\nInt16Array\nDois bytes por elemento de array, interpretados como um inteiro com sinal, usando ordem de \nbyte da plataforma.\nInt32Array\nQuatro bytes por elemento de array, interpretados como um inteiro com sinal, usando ordem \nde byte da plataforma.\nUint8Array\nUm byte por elemento de array, interpretado como um inteiro sem sinal.\nUint16Array\nDois bytes por elemento de array,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5180,
+    "totalChunks": 10000
+  }
+}

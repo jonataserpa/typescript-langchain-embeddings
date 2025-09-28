@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2533",
+  "content": "ndow fornece a orientação atual como um dos números 0, 90, 180 ou -90.\n17.2   Registrando rotinas de tratamento de evento\nExistem duas maneiras básicas de registrar rotinas de tratamento de evento. A primeira, dos \nprimórdios da Web, é configurar uma propriedade no objeto ou elemento do documento alvo \ndo evento. A segunda técnica, mais recente e mais geral, é passar a rotina de tratamento para um \nmétodo ou elemento do objeto. Para complicar as coisas, existem duas versões de cada técnica. \nVocê pode configurar uma propriedade de tratamento de evento em código JavaScript ou, para \nelementos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2533,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_784",
+  "content": "6.9) procura um método toJSON() em todo objeto que é solicitado a serializar. Se esse \nmétodo existe no objeto a ser serializado, ele é chamado, sendo que o valor de retorno é serializado \nem vez do objeto original. Consulte Date.toJSON() para ver um exemplo.\n6.10.4   O método valueOf()\nO método valueOf() é muito parecido com o método toString(), mas é chamado quando JavaS-\ncript precisa converter um objeto em algum tipo primitivo que não seja uma string – normal-\nmente um número. JavaScript chama esse método automaticamente se um objeto é usado em \num contexto em que é exigido um valor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 784,
+    "totalChunks": 10000
+  }
+}

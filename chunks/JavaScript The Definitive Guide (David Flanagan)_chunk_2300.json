@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2300",
+  "content": "adas todas de uma vez usando-se uma única propriedade font com um \nvalor composto:\nfont: bold italic 24pt helvetica;\nDa mesma forma, as propriedades border, margin e padding são atalhos para propriedades que es-\npecificam bordas, margens e preenchimento (o espaço entre a borda e o conteúdo do elemento) \nde cada um dos lados individuais de um elemento. Por exemplo, em vez de usar a propriedade \nborder, você pode usar as propriedades border-left, border-right, border-top e border-bottom para \nespecificar a borda de cada lado separadamente. Na verdade, cada uma dessas propriedades é um \natalho.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2300,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5530",
+  "content": "des, 327\n    propriedade compatMode, 322\n    propriedade cookie, 579\n        analisando,    582\n    propriedade designMode, 399\n    propriedade forms, 388\n    propriedade location, 334\n    propriedade readyState, 315, 453\n    propriedade styleSheets, 429, 430\n    propriedade URL, 334\n    propriedades, 395, 876\n    respostas HTTP analisadas, disponíveis como, \n487\nobjeto DocumentFragment, 354, 375, 882\n    criando,    878\n    implementando insertAdjacentHTML( ) usando \ninnerHTML, 376\n    métodos querySelector( ) e querySelectorAll( ), \n360\n    usando para inverter a ordem dos fi lhos de um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5530,
+    "totalChunks": 10000
+  }
+}

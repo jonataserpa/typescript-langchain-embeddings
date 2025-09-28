@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1445",
+  "content": "o entanto, se encontra, ele retorna um array exatamente como o array retornado pelo mé-\ntodo match() para pesquisas não globais. O elemento 0 do array contém a string que correspondeu \nà expressão regular e os elementos subsequentes do array contêm as substrings que corresponderam \na quaisquer subexpressões colocadas entre parênteses. Além disso, a propriedade index contém a \nposição do caractere na qual a correspondência ocorreu e a propriedade input se refere à string que \nfoi pesquisada.\nAo contrário do método\n match(), exec() retorna o mesmo tipo de array, tenha a expressão regular o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1445,
+    "totalChunks": 10000
+  }
+}

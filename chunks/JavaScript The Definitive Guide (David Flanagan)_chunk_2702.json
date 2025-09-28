@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2702",
+  "content": "t) messageElement.style.visibility = \"hidden\";\n }\n});\nOs eventos keypress e textinput são disparados antes que o texto recentemente digitado seja real-\nmente inserido no elemento do documento que tem o foco, sendo esse o motivo pelo qual as rotinas \nde tratamento para esses eventos podem cancelar o evento e impedir a inserção do texto. Os nave-\ngadores também implementam um tipo de evento de entrada que é disparado depois que o texto é \ninserido em um elemento. Esses eventos não podem ser cancelados e não especificam qual era o novo \ntexto em seus objetos evento, mas fornecem notificação de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2702,
+    "totalChunks": 10000
+  }
+}

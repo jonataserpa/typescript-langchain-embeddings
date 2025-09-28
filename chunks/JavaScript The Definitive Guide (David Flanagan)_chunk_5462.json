@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5462",
+  "content": "simples,    561–563\n    terminologia,    513\n    tratando eventos com, 526–536\njQuery.fx.speeds, 537\nJSON, 135, 770–773–774\n    analisando resposta HTTP, 487\n    fazendo pedido POST HTTP com corpo codifi -\ncado com JSON, 491\n    função jQuery.getJSON( ), 547\n    função jQuery.parseJSON( ), 559\n    método toJSON( ), 135–136\n    métodos, implementação em classes, 214\nJSON preenchido (consulte JSONP)\nJSONP, 500–502\n    fazendo pedido com elemento de script, 502\n    pedido    especifi cado por URL ou string de dados \npassada para jQuery.getJSON( ), 549\nL\nlaços, 85, 95\n    do/while,    96",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5462,
+    "totalChunks": 10000
+  }
+}

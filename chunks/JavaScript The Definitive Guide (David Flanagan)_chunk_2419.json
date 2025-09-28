@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2419",
+  "content": "-\nration. A propriedade \ncurrentStyle do IE combina estilos em linha com folhas de estilo, mas não é \num verdadeiro estilo computado, pois os valores relativos não são convertidos em valores absolutos. \nConsultar as propriedades do estilo atual do IE pode retornar tamanhos com unidades relativas, \ncomo “%” ou “em”, ou cores com nomes imprecisos, como “red”.\nEmbora CSS possa ser usada para especificar precisamente a posição e o tamanho de elementos do \ndocumento, consultar o estilo computado de um elemento não é a maneira escolhida para deter-\nminar o tamanho e a posição do elemento. Consulte",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2419,
+    "totalChunks": 10000
+  }
+}

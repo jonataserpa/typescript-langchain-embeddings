@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_580",
+  "content": "que break e continue \npodem identificar o laço de destino ou outro rótulo de instrução.\nA instrução return faz o interpretador saltar de uma chamada de função de volta para o código \nque a chamou e também fornece o valor para a chamada. A instrução throw provoca (ou “lança”) \numa exceção e foi projetada para trabalhar com a instrução try/catch/finally, a qual estabelece \num bloco de código de tratamento de exceção. Esse é um tipo complicado de instrução de salto: \nquando uma exceção é lançada, o interpretador pula para a rotina de tratamento de exceção cir-\ncundante mais próxima, a qual pode",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 580,
+    "totalChunks": 10000
+  }
+}

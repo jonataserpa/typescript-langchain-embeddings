@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_329",
+  "content": "inida por toda  \n                      // parte console.log(scope);\n                      // Imprime \"local\"\n}\nVocê poderia pensar que a primeira linha da função imprimiria “global”, pois a instrução var que de-\nclara a variável local ainda não foi executada. Contudo, devido às regras de escopo de função, não é \nisso que acontece. A variável local está definida em todo o corpo da função, ou seja, a variável global \nde mesmo nome fica oculta por toda a função. Embora a variável local seja definida em toda parte, \nela não é inicializada até que a instrução var seja executada. Assim, a função",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 329,
+    "totalChunks": 10000
+  }
+}

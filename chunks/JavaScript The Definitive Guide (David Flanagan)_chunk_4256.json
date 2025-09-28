@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4256",
+  "content": "te III     Referência de JavaScript básica\nMath.LN10\nO logaritmo natural de 10.\nMath.LN2\nO logaritmo natural de 2.\nMath.LOG10E\nO logaritmo de base 10 de e.\nMath.LOG2E\nO logaritmo de base 2 de e.\nMath.PI\nA constante π.\nMath.SQRT1_2\nO número 1 dividido pela raiz quadrada de 2.\nMath.SQRT2\nA raiz quadrada de 2.\nFunções estáticas\nMath.abs()\nCalcula um valor absoluto.\nMath.acos()\nCalcula um arco-cosseno.\nMath.asin()\nCalcula um arco-seno.\nMath.atan()\nCalcula um arco-tangente.\nMath.atan2()\nCalcula o ângulo do eixo X até um ponto.\nMath.ceil()\nArredonda um número para cima.\nMath.cos()\nCalcula um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4256,
+    "totalChunks": 10000
+  }
+}

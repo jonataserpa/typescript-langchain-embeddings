@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2667",
+  "content": "File. (Consulte o Exemplo 18-11 para ver uma demonstração.) Com a nova API \nde HTML5, as rotinas de tratamento de evento drop poderão iterar pelos elementos de dataTrans-\nfer.items[] para examinar dados que são arquivos e que não são arquivos.\nO Exemplo 17-5 demonstra como transformar elementos \n<ul> em alvos de soltura e como trans-\nformar os elementos <li> dentro deles em origens de arrasto. O exemplo é um pedaço de código \nJavaScript não obstrusivo que procura elementos <ul> com um atributo class que inclua “dnd” e \nregistra rotinas de tratamento de evento DnD em todas essas listas que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2667,
+    "totalChunks": 10000
+  }
+}

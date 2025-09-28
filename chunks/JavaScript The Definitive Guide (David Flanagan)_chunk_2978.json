@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2978",
+  "content": "ma classe de todos os elementos <p>\n$(\"p\").removeClass(\"hilite first\");     // Múltiplas classes são permitidas\n$(\"section\").removeClass(function(n) {  // Remove classes personalizadas dos elementos\n    return \"section\" + n;\n});\n$(\"div\").removeClass();                // Remove todas as classes de todos os <div>s\n// Alternando classes CSS\n$(\"tr:odd\").toggleClass(\"oddrow\");      // Adiciona a classe se ela não existe\n                             // ou a remove, se existe\n$(\"h1\").toggleClass(\"big bold\");        // Alterna duas classes simultaneamente\n$(\"h1\").toggleClass(function(n) {       //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2978,
+    "totalChunks": 10000
+  }
+}

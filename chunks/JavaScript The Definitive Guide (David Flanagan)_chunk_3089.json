@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3089",
+  "content": "d() tem uma versão de três argumentos que permite especificar o valor da \npropriedade data do objeto evento, o método delegate() tem uma versão de quatro argumentos que \npermite fazer o mesmo. Para usar essa versão, passe o valor dos dados como terceiro argumento e a \nfunção de tratamento como o quarto.\nÉ importante entender que os eventos dinâmicos dependem da borbulha de eventos. Quando um \nevento borbulha para o objeto documento, já pode ter passado por várias rotinas de tratamento de \nevento estáticas. E se qualquer uma dessas rotinas de tratamento chamou o método \ncancelBubble() \ndo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3089,
+    "totalChunks": 10000
+  }
+}

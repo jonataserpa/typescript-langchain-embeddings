@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1992",
+  "content": "ão representados na DOM como uma árvore de objetos. A representação em árvore de um docu-\nmento HTML contém nós representando marcações ou elementos HTML, como \n<body> e <p>, e \nnós representando strings de texto. Um documento HTML também pode conter nós representando \ncomentários HTML. Considere o seguinte documento HTML simples:\n<html>\n  <head>\n    <title>Sample    Document</title>\n  </head>\n  <body>\n    <h1>An HTML Document</h1>\n    <p>This is a <i>simple</i> document.\n</html>\nA representação DOM desse documento é a árvore ilustrada na Figura",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1992,
+    "totalChunks": 10000
+  }
+}

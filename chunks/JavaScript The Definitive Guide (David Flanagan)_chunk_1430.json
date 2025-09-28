@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1430",
+  "content": "todas as correspondências na \nstring pela string para substituição; caso contrário, substitui apenas a primeira correspondência \nencontrada. Se o primeiro argumento de replace() é uma string e não uma expressão regular, o \nmétodo procura essa string literalmente, em vez de convertê-la em uma expressão regular com \na construtora RegExp(), como acontece com search(). Como exemplo, você pode usar replace() \ncomo segue, para fornecer uma composição uniforme de letras da palavra “JavaScript” por toda \numa string de texto:\n//  Independente de como seja composta, substitui pela composição correta de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1430,
+    "totalChunks": 10000
+  }
+}

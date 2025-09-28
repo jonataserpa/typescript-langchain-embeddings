@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5067",
+  "content": "ltos”.\nreadonly NodeList labels\nUm objeto semelhante a um array de elementos Label associados a esse elemento.\ndouble low\nSe for especificada, essa propriedade indica que valores entre min e low devem ser mostrados \ngraficamente como “baixos”.\ndouble max\nO valor máximo que pode ser exibido por <meter>. O padrão é 1.\ndouble min\nO valor mínimo que pode ser exibido por <meter>. O padrão é 0.\ndouble optimum\nSe for especificado, o valor que deve ser considerado como ótimo.\ndouble value\nO valor representado por esse <meter>.\nMouseEvent\nconsulte Event\n\n958          Parte IV     Referência de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5067,
+    "totalChunks": 10000
+  }
+}

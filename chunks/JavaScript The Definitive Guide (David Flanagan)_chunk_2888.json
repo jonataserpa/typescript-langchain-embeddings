@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2888",
+  "content": "como acontece com todos os objetos evento. O valor padrão é “message”, mas a origem do \nevento pode especificar uma string diferente para a propriedade. Uma única rotina de tratamento \nde evento onmessage recebe todos os eventos da origem de evento de determinado servidor e pode \nenviá-los, se necessário, com base em suas propriedades type.\nO protocolo Server-Sent Event é simples. O cliente inicia uma conexão com o servidor (quando \ncria o objeto \nEventSource) e o servidor mantém essa conexão aberta. Quando ocorre um evento, \no servidor escreve linhas de texto na conexão. Uma transmissão de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2888,
+    "totalChunks": 10000
+  }
+}

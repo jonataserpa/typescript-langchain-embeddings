@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5384",
+  "content": "ades não enumeráveis, 232\n        descritores de propriedade, 238–240\n        encapsulando estado de objeto, 235\n        impedindo extensões de classe, 236\n        subclasses,    237\n    literais RegExp e criação de objetos, 246\n    métodos de array, 149–153, 155, 515\n    palavras reservadas, 24\nECMAScript for XML (consulte E4X)\nefeitos colaterais\n    expressões case contendo, 94\n    expressões com, 85\n    operador,    63\nefeitos de desaparecimento gradual\n    enfi leirados, método animate( ) e, 541\n    fadeTo( ), 538\n    métodos fadeIn( ) e fadeOut( ), 537, 538\nefeitos de indistinção",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5384,
+    "totalChunks": 10000
+  }
+}

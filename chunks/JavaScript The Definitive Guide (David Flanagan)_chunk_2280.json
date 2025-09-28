@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2280",
+  "content": "o script de documentos      401\nJavaScript do\n lado do cliente\nUma vez que o usuário tenha editado o conteúdo de um elemento com o atributo contentedita-\nble configurado, você pode usar a propriedade innerHTML para obter a marcação HTML do con-\nteúdo editado. O que vai ser feito com esse rich text fica por sua conta. Você poderia armazená-lo \nem um campo de formulário oculto e enviá-lo para um servidor, enviando o formulário. Poderia \nusar as técnicas descritas no Capítulo 18 para enviar o texto editado diretamente para um servi-\ndor. Ou então poderia usar as técnicas mostradas no Capítulo 20",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2280,
+    "totalChunks": 10000
+  }
+}

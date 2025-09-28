@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2732",
+  "content": "do palavras ou setas\n    8:\"Backspace\", 9:\"Tab\", 13:\"Enter\", 16:\"Shift\", 17:\"Control\", 18:\"Alt\",\n    19:\"Pause\", 20:\"CapsLock\", 27:\"Esc\", 32:\"Spacebar\", 33:\"PageUp\",\n\nCapítulo 17     Tratando eventos      477\nJavaScript do\n lado do cliente\n    34:\"PageDown\", 35:\"End\", 36:\"Home\", 37:\"Left\", 38:\"Up\", 39:\"Right\",\n    40:\"Down\", 45:\"Insert\", 46:\"Del\",\n    // Teclas numéricas no teclado principal (não no teclado numérico)\n    48:\"0\",49:\"1\",50:\"2\",51:\"3\",52:\"4\",53:\"5\",54:\"6\",55:\"7\",56:\"8\",57:\"9\",\n    // Teclas de letra. Note que não distinguimos maiúsculas e minúsculas\n    65:\"A\", 66:\"B\", 67:\"C\",",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2732,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1319",
+  "content": "ificar.\nCom essas funções utilitárias definidas, podemos aproveitar os recursos de ECMAScript 5 para es-\ncrever uma classe imutável sem alterar substancialmente a maneira de escrevermos classes. O Exem-\nplo 9-20 mostra uma classe imutável Range que usa nossas funções utilitárias.\nExemplo 9-20 Uma classe imutável mais simples\nfunction Range(from, to) {      // Construtora para uma classe Range imutável\n    this.from = from;\n    this.to = to;\n    freezeProps(this); // Torna as propriedades imutáveis\n}\nRange.prototype = hideProps({   // Define prototype com propriedades não enumeráveis",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1319,
+    "totalChunks": 10000
+  }
+}

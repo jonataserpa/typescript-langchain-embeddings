@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_677",
+  "content": "0, address1, address2 e address3 do objeto customer.\nEsse breve exemplo demonstra a flexibilidade do uso da notação de array para acessar propriedades \nde um objeto com expressões de string. O código anterior poderia ser reescrito com a notação de \nponto, mas existem casos em que somente a notação de array resolve. Suponha, por exemplo, que \nvocê esteja escrevendo um programa que utiliza recursos de rede para calcular o valor atual dos inves-\ntimentos no mercado de ações feitos pelo usuário. O programa permite que o usuário digite o nome \nde cada ação que possui, assim como o número de quotas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 677,
+    "totalChunks": 10000
+  }
+}

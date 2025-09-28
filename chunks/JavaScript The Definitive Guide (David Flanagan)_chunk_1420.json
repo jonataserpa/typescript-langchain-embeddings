@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1420",
+  "content": "ipt)([A-Z]\\w*)/ corresponde a “Java” seguido de uma letra maiúscula e qualquer número de \ncaracteres alfabéticos em ASCII adicionais, desde que “Java” não seja seguido de “Script”. Isso cor-\nresponde a “JavaBeans”, mas não a “Javanese”, e corresponde a “JavaScrip”, mas não a “JavaScript” \nnem a “JavaScripter”.\nA Tabela 10-5 resume as âncoras de expressões regulares.\nTabela 10-5 Caracteres de âncora de expressões regulares\nCaractereSignificado\n^\nCorresponde ao início da string e, em pesquisas de várias linhas, ao início de uma linha.\n$\nCorresponde ao final da string e, em pesquisas de várias",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1420,
+    "totalChunks": 10000
+  }
+}

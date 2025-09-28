@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1242",
+  "content": "como propriedades desse objeto. Em vez disso\n    // define funções de acesso que retornam os valores de ponto extremo.\n    // Esses valores são armazenados na closure.\n    this.from = function() { return from; };\n    this.to = function() { return to; };\n}\n// Os métodos do protótipo não podem ver os pontos extremos diretamente: eles precisam\n// chamar os métodos de acesso exatamente como todos os demais.\nRange.prototype = {\n    constructor:    Range,\n    includes: function(x) { return this.from() <= x && x <= this.to(); },\n    foreach: function(f) {\n        for(var x=Math.ceil(this.from()),",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1242,
+    "totalChunks": 10000
+  }
+}

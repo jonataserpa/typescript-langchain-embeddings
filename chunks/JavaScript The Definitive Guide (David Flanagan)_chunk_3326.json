@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3326",
+  "content": "7. Quando elas estiverem mais amplamente implementadas, os aplicativos Web poderão \nusar os tipos de mecanismos de armazenamento baseado em arquivos já conhecidos por mui-\ntos programadores.\nArmazenamento, segurança e privacidade\nOs navegadores Web frequentemente se oferecem para lembrar de senhas para você, e as armazenam \ncom segurança na forma criptografada no disco. Mas nenhuma das formas de armazenamento de dados \nno lado do cliente descritas neste capítulo envolve criptografia: tudo que você salva fica no disco rígido do \nusuário na forma não criptografada. Portanto, os dados",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3326,
+    "totalChunks": 10000
+  }
+}

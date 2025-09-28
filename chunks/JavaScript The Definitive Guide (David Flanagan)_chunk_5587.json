@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5587",
+  "content": "frames, objeto Window, 348, 986\npropriedade fromElement, objeto Event, 900\npropriedade geolocation, objeto Navigator, 339, \n653, 958\npropriedade global, objeto RegExp, 256, 816–817\npropriedade globalAlpha, 631, 632, 855\npropriedade globalCompositeOperation, 643, \n852–853, 855\npropriedade handler, objeto Event, 530\npropriedade hash\n    objeto Link, 947\n    objeto Location, 334, 657, 948\n    objeto    WorkerLocation,    995\npropriedade head, objeto Document, 357, 877\npropriedade heading, objeto Geocoordinates, 917\npropriedade height, 521\n (consulte também propriedades width e height)",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5587,
+    "totalChunks": 10000
+  }
+}

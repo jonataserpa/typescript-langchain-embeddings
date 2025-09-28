@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1944",
+  "content": "nos de interagir com \nseus objetos Window ou manipular o conteúdo de seus documentos. Se você usa um navegador Web \nque não aceita guias ou se está com as guias desativadas, pode ter muitas janelas de navegador Web \nabertas simultaneamente em sua área de trabalho. Assim como acontece com as guias, cada janela \nda área de trabalho tem seu próprio objeto Window e cada uma em geral é independente e isolada \nde todas as outras.\nMas as janelas nem sempre são isoladas umas das outras. Um script de uma janela ou guia pode abrir \nnovas janelas ou guias e, quando um script faz isso, as janelas podem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1944,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3347",
+  "content": "você armazena um valor, a fim de que todas \nas alterações subsequentes no valor original não tenham qualquer efeito sobre o valor armazenado. O \nobjeto Storage também é obrigado a fazer uma cópia quando você recupera um valor, a fim de que as \nalterações feitas no valor recuperado não tenham qualquer efeito sobre o valor armazenado. Quando \nesse tipo de cópia é feita, usar a API baseada em propriedades pode ser confuso. Considere o código \n(hipotético, até que os navegadores suportem valores estruturados) a seguir:\nlocalStorage.o = {x:1};         // Armazena um objeto que tem uma propriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3347,
+    "totalChunks": 10000
+  }
+}

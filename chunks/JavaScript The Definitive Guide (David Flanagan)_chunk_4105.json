@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4105",
+  "content": "etFullYear().\n\n728          Parte III     Referência de JavaScript básica\nset[UTC]Date()\nConfigura o campo de dia do mês da data, usando hora local ou universal.\nset[UTC]FullYear()\nConfigura o campo de ano (e opcionalmente mês e dia) da data, usando hora local ou universal.\nset[UTC]Hours()\nConfigura o campo de hora (e opcionalmente os campos de minutos, segundos e milissegun-\ndos) da data, usando hora local ou universal.\nset[UTC]Milliseconds()\nConfigura o campo de milissegundos de uma data, usando hora local ou universal.\nset[UTC]Minutes()\nConfigura o campo de minutos (e opcionalmente os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4105,
+    "totalChunks": 10000
+  }
+}

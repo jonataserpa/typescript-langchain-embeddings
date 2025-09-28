@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5045",
+  "content": "retornar a NETWORK_EMPTY.\n\n      Referência de JavaScript do lado do cliente      953\nReferência de \nJavaScript do lado \ndo cliente\nRotina de tratamento de eventoChamada quando...\nonended\nA reprodução parou porque o fim da mídia foi atingido.\nonerror\nUm erro de rede ou outro impediu o carregamento dos dados da mídia. error.code é um \nvalor diferente de \nMEDIA_ERR_ABORTED (consulte MediaError).\nonloadeddata\nOs dados da posição de reprodução atual foram carregados pela primeira vez.\nonloadedmetadata\nOs metadados de mídia foram carregados e a duração e as dimensões da mídia estão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5045,
+    "totalChunks": 10000
+  }
+}

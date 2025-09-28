@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1567",
+  "content": "ngs. O \ncódigo a seguir adiciona outro elemento na tabela periódica:\npt.element += new XML('<element id=\"5\"><name>Boron</name></element>');\nQuando trabalhar com fragmentos de XML, use XMLList() em vez de XML():\npt.element += new XMLList('<element id=\"6\"><name>Carbon</name></element>' +\n                            '<element    id=\"7\"><name>Nitrogen</name></element>');\nUma vez que se tenha um documento XML definido, E4X define uma sintaxe intuitiva para acessar \nseu conteúdo:\nvar elements = pt.element;      // Avaliado em uma lista de todas as marcações <element>\nvar names = pt.element.name;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1567,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_696",
+  "content": ") remove uma propriedade de um objeto. Seu operando deve ser \numa expressão de acesso à propriedade. Surpreendentemente, delete não opera no valor da proprie-\ndade, mas na própria propriedade:\ndelete book.author;    // Agora o objeto book não tem a propriedade author.\ndelete book[\"main title\"];      // Agora também não tem \"main title\".\nO operador delete exclui apenas as propriedades próprias, não as herdadas. (Para excluir uma pro-\npriedade herdada, você deve excluí-la do objeto protótipo em que ela é definida. Fazer isso afeta todo \nobjeto que herda desse protótipo.)\nUma expressão \ndelete é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 696,
+    "totalChunks": 10000
+  }
+}

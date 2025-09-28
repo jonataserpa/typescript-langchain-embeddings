@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_657",
+  "content": "sica contém construtoras internas para tipos nativos. Por exemplo:\nvar o = new Object();  // Cria um objeto vazio: o mesmo que {}.\nvar a = new Array();   // Cria um array vazio: o mesmo que [].\nvar d = new Date();    // Cria um objeto Date representando a hora atual\nvar r = new RegExp(\"js\");       // Cria um objeto RegExp para comparação de padrões.\nAlém dessas construtoras internas, é comum definir suas próprias funções construtoras para iniciali-\nzar objetos recém-criados. Isso é abordado no Capítulo 9.\n\nCapítulo     6     Objetos          115\nJavaScript básica\n6.1.3   Protótipos\nAntes de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 657,
+    "totalChunks": 10000
+  }
+}

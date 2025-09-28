@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5241",
+  "content": "l(), exceto que chama a função especificada apenas uma vez: re-\ngistra f para ser chamada após terem decorrido tempoLimite milissegundos e retorna um número \nque posteriormente pode ser passado para clearTimeout() a fim de cancelar a chamada pendente. \nQuando o tempo especificado tiver decorrido, f será chamada como um método de Window e vai \nreceber quaisquer args especificados. Se f for uma string, em vez de uma função, será executada após \ntempoLimite milissegundos, como se fosse um <script>.\nany showModalDialog(string url, [any argumentos])\nEsse  método  cria  um  novo  objeto  Window,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5241,
+    "totalChunks": 10000
+  }
+}

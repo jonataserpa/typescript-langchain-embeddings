@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3526",
+  "content": "ndo o gráfico de pizza.\n *   O chamador deve inserir o elemento retornado no documento.\n */\nfunction pieChart(data, width, height, cx, cy, r, colors, labels, lx, ly) {\n    // Este é o espaço de nomes XML para elementos svg\n    var svgns = \"http://www.w3.org/2000/svg\";\n\n612          Parte II     JavaScript do lado do cliente\n// Cria o elemento <svg> e especifica tamanho em pixels e coordenadas do usuário\nvar chart = document.createElementNS(svgns, \"svg:svg\");\nchart.setAttribute(\"width\", width);\nchart.setAttribute(\"height\", height);\nchart.setAttribute(\"viewBox\", \"0 0 \" + width + \" \" +",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3526,
+    "totalChunks": 10000
+  }
+}

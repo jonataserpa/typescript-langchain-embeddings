@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4564",
+  "content": "P2.\nDado um objeto contexto \nc, você pode desenhar um quadrado de 100x100 com cantos arredonda-\ndos (de raios variados) com código como segue:\nc.beginPath();\nc.moveTo(150, 100);          // Começa no meio da borda superior\nc.arcTo(200,100,200,200,40);  // Desenha a borda superior e o canto superior direito \n// arredondados\nc.arcTo(200,200,100,200,30);  // Desenha a borda direita e o canto inferior direito \n// (menos) arredondados\nc.arcTo(100,200,100,100,20);  // Desenha a inferior e o canto inferior esquerdo \n// arredondados\nc.arcTo(100,100,200,100,10);  // Desenha a esquerda e o canto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4564,
+    "totalChunks": 10000
+  }
+}

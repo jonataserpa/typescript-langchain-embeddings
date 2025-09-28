@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4251",
+  "content": "idade de filtragem completamente diferente. Se você passa uma \nfunção, ela é uma função substituta e funciona de forma semelhante ao método toJSON() descrito \n\n      Referência de JavaScript básica      773\nReferência de \nJavaScript básica\nanteriormente. Se for especificada, a função substituta é chamada para cada valor a ser transformado \nem string. O valor de this é o objeto ou array dentro do qual o valor é definido. O primeiro argu-\nmento da função substituta é o nome de propriedade do objeto ou índice de array do valor dentro \ndesse objeto e o segundo argumento é o valor em si. Esse",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4251,
+    "totalChunks": 10000
+  }
+}

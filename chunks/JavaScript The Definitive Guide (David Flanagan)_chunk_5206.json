@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5206",
+  "content": "é o objeto global. Além \ndas propriedades e métodos listados aqui, o objeto Window também implementa todas as proprie-\ndades e funções globais definidas por JavaScript básica. Consulte \nGlobal, na Parte III, para ver os de-\ntalhes. Os navegadores Web disparam muitos tipos de eventos em janelas. Isso significa que o objeto \nWindow define muitas rotinas de tratamento de evento e que os objetos Window implementam os \nmétodos definidos por EventTarget.\nO objeto Window tem propriedades \nwindow e self que se referem ao próprio objeto janela. Você \npode usá-las para tornar a referência da janela",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5206,
+    "totalChunks": 10000
+  }
+}

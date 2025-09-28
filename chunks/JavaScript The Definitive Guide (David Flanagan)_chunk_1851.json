@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1851",
+  "content": "mento não pode cha-\nmar métodos nem ler propriedades do outro documento, mas eles podem se comunicar de forma \nseguramente por meio dessa técnica de passagem de mensagens. Consulte a Seção 22.3 para mais \ninformações sobre a API de troca de mensagens entre documentos.\n13.6.3   Scripts de plug-ins e controles ActiveX\nEmbora a linguagem JavaScript básica e o modelo de objeto do lado do cliente não tenham recursos \nde sistema de arquivos e conexão em rede exigidos pelo pior código mal-intencionado, a situação \nnão é tão simples quanto parece. Em muitos navegadores Web, JavaScript é usada como um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1851,
+    "totalChunks": 10000
+  }
+}

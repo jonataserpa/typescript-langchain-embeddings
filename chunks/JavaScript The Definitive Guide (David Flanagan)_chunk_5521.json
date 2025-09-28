@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5521",
+  "content": "ection, 371\nnós Text, 360–361, 977\n    conteúdo de elemento como, 371\n    criando,    372\nnotação em ponto fi xo para números, 789–790\nnotação exponencial, 31, 47, 788–789\nnúmeros, 30–35\n    aritmética em JavaScript, 32\n    binários em ponto fl utuante e erros de arredonda-\nmento, 33\n    conversões, 44, 46\n        número para string, 47\n        objeto para número, 48, 50\n\n1038          Índice\n    datas e horas, 34\n    defi nindo uma classe de números complexos \n(exemplo), 200\n    literais em ponto fl utuante, 31\n    literais inteiras, 31\n    objetos wrapper, 42\nnúmeros binários em ponto fl",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5521,
+    "totalChunks": 10000
+  }
+}

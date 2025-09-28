@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3228",
+  "content": "o elemento. jQuery.grep() retorna um \nnovo array contendo apenas os elementos do array de argumentos para os quais o predicado \nretornou true (ou outro valor verdadeiro). Se você passa true como terceiro argumento para \njQuery.grep(), ela inverte o sentido do predicado e retorna um array de elementos para os \nquais o predicado retornou false ou outro valor falso.\njQuery.inArray()\nEsta função é como o método ES5 indexOf() do objeto Array. Ela espera um valor arbitrário \ncomo primeiro argumento, um array (ou objeto semelhante a um array) como segundo e \nretorna o primeiro índice do array em que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3228,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_724",
+  "content": "am essa proprie-\ndade, mas que uma vírgula ainda é exigida depois do corpo da função, para separar o método \ndo método seguinte ou da propriedade de dados. Como exemplo, considere o objeto a seguir, \nque representa um ponto cartesiano bidimensional. Ele tem propriedades de dados normais para \nrepresentar as coordenadas X e Y do ponto e tem propriedades de acesso para as coordenadas \npolares equivalentes do ponto:\nvar p = {\n    // x e y são propriedades de dados de leitura-gravação normais.\n    x:    1.0,\n    y:    1.0,\n    // r é uma propriedade de acesso de leitura-gravação com métodos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 724,
+    "totalChunks": 10000
+  }
+}

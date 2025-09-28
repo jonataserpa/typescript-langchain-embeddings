@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_772",
+  "content": "ção à propriedade.) Use Object.isFrozen() \npara determinar se um objeto está congelado.\nÉ importante entender que \nObject.seal() e Object.freeze() afetam apenas o objeto em que são \npassados: eles não têm efeito algum sobre o protótipo desse objeto. Se quiser bloquear um objeto \ncompletamente, você provavelmente também precisa selar ou congelar os objetos no encadeamento \nde protótipos.\nObject.preventExtensions(), Object.seal() e Object.freeze() retornam o objeto em que são passa-\ndos, ou seja, é possível utilizá-los em chamadas de função aninhadas:\n// Cria um objeto selado com protótipo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 772,
+    "totalChunks": 10000
+  }
+}

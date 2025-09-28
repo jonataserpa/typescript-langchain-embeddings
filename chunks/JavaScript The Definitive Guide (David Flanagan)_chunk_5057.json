@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5057",
+  "content": "edades no objeto MessageEvent. Os eventos message não borbulham e não têm qualquer ação \npadrão para cancelar.\nPropriedades\nreadonly any data\nEssa propriedade contém a mensagem que está sendo enviada. data pode ser de qualquer tipo \nque possa ser clonado com o algoritmo de clone estruturado (“Clones estruturados”, na página \n672) – isso inclui valores do núcleo de JavaScript, inclusive objetos e arrays, mas não funções. \nValores do lado do cliente, como nós Document e Element, não são permitidos, embora Blobs \ne ArrayBuffers sejam.\nreadonly string lastEventId\nPara  eventos  message  em  um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5057,
+    "totalChunks": 10000
+  }
+}

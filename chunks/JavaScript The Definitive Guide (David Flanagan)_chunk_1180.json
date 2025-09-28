@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1180",
+  "content": "usiva e, então, usando essa string como um nome de \npropriedade. Os objetos e as funções não têm uma representação de string concisa e exclusiva, de \nmodo que a classe Set precisa definir uma propriedade identificadora em qualquer objeto ou função \narmazenada no conjunto.\nExemplo 9-6 Set.js: um conjunto arbitrário de valores\nfunction Set() {           // Esta é a construtora\n    this.values = {};      // As propriedades do objeto this contêm o conjunto\n    this.n = 0;            // Quantos valores existem no conjunto\n    this.add.apply(this,    arguments);    // Todos os argumentos são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1180,
+    "totalChunks": 10000
+  }
+}

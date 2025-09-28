@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4956",
+  "content": "o.\n\n      Referência de JavaScript do lado do cliente      935\nReferência de \nJavaScript do lado \ndo cliente\ncss(nome):value\ncss(nome, valor)\ncss(nome, f(ind,atual):value)\ncss(obj)\nÉ como attr(), mas consulta ou configura atributos de estilo CSS, em vez de atributos HTML.\ndata():obj\ndata(chave):value\ndata(chave, valor)\ndata(obj)\nSem argumentos, retorna o objeto data do primeiro elemento selecionado. Com um argumen-\nto de string, retorna o valor da propriedade nomeada desse objeto data. Com dois argumentos, \nconfigura a propriedade nomeada do objeto data de todos os elementos selecionados com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4956,
+    "totalChunks": 10000
+  }
+}

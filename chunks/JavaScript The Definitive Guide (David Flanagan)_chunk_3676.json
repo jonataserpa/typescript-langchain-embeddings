@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3676",
+  "content": "as. O canto superior esquerdo da imagem de origem fica em \n(x,y) e o canto inferior \ndireito fica em (x+width, y+height). Novamente, a imagem de origem inteira é copiada. O retângulo \nde destino é medido no sistema de coordenadas atual. Com essa versão do método, a imagem de \norigem vai mudar de escala para caber no retângulo de destino, mesmo que nenhuma transformação \nde escala tenha sido especificada.\nA versão de \ndrawImage() com nove argumentos especifica um retângulo de origem e um retângulo \nde destino e copia somente os pixels dentro do retângulo de origem. Os argumentos de dois a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3676,
+    "totalChunks": 10000
+  }
+}

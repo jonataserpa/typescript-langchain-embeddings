@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_805",
+  "content": "ay \nassim levará praticamente o mesmo tempo que uma busca de propriedade de objeto normal.\nNote que, quando omite um valor de um array literal (usando vírgulas repetidas, como em \n[1,,3]), \no array resultante é esparso e os elementos omitidos não existem.\nvar a1 = [,];          // Este array não tem elementos e tem comprimento 1\nvar a2 = [undefined];  // Este array tem um elemento undefined\n0 in a1                // => falso: a1 não tem elemento com índice 0\n0 in a2                // => verdadeiro: a2 tem valor undefined no índice 0\nAlgumas  implementações  mais  antigas  (como  o  Firefox",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 805,
+    "totalChunks": 10000
+  }
+}

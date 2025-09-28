@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1115",
+  "content": "ototype.constructor === F para qualquer função\n\n198          Parte     I     JavaScript     básica\nA existência desse objeto protótipo predefinido com sua propriedade constructor significa que os \nobjetos normalmente herdam uma propriedade constructor que se refere às suas construtoras. Como \nas construtoras servem como identidade pública de uma classe, essa propriedade constructor fornece \na classe de um objeto:\nvar o = new F();      // Cria um objeto o da classe F\no.constructor === F   // => verdadeiro: a propriedade constructor especifica a classe\nA Figura 9-1 ilustra essa relação entre a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1115,
+    "totalChunks": 10000
+  }
+}

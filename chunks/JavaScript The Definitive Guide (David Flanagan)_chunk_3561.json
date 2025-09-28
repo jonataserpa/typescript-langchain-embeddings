@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3561",
+  "content": "consultar e configurar os valores brutos de vermelho, verde, azul e alfa (transparência) \ndos pixels no canvas.\n •   Como determinar se ocorreu um evento de mouse em cima de algo que você desenhou em \num canvas.\nA seção termina com um exemplo prático que usa elementos \n<canvas> para renderizar pequenos \ngráficos em linha conhecidos como sparklines.\nBoa parte do código de exemplo de \n<canvas> a seguir opera em uma variável c. Essa variável contém \no objeto CanvasRenderingContext2D do canvas, mas o código para inicializar essa variável normal-\nmente não é mostrado. Para fazer esses exemplos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3561,
+    "totalChunks": 10000
+  }
+}

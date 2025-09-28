@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3088",
+  "content": ");\nOu então, poderia usar bind() nas partes estáticas de seu documento e depois usar delegate() para \ntratar das partes que mudam dinamicamente:\n// Rotinas de tratamento de evento estáticas para links estáticos\n$(\"a\").bind(\"mouseover\", linkHandler);\n\n536          Parte II     JavaScript do lado do cliente\n// Rotinas de tratamento de evento dinâmicas para as partes do documento que são \n// atualizadas dinamicamente\n$(\".dynamic\").delegate(\"a\", \"mouseover\", linkHandler);\nAssim como o método bind() tem uma versão de três argumentos que permite especificar o valor da \npropriedade data do objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3088,
+    "totalChunks": 10000
+  }
+}

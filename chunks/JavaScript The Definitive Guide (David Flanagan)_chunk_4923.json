@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4923",
+  "content": "dade especifica um valor que anula a propriedade \nmethod do formulário contêiner. Espelha o atributo formmethod.\nboolean formNoValidate*\nPara elementos botão de envio, essa propriedade especifica um valor que anula a propriedade \nnoValidate do formulário contêiner. Espelha o atributo formnovalidate.\nstring formTarget*\nPara elementos botão de envio, essa propriedade especifica um valor que anula a propriedade \ntarget do formulário contêiner. Espelha o atributo formtarget.\nboolean indeterminate\nPara caixas de seleção, essa propriedade especifica se o elemento está em um estado indetermi-\nnado",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4923,
+    "totalChunks": 10000
+  }
+}

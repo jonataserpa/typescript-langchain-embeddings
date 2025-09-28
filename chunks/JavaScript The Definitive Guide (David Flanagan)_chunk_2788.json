@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2788",
+  "content": "síncronas\nPor sua própria natureza, as respostas HTTP são mais bem manipuladas de forma assíncrona. Con-\ntudo, a XMLHttpRequest também suporta respostas síncronas. Se você passar false como terceiro \nargumento para open(), o método send() vai bloquear até que o pedido seja concluído. Nesse caso, \nnão há necessidade de usar uma rotina de tratamento de evento: quando send() retorna, você pode \napenas verificar as propriedades status e responseText do objeto XMLHttpRequest. Compare este \ncódigo síncrono com a função getText() do Exemplo 18-2:\n// Faz um pedido HTTP GET síncrono solicitando o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2788,
+    "totalChunks": 10000
+  }
+}

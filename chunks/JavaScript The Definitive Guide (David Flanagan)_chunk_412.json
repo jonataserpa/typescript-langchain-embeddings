@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_412",
+  "content": "ts sem sinal, eles eliminam todos os bits além do 5º, o que gera um \nnúmero no intervalo apropriado. Surpreendentemente, \nNaN, Infinity e -Infinity são todos conver-\ntidos em 0 quando usados como operandos desses operadores bit a bit.\nE bit a bit (\n&)\nO operador \n& executa uma operação E booleana em cada bit de seus argumentos inteiros. Um \nbit só se torna 1 no resultado se o bit correspondente for 1 nos dois operandos. Por exemplo, \n0x1234 & 0x00FF é avaliado como 0x0034.\n\nCapítulo 4     Expressões e operadores      69\nJavaScript básica\nOU bit a bit (|)\nO operador \n| executa uma operação OU",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 412,
+    "totalChunks": 10000
+  }
+}

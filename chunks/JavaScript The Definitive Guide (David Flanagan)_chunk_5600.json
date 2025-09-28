@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5600",
+  "content": ", 424\npropriedade opener, objeto Window, 347, 987\npropriedade optimum, objeto Meter, 957\npropriedade orientation, objeto Window, 444\npropriedade origin, objeto MessageEvent, 662, 955\npropriedade originalEvent, objeto Event, 530\npropriedade otions, elemento Select, 970–971\npropriedade outerHTML, objeto Element, 369, \n888–889\n    implementando com innerHTML, 374\npropriedade overfl ow, 417, 439\npropriedade ownerDocument, objeto Node, 961\npropriedade ownerNode, objeto CSSStyleSheet, 871\npropriedade ownerRule, objeto CSSStyleSheet, 871\npropriedade padding, 405\npropriedade parent, 347\n    objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5600,
+    "totalChunks": 10000
+  }
+}

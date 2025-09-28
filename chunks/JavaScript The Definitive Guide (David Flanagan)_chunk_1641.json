@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1641",
+  "content": "nclui vários métodos para listar diretórios, consultar atributos de arquivo, \netc. O programa Node a seguir usa métodos síncronos para listar o conteúdo de um diretório, junto \ncom o tamanho de arquivo e a data de modificação:\n#! /usr/local/bin/node\nvar fs = require(\"fs\"), path = require(\"path\");     // Carrega os módulos necessários\nvar dir = process.cwd();              // Diretório corrente\nif (process.argv.length > 2) dir = process.argv[2];  // Ou a partir da linha de comando\nvar files = fs.readdirSync(dir);      // Lê o conteúdo do diretório\nprocess.stdout.write(\"Name\\tSize\\tDate\\n\");",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1641,
+    "totalChunks": 10000
+  }
+}

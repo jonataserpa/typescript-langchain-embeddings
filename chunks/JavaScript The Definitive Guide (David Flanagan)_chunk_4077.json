@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4077",
+  "content": "mentos\npredicado\nUma função predicado para testar elementos do array\no\nO valor opcional de this para chamadas de predicado.\nRetorna\ntrue se predicado retorna true (ou um valor verdadeiro) para pelo menos um elemento de array ou \nfalse, se o predicado retorna false (ou um valor falso) para todo os elementos.\nDescrição\nO método some() testa se uma condição vale para pelo menos um elemento de um array. Ele itera \npelos elementos de array, em ordem crescente, e chama a função predicado especificada em cada \nelemento por sua vez. Se predicado retorna true (ou um valor que é convertido em true),",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4077,
+    "totalChunks": 10000
+  }
+}

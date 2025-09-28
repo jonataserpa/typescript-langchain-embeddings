@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3261",
+  "content": "todos os elementos que coincidem com \nqualquer uma das combinações de seletor do grupo. Para nossos propósitos aqui, mesmo um seletor \nsimples pode ser considerado uma combinação de seletores. Aqui estão alguns exemplos de grupos \nde seletores:\n\"h1, h2, h3\"          // Corresponde a elementos <h1>, <h2> e <h3>\n\"#p1, #p2, #p3\"       // Corresponde a elementos com identificação p1, p2 e p3\n\"div.note, p.note\"    // Corresponde a elementos <div> e <p> com class=\"note\"\n\"body>p,div.note>p\"   // <p> filhos de <body> e <div class=\"note\">\nNote que a sintaxe de seletor da CSS e da jQuery usa",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3261,
+    "totalChunks": 10000
+  }
+}

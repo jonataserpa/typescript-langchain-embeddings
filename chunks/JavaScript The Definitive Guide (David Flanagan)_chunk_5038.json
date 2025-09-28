@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5038",
+  "content": "e rápida ou lenta.)\nreadonly TimeRanges played\nOs intervalos de tempo que foram reproduzidos.\nstring preload\nEssa propriedade espelha o atributo HTML de mesmo nome e você pode usá-la para especi-\nficar o volume de dados de mídia que o navegador deve buscar antes que o usuário solicite a \nreprodução dessa mídia. O valor “none” significa que nenhum dado deve ser carregado pre-\nviamente. O valor “metadados” significa que o navegador deve buscar os metadados da mídia \n(como a duração), mas não os dados reais em si. O valor “auto” (ou apenas a string vazia, caso \no atributo \npreload seja",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5038,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_612",
+  "content": "da se qualquer parte do bloco try é exe-\ncutada, independente de como o código do bloco try termina. Ela é geralmente usada para fazer a \nlimpeza após o código na cláusula try.\n\n106          Parte     I     JavaScript     básica\nNo caso normal, o interpretador JavaScript chega ao final do bloco try e então passa para o bloco \nfinally, o qual faz toda limpeza necessária. Se o interpretador sai do bloco try por causa de uma \ninstrução \nreturn, continue ou break, o bloco finally é executado antes que o interpretador pule para \nseu novo destino.\nSe ocorre uma exceção no bloco \ntry e existe um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 612,
+    "totalChunks": 10000
+  }
+}

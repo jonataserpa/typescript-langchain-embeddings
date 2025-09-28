@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1018",
+  "content": "a métodos de acesso à propriedade getName e setName()\n// Garante que somente valores de string sejam permitidos\naddPrivateProperty(o, \"Name\", function(x) { return typeof x == \"string\"; });\no.setName(\"Frank\");    // Configura a propriedade value\nconsole.log(o.getName());       // Obtém a propriedade value\no.setName(0);          // Tenta configurar um valor de tipo errado\nVimos vários exemplos nos quais duas closures são definidas no mesmo encadeamento de escopo e \ncompartilham o acesso à mesma variável (ou variáveis) privada. Essa é uma técnica importante, mas \n\n180          Parte     I",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1018,
+    "totalChunks": 10000
+  }
+}

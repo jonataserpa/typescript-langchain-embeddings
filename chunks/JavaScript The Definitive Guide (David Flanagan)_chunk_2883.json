@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2883",
+  "content": "ada. Adiciona um parâmetro de \n// consulta chamado \"jsonp\" no URL, para especificar o nome da função callback para a \n// requisição.\nfunction getJSONP(url, callback) {\n    // Cria um nome de callback exclusivo apenas para essa requisição\n    var cbnum = \"cb\" + getJSONP.counter++;       // Incrementa counter a cada vez\n    var cbname = \"getJSONP.\" + cbnum;            // Como uma propriedade dessa função\n  // Adiciona o nome de callback na string de consulta de url, usando codificação de \n// formulário\n    // Usamos o nome de parâmetro \"jsonp\". Alguns serviços habilitados para JSONP\n    //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2883,
+    "totalChunks": 10000
+  }
+}

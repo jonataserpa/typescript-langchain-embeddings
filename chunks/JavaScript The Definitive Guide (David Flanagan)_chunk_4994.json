@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4994",
+  "content": "a é a função Ajax complicada, mas totalmente geral, na qual todos os utilitários Ajax da \njQuery são baseados. Ela espera um único argumento objeto, cujas propriedades especificam \ntodos os detalhes do pedido Ajax e do tratamento da resposta do servidor. As opções mais \ncomuns estão descritas na Seção 19.6.3.1 e as opções de retorno de chamada estão abordadas \nna Seção 19.6.3.2.\n\n      Referência de JavaScript do lado do cliente      943\nReferência de \nJavaScript do lado \ndo cliente\njQuery.ajaxSetup(opções)\nEssa função configura valores padrão para opções Ajax da jQuery. Passe o mesmo tipo de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4994,
+    "totalChunks": 10000
+  }
+}

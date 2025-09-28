@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3833",
+  "content": "ndo um motion blur.\n// Para imagens grandes, essa função faz muitos cálculos e causaria problemas de resposta \n// na interface com o usuário se fosse usada na thread principal.\nfunction smear(pixels) {\n    var data = pixels.data, width = pixels.width, height = pixels.height;\n    var n = 10, m = n-1;        // Torna n maior para mais mancha\n    for(var row = 0; row < height; row++) {               // Para cada linha\n        var i = row*width*4 + 4;                          // Deslocamento do 2º pixel\n        for(var col = 1; col < width; col++, i += 4) {    // Para cada coluna",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3833,
+    "totalChunks": 10000
+  }
+}

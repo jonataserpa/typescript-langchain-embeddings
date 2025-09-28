@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4131",
+  "content": "ado para configurar a data em um \nobjeto Date já existente com \nDate.setTime().\n\n      Referência de JavaScript básica      737\nReferência de \nJavaScript básica\nECMAScript 5 exige que esse método seja capaz de analisar strings retornadas pelo método Date.\ntoISOString(). Em ECMAScript 5 e anteriores, esse método também é obrigado a analisar as strings \ndependentes da implementação retornadas pelos métodos \ntoUTCString() e toString().\nConsulte também\nDate, Date.setTime(), Date.toISOString(), Date.toString()\nDate.setDate()\nconfigura o campo de dia do mês de um objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4131,
+    "totalChunks": 10000
+  }
+}

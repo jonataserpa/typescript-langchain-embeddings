@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2855",
+  "content": "allback para uma\n// resposta parcial que atingiu o tempo-limite. Esse problema não surge se usamos o \n// evento load.\nfunction timedGetText(url, timeout, callback) {\n    var request = new XMLHttpRequest(); // Cria nova requisição.\n    var timedout = false;              // Tenhamos atingido o tempo-limite ou não.\n    // Inicia um timer que vai abortar o pedido após timeout ms.\n    var timer = setTimeout(function() {          // Inicia um timer. Se disparado,\n                      timedout = true; // ativa um flag e, então,\n                      request.abort(); // cancela a requisição.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2855,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3815",
+  "content": "do à natureza assíncrona de JavaScript do lado do cliente, poderá parecer estranho \nvoltar novamente para a programação síncrona simples. Mas esse é o encanto das threads: você \npode usar uma chamada de função com bloqueio em um worker sem bloquear o laço de eventos \nna thread principal e sem bloquear os cálculos que estão sendo efetuados concomitantemente nos \noutros workers.\n\n668          Parte II     JavaScript do lado do cliente\nModelo de execução de worker\nAs threads worker executam seu código (e todos os scripts importados) de forma síncrona, de cima para \nbaixo,  e  então  entram  em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3815,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4324",
+  "content": "i-\ntor de propriedade desc. Consulte Object.getOwnPropertyDescriptor() para ver uma explicação sobre \nos objetos descritores de propriedade.\nSe \no ainda não tem uma propriedade chamada nome, então essa função simplesmente cria uma nova \npropriedade com os atributos e o valor especificados em desc. Se faltar propriedades em desc, os \natributos correspondentes serão configurados como false ou undefined.\nSe \nnome é o nome de uma propriedade de o já existente, Object.defineProperty() configura essa \npropriedade, alterando seu valor ou seus atributos. Nesse caso, desc só precisa conter os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4324,
+    "totalChunks": 10000
+  }
+}

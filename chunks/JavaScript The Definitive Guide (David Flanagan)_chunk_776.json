@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_776",
+  "content": "strings, números finitos, true, false e null são suportados e podem \nser serializados e restaurados. NaN, Infinity e -Infinity são serializados como null. Os objetos Date \nsão serializados como strings de data com formato ISO (consulte a função Date.toJSON()), mas JSON.\nparse() os deixa na forma de string e não restaura o objeto Date original. Objetos Function, RegExp \ne Error e o valor undefined não podem ser serializados nem restaurados. JSON.stringify() serializa \nsomente as propriedades próprias enumeráveis de um objeto. Se um valor de propriedade não pode \nser serializado, essa",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 776,
+    "totalChunks": 10000
+  }
+}

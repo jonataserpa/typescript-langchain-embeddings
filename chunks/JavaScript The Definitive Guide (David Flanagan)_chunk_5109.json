@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5109",
+  "content": "dos de DOMTokenList para con-\nsultar e configurar identificações de elemento individuais a partir da lista.\nPageTransitionEvent\nobjeto evento para eventos pageshow e pagehide Event\nOs navegadores disparam um evento pageshow após o evento load, quando um documento é carre-\ngado pela primeira vez; então, disparam outro evento pageshow sempre que a página é restaurada a \npartir da cache de histórico na memória. Um objeto PageTransitionEvent é associado a cada evento \npageshow e sua propriedade \npersisted é true se a página está sendo restaurada, em vez de carregada \nou recarregada.\nOs eventos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5109,
+    "totalChunks": 10000
+  }
+}

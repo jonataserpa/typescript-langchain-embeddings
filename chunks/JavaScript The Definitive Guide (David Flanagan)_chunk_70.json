@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_70",
+  "content": "{x:1, y:1}\n];\nvar data = { // Um objeto com 2 propriedades\n  trial1: [[1,2], [3,4]],  // O valor de cada propriedade é um array.\n  trial2: [[2,3], [4,5]],  // Os elementos dos arrays são arrays.\n};\nA sintaxe ilustrada anteriormente para listar elementos de array entre chaves ou para mapear nomes \nde propriedade de objeto em valores de propriedade entre colchetes é conhecida como expressão ini-\ncializadora e é apenas um dos assuntos do Capítulo 4, Expressões e operadores. Uma expressão é uma \nfrase em JavaScript que pode ser avaliada para produzir um valor. O uso de . e [] para se referir",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 70,
+    "totalChunks": 10000
+  }
+}

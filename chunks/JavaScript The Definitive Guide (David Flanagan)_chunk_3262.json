@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3262",
+  "content": "// <p> filhos de <body> e <div class=\"note\">\nNote que a sintaxe de seletor da CSS e da jQuery usa parênteses para alguns dos filtros nos seletores \nsimples, mas não permite o uso mais geral de parênteses para agrupamento. Você não pode colocar \num grupo de seletores ou combinação de seletores entre parênteses e tratar isso como um seletor \nsimples, por exemplo:\n(h1, h2, h3)+p        // Inválido\nh1+p, h2+p, h3+p      // Escreva isto, em seu lugar\n19.8.2   Métodos de seleção\nAlém da gramática de seletor suportada por $(), a jQuery define vários métodos de seleção. A maioria \ndos métodos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3262,
+    "totalChunks": 10000
+  }
+}

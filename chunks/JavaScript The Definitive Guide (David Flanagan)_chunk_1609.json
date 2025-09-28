@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1609",
+  "content": "ora, se ele clicou em Cancel\n        if (response != JFileChooser.APPROVE_OPTION) return;\n        // Caso contrário, obtém o java.io.File que representa o arquivo de destino\n        var file = filechooser.getSelectedFile();\n        // Agora inicia uma nova thread para baixar o url\n        new java.lang.Thread(function() { download(url,file); }).start();\n }\n    catch(e)    {\n        // Exibe uma caixa de diálogo se tudo der errado\n\nCapítulo 12     JavaScript do lado do servidor      287\nJavaScript básica\n        JOptionPane.showMessageDialog(frame, e.message, \"Exception\",",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1609,
+    "totalChunks": 10000
+  }
+}

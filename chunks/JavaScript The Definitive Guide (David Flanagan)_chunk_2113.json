@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2113",
+  "content": "a mudar a ordem dos nós existentes.\nExemplo 15-4 Classificando as linhas de uma tabela\n// Classifica as linhas no primeiro <tbody> da tabela especificada, de acordo com\n// o valor da n-ésima célula dentro de cada linha. Usa a função comparator\n// se uma estiver especificada. Caso contrário, compara os valores alfabeticamente.\nfunction sortrows(table, n, comparator) {\n    var tbody = table.tBodies[0];   // Primeiro <tbody>; pode ser criado implicitamente\n    var rows = tbody.getElementsByTagName(\"tr\"); // Todas as linhas no tbody\n    rows = Array.prototype.slice.call(rows,0);   // Instantâneo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2113,
+    "totalChunks": 10000
+  }
+}

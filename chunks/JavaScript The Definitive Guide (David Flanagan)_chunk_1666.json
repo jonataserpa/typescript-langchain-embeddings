@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1666",
+  "content": "e\nCapítulo 21, Mídia e gráficos em scripts\nCapítulo 22, APIs de HTML5\nPARTE II\nJavaScript do lado do cliente\n\n\n\nCapítulo 13\nJavaScript em navegadores Web\nA primeira parte deste livro descreveu a linguagem JavaScript básica. Agora passamos para JavaScript \ncomo é usada em navegadores Web, normalmente chamada de JavaScript do lado do cliente. A \nmaioria dos exemplos que vimos até aqui, embora fossem código JavaScript válido, não tinha con-\ntexto algum em especial; eram fragmentos de JavaScript executados em um ambiente não especifica-\ndo. Este capítulo fornece esse contexto.\nAntes de começarmos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1666,
+    "totalChunks": 10000
+  }
+}

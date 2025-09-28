@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2708",
+  "content": "ficação Unicode do caractere principal que aparece na tecla. As teclas de letra sempre geram valores \nde keyCode maiúsculos, independente do estado da tecla Shift, visto que é o que aparece na tecla físi-\nca. Da mesma forma, as teclas numéricas sempre geram valores de keyCode para o dígito que aparece \nna tecla, mesmo que você esteja pressionando a tecla Shift para digitar um caractere de pontuação. \nPara teclas não imprimíveis, a propriedade keyCode será algum outro valor. Esses valores de keyCode \nnunca foram padronizados, mas é possível uma compatibilidade razoável entre os navegadores e o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2708,
+    "totalChunks": 10000
+  }
+}

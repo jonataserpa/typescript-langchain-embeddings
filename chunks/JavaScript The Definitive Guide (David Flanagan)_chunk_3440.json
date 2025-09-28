@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3440",
+  "content": "etria de versão e geralmen-\nte não é uma boa ideia, a não ser que seu aplicativo seja cuidadosamente projetado para permitir isso. \nImagine, por exemplo, um aplicativo que não faz nada além de exibir uma tela de abertura de algum \ntipo, enquanto o navegador está verificando o manifesto. Quando ele vê o evento noupdate, vai em \nfrente e carrega a página inicial do aplicativo. Se vê um evento downloading, ele exibe o feedback de \nandamento apropriado, enquanto a cache é atualizada. E quando recebe um evento updateready, ele \nchama swapCache() e, em seguida, carrega a página inicial atualizada",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3440,
+    "totalChunks": 10000
+  }
+}

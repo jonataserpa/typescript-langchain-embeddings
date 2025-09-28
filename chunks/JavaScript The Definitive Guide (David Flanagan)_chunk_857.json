@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_857",
+  "content": "ção passada para foreach() lança \nforeach.break, o laço termina antes:\nfunction foreach(a,f,t) {\n    try { a.forEach(f,t); }\n\n150          Parte     I     JavaScript     básica\n    catch(e)    {\n    if (e === foreach.break) return;\n    else throw e;\n }\n}\nforeach.break = new Error(\"StopIteration\");\n7.9.2   map()\nO método map() passa cada elemento do array em que é chamado para a função especificada e retor-\nna um array contendo os valores retornados por essa função. Por exemplo:\na = [1, 2, 3];\nb = a.map(function(x) { return x*x; });  // b é [1, 4, 9]\nA função passada para map() é chamada da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 857,
+    "totalChunks": 10000
+  }
+}

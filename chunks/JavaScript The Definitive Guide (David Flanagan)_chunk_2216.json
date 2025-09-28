@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2216",
+  "content": "ssociar dados extras a um elemento do formulário. \nAinda neste capítulo, a propriedade \nvalue também é discutida nas seções sobre as diferentes \ncategorias de elementos de formulário.\n15.9.3   Rotinas de tratamento de evento de formulário e elemento\nCada elemento Form tem uma rotina de tratamento de evento onsubmit para detectar o envio de \nformulário e uma rotina de tratamento de evento \nonreset para detectar redefinições de formulário. \n\nCapítulo 15     Escrevendo script de documentos      391\nJavaScript do\n lado do cliente\nA rotina de tratamento onsubmit é chamada imediatamente antes que o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2216,
+    "totalChunks": 10000
+  }
+}

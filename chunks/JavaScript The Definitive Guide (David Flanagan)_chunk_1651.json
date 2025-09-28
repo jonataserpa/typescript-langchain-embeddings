@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1651",
+  "content": "+ \"\\r\\n\");\n        // E os cabeçalhos do pedido\n        for(var h in request.headers) {\n            response.write(h + \": \" + request.headers[h] + \"\\r\\n\");\n  }\n        response.write(\"\\r\\n\"); // Finaliza os cabeçalhos com uma linha em branco extra\n        // Completamos a resposta nestas funções de tratamento de evento:\n        // Quando for um trecho do corpo da resposta, adiciona-o na resposta.\n        request.on(\"data\", function(chunk) { response.write(chunk); });\n        // Quando o pedido termina, a resposta também terminou.\n        request.on(“end”, function(chunk) { response.end();",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1651,
+    "totalChunks": 10000
+  }
+}

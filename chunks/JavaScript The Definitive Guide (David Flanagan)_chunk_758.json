@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_758",
+  "content": "lmente herdam uma propriedade constructor \nque se refere à função construtora utilizada para criar o objeto. E, conforme descrito anterior-\nmente, as funções construtoras têm uma propriedade prototype que especifica o protótipo dos \nobjetos criados usando elas. Isso está explicado com mais detalhes na Seção 9.2, que também \nexplica por que este não é um método completamente confiável para determinar o protótipo \nde um objeto. Note que os objetos criados por objetos literais ou por Object.create() têm uma \npropriedade constructor que se refere à construtora Object(). Assim,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 758,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_388",
+  "content": "ecedência mais alta do que qual-\nquer um dos operadores listados na Tabela 4-1. Considere a seguinte expressão:\ntypeof my.functions[x](y)\nEmbora typeof seja um dos operadores de prioridade mais alta, a operação typeof é efetuada no \nresultado dos dois acessos à propriedade e na chamada de função.\nNa prática, se você não tiver certeza da precedência de seus operadores, o mais simples a fazer é utili-\nzar parênteses para tornar a ordem de avaliação explícita. As regras importantes para se conhecer são \nestas: multiplicação e divisão são efetuadas antes de adição e subtração e a atribuição tem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 388,
+    "totalChunks": 10000
+  }
+}

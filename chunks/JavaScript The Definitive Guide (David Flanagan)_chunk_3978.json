@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3978",
+  "content": "cursor nulo para indicar que terminamos.\n            var cursor = request.result // O cursor está em request.result\n            if (!cursor) return;        // Nenhum cursor significa que não existem mais \n// resultados\n            var object = cursor.value  // Obtém o recurso correspondente\n            callback(object);         // Passa-o para a função callback\n            cursor.continue();         // Solicita o próximo registro coincidente\n        };\n    });\n}\n// Esta função é usada por uma função callback de onchange no documento a seguir\n// Ela faz uma requisição de BD e exibe o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3978,
+    "totalChunks": 10000
+  }
+}

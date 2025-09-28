@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1635",
+  "content": "// => 0: o buffer adjacente também é modificado\n\nCapítulo 12     JavaScript do lado do servidor      291\nJavaScript básica\nvar more = new Buffer(8);       // Cria um novo buffer separado\nend.copy(more, 0, 8, 16);       // Copia os elementos 8-15 de end[] em more[]\nmore[0]                // => 248\n// Os buffers também fazem conversão binário <=> texto\n// Codificações válidas: \"utf8\", \"ascii\" e \"base64\". \"utf8\" é o padrão.\nvar buf = new Buffer(\"2πr\", \"utf8\"); // Codifica texto em bytes usando UTF-8\nbuf.length                 // => 3 caracteres ocupam 4 bytes\nbuf.toString()             // =>",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1635,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2342",
+  "content": "preciso entender esse modelo para realmente \ncompreender as propriedades de posicionamento de CSS.\nA Figura 16-2 ilustra o modelo de caixa de CSS e explica visualmente o significado de \ntop, left, \nwidth e height para elementos que têm bordas e preenchimento.\nÁrea de conteúdo\ndo filho\nleft\npadding-left\npadding-top\npadding-bottom\npadding-right\nwidth\nheight\nÁrea de conteúdo do contêiner\ntop\nborder-right-width\nborder-left-width\nborder-top-width\nborder-bottom-width\nFigura 16-2 O modelo de caixa de CSS: propriedades de bordas, preenchimento e posicionamento.\n\n414          Parte II     JavaScript",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2342,
+    "totalChunks": 10000
+  }
+}

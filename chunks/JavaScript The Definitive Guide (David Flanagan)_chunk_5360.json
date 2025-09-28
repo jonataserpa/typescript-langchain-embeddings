@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5360",
+  "content": "ários condicionais no Internet Explorer, \n323\n    modo Quirks e modo Standards, 322\n    suporte para navegador graduado, 321\n    teste de navegador, 322\n    teste de recursos, 321\ncompatMode, objeto Document, 322, 876\ncompondo no canvas, 643–646, 852–853\n    de forma local em vez de globalmente, 645\ncomponentes de editor em estruturas, 400\ncomposição\n    subclasses    versus, 227\n    usando com aplicação parcial de funções, 191\ncomprimento de uma string, 35\n    determinando,    37\nconcatenando strings, 37\nconjuntos, classe Set (exemplo), 209–211\nconjuntos de caractere, 21\nconsole API,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5360,
+    "totalChunks": 10000
+  }
+}

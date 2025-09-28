@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5543",
+  "content": "os,    961\n    propriedade textContent, 370\n    propriedades,    960\nobjeto NodeList, 355, 880, 963\n    retornado por getElementsByTagName( ), 356\n    visão geral do, 357\nobjeto Number, 785–793\n    constantes,    785–786\n    MAX_VALUE,    786–787\n    método toExponential( ), 788–789\n    método toFixed( ), 789–790\n    método toLocaleString( ), 790–791\n    método toPrecision( ), 790–791\n    método toString( ), 47, 791–792\n    método valueOf( ), 792–793\n    métodos,    785–786\n    MIN_VALUE,    787–788\n    NaN,    787–788\n    NEGATIVE_INFINITY,    787–788\n    POSITIVE_INFINITY,    788–789",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5543,
+    "totalChunks": 10000
+  }
+}

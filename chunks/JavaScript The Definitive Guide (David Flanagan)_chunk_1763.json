@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1763",
+  "content": "mecanismo definido. A HTML5 define “Web workers”, os \nquais servem como um tipo de thread de segundo plano (mais sobre Web workers a seguir), mas \nJavaScript do lado do cliente ainda se comporta como se fosse rigorosamente de thread única. Mes-\nmo quando a execução concomitante é possível, JavaScript do lado do cliente não pode detectar o \nfato de que isso está ocorrendo.\nA execução com thread única contribui para scripts muito mais simples: pode-se escrever código \ncom a certeza de que duas rotinas de tratamento de evento nunca será executadas ao mesmo tempo. \nVocê pode manipular conteúdo de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1763,
+    "totalChunks": 10000
+  }
+}

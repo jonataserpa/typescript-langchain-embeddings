@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3372",
+  "content": "seu servidor.\nO último atributo de cookie é um valor booleano chamado secure que especifica como os valores de \ncookie são transmitidos pela rede. Por default, os cookies são inseguros, ou seja, são transmitidos \npor uma conexão HTTP insegura normal. Contudo, se um cookie é marcado como secure, ele \né transmitido somente quando o navegador e o servidor estão conectados via HTTPS ou outro \nprotocolo seguro.\n20.2.2   Armazenando   cookies\nPara associar um valor de cookie transiente ao documento atual, basta configurar a propriedade \ncookie com uma string da forma:\nnome=valor\nPor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3372,
+    "totalChunks": 10000
+  }
+}

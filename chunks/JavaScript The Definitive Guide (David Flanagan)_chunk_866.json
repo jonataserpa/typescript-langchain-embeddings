@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_866",
+  "content": "segundo argumento (opcional) é um valor inicial a ser \npassado para a função.\nAs funções usadas com \nreduce() são diferentes das funções usadas com forEach() e map(). O valor \nconhecido, o índice e os valores do array são passados como segundo, terceiro e quarto argumentos. \nO primeiro argumento é o resultado acumulado da redução até o momento. Na primeira chamada \nda  função,  esse  primeiro  argumento  é  o  valor  inicial  passado  como  segundo  argumento  para  \nreduce(). Nas chamadas subsequentes, é o valor retornado pela chamada anterior da função. No \nprimeiro exemplo anterior, a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 866,
+    "totalChunks": 10000
+  }
+}

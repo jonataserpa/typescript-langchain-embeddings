@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2108",
+  "content": "mment(). Vamos \nusar o método \ncreateDocumentFragment() na Seção 15.6.4. Ao trabalhar com documentos que usam \nespaço de nomes XML, você pode utilizar \ncreateElementNS() para especificar o URI do espaço de \nnomes e o nome de tag do objeto Element a ser criado.\nOutra maneira de criar novos nós de documento é fazer cópias dos já existentes. Todo nó tem um \nmétodo cloneNode() que retorna uma nova cópia do nó. Passe true para também copiar todos os \ndescendentes recursivamente, ou false para fazer apenas uma cópia rasa. Nos navegadores (me-\nnos o IE), o objeto Document também define um método",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2108,
+    "totalChunks": 10000
+  }
+}

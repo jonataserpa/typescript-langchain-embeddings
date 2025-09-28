@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2515",
+  "content": "de key se e quando for implementada.\n17.1.3   Eventos   HTML5\nA HTML5 e padrões relacionados definem várias APIs novas para aplicativos Web (consulte o Ca-\npítulo 22). Muitas dessas APIs definem eventos. Esta seção lista e descreve de forma sucinta esses \neventos HTML5 e de aplicativo Web. Alguns deles estão prontos para serem usados agora e são \nexplicados com mais detalhes em outra parte do livro. Outros ainda não são amplamente implemen-\ntados e não são documentados em detalhes.\nUm dos recursos de HTML muito anunciados é a inclusão de elementos \n<audio> e <video> para \nreprodução de som e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2515,
+    "totalChunks": 10000
+  }
+}

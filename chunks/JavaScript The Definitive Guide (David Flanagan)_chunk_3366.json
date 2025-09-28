@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3366",
+  "content": "ww.example.com/catalog/index.html \ncria um cookie, por exemplo, esse cookie também está visível para http://www.example.com/catalog/\norder.html e para http://www.example.com/catalog/widgets/index.html, mas não para http://www.exam-\nple.com/about.html.\nMuitas vezes, esse comportamento de visibilidade padrão é exatamente o que se quer. Às vezes, con-\ntudo, você quer usar valores de cookie em todo o site, independente da página que criou o cookie. \nPor exemplo, se o usuário digita seu endereço de correspondência em uma página de um formulário, \ntalvez você queira salvar esse endereço para usar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3366,
+    "totalChunks": 10000
+  }
+}

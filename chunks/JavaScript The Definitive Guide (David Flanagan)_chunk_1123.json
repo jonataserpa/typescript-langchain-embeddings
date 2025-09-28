@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1123",
+  "content": "das por todas as instâncias da classe e as propriedades \ncujos valores são funções se comportam como métodos de instância da classe.\nObjeto instância\nCada instância de uma classe é um objeto por si só e as propriedades definidas diretamente em \numa instância não são compartilhadas por qualquer outra instância. As propriedades que não \nsão função, definidas em instâncias, se comportam como os campos de instância da classe.\nPodemos reduzir o processo de definição de classe em JavaScript a um algoritmo de três etapas. \nPrimeiramente, escreva uma função construtora que configure propriedades de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1123,
+    "totalChunks": 10000
+  }
+}

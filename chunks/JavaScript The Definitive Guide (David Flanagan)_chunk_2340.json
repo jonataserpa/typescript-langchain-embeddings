@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2340",
+  "content": "avaScript do\n lado do cliente\nOu então, você pode especificar valores de margem e preenchimento para todas as quatro bordas \nde um elemento com as propriedades margin e padding. Você especifica primeiro os valores de cima \ne então prossegue no sentido horário: superior, direita, inferior e esquerda. Por exemplo, o código \na seguir mostra duas maneiras equivalentes de configurar diferentes valores de preenchimento para \ncada um dos quatro lados de um elemento:\npadding: 1px 2px 3px 4px;\n/* A linha anterior é equivalente às linhas a seguir. */\npadding-top: 1px;\npadding-right:",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2340,
+    "totalChunks": 10000
+  }
+}

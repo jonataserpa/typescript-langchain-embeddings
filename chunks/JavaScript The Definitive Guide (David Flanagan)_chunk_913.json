@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_913",
+  "content": "Se uma função não contém uma instrução return, ela simplesmente executa cada \ninstrução do corpo da função e retorna o valor undefined para o chamador.\nA maioria das funções o Exemplo 8-1 é projetada para calcular um valor e utiliza \nreturn para retor-\nnar esse valor para seu chamador. A função printprops() é diferente: sua tarefa é produzir na saída os \nnomes e valores das propriedades de um objeto. Não é necessário valor de retorno algum e a função \nnão inclui uma instrução \nreturn. O valor de uma chamada da função printprops() é sempre unde-\nfined. (Às vezes as funções sem valor de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 913,
+    "totalChunks": 10000
+  }
+}

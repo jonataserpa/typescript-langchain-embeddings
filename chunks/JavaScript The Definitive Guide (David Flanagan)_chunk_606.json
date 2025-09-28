@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_606",
+  "content": "o ocorre uma exceção em qualquer lugar dentro do bloco try. A cláusula catch é seguida por um \nbloco finally contendo o código de limpeza que é garantidamente executado, independente do que \naconteça no bloco try. Os blocos catch e finally são opcionais, mas um bloco try deve estar acom-\npanhado de pelo menos um desses blocos. Os blocos try, catch e finally começam e terminam com \nchaves. Essas chaves são uma parte obrigatória da sintaxe e não podem ser omitidas, mesmo que uma \ncláusula contenha apenas uma instrução.\n\nCapítulo     5     Instruções          105\nJavaScript básica\nO código a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 606,
+    "totalChunks": 10000
+  }
+}

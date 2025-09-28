@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5146",
+  "content": "o em todos os outros objetos \nWindow que compartilham acesso a essa área de armazenamento. (Note que o evento não é dis-\nparado na janela que fez a alteração.) Os eventos storage são disparados no objeto Window e não \nborbulham. Eles não têm qualquer ação padrão que possa ser cancelada. O objeto associado a \num evento storage é um objeto StorageEvent e suas propriedades descrevem a alteração ocorrida \nna área de armazenamento.\n\n      Referência de JavaScript do lado do cliente      973\nReferência de \nJavaScript do lado \ndo cliente\nPropriedades\nreadonly string key\nEssa propriedade é a chave",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5146,
+    "totalChunks": 10000
+  }
+}

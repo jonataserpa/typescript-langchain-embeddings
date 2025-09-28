@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5257",
+  "content": "cleo de JavaScript, como Math e JSON.\n\n994          Parte IV     Referência de JavaScript do lado do cliente\nreadonly WorkerLocation location\nEssa propriedade é como o objeto window.location Location: ela permite que um worker \ninspecione o URL do qual foi carregado e inclui propriedades que retornam partes individuais do \nURL.\nreadonly WorkerNavigator navigator\nEssa propriedade é como o objeto window.navigator Navigator: ela define propriedades que \npermitem a um worker determinar em qual navegador está sendo executado e se está atual-\nmente online ou não.\nreadonly WorkerGlobalScope",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5257,
+    "totalChunks": 10000
+  }
+}

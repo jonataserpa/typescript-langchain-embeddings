@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5086",
+  "content": "údo do texto.\nreadonly Document ownerDocument\nO objeto Document ao qual esse nó está associado. Para nós Document, essa propriedade é \nnull. Note que os nós têm proprietários mesmo que não tenham sido inseridos em um docu-\nmento.\nreadonly Node parentNode\nO nó pai (ou contêiner) desse nó ou null, caso não haja nenhum pai. Note que os nós Docu-\nment e DocumentFragment nunca têm nós pais. Além disso, os nós removidos do documento \nou criados recentemente e ainda não inseridos na árvore de documentos, têm parentNode igual \na null.\nreadonly Node previousSibling\nO nó irmão que precede imediatamente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5086,
+    "totalChunks": 10000
+  }
+}

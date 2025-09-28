@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4786",
+  "content": "long clientX\nreadonly long clientY\nAs coordenadas X e Y do cursor do mouse em relação à área cliente (ou janela do navegador). \nNote que essas coordenadas não levam em conta a rolagem do documento; se um evento \nocorre no topo da janela, clientY é 0 independente de quanto o documento tenha rolado para \nbaixo. Essas propriedades são definidas para todos os tipos de eventos de mouse. São definidas \npara eventos do IE e também para eventos padrão. Consulte também pageX e pageY.\nreadonly boolean ctrlKey\nSe a tecla Ctrl estava pressionada quando o evento ocorreu. Definida para eventos de mouse e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4786,
+    "totalChunks": 10000
+  }
+}

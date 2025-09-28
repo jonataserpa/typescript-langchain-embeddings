@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5602",
+  "content": "916\npropriedade paused, objeto MediaElement, 951\npropriedade persisted, objeto PageTransitionEvent, \n966\npropriedade pixelDepth, objeto Screen, 968\npropriedade placeholder, objeto Input, 928\npropriedade platform\n    objeto Navigator, 338, 958\n    objeto    WorkerNavigator,    996\npropriedade playbackRate, objeto MediaElement, \n604, 951\npropriedade played, objeto MediaElement, 605, 951\n\nÍndice          1051\npropriedade plugins\n    objeto Document, 877\n    objeto HTMLDocument, 357\npropriedade port\n    objeto Link, 947\n    objeto Location, 334, 949\n    objeto    WorkerLocation,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5602,
+    "totalChunks": 10000
+  }
+}

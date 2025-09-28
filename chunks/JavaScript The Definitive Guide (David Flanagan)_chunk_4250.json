@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4250",
+  "content": "m método toJSON(), mas você pode \ndefini-los para suas próprias classes. Lembre-se de que, apesar de seu nome, toJSON() não precisa \ntransformar em string o objeto em que é chamada: precisa apenas retornar um valor que seja trans-\nformado em string no lugar do objeto original.\nO segundo argumento de \nJSON.stringify() permite uma segunda camada de filtragem para o pro-\ncesso de transformação em string. Esse argumento opcional pode ser uma função ou um array e \nos dois casos fornecem funcionalidade de filtragem completamente diferente. Se você passa uma \nfunção, ela é uma função substituta e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4250,
+    "totalChunks": 10000
+  }
+}

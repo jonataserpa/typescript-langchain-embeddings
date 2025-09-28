@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_550",
+  "content": "is seguro é simplesmente limitar suas expressões case às expressões \nconstantes.\nCo\nnforme explicado anteriormente, se nenhuma das expressões case corresponde à expressão \nswitch, a instrução switch começa a executar seu corpo na instrução rotulada como default:. \nSe não há rótulo default:, a instrução switch pula seu corpo completamente. Note que, nos \nexemplos anteriores, o rótulo default: aparece no final do corpo de switch, após todos os rótulos \ncase. Esse é um lugar lógico e comum para ele, mas pode aparecer em qualquer lugar dentro do \ncorpo da instrução.\n1\n  O fato de as expressões",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 550,
+    "totalChunks": 10000
+  }
+}

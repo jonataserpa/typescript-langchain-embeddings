@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_597",
+  "content": "função são expressões e de que todas as expressões têm valores. \nUma instrução return dentro de uma função especifica o valor das chamadas dessa função. Aqui está \na sintaxe da instrução return:\nreturn expressão;\nA instrução return só pode aparecer dentro do corpo de uma função. É erro de sintaxe ela aparecer \nem qualquer outro lugar. Quando a instrução return é executada, a função que a contém retorna o \nvalor de expressão para sua chamadora. Por exemplo:\nfunction square(x) { return x*x; }      // Uma função que tem instrução return\nsquare(2)                     // Esta chamada é avaliada",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 597,
+    "totalChunks": 10000
+  }
+}

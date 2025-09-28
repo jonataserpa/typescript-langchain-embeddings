@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1560",
+  "content": "CMAScript para XML, mais conhecida como E4X, é uma extensão\n4\n padronizada de JavaScript que \ndefine vários recursos poderosos para processar documentos XML. E4X é suportada pelo Spider-\nmonkey 1.5 e pelo Rhino 1.6. Como não é amplamente suportada pelos fornecedores de navegador, \ntalvez seja melhor considerar E4X como uma tecnologia para mecanismos de script baseados em \nSpidermonkey ou Rhino no lado do servidor.\n4\n  E4X é definida pelo padrão ECMA-357. A especificação oficial encontra-se no endereço http://www.ecma-international.\norg/publications/standards/Ecma-357.htm.\n\nCapítulo 11",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1560,
+    "totalChunks": 10000
+  }
+}

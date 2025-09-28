@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2942",
+  "content": "ainda não podem ser carregados. Se você passar uma função para $() depois que o \nDOM estiver pronto, essa função será chamada imediatamente, antes que $() retorne.\nA biblioteca jQuery também usa a função \njQuery() como espaço de nomes e define várias funções \nutilitárias e propriedades embaixo dela. A função jQuery.noConflict(), mencionada anteriormente, \né uma função utilitária. Outras incluem a jQuery.each(), para iteração de uso geral, e jQuery.parseJ-\nSON(), para analisar texto JSON. A Seção 19.7 lista as funções utilitárias de uso geral e outras funções \nda jQuery estão descritas ao",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2942,
+    "totalChunks": 10000
+  }
+}

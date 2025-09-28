@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1508",
+  "content": "ite as marcas XML aparecerem literalmente em \nprogramas JavaScript e que adiciona sintaxe e API para operação em dados XML. A E4X não foi \namplamente implementada em navegadores Web, mas é suportada por JavaScript 1.6 do Mozilla \n(lançado no Firefox 1.5). Nesta seção, vamos abordar somente o laço for/each e seu uso com objetos \nque não são XML. Consulte a Seção 11.7 para ver detalhes sobre o restante da E4X.\nO laço \nfor each é muito parecido com o laço for/in. Contudo, em vez de iterar pelas propriedades \nde um objeto, ele itera pelos valores dessas propriedades:\nlet o = {one: 1, two: 2,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1508,
+    "totalChunks": 10000
+  }
+}

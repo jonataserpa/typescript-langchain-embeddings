@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3583",
+  "content": "possível usar o canvas dessa maneira. Cada elemento <canvas> tem somente \num objeto contexto e toda chamada de getContext() retorna o mesmo objeto CanvasRendering-\nContext2D.\nEmbora a API Canvas só permita definir um conjunto de atributos gráficos por vez, ela permite \nsalvar o estado gráfico atual para que você possa alterá-lo e restaurá-lo facilmente. O método \nsave() coloca o estado gráfico atual em uma pilha de estados salvos. O método restore() retira da \npilha e restaura o estado salvo mais recentemente. Todas as propriedades listadas na Tabela 21-1 \nfazem parte do estado salvo, assim",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3583,
+    "totalChunks": 10000
+  }
+}

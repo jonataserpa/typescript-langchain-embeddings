@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3706",
+  "content": "a do documento que contém o canvas.\n21.4.15   Detecção de sucesso\nO método isPointInPath() determina se um ponto especificado cai dentro (ou no limite) do cami-\nnho atual e, em caso positivo, retorna true; caso contrário, retorna false. O ponto passado para o \nmétodo está no sistema de coordenadas padrão e não é transformado. Isso torna esse método útil \npara detecção de sucesso: determinar se um clique de mouse ocorreu sobre uma forma em especial.\nEntretanto, você não pode passar os campos \nclientX e clientY de um objeto MouseEvent diretamen-\nte para isPointInPath(). Primeiramente, as",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3706,
+    "totalChunks": 10000
+  }
+}

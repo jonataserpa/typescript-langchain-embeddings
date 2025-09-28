@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3680",
+  "content": "pixels individuais\n// Usa drawImage para copiar a linha\nc.drawImage(c.canvas,\n            0, 0, 50, 50,       // retângulo de origem: não transformado\n            0, 0, 50, 50);      // retângulo de destino: transformado\nAlém de desenhar imagens em um canvas, também podemos extrair o conteúdo de um canvas como \numa imagem, usando o método toDataURL(). Ao contrário de todos os outros métodos descritos \naqui, toDataURL() é um método do próprio elemento Canvas e não do objeto CanvasRenderingCon-\ntext2D. Normalmente, você chama \ntoDataURL() sem argumentos e ele retorna o conteúdo do canvas \ncomo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3680,
+    "totalChunks": 10000
+  }
+}

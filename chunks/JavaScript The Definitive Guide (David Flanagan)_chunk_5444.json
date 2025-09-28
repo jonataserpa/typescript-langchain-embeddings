@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5444",
+  "content": "600\n    Web Worker para processamento de imagem \n(exemplo), 669\nimportNode( ), objeto Document, 372, 880\nimportScripts( ), objeto WorkerGlobalScope, 667, \n994\nimpressão\n    defi nindo a função jQuery.fn.println( ), 569\n    eventos beforeprint e afterprint, 443\ninclusões de array, 273\n    alterando para expressões geradoras, 275\n    sintaxe,    274\nincorporando JavaScript em HTML, 303–309\n    elemento <script>, 303–304\n    JavaScript em URLs, 307\n    rotinas de tratamento de evento em HTML, 307\n    scripts em arquivos externos, 305\n    tipo de script, 306\nindexação baseada em zero (strings e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5444,
+    "totalChunks": 10000
+  }
+}

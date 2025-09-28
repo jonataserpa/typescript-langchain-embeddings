@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2495",
+  "content": "evento de mouse define propriedades que descrevem a posição e o esta-\ndo do botão do mouse e também especificam se qualquer tecla modificadora estava pressionada \nquando o evento ocorreu. As propriedades \nclientX e clientY especificam a posição do mouse em \ncoordenadas da janela. As propriedades \nbutton e which especificam qual botão do mouse (se hou-\nve) foi pressionado. (Contudo, consulte a página de referência de \nEvent, pois essas propriedades \nsão difíceis de usar de forma portável.) As propriedades \naltKey, ctrlKey, metaKey e shiftKey são \nconfiguradas como \ntrue quando as teclas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2495,
+    "totalChunks": 10000
+  }
+}

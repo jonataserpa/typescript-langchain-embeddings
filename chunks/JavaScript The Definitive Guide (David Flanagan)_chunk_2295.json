@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2295",
+  "content": "ais\nOs estilos do atributo \nstyle anulam os estilos das folhas de estilo. E os estilos das folhas de estilo de \num documento anulam os estilos padrão do navegador, evidentemente. A apresentação visual de de-\nterminado elemento pode ser uma combinação de propriedades de estilo de todas as três fontes. Um \nelemento pode até corresponder a mais de um seletor dentro de uma folha de estilo, no caso em que \nas propriedades de estilo associadas a todos esses seletores são aplicadas ao elemento. (Se diferentes \nseletores definem diferentes valores para a mesma propriedade de estilo, o valor associado",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2295,
+    "totalChunks": 10000
+  }
+}

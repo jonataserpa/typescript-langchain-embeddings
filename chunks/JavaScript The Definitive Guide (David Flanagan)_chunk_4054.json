@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4054",
+  "content": "ray no qual o elemento é === a valor ou -1, caso não exista um \nelemento coincidente.\nDescrição\nEsse método pesquisa para trás em elementos sucessivamente menores de array em busca de um \nelemento que seja igual a valor e retorna o índice do primeiro elemento coincidente que encontra. \nSe início for especificado, será usado como posição inicial da busca; caso contrário, a busca vai co-\nmeçar no final do array. O === operador é usado para testar igualdade. O valor de retorno é o índice \ndo primeiro elemento coincidente encontrado ou -1, caso não seja encontrada uma coincidência.\nConsulte",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4054,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4659",
+  "content": "Normalmente, um objeto Document é obtido por meio da propriedade \ndocument de um objeto \nWindow. Os objetos Document também estão disponíveis por meio da propriedade contentDocument \nde elementos IFrame ou da propriedade ownerDocument de qualquer Node.\nA maioria das propriedades de um objeto Document dá acesso aos elementos do documento ou a \noutros objetos importantes associados ao documento. Vários métodos de Document fazem a mes-\nma coisa: fornecem uma maneira de pesquisar elementos dentro da árvore de documentos. Muitos \noutros métodos de Document são “métodos fábrica” que criam",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4659,
+    "totalChunks": 10000
+  }
+}

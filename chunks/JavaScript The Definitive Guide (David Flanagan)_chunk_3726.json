@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3726",
+  "content": "e uma API simples para passar mensagens entre documentos de origens \ndiferentes. Essa API contorna a política de segurança da mesma origem (Seção 13.6.2) a qual \nimpede que documentos de servidores Web diferentes interajam diretamente uns com os ou-\ntros, sem correr perigo.\n •   A Seção 22.4 aborda um novo recurso importante de HTML5: a capacidade de executar có-\ndigo JavaScript em uma thread de segundo plano isolado e se comunicar com segurança com \nessas threads “de trabalho”.\n •   A Seção 22.5 descreve tipos de propósito especial eficientes no uso de memória para trabalhar \ncom arrays de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3726,
+    "totalChunks": 10000
+  }
+}

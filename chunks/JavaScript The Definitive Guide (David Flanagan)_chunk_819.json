@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_819",
+  "content": "vez, em vez de a cada iteração:\nfor(var i = 0, len = keys.length; i < len; i++) {\n    // o corpo do laço permanece o mesmo\n}\n\nCapítulo     7     Arrays          143\nJavaScript básica\nEsses exemplos presumem que o array é denso e que todos os elementos contêm dados válidos. Se \nesse não for o caso, você deve testar os elementos do array antes de usá-los. Se quiser excluir elemen-\ntos\n null, undefined e inexistentes, você pode escrever o seguinte:\nfor(var i = 0; i < a.length; i++) {\n    if (!a[i]) continue;        // Pula elementos null, undefined e inexistentes\n    // corpo do laço aqui\n}\nSe",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 819,
+    "totalChunks": 10000
+  }
+}

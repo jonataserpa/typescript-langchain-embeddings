@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3519",
+  "content": "e legível) especificação. A especificação é mantida pelo W3C no endereço http://www.\nw3.org/TR/SVG/. Note que ela inclui um Document Object Model completo para documentos \nSVG. Esta seção manipula elementos gráficos SVG usando o DOM da XML padrão e não utiliza \no DOM da SVG.\nQuando este livro estava sendo escrito, todos os navegadores da época, exceto o IE, suportavam \nSVG (e o IE9 vai suportar). Nos navegadores mais recentes, você pode exibir imagens SVG usando \num elemento \n<img> normal. Alguns navegadores um pouco mais antigos (como o Firefox 3.6) não \nsuportam isso e exigem o uso de um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3519,
+    "totalChunks": 10000
+  }
+}

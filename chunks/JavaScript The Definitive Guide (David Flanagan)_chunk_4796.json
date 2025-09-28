@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4796",
+  "content": "enX, screenY\nPara eventos de mouse, essas propriedades especificam as coordenadas X e Y do cursor do \nmouse  em  relação  ao  canto  superior  esquerdo  do  monitor  do  usuário.  Essas  propriedades  \ngeralmente não são úteis, mas são definidas para todos os tipos de eventos de mouse e são \nsuportadas por eventos padrão e eventos do IE.\nreadonly boolean shiftKey\nSe a tecla Shift estava pressionada quando o evento ocorreu. Definida para eventos de mouse \ne tecla e também por eventos do IE.\nreadonly EventTarget srcElement\nPara eventos do IE, essa propriedade especifica o objeto em que o evento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4796,
+    "totalChunks": 10000
+  }
+}

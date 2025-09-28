@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3582",
+  "content": "wOffsetY\no deslocamento vertical das sombras\nstrokeStyle\na cor, gradiente ou padrão de linhas\nComo a API Canvas define atributos gráficos no objeto contexto, você poderia ficar tentado a \nchamar getContext() várias vezes para obter vários objetos contexto. Se isso fosse possível, você \npoderia definir diferentes atributos em cada contexto. Então, cada contexto seria como um pin-\ncel diferente e pintaria com uma cor diferente ou desenharia linhas de espessuras diferentes. \nInfelizmente, não é possível usar o canvas dessa maneira. Cada elemento <canvas> tem somente \num objeto contexto e toda",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3582,
+    "totalChunks": 10000
+  }
+}

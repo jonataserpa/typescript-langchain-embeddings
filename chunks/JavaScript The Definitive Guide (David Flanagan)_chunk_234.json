@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_234",
+  "content": "world\"\ngreeting = \"Welcome to my blog,\" + \" \" + name;\nPara determinar o comprimento de uma string – o número de valores de 16 bits que ela contém – \nuse sua propriedade length. Determine o comprimento de uma string s como segue:\ns.length\nAlém dessa propriedade length, existem vários métodos que podem ser chamados em strings (como \nsempre, consulte a seção de referência para ver detalhes completos):\nvar s = \"hello, world\" // Começa com um texto.\ns.charAt(0)            // => \"h\": o primeiro caractere.\ns.charAt(s.length-1)   // => \"d\": o último caractere.\ns.substring(1,4)       // => \"ell\": o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 234,
+    "totalChunks": 10000
+  }
+}

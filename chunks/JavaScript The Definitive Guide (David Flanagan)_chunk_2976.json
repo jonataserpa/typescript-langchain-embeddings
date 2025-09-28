@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2976",
+  "content": "over ou testar a presença de um nome na lista, em vez de substituir uma \nlista de classes por outra. Por isso, a jQuery define métodos de conveniência para trabalhar com o \natributo class. addClass() e removeClass() adicionam e removem classes dos elementos selecionados. \ntoggleClass() adiciona classes em elementos que ainda não as têm e remove classes do que têm. \nhasClass() testa a presença de uma classe especificada. Aqui estão alguns exemplos:\n// Adicionando classes CSS\n$(\"h1\").addClass(\"hilite\");         // Adiciona uma classe em todos os elementos <h1>\n$(\"h1+p\").addClass(\"hilite",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2976,
+    "totalChunks": 10000
+  }
+}

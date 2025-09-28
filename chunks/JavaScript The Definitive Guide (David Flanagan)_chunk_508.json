@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_508",
+  "content": "ng = \"Hello \" + name;\ni *= 3;\nOs operadores de incremento e decremento, ++ e --, são relacionados às instruções de atribuição. \nEles têm o efeito colateral de alterar o valor de uma variável, exatamente como se fosse feita uma \natribuição:\ncounter++;\nO operador delete tem o importante efeito colateral de excluir uma propriedade de um objeto. \nAssim, ele é quase sempre utilizado como uma instrução e não como parte de uma expressão maior:\ndelete o.x;\nAs chamadas de função são outra categoria importante de instrução de expressão. Por exemplo:\nalert(greeting);\nwindow.close();\nEssas chamadas de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 508,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5492",
+  "content": "readAsText( )\n    objeto FileReader, 682–683, 910\n    objeto FileReaderSync, 911\nmétodo rect( )\n    CanvasRenderingContext2D,    862\nmétodo reduce( ), objeto Array, 151, 187, 716\nmétodo reduceRight( ), objeto Array, 151, 717\nmétodo reload( ), objeto Location, 335, 949\nmétodo remove( )\n    elemento Select, 971–972\n    jQuery,    526\n    objeto DOMTokenList, 427, 885–886\nmétodo removeChild( ), objeto Node, 374, 963\nmétodo removeClass( ), jQuery, 518\nmétodo removeData( ), jQuery, 522\nmétodo removeEventListener( )\n    objeto Document, 447\n    objeto EventTarget, 906\n    objeto    Worker,    666",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5492,
+    "totalChunks": 10000
+  }
+}

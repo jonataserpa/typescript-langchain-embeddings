@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4955",
+  "content": ")\nattr(obj)\nCom um argumento de string, retorna o valor do atributo nomeado para o primeiro elemento sele-\ncionado. Com dois argumentos, configura o atributo nomeado de todos os elementos selecionados \ncom o valor especificado ou chama f como método de cada elemento para calcular um valor. Com \napenas um argumento objeto, usa os nomes de propriedade como nomes de atributo e os valores de \npropriedade como valores de atributo ou como funções de cálculo de atributo.\n\n      Referência de JavaScript do lado do cliente      935\nReferência de \nJavaScript do lado \ndo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4955,
+    "totalChunks": 10000
+  }
+}

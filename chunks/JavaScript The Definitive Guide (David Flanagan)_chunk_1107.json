@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1107",
+  "content": "ecisa \nchamar inherit() nem executar qualquer ação para criar um novo objeto. O novo objeto é criado \nautomaticamente antes que a construtora seja chamada e está acessível como valor de this. A \nconstrutora Range() apenas precisa inicializar this. As construtoras nem mesmo precisam retor-\nnar o objeto recém-criado. A chamada de construtora cria um novo objeto automaticamente, \nchama a construtora como um método desse objeto e retorna o novo objeto. O fato de essa cha-\nmada de construtora ser tão diferente da chamada de função normal é outro motivo para darmos \nàs construtoras nomes que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1107,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4608",
+  "content": "a conexão de WebSocket foi fechada da maneira controlada especificada pelo protocolo \nWebSocket, com reconhecimento entre cliente e servidor, diz-se que o fechamento é limpo e \nessa propriedade será true. Se essa propriedade é false, o WebSocket pode ter fechado como \nresultado de um erro de rede de algum tipo.\nComment\num comentário HTML ou XML Node\nUm nó Comment representa um comentário em um documento HTML ou XML. O conteúdo do \ncomentário (isto é, o texto entre \n<!-- e -->) está disponível por intermédio da propriedade data ou \nda propriedade nodeValue herdada de Node. Você pode criar um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4608,
+    "totalChunks": 10000
+  }
+}

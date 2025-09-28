@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3413",
+  "content": "os os recursos que exigem. Eles ainda podem usar a cache de aplicativo se tiverem um \nmanifesto mais complexo.\n20.4.1.1   Manifestos   complexos\nQuando um aplicativo for carregado a partir da cache de aplicativo, somente os recursos listados \nem seu arquivo de manifesto serão carregados. O exemplo de arquivo de manifesto mostrado ante-\nriormente lista os recursos um URL por vez. Na verdade, os arquivos de manifesto têm uma sintaxe \n\nCapítulo 20     Armazenamento no lado do cliente      589\nJavaScript do\n lado do cliente\nmais complicada do que esse exemplo mostra e existem duas outras maneiras",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3413,
+    "totalChunks": 10000
+  }
+}

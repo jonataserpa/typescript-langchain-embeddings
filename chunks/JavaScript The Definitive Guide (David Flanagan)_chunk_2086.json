@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2086",
+  "content": "qual é o “conteúdo” do elemento <p>. Existem três ma-\nneiras de respondermos a essa questão:\n •   O conteúdo é a string HTML “This is a <i>simple</i> document”.\n •   O conteúdo é a string de texto puro “This is a simple document”.\n •   O conteúdo é um nó Text, um nó Element que tem um nó filho Text e outro nó Text.\n\nCapítulo 15     Escrevendo script de documentos      369\nJavaScript do\n lado do cliente\nTodas essas são respostas válidas e cada resposta é útil à sua própria maneira. As seções a seguir ex-\nplicam como trabalhar com a representação HTML, com a representação em texto puro e com a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2086,
+    "totalChunks": 10000
+  }
+}

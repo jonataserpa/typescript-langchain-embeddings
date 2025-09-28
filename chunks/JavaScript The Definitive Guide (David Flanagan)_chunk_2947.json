@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2947",
+  "content": ".1. Contudo, em vez de nos concentrarmos nesses detalhes avançados de \nseletor agora, vamos primeiro explorar o que pode ser feito com os resultados de uma consulta.\nO valor retornado por \n$() é um objeto jQuery. Os objetos jQuery são semelhantes a um array: eles \ntêm uma propriedade length e propriedades numéricas de 0 a length-1. (Consulte a Seção 7.11 para \nmais informações sobre objetos semelhantes a um array.) Isso significa que você pode acessar o con-\nteúdo do objeto jQuery usando a notação de array com colchetes padrão:\n$(\"body\").length // => 1: os documentos têm apenas um elemento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2947,
+    "totalChunks": 10000
+  }
+}

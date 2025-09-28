@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2974",
+  "content": "$(\"h1\").css(\"font-variant\",            // Configura um estilo em todos os elementos <h1>\n            \"smallcaps\");\n$(\"div.note\").css(\"border\",            // Pode configurar estilos compostos\n                  \"solid black 2px\");\n$(\"h1\").css({ backgroundColor: \"black\", // Configura vários estilos simultaneamente\n            textColor:    \"white\",           // Nomes com maiúsculas no meio funcionam melhor\n            fontVariant: \"small-caps\",  // como propriedades de objeto\n            padding: \"10px 2px 4px 20px\",\n            border: \"dotted black 4px\" });\n// Aumenta em 25% todos os tamanhos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2974,
+    "totalChunks": 10000
+  }
+}

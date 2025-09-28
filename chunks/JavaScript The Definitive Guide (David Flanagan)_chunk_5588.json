@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5588",
+  "content": "bjeto Geocoordinates, 917\npropriedade height, 521\n (consulte também propriedades width e height)\n    objeto ClientRect, 864\n    objeto IFrame, 923\npropriedade high, objeto Meter, 957\npropriedade history, objeto Window, 336, 986\npropriedade host\n    objeto Link, 947\n    objeto Location, 334, 948\n    objeto    WorkerLocation,    995\npropriedade hostname\n    objeto Link, 947\n    objeto Location, 334, 948\n    objeto    WorkerLocation,    995\npropriedade href\n    objeto CSSStyleSheet, 871\n    objeto Link, 947\n    objeto Location, 334, 948\n    objeto    WorkerLocation,    996\npropriedade htmlFor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5588,
+    "totalChunks": 10000
+  }
+}

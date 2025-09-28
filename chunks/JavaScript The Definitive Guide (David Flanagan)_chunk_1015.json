@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1015",
+  "content": "a propriedade privada usando closures\n// Esta função adiciona métodos de acesso para uma propriedade com\n// o nome especificado no objeto o. Os métodos são denominados get<name>\n// e set<name>. Se é fornecida uma função predicado, o método setter\n// a utiliza para testar a validade de seu argumento antes de armazená-lo.\n// Se o predicado retorna false, o método setter lança uma exceção.\n//\n// O incomum nessa função é que o valor de propriedade\n// manipulado pelos métodos getter e setter não é armazenado no\n// objeto o. Em vez disso, o valor é armazenado apenas em uma variável local\n// nessa",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1015,
+    "totalChunks": 10000
+  }
+}

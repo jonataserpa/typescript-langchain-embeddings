@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4430",
+  "content": "e esse valor de retorno são dados na Descrição.\nDescrição\nmatch() pesquisa string em busca de uma ou mais correspondências de expreg. O comportamento \ndesse método depende significativamente de expreg ter o atributo “g” ou não (consulte o Capítulo \n10 para ver detalhes completos sobre expressões regulares).\nSe expreg não tem o atributo “g”, match() pesquisa string em busca de uma correspondência. Se nenhu-\nma é encontrada, match() retorna null. Caso contrário, retorna um array contendo informações sobre a \ncorrespondência encontrada. O elemento 0 do array contém o texto coincidente. Os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4430,
+    "totalChunks": 10000
+  }
+}

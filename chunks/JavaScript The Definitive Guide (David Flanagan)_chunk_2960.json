@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2960",
+  "content": "com o do método Array.map(). Ele aceita uma função callback como argumento \ne invoca essa função uma vez para cada elemento do objeto jQuery, coletando os valores de \nretorno  dessas  chamadas  e  retornando  um  novo  objeto  jQuery  que  contém  esses  valores  de  \nretorno. map() chama a callback da mesma maneira que o método each(): o elemento é passado \ncomo valor de this e como segundo argumento, e o índice do elemento é passado como primeiro \nargumento. Se a callback retorna null ou undefined, esse valor é ignorado e nada é adicionado ao \nnovo objeto jQuery para essa chamada. Se a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2960,
+    "totalChunks": 10000
+  }
+}

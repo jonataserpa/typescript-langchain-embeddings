@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3886",
+  "content": "var dv = new DataView(ab);\nfor(var i = 0; i < 10; i++) dv.setInt32(i*4,i);\n// Anexa o ArrayBuffer ao Blob\nbb.append(ab);\n// Agora obtém o blob do construtor, especificando um tipo MIME fictício\nvar blob = bb.getBlob(\"x-opcional/mime-type-here\");\nVimos no início desta seção que os Blobs têm um método slice() que os decompõem em partes. \nVocê pode unir Blobs passando-os para o método \nappend() de um BlobBuilder.\n\n680          Parte II     JavaScript do lado do cliente\n22.6.4   URLs de Blob\nAs seções anteriores mostraram como você pode obter ou criar Blobs. Agora vamos avançar e come-\nçar a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3886,
+    "totalChunks": 10000
+  }
+}

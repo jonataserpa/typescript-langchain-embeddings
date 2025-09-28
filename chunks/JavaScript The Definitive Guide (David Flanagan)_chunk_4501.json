@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4501",
+  "content": "o desse modo de exibição.\nreadonly unsigned long byteOffset\nA posição inicial, em bytes, da parte do buffer acessível por meio desse modo de exibição.\n\n846          Parte IV     Referência de JavaScript do lado do cliente\nAttr\num atributo do elemento\nUm objeto Attr representa um atributo de um nó Element. Um objeto Attr pode ser obtido por \nmeio da propriedade \nattributes da interface Node ou chamando-se os métodos getAttributeNode() \nou getAttributeNodeNS() da interface Element.\nComo os valores de atributo podem ser representados completamente por strings, normalmente não \né necessário usar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4501,
+    "totalChunks": 10000
+  }
+}

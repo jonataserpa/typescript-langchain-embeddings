@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3903",
+  "content": "navegador deve responder com 403 Not Allowed. Os URLs de Blob só funcionam com solicitações \nGET e, quando um é solicitado com sucesso, o navegador envia um código de status HTTP 200 \nOK e também um cabeçalho \nContent-Type que utiliza a propriedade type do Blob. Como os URLs \nde Blob funcionam como URLs HTTP simples, você pode “baixar” seus conteúdos com XMLHtt-\npRequest. (Contudo, conforme vamos ver na próxima seção, você pode ler o conteúdo de um Blob \nmais diretamente, usando um objeto FileReader.)\n22.6.5   Lendo   Blobs\nAté aqui, os Blobs têm sido trechos de dados opacos que permitem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3903,
+    "totalChunks": 10000
+  }
+}

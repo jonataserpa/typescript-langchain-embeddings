@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3259",
+  "content": "iona elementos do documento correspondentes a B e que são elementos irmãos que vêm após os elementos \ncorrespondentes a A.\n\n564          Parte II     JavaScript do lado do cliente\nAqui estão alguns exemplos de combinações de seletor:\n\"blockquote i\"        // Corresponde a um elemento <i> dentro de um <blockquote>\n\"ol > li\"             // Um elemento <li> como filho direto de um <ol>\n\"#output + *\"         // O irmão após o elemento com id=\"output\"\n\"div.note > h1 + p\"   // Um <p> após um <h1> dentro de um <div class=\"note\">\nNote que as combinações de seletor não estão limitadas a dois deles:",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3259,
+    "totalChunks": 10000
+  }
+}

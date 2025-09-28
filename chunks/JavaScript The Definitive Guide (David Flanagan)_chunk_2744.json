@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2744",
+  "content": "ura a propriedade src do elemento <iframe> com esse \nURL. O servidor cria um documento HTML contendo sua resposta e a envia de volta para o nave-\ngador Web, o qual a exibe no elemento <iframe>. O <iframe> não precisa ser visível para o usuário; \nele pode ser oculto com CSS, por exemplo. Um script pode acessar a resposta do servidor percorren-\ndo o objeto documento do <iframe>. Note, contudo, que essa travessia está sujeita às restrições da \npolítica da mesma origem descrita na Seção 13.6.2.\nMesmo o elemento \n<script> tem uma propriedade src que pode ser configurada para iniciar uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2744,
+    "totalChunks": 10000
+  }
+}

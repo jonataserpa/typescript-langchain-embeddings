@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3043",
+  "content": "shiftKey\nbubbles       eventPhase          originalTarget   srcElement\nbutton      fromElement        pageX           target\ncancelable   keyCode              pageY            toElement\ncharCode     layerX              prevValue       view\nclientX       layerY     relatedNode      wheelDelta\nclientY       metaKey     relatedTarget    which\nAlém dessas propriedades, o objeto Event também define os seguintes métodos:\npreventDefault()       isDefaultPrevented()\nstopPropagation()                isPropagationStopped()\nstopImmediatePropagation()      isImmediatePropagationStopped()\nA maioria dessas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3043,
+    "totalChunks": 10000
+  }
+}

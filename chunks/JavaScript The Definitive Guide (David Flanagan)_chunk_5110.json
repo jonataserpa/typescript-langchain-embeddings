@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5110",
+  "content": "persisted é true se a página está sendo restaurada, em vez de carregada \nou recarregada.\nOs eventos pagehide também têm um objeto PageTransitionEvent associado, mas a propriedade \npersisted é sempre true para eventos pagehide.\nOs eventos pageshow e pagehide são disparados no objeto Window. Eles não borbulham e não têm \nqualquer ação padrão para cancelar.\n\n966          Parte IV     Referência de JavaScript do lado do cliente\nPropriedades\nreadonly boolean persisted\nPara eventos pageshow, essa propriedade é false se a página foi carregada (ou recarregada) a \npartir da rede ou da cache de disco.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5110,
+    "totalChunks": 10000
+  }
+}

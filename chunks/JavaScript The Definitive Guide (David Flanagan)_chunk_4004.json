@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4004",
+  "content": "l da API WebSocket suporta apenas mensagens textuais e as envia como strings codifi-\ncadas em UTF-8. Entretanto, o protocolo WebSocket atual inclui suporte para mensagens binárias \ne uma futura versão da API poderá permitir que dados binários sejam trocados com um servidor \nWebSocket.\nQuando seu código estiver se comunicando com o servidor, você pode fechar um WebSocket cha-\nmando seu método \nclose().\n\nCapítulo 22     APIs de HTML5      699\nJavaScript do\n lado do cliente\nWebSocket é completamente bidirecional e uma vez estabelecida uma conexão de WebSocket, o \ncliente e o servidor podem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4004,
+    "totalChunks": 10000
+  }
+}

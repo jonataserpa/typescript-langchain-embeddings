@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2217",
+  "content": "1\nJavaScript do\n lado do cliente\nA rotina de tratamento onsubmit é chamada imediatamente antes que o formulário seja enviado; ela \npode cancelar o envio retornando \nfalse. Isso oferece uma oportunidade para um programa Java-\nScript verificar se existem erros na entrada do usuário, a fim de evitar o envio de dados incompletos \nou inválidos pela rede, para um programa do lado do servidor. Note que a rotina de tratamento \non-\nsubmit\n é ativada somente por um clique genuíno em um botão Submit. Chamar o método submit() \nde um formulário não ativa a rotina de tratamento \nonsubmit.\nA rotina de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2217,
+    "totalChunks": 10000
+  }
+}

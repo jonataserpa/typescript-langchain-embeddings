@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3996",
+  "content": "withDB(f);\n                  });\n   }\n  }\n }\n}\n</script>\n</head>\n<body>\n<p>Enter a zip code to find its city:</p>\nZipcode: <input onchange=\"displayCity(this.value)\"></input>\nCity: <output id=\"city\"></output>\n</div>\n<div>\n<p>Enter a city name (case sensitive, without state) to find cities and their zipcodes:</\np>\nCity: <input onchange=\"displayZipcodes(this.value)\"></input>\n<div id=\"zipcodes\"></div>\n</div>\n<p><i>This example is only known to work in Firefox 4 and Chrome 11.</i></p>\n<p><i>Your first query may take a very long time to complete.</i></p>\n<p><i>You may need to start Chrome with",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3996,
+    "totalChunks": 10000
+  }
+}

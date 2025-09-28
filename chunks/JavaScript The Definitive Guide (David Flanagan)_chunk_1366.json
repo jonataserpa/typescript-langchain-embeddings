@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1366",
+  "content": "alues.hasOwnProperty(v2s(value));\n    };\n    Set.prototype.size = function() { return this.n; };\n    Set.prototype.add = function() { /* ... */ };\n    Set.prototype.remove = function() { /* ... */ };\n    Set.prototype.foreach = function(f, context) { /* ... */ };\n    // Estas são funções auxiliares e variáveis usadas pelos métodos acima\n    // Elas não fazem parte da API pública do módulo, mas ficam ocultas\n    // dentro desse escopo de função; portanto, não precisamos defini-las como uma\n    // propriedade de Set nem prefixá-las com sublinhados.\n    function v2s(val) { /* ... */ }",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1366,
+    "totalChunks": 10000
+  }
+}

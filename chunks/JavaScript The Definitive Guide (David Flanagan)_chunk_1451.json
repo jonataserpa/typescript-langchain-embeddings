@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1451",
+  "content": "Index, como acon-\ntece com exec() e test(). Na verdade, os métodos de String simplesmente configuram lastIndex \ncomo 0. Se você utiliza exec() ou test() em um padrão que tem o flag g ativo e está pesquisando \nvárias strings, deve localizar todas as correspondências em cada string para que lastIndex seja confi-\ngurada como zero automaticamente (isso acontece quando a última busca falha) ou deve configurar \na propriedade lastIndex como 0 explicitamente. Se você esquecer de fazer isso, poderá começar a \npesquisar uma nova string em alguma posição arbitrária dentro da string, em vez de começar no",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1451,
+    "totalChunks": 10000
+  }
+}

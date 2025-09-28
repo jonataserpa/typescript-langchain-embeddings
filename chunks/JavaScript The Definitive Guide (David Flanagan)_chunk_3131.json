@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3131",
+  "content": "ionar suas próprias funções de abrandamento no objeto\n \njQuery.easing:\njQuery.easing[\"squareroot\"] = Math.sqrt;\nA biblioteca jQuery UI e um plug-in conhecido simplesmente como “jQuery Easing Plugin” definem uma \namplo conjunto de funções de abrandamento adicionais.\n\nCapítulo 19     A biblioteca jQuery      543\nJavaScript do\n lado do cliente\n19.5.3   Cancelando, atrasando e enfileirando efeitos\nA jQuery define mais alguns métodos de animação e relacionados às filas que você deve conhecer. \nO método \nstop() é o primeiro: ele interrompe qualquer animação que esteja em execução nos ele-\nmentos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3131,
+    "totalChunks": 10000
+  }
+}

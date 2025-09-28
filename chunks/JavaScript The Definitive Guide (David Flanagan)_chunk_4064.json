@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4064",
+  "content": "porta como se fosse inserido no início de array.\nRetorna\nO valor reduzido do array, que é o valor de retorno da última chamada de \nf.\nDescrição\nO método reduce() espera uma função f como primeiro argumento. Essa função deve se comportar \ncomo um operador binário: ela recebe dois valores, efetua alguma operação com eles e retorna um \nresultado. Se \narray tem n elementos, o método reduce() chama f n-1 vezes para reduzir esses elemen-\ntos a um único valor combinado. (Talvez você conheça essa operação de redução de array de outras \nlinguagens de programação, onde às vezes é chamada de “fold” ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4064,
+    "totalChunks": 10000
+  }
+}

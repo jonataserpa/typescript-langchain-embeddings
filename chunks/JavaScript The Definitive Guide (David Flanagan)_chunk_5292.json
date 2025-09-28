@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5292",
+  "content": "es fornecidas por meio de rotinas de tratamento de evento.\nvoid setRequestHeader(string nome, string valor)\nsetRequestHeader() especifica nome e valor de um cabeçalho de requisição HTTP que devem ser in-\ncluídos na requisição feita por uma chamada subsequente a \nsend(). Esse método só pode ser chamado \nquando \nreadyState é 1 – isto é, após uma chamada de open(), mas antes de uma chamada de send().\nSe já foi especificado um cabeçalho com o \nnome mencionado, o novo valor desse cabeçalho é o valor \ndefinido anteriormente, mais uma vírgula, um espaço e o \nvalor especificado nessa chamada.\nSe a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5292,
+    "totalChunks": 10000
+  }
+}

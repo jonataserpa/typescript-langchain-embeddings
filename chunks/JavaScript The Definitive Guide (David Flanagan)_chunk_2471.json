@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2471",
+  "content": "taforma \nWeb cresceu e incluiu APIs mais poderosas, o conjunto de eventos ficou maior. Nenhum padrão \ndefine um conjunto de eventos completo e, quando este livro estava sendo escrito, o número de \neventos suportados pelos navegadores estava aumentando rapidamente. Esses novos eventos vêm \nde três fontes:\n\n436          Parte II     JavaScript do lado do cliente\n •   A especificação Level 3 Events do DOM, que após um longo período de inatividade está sendo \nativamente desenvolvida sob os auspícios do W3C. Os eventos DOM são abordados na Seção \n17.1.2.\n •   Muitas APIs novas na especificação",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2471,
+    "totalChunks": 10000
+  }
+}

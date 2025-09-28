@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2456",
+  "content": "m outro recurso) acabou de ser car-\nregado da rede. Como o tipo de um evento é apenas uma string, às vezes ele é chamado de nome do \nevento e, de fato, usamos esse nome para identificar o tipo de evento específico sobre o qual estamos \nfalando. Os navegadores Web modernos suportam muitos tipos de evento. A Seção 17.1 apresenta \numa visão geral.\nO alvo do evento é o objeto no qual o evento ocorreu ou ao qual o evento está associado. Quando \nfalamos de um evento devemos especificar tanto o tipo como o alvo. Um evento load em um objeto \nWindow, por exemplo, ou um evento click em um objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2456,
+    "totalChunks": 10000
+  }
+}

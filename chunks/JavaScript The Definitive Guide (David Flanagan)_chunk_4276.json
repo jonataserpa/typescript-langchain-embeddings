@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4276",
+  "content": "rada  de  2.  O  valor  aproximado  dessa  constante  é  \n0,7071067811865476.\nMath.SQRT2\na constante matemática √2\nSinopse\nMath.SQRT2\nDescrição\nMath.SQRT2  é  a  constante  √2,  a  raiz  quadrada  de  2.  O  valor  aproximado  dessa  constante  é  \n1,414213562373095.\nMath.tan()\ncalcula uma tangente\nSinopse\nMath.tan(x)\nArgumentos\nx\nUm ângulo, medido em radianos. Para converter graus em radianos, multiplique o valor em \ngraus por 0,017453293 (2π/360).\nRetorna\nA tangente do ângulo \nx especificado.\nNaN\na propriedade not-a-number\n\n      Referência de JavaScript básica      785\nReferência de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4276,
+    "totalChunks": 10000
+  }
+}

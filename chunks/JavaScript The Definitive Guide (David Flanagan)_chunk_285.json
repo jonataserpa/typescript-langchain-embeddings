@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_285",
+  "content": "== undefined     // Esses dois valores são tratados como iguais.\n\"0\" == 0              // A string é convertida em um número antes da comparação.\n0 == false            // O booleano é convertido em número antes da comparação.\n\"0\" == false          // Os dois operandos são convertidos em números antes da \n                    //    comparação.\nA Seção 4.9.1 explica exatamente quais conversões são realizadas pelo operador == para determinar se \ndois valores devem ser considerados iguais e também descreve o operador de igualdade restrito ===, \nque não faz conversões ao testar a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 285,
+    "totalChunks": 10000
+  }
+}

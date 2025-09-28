@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2224",
+  "content": "Um elemento botão \nnão tem um comportamento padrão próprio e não tem utilidade a não ser que possua uma rotina \n\n392          Parte II     JavaScript do lado do cliente\nde tratamento de evento onclick. Os botões definidos como elementos <input> exibem o texto puro \ndo atributo \nvalue. Os botões definidos como elementos <button> exibem o conteúdo do elemento.\nNote que os hiperlinks fornecem a mesma rotina de tratamento de evento \nonclick dos botões. Use \num link quando a ação a ser disparada pela rotina de tratamento \nonclick puder ser conceitualizada \ncomo “seguir um link”; caso contrário,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2224,
+    "totalChunks": 10000
+  }
+}

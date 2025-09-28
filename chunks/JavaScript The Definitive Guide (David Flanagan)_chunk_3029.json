@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3029",
+  "content": "s()          mousemove()      select()\nerror()       keyup()     mouseout()       submit()\nfocus()       load()     mouseover()      unload()\nA maioria desses métodos de registro é para os tipos de evento comuns que você já conhece do Ca-\npítulo 17. Entretanto, algumas observações são necessárias. Os eventos focus e blur não borbulham, \nmas os eventos focusin e focusout, sim, e a jQuery garante que esses eventos funcionam em todos \nos navegadores. Inversamente, os eventos mouseover e mouseout borbulham, sendo que isso muitas \nvezes é inconveniente, pois é difícil saber se o mouse deixou o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3029,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3734",
+  "content": "do \nservidor). Muitas vezes, um navegador pode obter uma localização ainda mais precisa, solicitando ao \nsistema operacional a lista de redes sem fios próximas e a intensidade dos sinais. Essas informações, \nquando enviadas para um serviço Web sofisticado, permitem que sua localização seja calculada com \nprecisão surpreendente (normalmente no espaço de uma quadra).\nEssas tecnologias de geolocalização envolvem uma troca pela rede ou comunicação com vários satéli-\ntes, de modo que a API Geolocation é assíncrona: \ngetCurrentPosition() e watchPosition() retornam \nimediatamente, mas aceitam um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3734,
+    "totalChunks": 10000
+  }
+}

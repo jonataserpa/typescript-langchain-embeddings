@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_504",
+  "content": "avaliar  uma  expressão  que  tenha  efeitos  colaterais.  As  \nexpressões com efeitos colaterais, como as atribuições e as chamadas de função, podem aparecer \nsozinhas como instruções e, quando utilizadas dessa maneira, são conhecidas como instruções de \nexpressão. Uma categoria similar de instruções são as instruções de declaração, que declaram novas \nvariáveis e definem novas funções.\nOs programas JavaScript nada mais são do que uma sequência de instruções a serem executadas. Por \npadrão, o interpretador JavaScript executa essas instruções uma após a outra, na ordem em que são \nescritas.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 504,
+    "totalChunks": 10000
+  }
+}

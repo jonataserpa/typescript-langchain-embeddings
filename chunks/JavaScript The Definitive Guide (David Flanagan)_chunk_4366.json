@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4366",
+  "content": "smo em um \ncontexto onde JavaScript faz a conversão automaticamente. Usar \ntoString() explicitamente pode \najudar a tornar seu código mais claro:\nalert(my_obj.toString());\n\n810          Parte III     Referência de JavaScript básica\nConsulte também\nObject.constructor, Object.toLocaleString(), Object.valueOf()\nObject.valueOf()\no valor primitivo do objeto especificado\nSinopse\nobjeto.valueOf()\nRetorna\nO valor primitivo associado a \nobjeto, se houver. Se não houver um valor associado a objeto, retorna \no próprio objeto.\nDescrição\nO método valueOf() de um objeto retorna o valor primitivo associado",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4366,
+    "totalChunks": 10000
+  }
+}

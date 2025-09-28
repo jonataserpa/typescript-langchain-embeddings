@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1068",
+  "content": "osto\n[1,1,3,5,5].every(odd);         // => verdadeiro: todo elemento do array é ímpar\nA função not() anterior é uma função de alta ordem, pois recebe um argumento que é uma função e \nretorna uma nova função. Como outro exemplo, considere a função mapper() a seguir. Ela recebe um \nargumento que é uma função e retorna uma nova função que mapeia um array em outro, usando \nessa função. Essa função usa a função map() definida anteriormente. É importante entender por que \nas duas funções são diferentes:\n// Retorna uma função que espera um argumento de array e aplica f em\n// cada elemento,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1068,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5619",
+  "content": "em de enumeração, 99\n    método    Object.defi neProperties( ), 796–797\n    métodos getter e setter, 125–127\n    nomes de propriedade versus índices de array, 139\n    nomes e valores, 114\n    objeto Function, defi nindo suas próprias, 173\n    privadas, em classes estilo Java, 202\n    propriedades CSS não padronizadas, 405\n    propriedades de atalho na CSS, 405\n    propriedades de estilo CSS, 403\n    propriedades de estilo CSS importantes, 407–408\n    protótipo, herança de, 115\n    rotina de tratamento de evento, 445\n        convenção de atribuição de nomes, 313\n        espelhando atributos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5619,
+    "totalChunks": 10000
+  }
+}

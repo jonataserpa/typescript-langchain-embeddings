@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1431",
+  "content": "a \numa string de texto:\n//  Independente de como seja composta, substitui pela composição correta de letras \n//maiúsculas e minúsculas\ntext.replace(/javascript/gi, \"JavaScript\");\nContudo, replace() é mais poderoso do que isso. Lembre-se de que as subexpressões colocadas entre \nparênteses de uma expressão regular são numeradas da esquerda para a direita e de que a expressão \nregular lembra do texto a que cada subexpressão corresponde. Se um $ seguido de um dígito aparece \nna string para substituição, replace() substitui esses dois caracteres pelo texto que corresponde à \nsubexpressão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1431,
+    "totalChunks": 10000
+  }
+}

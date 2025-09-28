@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_761",
+  "content": "e especialmente denominada\n __proto__, sendo que é possível usar \nessa propriedade para consultar ou configurar diretamente o protótipo de qualquer objeto. O uso de \n\nCapítulo     6     Objetos          133\nJavaScript básica\n__proto__ não é portável: ela não tem sido (e provavelmente nunca será) implementada pelo IE nem \npelo Opera, embora atualmente seja suportada pelo Safari e pelo Chrome. As versões do Firefox que \nimplementam ECMAScript 5 ainda suportam __proto__, mas restringem sua capacidade de alterar \no protótipo de objetos não extensíveis.\n6.8.2   O atributo classe\nO atributo classe",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 761,
+    "totalChunks": 10000
+  }
+}

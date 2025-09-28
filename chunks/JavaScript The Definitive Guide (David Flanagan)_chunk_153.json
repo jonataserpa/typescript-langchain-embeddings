@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_153",
+  "content": "exatamente quatro dígitos hexadecimais (usando as letras A–F maiúsculas ou minúsculas). Os \nescapes Unicode podem aparecer em strings literais, expressões regulares literais e em identificadores \nJavaScript (mas não em palavras-chave da linguagem). O escape Unicode para o caractere “é”, por \nexemplo, é \n\\u00E9, e as duas strings JavaScript a seguir são idênticas:\n\"café\" === \"caf\\u00e9\" // => true\nOs escapes Unicode também podem aparecer em comentários, mas como os comentários são ig-\nnorados, eles são tratados como caracteres ASCII nesse contexto e não são interpretados como \nUnicode.\n2.1.4",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 153,
+    "totalChunks": 10000
+  }
+}

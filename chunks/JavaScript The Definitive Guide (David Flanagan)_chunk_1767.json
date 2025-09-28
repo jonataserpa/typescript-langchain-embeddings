@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1767",
+  "content": "omo \nsetTimeout() e setInterval() para \nexecutá-las em segundo plano, enquanto atualiza um indicador de progresso que dê um retorno para \no usuário.\nHTML5 define uma forma controlada de concomitância, denominada “Web worker”. Um Web \nworker é uma thread de segundo plano para executar tarefas que usam muito poder de computação \nsem congelar a interface com o usuário. O código executado em uma thread Web worker não tem \nacesso ao conteúdo do documento, não compartilha nenhum estado com a thread principal ou com \noutros workers e só pode se comunicar com a thread principal e com outros workers",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1767,
+    "totalChunks": 10000
+  }
+}

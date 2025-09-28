@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3923",
+  "content": "es têm “request” em seus nomes. Na primeira vez que uma delas é chamada, \no navegador pode solicitar permissão ao usuário, antes de criar um sistema de arquivos e garantir \nacesso\n2\n. Uma vez concedida a permissão, as chamadas subsequentes ao método de requisição devem \nsimplesmente retornar um objeto representando o sistema de arquivos local já existente.\nO objeto filesystem obtido com um dos métodos anteriores tem uma propriedade \nroot que se re-\nfere ao diretório-raiz do sistema de arquivo. Trata-se de um objeto DirectoryEntry e ele pode ter \ndiretórios aninhados que são eles próprios",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3923,
+    "totalChunks": 10000
+  }
+}

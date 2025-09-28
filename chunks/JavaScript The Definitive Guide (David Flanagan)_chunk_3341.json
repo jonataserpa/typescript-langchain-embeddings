@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3341",
+  "content": "sas duas guias têm dados de \nsessionStorage \nseparados: os scripts em execução em uma guia não podem ler nem sobrescrever os dados gravados \npor scripts na outra guia, mesmo que as duas guias estejam visitando exatamente a mesma página e \nexecutando exatamente os mesmos scripts.\n\nCapítulo 20     Armazenamento no lado do cliente      577\nJavaScript do\n lado do cliente\nNote que esse escopo baseado na janela de sessionStorage só serve para janelas de nível superior. Se \numa guia do navegador contém dois elementos \n<iframe> e esses quadros contêm dois documentos \ncom a mesma origem, esses dois",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3341,
+    "totalChunks": 10000
+  }
+}

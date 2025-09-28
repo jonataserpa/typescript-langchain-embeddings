@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1284",
+  "content": "ion() { return this.set.size(); },\n    foreach: function(f,c) { this.set.foreach(f,c); }\n});\nUma das vantagens de usar composição nesse caso é que apenas uma subclasse de FilteredSet é exi-\ngida. Instâncias dessa classe podem ser criadas para restringir a participação como membro de qual-\nquer outra instância do conjunto. Em vez de usarmos a classe NonNullSet definida anteriormente, \npor exemplo, podemos fazer isto:\nvar s = new FilteredSet(new Set(), function(x) { return x !== null; });\nPodemos até filtrar um conjunto filtrado:\nvar t = new FilteredSet(s, { function(x} { return !(x instanceof",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1284,
+    "totalChunks": 10000
+  }
+}

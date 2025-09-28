@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4981",
+  "content": "tos selecionados que \nalternam entre as funções de tratamento de evento especificadas.\ntrigger(tipo, [params])\ntrigger(evento)\nDispara um evento tipo em todos os elementos selecionados, passando params como parâ-\nmetros extras para as rotinas de tratamento de evento. params pode ser omitido, pode ser um \núnico valor ou um array de valores. Se você passa um objeto evento, sua propriedade type espe-\ncifica o tipo de evento e quaisquer outras propriedades são copiadas no objeto evento passado \npara as rotinas de tratamento.\ntriggerHandler(tipo, [params])\nÉ como trigger(), mas não permite que o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4981,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5019",
+  "content": "propriedade torna fácil consultar, con-\nfigurar e excluir símbolos do atributo HTML rel de elementos <link>.\nstring search\nEspecifica a parte da consulta de href, incluindo o ponto de interrogação à esquerda – por \nexemplo, “?q=JavaScript&m=10”.\nreadonly CSSStyleSheet sheet\nPara elementos <link> que referenciam folhas de estilo, essa propriedade representa a folha de \nestilo vinculada.\nstring text\nO conteúdo de texto puro de um elemento <a> ou <area>. Sinônimo de Node.textContent.\n\n948          Parte IV     Referência de JavaScript do lado do cliente\nstring title\nTodos os elementos HTML",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5019,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5456",
+  "content": "42\n    consultando o tamanho da porta de visualização, \n381–382\n    consultando posições da barra de rolagem, 380–\n381\n    elementos do documento como propriedades de, \n342\n    eventos,    438\n    histórico de navegação, 336\n    informações sobre navegador e tela, 337–339\n    localização e navegação do navegador, 334–336\n        analisando    URLs,    334\n        carregando novos documentos, 335\n    navegador, JavaScript abrindo e fechando, 325\n    navegador, política da mesma origem e, 326\n    sobreposição de janelas translúcidas (exemplo de \nCSS), 418–420\n    timers,    333–334",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5456,
+    "totalChunks": 10000
+  }
+}

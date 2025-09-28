@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3450",
+  "content": "o método HTTP “PUT”, em vez do \nmétodo POST, muito mais comum.)\nAlém dessas três funções básicas, o Exemplo 20-7 define rotinas de tratamento de evento. Para man-\nter a cópia local e a cópia do servidor da anotação sincronizadas, o aplicativo exige muitas rotinas de \ntratamento de evento:\nonload\nTenta sincronizar com o servidor, no caso de haver uma versão mais recente da anotação lá e, \nquando a sincronização está concluída, habilita a janela do editor.\nAs funções \nsave() e sync() fazem requisições HTTP e registram uma rotina de tratamento de \nonload no objeto XMLHttpRequest para serem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3450,
+    "totalChunks": 10000
+  }
+}

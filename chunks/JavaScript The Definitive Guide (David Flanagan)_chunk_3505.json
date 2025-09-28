@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3505",
+  "content": "do o recurso completo ou ter colocado no buffer todos os dados \nde que precisa agora. Ou então, pode ter configurado \npreload como \n“none” e ainda não foi solicitado a carregar ou reproduzir a mídia.\nNETWORK_LOADING\n2O elemento está usando a rede para carregar dados da mídia.\nNETWORK_NO_SOURCE\n3O elemento não conseguiu encontrar uma fonte de mídia que seja capaz \nde reproduzir.\nQuando ocorre um erro no carregamento ou na reprodução da mídia, o navegador configura a pro-\npriedade error do elemento <audio> ou <video>. Se não ocorreu erro, error é null. Caso contrário, é \num objeto com uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3505,
+    "totalChunks": 10000
+  }
+}

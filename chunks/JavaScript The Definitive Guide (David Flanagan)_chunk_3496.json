@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3496",
+  "content": "io> e <video> têm várias propriedades somente de leitura que descrevem o estado \natual da mídia e do reprodutor. paused é true se o reprodutor está em pausa. seeking é true se o re-\nprodutor está pulando para uma nova posição de reprodução. ended é true se o reprodutor atingiu o \nfim da mídia e parou. (\nended nunca se torna true se loop é true.)\nA propriedade \nduration especifica a duração da mídia, em segundos. Se você consulta essa proprie-\ndade antes que os metadados da mídia estejam carregados, ela retorna NaN. Para streaming de mídia \n(como rádio na Internet) com duração indefinida, essa",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3496,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_463",
+  "content": "ja, quando vários \noperadores de atribuição aparecem em uma expressão, eles são avaliados da direita para a esquerda. \nAssim, é possível escrever código como o seguinte para atribuir um único valor a diversas variáveis:\ni = j = k = 0;        // Inicializa 3 variáveis com 0\n4.11.1   Atribuição com operação\nAlém do operador de atribuição = normal, a JavaScript aceita vários outros operadores de atribuição \nque fornecem atalhos por combinar atribuição com alguma outra operação. Por exemplo, o opera-\ndor += efetua adição e atribuição. A expressão a seguir:\ntotal += sales_tax\né equivalente a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 463,
+    "totalChunks": 10000
+  }
+}

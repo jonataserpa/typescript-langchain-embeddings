@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1204",
+  "content": "a necessário, muitas vezes é útil definir \ntoString() para facilitar a depuração. As classes Range e Complex, nos exemplos 9-2 e 9-3, têm \nmétodos toString(), assim como os tipos enumeração do Exemplo 9-7. Vamos definir um método \ntoString() para a classe Set do Exemplo 9-6 a seguir.\nO  método  \ntoLocaleString() é  estreitamente  relacionado  a  toString():  ele  deve  converter  um  \nobjeto em uma string compatível com a localidade. Por padrão, os objetos herdam um método \ntoLocaleString() que simplesmente chama seus métodos toString(). Alguns tipos internos têm mé-\ntodos toLocaleString()",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1204,
+    "totalChunks": 10000
+  }
+}

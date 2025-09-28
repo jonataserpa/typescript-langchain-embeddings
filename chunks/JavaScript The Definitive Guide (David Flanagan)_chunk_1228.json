@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1228",
+  "content": "of Range))\n        throw new Error(\"Can't compare a Range with \" + that);\n    var diff = this.from – that.from;            // Compara os limites inferiores\n    if (diff == 0) diff = this.to – that.to;      // Se são iguais, compara os limites \n// superiores\n    return    diff;\n};\nUma razão para definir um método compareTo() para uma classe é para que arrays de instâncias dessa \nclasse possam ser classificados. O método \nArray.sort() aceita como argumento opcional uma função \nde comparação que utiliza as mesmas convenções de valor de retorno do método compareTo(). Dado \no método \ncompareTo()",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1228,
+    "totalChunks": 10000
+  }
+}

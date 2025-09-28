@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1427",
+  "content": "cute méto-\ndos do objeto String que utilizam expressões regulares para fazer comparação de padrões e operações \nde busca e substituição. As seções depois desta continuam a discussão sobre comparação de padrões \ncom expressões regulares de JavaScript, falando sobre o objeto RegExp e seus métodos e proprie-\ndades. Note que a discussão a seguir é apenas uma visão geral dos vários métodos e propriedades \nrelacionados às expressões regulares. Como sempre, os detalhes completos podem ser encontrados \nna Parte III.\nAs strings suportam quatro métodos que utilizam expressões regulares. O mais simples",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1427,
+    "totalChunks": 10000
+  }
+}

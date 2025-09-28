@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_102",
+  "content": "de teste simples \nem HTML usando elementos <button> com atributos da rotina de tratamento de evento onclick:\n\nCapítulo 1     Introdução a JavaScript      11\n<script src=\"debug.js\"></script>\n<script src=\"hide.js\"></script>\nHello\n<button onclick=\"hide(this,true); debug('hide button 1');\">Hide1</button>\n<button onclick=\"hide(this); debug('hide button 2');\">Hide2</button>\nWorld\nAqui está um código JavaScript do lado do cliente que utiliza eventos. Ele registra uma rotina de \ntratamento de evento para o importante evento “load” e também demonstra uma maneira mais \nsofisticada de registrar funções",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 102,
+    "totalChunks": 10000
+  }
+}

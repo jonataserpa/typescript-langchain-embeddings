@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5174",
+  "content": "Consulte também setSelectionRange().\nreadonly unsigned long textLength\nO comprimento, em caracteres, da propriedade value (consulte FormControl).\n\n      Referência de JavaScript do lado do cliente      979\nReferência de \nJavaScript do lado \ndo cliente\nMétodos\nAlém  dos  métodos  listados  aqui,  os  elementos  TextArea  também  implementam  os  métodos  de  \nElement e FormControl.\nvoid select()\nEsse método seleciona todo o texto exibido por esse elemento <textarea>. Na maioria dos navega-\ndores, isso significa que o texto é realçado e que novo texto digitado pelo usuário substitui o texto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5174,
+    "totalChunks": 10000
+  }
+}

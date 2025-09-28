@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_611",
+  "content": "o que a entrada seja válida\n    var f = factorial(n);\n    // Mostra o resultado\n    alert(n + \"! = \" + f);\n}\ncatch (ex) {          // Se a entrada do usuário não foi válida, terminamos aqui\n    alert(ex);       // Informa ao usuário qual é o erro\n}\nEsse exemplo é uma instrução try/catch sem qualquer cláusula finally. Embora finally não seja \nusada tão frequentemente quanto catch, ela pode ser útil. Contudo, seu comportamento exige mais \nexplicações. É garantido que a cláusula finally é executada se qualquer parte do bloco try é exe-\ncutada, independente de como o código do bloco try termina.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 611,
+    "totalChunks": 10000
+  }
+}

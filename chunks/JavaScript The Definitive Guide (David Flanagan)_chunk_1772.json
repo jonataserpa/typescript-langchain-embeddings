@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1772",
+  "content": "assim que possível, depois de baixado, mas o analisador não para e espera o download. Os \n2\n  Alguns navegadores se previnem contra ataques de negação de serviço e laços infinitos acidentais avisando o usuário se \num script ou uma rotina de tratamento de evento demora muito para executar. Isso dá ao usuário a chance de cancelar um \nscript descontrolado.\n\n316          Parte II     JavaScript do lado do cliente\nscripts assíncronos não devem usar o método document.write(). Eles podem ver seus próprios \nelementos \n<script> e todos os elementos de documento que venham antes deles, podendo ou \nnão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1772,
+    "totalChunks": 10000
+  }
+}

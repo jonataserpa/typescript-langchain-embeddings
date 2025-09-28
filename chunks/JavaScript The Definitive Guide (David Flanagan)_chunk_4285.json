@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4285",
+  "content": "inopse\nNumber.MAX_VALUE\nDescrição\nNumber.MAX_VALUE é o maior número representável em JavaScript. Seu valor é aproximadamente \n1,79E+308.\nNumber.MIN_VALUE\no valor numérico mínimo\nSinopse\nNumber.MIN_VALUE\nDescrição\nNumber.MIN_VALUE é o menor (mais próximo a zero, não o mais negativo) número representável em \nJavaScript. Seu valor é aproximadamente 5E-324.\nNumber.NaN\no valor especial not-a-number\nSinopse\nNumber.NaN\nDescrição\nNumber.NaN é um valor especial indicando que o resultado de alguma operação matemática (como \nextrair a raiz quadrada de um número negativo) não é um número. parseInt() e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4285,
+    "totalChunks": 10000
+  }
+}

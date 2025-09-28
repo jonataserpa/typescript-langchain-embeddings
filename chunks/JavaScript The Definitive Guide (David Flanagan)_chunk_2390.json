@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2390",
+  "content": "geralmente são úteis para configurar valores de estilo \ne foi isso que todos os exemplos anteriores fizeram. As propriedades de um objeto CSSStyleDecla-\nration que representa estilos em linha podem ser lidas, mas elas só retornam valores significativos se \ntiverem sido configuradas anteriormente por seu código JavaScript ou se o elemento HTML com \nque você está trabalhando tiver um atributo style em linha que configure as propriedades desejadas. \nPor exemplo, seu documento pode conter uma folha de estilo que configure a margem esquerda de \ntodos os parágrafos como 30 pixels, mas se você ler",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2390,
+    "totalChunks": 10000
+  }
+}

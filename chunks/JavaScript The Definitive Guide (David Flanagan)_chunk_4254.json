@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4254",
+  "content": "serir novas linhas e usar o número de espaços especificado para recuar cada “nível” da saída. Se, em \nvez disso, você especificar uma string não vazia, JSON.stringify() vai inserir novas linhas e usar essa \nstring (ou os 10 primeiros caracteres dela) para recuar cada nível.\nExemplos\n// Serialização básica\nvar text = JSON.stringify(data);\n// Especifica exatamente quais campos vai serializar\nvar text = JSON.stringify(address, [\"city\",\"state\",\"country\"]);\n// Especifica uma função substituta para que objetos RegExp possam ser serializados\nvar text = JSON.stringify(patterns, function(key, value)",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4254,
+    "totalChunks": 10000
+  }
+}

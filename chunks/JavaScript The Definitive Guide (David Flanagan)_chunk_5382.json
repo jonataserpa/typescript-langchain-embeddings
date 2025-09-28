@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5382",
+  "content": "o classes, 364\n    objetos XML e padrão E4X, 277\n    visão geral, 352\ndomínios\n    atributo domínio, cookies, 580\n        confi gurando, 582\n    problemas com política da mesma origem e sub-\ndomínios, 327\ndrawImage( ), CanvasRenderingContext2D, 641, \n859\ndropEff ect, objeto DataTransfer, 464, 872\nduração, efeitos animados, 537, 940\n    passando para métodos de efeitos da jQuery, 538\nDynamic HTML (DHTML), 302\nE\nE/S\n    assíncrona, script com Node, 288–296\n    cliente HTTP (exemplo), 294–296\n    servidor HTTP (exemplo), 292–294\nE/S assíncrona\n    scripts com Node, 288–296\n        módulo de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5382,
+    "totalChunks": 10000
+  }
+}

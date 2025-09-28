@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4551",
+  "content": "de destino que já existem no canvas. \nNormalmente, essa propriedade só tem utilidade quando se está trabalhando com cores par-\ncialmente transparentes ou a propriedade globalAlpha está configurada. O valor padrão é \n“source-over”. Outros valores normalmente usados são “destination-over” e “copy”. Con-\nsulte a tabela de valores válidos anterior. Note que, quando este livro estava sendo escrito, \nos navegadores tinham diferentes implementações de certos modos de composição: alguns \ncompunham de forma local e alguns compunham globalmente. Consulte a Seção 21.4.13 \npara ver os detalhes.\nstring",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4551,
+    "totalChunks": 10000
+  }
+}

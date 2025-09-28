@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3106",
+  "content": "de um objeto composto por objetos de animação é feita com o méto-\ndo geral \nanimate(), mas também é possível fazer isso com os métodos de efeito mais simples. O uso \nde um objeto opções permite configurar outras opções avançadas para controlar enfileiramento e \nabrandamento, por exemplo. As opções disponíveis estão explicadas na Seção 19.5.2.2.\n19.5.1   Efeitos   simples\nA jQuery define nove métodos de efeitos simples para ocultar e exibir elementos. Eles podem ser \ndivididos em três grupos, baseados no tipo de efeito que realizam:\nfadeIn(), fadeOut(), fadeTo()\nEsses são os efeitos mais",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3106,
+    "totalChunks": 10000
+  }
+}

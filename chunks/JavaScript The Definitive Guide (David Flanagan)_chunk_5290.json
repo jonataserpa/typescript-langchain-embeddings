@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5290",
+  "content": "is geral, se \nreadyState não é 1, send() lança uma exceção. Caso contrário, faz uma \nrequisição HTTP consistindo em:\n •   O método HTTP, URL e credenciais de autorização (se houver) especificados na chamada \nanterior de \nopen().\n •   Os cabeçalhos da requisição, se houver, especificados pelas chamadas anteriores de setRequest-\nHeader()\n.\n •   O argumento \ncorpo passado para esse método. O corpo pode ser uma string ou um objeto \nDocument especificando o corpo da requisição, ou pode ser omitido ou \nnull, caso a requisição \nnão tenha corpo (como as requisições GET, que nunca têm corpo). Na XHR2,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5290,
+    "totalChunks": 10000
+  }
+}

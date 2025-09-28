@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5207",
+  "content": "self que se referem ao próprio objeto janela. Você \npode usá-las para tornar a referência da janela atual explícita, em vez de implícita.\nUm Window pode conter outros objetos Window, normalmente na forma de tags \n<iframe>. Cada \nWindow é um objeto semelhante a um array de objetos Window aninhados. Contudo, em vez de \nindexar um objeto Window diretamente, você normalmente usa sua propriedade autoreferencial \nframes como se fosse um objeto semelhante a um array. As propriedades parent e top de um objeto \nWindow se referem diretamente à janela contêiner e à janela ascendente de nível",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5207,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3827",
+  "content": "m o usuário da thread principal. O segundo exemplo demonstra como as threads worker podem \nusar APIs síncronas mais simples.\nO Exemplo 22-6 define uma função \nsmear() que espera um elemento <img> como argumento. Ela \naplica um efeito de motion blur para “borrar” a imagem à direita. O exemplo usa técnicas do Capí-\ntulo 21 para copiar a imagem em um elemento \n<canvas> fora da tela e, então, para extrair os pixels \nda imagem em um objeto ImageData. Você não pode passar um elemento <img> ou <canvas> para \num worker por meio de \npostMessage(), mas pode passar um objeto ImageData (os detalhes estão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3827,
+    "totalChunks": 10000
+  }
+}

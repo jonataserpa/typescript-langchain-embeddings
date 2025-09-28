@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4095",
+  "content": "er chamado.\nConsulte também\nObject\nBoolean.toString()\nconverte um valor booleano em uma string Anula Object.toString()\nSinopse\nb.toString()\nRetorna\nA string “true” ou “false”, dependendo do valor do número booleano primitivo ou do objeto Boo-\nlean \nb.\nLança\nTypeError\nSe esse método é chamado em um objeto que não é Boolean.\nBoolean.valueOf()\no valor booleano de um objeto Boolean Anula Object.valueOf()\nSinopse\nb.valueOf()\nRetorna\nO número booleano primitivo mantido pelo objeto Boolean \nb.\nLança\nTypeError\nSe esse método é chamado em um objeto que não é Boolean.\n\n726          Parte III",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4095,
+    "totalChunks": 10000
+  }
+}

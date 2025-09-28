@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1042",
+  "content": "var self = this, boundArgs = arguments;\n        // O valor de retorno do método bind() é uma função\n        return function() {\n            // Constrói uma lista de argumentos, começando com qualquer arg passado\n            // para bind após o primeiro, e segundo depois desse todos os args\n            // passados para essa função.\n            var args = [], i;\n            for(i = 1; i < boundArgs.length; i++) args.push(boundArgs[i]);\n            for(i = 0; i < arguments.length; i++) args.push(arguments[i]);\n            // Agora chama self como método de o, com esses argumentos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1042,
+    "totalChunks": 10000
+  }
+}

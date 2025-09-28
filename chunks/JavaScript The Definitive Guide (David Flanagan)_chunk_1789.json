@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1789",
+  "content": "Developer Connection\nhttp://code.google.com/doctype\nO Google descreve seu projeto Doctype como “uma enciclopédia da Web aberta”. Esse site \nque pode ser editado pelo usuário contém extensas tabelas de compatibilidade para JavaScript \ndo lado do cliente. Quando este livro estava sendo escrito, essas tabelas apenas relatavam a \nexistência de várias propriedades e métodos de cada navegador: elas não diziam se esses recur-\nsos funcionavam corretamente.\nhttp://en.wikipedia.org/wiki/Comparison_of_layout_engines_(HTML_5)\nArtigo da Wikipedia que monitora o status de implementação de recursos e APIs",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1789,
+    "totalChunks": 10000
+  }
+}

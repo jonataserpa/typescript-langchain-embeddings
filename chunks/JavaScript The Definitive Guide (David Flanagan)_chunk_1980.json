@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1980",
+  "content": "funções; portanto, ao se definir uma classe (consulte \no Capítulo 9) com uma função construtora e um objeto protótipo associado, essa classe é definida \napenas dentro de uma janela. Suponha que a janela que contém os quadros A e B inclui a classe Set \ndo Exemplo 9-6.\nScripts dentro dessa janela de nível superior podem criar novos objetos Set, como segue:\nvar s = new Set();\nMas os scripts de um ou outro quadro devem se referir explicitamente à construtora Set() como uma \npropriedade da janela pai:\nvar s = new parent.Set();\n\n350          Parte II     JavaScript do lado do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1980,
+    "totalChunks": 10000
+  }
+}

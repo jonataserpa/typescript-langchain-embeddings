@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2630",
+  "content": "7-3 Tratando de eventos roda do mouse\n// Engloba o elemento conteúdo em um quadro ou em uma porta de visualização da largura e\n// altura especificadas (mínimo 50x50). Os argumentos contentX e contentY opcionais\n// especificam o deslocamento inicial do conteúdo em relação ao quadro. (Se\n// especificados, devem ser <= 0.) O quadro tem rotinas de tratamento de evento \n// mousewheel que permite ao usuário dar uma panorâmica no elemento e reduzir ou \n// ampliar o quadro.\nfunction enclose(content, framewidth, frameheight, contentX, contentY) {\n    // Esses argumentos não são apenas os valores",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2630,
+    "totalChunks": 10000
+  }
+}

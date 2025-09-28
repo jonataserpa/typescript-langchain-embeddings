@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_444",
+  "content": "f Number;  // É avaliado como false; d não é um objeto Number\nvar a = [1, 2, 3];    // Cria um array com sintaxe de array literal\na instanceof Array;   // É avaliado como true; a é um array\na instanceof Object;  // É avaliado como true; todos os arrays são objetos\na instanceof RegExp;  // É avaliado como false; os arrays não são expressões regulares\nNote que todos os objetos são instâncias de Object. instanceof considera as “superclasses” ao decidir \nse um objeto é uma instância de uma classe. Se o operando do lado esquerdo de instanceof não é \num objeto, instanceof retorna false. Se o lado",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 444,
+    "totalChunks": 10000
+  }
+}

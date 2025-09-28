@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2437",
+  "content": "objetos \nfolha de estilo.\n16.6.1   Habilitando e desabilitando folhas de estilo\nA técnica de script de folha de estilo mais simples também é a mais portável e robusta. Elementos \n<style>, elementos <link> e objetos CSSStyleSheet definem todos uma propriedade disabled que \npode ser consultada e configurada em JavaScript. Conforme seu nome implica, se a propriedade \ndisabled (desabilitada) é true, então a folha de estilo está desabilitada e é ignorada pelo navegador.\nA função \ndisableStylesheet() a seguir demonstra isso. Se for passado um número, ela o trata como \num índice para o array",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2437,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3308",
+  "content": "s métodos de efeitos visuais novos (incluindo a capacidade de animar cores) \nàqueles oferecidos pela própria jQuery e também define muitas funções de abrandamento novas.\nConsidere a jQuery UI como diversos plug-ins jQuery relacionados, empacotados em um único \narquivo JavaScript. Para usá-la, basta incluir o script jQuery UI em sua página Web, após incluir o \ncódigo jQuery. A página Download no endereço http://jqueryui.com permite selecionar os compo-\nnentes que você pretende usar e monta um pacote de download personalizado que pode reduzir os \ntempos de carregamento de página, comparado com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3308,
+    "totalChunks": 10000
+  }
+}

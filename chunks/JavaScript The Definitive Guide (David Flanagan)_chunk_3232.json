@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3232",
+  "content": "se valor não será incluído no array \nresultante. E se sua função de mapeamento retornar um array, os elementos desse array serão \nadicionados no resultado, em vez do array em si.\njQuery.merge()\nEsta função espera dois arrays ou objetos semelhantes a um array. Ela anexa os elementos do \nsegundo no primeiro e retorna o primeiro. O primeiro array é modificado, o segundo, não. \nNote que essa função pode ser usada para clonar um array de forma rasa, como segue:\n    var clone = jQuery.merge([], original);\njQuery.parseJSON()\nEsta função analisa uma string formatada como JSON e retorna o valor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3232,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_462",
+  "content": ". Por exemplo, é \npossível atribuir e testar um valor na mesma expressão com o código a seguir:\n(a = b) == 0\n\nCapítulo 4     Expressões e operadores      77\nJavaScript básica\nSe fizer isso, certifique-se de saber claramente a diferença entre os operadores = e ==! Note que = \ntem precedência muito baixa e que parênteses normalmente são necessários quando o valor de uma \natribuição vai ser usado em uma expressão maior.\nO operador de atribuição tem associatividade da direita para a esquerda, ou seja, quando vários \noperadores de atribuição aparecem em uma expressão, eles são avaliados da direita",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 462,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4866",
+  "content": "torna false.\nvoid setCustomValidity(string erro)\nSe erro é uma string não vazia, esse método marca o controle como inválido e usa erro como men-\nsagem localizada ao informar para o usuário a invalidade do elemento. Se erro é a string vazia, qual-\nquer string erro anterior é removida e o controle é considerado válido.\nFormData\ncorpo de um pedido HTTP multipart/form-data\nO tipo FormData é um recurso de XMLHttpRequest Level 2 (XHR2) que torna fácil fazer requisições \nHTTP PUT com codificação multipart/form-data usando um XMLHttpRequest. A codificação mul-\ntipart é necessária, por exemplo, se",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4866,
+    "totalChunks": 10000
+  }
+}

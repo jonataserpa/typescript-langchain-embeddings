@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_333",
+  "content": "á observamos que, se o modo restrito não está sendo usado e um valor é atribuído \na uma variável não declarada, JavaScript cria uma variável global automaticamente. As variáveis cria-\ndas dessa maneira são propriedades normais e configuráveis do objeto global e podem ser excluídas:\nvar truevar = 1;        // Uma variável global declarada corretamente e que não pode ser\n                         //  excluída.\nfakevar = 2;            // Cria uma propriedade que pode ser excluída do objeto global.\nthis.fakevar2 = 3;      // Isso faz a mesma coisa.\ndelete truevar          // => falso: a variável",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 333,
+    "totalChunks": 10000
+  }
+}

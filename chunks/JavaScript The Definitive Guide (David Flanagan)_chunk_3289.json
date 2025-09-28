@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3289",
+  "content": "ele. Como exemplo, \nconsidere a seguinte variante do código anterior: ela realça elementos \n<p> e os elementos <div> que os \ncontêm; em seguida, adiciona uma borda nos elementos \n<div>:\n$(\"div\").find(\"p\").andSelf().       // localiza <p>s em <div>s e mescla-os\n    addClass(\"highlight\").          // Realça todos eles\n    end().end().               // Retira da pilha duas vezes, voltando para $(\"div\")\n     css(\"border\", \"solid black 1px\"); // Adiciona uma borda aos divs\n19.9   Estendendo a jQuery com plug-ins\nA jQuery foi escrita de modo a ser fácil adicionar novas funcionalidades. Os módulos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3289,
+    "totalChunks": 10000
+  }
+}

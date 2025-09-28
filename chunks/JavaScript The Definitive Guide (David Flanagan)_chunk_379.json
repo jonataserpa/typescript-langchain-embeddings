@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_379",
+  "content": "é de operadores bi-\nnários, que combinam duas expressões em uma mais complexa. Isto é, eles esperam dois operandos. \nJavaScript também aceita diversos operadores unários, os quais convertem uma expressão em uma \noutra mais complexa. O operador − na expressão −x é um operador unário que efetua a operação de \nnegação no operando x. Por fim, JavaScript aceita um operador ternário, o operador condicional ?:, \nque combina três expressões em uma.\n4.7.2   Tipo de operando e de resultado\nAlguns operadores trabalham com valores de qualquer tipo, mas a maioria espera que seus operan-\ndos sejam de um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 379,
+    "totalChunks": 10000
+  }
+}

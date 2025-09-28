@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3942",
+  "content": "// O objeto semelhante a um array contém objetos FileEntry e\n                // precisamos obter o nome de cada um.\n                for(var i = 0; i < entries.length; i++) {\n                     var name = entries[i].name; // Obtém o nome da entrada\n                     if (entries[i].isDirectory) name += \"/\"; // Marca diretórios\n                     list.push(name); // Adiciona na lista\n      }\n                // Agora obtemos o próximo lote de entradas\n                  reader.readEntries(handleEntries,    logerr);\n   }\n  }\n }\n}\nTrabalhar com arquivos e com o sistema de arquivo é muito",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3942,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5249",
+  "content": "hide, \nem vez disso.\nWorker\numa thread worker EventTarget\nUm Worker representa uma thread de segundo plano. Crie um novo Worker com a construtora \nWorker(), passando o URL de um arquivo de código JavaScript para ela executar. O código Java-\nScript desse arquivo pode usar APIs síncronas ou executar tarefas com muitos cálculos sem congelar \na thread principal da interface com o usuário. Os Workers executam seu código em um contexto de \nexecução completamente separado (consulte WorkerGlobalScope) e a única maneira de trocar dados \ncom um worker é por meio de eventos assíncronos. Chame",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5249,
+    "totalChunks": 10000
+  }
+}

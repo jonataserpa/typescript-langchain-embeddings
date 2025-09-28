@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1971",
+  "content": "exado numericamente ou pelo \nnome do quadro. Para se referir ao primeiro quadro filho de uma janela, pode-se usar frames[0]. Para \nse referir ao terceiro quadro filho do segundo filho, pode-se usar frames[1].frames[2]. Um código \nem execução em um quadro poderia se referir a um quadro irmão como parent.frames[1]. Note que \nos elementos do array frames[] são objetos Window e não elementos <iframe>.\nSe você especifica o atributo \nname ou id de um elemento <iframe>, esse quadro pode ser indexado \npelo nome, assim como pelo número. Um quadro chamado “f1” seria frames[\"f1\"] ou frames.f1, \npor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1971,
+    "totalChunks": 10000
+  }
+}

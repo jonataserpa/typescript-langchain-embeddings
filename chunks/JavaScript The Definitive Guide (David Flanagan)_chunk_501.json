@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_501",
+  "content": "m URL javascript:, sendo que, nesse caso, o operador \nvoid não seria necessário.\n4.13.5   O operador vírgula (,)\nO operador vírgula é um operador binário cujos operandos podem ser de qualquer tipo. Ele avalia o \noperando da esquerda, avalia o operando da direita e, então, retorna o valor do operando da direita. \nAssim, a linha a seguir:\ni=0, j=1, k=2;\né avaliada como 2 e é basicamente equivalente a:\ni = 0; j = 1; k = 2;\nA expressão do lado esquerdo é sempre avaliada, mas seu valor é descartado, ou seja, só faz sentido \nutilizar o operador vírgula quando a expressão do lado esquerdo tem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 501,
+    "totalChunks": 10000
+  }
+}

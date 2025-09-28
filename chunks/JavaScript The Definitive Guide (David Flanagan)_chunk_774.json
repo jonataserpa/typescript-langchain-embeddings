@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_774",
+  "content": "pt 5 fornece as funções nativas JSON.stringify() \ne JSON.parse() para serializar e restaurar objetos de JavaScript. Essas funções utilizam o formato de \ntroca de dados JSON. JSON significa “JavaScript Object Notation” (notação de objeto JavaScript) \ne sua sintaxe é muito parecida com a de objetos e array literais de JavaScript:\no = {x:1, y:{z:[false,null,\"\"]}};    // Define um objeto de teste\ns = JSON.stringify(o);     // s é '{\"x\":1,\"y\":{\"z\":[false,null,\"\"]}}'\np = JSON.parse(s);         // p é uma cópia profunda de o\nA implementação nativa dessas funções em ECMAScript 5 foi modelada de forma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 774,
+    "totalChunks": 10000
+  }
+}

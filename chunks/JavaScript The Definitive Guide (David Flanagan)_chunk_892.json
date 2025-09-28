@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_892",
+  "content": "uzidos no Firefox 1.5. Como eram escritos \ngenericamente, o Firefox também introduziu versões desses métodos como funções definidas di-\nretamente na construtora\n Array. Com essas versões dos métodos definidas, os exemplos anteriores \npodem ser reescritos como segue:\nvar a = {\"0\":\"a\", \"1\":\"b\", \"2\":\"c\", length:3};   // Um objeto semelhante a um array\nArray.join(a, \"+\")\nArray.slice(a, 0)\nArray.map(a, function(x) { return x.toUpperCase(); })\nEssas versões de função estática dos métodos de array são muito úteis ao se trabalhar com objetos \nsemelhantes a um array, mas como não são padronizadas, não",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 892,
+    "totalChunks": 10000
+  }
+}

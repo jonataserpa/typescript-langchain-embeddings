@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4300",
+  "content": "1 e 21 (inclusive) não causam \nRangeError. As implementações também podem suportar valores maiores e menores.\nTypeError\nSe esse método é chamado em um objeto que não é Number.\nExemplo\nvar n = 12345.6789;\nn.toPrecision(1);     //     Retorna     1e+4\nn.toPrecision(3);     //     Retorna     1.23e+4\nn.toPrecision(5);     // Retorna 12346: note o arredondamento\nn.toPrecision(10);    // Retorna 12345.67890: note o zero adicionado\nConsulte também\nNumber.toExponential(), Number.toFixed(), Number.toLocaleString(), Number.toString()\n\n792          Parte III     Referência de JavaScript",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4300,
+    "totalChunks": 10000
+  }
+}

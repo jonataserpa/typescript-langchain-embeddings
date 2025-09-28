@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_223",
+  "content": "como uma sequência (conhecida como “par substituto”) de \ndois valores de 16 bits. Isso significa que uma string JavaScript de comprimento 2 (dois valores de 16 bits) \npode representar apenas um caractere Unicode:\nvar p = \"π\"; // π é 1 caractere com posição de código de 16 bits 0x03c0\nvar e = \"e\"; // e é 1 caractere com posição de código de 17 bits 0x1d452\np.length     // => 1: p consiste em 1 elemento de 16 bits\ne.length     // => 2: a codificação UTF-16 de e são 2 valores de 16 bits: \"\\ud835\\    \n            //    udc52\"\nOs diversos métodos de manipulação de strings definidos em JavaScript",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 223,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4887",
+  "content": "tado imediatamente antes do atual. Chamar esse método tem o mesmo efeito de clicar no botão \nBack do navegador. Também é equivalente a:\nhistory.go(-1);\nvoid forward()\nforward() faz a janela ou quadro ao qual o objeto History pertence revisitar o URL (se houver) que \nfoi visitado imediatamente após o atual. Chamar esse método tem o mesmo efeito de clicar no botão \nForward do navegador. Também é equivalente a:\nhistory.go(1);\nvoid go([long delta])\nO método History.go() recebe um argumento inteiro e faz o navegador visitar o URL que está o \nnúmero especificado de posições distante na lista do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4887,
+    "totalChunks": 10000
+  }
+}

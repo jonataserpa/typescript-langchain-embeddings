@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2459",
+  "content": "s de registrar rotinas de tratamento de evento e os \ndetalhes do registro e da chamada de rotinas de tratamento estão explicados na Seção 17.2 e na \nSeção 17.3.\nUm objeto evento é um objeto associado a um evento em especial e contém detalhes sobre esse even-\nto. Os objetos evento são passados como argumento para a função de tratamento de evento (exceto \nno IE8 e anteriores, onde às vezes só estão disponíveis por meio da variável global event). Todos os \nobjetos evento têm uma propriedade \ntype que especifica o tipo de evento e uma propriedade target \nque especifica o alvo do evento. (No IE8 e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2459,
+    "totalChunks": 10000
+  }
+}

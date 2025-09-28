@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2423",
+  "content": "unction releaseAttention(e) { e.className = \"\"; }\nOs elementos HTML podem ser membros de mais de uma classe CSS e o atributo class contém \numa lista de nomes de classe separados por espaços. A propriedade \nclassName tem um nome equi-\nvocado: \nclassNames teria sido uma escolha muito melhor. As funções anteriores supõem que a pro-\npriedade \nclassName vai especificar zero ou um nome de classe e não funcionam quando mais de uma \nclasse está em uso. Se um elemento já tem uma classe atribuída, chamar a função \ngrabAttention() \npara esse elemento vai anular a classe existente.\nHTML5 resolve esse",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2423,
+    "totalChunks": 10000
+  }
+}

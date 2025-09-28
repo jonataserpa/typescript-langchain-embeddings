@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3108",
+  "content": "omo primeiro argumento e a \nopacidade final é exigida como segundo argumento. A função callback é um terceiro argu-\nmento opcional.\n\nCapítulo 19     A biblioteca jQuery      539\nJavaScript do\n lado do cliente\nshow(), hide(), toggle()\nO método fadeOut() listado anteriormente torna os elementos invisíveis, mas mantém o espa-\nço para eles no layout do documento. Em contraste, o método \nhide() remove os elementos do \nlayout como se a propriedade CSS \ndisplay fosse configurada como none. Quando chamados \nsem argumentos, \nhide() e show() simplesmente ocultam ou exibem imediatamente os elemen-\ntos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3108,
+    "totalChunks": 10000
+  }
+}

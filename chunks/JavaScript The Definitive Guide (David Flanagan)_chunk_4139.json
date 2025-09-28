@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4139",
+  "content": "um objeto Date\nSinopse\ndata.setMonth(mês)\ndata.setMonth(mês, dia)\nArgumentos\nmês\nUm inteiro entre 0 (janeiro) e 11 (dezembro) configurado como o valor do mês (na hora local) \ndo objeto Date data. Note que os meses são numerados a partir de 0, enquanto os dias dentro \ndo mês são numerados a partir de 1.\ndia\nUm inteiro opcional entre 1 e 31 usado como o novo valor (na hora local) do campo de dia do \nmês de data. Esse argumento não era suportado antes da padronização ECMAScript.\n\n740          Parte III     Referência de JavaScript básica\nRetorna\nA representação, em milissegundos, da data",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4139,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5459",
+  "content": "construindo aplicativos Web com, 330\n    E/S assíncrona com Node, 288–296\n    mantendo o conteúdo HTML separado do com-\nportamento JavaScript, 446\n    modelo de thread, 314\n    problemas de compatibilidade e operação em con-\njunto, 317\n    script de conteúdo de documento HTML, 9\n    scripts Java com Rhino, 281–288\n    segurança,    325\nJavaScript não invasiva, 303\nJavaScript Object Notation (consulte JSON)\njQuery, 11, 330, 509–572, 568–571, 929–946\n    Ajax com, 545–557\n        eventos    Ajax,    556\n        função ajax( ), 550–555\n        funções    utilitárias,    546\n        método",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5459,
+    "totalChunks": 10000
+  }
+}

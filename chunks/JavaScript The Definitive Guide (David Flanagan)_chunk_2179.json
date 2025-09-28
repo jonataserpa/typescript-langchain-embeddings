@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2179",
+  "content": "offsetWidth e offsetHeight de qualquer elemento \nHTML retornam seu tamanho na tela, em pixels CSS. Os tamanhos retornados incluem a borda e o \npreenchimento do elemento, mas não as margens.\nTodos os elementos HTML têm propriedades \noffsetLeft e offsetTop que retornam as coordenadas \nX e Y do elemento. Para muitos elementos, esses valores são coordenadas do documento e especifi-\ncam a posição do elemento diretamente. Mas para descendentes de elementos posicionados e para \nalguns outros elementos, como células de tabela, essas propriedades retornam coordenadas relativas \na um elemento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2179,
+    "totalChunks": 10000
+  }
+}

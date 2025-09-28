@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1821",
+  "content": "t do IE, e os pro-\ngramadores C e C++ podem achá-los parecidos com a funcionalidade de #ifdef/#endif do pré-\n-processador C. Um comentário condicional em JavaScript no IE começa com o texto \n/*@cc_on e \ntermina com o texto @*/. (O cc em cc_on significa compilação condicional.) O comentário condicio-\nnal a seguir contém código que só é executado no IE:\n/*@cc_on\n  @if (@_jscript)\n    // Este código está dentro de um comentário JS, mas é executado no IE.\n    alert(\"In    IE\");\n  @end\n  @*/\nDentro de um comentário condicional, as palavras-chave @if, @else e @end delimitam o código que \ndeve ser",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1821,
+    "totalChunks": 10000
+  }
+}

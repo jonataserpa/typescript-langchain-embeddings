@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5583",
+  "content": "objeto    TextArea,    978\npropriedade defaultView, objeto Document, 876\npropriedade defer, objeto Script, 969\npropriedade deltaMode, objeto Event, 904\npropriedade detail, objeto Event, 439, 459, 900\npropriedade dir, objeto Document, 877\npropriedade disabled\n    objeto CSSStyleSheet, 871\n    objeto FieldSet, 907\n    objeto FormControl, 914\n    objeto Link, 947\n    objeto Option, 964\n    objeto Style, 973–974\npropriedade display, 415\npropriedade doctype, objeto Document, 877\npropriedade domain, objeto Document, 395, 877\npropriedade duration, objeto MediaElement, 603, \n604, 951\npropriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5583,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5342",
+  "content": "registrando rotinas de tratamento para evento \nclick, 446\n        rotina de tratamento de evento onclick, 308\n    objeto Button, 848\nbotões de alternância, 392\nbotões de pressão, 391\nbuff ers no interpretador de Node, 290\nbyteLength, objeto ArrayBuff er, 845\nbyteOff set, objeto ArrayBuff er, 845\nC\ncabeçalho de pedido Origin:, 327\ncabeçalho de resposta Access-Control-Allow-Origin, \n327\ncabeçalhos, pedido e resposta HTTP, 482\n    cabeçalho Content-Length, 495\n    cabeçalho de respostas, 485\n    cabeçalhos CORS (Cross-Origin Resource Sha-\nring), 498\n    confi gurando cabeçalho Content-Type",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5342,
+    "totalChunks": 10000
+  }
+}

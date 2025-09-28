@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2616",
+  "content": "(e.clientY + scroll.y – deltaY) + \"px\";\n\n458          Parte II     JavaScript do lado do cliente\n        // E não permite que mais ninguém veja esse evento.\n        if (e.stopPropagation) e.stopPropagation();      // Padrão\n        else e.cancelBubble = true;                       // IE\n }\n    /**\n     * Esta é a rotina de tratamento que captura o último evento mouseup que\n     * ocorre no final de um arrasto.\n        **/\n    function upHandler(e) {\n        if (!e) e = window.event;  // Modelo de evento do IE\n        // Anula o registro das rotinas de captura de evento.\n        if",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2616,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1392",
+  "content": "u04FF]/ corresponde \na qualquer caractere cirílico.)\nTabela 10-2 Classes de caracteres de expressões regulares\nCaractereCorresponde a\n[...]\nQualquer caractere entre os colchetes.\n[^...]\nQualquer caractere que não esteja entre os colchetes.\n.\nQualquer caractere, exceto nova linha ou outro finalizador de linha Unicode.\n\\w\nQualquer caractere alfabético em ASCII. Equivalente a [a-zA-Z0-9_].\n\\W\nQualquer caractere que não seja um caractere alfabético em ASCII. Equivalente a [^a-zA-Z0-9_].\n\\s\nQualquer caractere Unicode de espaço em branco.\n\\S\nQualquer caractere Unicode que não seja espaço em branco.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1392,
+    "totalChunks": 10000
+  }
+}

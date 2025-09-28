@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4849",
+  "content": "cumenta recursos de formulário de HTML5 que, quando este livro estava sendo \nescrito, ainda não eram amplamente implementados.\nPropriedades\nA maioria das propriedades listadas aqui simplesmente espelha os atributos HTML de mesmo nome.\nstring acceptCharset\nUma lista de um ou mais conjuntos de caractere permitidos nos quais os dados do formulário \npodem ser codificados para envio.\nstring action\nO URL para o qual o formulário deve ser enviado.\nstring autocomplete\nA string “on” ou “off ”. Se for “on”, o navegador pode preencher os controles do formulário \nantecipadamente com os valores salvos de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4849,
+    "totalChunks": 10000
+  }
+}

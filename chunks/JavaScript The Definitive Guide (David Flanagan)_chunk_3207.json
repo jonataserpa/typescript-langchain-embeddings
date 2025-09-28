@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3207",
+  "content": "etro. O valor padrão desta op-\nção é “callback”. Configure essa opção se estiver usando JSONP com um servidor que espera \num nome de parâmetro diferente e ainda não tiver codificado esse parâmetro em seu URL ou \nem seus dados. Consulte a Seção 18.2 para mais informações sobre JSONP.\njsonpCallback\nPara requisições com dataType “jsonp” (ou tipo “json”, quando o URL inclui um parâmetro \nJSONP como “jsonp=?”), a jQuery deve alterar o URL para substituir o ponto de interrogação \npelo nome da função empacotadora para a qual o servidor vai passar seus dados. Normalmente, \na jQuery sintetiza um nome",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3207,
+    "totalChunks": 10000
+  }
+}

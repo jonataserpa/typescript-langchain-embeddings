@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5324",
+  "content": "e aplicativos Web \noff -line\n    aplicativos    Web    off -line, 594–598\narquivos\n    arquivo Node e API fi lesystem, 291\n    arquivos locais e XMLHttpRequest, 482\n    carregando com pedido POST HTTP, 492\n    como Blobs, 677–678\n    monitorando progresso de upload HTTP, 495\n    objeto File, 907\narquivos de manifesto, cache de aplicativo, 587\n    atualizações,    589–593\n    manifestos complexos, 589\narrastar e soltar, 462–469\n    acesso a arquivos soltos pelo usuário no elemento, \n492\n    API de arrastar e soltar de HTML5, 442\n    arrastando elementos do documento, 456–458\n    destinos de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5324,
+    "totalChunks": 10000
+  }
+}

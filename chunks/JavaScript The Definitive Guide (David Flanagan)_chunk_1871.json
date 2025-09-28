@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1871",
+  "content": "das da biblioteca. Como o código não utilizado é eliminado antes da distribuição, \nos projetistas da biblioteca Closure não precisaram manter o conjunto de recursos compacto, \nde modo que a Closure tem um amplo conjunto de utilitários.\nGWT\nGWT, o Google Web Toolkit (http://code.google.com/webtoolkit/) é um tipo de estrutura do \nlado do cliente completamente diferente. Ela define uma API de aplicativo Web em Java e \nfornece um compilador para transformar seus programas Java em JavaScript do lado do cliente \ncompatível. A GWT é usada em alguns produtos da Google, mas não é tão amplamente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1871,
+    "totalChunks": 10000
+  }
+}

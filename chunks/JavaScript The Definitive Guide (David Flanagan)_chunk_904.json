@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_904",
+  "content": "priedade de o. Retorna undefined.\nfunction printprops(o) {\n    for(var p in o)\n        console.log(p + \": \" + o[p] + \"\\n\");\n}\n// Calcula a distância entre pontos cartesianos (x1,y1) e (x2,y2).\nfunction distance(x1, y1, x2, y2) {\n    var dx = x2 – x1;\n    var dy = y2 – y1;\n    return Math.sqrt(dx*dx + dy*dy);\n}\n// Uma função recursiva (que chama a si mesma) que calcula fatoriais\n// Lembre-se de que x! é o produto de x e todos os inteiros positivos menores do que ele.\nfunction factorial(x) {\n    if (x <= 1) return 1;\n    return x * factorial(x-1);\n}\n\n160          Parte     I     JavaScript",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 904,
+    "totalChunks": 10000
+  }
+}

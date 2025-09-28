@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_633",
+  "content": "extensíveis lançam um TypeError. (No modo não restrito, essas \ntentativas falham silenciosamente.)\n •   No modo restrito, um código passado para \neval() não pode declarar variáveis nem definir \nfunções no escopo do chamador, como acontece no modo não restrito. Em vez disso, as defini-\nções de variável e de função têm um novo escopo criado para \neval(). Esse escopo é descartado \nquando \neval() retorna.\n •   No modo restrito, o objeto \narguments (Seção 8.3.2) em uma função contém uma cópia está-\ntica dos valores passados para a função. No modo não restrito, o objeto \narguments tem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 633,
+    "totalChunks": 10000
+  }
+}

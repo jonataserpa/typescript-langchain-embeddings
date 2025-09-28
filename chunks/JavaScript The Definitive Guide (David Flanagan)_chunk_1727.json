@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1727",
+  "content": "nk para a barra de ferramentas de marcadores.\n13.3   Execução de programas JavaScript\nNão existe uma definição formal de programa em JavaScript do lado do cliente. Podemos dizer que \num programa JavaScript consiste em todo o código JavaScript de uma página Web (scripts em linha, \nrotinas de tratamento de evento HTML e URLs javascript:), junto com o código JavaScript exter-\nno referenciado com o atributo src de uma marcação <script>. Todos esses itens de código separados \ncompartilham um único objeto global Window. Isso significa que todos veem o mesmo objeto Do-\ncument e compartilham o mesmo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1727,
+    "totalChunks": 10000
+  }
+}

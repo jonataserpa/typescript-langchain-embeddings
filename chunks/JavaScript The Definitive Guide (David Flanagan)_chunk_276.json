@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_276",
+  "content": "for(var i = 0; i < a.length; i++) {  // Para cada índice de []\n    b[i] = a[i];          // Copia um elemento de a em b\n}\nDa mesma forma, se queremos comparar dois objetos ou arrays distintos, devemos comparar suas \npropriedades ou seus elementos. Este código define uma função para comparar dois arrays:\nfunction equalArrays(a,b) {\n    if (a.length != b.length) return false;      // Arrays de tamanho diferente não são\n                                              //    iguais\n    for(var i = 0; i < a.length; i++)            // Itera por todos os elementos\n    if (a[i] !== b[i]) return false;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 276,
+    "totalChunks": 10000
+  }
+}

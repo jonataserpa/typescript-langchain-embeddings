@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_516",
+  "content": "nha não faz nada...\n    o = null;         // e esta linha é sempre executada.\nAo se usar a instrução vazia intencionalmente, é uma boa ideia comentar o código de maneira que \ndeixe claro que isso está sendo feito de propósito. Por exemplo:\nfor(i = 0; i < a.length; a[i++] = 0) /* vazio */ ;\n5.3   Instruções   de   declaração\nvar e function são instruções de declaração – elas declaram ou definem variáveis e funções. Essas \ninstruções definem identificadores (nomes de variável e função) que podem ser usados em qual-\nquer parte de seu programa e atribuem valores a esses identificadores. As",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 516,
+    "totalChunks": 10000
+  }
+}

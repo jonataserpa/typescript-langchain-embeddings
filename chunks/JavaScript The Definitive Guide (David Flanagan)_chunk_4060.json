@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4060",
+  "content": "e \nJavaScript básica\nExemplo\n[1,2,3].map(function(x) { return x*x; });        // => [1,4,9]\nConsulte também\nArray.every(), Array.filter(), Array.forEach(), Array.indexOf(), Array.reduce()\nArray.pop()\nremove e retorna o último elemento de um array\nSinopse\narray.pop()\nRetorna\nO último elemento de \narray.\nDescrição\npop() exclui o último elemento de array, decrementa o comprimento do array e retorna o valor do \nelemento excluído. Se o array já está vazio, pop() não o altera e retorna o valor undefined.\nExemplo\npop() e seu método acompanhante push() fornecem a funcionalidade de uma pilha first-in,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4060,
+    "totalChunks": 10000
+  }
+}

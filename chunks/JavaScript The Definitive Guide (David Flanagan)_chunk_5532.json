@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5532",
+  "content": "removeAttribute( ), 367\n    métodos,    889–893\n    métodos getAttribute( ) e setAttribute( ), 366, 422\n    objeto Nodes, 360–361\n    propriedade attributes, 368\n    propriedade contentEditable, 399\n    propriedade dataset, 367\n    propriedade innerHTML, 369\n    propriedade    off setParent, 385\n    propriedade outerHTML, 369\n    propriedade style, 420\n    propriedades,    886–887\n    propriedades, API de navegação pelo documento \nbaseada em elemento, 361–362\n    propriedades    off setLeft e off setTop, 384\n    representando elementos <style> e <link>, script \nde folhas de estilo, 429",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5532,
+    "totalChunks": 10000
+  }
+}

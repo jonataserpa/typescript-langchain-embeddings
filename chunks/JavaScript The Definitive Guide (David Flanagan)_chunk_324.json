@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_324",
+  "content": "local; portanto, \né possível ter várias camadas de escopo local aninhadas. Por exemplo:\nvar scope = \"global scope\";         // Uma variável global\nfunction checkscope() {\n    var scope = \"local scope\";      // Uma variável local\n    function nested() {\n        var scope = \"nested scope\";  // Um escopo aninhado de variáveis locais\n        return    scope;         // Retorna o valor em scope aqui\n }\n    return    nested();\n}\ncheckscope()               // => \"nested scope\"\n3.10.1   Escopo de função e içamento\nEm algumas linguagens de programação semelhantes ao C, cada bloco de código dentro de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 324,
+    "totalChunks": 10000
+  }
+}

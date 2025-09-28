@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_108",
+  "content": "og</h1></div>\");\n        log.appendTo(document.body);        // e o insere no final do corpo.\n }\n    log.append($(\"<pre/>\").text(msg));     //        Coloca a msg em <pre> e anexa no log.\n}\n\n12          Capítulo     1     Introdução     a     JavaScript\nOs quatro capítulos da Parte II descritos até aqui foram todos sobre páginas Web. Outros quatro \ncapítulos mudam o enfoque para aplicativos Web. Esses capítulos não falam sobre o uso de navega-\ndores Web para exibir documentos com conteúdo, apresentação e comportamento em scripts. Em \nvez disso, falam sobre o uso de navegadores Web como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 108,
+    "totalChunks": 10000
+  }
+}

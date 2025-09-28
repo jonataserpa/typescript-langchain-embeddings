@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1852",
+  "content": ", a situação \nnão é tão simples quanto parece. Em muitos navegadores Web, JavaScript é usada como um “meca-\nnismo de script” para controles ActiveX (no IE) ou plug-ins (outros navegadores). Os plug-ins Flash \ne Java são exemplos comumente instalados, sendo que eles expõem recursos importantes e poderosos \npara scripts no lado do cliente.\nExistem implicações relacionadas à segurança na capacidade de fazer script de controles ActiveX e \nplug-ins. Os applets Java, por exemplo, têm acesso a recursos de conexão em rede de baixo nível. A \n“caixa de areia” de segurança de Java impede que os applets",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1852,
+    "totalChunks": 10000
+  }
+}

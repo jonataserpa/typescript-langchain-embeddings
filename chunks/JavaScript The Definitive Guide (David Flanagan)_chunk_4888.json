@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4888",
+  "content": "iro e faz o navegador visitar o URL que está o \nnúmero especificado de posições distante na lista do histórico de navegação mantida pelo objeto \nHistory. Argumentos positivos movem o navegador para frente na lista e argumentos negativos o \nmovem para trás. Assim, chamar history.go(-1) é equivalente a chamar history.back() e produz \no mesmo efeito de clicar no botão Back. Com um argumento 0 ou sem nenhum argumento, esse \nmétodo recarrega o documento correntemente exibido.\nvoid pushState(any dados, string título, [string url])\nEsse método adiciona uma nova entrada no histórico de navegação da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4888,
+    "totalChunks": 10000
+  }
+}

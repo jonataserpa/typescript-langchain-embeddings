@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1227",
+  "content": "mpareTo() revisado para a classe Range. Ele é compatível com equals() e também lança um erro se \nfor chamado com um valor que não pode ser comparado:\n\n218          Parte     I     JavaScript     básica\n// Ordena intervalos pelo limite inferior ou pelo limite superior, caso os limites \n// inferiores sejam iguais.\n// Lança um erro se for passado um valor que não seja Range.\n// Retorna 0 se, e somente se, this.equals(that).\nRange.prototype.compareTo = function(that) {\n    if (!(that instanceof Range))\n        throw new Error(\"Can't compare a Range with \" + that);\n    var diff = this.from –",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1227,
+    "totalChunks": 10000
+  }
+}

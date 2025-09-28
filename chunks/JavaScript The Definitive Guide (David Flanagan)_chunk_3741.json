@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3741",
+  "content": "do primeiro argumento callback, \ngetCurrentPosition() e watchPosition() aceitam uma \nsegunda função callback opcional que é chamada se o pedido de geolocalização falha.\n •   Além das funções callback success e error, esses dois métodos também aceitam um objeto de \nopções como terceiro argumento opcional. As propriedades desse objeto especificam se é dese-\njada uma posição de alta precisão, quanto a posição pode se tornar “velha” e quanto tempo o \nsistema pode levar para determinar a posição.\n •   O objeto passado para a função callback success também inclui um timestamp e pode (em \nalguns",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3741,
+    "totalChunks": 10000
+  }
+}

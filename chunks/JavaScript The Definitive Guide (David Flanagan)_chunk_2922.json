@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2922",
+  "content": "Parte II     JavaScript do lado do cliente\n •   Um conjunto de métodos úteis para manipular os elementos selecionados\n •   Técnicas de programação funcional poderosas para operar nos conjuntos de elementos como \num grupo, em vez de um por vez\n •   Um idioma (encadeamento de métodos) sucinto para expressar sequências de operações\nEste capítulo começa com uma introdução à jQuery que mostra como fazer consultas simples e \ncomo trabalhar com os resultados. As seções a seguir explicam:\n •   Como configurar atributos HTML, estilos e classes CSS, valores e conteúdo de elemento, \ngeometria e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2922,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_357",
+  "content": "nção consiste na palavra-chave \nfunction seguida de uma lista separada \ncom vírgulas de zero ou mais identificadores (os nomes de parâmetro) entre parênteses e um bloco \nde código JavaScript (o corpo da função) entre chaves. Por exemplo:\n// Esta função retorna o quadrado do valor passado a ela.\nvar square = function(x) { return x * x; }\n\nCapítulo 4     Expressões e operadores      59\nJavaScript básica\nUma expressão de definição de função também pode incluir um nome para a função. As funções \ntambém podem ser definidas com uma instrução de função, em vez de uma expressão de função. \nDetalhes",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 357,
+    "totalChunks": 10000
+  }
+}

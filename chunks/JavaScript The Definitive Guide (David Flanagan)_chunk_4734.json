@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4734",
+  "content": "aScript do lado do cliente\nelementos com o atributo CSS overflow configurado como auto. Quando essas propriedades \nsão consultadas no elemento <html> (consulte Document.documentElement), elas especificam a \nquantidade de rolagem do documento como um todo. Note que essas propriedades não espe-\ncificam a quantidade de rolagem em uma tag <iframe>. Essas propriedades podem ser configu-\nradas para rolar um elemento ou o documento inteiro. Consulte a Seção 15.8.5.\nreadonly CSSStyleDeclaration style\nO valor do atributo style que especifica estilos CSS em linha para esse elemento. Note que \no valor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4734,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3487",
+  "content": "e vídeo, em geral um reprodutor não pode ter mais certeza do que “probably” \n(provavelmente) de que pode reproduzir um tipo de mídia em especial sem realmente baixar a \nmídia e tentar:\nvar a = new Audio();\nif (a.canPlayType(\"audio/wav\")) {\n    a.src = \"soundeffect.wav\";\n    a.play();\n}\nQuando você configura a propriedade src de um elemento mídia, ela inicia o processo de carrega-\nmento dessa mídia. (Esse processo não irá muito longe a não ser que preload seja “auto”.) Configurar \nsrc quando alguma outra mídia está sendo carregada ou reproduzida vai cancelar o carregamento ou \na reprodução da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3487,
+    "totalChunks": 10000
+  }
+}

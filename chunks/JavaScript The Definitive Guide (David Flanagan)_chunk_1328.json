@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1328",
+  "content": "m Object.freeze(), que faz tudo que Object.seal() faz, mas também transforma todas as pro-\npriedades em somente para leitura e não configuráveis.\nExiste uma característica das propriedades somente para leitura que é importante entender ao se \ntrabalhar com classes. Se um objeto \no herda uma propriedade somente para leitura p, uma ten-\ntativa de atribuir em o.p vai falhar e não vai criar uma nova propriedade em o. Se quiser anular \numa propriedade somente de leitura herdada, você tem de usar Object.defineProperty() ou Object.\ndefineProperties() ou Object.create() para criar a nova propriedade.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1328,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1946",
+  "content": "dow. Os elementos desaprovados <frameset> e <frame> também criam contextos de navegação \naninhados e cada <frame> é representado por um objeto Window. JavaScript do lado do cliente faz \npouquíssima distinção entre janelas, guias, iframes e quadros: todos eles são contextos de navegação \ne, para JavaScript, todos são objetos Window. Os contextos de navegação aninhados não são isolados \nuns dos outros como acontece normalmente com as guias independentes. Um script em execução \nem um quadro sempre pode ver seus quadros ascendentes e descendentes, embora a política da \nmesma origem possa impedir",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1946,
+    "totalChunks": 10000
+  }
+}

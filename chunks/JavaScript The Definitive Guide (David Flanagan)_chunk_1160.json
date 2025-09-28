@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1160",
+  "content": "\"null\";\n    // Outro caso especial: NaN é o único valor que não é igual a si mesmo:\n    if (o !== o) return \"nan\";\n    // Usa typeof para qualquer valor diferente de \"object\".\n    // Isso identifica qualquer valor primitivo e também funções.\n    if ((t = typeof o) !== \"object\") return t;\n    // Retorna a classe do objeto, a não ser que seja \"Object\".\n    // Isso vai identificar a maioria dos objetos nativos.\n    if ((c = classof(o)) !== \"Object\") return c;\n    // Retorna o nome da construtora do objeto, se ele tiver uma\n    if (o.constructor && typeof o.constructor === \"function\" &&",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1160,
+    "totalChunks": 10000
+  }
+}

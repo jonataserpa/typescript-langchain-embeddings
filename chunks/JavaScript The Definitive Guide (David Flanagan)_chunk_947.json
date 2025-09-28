@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_947",
+  "content": "ro x ou como arguments[0]. O segundo argumento vai estar acessível somente \ncomo \narguments[1]. Além disso, assim como os arrays reais, arguments tem uma propriedade length \nque especifica o número de elementos que ele contém. Assim, dentro do corpo da função f, chama-\nda com dois argumentos, arguments.length tem o valor 2.\nO objeto Arguments é útil de várias maneiras. O exemplo a seguir mostra como é possível utilizá-lo \npara verificar se uma função é chamada com o número de argumentos esperado, pois JavaScript não \nfaz isso automaticamente:\nfunction f(x, y, z)\n{\n    // Primeiramente,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 947,
+    "totalChunks": 10000
+  }
+}

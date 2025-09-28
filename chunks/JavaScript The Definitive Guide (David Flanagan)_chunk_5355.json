@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5355",
+  "content": "tipos enumerados (exemplo), 211–213\n    protótipos e, 194\n    script de classes CSS, 426–429\n    subclasses,    222\n        composição    versus subclasses, 227\n        construtora e encadeamento de métodos, 225–\n227\n        defi nindo, 223\n        hierarquias de classes e classes abstratas, 228–\n232\nclasses de caractere em expressões regulares, 247\nclasses estilo Java em JavaScript, 199–202\nclasses imutáveis, defi nindo, 233–235\nclassifi cação sem diferenciação de maiúsculas e mi-\nnúsculas, arrays de strings, 146\nclassifi cando objetos para comparação, 216\ncláusulas case em instruções",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5355,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_123",
+  "content": "entrada do usuário para que possamos recuperá-la na próxima vez que \n        // ele visitar\n        save(amount.value, apr.value, years.value, zipcode.value);\n\nCapítulo 1     Introdução a JavaScript      15\n        // Anúncio: localiza e exibe financeiras locais, mas ignora erros de rede\n        try {  // Captura quaisquer erros que ocorram dentro destas chaves\n            getLenders(amount.value, apr.value, years.value, zipcode.value);\n  }\n        catch(e) { /* E ignora esses erros */ }\n        //        Por fim, traça o gráfico do saldo devedor, dos juros e dos pagamentos do \ncapital",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 123,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_64",
+  "content": "Estrutura léxica, explica \ncoisas como comentários em JavaScript, pontos e vírgulas e o conjunto de caracteres Unicode. O \nCapítulo 3, Tipos, valores e variáveis, começa a ficar mais interessante: ele explica as variáveis de Java-\nScript e os valores que podem ser atribuídos a elas. Aqui está um exemplo de código para ilustrar os \ndestaques desses dois capítulos:\n// Tudo que vem após barras normais duplas é um comentário em linguagem natural.\n// Leia os comentários atentamente: eles explicam o código JavaScript.\n// variável é um nome simbólico para um valor.\n// As variáveis são declaradas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 64,
+    "totalChunks": 10000
+  }
+}

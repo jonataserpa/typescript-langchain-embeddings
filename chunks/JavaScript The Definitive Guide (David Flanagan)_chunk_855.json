@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_855",
+  "content": "m parâmetro – os argumentos adicionais serão ignorados:\nvar data = [1,2,3,4,5];                         // Um array para soma\n// Calcula a soma dos elementos do array\nvar sum = 0;                           // Começa em 0\ndata.forEach(function(value) { sum += value; }); // Adiciona cada value em sum\nsum                                                   //    =>    15\n// Agora incrementa cada elemento do array\ndata.forEach(function(v, i, a) { a[i] = v + 1; });\ndata                                                //    =>    [2,3,4,5,6]\nNote que forEach() não fornece uma maneira de terminar a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 855,
+    "totalChunks": 10000
+  }
+}

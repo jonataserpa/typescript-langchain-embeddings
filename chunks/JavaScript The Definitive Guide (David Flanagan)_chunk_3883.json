@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3883",
+  "content": "to.\nfunction getBlob(url, callback) {\n    var xhr = new XMLHttpRequest();  // Cria novo objeto XHR\n    xhr.open(\"GET\", url);           // Especifica o URL a ser buscado\n    xhr.responseType = \"blob\"       // Gostaríamos de um Blob, por favor\n    xhr.onload = function() {       // onload é mais fácil do que onreadystatechange\n        callback(xhr.response);     // Passa o blob para nossa função callback\n    }                     // Note .response e não .responseText\n    xhr.send(null);       // Envia o pedido agora\n}\nSe o Blob é muito grande e você quiser começar a processá-lo enquanto ele",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3883,
+    "totalChunks": 10000
+  }
+}

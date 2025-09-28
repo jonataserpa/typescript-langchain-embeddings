@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1536",
+  "content": "linhas de texto, símbolos de um analisador léxico, etc. Os geradores podem ser encadeados de maneira \nsemelhante a um pipeline* de comandos shell em sistemas estilo Unix. O interessante dessa estratégia é \nque ela é preguiçosa: os valores são “extraídos” de um gerador (ou pipeline de geradores) conforme neces-\nsário, em vez de serem processados em várias passagens. O Exemplo 11-1 demonstra isso.\nExemplo 11-1 Um pipeline de geradores  \n// Um gerador para gerar as linhas da string s uma por vez.\n// Note que não usamos s.split(), pois isso processaria a string\n// inteira de uma vez, alocando um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1536,
+    "totalChunks": 10000
+  }
+}

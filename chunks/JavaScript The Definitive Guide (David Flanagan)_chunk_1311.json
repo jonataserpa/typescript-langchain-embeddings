@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1311",
+  "content": "Exemplo 9-18 tem uma função cons-\ntrutora que funciona como uma função fábrica quando chamada sem a palavra-chave new.\nExemplo 9-18 Uma classe imutável com propriedades e métodos somente para leitura\n// Esta função funciona com ou sem 'new': uma função construtora e fábrica\nfunction Range(from,to) {\n    // Estes são descritores para as propriedades somente para leitura from e to.\n    var props = {\n        from: {value:from, enumerable:true, writable:false, configurable:false},\n        to: {value:to, enumerable:true, writable:false, configurable:false}\n    };\n    if (this instanceof Range)",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1311,
+    "totalChunks": 10000
+  }
+}

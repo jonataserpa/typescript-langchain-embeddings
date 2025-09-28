@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2587",
+  "content": "definem \nstopImmediatePropagation() de forma independente de plataforma.\n17.4   Eventos de carga de documento\nAgora que já abordamos os fundamentos do tratamento de eventos de JavaScript, vamos começar a \nver com mais detalhes as categorias específicas de eventos. Iniciamos, nesta seção, com os eventos de \ncarga de documentos.\nA maioria dos aplicativos Web precisa de notificação do navegador Web para saber quando o do-\ncumento foi carregado e está pronto para ser manipulado. O evento load no objeto Window tem \nesse objetivo e foi discutido em detalhes no Capítulo 13, que incluiu uma função",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2587,
+    "totalChunks": 10000
+  }
+}

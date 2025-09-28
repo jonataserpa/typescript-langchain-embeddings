@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4329",
+  "content": "de\nSinopse\nObject.getOwnPropertyDescriptor(o, nome)\nArgumentos\no\nO objeto que terá seus atributos de propriedade consultados.\nnome\nO nome da propriedade (ou índice do elemento de array) a consultar.\n\n800          Parte III     Referência de JavaScript básica\nRetorna\nUm  objeto  descritor  de  propriedade  para  a  propriedade  especificada  do  objeto  especificado  ou  \nundefined, caso essa propriedade não exista.\nDescrição\nObject.getOwnPropertyDescriptor() retorna um descritor de propriedade para a propriedade especifica-\nda do objeto especificado. Um descritor de propriedade é um objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4329,
+    "totalChunks": 10000
+  }
+}

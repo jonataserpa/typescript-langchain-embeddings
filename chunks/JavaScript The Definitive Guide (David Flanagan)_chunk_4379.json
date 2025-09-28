@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4379",
+  "content": "ng padrão definida pela implementação. Quando a construtora RangeError() é chamada como \nfunção, sem o operador new, se comporta exatamente como quando chamada com o operador new.\nPropriedades\nmessage\nUma  mensagem  de  erro  fornecendo  detalhes  sobre  a  exceção.  Essa  propriedade  contém  a  \nstring passada para a construtora ou uma string padrão definida pela implementação. Consul-\nte Error.message para ver os detalhes.\nname\nUma string especificando o tipo da exceção. Todos os objetos RangeError herdam o valor \n“RangeError” dessa propriedade.\nDescrição\nUma instância da classe RangeError",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4379,
+    "totalChunks": 10000
+  }
+}

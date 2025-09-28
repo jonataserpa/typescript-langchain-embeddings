@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3410",
+  "content": "o Apache .htaccess no \ndiretório de aplicativos Web.\nO arquivo de manifesto serve como identidade do aplicativo que está na cache. Se um aplicativo \nWeb tem mais de uma página (mais de um arquivo HTML a que o usuário pode se vincular), cada \numa dessas páginas deve usar o atributo \n<html manifest=> para se vincular ao arquivo de manifesto. \nO fato de todas essas páginas se vincularem ao mesmo arquivo de manifesto torna claro que todas \ndevem ser colocadas na cache juntas, como parte do mesmo aplicativo Web. Se existem apenas algu-\nmas páginas HTML no aplicativo, a convenção é listá-las",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3410,
+    "totalChunks": 10000
+  }
+}

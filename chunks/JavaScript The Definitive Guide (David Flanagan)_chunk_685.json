@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_685",
+  "content": ", então a atribuição simplesmente altera o valor dessa proprie-\ndade já existente. Caso contrário, a atribuição cria uma nova propriedade chamada x no objeto o. Se \no herdou a propriedade x anteriormente, essa propriedade herdada é agora oculta pela propriedade \nprópria recém-criada de mesmo nome.\nA atribuição de propriedades examina o encadeamento de protótipos para determinar se a atribuição \né permitida. Se \no herda uma propriedade somente de leitura chamada x, por exemplo, então a atri-\nbuição não é permitida. (Detalhes sobre quando uma propriedade pode ser configurada aparecem \nna Seção",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 685,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2101",
+  "content": "n\n            s += child.nodeValue;\n        else if (type === 1)           // Recursividade para nós Element\n            s += textContent(child);\n }\n    return    s;\n}\nA propriedade nodeValue é de leitura/gravação e você pode configurá-la de modo a alterar o con-\nteúdo exibido por um nó Text ou CDATASection. Tanto Text como CDATASection são subtipos \nde CharacterData, sobre o qual você pode pesquisar na Parte IV. CharacterData define uma proprie-\ndade data, a qual é o mesmo texto de nodeValue. A função a seguir converte o conteúdo de nós Text \npara maiúsculas, configurando a propriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2101,
+    "totalChunks": 10000
+  }
+}

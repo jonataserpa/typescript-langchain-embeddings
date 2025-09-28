@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4161",
+  "content": "s de \ndata, expressa no fuso horário local.\nDescrição\ntoString() retorna uma representação de string dependente da implementação e legível para seres \nhumanos de data. Ao contrário de toUTCString(), toString() expressa a data no fuso horário local. \nAo contrário de toLocaleString(), toString() pode não representar a data e hora usando formatação \nespecífica da localidade.\n\n748          Parte III     Referência de JavaScript básica\nConsulte também\nDate.parse()\nDate.toDateString()\nDate.toISOString()\nDate.toLocaleString()\nDate.toTimeString()\nDate.toUTCString()\nDate.toTimeString()\nretorna como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4161,
+    "totalChunks": 10000
+  }
+}

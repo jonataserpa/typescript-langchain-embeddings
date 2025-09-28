@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2748",
+  "content": "devido à capacidade do elemento <script> de contornar as restrições da \nmesma origem.\n3\n  As imagens desse tipo às vezes são chamadas de web bugs. Surgem preocupações com a privacidade quando web bugs são \nutilizados para transmitir informações para um servidor que não é aquele do qual a página Web foi carregada. Um uso co-\nmum desse tipo de web bug de entidade externa é na contagem de visitas e na análise do tráfego de sites.\n\n480          Parte II     JavaScript do lado do cliente\nOs mecanismos de transporte para Comet são mais complicados do que para Ajax, mas todos exi-\ngem que o cliente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2748,
+    "totalChunks": 10000
+  }
+}

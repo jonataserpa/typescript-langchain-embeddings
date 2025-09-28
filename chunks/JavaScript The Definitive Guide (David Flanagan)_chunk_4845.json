@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4845",
+  "content": "aderSync(), a qual não espera argu-\nmentos.\nMétodos\nEstes métodos lançam um objeto FileError, caso a leitura falhe por qualquer motivo.\nArrayBuffer readAsArrayBuffer(Blob blob)\nLê os bytes de blob e os retorna como um ArrayBuffer.\nstring readAsBinaryString(Blob blob)\nLê os bytes de blob, os codifica como uma string binária de JavaScript (consulte String.fromCharCo-\nde()) e retorna essa string binária.\nstring readAsDataURL(Blob blob)\nLê os bytes de blob e os codifica junto com a propriedade type de blob em um URL data:// e, então, \nretorna esse URL.\nstring readAsText(Blob blob, [string",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4845,
+    "totalChunks": 10000
+  }
+}

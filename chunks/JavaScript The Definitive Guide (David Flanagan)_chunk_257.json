@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_257",
+  "content": "bais, como \nundefined, Infinity e NaN\n •   funções globais, como isNaN(), parseInt() (Seção 3.8.2) e eval() (Seção 4.12).\n •   funções construtoras, como \nDate(), RegExp(), String(), Object() e Array() (Seção 3.8.2)\n •   objetos globais, como Math e JSON (Seção 6.9)\nAs propriedades iniciais do objeto global não são palavras reservadas, mas merecem ser tratadas \ncomo se fossem. A Seção 2.4.1 lista cada uma dessas propriedades. Este capítulo já descreveu algu-\nmas dessas propriedades globais. A maioria das outras será abordada em outras partes deste livro. E \nvocê pode procurá-las pelo nome na",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 257,
+    "totalChunks": 10000
+  }
+}

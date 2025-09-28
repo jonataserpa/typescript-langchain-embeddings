@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2106",
+  "content": "// Localiza <head> do documento\n    var s = document.createElement(\"script\");             // Cria um elemento <script>\n    s.src = url;                                // Configura seu atributo src\n     head.appendChild(s);                                    // Insere o <script> no cabeçalho\n}\nAs subseções a seguir contêm mais detalhes e exemplos de criação de nó, de inserção e exclusão de \nnós e também do uso de DocumentFragment como atalho ao se trabalhar com vários nós.\n15.6.1   Criando   nós\nComo  mostrado  no  código  anterior,  é  possível  criar  novos  nós  Element  com  o  método",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2106,
+    "totalChunks": 10000
+  }
+}

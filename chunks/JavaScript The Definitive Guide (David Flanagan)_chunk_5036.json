@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5036",
+  "content": "um ponto de partida diferente.\nboolean loop\nSe for true, o elemento de mídia deve reiniciar a mídia automaticamente, sempre que chegar \nao fim. Essa propriedade espelha o atributo HTML loop.\nboolean muted\nEspecifica se o áudio está mudo ou não. Você pode configurar essa propriedade para ligar e \ndesligar o áudio. Para elementos <video>, você pode usar um atributo audio=\"muted\" para emu-\ndecer a mídia por padrão.\nreadonly unsigned short networkState\nSe os dados de mídia estão sendo carregados ou não. Os valores válidos estão listados na seção \nConstantes anterior.\nreadonly boolean paused\ntrue",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5036,
+    "totalChunks": 10000
+  }
+}

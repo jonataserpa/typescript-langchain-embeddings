@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1790",
+  "content": "ayout_engines_(HTML_5)\nArtigo da Wikipedia que monitora o status de implementação de recursos e APIs da HTML5 \nem vários navegadores.\nhttp://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model)\nArtigo semelhante que monitora o status de implementação dos recursos DOM.\nhttp://a.deveria.com/caniuse\nO site “When can I use...” (Quando posso usar...) monitora o status de implementação de \nimportantes recursos da Web, permite que sejam filtrados de acordo com vários critérios e \nrecomenda seu uso sempre que existem navegadores que não suportam o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1790,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1913",
+  "content": ".]+))?/.exec(s) ||\n    [];\n    return { name: match[1] || \"\", version: match[2] || \"0\" };\n}());\nAlém de suas propriedades de informações de fornecedor e versão do navegador, o objeto Navigator \ntem algumas propriedades e métodos variados. As propriedades padronizadas e não padrão mas \namplamente implementadas incluem:\nonLine\nA propriedade navigator.onLine (se existe) especifica se o navegador está conectado na rede. \nOs aplicativos talvez queiram salvar o estado localmente (usando técnicas do Capítulo 20), \nenquanto estão off-line.\ngeolocation\nObjeto Geolocation que define uma API para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1913,
+    "totalChunks": 10000
+  }
+}

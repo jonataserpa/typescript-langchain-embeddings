@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_811",
+  "content": "ente cria uma área esparsa \nno final do array.\nEm ECMAScript 5, é possível transformar a propriedade \nlength de um array somente para leitura, \ncom Object.defineProperty() (consulte a Seção 6.7):\na = [1,2,3];                           // Começa com um array de 3 elementos.\nObject.defineProperty(a, \"length\",               // Torna a propriedade length\n                       {writable: false});        // somente para leitura.\na.length = 0;                          // a fica inalterado.\nDa mesma forma, se você tornar um elemento do array não configurável, ele não poderá ser ex-\ncluído. Se ele",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 811,
+    "totalChunks": 10000
+  }
+}

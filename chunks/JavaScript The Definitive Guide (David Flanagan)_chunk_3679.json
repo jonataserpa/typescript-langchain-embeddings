@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3679",
+  "content": "magem é ampliada o suficiente para ser \npixelizada. Você pode ver os pixels translúcidos usados para suavizar as bordas da linha.\nFigura 21-15 Pixels ampliados com drawImage().\nExemplo 21-9 Usando drawImage()\n// Desenha uma linha no lado superior esquerdo\nc.moveTo(5,5);\nc.lineTo(45,45);\nc.lineWidth = 8;\nc.lineCap = \"round\";\nc.stroke();\n// Define uma transformação\nc.translate(50,100);\nc.rotate(-45*Math.PI/180);      // Endireita a linha\nc.scale(10,10);        // A amplia para que possamos ver os pixels individuais\n// Usa drawImage para copiar a linha\nc.drawImage(c.canvas,\n            0, 0, 50,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3679,
+    "totalChunks": 10000
+  }
+}

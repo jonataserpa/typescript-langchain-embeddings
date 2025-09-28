@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_845",
+  "content": "ação de push() e pop() permite o uso de um \narray de JavaScript para implementar uma pilha first-in, last-out (primeiro a entrar, último a sair). \nPor exemplo:\nvar stack = [];       // stack: []\nstack.push(1,2);      // stack: [1,2]    Retorna   2\nstack.pop();          // stack: [1]     Retorna 2\nstack.push(3);        // stack: [1,3]    Retorna   2\n\n148          Parte     I     JavaScript     básica\nstack.pop();          // stack: [1]              Retorna 3\nstack.push([4,5]);    // stack: [1,[4,5]]        Retorna 2\nstack.pop()           // stack: [1]              Retorna [4,5]\nstack.pop();",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 845,
+    "totalChunks": 10000
+  }
+}

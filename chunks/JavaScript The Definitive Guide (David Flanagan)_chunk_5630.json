@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5630",
+  "content": "jeto Document, 881\nR\nradianos, especifi cando para ângulos na API Canvas, \n624\nreceptores de evento, 312\n (consulte também rotinas de tratamento de evento)\n    política da mesma origem, 326\nrect( ), CanvasRenderingContext2D, 631\nrecursos restritos em navegadores, 325\nreferências, 44\nreferências à subexpressão anterior de expressão re-\ngular, 250\nregisterContentHandler( ), objeto Navigator, 959\nregisterProtocolHandler( ), objeto Navigator, 959\nregistrando rotinas de tratamento de evento, 312, \n444–448\n    anulando o registro rotinas de tratamento de even-\nto com jQuery, 532\n    confi gurando",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5630,
+    "totalChunks": 10000
+  }
+}

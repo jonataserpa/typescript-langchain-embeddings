@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5279",
+  "content": "resposta como um Document XML ou HTTP. Se responseType \nfor “arraybuffer”, essa propriedade será um ArrayBuffer representando os bytes do corpo da \nresposta. E se responseType for “blob”, essa propriedade será um Blob representando os bytes \ndo corpo da resposta.\nreadonly string responseText\nSe readyState é menor do que 3, essa propriedade é a string vazia. Quando readyState é 3, \nessa propriedade retorna a parte da resposta recebida até o momento. Se readyState é 4, essa \npropriedade contém o corpo da resposta completo.\nSe a resposta inclui cabeçalhos especificando uma codificação de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5279,
+    "totalChunks": 10000
+  }
+}

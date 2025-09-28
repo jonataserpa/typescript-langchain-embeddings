@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3524",
+  "content": "ica de XML, desenhar elementos gráficos SVG é apenas uma questão \nde usar o DOM para criar elementos XML apropriados. O Exemplo 21-2 é a listagem de uma \nfunção pieChart() que cria os elementos SVG para produzir o gráfico de pizza mostrado na Fi-\ngura 21-3.\n\nCapítulo 21     Mídia e gráficos em scripts      611\nJavaScript do\n lado do cliente\nFigura 21-3 Um gráfico de pizza SVG construído com JavaScript.\nExemplo 21-2 Desenhando um gráfico de pizza com JavaScript e SVG\n/**\n * Cria um elemento <svg> e desenha um gráfico de pizza nele.\n * Argumentos:\n *   data: um array de números para representar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3524,
+    "totalChunks": 10000
+  }
+}

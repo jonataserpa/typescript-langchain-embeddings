@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1614",
+  "content": "xada\n  }\n        // Obtém fluxos de entrada e saída\n        var input = conn.inputStream;            // Para ler bytes do servidor\n        var output = new FileOutputStream(file); // Para gravar bytes no arquivo\n        // Cria um array de 4k bytes como buffer de entrada\n        var buffer = java.lang.reflect.Array.newInstance(java.lang.Byte.TYPE,\n                                                             4096);\n        var    num;\n        while((num=input.read(buffer)) != -1) {  // Lê e itera até EOF\n            output.write(buffer, 0, num);       // Grava bytes no arquivo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1614,
+    "totalChunks": 10000
+  }
+}

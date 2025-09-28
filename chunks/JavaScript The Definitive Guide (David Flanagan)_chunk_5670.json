@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5670",
+  "content": "es octais, 31\nvalores relativos para animação de propriedades nu-\nméricas, 540\nvalores true e false, 44\nvariáveis, 4\n    atribuição de desestruturação, 265\n    criando com a palavra-chave function, 348–349\n    declarando,    51\n        declarações repetidas e omitidas, 51\n    declarando com let, 263\n    em inclusões de array, 274\n    escopo,    52–55\n        encadeamento de escopo, 54\n        escopo e içamento de função, 53\n        variáveis como propriedades, 54\n    funções atribuídas a, 171\n    globais,    25\n    referência de variável como expressão primária, 57\n    tipos de dados e,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5670,
+    "totalChunks": 10000
+  }
+}

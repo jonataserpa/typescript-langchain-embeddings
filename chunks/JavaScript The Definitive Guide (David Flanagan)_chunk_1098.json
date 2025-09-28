@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1098",
+  "content": "e.\nvar r = range(1,3);    // Cria um objeto range\nr.includes(2);         // => verdadeiro: 2 está no intervalo\nr.foreach(console.log);         // Imprime 1 2 3\nconsole.log(r);        // Imprime (1...3)\nExistem algumas coisas interessantes no código do Exemplo 9-1. Esse código define uma função \nfábrica range() para criar novos objetos range. Observe que usamos uma propriedade dessa função \nrange(), range.methods, como um lugar conveniente para armazenar o objeto protótipo que define \na classe. Não há nada de especial ou idiomático quanto a colocar o objeto protótipo aqui. Segundo, \nnote que a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1098,
+    "totalChunks": 10000
+  }
+}

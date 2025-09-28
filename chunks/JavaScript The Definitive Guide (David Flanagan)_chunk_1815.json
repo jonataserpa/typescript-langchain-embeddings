@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1815",
+  "content": "es. Ele pode \nser usado para determinar se um navegador suporta o modelo de tratamento de evento W3C ou o \nmodelo de tratamento de evento do IE, por exemplo. Por outro lado, às vezes pode ser necessário \nsolucionar erros ou peculiaridades individuais em um navegador específico e pode não haver um \nmodo fácil de testar a existência do erro. Nesse caso, é preciso criar uma solução específica para a \nplataforma, vinculada a um fornecedor, versão ou sistema operacional de navegador em especial (ou \nalguma combinação dos três).\nEm JavaScript do lado do cliente, isso é feito com o objeto Navigator,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1815,
+    "totalChunks": 10000
+  }
+}

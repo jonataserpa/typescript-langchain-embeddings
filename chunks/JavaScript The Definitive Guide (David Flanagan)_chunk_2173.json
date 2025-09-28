@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2173",
+  "content": "ipt. O método \nscrollTo() do objeto Window (e seu sinônimo scroll()) recebe as coordenadas \nX e Y de um ponto (em coordenadas do documento) e as configura como deslocamentos da barra \nde rolagem. Isto é, rola a janela do navegador de modo que o ponto especificado esteja no canto \n\n384          Parte II     JavaScript do lado do cliente\nsuperior esquerdo da janela de visualização. Se você especificar um ponto próximo demais da parte \ninferior ou da margem direita do documento, o navegador vai movê-lo para o mais perto possível do \ncanto superior esquerdo, mas não vai conseguir levá-lo até o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2173,
+    "totalChunks": 10000
+  }
+}

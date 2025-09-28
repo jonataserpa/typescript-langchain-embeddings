@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_487",
+  "content": "typeof poderia ser usado em uma expressão como a seguinte:\n(typeof value == \"string\") ? \"'\" + value + \"'\" : value\nO operador typeof também é útil quando usado com a instrução switch (Seção 5.4.3). Note que \nvocê pode colocar parênteses em torno do operando de typeof, o que faz typeof parecer ser o nome \nde uma função, em vez de uma palavra-chave de operador:\ntypeof(i)\nNote que typeof retorna “objeto” se o valor do operando é null. Se quiser diferenciar null de objetos, \nserá necessário testar explicitamente esse valor de caso especial. typeof pode retornar uma string que \nnão seja “objeto”",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 487,
+    "totalChunks": 10000
+  }
+}

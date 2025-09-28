@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3314",
+  "content": "ra o método widget. O primeiro argumento desses méto-\ndos de rotina de tratamento é um objeto Event, como sempre. Alguns widgets passam um segundo \nobjeto “UI” como segundo argumento para a rotina de tratamento de evento. Esse objeto normal-\nmente fornece informações de estado sobre o widget.\nNote que a documentação da jQuery UI às vezes descreve “eventos” que não são verdadeiros eventos \npersonalizados e poderiam ser mais bem descritos como funções callback configuradas por meio \ndo objeto opções de configuração. O widget selecionador de datas, por exemplo, suporta diversas \nfunções de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3314,
+    "totalChunks": 10000
+  }
+}

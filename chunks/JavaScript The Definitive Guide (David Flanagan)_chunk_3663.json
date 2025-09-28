@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3663",
+  "content": "// Uma faixa vertical no meio\nc.strokeText(\"<canvas>\", 15, 330);   // Note strokeText(), em vez de fillText()\n\nCapítulo 21     Mídia e gráficos em scripts      639\nJavaScript do\n lado do cliente\n// Define um caminho complexo com um interior que está fora.\npolygon(c,3,200,225,200);       //       Triângulo       grande\npolygon(c,3,200,225,100,0,true); // Triângulo menor invertido dentro\n// Torna esse caminho a região de recorte.\nc.clip();\n// Traça o caminho com uma linha de 5 pixels, inteiramente dentro da região de corte.\nc.lineWidth = 10;          // Metade dessa linha de 10 pixels será",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3663,
+    "totalChunks": 10000
+  }
+}

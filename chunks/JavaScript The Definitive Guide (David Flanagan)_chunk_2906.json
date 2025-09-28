@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2906",
+  "content": "// Corta nova linha à direita, se houver uma\n                           if    (data.charAt(data.length-1)    ==    \"\\n\")\n                               data    =    data.substring(0,    data.length-1);\n                         evtsrc.onmessage({     // Este é um objeto Event falsificado\n                             type: eventName,   // tipo do evento\n                             data: data,        // dados do evento\n                             origin: url        // a origem dos dados\n         });\n        }\n                       data    =    \"\";",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2906,
+    "totalChunks": 10000
+  }
+}

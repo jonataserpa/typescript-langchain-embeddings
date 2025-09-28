@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4823",
+  "content": "” para eventos simples). Em se-\nguida, chame o método de inicialização de evento do objeto Event que você criou: para um evento \nsimples, isso vai ser \ninitEvent() (consulte Event). Em seguida, passe o evento inicializado para esse \nmétodo a fim de enviá-lo. Nos navegadores modernos, todo objeto Event tem uma propriedade is-\nTrusted. Essa propriedade será false para qualquer evento sintético enviado por JavaScript.\nTodo tipo de objeto evento define um método de inicialização específico. Esses métodos são rara-\nmente usados, têm listas de argumentos longas e complicadas e não estão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4823,
+    "totalChunks": 10000
+  }
+}

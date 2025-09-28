@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4159",
+  "content": "matação de data e hora, de modo que o formato pode variar de \numa plataforma para outra e de um país para outro. toLocaleString() retorna uma string formatada \nno que provavelmente é o formato de data e hora preferidos do usuário.\nConsulte também\nDate.toISOString(), Date.toLocaleDateString(), Date.toLocaleTimeString(), Date.\ntoString()\n, Date.toUTCString()\nDate.toLocaleTimeString()\nretorna a parte da hora de um objeto Date como uma string formatada de modo local\nSinopse\ndata.toLocaleTimeString()\nRetorna\nUma representação de string dependente da implementação e legível para seres humanos da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4159,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2716",
+  "content": "ores de propriedade são as funções de tratamento.\n * Após uma Keymap ser criada, você pode adicionar novos vínculos, passando um\n * identificador de tecla e a função de tratamento para o método bind(). Um vínculo pode \n * ser removido passando-se um identificador de tecla para o método unbind().\n *\n * Para usar Keymap, chame seu método install(), passando um elemento HTML,\n\n474          Parte II     JavaScript do lado do cliente\n* como o objeto documento. install() adiciona uma rotina de tratamento de evento \n* onkeydown no objeto especificado. Quando essa rotina de tratamento é chamada, ela",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2716,
+    "totalChunks": 10000
+  }
+}

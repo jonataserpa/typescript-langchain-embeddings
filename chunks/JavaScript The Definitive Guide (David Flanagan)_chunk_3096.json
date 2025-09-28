@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3096",
+  "content": "ility, por exemplo, você pode fazer elementos aparecerem e \ndesaparecerem. A Seção 16.3.1 demonstrou como os scripts CSS podem ser usados para produzir \nefeitos visuais animados. Em vez de apenas fazer um elemento desaparecer, por exemplo, podería-\nmos reduzir o valor de sua propriedade opacity durante um período de meio segundo para que ele \nfosse desaparecendo rapidamente, em lugar de apenas deixar de existir. Esse tipo de efeito visual ani-\nmado produz uma experiência mais agradável para os usuários e é fácil consegui-los com a jQuery.\nA jQuery define métodos simples, como \nfadeIn() e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3096,
+    "totalChunks": 10000
+  }
+}

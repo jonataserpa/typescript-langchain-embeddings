@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5099",
+  "content": "ropriedade length especifica quantos nós estão na lista e você pode \nrecuperar esses nós dos índices 0 até length-1. Você também pode passar o índice desejado para o \nmétodo item(), em vez de indexar NodeList diretamente. Os elementos de um NodeList são sempre \nobjetos Node válidos: os NodeLists nunca contêm elementos null.\nOs NodeLists são usados normalmente – a propriedade \nchildNodes de Node e os valores de retorno \nde Document.getElementsByTagName(), Element.getElementsByTagName() e HTMLDocument.getElements-\nByName() são todos NodeLists, por exemplo. Entretanto, como NodeList é um objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5099,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4010",
+  "content": "var div = document.createElement(\"div\"); // Cria um <div>\n        div.appendChild(node);                  // Adiciona nó de texto no div\n        document.body.insertBefore(div, input);  // E adiciona div antes da entrada\n        input.scrollIntoView(); // Garante que o elemento de entrada esteja visível\n }\n    // É assim que enviamos mensagens para o servidor por meio do soquete web\n    input.onchange = function() {           // Quando o usuário pressiona return\n        var msg = nick + \": \" + input.value; // Nome de usuário mais a entrada do usuário\n        socket.send(msg);",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4010,
+    "totalChunks": 10000
+  }
+}

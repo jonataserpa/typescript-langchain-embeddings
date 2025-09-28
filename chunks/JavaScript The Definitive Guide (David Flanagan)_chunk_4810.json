@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4810",
+  "content": "ELTA_LINE, DOM_DELTA_PAGE. O valor dessa propriedade é determinado \nde acordo com a plataforma. Pode depender das preferências do sistema ou de modificadoras \ndo teclado pressionadas durante o evento da roda do mouse.\nreadonly long deltaX, deltaY, deltaZ\nPara eventos da roda do mouse, essas propriedades especificam o quanto a roda do mouse \ngirou em torno de cada um de seus três eixos possíveis.\nreadonly unsigned long inputMethod\nPara eventos textinput, essa propriedade especifica como o texto foi inserido. O valor será uma \ndestas constantes: DOM_INPUT_METHOD_UNKNOWN,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4810,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2929",
+  "content": "script>\nO “min” no nome de arquivo anterior indica que essa é a versão minimizada da biblioteca, com comentá-\nrios e espaços em branco desnecessários removidos e os identificadores internos substituídos pelos mais \ncurtos.\nOutra maneira de usar a jQuery em seus aplicativos Web é permitir que uma rede de distribuição de con-\nteúdo a forneça, usando um URL como um dos seguintes:\nhttp://code.jquery.com/jquery-1.4.2.min.js\nhttp://ajax.microsoft.com/ajax/jquery/jquery-1.4.2.min.js\nhttp://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js\nEste capítulo documenta a jQuery versão 1.4. Se",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2929,
+    "totalChunks": 10000
+  }
+}

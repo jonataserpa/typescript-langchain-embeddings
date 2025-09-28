@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4281",
+  "content": "string usando o número especificado de dígitos significativos. \nUsa notação exponencial ou em ponto fixo, dependendo do tamanho do número e do número \nde dígitos significativos especificados.\nvalueOf()\nRetorna o valor numérico primitivo de um objeto Number.\nDescrição\nNúmeros são um tipo de dados primitivo básico em JavaScript. A linguagem também suporta o ob-\njeto Number, que é um objeto empacotador em torno de um valor numérico primitivo. JavaScript \nconverte automaticamente entre as formas primitiva e de objeto, conforme for necessário. Você \npode criar um objeto Number explicitamente com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4281,
+    "totalChunks": 10000
+  }
+}

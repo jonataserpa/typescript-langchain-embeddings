@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_799",
+  "content": "índices de array, os arrays vão ter o comportamento especial de \natualizar suas propriedades length quando necessário.\nNote que um array pode ser indexado usando-se números negativos ou que não são inteiros. Quan-\ndo se faz isso, o número é convertido em uma string e essa string é utilizada como nome de proprie-\ndade. Como o nome não é um inteiro não negativo, ele é tratado como uma propriedade de objeto \nnormal e não como um índice de array. Além disso, se você indexa um array com uma string que não \né um inteiro não negativo, ela se comporta como um índice de array e não como uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 799,
+    "totalChunks": 10000
+  }
+}

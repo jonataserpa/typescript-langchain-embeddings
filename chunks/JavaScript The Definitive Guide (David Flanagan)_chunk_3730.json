@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3730",
+  "content": "is o bastante para documentar na seção de re-\nferência, enquanto em outros casos a API ainda está em processo de mudança e não é abordada na \nParte IV. Todos os exemplos deste capítulo, menos um (Exemplo 22-9), funcionavam em pelo me-\nnos um navegador quando este livro foi para a gráfica. Como as especificações abordadas aqui ainda \nestão evoluindo, alguns desses exemplos podem não funcionar mais quando você ler este capítulo.\n22.1   Geolocalização\nA API Geolocation (http://www.w3.org/TR/geolocation-API/) permite aos programas JavaScript soli-\ncitar ao navegador a localização real do usuário.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3730,
+    "totalChunks": 10000
+  }
+}

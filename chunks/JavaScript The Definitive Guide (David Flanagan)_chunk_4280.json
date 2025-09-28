@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4280",
+  "content": "rnado em caso de estouro.\nMétodos\ntoString()\nConverte um número em uma string usando uma raiz (base) especificada.\ntoLocaleString()\nConverte um número em uma string usando convenções locais de formatação de número.\ntoFixed()\nConverte um número em uma string que contém um número especificado de dígitos após a \ncasa decimal.\ntoExponential()\nConverte um número em uma string usando notação exponencial com o número especificado \nde dígitos após a casa decimal.\ntoPrecision()\nConverte um número em uma string usando o número especificado de dígitos significativos. \nUsa notação exponencial ou em ponto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4280,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3682",
+  "content": "// Anexa-o no documento\nTodos os navegadores são obrigados a suportar o formato de imagem PNG. Algumas implementa-\nções também podem suportar outros formatos e você pode especificar o tipo MIME desejado com o \nprimeiro argumento opcional de toDataURL(). Consulte a página de referência para ver os detalhes.\n\nCapítulo 21     Mídia e gráficos em scripts      643\nJavaScript do\n lado do cliente\nHá uma importante restrição de segurança que você deve saber quando usar toDataURL(). Para impe-\ndir vazamentos de informação entre origens, toDataURL() não funciona em elementos <canvas> que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3682,
+    "totalChunks": 10000
+  }
+}

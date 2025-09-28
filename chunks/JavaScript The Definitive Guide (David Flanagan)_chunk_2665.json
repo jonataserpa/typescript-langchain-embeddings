@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2665",
+  "content": "eresse cancelando even-\ntos, então o evento dragleave será disparado no alvo de soltura. A rotina de tratamento desse evento \ndeve restaurar a borda ou cor de fundo do elemento ou desfazer qualquer outro feedback visual \nrealizado em resposta ao evento dragenter. Infelizmente, os eventos dragenter e dragleave borbulham \ne, se um alvo de soltura contém elementos aninhados, é difícil saber se um evento dragleave significa \nque o arrasto deixou o alvo de soltura de um evento fora do alvo ou de um evento dentro dele.\nPor fim, se o usuário solta um objeto em um alvo de soltura, o evento drop é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2665,
+    "totalChunks": 10000
+  }
+}

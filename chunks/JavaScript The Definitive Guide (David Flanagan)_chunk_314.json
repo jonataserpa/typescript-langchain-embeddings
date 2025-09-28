@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_314",
+  "content": "er convertido em um número ou em uma string.\n+, ==, != e os operadores relacionais são os únicos que realizam esses tipos especiais de conversões \nde string para valores primitivos. Os outros operadores convertem mais explicitamente para um \ntipo especificado e não têm qualquer caso especial para objetos Date. O operador -, por exemplo, \nconverte seus operandos em números. O código a seguir demonstra o comportamento de \n+, -, == e \n> com objetos Date:\nvar now = new Date(); // Cria um objeto Date\ntypeof (now + 1)      // => \"string\": + converte datas em strings\ntypeof (now – 1)      // =>",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 314,
+    "totalChunks": 10000
+  }
+}

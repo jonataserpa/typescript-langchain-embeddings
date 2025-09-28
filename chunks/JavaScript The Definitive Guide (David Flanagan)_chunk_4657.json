@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4657",
+  "content": "Converte valor em uma representação de inteiro de 1 byte e grava esse byte em deslocamentoByte.\nvoid setUint16(unsigned long deslocamentoByte,unsigned short valor,[boolean \nlittleEndian])\nConverte valor em uma representação de inteiro sem sinal de 2 bytes e grava esses bytes em deslo-\ncamentoByte.\nvoid setUint32(unsigned long deslocamentoByte, unsigned long valor, [boolean \nlittleEndian])\nConverte valor em uma representação de inteiro sem sinal de 4 bytes e grava esses bytes em deslo-\ncamentoByte.\nvoid setUint8(unsigned long deslocamentoByte, octet valor)\nConverte valor em uma representação",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4657,
+    "totalChunks": 10000
+  }
+}

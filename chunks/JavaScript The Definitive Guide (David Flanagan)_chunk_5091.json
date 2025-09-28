@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5091",
+  "content": "a posição no documento do nó outro \ne retorna um número cujos bits configurados descrevem a relação entre os nós. Se os dois nós são \niguais, nenhum bit é configurado e esse método retorna 0. Caso contrário, um ou mais bits serão \nconfigurados no valor de retorno. As constantes DOCUMENT_POSITION_ listadas anteriormente fornecem \nnomes simbólicos para cada um dos bits, os quais têm os seguintes significados:\nDOCUMENT_POSITION_ValorSignificado\nDISCONNECTED0x01Os dois nós não estão no mesmo documento; portanto, suas posições não podem ser \ncomparadas.\nPRECEDING0x02O nó \noutro aparece antes",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5091,
+    "totalChunks": 10000
+  }
+}

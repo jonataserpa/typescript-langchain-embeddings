@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1714",
+  "content": "ento de eventos definidos em HTML podem incluir qualquer número de \ninstruções JavaScript, separadas umas das outras por pontos e vírgulas. Essas instruções se tornam \no corpo de uma função e essa função se torna o valor da propriedade de tratamento de evento cor-\nrespondente. (Os detalhes da conversão de texto de atributo HTML em uma função JavaScript são \nabordados na Seção 17.2.2.) Normalmente, contudo, um atributo de tratamento de evento HTML \nconsiste em uma atribuição simples como a anterior ou em uma chamada simples de uma função \ndefinida em outro lugar. Isso mantém a maior parte de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1714,
+    "totalChunks": 10000
+  }
+}

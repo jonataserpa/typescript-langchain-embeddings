@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1058",
+  "content": "idade, talvez você esteja interessado em usar (ou pelo menos ler a respeito) a biblioteca Functional \nJavaScript de Oliver Steele. Consulte o endereço http://osteele.com/sources/javascript/functional/.\n\nCapítulo     8     Funções          187\nJavaScript básica\n8.8.1   Processando arrays com funções\nSuponha que temos um array de números e queremos calcular a média e o desvio padrão desses \nvalores. Poderíamos fazer isso no estilo não funcional, como segue:\nvar data = [1,1,3,5,5];                         // Este é nosso array de números\n// A média é a soma dos elementos dividida pelo número de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1058,
+    "totalChunks": 10000
+  }
+}

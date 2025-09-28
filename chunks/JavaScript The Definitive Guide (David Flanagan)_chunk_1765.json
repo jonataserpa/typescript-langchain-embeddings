@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1765",
+  "content": "os programadores JavaScript, pois significa que os scripts e as rotinas de tratamento de evento de \nJavaScript não devem executar por muito tempo. Se um script executar uma tarefa que usa muito \npoder de computação, vai introduzir um atraso no carregamento de documentos e o usuário não \nverá o conteúdo de documentos até que o script termine. Se uma rotina de tratamento de evento \n\nCapítulo 13     JavaScript em navegadores Web      315\nJavaScript do\n lado do cliente\nexecutar uma tarefa que usa muito poder de computação, o navegador poderá se tornar não respon-\nsivo, possivelmente fazendo o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1765,
+    "totalChunks": 10000
+  }
+}

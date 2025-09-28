@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3798",
+  "content": "var links = document.getElementsByTagName(\"a\");\n    for(var i = 0; i < links.length; i++) {\n        // addEventListener não funciona no IE8 e anteriores\n        links[i].addEventListener(\"mouseover\", function() {\n            // Envia o url como termo de busca e só o envia se o\n            // iframe ainda está exibindo um documento de davidflanagan.com\n            iframe.contentWindow.postMessage(this.href,    origin);\n        },    false);\n }\n}, false);\n22.4   Web   Workers\nUma das características fundamentais de JavaScript do lado do cliente é o fato de ter uma só thread: \num navegador",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3798,
+    "totalChunks": 10000
+  }
+}

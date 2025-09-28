@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2964",
+  "content": "bém corresponde ao \nseletor especificado. Você poderia utilizá-lo em uma função callback each(), por exemplo:\n$(\"div\").each(function() {             // Para cada elemento <div>\n    if ($(this).is(\":hidden\")) return;  // Pula elementos ocultos\n    // Faz algo com os visíveis aqui\n});\n\nCapítulo 19     A biblioteca jQuery      517\nJavaScript do\n lado do cliente\n19.2   Métodos getter e setter da jQuery\nAlgumas das operações mais simples e mais comuns nos objetos jQuery são aquelas que obtêm \nou configuram o valor de atributos HTML, estilos CSS, conteúdo de elemento ou geometria de \nelemento. Esta",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2964,
+    "totalChunks": 10000
+  }
+}

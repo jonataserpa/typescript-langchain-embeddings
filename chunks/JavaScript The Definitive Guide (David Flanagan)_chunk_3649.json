@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3649",
+  "content": "o primeiro e, \nentão, preencha com uma cor opaca para ocultar a parte do traço que aparece dentro do caminho. \nOu então, se só quiser que a linha apareça dentro de um caminho fechado, chame os métodos \nsave() \ne clip() (Seção 21.4.10) primeiro e, então, chame stroke() e restore().\nAs larguras de linha são afetadas pela transformação atual, conforme se pode comprovar nos eixos \nem escala da Figura 21-7. Se você chama \nscale(2,1) para mudar a escala da dimensão X e deixa Y \n\nCapítulo 21     Mídia e gráficos em scripts      635\nJavaScript do\n lado do cliente\nintacta, as linhas verticais serão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3649,
+    "totalChunks": 10000
+  }
+}

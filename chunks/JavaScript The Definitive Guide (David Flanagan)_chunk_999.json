@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_999",
+  "content": "var scope = \"local scope\";      // Uma variável local\n    function f() { return scope; }  // Retorna o valor de scope aqui\n    return    f;\n}\ncheckscope()()             // O que isso retorna?\nNesse código, um par de parênteses foi movido de dentro de checkscope() para fora. Em vez de cha-\nmar a função aninhada e retornar seu resultado, \ncheckscope() agora retorna apenas o próprio objeto \nfunção aninhada. O que acontece quando chamamos essa função aninhada (com o segundo par de \nparênteses na última linha de código) fora da função em que ela foi definida?\nLembre-se da regra fundamental do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 999,
+    "totalChunks": 10000
+  }
+}

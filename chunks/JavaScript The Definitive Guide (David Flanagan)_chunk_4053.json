@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4053",
+  "content": "JavaScript básica\nExemplo\na = new Array(1, 2, 3, \"testing\");\ns = a.join(\"+\");      // s é a string \"1+2+3+testing\"\nConsulte também\nString.split()\nArray.lastIndexOf() ECMAScript 5\npesquisa um array para trás\nSinopse\narray.lastIndexOf(valor)\narray.lastIndexOf(valor, início)\nArgumentos\nvalor\nO valor a ser pesquisado no array.\ninício\nUm índice de array opcional para iniciar a busca. Se for omitido, a busca vai começar no últi-\nmo elemento do array.\nRetorna\nO índice mais alto <= \ninício de array no qual o elemento é === a valor ou -1, caso não exista um \nelemento coincidente.\nDescrição\nEsse",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4053,
+    "totalChunks": 10000
+  }
+}

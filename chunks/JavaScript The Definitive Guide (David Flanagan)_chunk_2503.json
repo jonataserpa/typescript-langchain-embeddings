@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2503",
+  "content": "4   Eventos de teclado\nQuando o navegador Web tem foco de teclado, gera eventos sempre que o usuário pressiona ou solta \numa tecla no teclado. Entretanto, os atalhos de teclado que têm significado para o sistema operacio-\nnal ou para o próprio navegador são frequentemente “consumidos” pelo sistema operacional ou pelo \nnavegador e podem não ser visíveis para as rotinas de tratamento de evento de JavaScript. Os eventos \nde teclado são disparados no elemento do documento que tem o foco de teclado e borbulham para \ncima no documento e na janela. Se nenhum elemento tem o foco, os eventos são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2503,
+    "totalChunks": 10000
+  }
+}

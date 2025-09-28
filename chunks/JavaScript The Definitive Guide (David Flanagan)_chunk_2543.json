@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2543",
+  "content": "definida no modo não restrito (consulte a Seção 5.7.3). \nVamos ver mais sobre o argumento event e as instruções with quando considerarmos a chamada de \nrotina de tratamento de evento, na Seção 17.3.\nUm estilo comum em programação no lado do cliente envolve manter o conteúdo HTML separado \ndo comportamento JavaScript. Os programadores que seguem essa disciplina se abstêm de (ou pelo \nmenos evitam) atributos de rotina de tratamento de evento HTML, pois misturam JavaScript e \nHTML diretamente.\n17.2.3   addEventListener()\nNo modelo de evento padrão suportado por todos os navegadores, menos o IE8",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2543,
+    "totalChunks": 10000
+  }
+}

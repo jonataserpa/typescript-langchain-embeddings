@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3904",
+  "content": "FileReader.)\n22.6.5   Lendo   Blobs\nAté aqui, os Blobs têm sido trechos de dados opacos que permitem apenas acesso indireto ao seu \nconteúdo por meio de URLs de Blob. O objeto FileReader nos permite acesso de leitura aos ca-\nracteres ou bytes contidos em um Blob, sendo que você pode considerá-lo como o oposto de um \nBlobBuilder. (Um nome melhor seria BlobReader, pois ele funciona com qualquer Blob e não \napenas com Files.) Como os Blobs podem ser objetos muito grandes armazenados no sistema \nde arquivos, a API para lê-los é assíncrona, muito parecida com a API XMLHttpRequest. Uma \n\nCapítulo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3904,
+    "totalChunks": 10000
+  }
+}

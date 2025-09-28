@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_721",
+  "content": "(sem passar argumentos). O valor de retorno desse método se torna o valor da expressão \nde acesso à propriedade. Quando um programa configura o valor de uma propriedade de acesso, \nJavaScript chama o método setter, passando o valor do lado direito da atribuição. Esse método é \nresponsável por “configurar”, de certo modo, o valor da propriedade. O valor de retorno do método \nsetter é ignorado.\nAs propriedades de acesso não têm um atributo gravável, como as propriedades de dados. Se uma \npropriedade tem um método getter e um método setter, ela é uma propriedade de leitura/gravação. \nSe ela tem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 721,
+    "totalChunks": 10000
+  }
+}

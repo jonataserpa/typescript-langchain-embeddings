@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1590",
+  "content": "ang.String de Java.) \nOs métodos Java são muito parecidos com as construtoras Java e o Rhino permite que os programas \nJavaScript chamem métodos Java:\n// Os métodos estáticos Java funcionam como funções de JavaScript\njava.lang.System.getProperty(\"java.version\")     // Retorna a versão de Java\nvar isDigit = java.lang.Character.isDigit;       // Atribui método estático à variável\nisDigit(\"\")                           // => verdadeiro: Algarismo arábico 2\n// Chama métodos de instância dos objetos Java f e out criados anteriormente\nout.write(\"Hello World\\n\");\nout.close();\nvar len = f.length();\nO",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1590,
+    "totalChunks": 10000
+  }
+}

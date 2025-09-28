@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1025",
+  "content": "JavaScript. Como as funções são objetos, podem ter propriedades e métodos, exatamente \ncomo qualquer outro objeto. Existe até uma construtora Function() para criar novos objetos função. \nAs subseções a seguir documentam propriedades e métodos de função e a construtora Function(). \nVocê também pode ler sobre isso na seção de referência.\n8.7.1   A propriedade length\nDentro do corpo de uma função, arguments.length especifica o número de argumentos que foram \npassados para a função. Contudo, a propriedade \nlength de uma função em si tem um significado di-\nferente. Essa propriedade somente de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1025,
+    "totalChunks": 10000
+  }
+}

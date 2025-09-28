@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1038",
+  "content": "bind(o);   // Usa o método bind, se houver um\n    else return function() {        // Caso contrário, vincula-o como segue\n        return f.apply(o, arguments);\n    };\n}\nO método bind() de ECMAScript 5 faz mais do que apenas vincular uma função a um objeto. Ele \ntambém faz aplicação parcial: os argumentos passados para bind() após o primeiro são vinculados \njunto com o valor de this. A aplicação parcial é uma técnica comum na programação funcional e \nàs vezes é chamada de currying. Aqui estão alguns exemplos do método bind() usado para aplicação \nparcial:\nvar sum = function(x,y) { return x + y",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1038,
+    "totalChunks": 10000
+  }
+}

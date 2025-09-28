@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4048",
+  "content": "não vão parti-\ncipar no laço. Se a função altera elementos já existentes que ainda não participaram do laço, serão \npassados os valores alterados.\nQuando chamados em arrays esparsos, esses métodos não chamam a função para índices nos quais \nnão existe nenhum elemento.\nExemplo\nvar a = [1,2,3];\na.forEach(function(x,i,a) { a[i]++; }); // a agora é [2,3,4]\nConsulte também\nArray.every(), Array.filter(), Array.indexOf(), Array.map(), Array.reduce()\nArray.indexOf() ECMAScript 5\npesquisa um array\nSinopse\narray.indexOf(valor)\narray.indexOf(valor, início)\nArgumentos\nvalor\nO valor a ser procurado em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4048,
+    "totalChunks": 10000
+  }
+}

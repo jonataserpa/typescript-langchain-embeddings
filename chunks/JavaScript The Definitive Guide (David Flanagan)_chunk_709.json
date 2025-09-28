@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_709",
+  "content": ".5.4. Ele executa o corpo do laço uma vez para cada proprie-\ndade enumerável (própria ou herdada) do objeto especificado, atribuindo o nome da propriedade à \nvariável de laço. Os métodos internos herdados pelos objetos não são enumeráveis, mas as proprie-\ndades que seu código adiciona nos objetos são enumeráveis (a não ser que você use uma das funções \ndescritas posteriormente para torná-las não enumeráveis). Por exemplo:\nvar o = {x:1, y:2, z:3};            // Três propriedades próprias enumeráveis\no.propertyIsEnumerable(\"toString\")   // => falso: não enumerável\nfor(p in o)                //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 709,
+    "totalChunks": 10000
+  }
+}

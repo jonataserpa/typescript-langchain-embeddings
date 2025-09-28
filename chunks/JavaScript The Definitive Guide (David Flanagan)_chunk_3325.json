@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3325",
+  "content": "o estão documentadas neste capítulo, \nmas consulte a Seção 22.8 para uma visão geral e um exemplo da API IndexedDB.\nAPI Filesystem\nVimos no Capítulo 18 que os navegadores modernos suportam um objeto File que permite \ncarregar arquivos selecionados pelo usuário por meio de um objeto XMLHttpRequest. Mi-\nnutas de padrões relacionados definem uma API para obter um sistema de arquivos local pri-\nvativo e para ler e gravar arquivos nesse sistema. Essas APIs emergentes são descritas na Seção \n22.7. Quando elas estiverem mais amplamente implementadas, os aplicativos Web poderão \nusar os tipos de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3325,
+    "totalChunks": 10000
+  }
+}

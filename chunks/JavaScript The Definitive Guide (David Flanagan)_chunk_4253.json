@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4253",
+  "content": "objeto. Qualquer propriedade \ncujo nome não esteja no array será omitida da transformação em string. Além disso, a string retorna-\nda vai conter propriedades na mesma ordem em que elas aparecem no array.\nJSON.stringify() normalmente retorna uma string legível para máquinas, sem qualquer espaço em \nbranco ou novas linhas inseridas. Se quiser que a saída seja mais legível para seres humanos, espe-\ncifique um terceiro argumento. Se você especificar um número entre 1 e 10, \nJSON.stringify() vai \ninserir novas linhas e usar o número de espaços especificado para recuar cada “nível” da saída. Se, em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4253,
+    "totalChunks": 10000
+  }
+}

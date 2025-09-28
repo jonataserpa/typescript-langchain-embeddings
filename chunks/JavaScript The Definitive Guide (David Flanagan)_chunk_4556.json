@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4556",
+  "content": "e da largura da linha em cada lado.\ndouble miterLimit\nQuando linhas são desenhadas com a propriedade lineJoin configurada como “miter” e duas \nlinhas formam um ângulo agudo, a cunha resultante pode ser muito longa. Quando as cunhas \nsão longas demais, se tornam visualmente ásperas. Essa propriedade miterLimit coloca um \nlimite superior no comprimento da cunha. Essa propriedade expressa uma relação do compri-\nmento da cunha e metade da largura da linha. O valor padrão é 10, ou seja, uma cunha nunca \ndeve ser mais longa do que 5 vezes a largura da linha. Se uma cunha formada por duas linhas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4556,
+    "totalChunks": 10000
+  }
+}

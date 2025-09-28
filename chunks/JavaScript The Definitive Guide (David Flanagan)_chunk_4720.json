@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4720",
+  "content": "L desse elemento. Contudo, os objetos Element geralmente tornam os atributos acessíveis \npor meio de propriedades de JavaScript; portanto, nunca é realmente necessário usar esse array \nattributes[].\nreadonly unsigned long childElementCount\nO número de elementos filhos (não nós filhos) que esse elemento tem.\nreadonly HTMLCollection children\nUm objeto semelhante a um array dos filhos Element (excluindo filhos que não são Element, \ncomo nós Text e Comment) desse Element.\nreadonly DOMTokenList classList\nO atributo de classe de um elemento é uma lista de nomes de classe separados por espaços.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4720,
+    "totalChunks": 10000
+  }
+}

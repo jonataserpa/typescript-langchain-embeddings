@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4198",
+  "content": "a de JavaScript básica\nA maioria das funções de JavaScript que esperam argumentos de string converte qualquer valor rece-\nbido em uma string, antes de prosseguir. eval() não se comporta assim: se código não é um valor de \nstring primitivo, é simplesmente retornado intacto. Cuidado, portanto, para não passar sem querer \num objeto String para eval(), quando pretendia passar um valor de string primitivo.\nExemplo\neval(“1+2”);     // Retorna 3\n// Este código usa métodos JavaScript do lado do cliente para dizer ao usuário\n// para que digite uma expressão e exibe os resultados de sua avaliação.\n//",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4198,
+    "totalChunks": 10000
+  }
+}

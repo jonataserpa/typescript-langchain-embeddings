@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3840",
+  "content": ". Busca de forma síncrona o\n// conteúdo de cada URL como uma string e envia de volta um array dessas strings.\nonmessage = function(e) {\n    var urls = e.data; // Nossa entrada: os URLs a serem buscados\n    var contents = []; // Nossa saída: o conteúdo desses URLs\n    for(var i = 0; i < urls.length; i++) {\n\n672          Parte II     JavaScript do lado do cliente\n        var url = urls[i];                // Para cada URL\n        var xhr = new XMLHttpRequest();    // Inicia uma requisição HTTP\n        xhr.open(\"GET\", url, false);       // false torna isso síncrono\n        xhr.send();",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3840,
+    "totalChunks": 10000
+  }
+}

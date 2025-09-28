@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1835",
+  "content": "m. A seguir estão alguns recursos restritos:\n •   Um programa JavaScript pode abrir novas janelas do navegador, mas para evitar abuso com \npop-ups por parte dos anunciantes, a maioria dos navegadores restringe esse recurso de modo \nque só possa acontecer em resposta a um evento iniciado pelo usuário, como um clique de \nmouse.\n •   Um programa JavaScript pode fechar janelas do navegador que ele mesmo abriu, mas não \npode fechar outras janelas sem confirmação do usuário.\n\n326          Parte II     JavaScript do lado do cliente\n •   A propriedade value de elementos HTML FileUpload não pode ser",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1835,
+    "totalChunks": 10000
+  }
+}

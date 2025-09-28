@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2629",
+  "content": "guns \ntestes de navegador (Seção 13.4.5). O exemplo antecipa a especificação Level 3 Events do DOM e \ncontém código para usar o evento wheel quando os navegadores o implementarem\n6\n. Inclui também \nalguma preparação para o futuro, para parar de usar o evento DOMMouseScroll quando o Firefox \ncomeçar a disparar wheel ou mousewheel. Note que o Exemplo 17-3 também é um exemplo prá-\ntico das técnicas de geometria de elemento e posicionamento CSS explicadas na Seção 15.8 e na \nSeção 16.2.1.\nExemplo 17-3 Tratando de eventos roda do mouse\n// Engloba o elemento conteúdo em um quadro ou em uma porta de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2629,
+    "totalChunks": 10000
+  }
+}

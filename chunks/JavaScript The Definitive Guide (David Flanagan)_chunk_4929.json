@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4929",
+  "content": "unsigned long size\nPara elementos Input que permitem entrada de texto, essa propriedade especifica a largura do \nelemento em caracteres. Espelha o atributo size. Compare com maxLength.\nstring step*\nPara tipos de entrada numéricos (incluindo entrada de data e hora), essa propriedade especifi-\nca a granularidade ou tamanho do passo dos valores de entrada permitidos. Essa propriedade \npode ser a string “any” ou um número em ponto flutuante. Espelha o atributo step.\nDate valueAsDate*\nRetorna o value do elemento (consulte FormControl) como um objeto Date.\ndouble valueAsNumber*\nRetorna o value do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4929,
+    "totalChunks": 10000
+  }
+}

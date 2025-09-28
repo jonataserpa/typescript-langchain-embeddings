@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1620",
+  "content": "Saída de depuração na console\n// Usa require(), em vez de load(). Ele carrega e executa (somente uma vez) o\n// módulo nomeado, retornando um objeto que contém seus símbolos exportados.\nvar fs = require(\"fs\");         // Carrega o módulo \"fs\" e retorna seu objeto API\nO Node implementa todas as construtoras, propriedades e funções de ECMAScript 5 padrão em seu \nobjeto global. Contudo, além disso, também suporta as funções set de cronometragem do lado do \ncliente setTimeout(), setInterval(), clearTimeout() e clearInterval():\n1\n  JavaScript do lado do cliente também é altamente assíncrona e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1620,
+    "totalChunks": 10000
+  }
+}

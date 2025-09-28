@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1006",
+  "content": "s de uma função são definidas em uma pilha na CPU, então elas realmente deixariam de \nexistir quando a função retornasse.\nMas lembre-se de nossa definição de encadeamento de escopo da Seção 3.10.3. Ele foi descrito como \numa lista de objetos e não como uma pilha de vínculos. Em JavaScript sempre que uma função é chama-\nda, é criado um novo objeto para conter as variáveis locais para essa chamada e esse objeto é adicionado \nao encadeamento de escopo. Quando a função retorna, esse objeto vínculo de variável é removido do \nencadeamento de escopo. Se não existem funções aninhadas, não há mais",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1006,
+    "totalChunks": 10000
+  }
+}

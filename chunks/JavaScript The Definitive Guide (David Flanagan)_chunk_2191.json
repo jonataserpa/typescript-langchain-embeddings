@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2191",
+  "content": "ct()  (mas  é  muito  menos  eficiente).  Teoricamente,  uma  função  como  \ngetElementPos() poderia ser usada nos navegadores que não suportam getBoundingClientRect(). Na \nprática, contudo, os navegadores que não suportam getBoundingClientRect() têm muitas incom-\npatibilidades de posicionamento de elementos e uma função simples como essa não vai funcionar \nde modo confiável. Bibliotecas práticas do lado do cliente, como a jQuery, contêm funções para \ncalcular a posição do elemento que melhoram esse algoritmo básico de cálculo de posição com várias \ncorreções de erro específicas do navegador.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2191,
+    "totalChunks": 10000
+  }
+}

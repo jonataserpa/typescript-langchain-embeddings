@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3660",
+  "content": "ber, mudando sua escala ou usando \numa fonte mais estreita ou menor.\nCaso você mesmo precise medir o texto antes de desenhá-lo, passe-o para o método \nmeasureText(). \nEsse método retorna um objeto TextMetrics que especifica as medidas do texto quando desenhado \ncom o valor de font atual. Quando este livro estava sendo escrito, a única “métrica” contida no obje-\nto TextMetrics era a largura. Consulte a largura na tela de uma string como segue:\nvar width = c.measureText(text).width;\n\n638          Parte II     JavaScript do lado do cliente\n21.4.10   Recorte\nApós definir um caminho, você",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3660,
+    "totalChunks": 10000
+  }
+}

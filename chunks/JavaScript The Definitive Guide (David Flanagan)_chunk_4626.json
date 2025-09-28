@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4626",
+  "content": "stilo são os tipos \nmais comuns e importantes em uma folha de estilo e as que mais provavelmente vão constar em seus \nscripts.\nNo IE8 e anteriores, os objetos CSSRule suportam apenas as propriedades \nselectorText e style.\nConstantes\nunsigned short STYLE_RULE = 1\nunsigned short IMPORT_RULE = 3\nunsigned short MEDIA_RULE = 4\nunsigned short FONT_FACE_RULE = 5\nunsigned short PAGE_RULE = 6\nunsigned short NAMESPACE_RULE = 10\nEsses são os valores possíveis para a propriedade type a seguir e especificam qual é o tipo de \nregra. Se type for diferente de 1, o objeto CSSRule terá outras propriedades que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4626,
+    "totalChunks": 10000
+  }
+}

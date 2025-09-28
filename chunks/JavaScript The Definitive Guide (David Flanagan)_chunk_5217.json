@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5217",
+  "content": "ente criada possa se referir a propriedades e funções definidas na janela que a criou.\nreadonly long outerHeight\nreadonly long outerWidth\nEssas propriedades especificam a altura e largura totais, em pixels, da janela do navegador, \nincluindo barras de ferramentas, barras de rolagem, bordas de janela, etc. Essas propriedades \nnão são suportadas no IE8 e anteriores.\nreadonly long pageXOffset\nreadonly long pageYOffset\nO número de pixels que o documento atual rolou para a direita (pageXOffset) e para baixo \n(pageYOffset). Essas propriedades não são suportadas no IE8 e anteriores. Consulte o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5217,
+    "totalChunks": 10000
+  }
+}

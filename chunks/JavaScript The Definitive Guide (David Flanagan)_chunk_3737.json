@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3737",
+  "content": "g> recém-criado que vai (quando a geolocalização for bem-sucedida)\n// ser configurado para exibir um mapa do Google da localização atual. Note que o \n// chamador deve inserir o elemento retornado no documento para torná-lo visível. Lança \n// um erro se geolocalização não é suportada no navegador\nfunction getmap() {\n    // Procura suporte para geolocalização\n    if (!navigator.geolocation) throw \"Geolocation not supported\";\n    // Cria um novo elemento <img>, inicia o pedido de geolocalização para fazer img\n    // exibir um mapa de onde estamos e, então, retorna a imagem.\n    var image =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3737,
+    "totalChunks": 10000
+  }
+}

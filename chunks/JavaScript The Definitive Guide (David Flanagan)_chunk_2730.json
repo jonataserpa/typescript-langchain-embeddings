@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2730",
+  "content": "= words.pop();                  // keyname é a última palavra\n     keyname = Keymap.aliases[keyname] || keyname; // É um apelido?\n    words.sort();                     // Classifica as modificadoras restantes\n    words.push(keyname);                        // Adiciona novamente o nome normalizado\n    return words.join(\"_\");                     // Concatena tudo\n};\nKeymap.aliases = {      // Mapeia apelidos de tecla comuns em seus nomes\n    \"escape\":\"esc\",    // de tecla \"oficiais\" usados pelo Level 3 do DOM e pelo\n    \"delete\":\"del\",    // código de tecla no mapa de nomes de tecla abaixo.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2730,
+    "totalChunks": 10000
+  }
+}

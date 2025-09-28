@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2438",
+  "content": "sheet() a seguir demonstra isso. Se for passado um número, ela o trata como \num índice para o array\n document.styleSheets. Se for passada uma string, ela a trata como um seletor \nCSS, a passa para document.querySelectorAll() (consulte a Seção 15.2.5) e, então, configura a pro-\npriedade disabled de todos os elementos retornados:\nfunction disableStylesheet(ss) {\n    if (typeof ss === \"number\")\n        document.styleSheets[ss].disabled = true;\n    else    {\n        var sheets = document.querySelectorAll(ss);\n        for(var i = 0; i < sheets.length; i++)\n            sheets[i].disabled = true;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2438,
+    "totalChunks": 10000
+  }
+}

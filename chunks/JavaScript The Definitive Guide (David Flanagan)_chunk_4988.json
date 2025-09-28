@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4988",
+  "content": "Caso contrário, anima o \ntamanho e a opacidade de cada elemento selecionado de modo que fique oculto após duração \nms. Ao terminar, chama \nf, se especificada, como um método de cada elemento selecionado.\nslideDown([duração=400],[f()])\nslideUp([duração=400],[f()])\nslideToggle([duração=400],[f()])\nExibe, oculta ou alterna a visibilidade de cada elemento selecionado, animando sua altura \npela duração especificada. Ao terminar, chama f, se especificada, como um método de cada \nelemento selecionado.\nshow()\nshow(duração, [f()])\nSem argumentos, mostra imediatamente cada elemento selecionado. Caso",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4988,
+    "totalChunks": 10000
+  }
+}

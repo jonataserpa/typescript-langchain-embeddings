@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4524",
+  "content": "Antes da primeira parada, o gradiente vai exibir a cor da primeira parada. Após a última \nparada, o gradiente vai exibir a cor da última parada. Se você especificar apenas uma parada, o gra-\ndiente terá uma única cor uniforme. Se não especificar uma parada de cor, o gradiente será preto \ntransparente uniforme.\nCanvasPattern\num padrão baseado em imagem para uso em Canvas\n\n      Referência de JavaScript do lado do cliente      851\nReferência de \nJavaScript do lado \ndo cliente\nUm objeto CanvasPattern é um objeto opaco retornado pelo método createPattern() de um objeto \nCanvasRenderingContext2D.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4524,
+    "totalChunks": 10000
+  }
+}

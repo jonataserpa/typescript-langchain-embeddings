@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3226",
+  "content": "o próprio objeto jQuery. O valor de retorno é o objeto no qual as propriedades foram \ncopiadas. Se o primeiro argumento é o valor true, é feita uma cópia profunda ou recursiva: \no segundo argumento é estendido com as propriedades do terceiro objeto (e de todos os \nsubsequentes).\nEsta função é útil para clonar objetos e para mesclar objetos opções com conjuntos de padrões:\n    var clone = jQuery.extend({}, original);\n    var options = jQuery.extend({}, default_options, user_options);\njQuery.globalEval()\nEsta função executa uma string de código JavaScript no contexto global, como se fosse o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3226,
+    "totalChunks": 10000
+  }
+}

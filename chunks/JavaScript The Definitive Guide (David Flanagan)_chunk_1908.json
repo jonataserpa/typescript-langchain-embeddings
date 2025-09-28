@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1908",
+  "content": "vegadores de quarta \ne de quinta geração. Não há um formato padrão para a string appVersion, de modo que não é \npossível analisá-la de modo independente de navegador.\nuserAgent\nA string enviada pelo navegador em seu cabeçalho HTTP USER-AGENT. Essa propriedade nor-\nmalmente contém todas as informações de \nappVersion e pode conter mais detalhes. Assim \ncomo appVersion, não existe um formato padrão. Como essa propriedade contém o máximo \nde informações, o código de farejamento de navegador costuma utilizá-lo.\nplatform\nUma string que identifica o sistema operacional (e possivelmente o hardware)",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1908,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_704",
+  "content": "seu atributo enumerável é true. Certas pro-\npriedades internas não são enumeráveis. As propriedades criadas por código JavaScript normal são \nenumeráveis, a menos que você tenha usado um dos métodos de ECMAScript 5, mostrados poste-\nriormente, para torná-las não enumeráveis.\nvar o = inherit({ y: 2 });\no.x = 1;\no.propertyIsEnumerable(\"x\");    // verdadeiro: o tem uma propriedade própria enumerável x\no.propertyIsEnumerable(\"y\");    // falso: y é herdada e não própria\nObject.prototype.propertyIsEnumerable(\"toString\");        // falso: não enumerável\nEm vez de usar o operador in, em geral é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 704,
+    "totalChunks": 10000
+  }
+}

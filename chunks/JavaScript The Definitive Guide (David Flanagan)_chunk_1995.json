@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1995",
+  "content": "15     Escrevendo script de documentos      353\nJavaScript do\n lado do cliente\nessas propriedades e métodos sob Node na Parte IV. Note que a figura contém três tipos diferentes de \nnós. Na raiz da árvore está o nó Document, que representa o documento inteiro. Os nós que repre-\nsentam elementos HTML são nós Element e os nós que representam texto são nós Text. Document, \nElement e Text são subclasses de Node (e têm suas próprias entradas na seção de referência). Docu-\nment e Element são as duas classes DOM mais importantes e grande parte deste capítulo é dedicada \nàs suas propriedades e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1995,
+    "totalChunks": 10000
+  }
+}

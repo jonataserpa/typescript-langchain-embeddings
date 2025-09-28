@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2626",
+  "content": "e DOMMouseScroll. O objeto passado para uma \nrotina de tratamento de evento wheel terá propriedades \ndeltaX, deltaY e deltaZ para especificar rota-\nção em três dimensões. Você deve multiplicar esses valores por -120 para corresponder ao valor e ao \nsinal de um evento mousewheel.\nPara todos esses tipos de evento, o objeto evento é como um objeto evento de mouse: ele inclui as \ncoordenadas do cursor do mouse e o estado das teclas modificadoras do teclado.\nO Exemplo 17-3 demonstra como se trabalha com eventos de roda de mouse e como fazer isso de \nmodo independente de plataforma. Ele define uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2626,
+    "totalChunks": 10000
+  }
+}

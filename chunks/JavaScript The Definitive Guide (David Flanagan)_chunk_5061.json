@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5061",
+  "content": "so explícito de MessageChannel e MessagePort permite a criação de canais de comu-\nnicação privativos adicionais e pode ser usado, por exemplo, para permitir comunicação direta entre \ndois threads Worker irmãos.\nMessageChannel e MessagePort types são um recurso avançado de HTML5 e, quando este livro \nestava sendo escrito, alguns navegadores suportavam troca de mensagens entre origens (Seção 22.3) \ne threads worker (Seção 22.4) sem suportar canais de comunicação privativos com MessagePort.\nMétodos\nvoid close()\nEsse método desconecta esse MessagePort da porta em que estava conectado (se houver).",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5061,
+    "totalChunks": 10000
+  }
+}

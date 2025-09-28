@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2795",
+  "content": "ga, a passa para a função callback como um\n// objeto Document XML analisado, um objeto analisado com JSON ou uma string.\nfunction get(url, callback) {\n    var request = new XMLHttpRequest();          // Cria nova requisição\n    request.open(\"GET\", url);                   // Especifica o URL a ser buscado\n\n488          Parte II     JavaScript do lado do cliente\n    request.onreadystatechange = function() {    // Define o ouvinte de evento\n        // Se a requisição está completo e foi bem-sucedido\n        if (request.readyState === 4 && request.status === 200) {\n            // Obtém o tipo da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2795,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3425",
+  "content": "L = msg;\n    console.log(msg);    // E também na console de depuração\n}\n// Sempre que o aplicativo é carregado, ele verifica seu arquivo de manifesto.\n// O evento checking é sempre disparado primeiro, quando esse processo começa.\nwindow.applicationCache.onchecking = function() {\n    status(\"Checking for a new version.\");\n    return    false;\n};\n// Se o arquivo de manifesto não mudou e o aplicativo já está na cache,\n\nCapítulo 20     Armazenamento no lado do cliente      591\nJavaScript do\n lado do cliente\n// o evento noupdate é disparado e o processo termina.\nwindow.applicationCache.onnoupdate",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3425,
+    "totalChunks": 10000
+  }
+}

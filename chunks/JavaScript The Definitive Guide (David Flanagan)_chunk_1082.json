@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1082",
+  "content": "ue aceita uma função como \nargumento e retorna uma versão memoizada da função:\n// Retorna uma versão memoizada de f.\n// Só funciona se todos os argumentos de f têm representações de string distintas.\nfunction memoize(f) {\n    var cache = {};  // Cache de valores armazenada na closure.\n    return function() {\n        // Cria uma versão de string dos argumentos para usar como chave de cache.\n        var key = arguments.length + Array.prototype.join.call(arguments,\",\");\n        if (key in cache) return cache[key];\n        else return cache[key] = f.apply(this, arguments);\n    };\n}\nA função",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1082,
+    "totalChunks": 10000
+  }
+}

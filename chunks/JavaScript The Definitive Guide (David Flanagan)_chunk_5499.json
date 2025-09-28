@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5499",
+  "content": "721\nmétodo split( )\n    dividindo propriedade de cookie em pares nome/\nvalor, 582\n    objeto String, 255, 831–832\nmétodo splitText( ), nó Text, 978\nmétodo start( )\n    objeto MessagePort, 956\n    objeto    TimeRanges,    980\nmétodo stepDown( ), objeto Input, 929\nmétodo stepUp( ), objeto Input, 929\nmétodo stop( ), jQuery, 543\nmétodo submit( )\n    jQuery,    527\n        disparando    eventos,    533\n    objeto Form, 390, 913\nmétodo substr( ) (desaprovado), objeto String, \n833–834\nmétodo substring( ), objeto String, 833–834\nmétodo substringData( )\n    nó Comment, 865\n    nó    Text,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5499,
+    "totalChunks": 10000
+  }
+}

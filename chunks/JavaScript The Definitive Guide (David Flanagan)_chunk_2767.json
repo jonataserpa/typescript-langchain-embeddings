@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2767",
+  "content": "quentemente são armazenados \nem um banco de dados no servidor (um efeito colateral). POSTs repetidos para o mesmo URL \npodem resultar em diferentes respostas do servidor e as requisições que usam esse método não \ndevem ser colocados na cache.\nAlém de “GET” e “POST”, a especificação XMLHttpRequest também permite “DELETE”, \n“HEAD”, “OPTIONS” e “PUT” como primeiro argumento de \nopen(). (Os métodos “HTTP \nCONNECT”, “TRACE” e “TRACK” são explicitamente proibidos por colocarem a segurança em \nrisco.) Os navegadores mais antigos podem não suportar todos esses métodos, mas pelo menos \n“HEAD” é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2767,
+    "totalChunks": 10000
+  }
+}

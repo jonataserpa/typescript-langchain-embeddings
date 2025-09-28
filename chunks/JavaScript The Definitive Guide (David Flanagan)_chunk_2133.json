@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2133",
+  "content": "onteúdo do elemento\n        while(elt.firstChild)                   // Move todos os nós\n            frag.appendChild(elt.firstChild);   // de elt para frag\n        return frag;                   // E retorna o frag\n }\n    var Insert = {\n        before: function(elt, html) {\n            elt.parentNode.insertBefore(fragment(html),    elt);\n        },\n        after: function(elt, html) {\n            elt.parentNode.insertBefore(fragment(html),elt.nextSibling);\n        },\n        atStart: function(elt, html) {\n            elt.insertBefore(fragment(html),    elt.firstChild);\n        },",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2133,
+    "totalChunks": 10000
+  }
+}

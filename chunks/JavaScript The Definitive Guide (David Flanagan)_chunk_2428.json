@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2428",
+  "content": "gle() e toString()\n * para testar e alterar o conjunto de classes do elemento e.\n * Se a propriedade classList é suportada de forma nativa, o objeto retornado é\n * semelhante a um array e tem comprimento e propriedades de índice de array. O DOMTokenList\n * simulado não é semelhante a um array, mas tem um método toArray() que retorna\n\n428          Parte II     JavaScript do lado do cliente\n * um instantâneo semelhante a um array com os nomes de classe do elemento.\n */\nfunction classList(e) {\n    if (e.classList) return e.classList;         // Retorna e.classList, se existir\n    else return new",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2428,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_605",
+  "content": "léxica de métodos de JavaScript e para cima na pilha de chama-\ndas. Se nenhuma rotina de tratamento de exceção é encontrada, a exceção é tratada como erro e o \nusuário é informado.\n5.6.6   try/catch/finally\nA instrução try/catch/finally é o mecanismo de tratamento de exceção de JavaScript. A cláusula \ntry dessa instrução simplesmente define o bloco de código cujas exceções devem ser tratadas. O \nbloco try é seguido de uma cláusula catch, a qual é um bloco de instruções que são chamadas quan-\ndo ocorre uma exceção em qualquer lugar dentro do bloco try. A cláusula catch é seguida por um \nbloco",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 605,
+    "totalChunks": 10000
+  }
+}

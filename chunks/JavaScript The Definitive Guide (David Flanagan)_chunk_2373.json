@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2373",
+  "content": "ras usam propriedades de posicionamento para configurar o tamanho global da janela\n * e a posição de seus componentes. Mudar o tamanho da janela\n * exige alterações cuidadosas nas propriedades de posicionamento em todas as três regras.\n **/\ndiv.window {  /* Especifica o tamanho e a borda da janela */\n    position: absolute;             /* A posição é especificada em outro lugar */\n    width: 300px; height: 200px;    /* Tamanho da janela, não incluindo as bordas */\n    border: 3px outset gray;        /* Note o efeito de borda \"outset\" em 3D */\n}\ndiv.titlebar {  /* Especifica posição, tamanho e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2373,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3888",
+  "content": "endo escrito, a \nversão preliminar da especificação e o Firefox 4 colocavam essa função em um objeto global chama-\ndo URL, sendo que o Chrome e o Webkit colocam um prefixo nesse novo objeto global, chamando-o \nde webkitURL. As versões anteriores da especificação (e as implementações de navegador anteriores) \ncolocam a função diretamente no objeto Window. Para criar URLs de Blob de forma portável entre \nos navegadores, você pode definir um utilitário como segue:\nvar  getBlobURL = (window.URL && URL.createObjectURL.bind(URL)) ||\n(window.webkitURL && webkitURL.createObjectURL.bind(webkitURL))",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3888,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3895",
+  "content": "droptarget.ondragleave = function() {\n        droptarget.classList.remove(\"active\");\n    };\n  // Esta rotina de tratamento apenas diz ao navegador para que continue a enviar \n// notificações\n    droptarget.ondragover = function(e) { return false; };\n    // Quando o usuário solta arquivos em nós, obtemos seus URLs e exibimos miniaturas.\n    droptarget.ondrop = function(e) {\n        var files = e.dataTransfer.files;                 // Os arquivos soltos\n        for(var i = 0; i < files.length; i++) {           // Itera por todos eles\n            var type = files[i].type;\n            if",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3895,
+    "totalChunks": 10000
+  }
+}

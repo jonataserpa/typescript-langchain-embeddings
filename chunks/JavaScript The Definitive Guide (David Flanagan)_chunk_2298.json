@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2298",
+  "content": "a CSS1. A segunda edição do pa-\ndrão, CSS2, foi adotada em maio de 1998. Ela define vários recursos mais avançados, mais notada-\nmente o suporte para posicionamento absoluto de elementos. CSS2.1 esclarece e corrige CSS2, eli-\nminando recursos que os fornecedores de navegador nunca implementaram. Os navegadores atuais \ntêm suporte basicamente completo a CSS2.1, embora as versões do IE anteriores ao IE8 tenham \nomissões notáveis.\nO trabalho em CSS continua. Para a versão 3, a especificação CSS foi dividida em vários módulos \nespecializados que estão passando pelo processo de padronização",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2298,
+    "totalChunks": 10000
+  }
+}

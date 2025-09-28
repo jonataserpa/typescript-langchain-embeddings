@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3184",
+  "content": "d()) que não espe-\ncifiquem seus próprios valores para essas opções.\nAo ler sobre as muitas opções e funções callback da jQuery nas seções a seguir, talvez você ache útil \nse referir aos quadros sobre código de status Ajax e as strings de tipos de dados da jQuery, na Seção \n19.6.1 e na Seção 19.6.2.3.\nAjax na jQuery 1.5\nA jQuery 1.5, que foi lançada quando este livro estava indo para a gráfica, apresenta um módulo Ajax \nreescrito, com vários novos recursos convenientes. O mais importante é que agora \njQuery.ajax() e todas \nas funções utilitárias Ajax descritas anteriormente retornam um objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3184,
+    "totalChunks": 10000
+  }
+}

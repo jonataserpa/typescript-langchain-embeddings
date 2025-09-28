@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5656",
+  "content": "em strings literais, 36\n    strings literais, 35\n    trabalhando com strings, 37\ntexto selecionado, consultando em um documento, \n397\ntexto sombreado, exemplo de posicionamento de \nCSS, 411\nthreads\n    em JavaScript do lado do cliente, 314\n    especifi cação Web Workers, 665–672\n        depurando    threads    Worker,    671\n        modelo de execução de Worker, 668\n    FileReaders e, 682–683\n    objeto    WorkerGlobalScope,    993\n    operações de IndexedDB e, 691–692\n    threads    Worker,    992\ntimers, 333–334\n    função utilitária para (exemplo), 333\n    funções timer do lado do cliente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5656,
+    "totalChunks": 10000
+  }
+}

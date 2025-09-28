@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4143",
+  "content": "ca\nSinopse\ndata.setUTCDate(dia_do_mês)\nArgumentos\ndia_do_mês\nO dia do mês a ser configurado em data, expresso em hora universal. Esse argumento deve ser \num inteiro entre 1 e 31.\nRetorna\nA representação em milissegundos interna da data ajustada.\nDate.setUTCFullYear()\nconfigura os campos de ano, mês e dia de um objeto Date (hora universal)\nSinopse\ndata.setUTCFullYear(ano)\ndata.setSeconds(segundos, miliss)\ndata.setUTCFullYear(ano, mês, dia)\nArgumentos\nano\nO ano, expresso em hora universal, a ser configurado em data. Esse argumento deve ser um \ninteiro que inclua o século, como 1999, e não uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4143,
+    "totalChunks": 10000
+  }
+}

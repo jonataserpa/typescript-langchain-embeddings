@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5536",
+  "content": "o de elemento de formulário, 391\n    rotinas de tratamento de evento, 913\nobjeto FormControl, 913\n    métodos,    915\n    propriedades,    914\n    rotinas de tratamento de evento, 915\nobjeto FormData, 493, 915\nobjeto FormValidity, 916\nobjeto Function, 759–766\n    defi nindo suas próprias propriedades, 173\n    método apply( ), 760\n    método bind( ), 184, 202, 762–763\n    método call( ), 133, 763–764\n    método toString( ), 764–765\n    métodos,    760\n    propriedade arguments, 761\n    propriedade caller, 763–764\n    propriedade length, 764–765\n    propriedade prototype, 764–765",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5536,
+    "totalChunks": 10000
+  }
+}

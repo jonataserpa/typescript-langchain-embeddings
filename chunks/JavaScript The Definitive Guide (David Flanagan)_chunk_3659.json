@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3659",
+  "content": "alor “hanging” \né destinado para uso com caracteres Devangari e similares (que são usados por muitos idiomas da \nÍndia). As linhas de base “top”, “middle” e “bottom” são puramente geométricas, baseadas no “qua-\ndrado eme” da fonte.\nfillText() e strokeText() recebem um quarto argumento opcional. Se fornecido, esse argumento es-\npecifica a largura máxima do texto a ser exibido. Se o texto for mais largo do que o valor especificado \nquando desenhado usando a propriedade font, o canvas o fará caber, mudando sua escala ou usando \numa fonte mais estreita ou menor.\nCaso você mesmo precise medir o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3659,
+    "totalChunks": 10000
+  }
+}

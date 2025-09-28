@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3231",
+  "content": "nte retorna um novo array com o argumento como seu único elemento.\njQuery.map()\nEsta função é como o método ES5 map() do objeto Array. Ela espera um array ou objeto se-\nmelhante a um array como primeiro argumento e uma função como segundo. Ela passa cada \nelemento do array, junto com o índice desse elemento, para a função e retorna um novo array \nque reúne os valores retornado pela função. \njQuery.map() difere do método ES5 map() de duas \nmaneiras. Se sua função de mapeamento retornar \nnull, esse valor não será incluído no array \nresultante. E se sua função de mapeamento retornar um array, os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3231,
+    "totalChunks": 10000
+  }
+}

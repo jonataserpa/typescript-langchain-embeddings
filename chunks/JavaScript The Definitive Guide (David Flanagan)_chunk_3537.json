@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3537",
+  "content": "pesquisá-los na especificação, no endereço http://www.w3.org/TR/SVG/.\nNote que a função \npieChart() retorna um elemento <svg> que contém uma descrição do gráfico de \npizza, mas não insere esse elemento no documento. Espera-se que o chamador faça isso. O gráfico de \npizza da Figura 21-3 foi criado com um arquivo como o seguinte:\n<html>\n<head>\n<script src=\"PieChart.js\"></script>\n</head>\n<body onload=\"document.body.appendChild(\n\n614          Parte II     JavaScript do lado do cliente\n                     pieChart([12, 23, 34, 45], 640, 400, 200, 200, 150,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3537,
+    "totalChunks": 10000
+  }
+}

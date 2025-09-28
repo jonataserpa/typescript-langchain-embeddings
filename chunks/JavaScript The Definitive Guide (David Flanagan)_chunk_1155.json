@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1155",
+  "content": "tro.\nAlém disso, JavaScript não exige que todo objeto tenha uma propriedade\n constructor: essa é uma \nconvenção baseada no objeto protótipo padrão criado para cada função, mas é fácil omitir, acidental \nou intencionalmente, a propriedade constructor no protótipo. As duas primeiras classes deste capí-\ntulo, por exemplo, foram definidas de tal modo (nos exemplos 9-1 e 9-2) que suas instâncias não \ntinham propriedades constructor.\n9.5.3   O nome da construtora\nO principal problema no uso do operador instanceof ou da propriedade constructor para determi-\nnar a classe de um objeto ocorre quando",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1155,
+    "totalChunks": 10000
+  }
+}

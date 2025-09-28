@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_397",
+  "content": "do pelo segundo operando. O \nsinal do resultado é o mesmo do primeiro operando. Por exemplo, 5 % 2 é avaliado como 1 e -5 % 2 \né avaliado como -1.\nEmbora o operador módulo seja normalmente utilizado com operandos inteiros, também funciona \ncom valores em ponto flutuante. Por exemplo, \n6.5 % 2.1 é avaliado como 0.2.\n4.8.1   O operador +\nO operador binário + soma operandos numéricos ou concatena operandos string:\n1 + 2                 // => 3\n\"hello\" + \" \" + \"there\" // => \"hello there\"\n\"1\" + \"2\"              // => \"12\"\nQuando os valores dos dois operandos são números ou ambos são strings, é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 397,
+    "totalChunks": 10000
+  }
+}

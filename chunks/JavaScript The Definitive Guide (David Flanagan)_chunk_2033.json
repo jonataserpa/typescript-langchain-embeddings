@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2033",
+  "content": "er implementado em cima desse método.\n15.2.5   Selecionando elementos com seletores CSS\nAs folhas de estilos CSS têm uma sintaxe muito poderosa, conhecida como seletores, para des-\ncrever elementos ou conjuntos de elementos dentro de um documento. Os detalhes completos \nsobre a sintaxe de seletor CSS estão fora dos objetivos deste livro\n1\n, mas alguns exemplos demons-\ntrarão os fundamentos. Os elementos podem ser descritos pela identificação, nome de tag ou \nclasse:\n#nav                   // Um elemento com id=\"nav\"\ndiv                    // Qualquer elemento <div>\n.warning               //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2033,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5663",
+  "content": "do, 638\n    traço padrão e gradiente, 633\ntransbordando conteúdo, elementos rolantes em \ndocumentos, 386\ntransformações\n    método setTransform( ) no canvas, 863\n    sistema de coordenadas do canvas, 624–629, \n852–853\n        entendendo    matematicamente,    626\n        exemplo de transformação, 627\n    sistema de coordenadas no canvas\n        sombras    e,    641\ntransformações afi ns, 626\ntransformações de corte, 627\ntransformações de sistema de coordenadas, 624–\n629, 852–853\nTransforms (CSS), 407–408\ntranslucidez, especifi cando com a propriedade de \nestilo opacity, 417\ntransparência",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5663,
+    "totalChunks": 10000
+  }
+}

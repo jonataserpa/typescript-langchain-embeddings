@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3046",
+  "content": "como alvo, em vez disso a jQuery informa o objeto Element \ncontêiner. currentTarget é o elemento no qual a rotina de tratamento de evento que está em \nexecução foi registrada. Isso sempre deve ser igual a this.\nSe \ncurrentTarget não é igual a target, você está tratando de um evento que borbulhou para \ncima do elemento em que ocorreu e pode ser útil testar o elemento target com o método is() \n(Seção 19.1.2):\n    if ($(event.target).is(\"a\")) return;         // Ignora eventos que começam em links\nrelatedTarget\n é o outro elemento envolvido em eventos de transição, como mouseover e mou-\nseout.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3046,
+    "totalChunks": 10000
+  }
+}

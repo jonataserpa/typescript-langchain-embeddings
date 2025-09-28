@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4970",
+  "content": "onados ou todos os elementos selecionados \nque também correspondem a \nsel, removendo quaisquer dados (incluindo rotinas de trata-\nmento de evento) associados a eles. Note que os elementos removidos não fazem mais parte do \ndocumento, mas ainda são membros do objeto jQuery retornado.\nreplaceAll(alvo)\nInsere os elementos selecionados no documento de modo que substituam cada elemento alvo, \nclonando os elementos selecionados conforme for necessário, caso haja mais de um alvo.\nreplaceWith(conteúdo)\nreplaceWith(f(ind,html):content)\nSubstitui cada elemento selecionado por conteúdo ou chama f como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4970,
+    "totalChunks": 10000
+  }
+}

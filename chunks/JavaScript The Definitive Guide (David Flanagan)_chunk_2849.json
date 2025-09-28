@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2849",
+  "content": "\");\n  \n                var xhr = new XMLHttpRequest();\n                  xhr.open(\"POST\",    url);\n                var body = new FormData();\n                for(var i = 0; i < files.length; i++) body.append(i, files[i]);\n                xhr.upload.onprogress = function(e) {\n                       if    (e.lengthComputable)    {\n                         target.innerHTML = message +\n                               Math.round(e.loaded/e.total*100)    +\n                               \"%    Complete\";\n        }\n      };\n\nCapítulo 18     Scripts HTTP      497\nJavaScript do\n lado do cliente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2849,
+    "totalChunks": 10000
+  }
+}

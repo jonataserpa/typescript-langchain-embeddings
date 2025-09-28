@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1051",
+  "content": "código a seguir demonstra:\n    var scope = \"global\";\n    function constructFunction() {\n        var scope = \"local\";\n        return new Function(\"return scope\");     // Não captura o escopo local!\n }\n    // Esta linha retorna \"global\", pois a função retornada pela\n    // construtora Function() não usa o escopo local.\n    constructFunction()();      // => \"global\"\nÉ melhor pensar na construtora Function() como uma versão de eval() com escopo global (consulte \na Seção 4.12.2) que define novas variáveis e funções em seu próprio escopo privado. Raramente deve \nser necessário usar essa",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1051,
+    "totalChunks": 10000
+  }
+}

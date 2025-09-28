@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1837",
+  "content": "evento em documentos de diferentes servidores. Isso impede que os scripts inspecionem a \nentrada do usuário (como os pressionamentos de tecla que constituem uma entrada de senha) \nem outras páginas. Essa restrição é conhecida como política da mesma origem e está descrita \ncom mais detalhes na próxima seção.\nNote que essa não é uma lista definitiva das restrições de JavaScript do lado do cliente. Diferentes \nnavegadores têm diferentes políticas de segurança e podem implementar diferentes restrições de API. \nAlguns navegadores também podem permitir que as restrições sejam reforçadas ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1837,
+    "totalChunks": 10000
+  }
+}

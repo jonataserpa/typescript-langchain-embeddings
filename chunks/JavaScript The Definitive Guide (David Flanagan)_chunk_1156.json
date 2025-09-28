@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1156",
+  "content": "rador instanceof ou da propriedade constructor para determi-\nnar a classe de um objeto ocorre quando existem vários contextos de execução e, portanto, várias \ncópias das funções construtoras. Essas funções podem ser idênticas, mas são objetos distintos e, \nportanto, não são iguais entre si.\nUma possível solução é usar o nome da função construtora como identificador de classe, em vez da \nprópria função. A construtora \nArray de uma janela não é igual à construtora Array de outra janela, \nmas seus nomes são iguais. Algumas implementações de JavaScript tornam o nome de uma função \ndisponível por",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1156,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5210",
+  "content": "na cache e off-line \npodem usar esse objeto para gerenciar suas atualizações de cache.\nreadonly any dialogArguments\nNos objetos Window criados por showModalDialog(), essa propriedade é o valor argumentos \npassado para showModalDialog(). Em objetos Window normais, essa propriedade não existe. \nConsulte a Seção 14.5 para obter mais informações.\nreadonly Document document\nO objeto Document que descreve o conteúdo dessa janela (consulte Document para ver os detalhes).\nreadonly Event event [somente para o IE]\nNo Internet Explorer, essa propriedade se refere ao objeto Event que descreve o evento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5210,
+    "totalChunks": 10000
+  }
+}

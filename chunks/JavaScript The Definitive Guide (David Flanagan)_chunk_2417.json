@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2417",
+  "content": "-los nem sempre fornece a informação \nesperada. Considere a propriedade\n font-family: ela aceita uma lista separada por vírgulas de famí-\nlias de fonte desejáveis para portabilidade entre plataformas. Quando você consulta a propriedade \nfontFamily de um estilo computado, está simplesmente obtendo o valor do estilo de font-family \nmais específico aplicado ao elemento. Isso pode retornar um valor como “arial,helvetica,sans-serif ”, \nque não informa o tipo de letra que está realmente em uso. Da mesma forma, se um elemento não \nestá posicionado de forma absoluta, tentar consultar sua posição e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2417,
+    "totalChunks": 10000
+  }
+}

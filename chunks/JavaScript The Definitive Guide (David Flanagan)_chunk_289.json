@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_289",
+  "content": "ed tem um método toString() e o resultado \ndesse método normalmente é igual ao retornado pela função String(). Note também que a Tabela \n3-2 mostra um TypeError se você tenta converter null ou undefined em um objeto. A função Ob-\nject() não levanta uma exceção nesse caso: em vez disso, ela simplesmente retorna um objeto vazio \nrecentemente criado.\nCertos operadores de JavaScript fazem conversões de tipo implícitas e às vezes são usados para pro-\npósitos de conversão de tipo. Se um operando do operador \n+ é uma string, ele converte o outro em \numa string. O operador unário + converte seu",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 289,
+    "totalChunks": 10000
+  }
+}

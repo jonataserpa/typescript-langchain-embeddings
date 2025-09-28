@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4864",
+  "content": "nto de eventoChamada quando\nonformchange\nQuando um evento change é disparado em qualquer controle no formulário, o formulário transmite \num evento formchange que não borbulha para todos os seus controles. Os controles podem usar essa \npropriedade de tratamento de evento para detectar alterações em seus controles irmãos.\nonforminput\nQuando um evento input é disparado em qualquer controle no formulário, o formulário transmite \num evento forminput que não borbulha para todos os seus controles. Os controles podem usar essa \npropriedade de tratamento de evento para detectar alterações em seus",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4864,
+    "totalChunks": 10000
+  }
+}

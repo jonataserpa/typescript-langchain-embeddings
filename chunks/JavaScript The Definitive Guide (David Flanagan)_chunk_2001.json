@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2001",
+  "content": "mento e são abordados \nna Seção 15.6.4. O DOM também define tipos pouco utilizados, para representar coisas como de-\nclarações doctype e instruções de processamento XML.\n15.2   Selecionando elementos do documento\nA maioria dos programas JavaScript do lado do cliente funciona manipulando de alguma forma um \nou mais elementos de documento. Quando esses programas começam, podem utilizar a variável \nglobal document para se referirem ao objeto Document. Contudo, para manipular elementos do \ndocumento, eles precisam de algum modo obter ou selecionar os objetos Element que se referem a \nesses",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2001,
+    "totalChunks": 10000
+  }
+}

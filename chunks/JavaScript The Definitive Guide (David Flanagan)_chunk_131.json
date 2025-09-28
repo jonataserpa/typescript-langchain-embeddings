@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_131",
+  "content": "tate == 4 && req.status == 200) {\n            //        Se chegamos até aqui, obtivemos uma resposta HTTP válida e completa\n            var response = req.responseText;    // Resposta HTTP como string\n            var lenders = JSON.parse(response); // Analisa em um array JS\n            // Converte o array de objetos lender em uma string HTML\n            var list = \"\";\n            for(var i = 0; i < lenders.length; i++) {\n                 list += \"<li><a href='\" + lenders[i].url + \"'>\" +\n                  lenders[i].name    +    \"</a>\";\n   }\n            // Exibe o código HTML no elemento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 131,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_315",
+  "content": "o Date\ntypeof (now + 1)      // => \"string\": + converte datas em strings\ntypeof (now – 1)      // => \"number\": – usa conversão de objeto para número\n\nCapítulo 3     Tipos, valores e variáveis      51\nJavaScript básica\nnow == now.toString() // => verdadeiro: conversões de string implícitas e explícitas\nnow > (now -1)        // => verdadeiro: > converte um objeto Date em número\n3.9   Declaração de variável\nAntes de utilizar uma variável em um programa JavaScript, você deve declará-la. As variáveis são \ndeclaradas com a palavra-chave \nvar, como segue:\nvar i;\nvar sum;\nTambém é possível declarar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 315,
+    "totalChunks": 10000
+  }
+}

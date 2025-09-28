@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_116",
+  "content": "m clique.\n-->\n<table>\n  <tr><th>Enter Loan Data:</th>\n    <td></td>\n    <th>Loan Balance, Cumulative Equity, and Interest Payments</th></tr>\n  <tr><td>Amount of the loan ($):</td>\n      <td><input id=\"amount\" onchange=\"calculate();\"></td>\n      <td rowspan=8>\n        <canvas id=\"graph\" width=\"400\" height=\"250\"></canvas></td></tr>\n  <tr><td>Annual interest (%):</td>\n      <td><input id=\"apr\" onchange=\"calculate();\"></td></tr>\n  <tr><td>Repayment period (years):</td>\n      <td><input id=\"years\" onchange=\"calculate();\"></td>\n  <tr><td>Zipcode (to find lenders):</td>\n      <td><input id=\"zipcode\"",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 116,
+    "totalChunks": 10000
+  }
+}

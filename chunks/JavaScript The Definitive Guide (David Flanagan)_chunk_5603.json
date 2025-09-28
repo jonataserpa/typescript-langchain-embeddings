@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5603",
+  "content": "propriedade port\n    objeto Link, 947\n    objeto Location, 334, 949\n    objeto    WorkerLocation,    996\npropriedade ports, objeto MessageEvent, 955\npropriedade position, 409\n    objeto Progress, 967\npropriedade poster, objeto Video, 982\npropriedade prefi x\n    objeto Attr, 846\n    objeto Element, 888–889\npropriedade preload, objeto MediaElement, 604, 951\npropriedade previousSibling, objeto Node, 360–\n361, 961\npropriedade protocol\n    objeto Link, 947\n    objeto Location, 334, 949\n    objeto WebSocket, 698–699, 984\n    objeto    WorkerLocation,    996\npropriedade prototype\n    funções,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5603,
+    "totalChunks": 10000
+  }
+}

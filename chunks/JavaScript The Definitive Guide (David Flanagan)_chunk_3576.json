@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3576",
+  "content": ": os \nvértices do hexágono foram conectados com segmentos de linha movendo-se no sentido horário \nem torno do círculo. Os vértices do quadrado foram conectados no sentido anti-horário. Se o \nquadrado também fosse desenhado no sentido horário, a chamada de \nfill() teria preenchido \nseu interior.\nA regra de contorno diferente de zero\nPara testar se um ponto P está dentro de um caminho usando a regra de contorno diferente de zero, \nimagine uma linha reta desenhada a partir de P, em qualquer direção, até o infinito (ou, de forma mais \nprática, até algum ponto fora da caixa de contorno do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3576,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2036",
+  "content": "elemento com id=\"log\"\nComo você pode ver, os seletores CSS permitem que elementos sejam selecionados de todas as \nmaneiras descritas anteriormente: pela identificação, pelo nome, pelo nome de tag e pelo nome \nda classe. Junto com a padronização de seletores CSS3, outro padrão da W3C, conhecido como \n“API de Seletores” define métodos JavaScript para obter os elementos que coincidem com determi-\nnado seletor\n2\n. O segredo dessa API é o método querySelectorAll() de Document. Ele recebe um \nargumento de string contendo um seletor CSS e retorna um objeto NodeList representando todos \n1\n  Os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2036,
+    "totalChunks": 10000
+  }
+}

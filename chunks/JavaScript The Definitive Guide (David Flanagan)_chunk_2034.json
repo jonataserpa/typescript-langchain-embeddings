@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2034",
+  "content": "Um elemento com id=\"nav\"\ndiv                    // Qualquer elemento <div>\n.warning               // Qualquer elemento com \"warning\" em seu atributo class\nDe forma mais geral, os elementos podem ser selecionados com base em valores de atributo:\np[lang=\"fr\"]           // Um parágrafo escrito em francês: <p lang=\"fr\">\n*[name=\"x\"]            // Qualquer elemento com um atributo name=\"x\"\nEsses seletores básicos podem ser combinados:\nspan.fatal.error       // Qualquer <span> com \"fatal\" e \"error\" em sua classe\nspan[lang=\"fr\"].warning         // Qualquer aviso em francês\nOs seletores também podem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2034,
+    "totalChunks": 10000
+  }
+}

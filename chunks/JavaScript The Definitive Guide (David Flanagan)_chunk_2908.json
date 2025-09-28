@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2908",
+  "content": "xemplo 18-16. Quando \num cliente faz uma requisição GET solicitando o URL “/chat”, ele salva o fluxo de resposta em um \narray e mantém essa conexão aberta. E quando um cliente faz um pedido POST solicitando “/chat”, \nele usa o corpo da requisição como mensagem de bate-papo e o grava, com o prefixo Server-Sent \nEvents “data:”, em cada um dos fluxos de resposta abertos. Se você instalar Node, poderá executar \nesse exemplo de servidor de forma local. Ele recebe na porta 8000; portanto, após iniciar o servidor, \nvocê apontaria seu navegador para http://localhost:8000 para conectar e começar a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2908,
+    "totalChunks": 10000
+  }
+}

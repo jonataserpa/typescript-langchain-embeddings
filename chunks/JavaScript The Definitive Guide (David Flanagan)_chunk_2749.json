@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2749",
+  "content": "mos de transporte para Comet são mais complicados do que para Ajax, mas todos exi-\ngem que o cliente estabeleça (e restabeleça, conforme o necessário) uma conexão com o servidor e \nque o servidor mantenha essa conexão aberta para que possam enviar mensagens assíncronas por ela. \nUm elemento <iframe> oculto pode servir como transporte Comet, por exemplo, caso o servidor \nenvie cada mensagem na forma de um elemento <script> para ser executado no <iframe>. Uma \nestratégia independente de plataforma mais confiável para implementar Comet é fazer com que o \ncliente estabeleça uma conexão com o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2749,
+    "totalChunks": 10000
+  }
+}

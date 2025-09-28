@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3528",
+  "content": "; i++) {\n    // É aqui que a fatia termina\n    var endangle = startangle + angles[i];\n    // Calcula os dois pontos onde nossa fatia intercepta o círculo\n    // Essas fórmulas são escolhidas de modo que um ângulo 0 seja meio-dia\n    // e os ângulos positivos aumentem no sentido horário.\n    var x1 = cx + r * Math.sin(startangle);\n    var y1 = cy – r * Math.cos(startangle);\n    var x2 = cx + r * Math.sin(endangle);\n    var y2 = cy – r * Math.cos(endangle);\n    // Este é um flag para ângulos maiores do que meio círculo\n    // Isso é exigido pelo componente de desenho de arco da SVG\n    var big",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3528,
+    "totalChunks": 10000
+  }
+}

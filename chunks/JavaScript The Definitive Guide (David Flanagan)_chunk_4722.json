@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4722",
+  "content": "sse \nnome de propriedade é enganoso, pois o atributo class frequentemente inclui mais de um \nnome de classe.\nreadonly long clientHeight\nreadonly long clientWidth\nSe esse elemento é o elemento raiz (consulte document.documentElement), essas propriedades \nretornam as dimensões do objeto Window. Essas são as dimensões internas ou da porta de \nvisualização que excluem barras de rolagem e outro “cromo” do navegador. Caso contrário, \nessas propriedades retornam as dimensões do conteúdo do elemento, mais o preenchimento.\nreadonly long clientLeft\nreadonly long clientTop\nEssas propriedades retornam o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4722,
+    "totalChunks": 10000
+  }
+}

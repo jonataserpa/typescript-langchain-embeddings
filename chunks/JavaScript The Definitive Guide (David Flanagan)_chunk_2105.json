@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2105",
+  "content": "constituído. Também é possível alterar um documento no nível dos nós indi-\nviduais. O tipo Document define métodos para criar objetos Element e Text e o tipo Node define \nmétodos para inserir, excluir e substituir nós na árvore. O Exemplo 13-4 demonstrou a criação e a \ninserção de nós e aquele breve exemplo está duplicado aqui:\n// Carrega e executa um script de forma assíncrona a partir de um URL especificado\nfunction loadasync(url) {\n    var head = document.getElementsByTagName(\"head\")[0];  // Localiza <head> do documento\n    var s = document.createElement(\"script\");             // Cria um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2105,
+    "totalChunks": 10000
+  }
+}

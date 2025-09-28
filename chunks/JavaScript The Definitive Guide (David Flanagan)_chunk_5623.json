@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5623",
+  "content": "10, 414\npropriedades de estilo width e height, 410, 414\npropriedades deltaX, deltaY e deltaZ, objeto Event, \n441, 459, 904\npropriedades enumeráveis, 99\n    arrays, enumeração por laço for/each, 267–268\n    método Object.propertyIsEnumerable( ), 806–\n807\n    retornando nomes próprios de propriedade enu-\nmerável, 805–806\npropriedades fi rstChild e lastChild, objeto Node, \n360–361, 960\npropriedades herdadas, 113\npropriedades innerHeight e innerWidth, objeto \nWindow, 986\npropriedades left, right, top e bottom, 382\n    objeto ClientRect, 864\npropriedades naturalHeight e naturalWidth, objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5623,
+    "totalChunks": 10000
+  }
+}

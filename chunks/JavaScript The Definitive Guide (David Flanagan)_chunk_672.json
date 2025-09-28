@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_672",
+  "content": "a lingua-\ngem e \nclass está reservada para uso futuro. Se um objeto tem propriedades cujos nomes são palavras \nreservadas, deve-se usar a notação de colchetes para acessá-las: \no[\"for\"] e o[\"class\"]. ECMAScript \n5 não mantém essa restrição (assim como fazem algumas implementações ECMAScript 3) e permite \nque palavras reservadas venham após o ponto.\nAo usarmos a notação de colchetes, dizemos que a expressão dentro dos colchetes deve ser avaliada \ncomo uma string. Um enunciado mais preciso é que a expressão deve ser avaliada como uma string \nou como um valor que possa ser convertido em uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 672,
+    "totalChunks": 10000
+  }
+}

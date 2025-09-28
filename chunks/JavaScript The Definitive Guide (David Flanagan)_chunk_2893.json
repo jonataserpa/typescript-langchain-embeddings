@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2893",
+  "content": "antes de input\n        input.scrollIntoView();                            // Garante que o elemento input seja \n// visível\n }\n    // Posta as mensagens do usuário no servidor usando XMLHttpRequest\n    input.onchange = function() {                 // Quando o usuário pressiona return\n\n504          Parte II     JavaScript do lado do cliente\n         var msg = nick + \": \" + input.value;      // Nome de usuário mais entrada do usuário\n        var xhr = new XMLHttpRequest();          // Cria novo XHR\n        xhr.open(\"POST\", \"/chat\");              // para postar (com POST) em /chat.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2893,
+    "totalChunks": 10000
+  }
+}

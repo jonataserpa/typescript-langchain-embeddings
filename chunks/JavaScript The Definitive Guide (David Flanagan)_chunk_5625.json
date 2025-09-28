@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5625",
+  "content": "iedades pageXOff set e pageYOff set, objeto \nWindow, 381–382, 987\npropriedades port1 e port2, objeto MessageChannel, \n955\npropriedades privadas, 202\n    simulando campos de instância privada em Java-\nScript, 220\npropriedades próprias, 113\npropriedades right, left, top e bottom, 382\npropriedades screenX e screenY\n    objeto Event, 901\n    objeto    Window,    987\npropriedades scroll, elementos do documento, 385\npropriedades scrollHeight e scrollWidth, objeto Ele-\nment, 889–890\npropriedades scrollLeft e scrollTop, 381–382\n    objeto Element, 889–890\npropriedades shadowOff setX e shadowOff setY,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5625,
+    "totalChunks": 10000
+  }
+}

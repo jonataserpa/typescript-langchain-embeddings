@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4411",
+  "content": "um caractere ou uma substring da string ou para procurar \num caractere ou uma substring. Note que as strings de JavaScript são imutáveis: nenhum dos métodos \ndefinidos pela classe String permite alterar o conteúdo de uma string. Em vez disso, métodos como \nString.toUpperCase() retornam uma string inteiramente nova, sem modificar a original.\nEm ECMAScript 5 e em muitas implementações de JavaScript antes de ES5, as strings se com-\nportam como arrays somente de leitura nos quais cada elemento é uma string de um só caractere. \nPor exemplo, para extrair o terceiro caractere de uma string \ns, você",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4411,
+    "totalChunks": 10000
+  }
+}

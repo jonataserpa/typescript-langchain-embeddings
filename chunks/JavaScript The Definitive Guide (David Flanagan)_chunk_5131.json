@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5131",
+  "content": "presente, o usuário pode selecionar qualquer nú-\nmero de opções na lista. Se esse atributo não está presente, o usuário só pode selecionar uma opção e \nas opções têm um comportamento de botão de opção – selecionar uma anula a seleção da que estava \nselecionada anteriormente.\nEm um elemento Select, as opções podem ser exibidas de duas maneiras distintas. Se o atributo \nsize \ntem um valor maior do que 1 ou se o atributo multiple está presente, elas são exibidas em uma caixa \nde listagem com size linhas de altura na janela do navegador. Se size é menor do que o número \nde opções, a caixa de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5131,
+    "totalChunks": 10000
+  }
+}

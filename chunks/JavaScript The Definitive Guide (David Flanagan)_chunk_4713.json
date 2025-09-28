@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4713",
+  "content": "ropriedade e é o único DOMTokenList que você provavelmente vai usar com \nfrequência. Consulte também DOMSettableTokenList.\n\n886          Parte IV     Referência de JavaScript do lado do cliente\nPropriedades\nreadonly unsigned long length\nUm DOMTokenList é um objeto semelhante a um array; essa propriedade especifica o núme-\nro de símbolos exclusivos que ele contém.\nMétodos\nvoid add(string símbolo)\nSe o DOMTokenList ainda não contém símbolo, o adiciona no fim da lista.\nboolean contains(string símbolo)\nRetorna true se o DOMTokenList contém símbolo ou false, caso contrário.\nstring item(unsigned",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4713,
+    "totalChunks": 10000
+  }
+}

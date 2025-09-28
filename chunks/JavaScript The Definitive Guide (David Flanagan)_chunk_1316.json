@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1316",
+  "content": "on(n) {  // Transforma cada uma em somente para leitura e permanente\n         // Ignora propriedades não configuráveis\n         if (!Object.getOwnPropertyDescriptor(o,n).configurable) return;\n         Object.defineProperty(o, n, { writable: false, configurable: false });\n     });\n         return o;     // Para que possamos continuar usando\n}\n// Transforma as propriedades nomeadas (ou todas) de o em não enumeráveis, se forem \n// configuráveis.\nfunction hideProps(o) {\n     var props = (arguments.length == 1)                    // Se 1 arg\n         ? Object.getOwnPropertyNames(o)",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1316,
+    "totalChunks": 10000
+  }
+}

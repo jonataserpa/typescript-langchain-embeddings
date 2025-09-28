@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2336",
+  "content": "torno (ou \nparcialmente em torno) dele. As propriedades CSS permitem especificar o estilo, a cor e a espessura \nda borda:\nborder: solid black 1px;  /* a borda é desenhada com uma linha cheia, preta, de 1 pixel */\nborder: 3px dotted red;  /* a borda é desenhada em pontos vermelhos de 3 pixels */\nÉ possível especificar a largura, o estilo e a cor da borda usando propriedades CSS individuais e \ntambém é possível especificar a borda individualmente para cada um dos lados de um elemento. \nPara desenhar uma linha embaixo de um elemento, por exemplo, basta especificar sua propriedade \nborder-bottom.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2336,
+    "totalChunks": 10000
+  }
+}

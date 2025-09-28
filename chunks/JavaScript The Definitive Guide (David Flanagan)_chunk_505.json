@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_505",
+  "content": "o interpretador JavaScript executa essas instruções uma após a outra, na ordem em que são \nescritas. Outro modo de “fazer algo acontecer” é alterar essa ordem de execução padrão, sendo que \nJavaScript tem várias instruções ou estruturas de controle que fazem justamente isso:\n •   As condicionais são instruções como \nif e switch que fazem o interpretador JavaScript executar \nou pular outras instruções, dependendo do valor de uma expressão.\n •Laços são instruções como \nwhile e for que executam outras instruções repetidas vezes.\n •Saltos são instruções como \nbreak, return e throw que fazem o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 505,
+    "totalChunks": 10000
+  }
+}

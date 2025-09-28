@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_317",
+  "content": "ecer como parte dos laços for e for/in (apresentados no \nCapítulo 5), permitindo declarar a variável do laço sucintamente como parte da própria sintaxe do \nlaço. Por exemplo:\nfor(var i = 0; i < 10; i++) console.log(i);\nfor(var i = 0, j=10; i < 10; i++,j--) console.log(i*j);\nfor(var p in o) console.log(p);\nSe você está acostumado com linguagens tipadas estaticamente, como C ou Java, terá notado que \nnão existe tipo algum associado às declarações de variável em JavaScript. Uma variável em JavaScript \npode conter um valor de qualquer tipo. Por exemplo, em JavaScript é perfeitamente válido",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 317,
+    "totalChunks": 10000
+  }
+}

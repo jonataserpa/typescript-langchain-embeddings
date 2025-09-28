@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_190",
+  "content": "os sem métodos. Também podem ser classificados como tipos \nmutáveis e imutáveis. Um valor de um tipo mutável pode mudar. Objetos e arrays são mutáveis: um \nprograma JavaScript pode alterar os valores de propriedades do objeto e de elementos de arrays. \nNúmeros, booleanos, \nnull e undefined são imutáveis – nem mesmo faria sentido falar sobre alterar \no valor de um número, por exemplo. As strings podem ser consideradas arrays de caracteres, sendo \nque se poderia esperar que fossem mutáveis. No entanto, em JavaScript as strings são imutáveis: você \npode acessar o texto de determinado índice de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 190,
+    "totalChunks": 10000
+  }
+}

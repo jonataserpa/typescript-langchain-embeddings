@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4670",
+  "content": "mentation\nO objeto DOMImplementation desse documento.\nreadonly string lastModified\nEspecifica a data e hora da modificação mais recente feita no documento. Esse valor vem do \ncabeçalho HTTP Last-Modified, enviado opcionalmente pelo servidor Web.\nreadonly HTMLCollection links\nUm objeto semelhante a um array com todos os hiperlinks no documento. Esse HTMLCol-\nlection contém todos os elementos <a> e <area> com atributos href e não inclui elementos \n<link>. Consulte Link.\nreadonly Location location\nSinônimo de Window.location.\n\n878          Parte IV     Referência de JavaScript do lado do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4670,
+    "totalChunks": 10000
+  }
+}

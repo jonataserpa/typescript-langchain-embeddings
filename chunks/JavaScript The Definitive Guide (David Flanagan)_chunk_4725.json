@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4725",
+  "content": "junto de atributos de dados de um elemento e torna fácil configurá-los e consultá-los.\nO valor dessa propriedade se comporta como um objeto JavaScript normal. Cada propriedade \ndo objeto corresponde a um atributo de dados no elemento. Se o elemento tem um atributo \nchamado \ndata-x, o objeto dataset tem uma propriedade chamada x e dataset.x tem o mesmo \nvalor de \ngetAttribute(\"data-x\").\nConsultar e configurar propriedades do objeto \ndataset consulta e configura os atributos de da-\ndos correspondentes desse elemento. Você pode usar o operador delete para remover atributos \nde dados e pode usar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4725,
+    "totalChunks": 10000
+  }
+}

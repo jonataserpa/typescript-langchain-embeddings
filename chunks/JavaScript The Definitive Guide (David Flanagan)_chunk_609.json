@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_609",
+  "content": "final do bloco\n  //     2) por causa de uma instrução break, continue ou return\n  //     3) com uma exceção que é tratada por uma cláusula catch anterior\n  //     4) com uma exceção não capturada que ainda está se propagando\n}\nNote que a palavra-chave catch é seguida por um identificador entre parênteses. Esse identificador \né como um parâmetro de função. Quando uma exceção é capturada, o valor associado à exceção \n(um objeto Error, por exemplo) é atribuído a esse parâmetro. Ao contrário das variáveis normais, o \nidentificador associado a uma cláusula catch tem escopo de bloco – ele é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 609,
+    "totalChunks": 10000
+  }
+}

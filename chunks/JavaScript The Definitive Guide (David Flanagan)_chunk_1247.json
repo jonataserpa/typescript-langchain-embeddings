@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1247",
+  "content": "/ Se for passado um único objeto semelhante a um array, adiciona seus elementos no\n// conjunto. Caso contrário, adiciona todos os argumentos no conjunto\n    if (arguments.length == 1 && isArrayLike(arguments[0]))\n        this.add.apply(this,    arguments[0]);\n    else if (arguments.length > 0)\n        this.add.apply(this,    arguments);\n}\nDefinir a construtora Set() dessa maneira nos permite listar explicitamente os membros do con-\njunto na chamada da construtora ou passar um array de membros para a construtora. Contudo, a \nconstrutora tem uma infeliz ambiguidade: não podemos utilizá-la para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1247,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_765",
+  "content": "ntes aos nomes de suas construtoras. Os objetos hospedeiros normalmente \ntambém têm atributos classe significativos, embora isso dependa da implementação. Os objetos \ncriados por meio de objetos literais ou de Object.create têm o atributo classe “Object”. Se você \ndefine sua própria função construtora, todos os objetos criados através dela vão ter o atributo \nclasse “Object”: não existe maneira alguma de especificar o atributo classe para suas próprias \nclasses de objetos:\nclassof(null)         // => \"Null\"\nclassof(1)            // => \"Number\"\nclassof(\"\")           // =>",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 765,
+    "totalChunks": 10000
+  }
+}

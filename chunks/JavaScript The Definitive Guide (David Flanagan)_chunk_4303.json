@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4303",
+  "content": "er outros \nvalores como raiz, todas as que estão em uso comum aceitam valores entre 2 e 36.\nConsulte também\nNumber.toExponential(), Number.toFixed(), Number.toLocaleString(), Number.toPrecision()\nNumber.valueOf()\nretorna o valor numérico primitivo Anula Object.valueOf()\nSinopse\nnúmero.valueOf()\nRetorna\nO valor numérico primitivo desse objeto Number. Raramente é necessário chamar esse método \nexplicitamente.\nLança\nTypeError\nSe esse método é chamado em um objeto que não é Number.\n\n      Referência de JavaScript básica      793\nReferência de \nJavaScript básica\nConsulte",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4303,
+    "totalChunks": 10000
+  }
+}

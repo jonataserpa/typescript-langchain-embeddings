@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1604",
+  "content": "xibe o andamento do download. A Figura 12-1 mostra o aplicativo com dois downloads pendentes.\nFigura 12-1 Uma GUI criada com o Rhino.\n\n286          Parte     I     JavaScript     básica\nExemplo 12-1 Um aplicativo gerenciador de downloads com o Rhino\n/*\n * Um aplicativo gerenciador de downloads com uma GUI Java simples\n */\n// Importa os componentes da GUI Swing e algumas outras classes\nimportPackage(javax.swing);\nimportClass(javax.swing.border.EmptyBorder);\nimportClass(java.awt.event.ActionListener);\nimportClass(java.net.URL);\nimportClass(java.io.FileOutputStream);\nimportClass(java.lang.Thread)",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1604,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1225",
+  "content": "Os métodos \nequals() anteriores fazem verificação de tipo em seus argumentos e retornam false \npara indicar desigualdade se o argumento for do tipo errado. O método compareTo() não tem qual-\nquer valor de retorno que indique “esses dois valores não são comparáveis”; portanto, um método \ncompareTo() que faz verificação de tipo normalmente deve lançar um erro quando for passado um \nargumento do tipo errado.\nObserve que o método \ncompareTo() que definimos para a classe Range anterior retorna 0 quando \ndois intervalos têm o mesmo limite inferior. Isso significa que, no que diz respeito a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1225,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_122",
+  "content": "nthly = (principal*x*interest)/(x-1);\n    // Se o resultado é um número finito, a entrada do usuário estava correta e\n    // temos resultados significativos para exibir\n    if (isFinite(monthly)) {\n        // Preenche os campos de saída, arredondando para 2 casas decimais\n        payment.innerHTML = monthly.toFixed(2);\n        total.innerHTML = (monthly * payments).toFixed(2);\n        totalinterest.innerHTML = ((monthly*payments)-principal).toFixed(2);\n        //        Salva a entrada do usuário para que possamos recuperá-la na próxima vez que \n        // ele visitar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 122,
+    "totalChunks": 10000
+  }
+}

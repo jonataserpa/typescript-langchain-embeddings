@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3061",
+  "content": "Parte II     JavaScript do lado do cliente\nmento de evento registradas com bind() e métodos jQuery relacionados. O registro de rotinas de \ntratamento passadas para addEventListener() ou para o método attachEvent() do IE não é anulado \ne as rotinas de tratamento definidas por atributos de elemento como onclick e onmouseover não são \nremovidas.) Sem argumentos, unbind() anula o registro de todas as rotinas de tratamento de evento \n(para todos os tipos de evento) de todos os elementos do objeto jQuery:\n$('*').unbind();  // Remove todas as rotinas de tratamento de evento jQuery de todos os \n//",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3061,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2698",
+  "content": "i inserido\n        // Obtém o caractere ou texto que foi inserido\n        if (e.type === \"textinput\" || e.type === \"textInput\") text = e.data;\n        else {  // Esse era um evento keypress legado\n            // O Firefox usa charCode para eventos key press imprimíveis\n            var code = e.charCode || e.keyCode;\n              // Se esse toque de tecla é uma tecla de função de qualquer tipo, não o filtra\n            if (code < 32 ||           // Caractere de controle ASCII\n                e.charCode == 0 ||     // Tecla de função (somente para Firefox)\n                e.ctrlKey ||",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2698,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2945",
+  "content": "passa um seletor CSS para a função jQuery, ela retorna um objeto jQuery representando \no conjunto de elementos do documento correspondentes a esse seletor. Ao descrever os métodos do \nobjeto jQuery, frequentemente vou usar a frase “os elementos selecionados” para me referir a esses \nelementos correspondentes. Por exemplo, para explicar o método\n attr(), posso escrever “o método \nattr() configura atributos HTML nos elementos selecionados”. Isso vai no lugar de uma descrição \n\n514          Parte II     JavaScript do lado do cliente\n19.1.2   Consultas e resultados de consulta\nQuando se passa uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2945,
+    "totalChunks": 10000
+  }
+}

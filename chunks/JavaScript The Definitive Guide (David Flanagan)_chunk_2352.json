@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2352",
+  "content": "tos\nDuas  propriedades  CSS  afetam  a  visibilidade  de  um  elemento  do  documento:  visibility e \ndisplay. A propriedade visibility é simples: quando é configurada com o valor hidden, o elemen-\nto não é mostrado; quando é configurada com o valor \nvisible, o elemento é mostrado. A pro-\npriedade \ndisplay é mais geral e é utilizada para especificar o tipo de exibição que um item recebe. \nEla especifica se um elemento é um elemento de bloco, um elemento em linha, um item de lista, \netc. No entanto, quando \ndisplay é configurada como none, o elemento afetado não é exibido ou \nmesmo traçado.\nA",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2352,
+    "totalChunks": 10000
+  }
+}

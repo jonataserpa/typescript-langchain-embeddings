@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3302",
+  "content": "de seletor CSS da jQuery! Você pode adicionar novos filtros de pseudoclasse \n(como \n:first e :input) acrescentando propriedades no objeto jQuery.expr[':']. Aqui está um exem-\nplo que define um novo filtro \n:draggable que retorna apenas os elementos que têm um atributo \ndraggable=true:\njQuery.expr[':'].draggable = function(e) { return e.draggable === true; };\nCom  esse  seletor  definido,  podemos  selecionar  imagens  que  podem  ser  arrastadas  com  \n$(\"img:draggable\"), em vez do mais prolixo $(\"img[draggable=true]\").\nComo você pode ver no código anterior, uma função seletora personalizada",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3302,
+    "totalChunks": 10000
+  }
+}

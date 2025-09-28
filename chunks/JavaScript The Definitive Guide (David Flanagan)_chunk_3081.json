@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3081",
+  "content": "ar o \nmétodo submit() desse formulário, e se você disparar um evento focus em um elemento, trigger() \nvai chamar o método focus() desse elemento.\nSe quiser chamar rotinas de tratamento de evento sem executar a ação padrão, use \ntriggerHandler() \nem vez de trigger(). Esse método funciona exatamente como trigger(), exceto que primeiro chama \nos métodos \npreventDefault() e cancelBubble() do objeto Event. Isso significa que o evento synthetic \nnão borbulha nem executa a ação padrão associada a ele.\n\nCapítulo 19     A biblioteca jQuery      535\nJavaScript do\n lado do cliente\n19.4.7   Eventos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3081,
+    "totalChunks": 10000
+  }
+}

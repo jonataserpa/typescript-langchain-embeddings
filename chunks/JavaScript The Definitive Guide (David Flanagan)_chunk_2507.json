@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2507",
+  "content": "Tratando eventos      441\nJavaScript do\n lado do cliente\n17.1.2   Eventos   DOM\nA especificação Level 3 Events do DOM esteve sendo desenvolvida pelo W3C por quase uma \ndécada. Quando este livro estava sendo escrito, estava passando por uma revisão significativa para \nestar de acordo com a realidade dos navegadores modernos e finalmente atingir o estágio de “do-\ncumento de trabalho final” da padronização. Ela padroniza muitos dos eventos legados descritos \nanteriormente e acrescenta alguns novos, descritos aqui. Esses novos tipos de evento ainda não são \nmuito suportados, mas espera-se",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2507,
+    "totalChunks": 10000
+  }
+}

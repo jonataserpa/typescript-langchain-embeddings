@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2169",
+  "content": "as listas de objeto retângulo) retor-\nnados por \ngetBoundingClientRect() e getClientRects() não são dinâmicos. São instantâneos estáticos \ndo estado visual do documento de quando os métodos são chamados. Eles não são atualizados quan-\ndo o usuário rola ou redimensiona a janela do navegador.\n15.8.3   Determinando o elemento em um ponto\nO método getBoundingClientRect() nos permite determinar a posição atual de um elemento em \numa janela de visualização. Às vezes, queremos ir na outra direção e determinar qual elemento \nexiste em determinada posição na janela de visualização. Isso pode ser",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2169,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2229",
+  "content": "pela primeira vez.\nOs elementos botão de ação e caixa de seleção não exibem texto e normalmente são mostrados com \ntexto HTML adjacente (ou com um elemento \n<label> associado). Isso significa que configurar a \npropriedade \nvalue de um elemento caixa de seleção ou botão de ação não altera a aparência visual do \nelemento. É possível configurar \nvalue, mas isso muda apenas a string enviada para o servidor Web \nquando o formulário é submetido.\nQuando o usuário clica em um botão de alternância, o elemento botão de ação ou caixa de seleção \nativa suas rotinas de tratamento \nonclick. Se o botão de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2229,
+    "totalChunks": 10000
+  }
+}

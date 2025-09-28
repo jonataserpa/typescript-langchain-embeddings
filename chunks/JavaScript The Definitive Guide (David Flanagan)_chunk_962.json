@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_962",
+  "content": "uando necessário. \nAssim, se você escreve uma função que espera um argumento de string e então chama essa função \ncom um valor de algum outro tipo, o valor passado é simplesmente convertido em string quando a \nfunção tenta utilizá-lo como string. Todos os tipos primitivos podem ser convertidos em strings e \ntodos os objetos têm métodos \ntoString() (se não outros necessariamente úteis), de modo que nunca \nocorre erro nesse caso.\nContudo, isso nem sempre é verdade. Considere outra vez o método \narraycopy() mostrado an-\nteriormente. Ele espera um array como primeiro argumento. Qualquer",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 962,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5519",
+  "content": "HTTP, XHR2, 497\n    tipo de evento de entrada disparado após inserção \nde texo no elemento, 471\n    transformados em sistemas operacionais simples, \n302\n    URLs javascript:, 308\n    usando JavaScript, 9\n    uso de objetos que podem ser chamados, 186\n    valores de readyState de XMLHttpRequest, 485\n    versões atuais, 319\nnetworkState, objeto MediaElement, 606, 949, 951\nnextElementSibling, objeto Element, 363, 888–889\nnome de janela _blank, 345\nnomes\n    de funções, 160\n    nome de janela, importância do, 345\n    propriedades CSS em JavaScript, 420\nnomes de atributo com hífen, 367\nnomes de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5519,
+    "totalChunks": 10000
+  }
+}

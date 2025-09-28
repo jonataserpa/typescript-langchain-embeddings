@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2134",
+  "content": "ion(elt, html) {\n            elt.insertBefore(fragment(html),    elt.firstChild);\n        },\n        atEnd: function(elt, html) { elt.appendChild(fragment(html)); }\n    };\n    // Agora implementa insertAdjacentHTML com base nas funções anteriores\n    Element.prototype.insertAdjacentHTML = function(pos, html) {\n        switch(pos.toLowerCase())    {\n        case \"beforebegin\": return Insert.before(this, html);\n        case \"afterend\": return Insert.after(this, html);\n        case \"afterbegin\": return Insert.atStart(this, html);\n        case \"beforeend\": return Insert.atEnd(this, html);\n  }",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2134,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3023",
+  "content": "argumentos e remove \ntodos os elementos do objeto jQuery. Contudo, se você passa um argumento, esse argumento é tra-\ntado como seletor e são removidos somente os elementos do objeto jQuery que também coincidem \ncom o seletor. (Se quiser apenas remover elementos do conjunto de elementos selecionados, sem \nremovê-los do documento, use o método \nfilter(), que é abordado na Seção 19.8.2.) Note que não é \nnecessário remover elementos antes de reinseri-los no documento: você pode simplesmente inseri-los \nem um novo local e eles serão movidos.\nO método \nremove() remove todas as rotinas de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3023,
+    "totalChunks": 10000
+  }
+}

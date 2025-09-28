@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2046",
+  "content": "percorrê-los\nApós ter selecionado um Element de um Document, às vezes você precisa encontrar partes estru-\nturalmente relacionadas (pai, irmãos, filhos) do documento. Um Document pode ser conceituado \ncomo uma árvore de objetos Node, como ilustrado na Figura 15-1. O tipo Node define proprieda-\ndes para percorrer essa árvore, o que vamos abordar na Seção 15.3.1. Outra API permite percorrer \ndocumentos como árvores de objetos Element. A Seção 15.3.2 aborda essa API mais recente (e \nfrequentemente mais fácil de usar).\n15.3.1   Documentos como árvores de Nodes\nO objeto Document, seus objetos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2046,
+    "totalChunks": 10000
+  }
+}

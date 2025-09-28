@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4258",
+  "content": "nd()\nArredonda para o inteiro mais próximo.\nMath.sin()\nCalcula um seno.\nMath.sqrt()\nCalcula uma raiz quadrada.\nMath.tan()\nCalcula uma tangente.\nDescrição\nMath é um objeto que define propriedades que se referem a funções e constantes matemáticas úteis. \nEssas funções e constantes são chamadas com sintaxe como segue:\ny = Math.sin(x);\narea = radius * radius * Math.PI;\nMath não é uma classe de objetos, como Date e String. Não existe uma construtora Math() e funções \ncomo Math.sin() são apenas funções e não métodos que operam em um objeto.\nConsulte também\nNumber\nMath.abs()\ncalcula um valor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4258,
+    "totalChunks": 10000
+  }
+}

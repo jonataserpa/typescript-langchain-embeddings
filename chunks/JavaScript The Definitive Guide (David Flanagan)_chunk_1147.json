@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1147",
+  "content": "ndo-se código como a função classof() do Exemplo 6-4. Mas quan-\ndo definimos nossas próprias classes usando as técnicas mostradas neste capítulo, os objetos instância \nsempre têm o atributo classe “Objeto”, de modo que a função classof() não ajuda aqui.\n\n204          Parte     I     JavaScript     básica\nAs subseções a seguir explicam três técnicas para determinar a classe de um objeto arbitrário: o ope-\nrador instanceof, a propriedade constructor e o nome da função construtora. Entretanto, nenhuma \ndessas técnicas é inteiramente satisfatória. Assim, a seção termina com uma discussão sobre",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1147,
+    "totalChunks": 10000
+  }
+}

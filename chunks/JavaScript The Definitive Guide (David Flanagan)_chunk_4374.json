@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4374",
+  "content": "epresentando a raiz (isto é, a base) do número a ser analisado. \nSe esse argumento é omitido ou é 0, o número é analisado na base 10 – ou na base 16, caso \ncomece com 0x ou 0X. Se esse argumento é menor do que 2 ou maior do que 36, parseInt() \nretorna NaN.\n\n812          Parte III     Referência de JavaScript básica\nRetorna\nO número analisado ou \nNaN, caso s não comece com um inteiro válido. Em JavaScript 1.0, parseInt() \nretorna 0, em vez de NaN, quando não consegue analisar s.\nDescrição\nparseInt() analisa e retorna o primeiro número (com um sinal de subtração opcional à esquerda) \nque ocorre",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4374,
+    "totalChunks": 10000
+  }
+}

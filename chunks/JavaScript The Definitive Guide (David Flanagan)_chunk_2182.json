@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2182",
+  "content": "– essa função getElementPosition() nem sempre calcula os valores \ncorretos. Vamos ver a seguir como corrigimos isso.\nAlém da configuração de propriedades \noffset, todos os elementos do documento definem dois \noutros conjuntos de propriedades, um dos quais cujos nomes começam com client e outro cujos \nnomes começam com scroll. Isto é, todo elemento HTML tem todas as seguintes propriedades:\noffsetWidth      clientWidth     scrollWidth\noffsetHeight     clientHeight    scrollHeight\noffsetLeft       clientLeft      scrollLeft\noffsetTop        clientTop       scrollTop\noffsetParent\nPara entender",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2182,
+    "totalChunks": 10000
+  }
+}

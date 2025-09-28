@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1506",
+  "content": "são em seu código, que será avaliada com o valor atribuído a ela. Na atribuição de \ndesestruturação, dissemos que o lado esquerdo usa uma sintaxe como a do array literal ou do objeto \nliteral. Mas note que, depois de feita a atribuição de desestruturação, o código semelhante a um \narray literal ou a um objeto literal do lado esquerdo vai funcionar como um array literal ou objeto li-\nteral válido em qualquer lugar de seu código: todas as variáveis necessárias foram definidas, de modo \nque pode-se recortar e colar o texto à esquerda do sinal de igualdade e utilizá-lo como um array ou \nvalor de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1506,
+    "totalChunks": 10000
+  }
+}

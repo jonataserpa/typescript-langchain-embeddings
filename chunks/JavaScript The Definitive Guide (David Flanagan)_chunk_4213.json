@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4213",
+  "content": "como método\nSinopse\nfunção.bind(o)\nfunção.bind(o, args...)\nArgumentos\no\nO objeto ao qual essa função deve estar vinculada.\nargs...\nZero ou mais valores de argumento que também estarão vinculados.\nRetorna\nUma nova função que chama essa como método de \no e passa a ela os argumentos args.\nDescrição\nO método bind() retorna uma nova função que chama essa como método do objeto o. Os argu-\nmentos passados para essa função consistem nos args passados para bind(), seguidos por quaisquer \nvalores passados para a nova função.\nExemplo\nSuponha que f seja uma função e que chamemos o método bind() como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4213,
+    "totalChunks": 10000
+  }
+}

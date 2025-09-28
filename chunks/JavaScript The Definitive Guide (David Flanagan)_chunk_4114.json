@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4114",
+  "content": "dia da semana?\nvar weekend = (dayOfWeek == 0) || (dayOfWeek == 6); // É um fim de semana?\nOutro uso comum do objeto Date é na subtração das representações de milissegundos da hora atual \nde alguma outra hora para determinar a diferença entre as duas. O exemplo do lado do cliente a \nseguir mostra dois usos assim:\n<script language=\"JavaScript\">\ntoday = new Date();             // Toma nota da data de hoje\nchristmas = new Date();         // Obtém uma data com o ano atual\nchristmas.setMonth(11);         // Configura o mês como dezembro...\nchristmas.setDate(25);          // e o dia como o 25º\n//",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4114,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_433",
+  "content": "o; \ncaso contrário, é avaliado como false.\nOs operandos desses operadores de comparação podem ser de qualquer tipo. Contudo, a compara-\nção só pode ser feita com números e strings; portanto, os operandos que não são números ou strings \nsão convertidos. A comparação e a conversão ocorrem como segue:\n •   Se um ou outro operando é avaliado como um objeto, esse objeto é convertido em um valor \nprimitivo, conforme descrito no final da Seção 3.8.3: se seu método \nvalueOf() retorna um \nvalor primitivo, esse valor é usado. Caso contrário, é usado o valor de retorno de seu método \ntoString().\n •",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 433,
+    "totalChunks": 10000
+  }
+}

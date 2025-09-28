@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2384",
+  "content": "S \nfloat de um elemento, use a propriedade \ncssFloat do objeto CSSStyleDeclaration.\n\nCapítulo 16     Escrevendo script de CSS      421\nJavaScript do\n lado do cliente\nescrever o texto de um elemento e grande, em negrito e azul, por exemplo, você pode usar o código \na seguir para configurar as propriedades JavaScript correspondentes às propriedades de estilo font-\n-size font-weight e color:\ne.style.fontSize = \"24pt\";\ne.style.fontWeight = \"bold\";\ne.style.color = \"blue\";\nQuando trabalhar com as propriedades de estilo do objeto CSSStyleDeclaration, lembre-se de que \ntodos os valores devem ser",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2384,
+    "totalChunks": 10000
+  }
+}

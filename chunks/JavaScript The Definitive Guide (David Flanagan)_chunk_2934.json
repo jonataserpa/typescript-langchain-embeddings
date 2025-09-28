@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2934",
+  "content": ". Quando \nchamada desse modo, ela simplesmente empacota o elemento, documento ou janela em um objeto \njQuery e retorna esse objeto. Fazer isso permite que você use métodos jQuery para manipular o \nelemento, em vez de usar métodos DOM brutos. É comum ver programas jQuery chamar $(docu-\nment) ou $(this), por exemplo. Os objetos jQuery podem representar mais de um elemento em um \ndocumento e você também pode passar um array de elementos para $(). Nesse caso, o objeto jQuery \nretornado representa o conjunto de elementos de seu array.\nO terceiro modo de chamar $() é passar uma string de texto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2934,
+    "totalChunks": 10000
+  }
+}

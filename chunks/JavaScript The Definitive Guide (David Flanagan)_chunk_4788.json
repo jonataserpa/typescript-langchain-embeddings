@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4788",
+  "content": "oordena a \noperação de arrastar e soltar inteira. Os eventos arrastar e soltar são um tipo de evento de mou-\nse; qualquer evento que tenha essa propriedade configurada também terá clientX, clientY e \noutras propriedades de evento de mouse. Os eventos arrastar e soltar são dragstart; drag e drag \nend, na origem do arrasto; e dragenter, dragover, dragleave e drop no alvo da soltura. Consulte \nDataTransfer e a Seção 17.7 para ver os detalhes sobre as operações de arrastar e soltar.\nreadonly boolean defaultPrevented*\ntrue se defaultPrevented() foi chamado nesse evento ou false, caso contrário.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4788,
+    "totalChunks": 10000
+  }
+}

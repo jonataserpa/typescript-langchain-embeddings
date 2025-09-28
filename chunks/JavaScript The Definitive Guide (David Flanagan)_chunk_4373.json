@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4373",
+  "content": "ere em s que não é uma parte válida do número. \nSe s não começa com um número que parseFloat() possa analisar, a função retorna o valor not-a-\n-number NaN. Teste esse valor de retorno com a função isNaN(). Se quiser analisar somente a parte \ninteira de um número, use parseInt(), em vez de parseFloat().\nConsulte também\nisNaN(), parseInt()\nparseInt()\nconverte uma string em um inteiro\nSinopse\nparseInt(s)\nparseInt(s, raiz)\nArgumentos\ns\nA string a ser analisada.\nraiz\nUm argumento inteiro opcional representando a raiz (isto é, a base) do número a ser analisado. \nSe esse argumento é omitido ou é 0,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4373,
+    "totalChunks": 10000
+  }
+}

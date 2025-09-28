@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2301",
+  "content": "pecificar a borda de cada lado separadamente. Na verdade, cada uma dessas propriedades é um \natalho. Em vez de especificar border-top, você pode especificar border-topcolor, border-top-style \ne border-top-width.\n16.1.4   Propriedades não padronizadas\nQuando os fornecedores de navegador implementam propriedades CSS não padronizadas, eles pre-\nfixam os nomes das propriedades com uma string específica. O Firefox usa moz-, o Chrome usa -we-\nbkit- e o IE usa -ms-. Os fornecedores de navegador fazem isso mesmo ao implementarem proprie-\ndades que estão destinadas a uma futura padronização. Um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2301,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2074",
+  "content": "número, booleano ou objeto. Segundo, esses métodos utilizam nomes de \natributo padrão, mesmo quando esses nomes são palavras reservadas em JavaScript. Para elementos \nHTML, os nomes de atributo não diferenciam letras maiúsculas e minúsculas.\nElement também define dois métodos relacionados, \nhasAttribute() e removeAttribute(), o primeiro \ndos quais verifica a presença de um atributo nomeado e o outro remove um atributo inteiramente. \nEsses métodos são especialmente úteis com atributos booleanos: esses são atributos (como o atributo \ndisabled de elementos de formulário HTML) cuja presença ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2074,
+    "totalChunks": 10000
+  }
+}

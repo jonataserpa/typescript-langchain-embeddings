@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3206",
+  "content": "nção \ndataFilter é chamada antes da análise de JSON ou da \n\nCapítulo 19     A biblioteca jQuery      555\nJavaScript do\n lado do cliente\nexecução do script. Note também que dataFilter não é chamada para requisições “script” e \n“jsonp” de várias origens.\njsonp\nQuando a opção dataType é configurada como “jsonp”, a opção url ou data normalmente in-\nclui um parâmetro como “jsonp=?”. Se a jQuery não encontra esse parâmetro no URL ou nos \ndados, ela insere um, usando esta opção como nome do parâmetro. O valor padrão desta op-\nção é “callback”. Configure essa opção se estiver usando JSONP com um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3206,
+    "totalChunks": 10000
+  }
+}

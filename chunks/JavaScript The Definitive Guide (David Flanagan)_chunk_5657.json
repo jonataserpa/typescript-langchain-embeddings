@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5657",
+  "content": "992\ntimers, 333–334\n    função utilitária para (exemplo), 333\n    funções timer do lado do cliente implementadas \npor Node, 289\n    métodos disponíveis para o objeto WorkerGlo-\nbalScope, 668\n    semelhança com eventos, 437\n    usando em scripts em linha de animação CSS, \n422–424\ntipagem de pato, 207\ntipo (nome de tag), selecionando elementos HTML \nou XML pelo, 356\ntipo de evento, 433\ntipos (consulte tipos de dados)\ntipos de dados, 4, 28–55\n    argumento de função, 169\n    booleanos,    39\n    classes e, 204\n        determinando a classe de um objeto com a pro-\npriedade constructor, 205",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5657,
+    "totalChunks": 10000
+  }
+}

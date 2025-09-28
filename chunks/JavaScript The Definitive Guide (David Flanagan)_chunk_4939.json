@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4939",
+  "content": "em atributo com valor val\n[attr^=val]  o atributo começa com val\n[attr$=val]  o atributo termina com val\n[attr*=val]  o atributo inclui val\n[attr~=val]  o atributo inclui val como palavra\n[attr|=val]  o atributo começa com val e um hífen opcional\nFiltros de tipo de elemento\n:button       :header   :password  :submit\n:checkbox    :image    :radio     :text\n:file       :input   :reset\n\n      Referência de JavaScript do lado do cliente      931\nReferência de \nJavaScript do lado \ndo cliente\nFiltros de estado de elemento\n:animated    :disabled    :hidden        :visible\n:checked     :enabled",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4939,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2969",
+  "content": "as propriedades JavaScript equivalentes \n(quando elas diferem). Por exemplo, você pode usar “for” ou “htmlFor” e “class” ou “className”. \nremoveAttr() é uma função relacionada que remove completamente um atributo de todos os elemen-\ntos selecionados. Aqui estão alguns exemplos:\n$(\"form\").attr(\"action\");              // Consulta o atributo action do 1º form\n$(\"#icon\").attr(\"src\", \"icon.gif\");     // Configura o atributo src\n$(\"#banner\").attr({src:\"banner.gif\",    // Configura 4 atributos simultaneamente\n                          alt:\"Advertisement\",\n                  width:720,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2969,
+    "totalChunks": 10000
+  }
+}

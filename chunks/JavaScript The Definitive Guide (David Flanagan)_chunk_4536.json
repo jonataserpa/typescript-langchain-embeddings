@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4536",
+  "content": "os detalhes.) Um elemento <canvas> ou um elemento <video> também podem ser \nusados como fonte de uma imagem.\nUma imagem pode ser desenhada em um canvas com o método \ndrawImage(), o qual, em sua forma \nmais geral, permite que uma região retangular arbitrária da imagem de origem tenha a escala muda-\nda e seja renderizada no canvas.\nDesenhando texto\nO método fillText() desenha texto e o método strokeText() desenha texto com contorno. A pro-\npriedade font especifica a fonte a ser usada; o valor dessa propriedade deve ser uma string de es-\npecificação de fonte CSS. A propriedade textAlign",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4536,
+    "totalChunks": 10000
+  }
+}

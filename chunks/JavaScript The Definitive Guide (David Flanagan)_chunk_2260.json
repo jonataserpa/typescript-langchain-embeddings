@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2260",
+  "content": "eito com uma função como a seguinte:\nfunction getSelectedText() {\n    if (window.getSelection)        // A API HTML5 padrão\n        return    window.getSelection().toString();\n    else if (document.selection)    // Esta é a técnica específica do IE.\n        return    document.selection.createRange().text;\n}\n\n398          Parte II     JavaScript do lado do cliente\nO método window.getSelection() padrão retorna um objeto Selection que descreve a seleção atual \ncomo uma sequência de um ou mais objetos Range. Selection e Range definem uma API bastante \ncomplexa que não costuma ser usada e não está",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2260,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2109",
+  "content": "zer apenas uma cópia rasa. Nos navegadores (me-\nnos o IE), o objeto Document também define um método semelhante, chamado importNode(). Se \nvocê passa para ele um nó de outro documento, ele retorna uma cópia conveniente para inserção \nnesse documento. Passe true como segundo argumento para importar recursivamente todos os \ndescendentes.\n\nCapítulo 15     Escrevendo script de documentos      373\nJavaScript do\n lado do cliente\n15.6.2   Inserindo   nós\nUma vez que você tenha um novo nó, pode inseri-lo no documento com os métodos appendChild() \nou insertBefore() de Node. appendChild() é chamado no",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2109,
+    "totalChunks": 10000
+  }
+}

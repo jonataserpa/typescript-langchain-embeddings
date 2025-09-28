@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1999",
+  "content": "es espelhamento da sintaxe HTML. Essas classes e seus recursos adicionais \nsão abordados na seção de referência.\nPor fim, note que a Figura 15-2 mostra alguns tipos de nó que não foram mencionados até agora. Os \nnós Comment representam comentários HTML ou XML. Como os comentários são basicamente \n\n354          Parte II     JavaScript do lado do cliente\nstrings de texto, esses nós são muito parecidos com os nós Text que representam o texto exibido de \num documento. CharacterData, o ascendente comum de Text e de Comment, define métodos com-\npartilhados pelos dois nós. O tipo de nó Attr",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1999,
+    "totalChunks": 10000
+  }
+}

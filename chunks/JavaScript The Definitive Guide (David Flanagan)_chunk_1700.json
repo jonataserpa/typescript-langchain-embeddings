@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1700",
+  "content": "rcações <script> ou qualquer outro código \nHTML. Por convenção, os arquivos de código JavaScript têm nomes que terminam com .js.\nUma marcação \n<script> com o atributo src especificado se comporta exatamente como se o con-\nteúdo do arquivo JavaScript especificado aparecesse diretamente entre as marcações <script> e </\nscript>.  Note  que  a  marcação  de  fechamento  </script> é  obrigatória  em  documentos  HTML,  \nmesmo quando o atributo src é especificado, e que não há qualquer conteúdo entre as marcações \n<script> e </script>. Em XHTML, pode-se usar a marcação de atalho <script/> nesse",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1700,
+    "totalChunks": 10000
+  }
+}

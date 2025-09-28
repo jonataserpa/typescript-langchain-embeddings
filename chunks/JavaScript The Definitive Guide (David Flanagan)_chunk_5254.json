@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5254",
+  "content": "pertence a outro worker, cancelar um evento error \nimpede que ele seja propagado para o worker pai. Se esse objeto Worker já está na thread prin-\ncipal, cancelar o evento pode impedir que ele seja exibido na console JavaScript.\nonmessage\nQuando o script que o worker está executando chama sua função global postMessage() (con-\nsulte WorkerGlobalScope), um evento message é disparado no objeto Worker. O objeto passado \npara a rotina de tratamento de evento é um MessageEvent e sua propriedade data contém um \nclone do valor que o script do worker passou para postMessage().\nWorkerGlobalScope",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5254,
+    "totalChunks": 10000
+  }
+}

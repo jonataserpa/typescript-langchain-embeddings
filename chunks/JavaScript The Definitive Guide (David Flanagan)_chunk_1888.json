@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1888",
+  "content": "objeto Window      335\nJavaScript do\n lado do cliente\nExemplo 14-2 Extraindo argumentos da string de pesquisa de um URL\n/*\n * Esta função analisa pares de argumento nome=valor separados da string de consulta do URL\n * por um E comercial. Ela armazena os pares nome=valor em\n * propriedades de um objeto e retorna esse objeto. Utilize-a como segue:\n *\n * var args = urlArgs();        // Analisa args do URL\n * var q = args.q || \"\";         // Usa o argumento, se definido, ou um valor padrão\n * var n = args.n ? parseInt(args.n) : 10;\n */\nfunction urlArgs() {\n    var args = {};                    //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1888,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2909",
+  "content": "iciar o servidor, \nvocê apontaria seu navegador para http://localhost:8000 para conectar e começar a bater papo \nconsigo mesmo.\nExemplo 18-17 Um servidor de chat dos eventos Server-Sent personalizado\n// Isto é JavaScript do lado do servidor para execução com NodeJS.\n// Implementa uma sala de chat muito simples e completamente anônima.\n// Posta (com POST) novas mensagens em /chat ou obtém (com GET) um fluxo de texto/eventos\n// de mensagens\n// do mesmo URL. Fazer uma requisição GET para / retorna um arquivo HTML simples\n// contendo a interface com o usuário de chat do lado do cliente.\nvar http",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2909,
+    "totalChunks": 10000
+  }
+}

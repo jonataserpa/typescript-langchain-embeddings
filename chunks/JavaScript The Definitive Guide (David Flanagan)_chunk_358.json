@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_358",
+  "content": "também podem ser definidas com uma instrução de função, em vez de uma expressão de função. \nDetalhes completos sobre definição de função aparecem no Capítulo 8.\n4.4   Expressões de acesso à propriedade\nUma expressão de acesso à propriedade é avaliada com o valor de uma propriedade de objeto ou de \num elemento de array. JavaScript define duas sintaxes para acesso à propriedade:\nexpressão . identificador\nexpressão [ expressão ]\nO primeiro estilo de acesso à propriedade é uma expressão seguida de um ponto-final e um identi-\nficador. A expressão especifica o objeto e o identificador especifica o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 358,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3949",
+  "content": "age descrita na Seção 20.1 pode ser considerada um tipo especialmente simples de \nbanco de dados que persiste pares chave/valor simples. Mas, além disso, existem duas APIs de banco \nde dados do lado do cliente que são bancos de dados “reais”. Uma delas, conhecida como Web SQL \nDatabase, é um banco de dados relacional simples que suporta consultas SQL básicas. O Chrome, \no Safari e o Opera implementaram essa API, mas o Firefox e o IE, não – e provavelmente nunca vão \nimplementar. O trabalho na especificação oficial dessa API parou e esse banco de dados SQL com-\npleto provavelmente nunca vai se",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3949,
+    "totalChunks": 10000
+  }
+}

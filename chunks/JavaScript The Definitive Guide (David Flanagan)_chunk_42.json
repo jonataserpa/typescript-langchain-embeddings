@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_42",
+  "content": "0\n19.2   Métodos getter e setter da jQuery 517\n19.3   Alterando a estrutura de documentos 523\n19.4   Tratando eventos com jQuery 526\n19.5   Efeitos   animados   537\n19.6   Ajax com jQuery 544\n19.7   Funções   utilitárias   557\n19.8   Seletores jQuery e métodos de seleção 560\n19.9   Estendendo a jQuery com plug-ins 568\n19.10   A biblioteca jQuery UI 571\n  20 Armazenamento no lado do cliente .............................................................................. 573\n20.1   localStorage   e   sessionStorage   575\n20.2   Cookies   579\n20.3   Persistência de userData do IE 585\n20.4",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 42,
+    "totalChunks": 10000
+  }
+}

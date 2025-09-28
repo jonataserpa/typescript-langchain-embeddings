@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3835",
+  "content": "Note que o código do Exemplo 22-7 pode processar qualquer quantidade de imagens enviadas a \nele. Por simplicidade, contudo, o Exemplo 22-6 cria um novo objeto Worker para cada imagem que \nprocessa. Para garantir que o worker não fique apenas esperando mensagens, ele elimina a thread \ncom terminate() ao terminar.\nDepurando workers\nUma das APIs não disponíveis (pelo menos quando escrevi isto) em WorkerGlobalScope é a API console e \nsua valiosa função \nconsole.log(). As threads worker não podem registrar saída e interagir com o docu-\nmento; portanto, podem ser difíceis de depurar. Se um worker",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3835,
+    "totalChunks": 10000
+  }
+}

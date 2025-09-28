@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3310",
+  "content": "s widgets e as interações da jQuery UI são estruturados como plug-ins jQuery e cada um deles \ndefine um único método jQuery. Normalmente, quando você chama esse método em um elemento \nexistente no documento, ele transforma esse elemento no widget. Por exemplo, para alterar um cam-\npo de entrada de texto de modo que ele apresente um widget selecionador de datas quando clicado \nou quando receber o foco, basta chamar o método \ndatepicker() com código como este:\n\n572          Parte II     JavaScript do lado do cliente\n// Transforma elementos <input> com class=\"date\" em widgets selecionadores de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3310,
+    "totalChunks": 10000
+  }
+}

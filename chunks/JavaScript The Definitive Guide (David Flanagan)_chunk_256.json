@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_256",
+  "content": "-\nrém, existe um valor de objeto muito importante que precisamos abordar agora. O objeto global é um \nobjeto normal de JavaScript que tem um objetivo muito importante: as propriedades desse objeto \nsão os símbolos definidos globalmente que estão disponíveis para um programa JavaScript. Quando \no interpretador JavaScript começa (ou quando um navegador Web carrega uma nova página), ele \ncria um novo objeto global e dá a ele um conjunto inicial de propriedades que define:\n •   propriedades globais, como \nundefined, Infinity e NaN\n •   funções globais, como isNaN(), parseInt() (Seção 3.8.2) e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 256,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5150",
+  "content": "tá presente no elemento <style> e false, \ncaso contrário. Quando este livro estava sendo escrito, os navegadores não suportavam folhas \nde estilo com escopo.\nreadonly CSSStyleSheet sheet\nO CSSStyleSheet definido por esse elemento <style>.\nstring title\nTodos os elementos HTML permitem um atributo title. Configurar esse atributos ou pro-\npriedade em um elemento <style> pode permitir que o usuário selecione a folha de estilo \n(como uma folha de estilo alternativa) pelo título, sendo que o título especificado pode apare-\ncer de alguma maneira dentro da interface do usuário do navegador Web.\n\n974",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5150,
+    "totalChunks": 10000
+  }
+}

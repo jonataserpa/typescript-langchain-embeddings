@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3661",
+  "content": "Parte II     JavaScript do lado do cliente\n21.4.10   Recorte\nApós definir um caminho, você normalmente chama stroke() ou fill() (ou ambos). Você também \npode chamar o método clip() para definir uma região de recorte. Uma vez definida uma região de re-\ncorte, nada será desenhado fora dela. A Figura 21-13 mostra um desenho complexo produzido usando-\n-se regiões de recorte. A faixa vertical do meio e o texto ao longo da parte inferior da figura foram tra-\nçados sem região de recorte e então preenchidos depois que a região de recorte triangular foi definida.\nFigura 21-13 Traços não",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3661,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2181",
+  "content": "ementPosition(e) {\n    var x = 0, y = 0;\n    while(e != null) {\n        x += e.offsetLeft;\n        y += e.offsetTop;\n        e = e.offsetParent;\n }\n    return {x:x, y:y};\n}\nIterando pelo encadeamento de offsetParent e acumulando deslocamentos, essa função calcula as \ncoordenadas do documento do elemento especificado. (Lembre-se de que getBoundingClientRect() \nretorna, em vez disso, coordenadas da janela de visualização.) Contudo, essa não é a palavra final so-\nbre posicionamento de elementos – essa função getElementPosition() nem sempre calcula os valores \ncorretos. Vamos ver a seguir como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2181,
+    "totalChunks": 10000
+  }
+}

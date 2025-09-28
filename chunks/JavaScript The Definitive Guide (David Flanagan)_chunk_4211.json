@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4211",
+  "content": "todo padrão Object.toString() em um objeto que\n// o anula com sua própria versão. Observe que não há argumentos.\nObject.prototype.toString.apply(o);\n// Chama o método Math.max() com apply para encontrar o maior\n// elemento em um array. Note que o primeiro argumento não importa\n// nesse caso.\nvar data = [1,2,3,4,5,6,7,8];\nMath.max.apply(null, data);\nConsulte também\nFunction.call()\nFunction.arguments[] desaprovado\nargumentos passados para uma função\nSinopse\nfunção.arguments[i]\nfunção.arguments.length\n\n762          Parte III     Referência de JavaScript básica\nDescrição\nA propriedade arguments",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4211,
+    "totalChunks": 10000
+  }
+}

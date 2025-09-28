@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3935",
+  "content": "função quando criado\n                     // Por padrão, um writer começa no início do arquivo.\n                     // Queremos começar a gravar no final do arquivo\n                       writer.seek(writer.length);      // Move para o final do arquivo\n                     // Converte o conteúdo do arquivo em um Blob. O argumento contents\n                     // pode ser uma string, um Blob ou um ArrayBuffer.\n                     var bb = new BlobBuilder()\n                       bb.append(contents);\n                     var blob = bb.getBlob();\n                     // Agora grava o blob no",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3935,
+    "totalChunks": 10000
+  }
+}

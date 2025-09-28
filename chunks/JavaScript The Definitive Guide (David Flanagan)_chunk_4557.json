@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4557",
+  "content": "a nunca \ndeve ser mais longa do que 5 vezes a largura da linha. Se uma cunha formada por duas linhas \nfor maior do que o máximo permitido por miterLimit, essas duas linhas serão unidas com um \nchanfro, em vez de cunha.\ndouble shadowBlur\nEspecifica a quantidade de borramento que as sombras devem ter. O padrão é 0, o qual produz \nsombras com bordas nítidas. Valores maiores produzem borramentos maiores, mas note que as \nunidades não são medidas em pixels e não são afetadas pela transformação atual.\nstring shadowColor\nEspecifica a cor das sombras como uma string de cor CSS. O padrão é preto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4557,
+    "totalChunks": 10000
+  }
+}

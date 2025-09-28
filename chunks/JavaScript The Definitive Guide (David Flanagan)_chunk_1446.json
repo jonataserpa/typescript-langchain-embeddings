@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1446",
+  "content": ".\nAo contrário do método\n match(), exec() retorna o mesmo tipo de array, tenha a expressão regular o \nflag global \ng ou não. Lembre-se de que match() retorna um array de correspondências quando é pas-\nsada uma expressão regular global. exec(), em contraste, sempre retorna uma única correspondência \ne fornece informações completas sobre essa correspondência. Quando exec() é chamado em uma \nexpressão regular que tem o flag g, ele configura a propriedade lastIndex do objeto expressão regular \ncom a posição do caractere imediatamente após a substring coincidente. Quando exec() é chamado \numa",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1446,
+    "totalChunks": 10000
+  }
+}

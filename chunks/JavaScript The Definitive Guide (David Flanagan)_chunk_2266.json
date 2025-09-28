@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2266",
+  "content": "links.\nExistem duas maneiras de habilitar essa funcionalidade de edição. Configurar o atributo HTML \ncontenteditable de qualquer tag ou configurar a propriedade JavaScript contenteditable no objeto \nElement correspondente para tornar possível editar o conteúdo desse elemento. Quando o usuário \n\nCapítulo 15     Escrevendo script de documentos      399\nJavaScript do\n lado do cliente\nclicar no conteúdo dentro desse elemento, vai aparecer um cursor de inserção e os toques de tecla \nserão inseridos. Aqui está um elemento HTML que cria uma região que pode ser editada:\n<div id=\"editor\"",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2266,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3738",
+  "content": "ção para fazer img\n    // exibir um mapa de onde estamos e, então, retorna a imagem.\n    var image = document.createElement(\"img\");\n    navigator.geolocation.getCurrentPosition(setMapURL);\n    return    image;\n    // Esta função vai ser chamada após retornarmos o objeto imagem, quando\n    // (e se) o pedido de geolocalização for bem-sucedido.\n    function setMapURL(pos) {\n        // Obtém nossas informações de posição do objeto argumento\n        var latitude = pos.coords.latitude;      // Graus N do equador\n        var longitude = pos.coords.longitude;    // Graus E de Greenwich\n        var",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3738,
+    "totalChunks": 10000
+  }
+}

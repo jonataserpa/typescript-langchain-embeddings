@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2098",
+  "content": "ar ideal para incorporar dados textuais arbitrários para uso \npor seu aplicativo. Basta configurar o atributo \ntype do elemento com algum valor (como “text/x-custom-\n\nCapítulo 15     Escrevendo script de documentos      371\nJavaScript do\n lado do cliente\n15.5.3   Conteúdo de elemento como nós Text\nOutra maneira de trabalhar com o conteúdo de um elemento é como uma lista de nós filhos, cada \num dos quais podendo ter seu próprio conjunto de filhos. Quando se pensa em conteúdo de ele-\nmento, normalmente são os nós Text que têm interesse. Em documentos XML, você também deve \nestar preparado para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2098,
+    "totalChunks": 10000
+  }
+}

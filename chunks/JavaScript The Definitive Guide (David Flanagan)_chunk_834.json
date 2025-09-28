@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_834",
+  "content": "ficar elementos do array em ordem numérica e não \nalfabética, você poderia fazer o seguinte:\nvar a = [33, 4, 1111, 222];\na.sort();              // Ordem alfabética: 1111, 222, 33, 4\na.sort(function(a,b) { // Ordem numérica: 4, 33, 222, 1111\n\n146          Parte     I     JavaScript     básica\n        return a-b;       // Retorna &lt; 0, 0 ou &gt; 0, dependendo da ordem\n    });\na.sort(function(a,b) {return b-a});  // Inverte a ordem numérica\nObserve o uso conveniente de expressões de função não nomeadas nesse código. Como as funções de \ncomparação são usadas apenas uma vez, não há necessidade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 834,
+    "totalChunks": 10000
+  }
+}

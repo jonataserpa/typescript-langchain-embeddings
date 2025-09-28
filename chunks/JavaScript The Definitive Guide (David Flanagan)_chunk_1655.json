@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1655",
+  "content": "response.write(err.message);    // Corpo da mensagem de erro simples\n                  response.end();                    //    Terminou\n   }\n            else {   // Caso contrário, se o arquivo foi lido com sucesso.\n                response.writeHead(200,  // Configura o código de status e o tipo MIME\n                                       {\"Content-Type\":    type});\n                  response.write(content);    //        Envia o conteúdo do arquivo como corpo da \n                                             //    resposta\n                  response.end();             // E",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1655,
+    "totalChunks": 10000
+  }
+}

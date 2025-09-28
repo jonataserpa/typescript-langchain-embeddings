@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1563",
+  "content": "s em JavaScript \ndo lado do cliente (consulte o Capítulo 15). O padrão E4X define recursos opcionais para conver-\nsão entre as representações E4X e DOM de documentos e elementos XML, mas o Firefox não os \nimplementa. Esse é outro motivo pelo qual pode ser melhor considerar E4X como uma tecnologia \ndo lado do servidor.\nEsta seção apresenta um rápido tutorial sobre E4X, mas não tenta documentá-la amplamente. Em \nespecial, os objetos XML e XMLList têm vários métodos que não são mencionados aqui (também \nnão são abordados na seção de referência). Os leitores que quiserem usar E4X precisarão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1563,
+    "totalChunks": 10000
+  }
+}

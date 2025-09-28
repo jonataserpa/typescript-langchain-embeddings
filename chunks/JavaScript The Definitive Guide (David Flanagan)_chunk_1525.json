@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1525",
+  "content": "do iterador retornado pela função Iterator(). Pri-\nmeiramente, ele ignora propriedades herdadas e só itera propriedades “próprias”, o que normalmen-\nte é o desejado. Segundo, se você passar true como segundo argumento para Iterator(), o iterador \nretornado vai iterar somente os nomes de propriedade e não os valores de propriedade. O código a \nseguir demonstra essas duas características:\no = {x:1, y:2}                         // Um objeto com duas propriedades\nObject.prototype.z = 3;                         // Agora todos os objetos herdam z\nfor(p in o) console.log(p);                     //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1525,
+    "totalChunks": 10000
+  }
+}

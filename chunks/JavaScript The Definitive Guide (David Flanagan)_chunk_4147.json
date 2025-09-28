@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4147",
+  "content": "data ajustada.\nDate.setUTCMilliseconds()\nconfigura o campo de milissegundos de um objeto Date (hora universal)\nSinopse\ndata.setUTCMilliseconds(miliss)\nArgumentos\nmiliss\nO campo de milissegundos a ser configurado em data, expresso em hora universal. Esse argu-\nmento deve ser um inteiro entre 0 e 999.\nRetorna\nA representação, em milissegundos, da data ajustada.\nDate.setUTCMinutes()\nconfigura os campos de minutos, segundos e milissegundos de um objeto Date (hora universal)\nSinopse\ndata.setUTCMinutes(minutos)\ndata.setUTCMinutes(minutos, segundos)\ndata.setUTCMinutes(minutos, segundos, miliss)",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4147,
+    "totalChunks": 10000
+  }
+}

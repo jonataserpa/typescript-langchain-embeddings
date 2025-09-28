@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1221",
+  "content": "valueOf() dos objetos e, se esse método retorna um valor primitivo, compara esses valores. Os \ntipos enumeração retornados pelo método enumeration() do Exemplo 9-7 têm um método valueOf() \n\nCapítulo 9     Classes e módulos      217\nJavaScript básica\ne podem ser comparados significativamente com os operadores relacionais. Contudo, a maioria das \nclasses não tem um método valueOf(). Para comparar objetos desses tipos de acordo com uma orde-\nnação definida explicitamente de sua própria escolha, você pode (novamente, seguindo a convenção \nJava) definir um método chamado \ncompareTo().\nO método",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1221,
+    "totalChunks": 10000
+  }
+}

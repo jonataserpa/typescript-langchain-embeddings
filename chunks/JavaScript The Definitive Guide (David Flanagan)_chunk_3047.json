@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3047",
+  "content": "ks\nrelatedTarget\n é o outro elemento envolvido em eventos de transição, como mouseover e mou-\nseout. Para eventos mouseover, por exemplo, a propriedade relatedTarget especifica o elemen-\nto que o cursor do mouse deixou ao ser movido sobre target. Se o objeto evento nativo não \ndefine relatedTarget, mas define toElement e fromElement, relatedTarget é configurada a partir \ndessas propriedades.\ntimeStamp\nA hora em que o evento ocorreu, na representação em milissegundos retornada pelo método \nDate.getTime(). A jQuery configura o próprio campo para contornar um erro de longa data \ndo Firefox.\n\n530",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3047,
+    "totalChunks": 10000
+  }
+}

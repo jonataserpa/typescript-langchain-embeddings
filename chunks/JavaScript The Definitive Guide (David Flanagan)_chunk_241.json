@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_241",
+  "content": "mais constitui uma expressão regular literal. A segunda barra normal do par também \npode ser seguida por uma ou mais letras, as quais modificam o significado do padrão. Por exemplo:\n/^HTML/             // Corresponde às letras H T M L no início de uma string\n/[1-9][0-9]*/      // Corresponde a um dígito diferente de zero, seguido de qualquer \n                   // número de dígitos\n/\\bjavascript\\b/i    // Corresponde a \"javascript\" como uma palavra, sem considerar letras\n// maiúsculas e minúsculas\nOs objetos RegExp definem vários métodos úteis e as strings também têm métodos que aceitam",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 241,
+    "totalChunks": 10000
+  }
+}

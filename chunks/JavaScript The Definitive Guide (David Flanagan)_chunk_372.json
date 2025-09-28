@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_372",
+  "content": "ítulo 9.\n4.7   Visão geral dos operadores\nOs operadores são utilizados em JavaScript para expressões aritméticas, expressões de comparação, \nexpressões lógicas, expressões de atribuição e muito mais. A Tabela 4-1 resume os operadores e serve \ncomo uma conveniente referência.\nNote que a maioria dos operadores é representada por caracteres de pontuação, como \n+ e =. Al-\nguns, entretanto, são representados por palavras-chave como delete e instanceof. Os operadores de \npalavra-chave são operadores regulares, assim como aqueles expressos com pontuação; eles apenas \ntêm uma sintaxe menos sucinta.\nA",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 372,
+    "totalChunks": 10000
+  }
+}

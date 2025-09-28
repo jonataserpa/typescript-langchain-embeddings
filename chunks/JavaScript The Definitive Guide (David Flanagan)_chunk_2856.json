@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2856",
+  "content": "; // ativa um flag e, então,\n                      request.abort(); // cancela a requisição.\n           },\n\n498          Parte II     JavaScript do lado do cliente\n                      timeout);        // Quanto tempo antes de fazermos isso\n    request.open(\"GET\", url);                   // Especifica o URL a ser buscado\n    request.onreadystatechange = function() {    // Define ouvinte de evento.\n        if (request.readyState !== 4) return;    // Ignora requisições incompletas.\n        if (timedout) return;                   // Ignora requisições canceladas.\n        clearTimeout(timer);",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2856,
+    "totalChunks": 10000
+  }
+}

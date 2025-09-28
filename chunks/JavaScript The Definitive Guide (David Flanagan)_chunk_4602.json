@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4602",
+  "content": "xt() funciona exatamente como fillText(), exceto que, em vez de preencher os caracteres \nindividuais com fillStyle, traça o contorno de cada caractere usando strokeStyle. strokeText() \nproduz interessantes efeitos gráficos quando usado em tamanhos de fonte grandes, mas \nfillText() é \nmais usado para desenho de texto.\n\n864          Parte IV     Referência de JavaScript do lado do cliente\nvoid transform(double a, b, c, d, e, f)\nOs argumentos desse método especificam os seis elementos não triviais de uma matriz de transfor-\nmação afim T de 3x3:\na c e\nb d f\n0 0 1\ntransform()\n configura a matriz",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4602,
+    "totalChunks": 10000
+  }
+}

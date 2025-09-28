@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_662",
+  "content": "ser utilizado pelas “instâncias” criadas com essa construtora.\n6.1.4    Object.create()\nECMAScript 5 define um método, Object.create(), que cria um novo objeto, usando seu primeiro \nargumento como protótipo desse objeto. Object.create() também recebe um segundo argumento \nopcional que descreve as propriedades do novo objeto. Esse segundo argumento é abordado na \nSeção 6.7.\nObject.create() é uma função estática e não um método chamado em objetos individuais. Para usá-\n-la, basta passar o objeto protótipo desejado:\nvar o1 = Object.create({x:1, y:2});     // o1 herda as propriedades x e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 662,
+    "totalChunks": 10000
+  }
+}

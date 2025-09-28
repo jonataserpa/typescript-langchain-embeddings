@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3689",
+  "content": "ndo os nomes de operação com exemplos visuais de seu funcionamento. A Figura 21-16 \nilustra todas as 11 operações usando transparência “hard”: todos os pixels envolvidos são total-\nmente opacos ou totalmente transparentes. Em cada uma das 11 caixas, o quadrado é desenhado \nprimeiro e serve como destino. Em seguida, globalCompositeOperation é configurada e o círculo é \ndesenhado como origem.\n\n644          Parte II     JavaScript do lado do cliente\nFigura 21-16 Operações de composição com transparência hard.\nA Figura 21-17 é um exemplo semelhante que usa transparência “soft”. Nessa versão, o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3689,
+    "totalChunks": 10000
+  }
+}

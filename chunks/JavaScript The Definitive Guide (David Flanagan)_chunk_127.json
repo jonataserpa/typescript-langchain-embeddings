@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_127",
+  "content": "ementById(\"amount\").value = localStorage.loan_amount;\n        document.getElementById(\"apr\").value = localStorage.loan_apr;\n        document.getElementById(\"years\").value = localStorage.loan_years;\n        document.getElementById(\"zipcode\").value = localStorage.loan_zipcode;\n }\n};\n//  Passa a entrada do usuário para um script no lado do servidor que (teoricamente) pode\n// retornar\n//  uma lista de links para financeiras locais interessadas em fazer empréstimos. Este \n// exemplo não contém uma implementação real desse serviço de busca de financeiras. Mas \n// se o serviço existisse, essa função",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 127,
+    "totalChunks": 10000
+  }
+}

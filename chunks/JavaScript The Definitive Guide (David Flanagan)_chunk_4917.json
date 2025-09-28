@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4917",
+  "content": "gned long width\nO número de pixels por linha de dados.\nInput\num elemento HTML <input> Node, Element, FormControl\nUm objeto Input representa um elemento \n<input> de formulário HTML Sua aparência e compor-\ntamento dependem de seu atributo type: um elemento Input poderia representar um campo de \nentrada de texto simples, uma caixa de seleção, uma caixa de opção, um botão ou um elemento de \nseleção de arquivos, por exemplo. Como um elemento <input> pode representar tantos tipos de con-\ntroles de formulário, o elemento Input é um dos mais complicados. Consulte a Seção 15.9 para uma \nvisão geral",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4917,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3335",
+  "content": "figurar e analisa-o, ao obter\nlocalStorage.lastRead = (new Date()).toUTCString();\nvar lastRead = new Date(Date.parse(localStorage.lastRead));\n// JSON tende a resultar em uma codificação conveniente para qualquer estrutura primitiva \n// ou de dados\nlocalStorage.data = JSON.stringify(data);        // Codifica e armazena\nvar data = JSON.parse(localStorage.data);        // Recupera e decodifica.\n20.1.1   Vida útil e escopo do armazenamento\nA diferença entre localStorage e sessionStorage envolve a vida útil e o escopo do armazenamento. \nOs dados armazenados por meio de \nlocalStorage são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3335,
+    "totalChunks": 10000
+  }
+}

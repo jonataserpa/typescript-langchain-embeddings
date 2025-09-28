@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_901",
+  "content": "Funções          159\nJavaScript básica\n8.1   Definindo   funções\nAs funções são definidas com a palavra-chave function, que pode ser usada em uma expressão de \ndefinição de função (Seção 4.3) ou em uma instrução de declaração de função (Seção 5.3.2). Em \numa ou outra forma, as definições de função começam com a palavra-chave function, seguida dos \nseguintes componentes:\n •   Um identificador que dá nome à função. O nome é uma parte obrigatória das instruções de \ndeclaração de função: ele é usado como o nome de uma variável e o objeto função recém-de-\nfinido é atribuído a esta variável.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 901,
+    "totalChunks": 10000
+  }
+}

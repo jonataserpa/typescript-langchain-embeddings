@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2383",
+  "content": "da hífen. Assim, a propriedade CSS \nborder-left-width é acessada por meio da \npropriedade JavaScript \nborderLeftWidth e a propriedade CSS font-family pode ser acessada com códi-\ngo como o seguinte:\ne.style.fontFamily = \"sans-serif\";\nAlém disso, quando uma propriedade CSS, como a propriedade float, tem um nome que é uma palavra \nreservada em JavaScript, esse nome é prefixado com “css” para criar um nome CSSStyleDeclaration válido. \nAssim, para configurar ou consultar o valor da propriedade CSS \nfloat de um elemento, use a propriedade \ncssFloat do objeto CSSStyleDeclaration.\n\nCapítulo 16",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2383,
+    "totalChunks": 10000
+  }
+}

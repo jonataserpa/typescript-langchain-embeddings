@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5561",
+  "content": "o com objetos e classes Java no Rhino, \n283\n    usando com construtoras para testar a participa-\nção como membro de classe de objetos, 197\noperador new\n    chamada de construtora com, 196\n    criando objetos, 114\noperador typeof, 61, 80–81, 204\n    aplicado em valores null e undefi ned, 40\n    usando com objetos XML, 277\noperador vírgula (,), 83–84\noperador void, 61, 83–84\n    obrigando a expressões de chamada ou de atribui-\nção a serem indefi nidas, 308\noperadores, 5, 56, 61–65\n    aritméticos,    65\n    associatividade,    64\n    atribuição,    76–77\n    bit a bit, 68\n    comparação,    72",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5561,
+    "totalChunks": 10000
+  }
+}

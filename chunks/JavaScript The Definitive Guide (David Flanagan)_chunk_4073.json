@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4073",
+  "content": "plo\nvar a = [1, [2,3], 4]\na.shift();   // Retorna 1; a = [[2,3], 4]\na.shift();   // Retorna [2,3]; a = [4]\nConsulte também\nArray.pop(), Array.unshift()\n\n      Referência de JavaScript básica      719\nReferência de \nJavaScript básica\nArray.slice()\nretorna parte de um array\nSinopse\narray.slice(início, fim)\nArgumentos\ninício\nO índice do array no qual a fatia deve começar. Se for negativo, esse argumento especifica \numa posição medida a partir do fim do array. Isto é, −1 indica o último elemento, −2 indica o \npenúltimo elemento e assim por diante.\nfim\nO índice do array imediatamente após o fim da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4073,
+    "totalChunks": 10000
+  }
+}

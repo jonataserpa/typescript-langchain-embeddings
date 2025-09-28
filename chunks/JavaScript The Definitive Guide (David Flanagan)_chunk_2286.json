@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2286",
+  "content": "adicionar \nnovas folhas de estilo.\n1\n  Mas consulte o livro CSS: The Definitive Guide, de Eric Meyer (O’Reilly), por exemplo.\n\nCapítulo 16     Escrevendo script de CSS      403\nJavaScript do\n lado do cliente\n16.1   Visão geral de CSS\nExistem muitas variáveis na exibição visual de um documento HTML: fontes, cores, espaçamento, \netc. O padrão CSS enumera essas variáveis e as chama de propriedades de estilo. CSS define pro-\npriedades que especificam fontes, cores, margens, bordas, imagens de fundo, alinhamento de texto, \ntamanho do elemento e posição do elemento. Para definir a aparência visual",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2286,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3005",
+  "content": "que propriedades sejam adicionadas em elementos \n<applet>, <object> e <embed>, de modo que a jQuery simplesmente não permite que dados sejam \nassociados a elementos desses tipos.\n19.3   Alterando a estrutura de documentos\nNa Seção 19.2.5, vimos os métodos html() e text() para configurar conteúdo de elemento. Esta se-\nção aborda métodos que fazem alterações mais complexas em um documento. Como os documentos \nHTML são representados como uma árvore de nós, em vez de uma sequência linear de caracteres, as \ninserções, exclusões e substituições não são tão simples quanto para strings e arrays. As",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3005,
+    "totalChunks": 10000
+  }
+}

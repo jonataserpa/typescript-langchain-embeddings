@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4286",
+  "content": "ração matemática (como \nextrair a raiz quadrada de um número negativo) não é um número. parseInt() e parseFloat() re-\ntornam esse valor quando não conseguem analisar a string especificada, sendo que você pode usar \nNumber.NaN de maneira semelhante para indicar uma condição de erro para alguma função que nor-\nmalmente retorna um número válido.\n\n788          Parte III     Referência de JavaScript básica\nJavaScript imprime o valor de Number.NaN como NaN. Note que o valor NaN sempre é comparado como \ndiferente de qualquer outro número, incluindo o próprio NaN. Assim, você não pode verificar o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4286,
+    "totalChunks": 10000
+  }
+}

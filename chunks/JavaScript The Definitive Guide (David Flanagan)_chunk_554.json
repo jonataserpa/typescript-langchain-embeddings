@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_554",
+  "content": "rve de corpo do laço e vai para a \ninstrução seguinte no programa. Se, por outro lado, a expressão é verdadeira, o interpretador \nexecuta a instrução e repete, pulando de volta para o início do laço e avaliando a expressão \nnovamente. Outra maneira de dizer isso é que o interpretador executa a instrução repetidamen-\nte enquanto a expressão é verdadeira. Note que é possível criar um laço infinito com a sintaxe \nwhile(true).\nEm geral, você não quer que JavaScript execute exatamente a mesma operação repetidamente. \nEm quase todo laço, uma ou mais variáveis mudam a cada iteração. Como as",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 554,
+    "totalChunks": 10000
+  }
+}

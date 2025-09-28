@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4782",
+  "content": "r 2 indica o botão direito e o valor 1 indica o botão \ndo meio do mouse. Note que essa propriedade é definida quando um botão muda de estado; \nela não é usada para informar se um botão estava pressionado durante um evento mousemove, \npor exemplo. Além disso, essa propriedade não é um mapa de bits: ela não pode informar \nse mais de um botão estava pressionado. Por fim, alguns navegadores só geram eventos para \ncliques do botão esquerdo.\nOs eventos do IE definem uma propriedade \nbutton incompatível. Nesse navegador, essa pro-\npriedade é uma máscara de bits: o bit 1 é ativado se o botão esquerdo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4782,
+    "totalChunks": 10000
+  }
+}

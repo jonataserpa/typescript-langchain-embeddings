@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_439",
+  "content": "\".\n11 < 3      // Comparação numérica. O resultado é false.\n\"11\" < \"3\"   // Comparação de strings. O resultado é true.\n\"11\" < 3     // Comparação numérica. \"11\" é convertido em 11. O resultado é false.\n\"one\" < 3    // Comparação numérica. \"one\" é convertido em NaN. O resultado é false.\nPor fim, note que os operadores <= (menor ou igual a) e >= (maior ou igual a) não contam com os \noperadores de igualdade ou igualdade restrita para determinar se dois valores são “iguais”. Em vez \ndisso, o operador menor ou igual a é simplesmente definido como “não maior que” e o operador \nmaior ou igual a é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 439,
+    "totalChunks": 10000
+  }
+}

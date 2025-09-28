@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_841",
+  "content": "vamente diferentes.\nsplice() pode excluir elementos de um array, inserir novos elementos em um array ou efetuar as \nduas operações ao mesmo tempo. Os elementos do array que vêm após o ponto de inserção ou \nexclusão têm seus índices aumentados ou diminuídos, conforme o necessário, para que perma-\nneçam contíguos ao restante do array. O primeiro argumento de \nsplice() especifica a posição do \narray em que a inserção e/ou exclusão deve começar. O segundo argumento especifica o número \nde elementos que devem ser excluídos (removidos) do array. Se esse segundo argumento é omiti-\ndo, todos os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 841,
+    "totalChunks": 10000
+  }
+}

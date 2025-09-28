@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_579",
+  "content": "sica\n5.6   Saltos\nOutra categoria de instruções de JavaScript são as instruções de salto. Conforme o nome lembra, elas \nfazem o interpretador JavaScript saltar para um novo local no código-fonte. A instrução break faz \no interpretador saltar para o final de um laço ou para outra instrução. continue faz o interpretador \npular o restante do corpo de um laço e voltar ao início de um laço para começar uma nova iteração. \nJavaScript permite que as instruções sejam nomeadas (ou rotuladas), sendo que break e continue \npodem identificar o laço de destino ou outro rótulo de instrução.\nA instrução",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 579,
+    "totalChunks": 10000
+  }
+}

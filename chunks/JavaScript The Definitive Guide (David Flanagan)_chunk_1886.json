@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1886",
+  "content": ".\nAs propriedades \nhash e search do objeto Location são interessantes. A propriedade hash retorna \na parte do “identificador de fragmento” do URL, caso haja um: um sinal numérico (#) seguido \nde uma identificação de elemento. A propriedade \nsearch é semelhante. Ela retorna a parte do \nURL que começa com um ponto de interrogação: frequentemente algum tipo de string de con-\nsulta. Em geral, essa parte de um URL é usada para parametrizá-lo e oferece uma maneira de \nincorporar argumentos nele. Embora esses argumentos normalmente se destinem à execução de \nscripts em um servidor, não há razão para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1886,
+    "totalChunks": 10000
+  }
+}

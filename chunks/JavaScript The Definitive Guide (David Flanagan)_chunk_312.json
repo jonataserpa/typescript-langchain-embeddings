@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_312",
+  "content": "são de objeto para valor primitivo utilizada por \n+ e == inclui um caso especial para objetos \nDate. A classe Date é o único tipo predefinido de JavaScript básica que define conversões signifi-\ncativas para strings e para números. A conversão de objeto para valor primitivo é basicamente uma \nconversão de objeto para número (\nvalueof() primeiro) para todos os objetos que não são datas e uma \nconversão de objeto para string (\ntoString() primeiro) para objetos Date. Contudo, a conversão não \né exatamente igual àquelas explicadas anteriormente: o valor primitivo retornado por \nvalueOf() ou \npor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 312,
+    "totalChunks": 10000
+  }
+}

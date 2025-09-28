@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2142",
+  "content": "1) continue;\n            if (c.tagName.length == 2 && c.tagName.charAt(0) == \"H\")\n                  sects.push(c);\n            else\n                  findHeadings(c,    sects);\n  }\n\nCapítulo 15     Escrevendo script de documentos      379\nJavaScript do\n lado do cliente\n        return    sects;\n }\n    // Inicializa um array que monitora números de seção.\n    var sectionNumbers = [0,0,0,0,0,0];\n    // Agora itera pelos elementos de cabeçalho de seção que encontramos.\n    for(var h = 0; h < headings.length; h++) {\n        var heading = headings[h];\n        // Pula o cabeçalho de seção se",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2142,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4245",
+  "content": ".parse(text, function(name, value) {\n// Remove qualquer valor cujo nome de propriedade comece com um sublinhado\nif (name[0] == '_') return undefined;\n// Se o valor é uma string no formato de data ISO 8601, converte-o para Date.\nif (typeof value === \"string\" &&\n   /^\\d\\d\\d\\d-\\d\\d-\\d\\dT\\d\\d:\\d\\d:\\d\\d.\\d\\d\\dZ$/.test(value))\nreturn new Date(value);\n  // Caso contrário, retorna o valor intacto\nreturn value\n});\nConsulte também\nJSON.stringify(), Seção 6.9\n\n772          Parte III     Referência de JavaScript básica\nJSON.stringify() ECMAScript 5\nserializa um objeto, array ou valor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4245,
+    "totalChunks": 10000
+  }
+}

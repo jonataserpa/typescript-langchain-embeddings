@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1290",
+  "content": "e apropriada para nossas classes Set \n\nCapítulo 9     Classes e módulos      229\nJavaScript básica\ne FilteredSet. Contudo, foi omitida nesse exemplo e uma nova implementação concreta, chamada \nArraySet, foi incluída em seu lugar.\nO Exemplo 9-16 é longo, mas vale a pena lê-lo inteiramente. Note que ele usa \nFunction.prototype.\nextend() como um atalho para criar subclasses.\nExemplo 9-16 Uma hierarquia de classes Set abstratas e concretas\n// Uma função conveniente que pode ser usada por qualquer método abstrato\nfunction abstractmethod() { throw new Error(“abstract method”); }\n/*\n * A classe",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1290,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4197",
+  "content": "madas indiretas não \npodem alterar o escopo global. Essas regras se aplicam se a chamada de eval() é feita no modo \nrestrito ou se código começa com uma diretiva “use strict”.\neval() fornece um recurso muito poderoso para a linguagem JavaScript, mas seu uso não é frequente \nem programas reais. Usos óbvios são: escrever programas que atuam como interpretadores JavaScript \nrecursivos e escrever programas que geram e avaliam código JavaScript dinamicamente.\n\n758          Parte III     Referência de JavaScript básica\nA maioria das funções de JavaScript que esperam argumentos de string converte",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4197,
+    "totalChunks": 10000
+  }
+}

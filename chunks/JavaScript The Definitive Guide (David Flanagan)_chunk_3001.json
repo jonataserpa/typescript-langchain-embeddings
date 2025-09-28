@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3001",
+  "content": "iado ao elemento (ou elementos) do objeto jQuery. Note, entretanto, que quando \nvocê passa um objeto para data(), as propriedades desse objeto substituem qualquer dado anterior-\nmente associado ao elemento (ou elementos). Ao contrário de muitos dos outros métodos setter que \nvimos, data() não chama as funções que você passa. Se você passa uma função como segundo argu-\nmento para data(), essa função é armazenada, assim como aconteceria com qualquer outro valor.\nO método \ndata() também pode servir como getter, evidentemente. Quando chamado sem argu-\nmentos, ele retorna um objeto contendo todos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3001,
+    "totalChunks": 10000
+  }
+}

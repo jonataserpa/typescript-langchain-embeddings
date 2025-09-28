@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_430",
+  "content": "nas de JavaScript básica tentam a conversão com \nvalueOf() antes da conversão com toString(), exceto para a classe Date, que faz a conversão \nde toString(). Os objetos que não fazem parte de JavaScript básica podem ser convertidos \nem valores primitivos de acordo com o que for definido na implementação.\n— Qualquer outra combinação de valor não é igual.\nComo exemplo de teste de igualdade, considere a comparação:\n\"1\" == true\nEssa expressão é avaliada como true, indicando que esses valores de aparência muito diferente na \nverdade são iguais. Primeiramente, o valor booleano true é convertido no",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 430,
+    "totalChunks": 10000
+  }
+}

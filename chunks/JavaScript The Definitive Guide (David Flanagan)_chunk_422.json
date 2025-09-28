@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_422",
+  "content": "todos os três operadores como “igual a”, talvez ajude a diminuir a confusão \nse você ler “obtém ou é atribuído” para \n=, “é igual a” para == e “é rigorosamente igual a” para ===.\nOs operadores != e !== testam exatamente o oposto dos operadores == e ===. O operador de desi-\ngualdade \n!= retorna false se dois valores são iguais de acordo com == e, caso contrário, retorna true. \nO operador \n!== retorna false se dois valores são rigorosamente iguais; caso contrário, retorna true. \nConforme vamos ver na Seção 4.10, o operador \n! calcula a operação booleana NÃO. Isso torna fácil \nlembrar que \n!= e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 422,
+    "totalChunks": 10000
+  }
+}

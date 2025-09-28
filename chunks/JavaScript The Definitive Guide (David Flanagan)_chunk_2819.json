@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2819",
+  "content": "st.open(\"POST\",    url);                       // Posta (com POST) no url especificado\n\n492          Parte II     JavaScript do lado do cliente\n    request.onreadystatechange = function() {   // Rotina de tratamento de evento simples\n        if (request.readyState === 4 && callback) callback(request);\n    };\n    // Cria um documento XML com elemento-raiz <query>\n    var doc = document.implementação.createDocument(\"\", \"query\", null);\n    var query = doc.documentElement;             // O elemento <query>\n    var find = doc.createElement(\"find\");        // Cria um elemento <find>",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2819,
+    "totalChunks": 10000
+  }
+}

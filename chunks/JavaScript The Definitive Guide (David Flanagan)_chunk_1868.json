@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1868",
+  "content": "zá-las diretamente.\nExistem muitas estruturas em JavaScript além da jQuery – muito mais do que posso listar aqui. Al-\ngumas das estruturas de código-fonte aberto mais conhecidas e amplamente usadas incluem:\nPrototype\nA biblioteca Prototype (http://prototypejs.org) se concentra nos utilitários DOM e Ajax, assim \ncomo faz a jQuery, e também adiciona muitos utilitários da linguagem básica. A biblioteca \nScriptaculous (http://script.aculo.us/) pode ser adicionada para animações e efeitos visuais.\nDojo\nA Dojo (http://dojotoolkit.org) é uma estrutura grande que apregoa sua “incrível",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1868,
+    "totalChunks": 10000
+  }
+}

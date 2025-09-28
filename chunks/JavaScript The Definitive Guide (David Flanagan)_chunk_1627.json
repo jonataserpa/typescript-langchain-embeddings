@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1627",
+  "content": "de rotinas \nde tratamento para alguns de seus eventos:\n// O evento \"exit\" é enviado antes que o Node saia.\nprocess.on(\"exit\", function() { console.log(\"Goodbye\"); });\n//  Exceções não capturadas geram eventos, se qualquer rotina de tratamento estiver\n// registrada.\n// Caso contrário, a exceção apenas faz o Node imprimir um erro e sair.\nprocess.on(\"uncaughtException\", function(e) { console.log(Exception, e); });\n\n290          Parte     I     JavaScript     básica\n// Sinais POSIX, como SIGINT, SIGHUP e SIGTERM, geram eventos\nprocess.on(\"SIGINT\", function() { console.log(\"Ignored Ctrl-C\");",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1627,
+    "totalChunks": 10000
+  }
+}

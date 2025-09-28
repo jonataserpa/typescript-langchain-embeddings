@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2571",
+  "content": "o objeto evento.\n17.3.5   Ordem de chamada\nUm elemento do documento ou outro objeto pode ter mais de uma rotina de tratamento de evento \nregistrada para um tipo de evento em especial. Quando ocorre um evento apropriado, o navegador \ndeve chamar todas as rotinas de tratamento, seguindo estas regras de ordem de chamada:\n •   As rotinas de tratamento registradas pela configuração de uma propriedade do objeto ou atri-\nbuto HTML, se houver, são sempre chamadas primeiro.\n •   As rotinas de tratamento registradas com \naddEventListener() são chamadas na ordem em que \nforam registradas\n4\n.\n4\n  O",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2571,
+    "totalChunks": 10000
+  }
+}

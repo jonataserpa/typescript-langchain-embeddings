@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_808",
+  "content": "tem elementos\n['a','b','c'].length  // => 3: o índice mais alto é 2, o comprimento é 3\n\nCapítulo     7     Arrays          141\nJavaScript básica\nQuando um array é esparso, a propriedade length é maior do que o número de elementos e pode-\nmos dizer a respeito dele que garantidamente length é maior do que o índice de qualquer elemento \ndo array. Ou então, falando de outro modo, um array (esparso ou não) nunca vai ter um elemento \ncujo índice é maior ou igual à sua propriedade \nlength. Para manter isso invariável, os arrays têm dois \ncomportamentos especiais. O primeiro foi descrito",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 808,
+    "totalChunks": 10000
+  }
+}

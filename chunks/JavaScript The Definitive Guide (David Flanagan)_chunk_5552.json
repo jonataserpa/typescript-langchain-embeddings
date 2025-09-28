@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5552",
+  "content": "481\n    métodos,    999\n    pedidos e respostas HTTP, 482\n    pedidos HTTP de origens diferentes, 498–500\n    postando (com POST) texto puro em um servi-\ndor, 484\n\nÍndice          1043\n    postando mensagens de bate-papo do usuário no \nservidor, 503\n    propriedade responseText, 487\n    propriedades,    998\n    recuperando a resposta, 485–489\n    rotinas de tratamento de evento, 1001\n    simulação pelo objeto jqXHR na jQuery 1.5, 551\n    simulando EventSource com, 504–506\n    uso por funções utilitárias Ajax na jQuery, 547\n    Version 2 da especifi cação, 443\nobjeto XMLHttpRequestUpload,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5552,
+    "totalChunks": 10000
+  }
+}

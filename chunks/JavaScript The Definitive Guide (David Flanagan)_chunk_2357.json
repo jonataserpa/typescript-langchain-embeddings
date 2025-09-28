@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2357",
+  "content": "e cor em inglês, \nmas a sintaxe mais geral para especificar cores em CSS é usar dígitos hexadecimais para os compo-\nnentes vermelho, verde e azul de uma cor. Você pode usar um ou dois dígitos por componente. Por \nexemplo:\n#000000      /* preto */\n#fff         /* branco */\n#f00         /* vermelho vivo */\n#404080      /* azul-escuro não saturado */\n#ccc         /* cinza-claro */\nCSS3 também define sintaxes para especificar cores no espaço de cores RGBA (valores de vermelho, \nverde e azul, mais um valor alfa especificando a transparência da cor). RGBA é suportado por todos \nos navegadores",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2357,
+    "totalChunks": 10000
+  }
+}

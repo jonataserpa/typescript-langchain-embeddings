@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1841",
+  "content": "plo, \nque um script hospedado pelo host A seja incluído (usando-se a propriedade \nsrc de um elemento \n<script>) em uma página Web servida pelo host B. A origem desse script é o host B e o script tem \ntotal acesso ao conteúdo do documento que o contém. Se o script abre uma nova janela e carrega \num segundo documento do host B, o script também tem total acesso ao conteúdo desse segundo \ndocumento. Mas se o script abre uma terceira janela e carrega um documento do host C (ou mesmo \ndo host A) nela, a política da mesma origem entra em vigor e impede que o script acesse esse docu-\nmento.\nA",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1841,
+    "totalChunks": 10000
+  }
+}

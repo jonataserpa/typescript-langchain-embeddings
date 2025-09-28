@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1318",
+  "content": "ject.defineProperty() e Object.defineProperties() podem ser usados para criar novas proprieda-\ndes e também para modificar os atributos de propriedades já existentes. Quando usados para definir \nnovas propriedades, os atributos omitidos são false por padrão. Entretanto, quando usados para \nalterar propriedades já existentes, os atributos omitidos ficam inalterados. Na função hideProps() \nanterior, por exemplo, especificamos somente o atributo enumerable, pois esse é o único que quere-\nmos modificar.\nCom essas funções utilitárias definidas, podemos aproveitar os recursos de ECMAScript 5 para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1318,
+    "totalChunks": 10000
+  }
+}

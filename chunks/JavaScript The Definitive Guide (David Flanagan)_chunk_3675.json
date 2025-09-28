@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3675",
+  "content": "as \ncoordenadas X e Y nas quais o canto superior esquerdo da imagem será desenhado. Nessa versão do \nmétodo, a imagem de origem inteira é copiada no canvas. As coordenadas X e Y são interpretadas no \nsistema de coordenadas atual e a imagem muda de escala e é rotacionada se for necessário.\nA versão de \ndrawImage() com cinco argumentos acrescenta os argumentos width e height aos argu-\nmentos x e y descritos anteriormente. Esses quatro argumentos definem um retângulo de destino \ndentro do canvas. O canto superior esquerdo da imagem de origem fica em \n(x,y) e o canto inferior \ndireito fica em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3675,
+    "totalChunks": 10000
+  }
+}

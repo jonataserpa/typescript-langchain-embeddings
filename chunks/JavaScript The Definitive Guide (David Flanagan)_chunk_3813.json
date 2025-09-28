@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3813",
+  "content": "de URL, cada um dos quais deve se referir a um \narquivo de código JavaScript. Os URLs relativos são solucionados em relação ao URL passado para a \nconstrutora \nWorker(). Ela carrega e executa esses arquivos um após o outro, na ordem em que foram \nespecificados. Se o carregamento de um script causa um erro de rede ou se a execução lança um erro \nde qualquer tipo, nenhum dos scripts subsequentes é carregado ou executado. Um script carregado \ncom \nimportScripts() pode ele mesmo chamar importScripts() para carregar os arquivos de que de-\npende. Note, entretanto, que \nimportScripts() não tenta",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3813,
+    "totalChunks": 10000
+  }
+}

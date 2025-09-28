@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2923",
+  "content": "Como configurar atributos HTML, estilos e classes CSS, valores e conteúdo de elemento, \ngeometria e dados de formulário HTML\n •   Como alterar a estrutura de um documento, inserindo, substituindo, empacotando e excluin-\ndo elementos\n •   Como usar o modelo de evento independente de navegador da jQuery\n •   Como produzir efeitos visuais animados com jQuery\n •   Utilitários Ajax da jQuery para fazer scripts de requisições HTTP\n •   Funções utilitárias da jQuery\n •   A sintaxe completa dos seletores da jQuery e como usar métodos de seleção avançados da \njQuery\n •   Como estender a jQuery usando",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2923,
+    "totalChunks": 10000
+  }
+}

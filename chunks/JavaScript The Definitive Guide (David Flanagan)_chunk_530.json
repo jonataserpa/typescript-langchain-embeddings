@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_530",
+  "content": "variáveis não são somente para leitura e seus valores podem \nser sobrescritos.\n5.4   Condicionais\nAs instruções condicionais executam ou pulam outras instruções, dependendo do valor de uma \nexpressão especificada. Essas instruções são os pontos de decisão de seu código e às vezes também \nsão conhecidas como “ramificações”. Se você imaginar um interpretador JavaScript seguindo um \ncaminho através de seu código, as instruções condicionais são os lugares onde o código se ramifica \nem dois ou mais caminhos e o interpretador deve escolher qual caminho seguir.\nAs subseções a seguir explicam a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 530,
+    "totalChunks": 10000
+  }
+}

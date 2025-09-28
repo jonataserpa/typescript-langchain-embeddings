@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4278",
+  "content": "úmero, use isNaN(), pois NaN é sempre comparado como \ndesigual a qualquer outro valor, incluindo ele mesmo!\nConsulte também\nInfinity, isNaN(), Number.NaN\nNumber\nsuporte para números Object → Number\nConstrutora\nnew Number(valor)\nNumber(valor)\nArgumentos\nvalor\nO valor numérico do objeto Number que está sendo criado ou um valor a ser convertido em \num número.\nRetorna\nQuando \nNumber() é usada como construtora com o operador new, retorna um objeto Number recente-\nmente construído. Quando Number() é chamada como função sem o operador new, converte seu argu-\nmento em um valor numérico primitivo e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4278,
+    "totalChunks": 10000
+  }
+}

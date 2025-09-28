@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_471",
+  "content": "m. Se a string avaliada lança uma exceção, essa \nexceção é propagada a partir da chamada a eval().\nO principal a saber sobre \neval() (quando chamada desse modo) é que ela usa o ambiente da variável \ndo código que a chama. Isto é, ela pesquisa os valores das variáveis e define novas variáveis e funções \nda mesma maneira como código local faz. Se uma função define uma variável local \nx e, então, chama \neval(\"x\"), ela obtém o valor da variável local. Se chama eval(\"x=1\"), ela altera o valor da variável \nlocal. E se a função chama eval(\"var y = 3;\"), ela declarou uma nova variável local y. Do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 471,
+    "totalChunks": 10000
+  }
+}

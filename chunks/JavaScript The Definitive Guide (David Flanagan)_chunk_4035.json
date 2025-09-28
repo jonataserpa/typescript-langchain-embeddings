@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4035",
+  "content": "dente.\njoin()\nConverte todos os elementos do array em strings e as concatena.\nlastIndexOf()\nPesquisa para trás em um array.\nmap()\nCalcula novos elementos do array a partir dos seus elementos.\npop()\nRemove um item do final de um array.\npush()\nColoca um item no final de um array.\nreduce()\nCalcula um valor a partir dos elementos desse array.\nreduceRight()\nReduz esse array da direita para a esquerda.\nreverse()\nInverte, no local, a ordem dos elementos de um array.\nshift()\nDesloca um elemento do início de um array.\nslice()\nRetorna uma fatia (subarray) de um array.\nsome()\nTesta se um predicado é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4035,
+    "totalChunks": 10000
+  }
+}

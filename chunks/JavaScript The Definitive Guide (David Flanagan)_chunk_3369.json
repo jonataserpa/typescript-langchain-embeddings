@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3369",
+  "content": "rnece um escopo como o de \nlocalStorage e tam-\nbém especifica que o navegador deve transmitir o nome e o valor do cookie para o servidor quando \nsolicitar qualquer página Web no site. Note que o atributo caminho do cookie não deve ser tratado \ncomo qualquer tipo de mecanismo de controle de acesso. Se uma página Web quer ler os cookies de \nalguma outra página do mesmo site, pode simplesmente carregar essa outra página em um <iframe> \noculto  e  ler  os  cookies  do  documento  que  está  no  quadro.  A  política  da  mesma  origem  (Seção  \n13.6.2) impede que esse tipo de detecção de cookie",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3369,
+    "totalChunks": 10000
+  }
+}

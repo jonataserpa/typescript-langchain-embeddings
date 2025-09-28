@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1033",
+  "content": "o de argumentos arbitrário, o método apply() per-\nmite chamar essa função no conteúdo de um array de comprimento arbitrário. Por exemplo, para \nencontrar o maior número em um array de números, você poderia usar o método apply() para passar \nos elementos do array para a função Math.max():\nvar biggest = Math.max.apply(Math, array_of_numbers);\nNote que apply() funciona com objetos semelhantes a um array e com arrays verdadeiros. Em espe-\ncial, você pode chamar uma função com os mesmos argumentos da função atual, passando o array \narguments diretamente para apply(). O código a seguir demonstra",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1033,
+    "totalChunks": 10000
+  }
+}

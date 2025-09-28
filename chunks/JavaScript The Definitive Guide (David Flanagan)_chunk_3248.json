@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3248",
+  "content": "o (etc.) elementos (extensão da jQuery).\n:file\nCorresponde a elementos <input type=\"file\"> (extensão da jQuery).\n:first\nCorresponde apenas ao primeiro elemento da lista. O mesmo que :eq(0) (extensão da jQuery).\n:first-child\nCorresponde apenas aos elementos que são o primeiro filho de seus pais. Note que isso é \ncompletamente diferente de \n:first.\n:gt(n)\nCorresponde aos elementos na lista de coincidentes, na ordem do documento, cujo índice baseado em \nzero é maior do que \nn (extensão da jQuery).\n:has(sel)\nCorresponde aos elementos que têm um descendente coincidente com o seletor aninhado",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3248,
+    "totalChunks": 10000
+  }
+}

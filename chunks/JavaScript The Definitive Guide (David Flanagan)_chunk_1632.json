@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1632",
+  "content": "ing)      // Grava a string final e fecha tudo em um só\ns.writeable;              // verdadeiro se o fluxo ainda está aberto e pode ser gravado\ns.on(\"drain\", f)          // Chama f() quando o buffer interno esvazia\nComo você pode ver no código anterior, os fluxos de Node podem trabalhar com dados binários \nou dados textuais. Texto é transferido usando-se strings JavaScript normais. Bytes são manipulados \nusando-se um tipo específico do Node conhecido como Buffer. Os buffers do Node são objetos \nsemelhantes a um array de comprimento fixo, cujos elementos devem ser números entre 0 e 255. \nOs",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1632,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_436",
+  "content": "ngs. A ordem de codifi-\ncação numérica definida pelo Unicode pode não corresponder à ordem de cotejo tradicional utiliza-\nda em qualquer idioma ou localidade em especial. Note especificamente que a comparação de strings \ndiferencia letras maiúsculas e minúsculas e todas as letras ASCII maiúsculas são “menores que” todas \nas letras ASCII minúsculas. Essa regra pode causar resultados confusos, se você não esperar por isso. \nPor exemplo, de acordo com o operador \n<, a string “Zoo” vem antes da string “aardvark”.\n\nCapítulo 4     Expressões e operadores      73\nJavaScript básica\nPara ver um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 436,
+    "totalChunks": 10000
+  }
+}

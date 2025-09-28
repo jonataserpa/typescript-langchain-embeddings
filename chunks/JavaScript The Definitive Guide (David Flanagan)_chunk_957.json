@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_957",
+  "content": "factorial = function(x) {\n    if (x <= 1) return 1;\n    return x * arguments.callee(x-1);\n};\n8.3.3   Usando propriedades de objeto como argumentos\nQuando uma função tem mais de três parâmetros, torna-se difícil para o programador que a chama \nlembrar-se da ordem correta em que deve passar os argumentos. Para que o programador não precise \nconsultar a documentação cada vez que utilizar a função, pode ser apropriado permitir que os ar-\ngumentos sejam passados como pares nome/valor em qualquer ordem. Para implementar esse estilo \nde chamada de método, defina sua função de modo a esperar um único",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 957,
+    "totalChunks": 10000
+  }
+}

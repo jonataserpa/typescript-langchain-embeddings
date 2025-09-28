@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2772",
+  "content": "e                                      User-Agent\nCookie2                 Referer                            Via\n\n484          Parte II     JavaScript do lado do cliente\nÉ possível especificar um cabeçalho “Authorization” com sua requisição, mas normalmente não é \nnecessário fazer isso. Se estiver solicitando um URL protegido por senha, passe o nome de usuá-\nrio e a senha como quarto e quinto argumentos para \nopen() e a XMLHttpRequest vai configurar \nos cabeçalhos apropriados para você. (Vamos aprender sobre o terceiro argumento opcional de \nopen() a seguir. Os argumentos opcionais nome de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2772,
+    "totalChunks": 10000
+  }
+}

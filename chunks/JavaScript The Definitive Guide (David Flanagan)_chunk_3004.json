@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3004",
+  "content": "ery também define formas de função utilitária dos métodos data() e removeData(). Você pode \nassociar dados a um elemento individual e usando a forma de método ou de função de data():\n$(e).data(...)   // A forma de método\n$.data(e, ...)   // A forma de função\nA estrutura de dados da jQuery não armazena dados de elemento como propriedades dos elemen-\ntos em si, mas precisa adicionar uma propriedade especial em qualquer elemento que tenha dados \nassociados. Alguns navegadores não permitem que propriedades sejam adicionadas em elementos \n<applet>, <object> e <embed>, de modo que a jQuery",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3004,
+    "totalChunks": 10000
+  }
+}

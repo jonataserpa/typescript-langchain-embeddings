@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_382",
+  "content": "dos numéricos, mas concatena operandos string. \nDa mesma forma, os operadores de comparação, como <, fazem a comparação em ordem numérica \nou alfabética, dependendo do tipo dos operandos. As descrições dos operadores individuais explicam \nsuas dependências de tipo e especificam as conversões de tipo que realizam.\n4.7.3   Lvalues\nObserve que os operadores de atribuição e alguns dos outros operadores listados na Tabela 4-1 \nesperam um operando do tipo lval. lvalue é um termo histórico que significa “uma expressão que \npode aparecer de forma válida no lado esquerdo de uma expressão de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 382,
+    "totalChunks": 10000
+  }
+}

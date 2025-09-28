@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5010",
+  "content": "adeiros.\njQuery.noConflict([radical=false])\nRestaura o símbolo $ ao seu valor antes que a biblioteca jQuery fosse carregada e retorna \njQuery. Se radical for true, restaura também o valor do símbolo jQuery.\njQuery.proxy(f, o):function\njQuery.proxy(o, nome):function\nRetorna uma função que chama f como método de o ou uma função que chama o[nome] como \nmétodo de o.\njQuery.queue(elt, [nomef=\"fx\"], [f])\nConsulta ou configura a fila nomeada de elt ou adiciona uma nova função f nessa fila. O \nmesmo que $(elt).queue(qname, f).\n\n946          Parte IV     Referência de JavaScript do lado do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5010,
+    "totalChunks": 10000
+  }
+}

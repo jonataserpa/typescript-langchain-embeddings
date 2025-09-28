@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5624",
+  "content": "ight, top e bottom, 382\n    objeto ClientRect, 864\npropriedades naturalHeight e naturalWidth, objeto \nImage, 925\npropriedades off set, elementos do documento, 384\npropriedades off setHeight e off setWidth, objeto Ele-\nment, 384, 888–889\npropriedades off setLeft e off setTop, objeto Element, \n384, 888–889\npropriedades off setX e off setY, objeto Event, 901\npropriedades outerHeight e outerWidth, objeto \nWindow, 987\npropriedades pageX e pageY, objeto Event, 901\n    na jQuery, 529\npropriedades pageXOff set e pageYOff set, objeto \nWindow, 381–382, 987\npropriedades port1 e port2, objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5624,
+    "totalChunks": 10000
+  }
+}

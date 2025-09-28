@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2412",
+  "content": "ai ter um valor medido em pixels. \nEsse valor vai ser uma string com o sufixo “px”, de modo que você ainda precisará analisá-lo, \nmas não precisará analisar ou converter unidades. As propriedades cujos valores são cores serão \nretornadas no formato “rgb(#,#,#)” ou “rgba(#,#,#,#)”.\n •   As propriedades de atalho não são computadas, mas apenas as propriedades fundamentais \nem que são baseadas. Não consulte a propriedade\n margin, por exemplo, mas use marginLeft, \nmarginTop etc.\n •   A propriedade \ncssText do estilo calculado é indefinida.\nOs estilos computados e os estilos em linha podem ser",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2412,
+    "totalChunks": 10000
+  }
+}

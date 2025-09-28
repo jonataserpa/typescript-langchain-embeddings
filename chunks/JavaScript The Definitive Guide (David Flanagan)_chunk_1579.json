@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1579",
+  "content": "Seção 12.2.\nO título deste capítulo diz que ele fala sobre JavaScript “do lado do servidor”, sendo que o Node e o \nRhino são ambos em geral usados para criar ou fazer scripts de servidores. Mas a expressão “do lado \ndo servidor” também pode significar “algo fora do navegador Web”. Os programas Rhino podem \ncriar interfaces gráficas com o usuário com a estrutura Swing da linguagem Java. E o Node pode \nexecutar programas JavaScript que manipulam arquivos como os scripts de shell.\nEste capítulo é breve, destinado apenas a destacar algumas maneiras de usar JavaScript fora dos \nnavegadores Web.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1579,
+    "totalChunks": 10000
+  }
+}

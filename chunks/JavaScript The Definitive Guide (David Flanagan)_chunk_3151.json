@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3151",
+  "content": "pecificada será chamada uma vez como método de cada um dos elementos no objeto jQuery \ne vai receber três argumentos para cada chamada: o texto completo do URL carregado, uma string \n\n546          Parte II     JavaScript do lado do cliente\nde código de status e o objeto XMLHttpRequest usado para carregar o URL. O argumento status é \num código de status da jQuery e não HTTP, e será uma string como “success”, “error” ou “timeout”.\nCódigos de status Ajax da jQuery\nTodos  os  utilitários  Ajax  da  jQuery,  incluindo  o  método  load(),  chamam  funções  callback  para  forne-\ncer notificação",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3151,
+    "totalChunks": 10000
+  }
+}

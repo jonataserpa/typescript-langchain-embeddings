@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3405",
+  "content": "lhor seria “armazenamento de aplicativo”.\nO motivo de instalar aplicativos Web de forma local é para garantir sua disponibilidade quando es-\ntiver off-line (como quando se está em um avião ou quando um telefone celular não está recebendo \nsinal). Os aplicativos Web que funcionam enquanto estão off-line se instalam sozinhos na cache de \naplicativo, utilizam localStorage para armazenar seus dados e têm um mecanismo de sincronização \npara transferir dados armazenados para o servidor quando voltarem a estar online. Vamos ver um \nexemplo de aplicativo Web off-line na Seção 20.4.3. Primeiramente,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3405,
+    "totalChunks": 10000
+  }
+}

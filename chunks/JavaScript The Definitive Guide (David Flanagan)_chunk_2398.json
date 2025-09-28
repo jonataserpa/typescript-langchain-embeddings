@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2398",
+  "content": "r quanto tempo desde que começamos\n        var fraction = elapsed/time;             // Que fração do tempo total?\n        if (fraction < 1) {     // Se a animação ainda não está terminada\n            // Calcula a posição x de e como uma função da fração\n            // da conclusão da animação. Usamos uma função senoidal e multiplicamos\n            // a fração da conclusão por 4pi, de modo que chacoalhe para trás e\n            // para frente duas vezes.\n            var x = distance * Math.sin(fraction*4*Math.PI);\n            e.style.left = x + \"px\";\n            // Tenta executar novamente em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2398,
+    "totalChunks": 10000
+  }
+}

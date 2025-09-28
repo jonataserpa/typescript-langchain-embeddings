@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5540",
+  "content": "776\n    função acos( ), 775–776\n    função asin( ), 776\n    função atan( ), 776\n    função atan2( ), 776\n\nÍndice          1041\n    função ceil( ), 777\n    função cos( ), 778\n    função exp( ), 778\n    função    fl oor( ), 779\n    função log( ), 780\n    função max( ), 181–182\n    função min( ), 781\n    função pow( ), 782\n    função random( ), 782\n    função round( ), 782\n    função sin( ), 783–784\n    função sqrt( ), 783–784\n    função tan( ), 784–785\n    funções e constantes defi nidas como propriedades, \n32\n    funções estáticas, 774–775\n    método max( ), 781\nobjeto MediaElement, 949–954",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5540,
+    "totalChunks": 10000
+  }
+}

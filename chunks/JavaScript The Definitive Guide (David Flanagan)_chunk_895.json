@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_895",
+  "content": "tring” para strings, é claro, e o método Array.isArray() retorna \nfalse se uma string é passada para ele.\nA principal vantagem das strings que podem ser indexadas é simplesmente que podemos substituir \nchamadas para \ncharAt() por colchetes, que são mais concisos, legíveis e possivelmente mais eficien-\n\nCapítulo     7     Arrays          157\nJavaScript básica\ntes. Contudo, o fato de strings se comportarem como arrays também significa que podemos aplicar \nnelas métodos genéricos de array. Por exemplo:\ns = \"JavaScript\"\nArray.prototype.join.call(s, \" \")    // => \"J a v a S c r i p",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 895,
+    "totalChunks": 10000
+  }
+}

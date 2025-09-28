@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_80",
+  "content": "// O método push() adiciona elementos em um array\na.reverse();  // Outro método: inverte a ordem dos elementos\n// Também podemos definir nossos próprios métodos. A palavra-chave \"this\" se refere ao \n// objeto no qual o método é definido: neste caso, o array de pontos anterior.\npoints.dist = function() {        // Define um método para calcular a distância entre\n                //    pontos\n    var p1 = this[0]; // Primeiro elemento do array que chamamos\n    var p2 = this[1]; // Segundo elemento do objeto \"this\"\n    var a = p2.x-p1.x; // Diferença em coordenadas X\n    var b = p2.y-p1.y; //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 80,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3788",
+  "content": "<script src=\"http://code.jquery.com/jquery-1.4.4.min.js\"/></script>\n<script>\n// Devemos usar apenas window.onmessage, mas alguns navegadores mais antigos\n// (por exemplo, o Firefox 3) não suportam isso; portanto, fazemos desta maneira.\nif (window.addEventListener)\n    window.addEventListener(\"message\", handleMessage, false);\nelse\n    window.attachEvent(\"onmessage\", handleMessage);      // Para o IE8\nfunction handleMessage(e) {\n    // Não estamos preocupados com a origem dessa mensagem: queremos\n    // procurar no Twitter alguém que nos responda. No entanto, esperamos\n    // que a mensagem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3788,
+    "totalChunks": 10000
+  }
+}

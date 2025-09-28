@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1785",
+  "content": "e exatamente conforme o especificado. Às vezes, escrever código compatível em JavaScript do \nlado do cliente é uma questão de estar ciente e saber como solucionar os erros nos navegadores \nexistentes.\nFelizmente, a linguagem JavaScript em si é implementada considerando a interoperabilidade por \ntodos os fornecedores de navegador e não é uma fonte de problemas de compatibilidade. Todos os \nnavegadores têm implementações interoperáveis de ES3 e, quando este livro estava sendo escrito, \n3\n  Para dar crédito à Microsoft, o IE9 agora oferece suporte para o elemento <canvas> e para o método",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1785,
+    "totalChunks": 10000
+  }
+}

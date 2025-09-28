@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3645",
+  "content": "entes da posição. \nQuando cria um gradiente, você especifica limites para ele. Então, se você tentar preencher uma área \nfora desses limites, vai obter a cor uniforme definida em uma ou na outra extremidade do gradiente. \nSe você define um gradiente ao longo da linha entre (0,0) e (100, 100), por exemplo, só deve usar \nesse gradiente para preencher objetos localizados dentro do retângulo (0,0,100,100).\nO elemento gráfico mostrado na Figura 21-10 foi criado com o padrão \npattern e os gradientes \nbgfade e peekhole definidos anteriormente, usando o código a seguir:\nc.fillStyle = bgfade;  //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3645,
+    "totalChunks": 10000
+  }
+}

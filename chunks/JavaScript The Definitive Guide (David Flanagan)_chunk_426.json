@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_426",
+  "content": "sições, eles são iguais. Se as strings diferem no compri-\nmento ou no conteúdo, eles não são iguais. Duas strings podem ter o mesmo significado e a \nmesma aparência visual, mas ainda serem codificadas usando diferentes sequências de valores \nde 16 bits. JavaScript não faz normalização alguma de Unicode e duas strings como essas não \nsão consideradas iguais para os operadores \n=== ou ==. Consulte String.localeCompare() na \nParte III para ver outro modo de comparar strings.\n •   Se os dois valores se referem ao mesmo objeto, array ou função, eles são iguais. Se eles se referem \na objetos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 426,
+    "totalChunks": 10000
+  }
+}

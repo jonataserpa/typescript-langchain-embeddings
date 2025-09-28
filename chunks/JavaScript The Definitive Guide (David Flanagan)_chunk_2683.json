@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2683",
+  "content": "portante objeto dataTransfer\n            var dt = e.dataTransfer;\n            // Informa quais dados precisamos arrastar e em que formato estão\n            dt.setData(\"Text\", target.innerText || target.textContent);\n            // Informa que sabemos como permitir cópias ou movimentações dos dados\n            dt.effectAllowed = \"copyMove\";\n        };\n   // Esta rotina de tratamento é chamada depois da ocorrência de uma soltura \n// bem-sucedida\n        list.ondragend = function(e) {\n            e = e || window.event;\n            var target = e.target || e.srcElement;\n\nCapítulo 17     Tratando",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2683,
+    "totalChunks": 10000
+  }
+}

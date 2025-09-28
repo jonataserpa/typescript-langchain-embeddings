@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4655",
+  "content": "yte em deslocamentoByte como um número inteiro sem sinal e retorna esse número.\n\n      Referência de JavaScript do lado do cliente      875\nReferência de \nJavaScript do lado \ndo cliente\nvoid setFloat32(unsigned long deslocamentoByte, float valor, [boolean littleEndian])\nConverte valor em uma representação em ponto flutuante de 4 bytes e grava esses bytes em deslo-\ncamentoByte.\nvoid setFloat64(unsigned long deslocamentoByte, double valor, [boolean littleEndian])\nConverte valor em uma representação em ponto flutuante de 8 bytes e grava esses bytes em deslo-\ncamentoByte.\nvoid setInt16(unsigned",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4655,
+    "totalChunks": 10000
+  }
+}

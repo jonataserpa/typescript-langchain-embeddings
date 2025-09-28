@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3668",
+  "content": ", \nonde ela não é visível. Se você configurar as duas propriedades com um valor positivo, as sombras \nvão aparecer abaixo e à direita do que for desenhado, como se houvesse uma fonte de luz acima e à \nesquerda, iluminando o canvas de fora da tela do computador. Deslocamentos maiores produzem \nsombras maiores e fazem os objetos desenhados parecerem estar flutuando “mais alto” no canvas.\nA propriedade \nshadowBlur especifica o quanto as bordas da sombra são indistintas. O valor padrão é \n0, o qual produz sombras nítidas. Valores maiores produzem mais indistinção, até um limite supe-\nrior",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3668,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2499",
+  "content": "ficientemente curto), o segundo evento click será seguido por um evento \ndblclick. Os navegadores em geral exibem um menu de contexto quando o botão direito do \nmouse é clicado. Eles costumam disparar um evento contextmenu antes de exibir o menu e, se \nvocê cancelar o evento, pode impedir a exibição do menu. Essa também é uma maneira fácil de \nser notificado de cliques do botão direito do mouse.\n\n440          Parte II     JavaScript do lado do cliente\nQuando o usuário move o mouse sobre um novo elemento, o navegador dispara um evento \nmouseover nesse elemento. Quando o mouse sai de um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2499,
+    "totalChunks": 10000
+  }
+}

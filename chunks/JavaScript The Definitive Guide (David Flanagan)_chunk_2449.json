@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2449",
+  "content": "de estilo\n// Adiciona uma folha de estilo no documento e a preenche com os estilos especificados.\n// O argumento styles pode ser uma string ou um objeto. Se for uma string, ela\n// é tratada como o texto da folha de estilo. Se for um objeto, então cada\n// propriedade define uma regra de estilo a ser adicionada na folha de estilo. Os nomes\n// de propriedade são seletores e seus valores são os estilos correspondentes\nfunction addStyles(styles) {\n    // Primeiramente, cria uma nova folha de estilo\n    var styleElt, styleSheet;\n    if (document.createStyleSheet) { // Se a API do IE estiver",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2449,
+    "totalChunks": 10000
+  }
+}

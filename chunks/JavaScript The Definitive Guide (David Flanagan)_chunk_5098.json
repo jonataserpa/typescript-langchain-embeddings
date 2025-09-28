@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5098",
+  "content": "nó. Se novoFilho já faz parte do documento, ele primeiramente é removido do documento, \nantes de ser reinserido em sua nova posição. Se novoFilho é um DocumentFragment, ele mesmo \nnão é inserido; em vez disso, cada um de seus filhos é inserido, em ordem, na posição anteriormente \nocupada por filhoAntigo.\nNodeList\num objeto semelhante a um array somente de leitura de Nodes\nNodeList é um objeto semelhante a um array somente de leitura cujos elementos são objetos \nNode \n(normalmente Elements). A propriedade length especifica quantos nós estão na lista e você pode \nrecuperar esses nós dos índices",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5098,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2129",
+  "content": "propriedade innerHTML e um DocumentFragment. Ele também define funções de inserção HTML \ncom nomes lógicos, como uma alternativa à confusa API insertAdjacentHTML(). A função utilitária \ninterna fragment() possivelmente é a parte mais útil desse código: ela retorna um DocumentFrag-\nment que contém a representação analisada de uma string de texto HTML especificada.\nExemplo 15-6 Implementando insertAdjacentHTML() usando innerHTML\n// Este módulo define Element.insertAdjacentHTML para navegadores que não\n// a suportam e também define funções portáveis de inserção de HTML que têm\n// nomes mais",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2129,
+    "totalChunks": 10000
+  }
+}

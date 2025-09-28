@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1660",
+  "content": "();\n    // Uma função para tratar da resposta quando ela começar a chegar\n    request.on(\"response\", function(response) {\n        //        Define uma codificação para que o corpo seja retornado como texto e não como\n        //    bytes\n        response.setEncoding(\"utf8\");\n        // Salva o corpo da resposta quando ela chega\n        var body = \"\"\n        response.on(\"data\", function(chunk) { body += chunk; });\n        // Quando a resposta é concluída, chama o retorno da chamada\n        response.on(\"end\", function() {\n            if (callback) callback(response.statusCode, response.headers,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1660,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4567",
+  "content": "preenche o retângulo especificado com preto transparente. Ao contrário de rect(), não \nafeta o ponto atual nem o caminho atual.\nvoid clip()\nEsse método calcula a intersecção do interior do caminho atual com a região de recorte atual e usa \nessa região (menor) como a nova região de recorte. Note que não há como aumentar a região de re-\ncorte. Se quiser uma região de recorte temporária, você deve primeiro chamar \nsave() para posterior-\nmente chamar \nrestore() a fim de restaurar a região de recorte original. A região de recorte padrão de \num canvas é o próprio retângulo do canvas.\nAssim como o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4567,
+    "totalChunks": 10000
+  }
+}

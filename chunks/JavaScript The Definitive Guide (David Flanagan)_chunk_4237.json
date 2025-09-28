@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4237",
+  "content": "/ => verdadeiro\n\n770          Parte III     Referência de JavaScript básica\nisNaN(\"3\");                     // => falso\nisNaN(\"hello\");                 // => verdadeiro\nisNaN(true);                    // => falso\nisNaN(undefined);               // => verdadeiro\nConsulte também\nisFinite(), NaN, Number.NaN, parseFloat(), parseInt()\nJSON ECMAScript 5\nanálise e transformação em string JSON\nDescrição\nJSON é um objeto simples que serve como espaço de nomes para as funções globais de ECMAScript \n5 JSON.parse() e JSON.stringify(). JSON não é uma construtora. Antes de ECMAScript 5, funções \nde análise",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4237,
+    "totalChunks": 10000
+  }
+}

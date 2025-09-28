@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3451",
+  "content": "requisições HTTP e registram uma rotina de tratamento de \nonload no objeto XMLHttpRequest para serem notificadas quando o upload ou download \nestiver concluído.\nonbeforeunload\nSalva a versão atual da anotação no servidor, caso não tenha sido carregada.\noninput\nQuando o texto em <textarea> muda, salva-o em localStorage e inicia um timer. Se o usuário \npara de editar por 5 segundos, salva a anotação no servidor.\nonoffline\nQuando o navegador fica off-line, exibe uma mensagem na linha de status.\nononline\nQuando o navegador volta a ficar online, sincroniza com o servidor, procurando uma versão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3451,
+    "totalChunks": 10000
+  }
+}

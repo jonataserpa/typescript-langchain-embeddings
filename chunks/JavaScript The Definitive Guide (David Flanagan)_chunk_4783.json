@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4783",
+  "content": "el. Nesse navegador, essa pro-\npriedade é uma máscara de bits: o bit 1 é ativado se o botão esquerdo foi pressionado, o 2 bit é \nativado se o botão direito foi pressionado e o bit 4 é ativado se o botão do meio (de um mouse \ncom três botões) foi pressionado. A jQuery não simula a propriedade button padrão no IE; em \nvez disso, consulte a propriedade which.\nreadonly boolean cancelable*\ntrue se a ação padrão associada ao evento pode ser cancelada com preventDefault(); caso con-\ntrário, false. Definida por todos os tipos de evento padrão, mas não por eventos do IE.\nboolean cancelBubble\nNo modelo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4783,
+    "totalChunks": 10000
+  }
+}

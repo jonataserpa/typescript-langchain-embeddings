@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4850",
+  "content": "on”, o navegador pode preencher os controles do formulário \nantecipadamente com os valores salvos de uma visita anterior à página.\nreadonly HTMLFormControlsCollection elements\nUm objeto semelhante a um array de controles contidos nesse formulário.\nstring enctype\nEspecifica como os valores dos controles de formulário são codificados para envio. Os valores \nválidos dessa propriedade são:\n• “application/x-www-form-urlencoded” (o padrão)\n• “multipart/form-data”\n• “text/plain”\nreadonly long length\nO número de controles de formulário representados pela propriedade elements. Os elementos do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4850,
+    "totalChunks": 10000
+  }
+}

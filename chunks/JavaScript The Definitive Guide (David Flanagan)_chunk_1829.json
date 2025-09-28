@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1829",
+  "content": "sible \nRich Internet Applications), no endereço http://www.w3.org/WAI/intro/aria.\n13.6   Segurança\nA introdução de interpretadores JavaScript nos navegadores Web significa que carregar uma página \nWeb pode causar a execução de código JavaScript arbitrário em seu computador. Isso tem claras \n\nCapítulo 13     JavaScript em navegadores Web      325\nJavaScript do\n lado do cliente\nimplicações na segurança, sendo que os fornecedores de navegador têm trabalhado bastante para \nequilibrar dois objetivos conflitantes:\n •   Definir APIs do lado do cliente poderosas para possibilitar aplicativos Web",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1829,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4801",
+  "content": "especifica a quantidade de rolagem ocorrida \nno eixo Y. Diferentes navegadores configuram diferentes valores nessa propriedade. Consulte \na Seção 17.6 para ver os detalhes. Essa é uma propriedade não padronizada, mas é suportada \npor todos os navegadores, incluindo o IE8 e anteriores.\nreadonly integer wheelDeltaX\nreadonly integer wheelDeltaY\nPara eventos da roda do mouse em navegadores que suportam rodas de mouse bidimensionais, \nessas propriedades especificam a quantidade de rolagem nas dimensões X e Y. Consulte a Seção \n17.6 para ver uma explicação sobre como interpretar essas propriedades.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4801,
+    "totalChunks": 10000
+  }
+}

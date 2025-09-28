@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_665",
+  "content": "m objeto recém-criado que herda propriedades do\n// objeto protótipo p. Ele usa a função ECMAScript 5 Object.create() se\n// estiver definida e, caso contrário, retrocede para uma técnica mais antiga.\nfunction inherit(p) {\n    if (p == null) throw TypeError();   // p deve ser um objeto não null\n    if (Object.create)        // Se Object.create() está definida...\n        return Object.create(p);       // então basta usá-la.\n    var t = typeof p;     // Caso contrário, faz mais alguma verificação de \n// tipo\n    if (t !== \"object\" && t !== \"function\") throw TypeError();\n    function f() {};",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 665,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4619",
+  "content": "e uma pilha com o rastro.\nvoid warn(any mensagem...)\nÉ como console.log(), mas marca a saída como um aviso.\nConsoleCommandLine\nutilitários globais para a janela de console\nA maioria dos navegadores Web suporta uma console JavaScript (que pode ser conhecida por um \nnome como “Developer Tools” ou “Web Inspector”) que permite inserir linhas de código JavaScript \nindividuais. Além das variáveis e funções globais normais de JavaScript do lado do cliente, a linha de \ncomando da console normalmente suporta as propriedades e funções úteis descritas aqui. Consulte \ntambém a API \nConsole.\n\n868",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4619,
+    "totalChunks": 10000
+  }
+}

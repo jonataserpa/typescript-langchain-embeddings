@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4942",
+  "content": "hama f uma vez, como método de cada elemento selecionado. Para de iterar se a função \nretorna false. Retorna o objeto jQuery no qual foi chamada.\nget(ind):elt\nget():array\nRetorna  o  elemento  selecionado  do  índice  especificado  no  objeto  jQuery.  Você  também  \npode usar indexação de array com colchetes normal. Sem argumentos, get() é sinônimo de \ntoArray().\nindex():int\nindex(sel):int\nindex(elt):int\nSem argumentos, retorna o índice do primeiro elemento selecionado dentre seus irmãos. Com \num argumento seletor, retorna o índice do primeiro elemento selecionado dentro do conjun-\nto de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4942,
+    "totalChunks": 10000
+  }
+}

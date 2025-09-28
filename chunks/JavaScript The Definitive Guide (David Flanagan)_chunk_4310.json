@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4310",
+  "content": "s propriedades podem ser adicionadas no objeto especificado.\nObject.isFrozen()\nDetermina se o objeto especificado está congelado.\nObject.isSealed()\nDetermina se o objeto especificado está selado.\nObject.keys()\nRetorna um array com os nomes das propriedades enumeráveis não herdadas do objeto espe-\ncificado.\nObject.preventExtensions()\nImpede uma futura adição de propriedades no objeto especificado.\nObject.seal()\nImpede a adição de novas propriedades e a exclusão de propriedades existentes do objeto es-\npecificado.\nDescrição\nA classe Object é um tipo de dados interno da linguagem JavaScript. Ela",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4310,
+    "totalChunks": 10000
+  }
+}

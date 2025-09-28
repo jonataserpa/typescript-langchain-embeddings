@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_469",
+  "content": "essa função. O problema \nde definir \neval() como uma função é que ela pode receber outros nomes:\nvar f = eval;\nvar g = f;\nSe isso for permitido, o interpretador não poderá otimizar com segurança nenhuma função que chame \ng(). Esse problema poderia ser evitado se eval fosse um operador (e uma palavra reservada). Vamos \naprender a seguir (na Seção 4.12.2 e na Seção 4.12.3) sobre as restrições impostas a \neval() para torná-la \nmais parecida com um operador.\n4.12.1   eval()\neval() espera um único argumento. Se for passado qualquer valor que não seja uma string, ela \nsimplesmente retorna esse",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 469,
+    "totalChunks": 10000
+  }
+}

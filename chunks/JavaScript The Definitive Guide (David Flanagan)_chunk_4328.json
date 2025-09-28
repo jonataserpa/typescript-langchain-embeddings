@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4328",
+  "content": "buto writable de propriedades de dados. As proprie-\ndades que têm uma função setter definida não são afetadas. Note também que Object.freeze() não \nafeta propriedades herdadas.\nNote que esse não é um método a ser chamado em um objeto: é uma função global e você deve \npassar um objeto para ela.\nConsulte também\nObject.defineProperty(), Object.isFrozen(), Object.preventExtensions(), Object.seal(), Seção 6.8.3\nObject.getOwnPropertyDescriptor() ECMAScript 5\nconsulta atributos de propriedade\nSinopse\nObject.getOwnPropertyDescriptor(o, nome)\nArgumentos\no\nO objeto que terá seus atributos de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4328,
+    "totalChunks": 10000
+  }
+}

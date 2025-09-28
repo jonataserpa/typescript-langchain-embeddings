@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5509",
+  "content": "jQuery, 567\nmétodos nextUntil( ) e prevUntil( ), jQuery, 567\nmétodos outerWidth( ) e outerHeight( ), jQuery, \n521\nmétodos parent( ) e parents( ), jQuery, 567\nmétodos slideDown( ), slideUp( ) e slideToggle( ), \njQuery, 539\nmétodos wrap( ), wrapAll( ) e wrapInner( ), jQuery, \n525\nMicrosoft Web Sandbox, 262\nmídia\n    consultando o status, 604\n    controlando a reprodução, 603\n    eventos,    606\n    script de áudio e vídeo, 601\n    seleção e carregamento de tipo, 603\nMIN_VALUE (Number), 787–788\nmodelo content-box, 414\nmodelo de caixa (CSS), 413\n    modelo border-box e propriedade box-sizing,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5509,
+    "totalChunks": 10000
+  }
+}

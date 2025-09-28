@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_700",
+  "content": ".f;         // Também não pode excluir esta propriedade\n\n122          Parte     I     JavaScript     básica\nAo excluir propriedades configuráveis do objeto global no modo não restrito, você pode omitir a \nreferência ao objeto global e simplesmente colocar o nome da propriedade após o operador delete:\nthis.x = 1;      // Cria uma propriedade global configurável (sem var)\ndelete x;        // E a exclui\nNo modo restrito, no entanto, delete dispara um SyntaxError se seu operando for um identificador \nnão qualificado, como x, e é preciso ser explícito sobre o acesso à propriedade:\ndelete x;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 700,
+    "totalChunks": 10000
+  }
+}

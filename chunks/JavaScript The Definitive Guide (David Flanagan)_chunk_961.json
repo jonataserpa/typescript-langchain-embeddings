@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_961",
+  "content": "ritivos para argumentos de função e incluindo os tipos de argumento nos comentários, \ncomo no método arraycopy() que acabamos de mostrar. Para argumentos opcionais, você pode in-\ncluir a palavra “opcional” no comentário. E quando um método pode aceitar qualquer número de \nargumentos, você pode usar reticências:\nfunction max(/* número... */) { /* código aqui */ }\n\n170          Parte     I     JavaScript     básica\nConforme descrito na Seção 3.8, JavaScript faz conversão de tipo de forma livre, quando necessário. \nAssim, se você escreve uma função que espera um argumento de string e então chama",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 961,
+    "totalChunks": 10000
+  }
+}

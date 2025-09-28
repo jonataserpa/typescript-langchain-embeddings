@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5313",
+  "content": "u strings de \nfolha de estilo, 421\n    opcional, terminando instruções, 25\n\nÍndice          1005\n    separando pares nome-valor em propriedades de \nestilo, 403\n    terminando instruções, 6, 85\n/ (barra normal)\n    /* */ comentários e, javascript: código de URL, \n307\n    /*@cc_on e @*/ em comentários condicionais, \n323\n    // e /* */ em comentários, 23\n    // em comentários, 4\n    englobando literais de expressão regular, 245\n    instruções começando com, 26\n    operador /= (divisão e atribuição), 61, 76–77\n    operador de divisão, 32, 61\n[ ] (colchetes)\n    acessando caracteres de string",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5313,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5408",
+  "content": "tos, 451\n    objeto FileReader, 682–683\n    registrando rotina de tratamento de evento para, \n11\n    rotina de tratamento de evento onload, objeto \nWindow, 301\n    suporte do navegador para, 316\neventos mousewheel, 440, 441, 459–462\n    trabalhando com, capacidade de funcionamento \nem conjunto, 459\n    tratando,    460–462\neventos personalizados, usando jQuery com, 535\neventos popstate, 657\neventos progress, 443, 485, 494–497\n    HTTP,    494\n    upload,    495\n    XMLHttpRequest Level 2 (XHR2), 1001\neventos progress de carregamento, 495\neventos readystatechange, 453, 486\neventos resize,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5408,
+    "totalChunks": 10000
+  }
+}

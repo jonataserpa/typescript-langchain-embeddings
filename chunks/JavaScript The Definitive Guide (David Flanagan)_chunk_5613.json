@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5613",
+  "content": "opriedade text-shadow, 411\npropriedade tFoot, objeto Table, 974–975\npropriedade tHead, objeto Table, 974–975\npropriedade timeout, objeto XMLHttpRequest, \n497, 999\npropriedade timeStamp, objeto Event, 529, 902–903\npropriedade timestamp, objeto Geoposition, 919\npropriedade title\n    objeto CSSStyleSheet, 429, 871\n    objeto Document, 395, 878\n    objeto Element, 889–890\n    objeto Link, 947\n    objeto Style, 973–974\npropriedade toElement, objeto Event, 902–903\npropriedade tooLong, objeto FormValidity, 916\npropriedade top\n    objeto ClientRect, 864\n    objeto Window, 347, 988\npropriedade total,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5613,
+    "totalChunks": 10000
+  }
+}

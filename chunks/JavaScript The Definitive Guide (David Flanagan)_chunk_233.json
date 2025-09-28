@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_233",
+  "content": "mo que #. Por fim, conforme observado \nanteriormente, a ECMAScript 5 permite que uma barra invertida antes de uma quebra de linha \ndivida uma string literal em várias linhas.\n3.2.3   Trabalhando com strings\nUm dos recursos incorporados a JavaScript é a capacidade de concatenar strings. Se o operador + é \nutilizado com números, ele os soma. Mas se esse operador é usado em strings, ele as une, anexando \na segunda na primeira. Por exemplo:\nmsg = \"Hello, \" + \"world\";      // Produz a string \"Hello, world\"\ngreeting = \"Welcome to my blog,\" + \" \" + name;\nPara determinar o comprimento de uma string –",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 233,
+    "totalChunks": 10000
+  }
+}

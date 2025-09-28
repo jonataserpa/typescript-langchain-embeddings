@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5481",
+  "content": "objeto Date, 732\nmétodo getMonth( ), objeto Date, 732\nmétodo getSeconds( ), objeto Date, 732\nmétodo getSelection( ), objeto Window, 398\nmétodo getTime( ), objeto Date, 732\nmétodo getTimezoneOff set( ), objeto Date, 733\nmétodo getUint16( ), objeto DataView, 874\nmétodo getUint32( ), objeto DataView, 874\nmétodo getUint8( ), objeto DataView, 874\nmétodo getUTCDate( ), objeto Date, 733\nmétodo getUTCDay( ), objeto Date, 734\nmétodo getUTCFullYear( ), objeto Date, 734\nmétodo getUTCHours( ), objeto Date, 734\nmétodo getUTCMilliseconds( ), objeto Date, 734\nmétodo getUTCMinutes( ), objeto Date,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5481,
+    "totalChunks": 10000
+  }
+}

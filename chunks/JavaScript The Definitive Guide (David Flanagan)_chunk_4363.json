@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4363",
+  "content": "-\ndow”, “Document”, etc. Ocasionalmente, esse comportamento do método toString() padrão é útil \npara determinar o tipo ou a classe de um objeto desconhecido. Contudo, como a maioria dos ob-\njetos tem uma versão personalizada de toString(), você deve chamar o método Object.toString() \nexplicitamente em um objeto o, com código como o seguinte:\nObject.prototype.toString.apply(o);\nNote que essa técnica de identificação de objetos desconhecidos só funciona para objetos internos. \nSe você definir sua própria classe de objetos, ela terá uma classe “Object”. Nesse caso, pode usar a \npropriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4363,
+    "totalChunks": 10000
+  }
+}

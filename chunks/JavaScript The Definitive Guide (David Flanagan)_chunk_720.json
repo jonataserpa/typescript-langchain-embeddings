@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_720",
+  "content": "termos em inglês para identificar os métodos usados explicitamente para configura-\nção e consulta a propriedades de objetos (setter e getter, respectivamente).\n\n126          Parte     I     JavaScript     básica\npropriedades definidas por métodos getter e setter às vezes são conhecidas como propriedades de acesso, \npara distingui-las das propriedades de dados que têm um valor simples.\nQuando um programa consulta o valor de uma propriedade de acesso, JavaScript chama o méto-\ndo getter (sem passar argumentos). O valor de retorno desse método se torna o valor da expressão \nde acesso à",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 720,
+    "totalChunks": 10000
+  }
+}

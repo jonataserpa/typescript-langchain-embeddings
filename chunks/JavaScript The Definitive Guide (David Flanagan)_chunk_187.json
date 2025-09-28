@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_187",
+  "content": "tos, \ndefinindo funções construtoras apropriadas. Isso está explicado no Capítulo 9.\nO interpretador JavaScript realiza a coleta de lixo automática para gerenciamento de memória. Isso \nsignifica que um programa pode criar objetos conforme for necessário e o programador nunca pre-\ncisa se preocupar com a destruição ou desalocação desses objetos. Quando um objeto não pode mais \nser acessado – quando um programa não tem mais maneira alguma de se referir a ele –, o interpre-\ntador sabe que ele nunca mais pode ser utilizado e recupera automaticamente o espaço de memória \nque ele estava",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 187,
+    "totalChunks": 10000
+  }
+}

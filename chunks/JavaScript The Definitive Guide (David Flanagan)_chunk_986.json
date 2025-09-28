@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_986",
+  "content": "ionar o espaço de nomes global.\n}\nmymodule();  // Mas não se esqueça de chamar a função!\nEsse código define apenas uma variável global: o nome de função “mymodule”. Mas, se definir \nmesmo uma única propriedade é demasiado, você pode definir e chamar uma função anônima em \numa única expressão:\n(function() {    // função mymodule reescrita como uma expressão não nomeada\n    // O código do módulo fica aqui.\n}());           // finaliza a função literal e a chama agora.\nEssa técnica de definir e chamar uma função em uma única expressão é utilizada com frequência \nsuficiente para se tornar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 986,
+    "totalChunks": 10000
+  }
+}

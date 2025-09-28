@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3011",
+  "content": "o chamados nos elementos alvo e recebem \ncomo argumento o conteúdo que será inserido. Cada um desses cinco métodos pode ser correlacio-\nnado a outro método de funcionamento inverso: chamado no conteúdo e que recebe os elementos \ndo alvo como argumento. A tabela a seguir mostra os pares de método:\nOperação\n$(target).método(content)      $(content).método(target)\ninsere conteúdo no final de target\nappend()appendTo()\ninsere conteúdo no início de target\nprepend()prependTo()\ninsere conteúdo após target\nafter()insertAfter()\ninsere conteúdo antes de target\nbefore()insertBefore()\nsubstitui target por",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3011,
+    "totalChunks": 10000
+  }
+}

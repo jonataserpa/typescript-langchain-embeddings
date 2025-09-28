@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2331",
+  "content": "de modo que \no último elemento sobreposto aparece em cima.\nNote que o empilhamento de \nz-index só se aplica a elementos irmãos (isto é, elementos que são \nfilhos do mesmo contêiner). Se dois elementos que não são irmãos se sobrepõem, a configuração \nde suas propriedades z-index individuais não permite especificar qual deles fica em cima. Em vez \ndisso, deve-se especificar a propriedade z-index dos dois contêineres irmãos dos dois elementos \nsobrepostos.\nOs elementos não posicionados (isto é, elementos com posicionamento\n position:static padrão) \nsão sempre dispostos de uma maneira que impede",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2331,
+    "totalChunks": 10000
+  }
+}

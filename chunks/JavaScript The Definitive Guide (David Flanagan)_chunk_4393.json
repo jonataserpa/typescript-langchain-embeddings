@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4393",
+  "content": "global ou não. É aí que exec() difere de String.match(), que retorna muito menos \ninformações quando usado com padrões globais. Chamar o método exec() repetidamente em um laço \né a única maneira de obter informações de comparação de padrões completas para um padrão global.\nExemplo\nVocê pode usar exec() em um laço para encontrar todas as coincidências dentro de uma string. Por \nexemplo:\nvar pattern = /\\bJava\\w*\\b/g;\nvar text = \"JavaScript is more fun than Java or JavaBeans!\";\nvar result;\nwhile((result = pattern.exec(text)) != null) {\n    alert(\"Matched '\" + result[0] +\n          \"' at position",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4393,
+    "totalChunks": 10000
+  }
+}

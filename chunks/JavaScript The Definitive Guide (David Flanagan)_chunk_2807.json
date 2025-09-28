@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2807",
+  "content": "que não são de formulário \nem geral é o mais fácil a fazer. O Exemplo 18-4 demonstra como codificar como formulário as pro-\npriedades de um objeto.\nExemplo 18-4 Codificando um objeto para uma requisição HTTP\n/**\n * Codifica as propriedades de um objeto como se fossem pares nome/valor de\n * um formulário HTML, usando o formato application/x-www-form-urlencoded\n */\n\n490          Parte II     JavaScript do lado do cliente\nfunction encodeFormData(data) {\n    if (!data) return \"\";       // Sempre retorna uma string\nvar pairs = [];  // Para conter pares nome=valor\nfor(var name in data) { // Para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2807,
+    "totalChunks": 10000
+  }
+}

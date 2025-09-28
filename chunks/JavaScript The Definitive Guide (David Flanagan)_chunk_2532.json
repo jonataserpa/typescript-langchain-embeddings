@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2532",
+  "content": "e. Em vez disso, o objeto enviado com um evento de toque tem uma proprieda-\nde\n changedTouches. Essa propriedade é um objeto semelhante a um array cujos elementos descrevem \ncada um a posição de um toque.\nO evento orientationchanged é disparado no objeto Window por dispositivos que permitem ao \nusuário girar a tela do modo retrato para o modo paisagem. O objeto passado com um evento \norientationchanged não é útil em si. Contudo, no Safari móvel, a propriedade \norientation do objeto \nWindow fornece a orientação atual como um dos números 0, 90, 180 ou -90.\n17.2   Registrando rotinas de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2532,
+    "totalChunks": 10000
+  }
+}

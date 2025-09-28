@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4754",
+  "content": "são disparados apenas em certos tipos de elementos HTML. Mas \ncomo a maioria desses eventos borbulha para cima na árvore de documentos, as propriedades de \ntratamento de evento são definidas genericamente para todos os elementos. Os eventos de mídia de \nHTML5 disparados em tags \n<audio> e <video> não borbulham, de modo que estão documentados \nem MediaElement. Do mesmo modo, alguns eventos de HTML5 relacionados a formulário não bor-\nbulham e são abordados sob FormControl.\nRotina de tratamento de eventoChamada quando...\nonabort\no carregamento do recurso é cancelado a pedido do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4754,
+    "totalChunks": 10000
+  }
+}

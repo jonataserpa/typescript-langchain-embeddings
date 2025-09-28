@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2388",
+  "content": "érico do cálculo vai ser convertido em uma string como um efeito \ncolateral da anexação da string de unidades.\nLembre-se de que algumas propriedades CSS, como \nmargin, são atalhos para outras propriedades, \ncomo margin-top, margin-right, margin-bottom e margin-left. O objeto CSSStyleDeclaration tem \npropriedades que correspondem a essas propriedades de atalho. Por exemplo, você poderia configu-\nrar a propriedade margin como segue:\ne.style.margin =  topMargin + \"px \" + rightMargin + \"px \" +\nbottomMargin + \"px \" + leftMargin + \"px\";\nCom certeza, é mais fácil configurar as quatro propriedades de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2388,
+    "totalChunks": 10000
+  }
+}

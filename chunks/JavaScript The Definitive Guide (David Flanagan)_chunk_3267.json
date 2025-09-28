@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3267",
+  "content": "2,5)     // Seleciona o 3º, 4º e 5º elementos <p>\n$(\"div\").slice(-3)    // Os três últimos elementos <div>\nfilter()\n é um método de filtragem de seleção de uso geral e pode ser chamado de três maneiras \ndiferentes:\n •   Se você passa uma string seletora para \nfilter(), ele retorna um objeto jQuery contendo ape-\nnas os elementos selecionados que também correspondem a esse seletor.\n •   Se você passa outro objeto jQuery para \nfilter(), ele retorna um novo objeto jQuery contendo \na interseção dos dois objetos jQuery. Você também pode passar um array de elementos ou \nmesmo um único elemento do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3267,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5362",
+  "content": "ay( ), 138\nconstrutora Audio( ), 602\nconstrutora Boolean( ), 42\nconstrutora Date( ), 726\nconstrutora Error( ), 753\nconstrutora Function( ), 185\n    remoção em subconjuntos seguros, 260\nconstrutora Number( ), 42, 785–786\nconstrutora String( ), 42\nconstrutora Worker( ), 669\nconstrutora XMLHttpRequest( ), 669\nconstrutoras, 158, 766–767\n    chamando,    165\n    classe,    195\n        e identidade de classe, 197\n        propriedade    constructor,    197\n    defi nidas, 29\n    do lado do cliente, no objetos WorkerGlobalSco-\npe, 669\n    janelas interativas e, 350\n    para arrays tipados, 981",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5362,
+    "totalChunks": 10000
+  }
+}

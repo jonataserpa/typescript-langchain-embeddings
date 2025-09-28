@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4493",
+  "content": "a servir \narquivos da nova cache. Note, entretanto, que isso pode levar a problemas de assimetria de versão, \nsendo que uma maneira mais segura de descarregar a cache antiga e começar a usar a nova é recarre-\ngar o aplicativo com Location.reload().\nvoid update()\nNormalmente, o navegador verifica a existência de uma nova versão do arquivo de manifesto para \num aplicativo colocado na cache sempre que o aplicativo é carregado. Aplicativos da Web de longa \nduração podem usar esse método para verificar a existência de atualizações mais frequentemente.\nRotinas de tratamento de eventos\nO navegador",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4493,
+    "totalChunks": 10000
+  }
+}

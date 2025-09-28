@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1873",
+  "content": "mente relacionadas às janelas do navegador para as quais o objeto \nWindow foi nomeado. Este capítulo aborda o seguinte:\n •   A Seção 14.1 mostra como usar \nsetTimeout() e setInterval() para registrar uma função a ser \nchamada no futuro, em momentos especificados.\n •   A Seção 14.2 explica como usar a propriedade \nlocation para obter o URL do documento cor-\nrentemente exibido e carregar novos documentos.\n •   A Seção 14.3 aborda a propriedade\n history e mostra como se mover o navegador para frente e \npara trás no histórico do navegador.\n •   A Seção 14.4 mostra como usar a propriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1873,
+    "totalChunks": 10000
+  }
+}

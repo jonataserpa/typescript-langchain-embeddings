@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2335",
+  "content": "e em sua posição normal no fluxo. A \nsombra está em um elemento <span> posicionado de forma absoluta dentro (e portanto posicionado \nrelativamente ao) do elemento <span> posicionado relativamente. A propriedade z-index garante que \na sombra apareça embaixo do texto que a produz.\n16.2.2   Bordas, margens e preenchimento\nCSS permite especificar bordas, margens e preenchimento em torno de qualquer elemento. A borda \nde um elemento é um retângulo (ou retângulo arredondado em CSS3) desenhado em torno (ou \nparcialmente em torno) dele. As propriedades CSS permitem especificar o estilo, a cor e a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2335,
+    "totalChunks": 10000
+  }
+}

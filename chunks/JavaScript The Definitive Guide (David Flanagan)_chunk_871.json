@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_871",
+  "content": "ugar. Consulte o método Function.bind() caso precise que sua função de redução seja \nchamada como um método de um objeto em particular.\nÉ interessante notar que os métodos \nevery() e some() descritos anteriormente efetuam um tipo de \noperação de redução de array. Contudo, eles diferem de reduce(), pois terminam mais cedo, quando \npossível, e nem sempre visitam cada elemento do array.\nPor simplicidade os exemplos mostrados até aqui foram numéricos, mas \nreduce() e reduce Right() \nnão se destinam unicamente a cálculos matemáticos. Considere a função union() do Exemplo 6-2. \nEla calcula a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 871,
+    "totalChunks": 10000
+  }
+}

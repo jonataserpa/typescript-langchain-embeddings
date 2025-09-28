@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5121",
+  "content": "nto “progress”) são disparados entre o \nevento loadstart inicial e os dois eventos finais. (O objeto ApplicationCache dispara uma sequência \nde eventos diferente, mas o evento progress que dispara como parte de seu processo de atualização \nda cache é um evento Progress.)\nAs rotinas de tratamento de eventos Progress recebem um objeto ProgressEvent especificando quan-\ntos bytes de dados foram transferidos. Esse objeto ProgressEvent não tem relação com o elemento \nHTML \n<progress> descrito em Progress, mas o objeto ProgressEvent passado para a rotina de trata-\nmento de evento onprogress de um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5121,
+    "totalChunks": 10000
+  }
+}

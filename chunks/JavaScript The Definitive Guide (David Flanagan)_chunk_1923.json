@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1923",
+  "content": "alogheight” para configurar o tamanho da janela de diálogo e use “resizable=yes” para permi-\ntir que o usuário redimensione a janela.\nA janela exibida por esse método é modal e a chamada para \nshowModalDialog() não retorna até que \na janela seja fechada. Quando a janela é fechada, o valor da propriedade window.returnValue se torna \no valor de retorno da chamada do método. O conteúdo HTML da caixa de diálogo normalmente \ndeve incluir um botão OK que define returnValue, se desejado, e chama window.close() (consulte a \nSeção 14.8.1.1).\nO Exemplo 14-4 é um arquivo HTML conveniente para uso com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1923,
+    "totalChunks": 10000
+  }
+}

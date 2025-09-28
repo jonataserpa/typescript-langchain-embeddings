@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4134",
+  "content": "ata.\n\n738          Parte III     Referência de JavaScript básica\nRetorna\nA representação interna, em milissegundos, da data ajustada.\nDate.setHours()\nconfigura os campos de horas, minutos, segundos e milissegundos de um objeto Date\nSinopse\ndata.setHours(horas)\ndata.setHours(horas, minutos)\ndata.setHours(horas, minutos, segundos)\ndata.setHours(horas, minutos, segundos, miliss)\nArgumentos\nhoras\nUm inteiro entre 0 (meia-noite) e 23 (11 p.m.), hora local, que é configurado como o novo \nvalor de horas de data.\nminutos\nUm inteiro opcional, entre 0 e 59, usado como o novo valor (na hora local) do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4134,
+    "totalChunks": 10000
+  }
+}

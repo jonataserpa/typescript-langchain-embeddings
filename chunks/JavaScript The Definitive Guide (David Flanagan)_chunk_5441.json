@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5441",
+  "content": "edição, 400\n    especifi cação Web Workers, 665–672\n    evento DOMContentLoaded, 453\n    eventos,    442\n    gerenciamento de histórico, 656–661\n    marcação SVG aparecendo diretamente em arqui-\nvos HTML, 610\n    método getElementsByClassName( ), 358\n    método insertAdjacentHTML( ), 369\n    objeto    WindowProxy,    350\n    propriedade classList, 427, 519\n    propriedade frames como propriedade autorefe-\nrente, 348\n    propriedades innerHTML e outerHTML, 369\n    rotinas de tratamento de evento direcionadas ao \nnavegador como um todo, 445\n    troca de mensagens entre origens, 661–665\n    “web",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5441,
+    "totalChunks": 10000
+  }
+}

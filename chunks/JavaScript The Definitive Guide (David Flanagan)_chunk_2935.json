@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2935",
+  "content": "nta o conjunto de elementos de seu array.\nO terceiro modo de chamar $() é passar uma string de texto HTML. Quando isso é feito, a \njQuery cria o elemento (ou elementos) HTML descrito por esse texto e, então, retorna um \nobjeto jQuery representando esse elemento. A jQuery não insere os elementos recém-criados \nno documento automaticamente, mas os métodos jQuery descritos na Seção 19.3 permitem \ninseri-los facilmente onde você quiser. Note que não é possível passar texto puro ao se chamar \n$() dessa maneira, senão a jQuery vai pensar que você está passando um seletor CSS. Para esse \nestilo de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2935,
+    "totalChunks": 10000
+  }
+}

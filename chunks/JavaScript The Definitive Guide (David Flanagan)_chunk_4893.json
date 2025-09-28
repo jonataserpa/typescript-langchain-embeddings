@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4893",
+  "content": "avaScript e acessar suas propriedades e elementos de array. Por exemplo:\ndocument.images[0]       // Um elemento numerado de um HTMLCollection\ndocument.forms.address   // Um elemento nomeado de um HTMLCollection\nPropriedades\nreadonly unsigned long length\nO número de elementos no conjunto.\nMétodos\nElement item(unsigned long índice)\nRetorna o elemento no índice especificado no conjunto ou null, se índice estiver fora do limite. \nTambém é possível simplesmente especificar a posição dentro dos colchetes do array, em vez de cha-\nmar esse método explicitamente.\nobject namedItem(string nome)\nRetorna",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4893,
+    "totalChunks": 10000
+  }
+}

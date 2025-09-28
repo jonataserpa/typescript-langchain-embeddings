@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3544",
+  "content": "#hourhand {stroke-width: 5px;}  /* ponteiro grande das horas */\n#minutehand {stroke-width: 3px;} /* ponteiro pequeno dos minutos */\n#numbers {             /* como desenhar os números */\n    font-family: sans-serif; font-size: 7pt; font-weight: bold;\n    text-anchor: middle; stroke: none; fill: black;\n}\n</style>\n</head>\n<body onload=\"updateTime()\">\n  <!-- viewBox é sistema de coordenadas, width e height são o tamanho na tela -->\n  <svg id=\"clock\" viewBox=\"0 0 100 100\" width=\"500\" height=\"500\">\n    <defs>  <!-- Define um filtro para sombras projetadas -->\n     <filter id=\"shadow\" x=\"-50%\"",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3544,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3181",
+  "content": "na o cabeçalho Content-Type da resposta HTTP. Se esse cabeçalho contém a string “xml”, \né passado um documento XML para a callback. Caso contrário, se o cabeçalho contém a string “json”, os \ndados são analisados como JSON e o objeto analisado é passado para a callback. Caso contrário, se o cabe-\nçalho contém a string “javascript”, os dados são executados como um script. Caso contrário, os dados são \ntratados como texto puro.\n\nCapítulo 19     A biblioteca jQuery      551\nJavaScript do\n lado do cliente\n    dataType: \"script\",         // Executa a resposta como um script quando o obtivermos.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3181,
+    "totalChunks": 10000
+  }
+}

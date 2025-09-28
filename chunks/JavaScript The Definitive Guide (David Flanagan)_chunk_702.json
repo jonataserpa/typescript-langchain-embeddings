@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_702",
+  "content": "e() ou simplesmente consultando-se a propriedade.\nO operador \nin espera um nome de propriedade (como uma string) em seu lado esquerdo e um \nobjeto à sua direita. Ele retorna true se o objeto tem uma propriedade própria ou uma propriedade \nherdada com esse nome:\nvar o = { x: 1 }\n\"x\" in o;        // verdadeiro: o tem uma propriedade própria \"x\"\n\"y\" in o;        // falso: o não tem uma propriedade \"y\"\n\"toString\" in o; // verdadeiro: o herda uma propriedade toString\nO método hasOwnProperty() de um objeto testa se esse objeto tem uma propriedade própria com o \nnome dado. Ele retorna false para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 702,
+    "totalChunks": 10000
+  }
+}

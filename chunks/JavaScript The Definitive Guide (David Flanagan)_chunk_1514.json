@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1514",
+  "content": "seus métodos \nnext() quando não existem mais valores para iterar. StopIteration é uma propriedade do objeto \nglobal em JavaScript 1.7. Seu valor é um objeto normal (sem propriedades próprias), reservado para \nesse propósito especial de terminar iterações. Note, em especial, que StopIteration não é uma função \nconstrutora como TypeError() ou RangeError(). Aqui, por exemplo, está um método rangeIter() \nque retorna um iterador que itera os inteiros em determinado intervalo:\n// Uma função que retorna um iterador de um intervalo de inteiros\nfunction rangeIter(first, last) {\n    let nextValue =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1514,
+    "totalChunks": 10000
+  }
+}

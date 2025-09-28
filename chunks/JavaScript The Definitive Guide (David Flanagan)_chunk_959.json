@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_959",
+  "content": "e copia esse elemento em to_start no array to.\n// É difícil lembrar a ordem dos argumentos.\nfunction arraycopy(/* array */ from, /* índice */ from_start,\n                   /* array */ to, /* índice */ to_start,\n                   /* integer */ length)\n{\n    // o código fica aqui\n}\n// Esta versão é um pouco menos eficiente, mas não é preciso\n// lembrar da ordem dos argumentos, sendo que from_start e to_start\n// tem 0 como padrão.\nfunction easycopy(args) {\n    arraycopy(args.from,\n              args.from_start || 0, // Observe o valor padrão fornecido\n                args.to,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 959,
+    "totalChunks": 10000
+  }
+}

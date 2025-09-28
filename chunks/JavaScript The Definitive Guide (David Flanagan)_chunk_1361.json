@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1361",
+  "content": "ço de nomes. O mó-\ndulo sets deve ser armazenado em um arquivo chamado sets.js. Se esse módulo usa o espaço de nomes \n\n242          Parte     I     JavaScript     básica\ncollections.sets, então esse arquivo deve ser armazenado em um diretório chamado collections/ (esse \ndiretório também poderia incluir um arquivo chamado maps.js). E um módulo que usasse o espaço \nde nomes com.davidflanagan.collections.sets estaria em com/davidflanagan/collections/sets.js.\n9.9.2   Escopo de função como namespace privado\nOs módulos têm uma API pública que exportam: são as funções, classes, propriedades e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1361,
+    "totalChunks": 10000
+  }
+}

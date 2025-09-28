@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2200",
+  "content": "1 Elementos de formulário HTML (Continuação)\nElemento HTML\nPropriedade \nde tipo\nRotina de tratamento \nde eventoDescrição e eventos\n<input type=”radio”>“radio”onchangeUm botão de alternância com comportamento de \nbotão de opção – apenas um selecionado por vez\n<input type=”reset”> ou \n<button type=”reset”>\n“reset”onclickUm botão de pressão que reinicia um formulário\n<select>“select-one”onchangeUma lista ou menu suspenso no qual um item pode \nser selecionado (consulte também <option>)\n<select multiple>“select-multiple”onchangeUma lista na qual vários itens podem ser \nselecionados (consulte",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2200,
+    "totalChunks": 10000
+  }
+}

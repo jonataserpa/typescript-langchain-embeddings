@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4167",
+  "content": "tar argumentos de data e hora idênticos aos aceitos por \nDate.UTC(). A diferença é que a construtora Date() presume hora local, enquanto Date.UTC() presu-\nme hora universal (GMT). Para criar um objeto Date usando uma especificação de hora UTC, você \npode usar código como o seguinte:\nd = new Date(Date.UTC(1996, 4, 8, 16, 30));\nConsulte também\nDate, Date.parse(), Date.setTime()\n\n750          Parte III     Referência de JavaScript básica\nDate.valueOf()\nconverte um objeto Date na representação em milissegundos Anula Object.valueOf()\nSinopse\ndata.valueOf()\nRetorna\nA  representação  de  \ndata  em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4167,
+    "totalChunks": 10000
+  }
+}

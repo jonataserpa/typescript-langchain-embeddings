@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_232",
+  "content": "decimal A9. Da mesma forma, o escape \\u representa um caractere Unicode arbitrário \nespecificado por quatro dígitos hexadecimais; \\u03c0 representa o caractere π, por exemplo.\n\nCapítulo 3     Tipos, valores e variáveis      37\nJavaScript básica\nSe o caractere \\ precede qualquer outro caractere que não seja um dos mostrados na Tabela 3-1, \na barra invertida é simplesmente ignorada (embora, é claro, versões futuras da linguagem possam \ndefinir novas sequências de escape). Por exemplo, \\# é o mesmo que #. Por fim, conforme observado \nanteriormente, a ECMAScript 5 permite que uma barra invertida",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 232,
+    "totalChunks": 10000
+  }
+}

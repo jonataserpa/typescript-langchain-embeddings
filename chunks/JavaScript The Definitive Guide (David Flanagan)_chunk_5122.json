@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5122",
+  "content": "rogress, mas o objeto ProgressEvent passado para a rotina de trata-\nmento de evento onprogress de um XMLHttpRequest (por exemplo) poderia ser usado para atuali-\nzar o estado de um elemento <progress> a fim de exibir um valor de porcentagem de conclusão do \ndownload visual para o usuário.\nPropriedades\nreadonly boolean lengthComputable\ntrue se o número total de bytes a transferir é conhecido e false, caso contrário. Se essa pro-\npriedade é true, a porcentagem da conclusão da transferência de dados para um ProgressEvent \ne pode ser calculada como:\n        var percentComplete =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5122,
+    "totalChunks": 10000
+  }
+}

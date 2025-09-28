@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2368",
+  "content": "fica a região de corte do elemento. Em CSS2, as regiões de corte são \nretangulares, mas a sintaxe da propriedade clip deixa aberta a possibilidade para que versões futuras do \npadrão suportem formatos de corte diferentes dos retângulos. A sintaxe da propriedade clip é:\nrect(superior direita inferior esquerda)\nOs valores de superior, direita, inferior e esquerda especificam os limites do retângulo de corte \nem relação ao canto superior esquerdo da caixa do elemento. Por exemplo, para exibir apenas uma \nparte de 100 × 100 pixels de um elemento, você pode dar a esse elemento o seguinte atributo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2368,
+    "totalChunks": 10000
+  }
+}

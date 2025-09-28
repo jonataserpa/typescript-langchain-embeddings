@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2520",
+  "content": "documento.\nHTML5 define muitos recursos novos para formulários HTML. Além de padronizar o evento de \nentrada de formulário, descrito anteriormente, HTML5 também define um mecanismo de vali-\ndação de formulário, o qual inclui um evento invalid, disparado nos elementos de formulário cuja \nvalidação falhou.\n\nCapítulo 17     Tratando eventos      443\nJavaScript do\n lado do cliente\nContudo, os fornecedores de navegador, fora o Opera, têm demorado para implementar os novos \nrecursos e eventos de formulário de HTML5, e este livro não os aborda.\nHTML5 inclui suporte para aplicativos Web off-line",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2520,
+    "totalChunks": 10000
+  }
+}

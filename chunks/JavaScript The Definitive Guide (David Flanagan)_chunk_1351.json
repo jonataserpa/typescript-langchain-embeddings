@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1351",
+  "content": "função \nrequire(). Sistemas de módulo como \nesses frequentemente fazem o carregamento de módulos e o gerenciamento de dependências auto-\nmaticamente e estão fora dos objetivos desta discussão. Se você usa uma dessas estruturas, então deve \nusar e definir módulos seguindo as convenções adequadas à estrutura. Nesta seção, vamos discutir \nconvenções de módulo muito simples.\nO objetivo dos módulos é permitir que programas grandes sejam montados com código de fontes \nmuito diferentes e que todo esse código seja executado corretamente, mesmo na presença de código \nque os autores do módulo não",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1351,
+    "totalChunks": 10000
+  }
+}

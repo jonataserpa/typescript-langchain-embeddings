@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1559",
+  "content": "ional, ela se comporta como se a condicional if fosse true e é sempre disparada se \nnenhuma cláusula antes dela foi disparada. Se todas as cláusulas catch têm uma condicional e \nnenhuma dessas condicionais é verdadeira, a exceção se propaga sem ser capturada. Observe que, \ncomo as condicionais já aparecem dentro dos parênteses da cláusula catch, elas não são obrigadas \na ser incluídas diretamente nos parênteses, como aconteceria em uma instrução if normal.\n11.7   E4X: ECMAScript para XML\nECMAScript para XML, mais conhecida como E4X, é uma extensão\n4\n padronizada de JavaScript que \ndefine",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1559,
+    "totalChunks": 10000
+  }
+}

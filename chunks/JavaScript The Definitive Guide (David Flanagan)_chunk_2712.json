@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2712",
+  "content": "uma representação de string me-\nnos útil da codificação Unicode do caractere. Ela é “U+0041” para a tecla A, por exemplo.\nO Exemplo 17-8 define uma classe Keymap que mapeia identificadores de toque de tecla, como “Pa-\ngeUp”, “Alt_Z” e “ctrl+alt+shift+F5”, em funções JavaScript que são chamadas em resposta a esses \ntoques de tecla. Passe vínculos de tecla para a construtora \nKeymap() na forma de um objeto JavaScript \nno qual os nomes de propriedade são identificadores de toque de tecla e os valores de propriedade \nsão funções de tratamento. Adicione e remova vínculos com os métodos bind() e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2712,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1400",
+  "content": "ractere (ou caracteres) de repeti-\nção: ??, +?, *? ou mesmo {1,5}?. Por exemplo, a expressão regular /a+/ corresponde a uma ou mais \nocorrências da letra a. Quando aplicada na string “aaa”, ela corresponde a todas as três letras. Mas /\na+?/ corresponde a uma ou mais ocorrências da letra a, correspondendo ao número mínimo de ca-\nracteres necessários. Quando aplicado na mesma string, esse padrão corresponde apenas à primeira \nletra a.\nO uso de repetição não gananciosa nem sempre produz os resultados esperados. Considere o pa-\ndrão \n/a+b/, que corresponde a uma ou mais letras a, seguidas da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1400,
+    "totalChunks": 10000
+  }
+}

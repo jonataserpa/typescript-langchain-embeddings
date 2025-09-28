@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3338",
+  "content": "Eles podem ler os dados uns \ndos outros e podem sobrescrever os dados uns dos outros. Mas documentos com origens diferentes \nnunca podem ler nem sobrescrever os dados uns dos outros (mesmo que ambos estejam executando \num script do mesmo servidor externo).\nNote que o escopo de \nlocalStorage também é o fornecedor do navegador. Se você visita um site \nusando Firefox e depois o visita novamente usando Chrome (por exemplo), os dados armazenados \ndurante a primeira visita não estarão acessíveis durante a segunda visita.\nOs dados armazenados por meio de \nsessionStorage têm vida útil diferente dos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3338,
+    "totalChunks": 10000
+  }
+}

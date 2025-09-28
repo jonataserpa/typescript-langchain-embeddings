@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1009",
+  "content": "a retorna, nenhum \noutro código pode ver a variável counter: a função interna tem acesso exclusivo a ela.\nVariáveis privadas como \ncounter não precisam ser exclusivas de uma única closure: é perfeitamente \npossível duas ou mais funções aninhadas serem definidas dentro da mesma função externa e compar-\ntilharem o mesmo encadeamento de escopo. Considere o código a seguir:\nfunction counter() {\n    var n = 0;\n    return    {\n        count: function() { return n++; },\n        reset: function() { n = 0; }\n    };\n}\nvar c = counter(), d = counter();    // Cria duas contadoras\nc.count()",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1009,
+    "totalChunks": 10000
+  }
+}

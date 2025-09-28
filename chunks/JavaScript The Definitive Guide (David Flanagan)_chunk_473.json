@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_473",
+  "content": "o faz sentido escrever eval(\"return;\"), por \nexemplo, pois return só vale dentro de funções e o fato de a string avaliada usar o mesmo ambiente \nde variável da função chamadora não a torna parte dessa função. Se sua string faz sentido como um \nscript independente (mesmo um muito curto, como x=0), é válido passá-la para eval(). Caso contrá-\nrio, eval() vai lançar uma exceção SyntaxError.\n4.12.2   eval()   global\nÉ a capacidade de eval() alterar variáveis locais que é tão problemática para os otimizadores de \nJavaScript. Contudo, como uma solução de contorno, os interpretadores simplesmente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 473,
+    "totalChunks": 10000
+  }
+}

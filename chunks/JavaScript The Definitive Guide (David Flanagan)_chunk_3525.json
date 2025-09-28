@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3525",
+  "content": "> e desenha um gráfico de pizza nele.\n * Argumentos:\n *   data: um array de números para representar no gráfico, um para cada fatia da pizza.\n *   width,height: o tamanho do elemento gráfico SVG, em pixels\n *   cx, cy, r: o centro e o raio da pizza\n *   colors: um array de strings de cor HTML, uma para cada fatia\n *   labels: um array de rótulos para aparecer na legenda, um para cada fatia\n *   lx, ly: o canto superior esquerdo da legenda do gráfico\n * Retorna:\n *   Um elemento <svg> contendo o gráfico de pizza.\n *   O chamador deve inserir o elemento retornado no documento.\n */\nfunction",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3525,
+    "totalChunks": 10000
+  }
+}

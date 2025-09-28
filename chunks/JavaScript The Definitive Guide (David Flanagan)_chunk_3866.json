@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3866",
+  "content": "obs\nUm Blob é uma referência opaca para (ou alça para) um trecho de dados. O nome vem dos bancos \nde dados SQL, onde significa “Binary Large Object” (objeto binário grande). Em JavaScript, os Blo-\nbs frequentemente representam dados binários e podem ser grandes, mas nenhuma das duas coisas é \nobrigatória: um Blob também poderia representar o conteúdo de um arquivo de texto pequeno. Os \nBlobs são opacos: tudo que pode ser feito diretamente com eles é determinar seu tamanho em bytes, \nsolicitar seu tipo MIME e decompô-los em Blobs menores:\nvar blob = ...   // Vamos ver posteriormente como obter",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3866,
+    "totalChunks": 10000
+  }
+}

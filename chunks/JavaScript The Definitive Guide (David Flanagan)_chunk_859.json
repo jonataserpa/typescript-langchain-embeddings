@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_859",
+  "content": "ray contendo um subconjunto dos elementos do array em que é \nchamado. A função passada para ele deve ser um predicado: uma função que retorna true ou false. \nO predicado é chamado exatamente como para forEach() e map(). Se o valor de retorno é true ou um \nvalor que se converte em true, então o elemento passado para o predicado é membro do subconjun-\nto e é adicionado no array que se tornará o valor de retorno. Exemplos:\na = [5, 4, 3, 2, 1];\nsmallvalues = a.filter(function(x) { return x < 3 });     // [2, 1]\neveryother = a.filter(function(x,i) { return i%2==0 });   // [5, 3, 1]\nNote que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 859,
+    "totalChunks": 10000
+  }
+}

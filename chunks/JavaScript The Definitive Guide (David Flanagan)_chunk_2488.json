@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2488",
+  "content": "z de \na qualquer conteúdo específico do documento exibido dentro da janela. (No entanto, para alguns \ndesses eventos, um evento de mesmo nome pode ser ativado em elementos do documento.)\nO evento load é o mais importante deles: ele é disparado quando um documento e todos os seus \nrecursos externos (como imagens) são totalmente carregados e exibidos para o usuário. O evento \nload foi discutido no Capítulo 13. DOMContentLoaded e readystatechange são alternativas ao \nevento load: eles são disparados mais cedo, quando o documento e seus elementos estão prontos \npara manipulação, mas antes que os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2488,
+    "totalChunks": 10000
+  }
+}

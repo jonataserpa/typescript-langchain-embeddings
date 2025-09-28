@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2668",
+  "content": "uto class que inclua “dnd” e \nregistra rotinas de tratamento de evento DnD em todas essas listas que encontrar. As rotinas de \ntratamento de evento transformam a própria lista em um alvo de soltura: todo texto solto na lista é \ntransformado em um novo item e inserido no final da lista. As rotinas de tratamento de evento tam-\nbém recebem arrastos nos itens dentro da lista e tornam o texto de cada item da lista disponível para \ntransferência. As rotinas de tratamento de origem de arrasto permitem operações “copiar” e “mover” \ne excluem itens da lista que são soltos em operações mover. (Note,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2668,
+    "totalChunks": 10000
+  }
+}

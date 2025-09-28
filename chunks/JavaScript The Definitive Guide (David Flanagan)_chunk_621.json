@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_621",
+  "content": "e o encadeamento de escopo é usado somente ao se pesquisar identificadores e não \nao se criar outros novos. Considere este código:\nwith(o) x = 1;\nSe o objeto o tem uma propriedade x, então esse código atribui o valor 1 a essa propriedade. Mas \nse x não está definida em o, esse código é o mesmo que x = 1 sem a instrução with. Ele atribui \na uma variável local ou global chamada x ou cria uma nova propriedade do objeto global. Uma \ninstrução with fornece um atalho para ler propriedades de o, mas não para criar novas proprie-\ndades de o.\n5.7.2   debugger\nA instrução debugger normalmente não faz",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 621,
+    "totalChunks": 10000
+  }
+}

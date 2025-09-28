@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4019",
+  "content": "s próprios nomes não qualificados. Por conveniência, o con-\njunto completo de funções e propriedades globais de JavaScript básica está resumido em uma página \nde referência especial chamada “Global” (mesmo não existindo qualquer objeto ou classe com esse \nnome).\nPARTE III\nReferência de JavaScript básica\n\n\n\narguments[ ]\num array de argumentos de função\nSinopse\narguments\nDescrição\nO array arguments[] é definido somente dentro do corpo de uma função. Dentro do corpo de uma \nfunção, arguments se refere ao objeto Arguments da função. Esse objeto tem propriedades numeradas e \nserve como um array",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4019,
+    "totalChunks": 10000
+  }
+}

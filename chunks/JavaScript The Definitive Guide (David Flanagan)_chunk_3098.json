@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3098",
+  "content": "uma duração que especifica por quanto tempo o efeito deve durar. Isso é defi-\nnido como um número de milissegundos ou usando-se uma string. A string “fast” significa 200ms. \nA string “slow” significa 600ms. Se você especificar uma string de duração que a jQuery não reco-\nnhece, vai obter uma duração padrão de 400ms. Novos nomes de duração podem ser definidos, \nadicionando-se novos mapeamentos de string para número em \njQuery.fx.speeds:\njQuery.fx.speeds[\"medium-fast\"] = 300;\njQuery.fx.speeds[\"medium-slow\"] = 500;\nOs métodos de efeito da jQuery normalmente recebem a duração do efeito como um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3098,
+    "totalChunks": 10000
+  }
+}

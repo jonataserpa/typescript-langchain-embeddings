@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2975",
+  "content": "\"10px 2px 4px 20px\",\n            border: \"dotted black 4px\" });\n// Aumenta em 25% todos os tamanhos de fonte de <h1>\n$(\"h1\").css(\"font-size\", function(i,curval) {\n            return    Math.round(1.25*parseInt(curval));\n            });\n19.2.3   Obtendo e configurando classes CSS\nLembre-se de que o valor do atributo class (acessado por meio da propriedade className em Java-\nScript) é interpretado como uma lista separada por espaços de nomes de classe CSS. Normalmente, \nqueremos adicionar, remover ou testar a presença de um nome na lista, em vez de substituir uma \nlista de classes por outra.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2975,
+    "totalChunks": 10000
+  }
+}

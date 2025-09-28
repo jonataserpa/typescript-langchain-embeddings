@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5179",
+  "content": "nça uma exceção, se n é menor \ndo que zero ou maior ou igual a length.\nTypedArray\narrays binários de tamanho fixo ArrayBufferView\nUm TypedArray é um \nArrayBufferView que interpreta os bytes de um ArrayBuffer subjacente como \num array de números e permite acesso de leitura e gravação aos elementos desse array. Esta página não \ndocumenta um tipo único chamado TypedArray. Em vez disso, abrange oito tipos diferentes de arrays \ntipados. Esses oito tipos são todos subtipos de ArrayBufferView e diferem entre si apenas no número \nde bytes por elemento de array e na maneira como esses bytes são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5179,
+    "totalChunks": 10000
+  }
+}

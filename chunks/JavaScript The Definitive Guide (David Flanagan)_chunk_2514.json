@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2514",
+  "content": "a tecla. A \npropriedade char será null ou, para teclas de controle – como Tab, que tem um código de caractere \n3\n  O único evento em uso comum contendo “DOM” em seu nome é DOMContentLoaded. Esse evento foi introduzido \npelo Mozilla e nunca fez parte do padrão Events do DOM.\n\n442          Parte II     JavaScript do lado do cliente\n–, a string gerada pela tecla. Quando este livro estava sendo escrito, navegador algum suportava essas \npropriedades\n key e char, mas o Exemplo 17-8 usará a propriedade key se e quando for implementada.\n17.1.3   Eventos   HTML5\nA HTML5 e padrões relacionados definem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2514,
+    "totalChunks": 10000
+  }
+}

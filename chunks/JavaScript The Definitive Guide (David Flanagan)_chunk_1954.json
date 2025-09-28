@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1954",
+  "content": "to Window que \nrepresenta esse quadro vai usar esse atributo \nname como valor inicial da propriedade name.\nO terceiro argumento opcional de open() é uma lista separada por vírgulas de atributos de tamanho \ne de recursos da nova janela a ser aberta. Se você omitir esse argumento, a nova janela vai receber um \ntamanho padrão e vai ter um conjunto completo de componentes de interface com o usuário: uma \n\n346          Parte II     JavaScript do lado do cliente\nbarra de menus, linha de status, barra de ferramentas, etc. Em navegadores com guias, isso normal-\nmente resulta na criação de uma nova",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1954,
+    "totalChunks": 10000
+  }
+}

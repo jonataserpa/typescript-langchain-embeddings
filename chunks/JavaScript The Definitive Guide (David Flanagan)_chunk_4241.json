@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4241",
+  "content": "ficado por reviver).\nDescrição\nJSON.parse() é uma função global para analisar strings formatadas com JSON. Normalmente, você \npassa um único argumento de string e JSON.parse() retorna o valor JavaScript representado pela \nstring.\nO argumento opcional \nreviver pode ser usado para filtrar ou fazer o pós-processamento do valor \nanalisado, antes que ele seja retornado. Se for especificada, a função reviver é chamada uma vez \npara cada valor primitivo (mas não para os objetos ou arrays que contêm esses valores primitivos) \nanalisado de \ns. reviver é chamada com dois argumentos. O primeiro é um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4241,
+    "totalChunks": 10000
+  }
+}

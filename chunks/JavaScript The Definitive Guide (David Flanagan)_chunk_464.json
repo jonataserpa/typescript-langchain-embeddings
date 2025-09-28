@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_464",
+  "content": "o opera-\ndor += efetua adição e atribuição. A expressão a seguir:\ntotal += sales_tax\né equivalente a esta:\ntotal = total + sales_tax\nComo seria de se esperar, o operador += funciona com números ou strings. Para operandos numéri-\ncos, ele efetua adição e atribuição; para operandos string, ele faz concatenação e atribuição.\nOperadores semelhantes incluem \n-=, *=, &= etc. A Tabela 4-2 lista todos eles.\nTabela 4-2 Operadores de atribuição\nOperadorExemploEquivalente\n+=a += b       a = a + b\n-=a -= b       a = a – b\n*=a *= b       a = a * b\n/=a /= b       a = a / b\n%=a %= b       a = a % b\n<<=a <<=",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 464,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5450",
+  "content": "instruções return, 60, 103, 161\n    quebra de linha interpretada como ponto e vírgu-\nla, 26\n    uso por funções geradoras, 270–271\ninstruções rotuladas, 100\n    continue,    102\ninstruções switch, 93\n    cláusulas case, 94\ninstruções throw, 104\ninstruções try/catch/fi nally, 104\n    várias cláusulas catch em, 276\ninstruções var, 88\ninstruções vazias, 87\ninstruções with, 106\n    remoção em subconjuntos seguros, 260\ninteiros, 30\ninterface do usuário (consulte UI)\ninterfaces (consulte IU (interface do usuário))\nInternet Explorer (IE)\n    API arrastar e soltar (DnD), 463\n    API userData, 574",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5450,
+    "totalChunks": 10000
+  }
+}

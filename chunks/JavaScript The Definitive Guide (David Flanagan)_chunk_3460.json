@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3460",
+  "content": "alva a versão atual no servidor.\nfunction sync() {\n    if (navigator.onLine) {\n        var xhr = new XMLHttpRequest();\n        xhr.open(\"GET\",    \"/note\");\n        xhr.send();\n        xhr.onload = function() {\n            var remoteModTime = 0;\n            if (xhr.status == 200) {\n                var remoteModTime = xhr.getResponseHeader(\"Last-Modified\");\n                remoteModTime = new Date(remoteModTime).getTime();\n   }\n            if (remoteModTime > localStorage.lastModified) {\n                status(\"Newer note found on server.\");\n                  var    useit    =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3460,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2122",
+  "content": "(document.createElement(\"div\").outerHTML) return;\n    // Retorna a HTML externa do elemento referido por this\n    function outerHTMLGetter() {\n        var container = document.createElement(\"div\");   // Elemento fictício\n        container.appendChild(this.cloneNode(true));     // Copia this no fictício\n        return container.innerHTML;                      // Retorna conteúdo fictício\n }\n    // Configura a HTML externa desse elemento com o valor especificado\n    function outerHTMLSetter(value) {\n        // Cria um elemento fictício e configura seu conteúdo com o valor especificado",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2122,
+    "totalChunks": 10000
+  }
+}

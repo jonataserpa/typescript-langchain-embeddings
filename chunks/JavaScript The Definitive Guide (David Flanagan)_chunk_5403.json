@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5403",
+  "content": "o canvas, 648\n    testando se o evento de mouse é sobre pixel pinta-\ndo no canvas, 649\n    texto,    469–472\n    tipo ou nome de evento, 433\n    tipos de, 435\n    tipos de evento legados, 437\n    touchscreen e mobile, 444\n    transição de página, 965\n    tratando com jQuery, 526–536\n        anulando o registro rotinas de tratamento de \nevento, 532\n        disparando    eventos,    533\n        eventos    dinâmicos,    535\n        eventos    personalizados,    535\n        métodos de registros de rotina de tratamento de \nevento, 526\n        objeto    Event,    528\n        registro de rotina de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5403,
+    "totalChunks": 10000
+  }
+}

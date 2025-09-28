@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2093",
+  "content": "nto como texto puro ou inserir texto puro em \num documento (sem fazer o escape dos sinais de menor e maior e dos E comerciais utilizados na \nmarcação HTML). O modo padrão de fazer isso é com a propriedade textContent de Node:\nvar para = document.getElementsByTagName(\"p\")[0];         // Primeiro <p> no documento\nvar text = para.textContent;        // O texto é \"This is a simple document.\"\npara.textContent = \"Hello World!\";   // Altera o conteúdo do parágrafo\nA propriedade textContent é suportada por todos os navegadores atuais, exceto o IE. No IE, você \npode usar a propriedade Element",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2093,
+    "totalChunks": 10000
+  }
+}

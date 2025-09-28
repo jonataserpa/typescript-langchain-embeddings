@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4870",
+  "content": "xpressão regular pattern.\nreadonly boolean rangeOverflow\nA entrada é grande demais.\nreadonly boolean rangeUnderflow\nA entrada é pequena demais.\nreadonly boolean stepMismatch\nA entrada não corresponde ao step especificado.\nreadonly boolean tooLong\nA entrada é longa demais.\nreadonly boolean typeMismatch\nA entrada é do tipo errado.\nreadonly boolean valid\nSe essa propriedade é true, o controle de formulário é válido e todas as outras propriedades são \nfalse. Se essa propriedade é false, o controle de formulário não é válido e pelo menos uma das \noutras propriedades é \ntrue.\nreadonly valor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4870,
+    "totalChunks": 10000
+  }
+}

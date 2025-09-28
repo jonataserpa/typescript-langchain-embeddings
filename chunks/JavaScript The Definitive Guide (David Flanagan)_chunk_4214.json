@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4214",
+  "content": "ssados para a nova função.\nExemplo\nSuponha que f seja uma função e que chamemos o método bind() como segue:\nvar g = f.bind(o, 1, 2);\nAgora g é uma nova função e a chamada g(3) é equivalente a:\nf.call(o, 1, 2, 3);\nConsulte também\nFunction.apply(), Function.call(), Seção 8.7.4\n\n      Referência de JavaScript básica      763\nReferência de \nJavaScript básica\nFunction.call()\nchama uma função como método de um objeto\nSinopse\nfunção.call(objthis, args...)\nArgumentos\nobjthis\nO objeto no qual função serão chamada. No corpo da função, objthis se torna o valor da \npalavra-chave this. Se esse argumento é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4214,
+    "totalChunks": 10000
+  }
+}

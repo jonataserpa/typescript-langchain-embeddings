@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2369",
+  "content": "nas uma \nparte de 100 × 100 pixels de um elemento, você pode dar a esse elemento o seguinte atributo style:\nstyle=\"clip: rect(0px 100px 100px 0px);\"\n\n418          Parte II     JavaScript do lado do cliente\nNote que os quatro valores dentro dos parênteses são valores de comprimento e devem incluir uma \nespecificação de unidade, como px para pixels. Não são permitidas porcentagens. Os valores podem \nser negativos para indicar que a região de corte se estende além da caixa especificada para o elemento. \nA palavra-chave \nauto também pode ser usada para qualquer um dos quatro valores, a fim de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2369,
+    "totalChunks": 10000
+  }
+}

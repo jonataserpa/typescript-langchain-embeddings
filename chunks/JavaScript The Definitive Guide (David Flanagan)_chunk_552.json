@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_552",
+  "content": "pítulo     5     Instruções          95\nJavaScript básica\n5.5   Laços\nPara entendermos as instruções condicionais, imaginamos o interpretador JavaScript seguindo \num caminho de ramificação em seu código-fonte. As instruções de laço são àquelas que desviam \nesse caminho para si mesmas a fim de repetir partes de seu código. JavaScript tem quatro instru-\nções de laço: while, do/while, for e for/in. As subseções a seguir explicam cada uma delas, uma \npor vez. Um uso comum para laços é na iteração pelos elementos de um array. A Seção 7.6 dis-\ncute esse tipo de laço em detalhes e aborda métodos de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 552,
+    "totalChunks": 10000
+  }
+}

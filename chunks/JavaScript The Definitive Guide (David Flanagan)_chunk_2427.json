@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2427",
+  "content": "dade com código como o \ndo Exemplo 16-5. Usar código como esse, que permite ao atributo \nclass de um elemento ser tratado \ncomo um conjunto de nomes de classe, torna muito mais fáceis diversas tarefas de script de CSS.\nExemplo 16-5 classList(): trata className como um conjunto de classes CSS\n/*\n * Retorna a propriedade classList de e, caso haja uma.\n * Caso contrário, retorna um objeto que simula a API DOMTokenList para e.\n * O objeto retornado tem métodos contains(), add(), remove(), toggle() e toString()\n * para testar e alterar o conjunto de classes do elemento e.\n * Se a propriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2427,
+    "totalChunks": 10000
+  }
+}

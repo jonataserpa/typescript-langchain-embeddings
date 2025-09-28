@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5559",
+  "content": "dores Web)\n    estratégia de composição global, 645\n    versão atual, 319\noperações de leitura, 909\n (consulte também objeto FileReader)\n    eventos disparados em XMLHttpRequest ou File-\nReader, 443\noperador condicional (?:), 80–81\noperador de concatenação de string (+), 66, 73\noperador de desigualdade restrita (!==), 70\noperador de identidade (consulte operadores; opera-\ndor de igualdade restrita)\noperador de igualdade restrita (===), 70\noperador delete, 61, 82–83\n    efeitos colaterais, 86\n    excluindo elementos de array, 142\n    excluindo propriedades, 121\n    excluindo propriedades confi",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5559,
+    "totalChunks": 10000
+  }
+}

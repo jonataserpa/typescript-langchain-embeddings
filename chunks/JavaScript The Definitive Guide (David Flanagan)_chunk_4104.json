@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4104",
+  "content": "eto Date, em hora local ou universal.\ngetTime()\nRetorna representação de milissegundos interna de um objeto Date. Note que esse valor é \nindependente do fuso horário e, portanto, não existe um método getUTCTime() separado.\ngetTimezoneOffset()\nRetorna a diferença, em minutos, entre as representações local e UTC dessa data. Note que o \nvalor retornado depende de o horário de verão estar em vigor na data especificada.\ngetYear()\nRetorna o campo de ano de um objeto Date. Desaprovado em favor de getFullYear().\n\n728          Parte III     Referência de JavaScript básica\nset[UTC]Date()\nConfigura o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4104,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_184",
+  "content": "Capítulo 3\nTipos, valores e variáveis\n\nCapítulo 3     Tipos, valores e variáveis      29\nJavaScript básica\nJavaScript define outro tipo especial de objeto, conhecido como função. Uma função é um objeto \nque tem código executável associado. Uma função pode ser chamada para executar esse código exe-\ncutável e retornar um valor calculado. Assim como os arrays, as funções se comportam de maneira \ndiferente dos outros tipos de objetos, sendo que JavaScript define uma sintaxe especial para traba-\nlhar com elas. O mais importante a respeito das funções em JavaScript é que elas são valores reais \ne",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 184,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2967",
+  "content": "setter, esses métodos frequentemente aceitam argumentos de objeto. \nNesse caso, cada propriedade do objeto especifica um nome e um valor a ser configurado.\n •   Quando usados como setter, esses métodos em geral aceitam funções como valores. Nesse \ncaso, a função é chamada para calcular o valor a ser configurado. O elemento para o qual o \nvalor está sendo calculado é o valor de \nthis, o índice do elemento é passado como primeiro \nargumento para a função e o valor atual é passado como segundo argumento.\nLembre-se dessas generalizações sobre métodos getter e setter ao ler o restante desta",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2967,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3718",
+  "content": "^\\s+|\\s+$/g, \"\");  // Retira os espaços\n        var text = content.replace(/#.*$/gm, \"\");         // Retira os comentários\n        text = text.replace(/[\\n\\r\\t\\v\\f]/g, \" \");        // Converte \\n etc. em espaço\n        var data = text.split(/\\s+|\\s*,\\s*/);             // Divide espaço ou vírgula\n        for(var i = 0; i < data.length; i++) {            // Para cada trecho\n            data[i] = Number(data[i]);                    // Converte em um número\n            if (isNaN(data[i])) continue main;           // e cancela em caso de falha\n  }\n        // Agora calcula a cor, largura, altura e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3718,
+    "totalChunks": 10000
+  }
+}

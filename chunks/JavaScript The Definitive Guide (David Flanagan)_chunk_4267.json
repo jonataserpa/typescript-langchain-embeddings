@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4267",
+  "content": "esultado é 1.0\nd = Math.floor(-1.01);   // O resultado é -2.0\nMath.LN10\na constante matemática log\ne \n10\nSinopse\nMath.LN10\nDescrição\nMath.LN10  é  log\ne \n10,  o  logaritmo  natural  de  10.  O  valor  aproximado  dessa  constante  é  \n2,3025850929940459011.\nMath.LN2\na constante matemática log\ne \n2\nSinopse\nMath.LN2\n\n780          Parte III     Referência de JavaScript básica\nDescrição\nMath.LN2  é  log\ne \n2,  o  logaritmo  natural  de  2.  O  valor  aproximado  dessa  constante  é  \n0,69314718055994528623.\nMath.log()\ncalcula um logaritmo natural\nSinopse\nMath.log(x)\nArgumentos\nx\nQualquer valor ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4267,
+    "totalChunks": 10000
+  }
+}

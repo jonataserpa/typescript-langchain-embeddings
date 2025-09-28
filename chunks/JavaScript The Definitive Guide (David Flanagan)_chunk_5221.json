@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5221",
+  "content": "ior e per-\nsistem apenas pela duração da sessão de navegação. Consulte também localStorage e a Seção \n20.1.\nreadonly Window top\nA janela de nível superior que contém essa janela. Se essa janela é ela própria de nível superior, \na propriedade top simplesmente se refere a ela. Se essa janela é um quadro, a propriedade top \nse refere à janela de nível superior que contém o quadro. Compare com a propriedade parent.\nreadonly object URL\nQuando este livro estava sendo escrito, essa propriedade era simplesmente uma referência a \num objeto de espaço reservado que definia as funções documentadas em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5221,
+    "totalChunks": 10000
+  }
+}

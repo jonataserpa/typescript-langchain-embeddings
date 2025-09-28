@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2650",
+  "content": "pondem aos dados soltos de alguma \nmaneira que não seja sua simples exibição.\nA DnD é sempre baseada em eventos e a API JavaScript envolve dois conjuntos de eventos: um dis-\nparado na origem do arrasto e outro disparado no alvo de soltura. Todas as rotinas de tratamento de \nevento de DnD recebem um objeto evento parecido com um objeto evento de mouse, com a adição \nde uma propriedade\n dataTransfer. Essa propriedade se refere a um objeto DataTransfer que define \nos métodos e as propriedades da API de DnD.\nOs eventos da origem do arrasto são relativamente simples e vamos começar com eles.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2650,
+    "totalChunks": 10000
+  }
+}

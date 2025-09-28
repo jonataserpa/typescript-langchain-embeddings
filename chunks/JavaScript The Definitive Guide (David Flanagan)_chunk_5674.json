@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5674",
+  "content": "spostas binárias, 488\nXHTML\n    diferenciação de maiúsculas e minúsculas, 21\n    elementos <script>, 303–304\n    SVG incorporado no documento, 609\nXML\n    analisando documento de resposta HTTP com a \npropriedade responseXML, 487\n    consultando e confi gurando elementos de docu-\nmentos, 366\n    E4X (ECMAScript for XML)\n        introdução    a,    276–280\n    ECMAScript for XML (E4X), 267–268\n    instrução de processamento em um documento, \n966\n    namespaces, método createElementNS( ), 372\n    nós Text em documentos, 371\n    opcional em scripts de HTTP, 480\n    pedido HTTP codifi cado com o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5674,
+    "totalChunks": 10000
+  }
+}

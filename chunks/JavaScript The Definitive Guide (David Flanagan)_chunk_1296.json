@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1296",
+  "content": "= [];\n            this.foreach(function(v) { a.push(v); });\n            return    a;\n        },\n        equals: function(that) {\n            if (!(that instanceof AbstractEnumerableSet)) return false;\n            // Se eles não têm o mesmo tamanho, não são iguais\n            if (this.size() != that.size()) return false;\n            // Agora verifica se todo elemento em this também está em that.\n            try    {\n                this.foreach(function(v) {if (!that.contains(v)) throw false;});\n                  return    true;    //        Todos os elementos coincidiram: os conjuntos são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1296,
+    "totalChunks": 10000
+  }
+}

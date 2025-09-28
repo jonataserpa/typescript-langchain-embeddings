@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5015",
+  "content": "es. Os elementos \n<a> e <area> têm a mesma representação em \nJavaScript. Os elementos <link> têm uma representação JavaScript um tanto diferente, mas por \nconveniência esses dois tipos de links são documentados juntos nesta página.\n\n      Referência de JavaScript do lado do cliente      947\nReferência de \nJavaScript do lado \ndo cliente\nQuando um objeto Link que representa um elemento <a> é usado como string, ele retorna o valor \nde sua propriedade href.\nPropriedades\nAlém das propriedades listadas aqui, um objeto Link também tem propriedades que refletem os \natributos HTML subjacentes:",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5015,
+    "totalChunks": 10000
+  }
+}

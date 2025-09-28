@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4260",
+  "content": "o-seno\nSinopse\nMath.asin(x)\nArgumentos\nx\nUm número entre −1,0 e 1,0.\nRetorna\nO arco-seno do valor \nx especificado. Esse valor de retorno está entre -π/2 e π/2 radianos.\nMath.atan()\ncalcula um arco-tangente\nSinopse\nMath.atan(x)\nArgumentos\nx\nQualquer número.\nRetorna\nO arco-tangente do valor \nx especificado. Esse valor de retorno está entre -π/2 e π/2 radianos.\n\n      Referência de JavaScript básica      777\nReferência de \nJavaScript básica\nMath.atan2()\ncalcula o ângulo do eixo X até um ponto\nSinopse\nMath.atan2(y, x)\nArgumentos\ny\nA coordenada Y do ponto.\nx\nA coordenada X do ponto.\nRetorna\nUm",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4260,
+    "totalChunks": 10000
+  }
+}

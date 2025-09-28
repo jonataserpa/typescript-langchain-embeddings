@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2912",
+  "content": ").parse(request.url);\n  // Se o pedido foi para \"/\", envia a interface com o usuário de chat do lado do \n// cliente.\n    if (url.pathname === \"/\") { // Um pedido para a interface com o usuário de chat\n        response.writeHead(200, {\"Content-Type\": \"text/html\"});\n        response.write(\"<script>\" + emulation + \"</script>\");\n        response.write(clientui);\n        response.end();\n        return;\n }\n    // Envia 404 para qualquer requisição que não seja \"/chat\"\n    else if (url.pathname !== \"/chat\") {\n        response.writeHead(404);\n        response.end();\n        return;\n    }    \n    //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2912,
+    "totalChunks": 10000
+  }
+}

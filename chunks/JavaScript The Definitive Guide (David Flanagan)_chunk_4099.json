@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4099",
+  "content": "o 5000 cria uma data que representa cinco segundos \napós a meia-noite de 1/1/70.\nstringdata\nUm único argumento especificando a data e, opcionalmente, a hora como uma string. A string \ndeve estar em um formato aceito por Date.parse().\nano\nO ano, no formato de quatro dígitos. Por exemplo, especifique 2001 para o ano 2001. Por \ncompatibilidade com implementações anteriores de JavaScript, se esse argumento estiver entre \n0 e 99, 1900 será adicionado a ele.\nmês\nO mês, especificado como um inteiro de 0 (janeiro) a 11 (dezembro).\ndia\nO dia do mês, especificado como um inteiro de 1 a 31. Note que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4099,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1460",
+  "content": "is sejam colocados entre chaves – \nele não permite que as chaves sejam omitidas se o corpo consistir em uma única instrução. Qualquer \ninstrução que não termine com uma chave deve ser terminada com um ponto e vírgula.\nO subconjunto não inclui o operador vírgula, os operadores bit a bit nem os operadores \n++ e --. \nTambém não permite \n== e != por causa da conversão de tipo que fazem, exigindo, em vez disso, o \nuso de \n=== e !==.\nComo JavaScript não tem escopo de bloco, o subconjunto de Crockford restringe a instrução \nvar, \nexigindo que apareça somente no nível superior de um corpo de função e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1460,
+    "totalChunks": 10000
+  }
+}

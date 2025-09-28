@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4808",
+  "content": "navegadores atuais, mas \nainda não foram (quando este livro estava sendo escrito) implementadas por quaisquer navegadores. \nSe forem implementadas de forma a operar em conjunto, elas vão tornar muito mais fácil escrever \ncódigo portável para tratar de eventos de entrada de texto, eventos de tecla e eventos de mouse.\nreadonly unsigned short buttons\nEssa propriedade é como a versão do IE da propriedade button descrita anteriormente.\nreadonly string char\nPara eventos de teclado, essa propriedade contém a string de caracteres (que pode ter mais de \num caractere) gerada pelo evento.\n\n904",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4808,
+    "totalChunks": 10000
+  }
+}

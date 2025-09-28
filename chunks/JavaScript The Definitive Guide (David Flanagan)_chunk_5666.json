@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5666",
+  "content": "nção decodeURI( ), 750\n    função decodeURIComponent( ), 751\n    função encodeURI( ), 751\n    função encodeURIComponent( ), 752\nURL blank-page, about:blank, 345\nURL curinga em manifesto de cache de aplicativo, 589\nURLs\n    analisando,    334\n    argumentos da função importScripts( ), 667\n\nÍndice          1061\n    assunto de pedido HTTP, 483\n    Blob,    680–682\n    carregando documento e exibindo partes dele com \njQuery, 545\n    curinga, na seção network de manifesto de cache \nde aplicativo, 589\n    exibidos como estado atual de aplicativo Web, 657\n    JavaScript,    307\n    objeto URL, 982",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5666,
+    "totalChunks": 10000
+  }
+}

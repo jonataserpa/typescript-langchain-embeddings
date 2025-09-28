@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5411",
+  "content": "antes da palavra-chave for em inclusões de array, \n274\n    aritméticas,    65–69\n        operador + (adição ou concatenação de string), \n66\n        operadores aritméticos unários, 67\n        operadores bit a bit, 68\n    atribuição,    76\n        atribuição com operação, 76–77\n    avaliação,    78–80\n    chamada, 60, 162\n    criação de objetos, 60\n    defi nição, 5\n    defi nição de função, 58, 159, 160\n    gerador,    274\n    instruções    versus, 6\n    lógicas,    74\n        operador E lógico (&&), 74\n        operador NÃO lógico (!), 76\n        operador OU lógico (||), 75\n    objeto e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5411,
+    "totalChunks": 10000
+  }
+}

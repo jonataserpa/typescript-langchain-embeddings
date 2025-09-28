@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1708",
+  "content": "ript type=”text/vbscript”>\n' O código VBScript fica aqui\n</script>\nO valor padrão do atributo type é “text/javascript”. Se quiser, você pode especificar esse tipo explici-\ntamente, mas isso nunca é necessário.\nOs navegadores mais antigos usavam um atributo \nlanguage na marcação <script>, em vez do atri-\nbuto type, sendo que às vezes você ainda vai ver páginas Web que incluem marcações como segue:\n<script language=\"javascript\">\n// código JavaScript aqui...\n</script>\nO atributo language foi desaprovado e não deve mais ser usado.\nQuando um navegador Web encontra um elemento \n<script> com um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1708,
+    "totalChunks": 10000
+  }
+}

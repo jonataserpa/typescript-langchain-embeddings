@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_817",
+  "content": "or fim, \nsplice() é o método de uso geral para inserir, excluir ou substituir elementos de um array. \nEle altera a propriedade length e desloca os elementos do array para índices mais altos ou mais bai-\nxos, conforme for necessário. Consulte a Seção 7.8 para ver os detalhes.\n7.6   Iteração em arrays\nA maneira mais comum de iterar através dos elementos de um array é com um laço for (Seção 5.5.3):\nvar keys = Object.keys(o);      // Obtém um array de nomes de propriedade do objeto o\nvar values = []       // Armazena os valores de propriedade correspondentes nesse array\nfor(var i = 0; i <",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 817,
+    "totalChunks": 10000
+  }
+}

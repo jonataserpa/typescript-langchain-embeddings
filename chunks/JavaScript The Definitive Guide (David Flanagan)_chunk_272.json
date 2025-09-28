@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_272",
+  "content": "bjeto\no.x = 2;              // Muda-o, alterando o valor de uma propriedade\no.y = 3;              // Muda-o novamente, adicionando uma nova propriedade\nvar a = [1,2,3]       // Os arrays também são mutáveis\na[0] = 0;             // Muda o valor de um elemento do array\na[3] = 4;             // Adiciona um novo elemento no array\n\n44          Parte     I     JavaScript     básica\nObjetos não são comparados por valor: dois objetos não são iguais mesmo que tenham as mesmas \npropriedades e valores. E dois arrays não são iguais mesmo que tenham os mesmos elementos na \nmesma ordem:\nvar o = {x:1}, p =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 272,
+    "totalChunks": 10000
+  }
+}

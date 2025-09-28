@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1723",
+  "content": "é um mini-programa \nque pode ser ativado facilmente a partir dos menus ou da barra de ferramentas do navegador. O \ncódigo de um bookmarklet é executado como se fosse um script na página e pode consultar e con-\nfigurar conteúdo de documento, apresentação e comportamento. Desde que um bookmarklet não \nretorne um valor, ele pode operar em qualquer documento que esteja sendo exibido, sem substituir \nesse documento por novo conteúdo.\nConsidere o URL \njavascript: em uma marcação <a> a seguir. Clicar no link abre um avaliador de \nexpressão JavaScript simples que permite avaliar expressões e executar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1723,
+    "totalChunks": 10000
+  }
+}

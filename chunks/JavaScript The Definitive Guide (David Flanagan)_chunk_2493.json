@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2493",
+  "content": "o de teclado do sistema operacional.\nPor fim, os eventos resize e scroll são disparados em um objeto Window quando o usuário redimen-\nsiona ou rola a janela do navegador. Os eventos scroll também podem ser disparados em qualquer \nelemento do documento que possa rolar, como aqueles com a propriedade \noverflow de CSS (Seção \n16.2.6) configurada. O objeto evento passado para as rotinas de tratamento de evento resize e scroll \né apenas um objeto Event normal e não tem propriedades que especifiquem quanto redimensiona-\nmento ou rolagem ocorreu – você pode determinar o tamanho da nova janela e a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2493,
+    "totalChunks": 10000
+  }
+}

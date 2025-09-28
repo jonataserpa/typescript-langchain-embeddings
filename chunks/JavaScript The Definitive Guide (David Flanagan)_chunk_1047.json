@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1047",
+  "content": "nção.\n\nCapítulo     8     Funções          185\nJavaScript básica\n8.7.6   A construtora Function()\nAs funções normalmente são definidas com a palavra-chave function, ou na forma de uma instrução \nde definição de função ou de uma expressão de função literal. Mas as funções também podem ser \ndefinidas com a construtora Function(). Por exemplo:\nvar f = new Function(\"x\", \"y\", \"return x*y;\");\nEssa linha de código cria uma nova função, mais ou menos equivalente a uma função definida com \na sintaxe familiar:\nvar f = function(x, y) { return x*y; }\nA construtora Function() espera qualquer número de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1047,
+    "totalChunks": 10000
+  }
+}

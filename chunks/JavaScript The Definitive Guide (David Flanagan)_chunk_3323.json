@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3323",
+  "content": "seus dados, e permite que \nesses aplicativos instalem a si mesmos para que estejam disponíveis mesmo quando não houver \nconexão com a Internet. Os aplicativos Web off-line são abordados na Seção 20.4.\nBancos de dados Web\nOs desenvolvedores que precisam trabalhar com volumes de dados realmente grandes gostam \nde usar bancos de dados, e os navegadores mais recentes começaram a integrar funcionalidade \nde banco de dados no lado do cliente. Safari, Chrome e Opera contêm uma API no lado do \ncliente para um banco de dados SQL. Contudo, o esforço de padronização dessa API fracassou \ne é improvável",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3323,
+    "totalChunks": 10000
+  }
+}

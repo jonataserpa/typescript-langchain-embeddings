@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1915",
+  "content": ".\n14.4.2   O objeto Screen\nA propriedade screen de um objeto Window se refere a um objeto Screen que fornece informações \nsobre o tamanho da tela do usuário e o número de cores disponíveis. As propriedades width e height \nespecificam o tamanho da tela em pixels. As propriedades availWidth e availHeight especificam o \ntamanho da tela realmente disponível; elas excluem o espaço exigido por recursos como uma barra \nde tarefas na área de trabalho. A propriedade colorDepth especifica o valor de bits por pixel da tela. \nValores normais são 16, 24 e 32.\nA propriedade \nwindow.screen e o objeto Screen",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1915,
+    "totalChunks": 10000
+  }
+}

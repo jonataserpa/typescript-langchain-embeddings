@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5641",
+  "content": "e scripting (XSS), 328\n    dados de cookie e, 579\n    método toDataURL( ), objetos Canvas, 643\n    o que JavaScript não pode fazer, 325\n    pedidos HTTP de origens diferentes, 498\n    política da mesma origem, 326\n    script de plug-ins e controles ActiveX, 328\n    scripts e, 500\n    subconjuntos de, 260\n        listagem dos subconjuntos importantes, 261\n        recursos    removidos,    260\nselecionando elementos do documento, 354–361\n    coleção document.all[ ], 360–361\n    por classe CSS, 358, 359\n    por    identifi cação, 354\n    por nome, 355\n    por tipo, 356\nselectionRowIndex, objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5641,
+    "totalChunks": 10000
+  }
+}

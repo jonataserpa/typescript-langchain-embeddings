@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1344",
+  "content": "});\n        return    this;\n    };\n    // Retorna um objeto que mapeia nomes em descritores para essas propriedades.\n    // Usa this para copiar as propriedades junto com seus atributos:\n    // Object.defineProperties(dest, src.properties().descriptors());\n    Properties.prototype.descriptors = function() {\n        var o = this.o, desc = {};\n        this.names.forEach(function(n)    {\n                                  if    (!o.hasOwnProperty(n))    return;\n                                  desc[n]    =    Object.getOwnPropertyDescriptor(o,n);\n                             });",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1344,
+    "totalChunks": 10000
+  }
+}

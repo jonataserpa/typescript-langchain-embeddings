@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3905",
+  "content": "de arquivos, a API para lê-los é assíncrona, muito parecida com a API XMLHttpRequest. Uma \n\nCapítulo 22     APIs de HTML5      683\nJavaScript do\n lado do cliente\nversão síncrona da API, FileReaderSync, está disponível em threads worker, embora workers \ntambém possam usar a versão assíncrona.\nPara usar um FileReader, primeiro crie uma instância com a construtora FileReader(). Em seguida, \ndefina rotinas de tratamento de evento. Normalmente, você vai definir rotinas de tratamento para \neventos load e error e possivelmente também para eventos progress. Isso pode ser feito com onload, \nonerror e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3905,
+    "totalChunks": 10000
+  }
+}

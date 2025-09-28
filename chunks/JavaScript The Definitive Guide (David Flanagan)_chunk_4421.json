@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4421",
+  "content": "de string são numeradas a partir de zero.\nSe nenhuma ocorrência de \nsubstring é encontrada dentro de string, String.indexOf() retorna −1.\nConsulte também\nString.charAt(), String.lastIndexOf(), String.substring()\nString.lastIndexOf()\npesquisa uma string para trás\nSinopse\nstring.lastIndexOf(substring)\nstring.lastIndexOf(substring, início)\nArgumentos\nsubstring\nA substring a ser pesquisada dentro de string.\ninício\nUm argumento inteiro opcional especificando a posição dentro de string onde a busca deve \ncomeçar. Os valores válidos vão de 0 (a posição do primeiro caractere na string) a string",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4421,
+    "totalChunks": 10000
+  }
+}

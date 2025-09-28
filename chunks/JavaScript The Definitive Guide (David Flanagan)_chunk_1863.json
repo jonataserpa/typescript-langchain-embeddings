@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1863",
+  "content": "da está fora dos ob-\njetivos deste livro. Existem muitos recursos online para ajudá-lo a se defender do cross-site scripting. \nUma fonte primária importante sobre esse problema é o CERT Advisory original: http://www.cert.\norg/advisories/CA-2000-02.html.\n\n330          Parte II     JavaScript do lado do cliente\n13.6.5   Ataques de negação de serviço\nA política da mesma origem e outras restrições de segurança descritas aqui fazem um bom trabalho \nde evitar que código mal-intencionado danifique seus dados ou comprometa sua privacidade. Con-\ntudo, eles não protegem contra ataques de negação de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1863,
+    "totalChunks": 10000
+  }
+}

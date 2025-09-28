@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2894",
+  "content": "novo XHR\n        xhr.open(\"POST\", \"/chat\");              // para postar (com POST) em /chat.\n        xhr.setRequestHeader(\"Content-Type\",    // Especifica texto UTF-8 puro\n                               \"text/plain;charset=UTF-8\");\n        xhr.send(msg);                 // Envia a mensagem\n        input.value = \"\";                       // Apronta-se para mais entrada\n }\n};\n</script>\n<!-- A interface com o usuário para chat é apenas um campo de entrada de texto -->\n<!-- Novas mensagens de chat serão inseridas antes desse campo de entrada -->\n<input id=\"input\" style=\"width:100%\"/>\nQuando este",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2894,
+    "totalChunks": 10000
+  }
+}

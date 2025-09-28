@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5460",
+  "content": "Ajax,    556\n        função ajax( ), 550–555\n        funções    utilitárias,    546\n        método load( ), 545\n        passando dados para utilitários Ajax, 548\n    Ajax na jQuery 1.5, 551\n    alterando estrutura do documento, 523–526\n    biblioteca UI, 571\n    consultas baseadas em seletor CSS, 360\n    consultas e resultados de consulta, 514\n    efeitos animados, 537–544\n    efeitos e métodos de animação, 940\n    estendendo com plugins, 568–571\n    função jQuery( ) ($( )), 511–514\n    funções Ajax, 942–943\n    funções utilitárias, 557–560, 944\n    fundamentos da, 510\n    gramática de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5460,
+    "totalChunks": 10000
+  }
+}

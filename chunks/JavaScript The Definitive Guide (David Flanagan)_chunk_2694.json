@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2694",
+  "content": "Aqui está um exemplo de HTML que utiliza esse módulo.\n *    Zipcode: <input id=\"zip\" type=\"text\"\n *  data-allowed-chars=\"0123456789\" data-messageid=\"zipwarn\">\n *    <span id=\"zipwarn\" style=\"color:red;visibility:hidden\">Digits only</span>\n *\n * Este módulo é puramente discreto: ele não define quaisquer símbolos\n * no namespace global.\n */\nwhenReady(function () {  // Executa esta função quando o documento é carregado\n    // Localiza todos os elementos <input>\n    var inputelts = document.getElementsByTagName(\"input\");\n    // Itera por todos eles\n    for(var i = 0 ; i < inputelts.length; i++)",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2694,
+    "totalChunks": 10000
+  }
+}

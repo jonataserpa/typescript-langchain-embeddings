@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4011",
+  "content": "+ \": \" + input.value; // Nome de usuário mais a entrada do usuário\n        socket.send(msg);                   // Envia por meio do soquete\n        input.value = \"\";                   // Apronta-se para mais entrada\n }\n};\n</script>\n<!-- A interface com o usuário de chat é apenas um grande campo de entrada de texto -->\n\n700          Parte II     JavaScript do lado do cliente\n<!-- As novas mensagens de chat vão ser inseridas antes desse elemento -->\n<input id=\"input\" style=\"width:100%\"/>\nO Exemplo 22-17 é um servidor de chat baseado em WebSocket, destinado a ser executado em \nNode (Seção 12.2).",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4011,
+    "totalChunks": 10000
+  }
+}

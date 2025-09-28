@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_188",
+  "content": "que ele nunca mais pode ser utilizado e recupera automaticamente o espaço de memória \nque ele estava ocupando.\nJavaScript é uma linguagem orientada a objetos. Isso significa que, em vez de ter funções definidas \nglobalmente para operar em valores de vários tipos, os próprios tipos definem métodos para trabalhar \ncom valores. Para classificar os elementos de um array \na, por exemplo, não passamos a para uma \nfunção \nsort(). Em vez disso, chamamos o método sort() de a:\na.sort();    // A versão orientada a objetos de sort(a).\nA definição de método é abordada no Capítulo 9. Tecnicamente, em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 188,
+    "totalChunks": 10000
+  }
+}

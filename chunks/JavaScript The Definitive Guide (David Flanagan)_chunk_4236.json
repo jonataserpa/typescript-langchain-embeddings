@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4236",
+  "content": "ualquer coisa que não seja núme-\nro, não escreva x === NaN: isso sempre vai ser false. Em vez disso, use a expressão x !== x: isso vai ser \navaliado como true somente se x for NaN.\nUm uso comum de \nisNaN() é no teste dos resultados de parseFloat() e parseInt(), a fim de determi-\nnar se eles representam números válidos.\nExemplo\nisNaN(0);                       // => falso\nisNaN(0/0);                     // => verdadeiro\nisNaN(parseInt(\"3\"));           // => falso\nisNaN(parseInt(\"hello\"));       // => verdadeiro\n\n770          Parte III     Referência de JavaScript básica\nisNaN(\"3\");",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4236,
+    "totalChunks": 10000
+  }
+}

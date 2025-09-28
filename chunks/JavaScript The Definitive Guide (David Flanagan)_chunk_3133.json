@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3133",
+  "content": "que estão sendo animadas devem ser deixadas como estão no momento ou se devem ser con-\nfiguradas com seus valores de destino finais. Passar \ntrue as configura com seus valores finais. Passar \nfalse (ou omitir o argumento) as deixa com seus valores atuais, quaisquer que sejam.\nQuando as animações forem disparadas por eventos do usuário, talvez você queira cancelar qualquer \nanimação atual ou enfileirada, antes de iniciar uma nova. Por exemplo:\n// As imagens se tornam opacas quando o mouse fica sobre elas.\n// Cuidado para não ficarmos enfileirando animações em eventos de mouse!\n$(\"img\").bind({",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3133,
+    "totalChunks": 10000
+  }
+}

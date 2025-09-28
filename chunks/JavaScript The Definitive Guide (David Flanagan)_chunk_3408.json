@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3408",
+  "content": "o ignoradas. Os comentários podem ter espaço antes \n\n588          Parte II     JavaScript do lado do cliente\ndeles, mas não podem vir após qualquer caractere que não seja espaço na mesma linha. Aqui está um \narquivo de manifesto simples:\nCACHE MANIFEST\n# A linha anterior identifica o tipo de arquivo. Esta linha é um comentário\n# As linhas a seguir especificam os recursos que o aplicativo precisa para executar\nmyapp.html\nmyapp.js\nmyapp.css\nimages/background.png\nTipo MIME do manifesto de cache\nPor convenção, os arquivos de manifesto de cache de aplicativo recebem a extensão .appcache. Contudo,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3408,
+    "totalChunks": 10000
+  }
+}

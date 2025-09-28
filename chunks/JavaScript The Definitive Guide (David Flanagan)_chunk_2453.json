@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2453",
+  "content": "nde acontece algo interessante no documento, no navegador ou em algum elemento ou ob-\njeto associado a ele. Por exemplo, o navegador Web gera um evento quando termina de carregar um \ndocumento, quando o usuário coloca o cursor do mouse sobre um hiperlink ou quando pressiona \numa tecla no teclado. Se um aplicativo JavaScript se interessa por um tipo de evento em especial, \npode registrar uma ou mais funções para serem chamadas quando ocorrerem eventos desse tipo. \nNote que isso não é exclusividade da programação para Web: todos os aplicativos com interfaces \ngráficas com o usuário são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2453,
+    "totalChunks": 10000
+  }
+}

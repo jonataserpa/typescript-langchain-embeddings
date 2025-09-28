@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2322",
+  "content": "são medidas em coordenadas do qualquer – são des-\nlocamentos a partir do canto superior esquerdo do documento. Se quiser posicionar um elemento \nde forma absoluta em relação a um contêiner que faz parte do fluxo normal do documento, use \nposition:relative para o contêiner e especifique uma posição top e left igual a 0px. Isso faz o contêi-\nner ser posicionado dinamicamente, mas o deixa em seu lugar normal no fluxo do documento. Qual-\nquer filho posicionado de forma absoluta é então posicionado em relação à posição do contêiner.\nEmbora seja mais comum especificar a posição do canto superior",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2322,
+    "totalChunks": 10000
+  }
+}

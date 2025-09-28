@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2277",
+  "content": "o” e “redo”, são bem suportados\n6\n. A versão draft de HTML5 da \népoca em que este livro estava sendo escrito definia os comandos a seguir. Contudo, como eles não \nsão suportados universalmente, não estão documentados em detalhes aqui:\nbold              insertLineBreak            selectAll\ncreateLink       insertOrderedList       subscript\ndelete          insertUnorderedList     superscript\nformatBlock      insertParagraph          undo\nforwardDelete    insertText               unlink\ninsertImage      italic                   unselect\ninsertHTML       redo\nCaso precise de funcionalidade de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2277,
+    "totalChunks": 10000
+  }
+}

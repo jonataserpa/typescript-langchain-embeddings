@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_902",
+  "content": "é usado como o nome de uma variável e o objeto função recém-de-\nfinido é atribuído a esta variável. Para expressões de definição de função, o nome é opcional: \nse estiver presente, ele se refere ao objeto função apenas dentro do próprio corpo da função.\n •   Um par de parênteses em torno de uma lista de zero ou mais identificadores separados com \nvírgulas. Esses identificadores são nomes de parâmetro da função e se comportam como variá-\nveis locais dentro do corpo da função.\n •   Um par de chaves contendo zero ou mais instruções JavaScript. Essas instruções são o corpo da \nfunção: elas são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 902,
+    "totalChunks": 10000
+  }
+}

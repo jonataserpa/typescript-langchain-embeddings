@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_952",
+  "content": "e elementos de array numerados e uma propriedade length, mas tecnicamente não é um \narray – é melhor considerá-lo um objeto que coincidentemente tem algumas propriedades numera-\ndas. Consulte a Seção 7.11 para mais informações sobre objetos semelhantes a um array.\nO objeto Arguments tem uma característica muito incomum. No modo não restrito, quando uma \nfunção tem parâmetros nomeados, os elementos de array do objeto Arguments são pseudônimos dos \nparâmetros que contêm os argumentos da função. Os elementos numerados do objeto Arguments \ne os nomes de parâmetro são como dois nomes diferentes",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 952,
+    "totalChunks": 10000
+  }
+}

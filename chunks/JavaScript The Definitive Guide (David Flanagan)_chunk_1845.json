@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1845",
+  "content": "prio servidor. A política da mesma origem \nimpede esse tipo de comportamento.\n13.6.2.1   Atenuando a política da mesma origem\nEm algumas circunstâncias, a política da mesma origem é demasiado restritiva. Esta seção descreve \ntrês técnicas para abrandá-la.\nA política da mesma origem causa problemas para sites grandes que utilizam vários subdomínios. \nPor exemplo, um script em um documento de home.example.com poderia querer legitimamente ler \npropriedades de um documento carregado de developer.example.com, ou scripts de orders.example.\ncom talvez precisassem ler propriedades de documentos em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1845,
+    "totalChunks": 10000
+  }
+}

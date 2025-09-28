@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4145",
+  "content": "data ajustada em milissegundos.\nDate.setUTCHours()\nconfigura os campos de horas, minutos, segundos e milissegundos de um objeto Date (hora universal)\nSinopse\ndata.setUTCHours(horas)\ndata.setUTCHours(horas, minutos)\ndata.setUTCHours(horas, minutos, segundos)\ndata.setUTCHours(horas, minutos, segundos, miliss)\n\n742          Parte III     Referência de JavaScript básica\nArgumentos\nhoras\nO campo a ser configurado em data, expresso em hora universal. Esse argumento deve ser um \ninteiro entre 0 (meia-noite) e 23 (11 p.m.).\nminutos\nUm inteiro opcional, entre 0 e 59, usado como o novo valor (em hora",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4145,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_391",
+  "content": "os operadores condicionais unários, de atribuição e ternários têm associatividade da direita para \na esquerda.\n4.7.7   Ordem de avaliação\nA precedência e a associatividade dos operadores especificam a ordem em que as operações são \nefetuadas em uma expressão complexa, mas não especificam a ordem em que as subexpressões são \navaliadas. JavaScript sempre avalia expressões rigorosamente na ordem da esquerda para a direita. \nNa expressão w=x+y*z, por exemplo, a subexpressão w é avaliada primeiro, seguida de x, y e z. Então, \nos valores de y e z são multiplicados, somados ao valor de x e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 391,
+    "totalChunks": 10000
+  }
+}

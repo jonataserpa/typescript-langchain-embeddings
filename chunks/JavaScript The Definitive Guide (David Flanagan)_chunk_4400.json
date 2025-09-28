@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4400",
+  "content": "te a expreg. Se contiver, retorna true; caso \ncontrário, retorna false. Chamar o método test() de um RegExp r e passar a ele a string s é equi-\nvalente à seguinte expressão:\n(r.exec(s) != null)\nExemplo\nvar pattern = /java/i;\npattern.test(\"JavaScript\");     //     Retorna     true\npattern.test(\"ECMAScript\");     //     Retorna     false\nConsulte também\nRegExp.exec(), RegExp.lastIndex, String.match(), String.replace(), String.substring(); \nCapítulo 10\n\n      Referência de JavaScript básica      819\nReferência de \nJavaScript básica\nRegExp.toString()\nconverte uma expressão regular em uma string",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4400,
+    "totalChunks": 10000
+  }
+}

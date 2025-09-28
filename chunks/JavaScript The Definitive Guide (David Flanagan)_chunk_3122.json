@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3122",
+  "content": "ação da animação em milissegundos ou como a string “fast” ou “slow” ou qualquer nome que \nvocê tenha definido em jQuery.fx.speeds.\nOutra opção que você já viu é a propriedade\n complete: ela especifica uma função que será chamada \nquando a animação estiver concluída. Uma propriedade semelhante, step, especifica uma função \nque é chamada a cada passo ou quadro da animação. O elemento que está sendo animado é o valor \nde this e o valor atual da propriedade que está sendo animada é passado como primeiro argumento.\nA propriedade \nqueue do objeto opções especifica se a animação deve ser enfileirada",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3122,
+    "totalChunks": 10000
+  }
+}

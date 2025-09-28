@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2559",
+  "content": "de tratamento de evento é registrada pela configuração de uma propriedade, é \ncomo se você estivesse definindo um novo método no elemento do documento:\ne.onclick = function() { /* código da rotina de tratamento */ };\n\nCapítulo 17     Tratando eventos      449\nJavaScript do\n lado do cliente\nPortanto, não é de surpreender que as rotinas de tratamento de evento sejam chamadas (com uma ex-\nceção relacionada ao IE, descrita a seguir) como métodos do objeto no qual são definidas. Isto é, dentro \ndo corpo de uma rotina de tratamento de evento, a palavra-chave \nthis se refere ao alvo do evento.\nAs",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2559,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2328",
+  "content": "da altura da linha da fonte corrente).\n\nCapítulo 16     Escrevendo script de CSS      411\nJavaScript do\n lado do cliente\nEm vez de especificar posições e tamanhos absolutos usando as unidades mostradas anteriormente, \nCSS também permite especificar a posição e o tamanho de um elemento como uma porcentagem do \ntamanho do elemento contêiner. Por exemplo, o trecho HTML a seguir cria um elemento vazio com \numa borda preta, com a metade da largura e metade da altura do elemento contêiner (ou da janela \ndo navegador) e centralizado dentro desse elemento:\n<div style=\"position: absolute; left: 25%;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2328,
+    "totalChunks": 10000
+  }
+}

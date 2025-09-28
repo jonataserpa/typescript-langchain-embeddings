@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5215",
+  "content": "ado \ndo cliente\nstring name\nO nome da janela. Opcionalmente, o nome é especificado quando a janela é criada com o \nmétodo open()ou com o atributo name de uma tag <frame>. O nome de uma janela pode ser \nusado como valor de um atributo target de uma tag <a> ou <form>. Usar o atributo target des-\nsa maneira especifica que o documento com hiperlink ou o resultado do envio do formulário \ndeve ser exibido na janela ou quadro nomeado.\nreadonly Navigator navigator\nUma referência ao objeto Navigator, a qual fornece informações sobre versão e configuração \ndo navegador Web. Consulte Navigator.\nreadonly",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5215,
+    "totalChunks": 10000
+  }
+}

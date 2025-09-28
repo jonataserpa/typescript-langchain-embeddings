@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2117",
+  "content": "tion(n) {  // Função aninhada para criar um escopo local\n            headers[i].onclick = function() { sortrows(table, n); };\n        }(i));          // Atribui o valor de i à variável local n\n }\n}\n15.6.3   Removendo e substituindo nós\nO método removeChild() remove um nó da árvore de documentos. Contudo, tome cuidado: esse \nmétodo não é chamado no nó a ser removido, mas (conforme implica a parte “child” – filho – de seu \nnome) no pai desse nó. Chame o método a partir do nó pai e passe como argumento o nó filho que \ndeve ser removido. Para remover o nó n do documento, você",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2117,
+    "totalChunks": 10000
+  }
+}

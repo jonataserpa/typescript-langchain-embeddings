@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3292",
+  "content": "oin.call(arguments, \" \");\n    // Itera por cada elemento do objeto jQuery\n    this.each(function()    {\n        // Para cada um, anexa a string como texto puro e depois anexa um <br/>.\n        jQuery(this).append(document.createTextNode(msg)).append(\"<br/>\");\n    });\n    // Retorna o objeto jQuery intacto para o encadeamento de métodos\n    return    this;\n};\nCom essa função jQuery.fn.println definida, podemos agora chamar um método println() em \nqualquer objeto jQuery, como segue:\n$(\"#debug\").println(\"x = \", x, \"; y = \", y);\nÉ uma prática comum adicionar novos métodos em jQuery.fn. Se você se",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3292,
+    "totalChunks": 10000
+  }
+}

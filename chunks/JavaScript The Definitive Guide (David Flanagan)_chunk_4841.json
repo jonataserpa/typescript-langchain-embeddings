@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4841",
+  "content": "e FileReader recebem sem-\npre um objeto ProgressEvent. Uma leitura bem-sucedida começa com um evento loadstart, seguido \nde zero ou mais eventos progress, um evento load e um evento loadend. Uma leitura malsucedida \ncomeça com um evento loadstart, seguido de zero ou mais eventos progress, um evento error ou \nabort e um evento loadend.\nonabort\nDisparado se a leitura é cancelada com o método abort().\nonerror\nDisparado se ocorre um erro de algum tipo. A propriedade error de FileReader vai se referir a \num objeto FileError que tenha um código de erro.\nonload\nDisparado quando File ou Blob foi lido",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4841,
+    "totalChunks": 10000
+  }
+}

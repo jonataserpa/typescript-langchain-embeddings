@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4068",
+  "content": "terceiro argumento é o índice de array do segundo argumento. \nO quarto argumento é array em si. f é sempre chamada como uma função e não como um método.\nExemplo\n[1,2,3,4].reduce(function(x,y) { return x*y; })  // => 24: ((1*2)*3)*4\nConsulte também\nArray.forEach(), Array.map(), Array.reduceRight()\nArray.reduceRight() ECMAScript 5\nreduz um array da direita para a esquerda\nSinopse\narray.reduceRight(f)\narray.reduceRight(f, inicial)\nArgumentos\nf\nUma função que combina dois valores (como dois elementos de array) e retorna um novo \nvalor “reduzido”.\ninicial\nUm valor inicial opcional para servir de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4068,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_58",
+  "content": "arão mais fácil entender o tratamento \naprofundado dos capítulos seguintes.\nExplorando JavaScript\nAo se aprender uma nova linguagem de programação é importante testar os exemplos do livro e, então, \nmodificá-los e testá-los novamente para avaliar seu entendimento da linguagem. Para isso, você precisa \nde um interpretador de JavaScript. Felizmente, todo navegador Web contém um interpretador de Java-\nScript e, se você está lendo este livro, provavelmente já tem mais de um navegador Web instalado em \nseu computador.\nAinda neste capítulo, vamos ver que é possível incorporar código JavaScript",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 58,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2163",
+  "content": "or direito.\nEsse método retorna as posições do elemento em coordenadas da janela de visualização. (A palavra \n“Client” no nome do método \ngetBoundingClientRect() é uma referência indireta ao cliente navega-\ndor Web – especificamente à janela do navegador e à janela de visualização que define.) Para con-\nverter em coordenadas do documento que continuam válidas mesmo que o usuário role a janela do \nnavegador, adicione os deslocamentos de rolagem:\nvar box = e.getBoundingClientRect();  // Obtém a posição da janela de visualização em \n// coordenadas\nvar offsets = getScrollOffsets();   // Função",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2163,
+    "totalChunks": 10000
+  }
+}

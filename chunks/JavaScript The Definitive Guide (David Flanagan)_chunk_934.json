@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_934",
+  "content": "ma  chamada  de  função  ou  de  método  é  precedida  pela  palavra-chave  new,  então  ela  é  uma  \nchamada de construtora. (As chamadas de construtora foram apresentadas na Seção 4.6 e na Seção \n6.1.2, e as construtoras serão abordadas com mais detalhes no Capítulo 9.) As chamadas de constru-\ntora diferem das chamadas de função e de método normais na forma como tratam os argumentos, o \ncontexto da chamada e o valor de retorno.\nSe uma chamada de construtora inclui uma lista de argumentos entre parênteses, essas expressões de \nargumento são avaliadas e passadas para a função da mesma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 934,
+    "totalChunks": 10000
+  }
+}

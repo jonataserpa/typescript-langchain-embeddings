@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5451",
+  "content": "ce do usuário))\nInternet Explorer (IE)\n    API arrastar e soltar (DnD), 463\n    API userData, 574\n    comentários condicionais no, 323\n    consultando texto selecionado, 398\n    elemento <canvas>, 616\n    estilos calculados, 426\n    evento propertychange, usando para detectar en-\ntrada de texto, 472\n    eventos de mouse que não borbulham, 440\n    métodos timer, 333\n    modelo de caixa CSS, 414\n    modelo de evento\n        captura de evento e, 451\n        eventos de formulário, 438\n        métodos attachEvent( ) e addEventListener( ), \n313\n        métodos attachEvent( ) e detachEvent( ), 447,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5451,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4775",
+  "content": "clado têm um objeto KeyEvent com propriedades relacionadas a te-\ncla. Os tipos MouseEvent e KeyEvent compartilham uma superclasse Event comum. Contudo, nos \nmodelos de evento do IE e da jQuery, um único tipo de objeto Event é usado para todos os eventos \nque podem ocorrer em objetos Element. As propriedades de Event específicas para eventos de tecla-\ndo não terão um valor útil quando ocorre um evento de mouse, mas essas propriedades ainda serão \ndefinidas. Por simplicidade, esta página quebra a hierarquia de eventos e documenta as propriedades \nde todos os eventos que podem ser enviados para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4775,
+    "totalChunks": 10000
+  }
+}

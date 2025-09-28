@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_622",
+  "content": "não para criar novas proprie-\ndades de o.\n5.7.2   debugger\nA instrução debugger normalmente não faz nada. No entanto, se um programa depurador estiver dis-\nponível e em execução, então uma implementação pode (mas não é obrigada a) executar algum tipo \nde ação de depuração. Na prática, essa instrução atua como um ponto de interrupção: a execução do \n\n108          Parte     I     JavaScript     básica\ncódigo JavaScript para e você pode usar o depurador para imprimir valores de variáveis, examinar a \npilha de chamada, etc. Suponha, por exemplo, que você esteja obtendo uma exceção em sua função",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 622,
+    "totalChunks": 10000
+  }
+}

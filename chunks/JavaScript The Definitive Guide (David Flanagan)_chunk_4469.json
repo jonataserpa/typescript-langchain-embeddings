@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4469",
+  "content": "or para ver os detalhes sobre como lançar e capturar exceções.\nConsulte também\nError, Error.message, Error.name\nTypeError\nlançado quando um valor é do tipo errado Object → Error → TypeError\n\n838          Parte III     Referência de JavaScript básica\nConstrutora\nnew TypeError()\nnew TypeError(mensagem)\nArgumentos\nmensagem\nUma mensagem de erro opcional fornecendo detalhes sobre a exceção. Se for especificado, esse \nargumento é usado como valor da propriedade message do objeto TypeError.\nRetorna\nUm objeto TypeError recentemente construído. Se o argumento \nmensagem é especificado, o objeto \nError",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4469,
+    "totalChunks": 10000
+  }
+}

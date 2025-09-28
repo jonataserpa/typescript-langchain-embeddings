@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1209",
+  "content": "ing da data. Os tipos enumeração \ndo Exemplo 9-7 fazem o mesmo: seus métodos toJSON() são iguais aos seus métodos toString(). O \nanálogo JSON mais próximo a um conjunto é o array; portanto, vamos definir a seguir um método \ntoJSON() que converte um objeto Set em um array de valores.\nA classe Set do Exemplo 9-6 não define nenhum desses métodos. Um conjunto não tem uma re-\npresentação primitiva; portanto, não faz sentido definir um método\n valueOf(), mas a classe prova-\nvelmente deve ter métodos toString(), toLocaleString() e toJSON(). Podemos fazer isso com código \ncomo o seguinte. Observe o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1209,
+    "totalChunks": 10000
+  }
+}

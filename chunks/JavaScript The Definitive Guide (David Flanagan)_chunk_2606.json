@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2606",
+  "content": "calcular a distância entre o cursor do mouse e o canto superior esquerdo do elemento que está sendo \nmovido. Ela usa \ngetScrollOffsets() do Exemplo 15-8 para ajudar na conversão de coordenadas. Em \nseguida, \ndrag() registra rotinas de tratamento para os eventos mousemove e mouseup que vêm após \no evento mousedown. A rotina de tratamento de mousemove é responsável por mover o elemento \ndo documento e a rotina de tratamento de mouseup é responsável por anular o registro em si e a \nrotina de tratamento de mousemove.\nÉ importante notar que as rotinas de tratamento de mousemove e mouseup são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2606,
+    "totalChunks": 10000
+  }
+}

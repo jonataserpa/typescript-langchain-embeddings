@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2986",
+  "content": "return \"§\" + (n+1) + \": \" + current\n});\n19.2.6   Obtendo e configurando geometria de elementos\nNa Seção 15.8, aprendemos que pode ser difícil determinar corretamente o tamanho e a posição \nde um elemento, especialmente em navegadores que não suportam getBoundingClientRect() (Seção \n15.8.2). A jQuery simplifica esses cálculos com métodos que funcionam em qualquer navegador. \nNote que todos os métodos descritos aqui são getter, mas somente alguns também podem ser usados \ncomo setter.\nPara consultar ou configurar a posição de um elemento, use o método\n offset(). Esse método mede \nposições",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2986,
+    "totalChunks": 10000
+  }
+}

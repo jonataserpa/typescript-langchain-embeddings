@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2663",
+  "content": "á interessado em uma soltura. Você pode dar \nesse retorno para o usuário mudando a borda ou a cor de fundo. Surpreendentemente, um alvo de \nsoltura informa ao navegador que está interessado em uma soltura cancelando o evento.\nSe um elemento não cancelar o evento dragenter enviado a ele pelo navegador, este não vai tratá-\n-lo como alvo de soltura para esse arrasto e não vai mais enviar eventos a ele. Mas se um alvo de \nsoltura cancelar o evento dragenter, o navegador vai enviar eventos dragover à medida que o usuário \ncontinuar a arrastar o objeto sobre esse alvo. Surpreendentemente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2663,
+    "totalChunks": 10000
+  }
+}

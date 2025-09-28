@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3594",
+  "content": "nvas.\n21.4.4   Transformações de sistema de coordenadas\nConforme mencionado anteriormente, o sistema de coordenadas padrão de um canvas coloca a \norigem no canto superior esquerdo, tem as coordenadas X aumentando para a direita e as coorde-\nnadas Y aumentando para baixo. Nesse sistema padrão, as coordenadas de um ponto são mapeadas \ndiretamente em um pixel CSS (o qual então é mapeado diretamente em um ou mais pixels do dis-\npositivo). Certas operações e atributos do canvas (como extrair valores brutos de pixel e configurar \ndeslocamentos de sombra) sempre usam esse sistema de coordenadas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3594,
+    "totalChunks": 10000
+  }
+}

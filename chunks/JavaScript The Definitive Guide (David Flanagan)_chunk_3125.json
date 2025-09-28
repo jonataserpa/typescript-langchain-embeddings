@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3125",
+  "content": "empo e o \nvalor que está sendo animado. Se estamos em 100ms de uma animação de 400ms, por exemplo, a ani-\nmação está 25% concluída. Se estamos animando a propriedade \nopacity de 1,0 a 0,0 (por uma chamada \nde \nfadeOut(), talvez) em uma animação linear, a opacidade deve estar em 0,75 nesse ponto. Contudo, \nverifica-se que os efeitos visuais são mais agradáveis se não são lineares. Assim, a jQuery interpõe uma \n\n542          Parte II     JavaScript do lado do cliente\nAs opções de animação restantes envolvem funções de abrandamento. A propriedade easing do \nobjeto opções especifica o nome de uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3125,
+    "totalChunks": 10000
+  }
+}

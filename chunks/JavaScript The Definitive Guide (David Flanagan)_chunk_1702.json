@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1702",
+  "content": "JavaScript aparecer entre <script src=\"\"> e </script>.\nExistem várias vantagens no uso do atributo\n src:\n •   Ele simplifica seus arquivos HTML, permitindo remover deles grandes blocos de código Java-\nScript – isto é, ajuda a manter conteúdo e comportamento separados.\n •   Quando várias páginas Web compartilham o mesmo código JavaScript, o uso do atributo \nsrc permite que você mantenha apenas uma cópia desse código, em vez de ter de editar cada \narquivo HTML quando o código mudar.\n •   Se um arquivo de código JavaScript é compartilhado por mais de uma página, ele só precisa \nser baixado uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1702,
+    "totalChunks": 10000
+  }
+}

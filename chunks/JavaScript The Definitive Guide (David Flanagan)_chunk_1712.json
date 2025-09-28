@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1712",
+  "content": "maneiras de registrar rotinas de trata-\nmento de evento – consulte o Capítulo 17.)\n\nCapítulo 13     JavaScript em navegadores Web      307\nJavaScript do\n lado do cliente\nAs  propriedades  dos  mecanismos  de  tratamento  de  evento  como  onclick espelham  atributos  \nHTML com os mesmos nomes e também é possível definir mecanismos de tratamento de evento \ncolocando código JavaScript em atributos HTML. Por exemplo, para definir uma rotina de trata-\nmento de evento que é chamada quando o usuário ativa ou desativa uma caixa de seleção em um \nformulário, você pode especificar o código do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1712,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_680",
+  "content": "dinâmico e pode mudar em \ntempo de execução), em vez de um identificador (que é estático e deve ser codificado no programa), \npara nomear a propriedade.\nO Capítulo 5 apresentou o laço \nfor/in (e vamos vê-lo brevemente outra vez na Seção 6.5). O poder \ndessa instrução JavaScript se torna claro quando se considera seu uso com arrays associativos. Aqui \nestá como você o utilizaria ao calcular o valor total de um portfólio:\nfunction getvalue(portfolio) {\n    var total = 0.0;\n    for(stock in portfolio) {          // Para cada ação no portfólio:\n        var shares = portfolio[stock];  //   obtém",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 680,
+    "totalChunks": 10000
+  }
+}

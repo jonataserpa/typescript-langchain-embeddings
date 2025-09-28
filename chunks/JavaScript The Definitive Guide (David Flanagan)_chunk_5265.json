@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5265",
+  "content": "o MessageEvent e a propriedade data desse obje-\nto vai conter um clone do argumento mensagem enviado pela thread pai.\nWorkerLocation\no URL do script principal de um worker\nO objeto WorkerLocation referenciado pela propriedade \nlocation de um WorkerGlobalScope é \ncomo o objeto Location referenciado pela propriedade location de um Window: ele representa o \nURL do script principal do worker e define propriedades que representam partes desse URL.\nOs Workers diferem dos Windows porque não podem ser navegados nem recarregados, de modo \nque as propriedades de um objeto WorkerLocation são somente de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5265,
+    "totalChunks": 10000
+  }
+}

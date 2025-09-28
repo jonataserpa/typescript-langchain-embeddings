@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2019",
+  "content": "rms, também é possível se referir mais especificamente ao formulário \nnomeado (ou identificado) como segue:\ndocument.forms.shipping_address;\nO  objeto  HTMLDocument  também  define  propriedades  sinônimas  embeds  e  plugins  que  são  \nHTMLCollections de elementos <embed>. A propriedade anchors não é padronizada, mas se refere \na elementos <a> que têm um atributo name, em vez de um atributo href. A propriedade <scripts> é \npadronizada pela HTML5 para ser uma HTMLCollection de elementos <script>, mas quando este \nlivro estava sendo produzido ainda não estava implementada",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2019,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3111",
+  "content": "slideUp() oculta os elementos do objeto jQuery, animando suas alturas para 0 e depois con-\nfigurando a propriedade CSS \ndisplay como “none”. slideDown() inverte o processo para tor-\nnar novamente visível um elemento oculto. \nslideToggle() alterna a visibilidade de um item \nusando uma animação de deslizar para cima ou para baixo. Cada um dos três métodos aceita \nos argumentos de duração e retorno de chamada opcionais (ou o argumento objeto opções).\nAqui está um exemplo que chama métodos de cada um desses grupos. Lembre-se de que as anima-\nções da jQuery são enfileiradas por padrão; portanto,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3111,
+    "totalChunks": 10000
+  }
+}

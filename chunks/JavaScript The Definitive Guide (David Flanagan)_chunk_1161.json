@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1161",
+  "content": "do objeto, se ele tiver uma\n    if (o.constructor && typeof o.constructor === \"function\" &&\n        (n = o.constructor.getName())) return n;\n    // Não podemos determinar um tipo mais específico; portanto, retorna \"Object\"\n    return    \"Object\";\n}\n// Retorna a classe de um objeto.\nfunction classof(o) {\n    return    Object.prototype.toString.call(o).slice(8,-1);\n};\n// Retorna o nome de uma função (pode ser \"\") ou null para o que não for função\nFunction.prototype.getName = function() {\n    if (\"name\" in this) return this.name;\n    return this.name =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1161,
+    "totalChunks": 10000
+  }
+}

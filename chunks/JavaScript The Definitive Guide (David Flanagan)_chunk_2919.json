@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2919",
+  "content": "ém uma refe-\nrência rápida da\n jQuery. Os métodos da jQuery não têm entradas individuais na seção de referência, \nmas a jQuery fornece um resumo de cada método.\nA jQuery torna fácil encontrar os elementos importantes de um documento e então manipulá-los, \nadicionando conteúdo, editando atributos HTML e propriedades CSS, definindo rotinas de trata-\nmento de evento e fazendo animações. Ela também tem utilitários Ajax para fazer requisições HTTP \ndinamicamente e funções utilitárias de uso geral para trabalhar com objetos e arrays.\nConforme seu nome implica, a biblioteca jQuery se concentra em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2919,
+    "totalChunks": 10000
+  }
+}

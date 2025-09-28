@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4573",
+  "content": "é o padrão.\n\"repeat-x\"\nDispõe a imagem lado a lado apenas na dimensão X.\n\"repeat-y\"\nDispõe a imagem lado a lado apenas na dimensão Y.\n\"no-repeat\"\nNão dispõe a imagem lado a lado; a utiliza apenas uma vez.\nPara usar um padrão para traçar linhas ou preencher áreas, use um objeto CanvasPattern como valor \ndas propriedades \nstrokeStyle ou fillStyle.\nCanvasGradient createRadialGradient(double x0, y0, r0, x1, y1, r1)\nEsse método cria e retorna um novo objeto CanvasGradient que interpola as cores entre as circun-\nferências dos dois círculos especificados radialmente. Note que esse método não",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4573,
+    "totalChunks": 10000
+  }
+}

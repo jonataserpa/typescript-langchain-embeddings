@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5090",
+  "content": "aso contrário, clona apenas \no nó e nenhum de seus filhos. O nó retornado não faz parte da árvore de documentos e sua proprie-\ndade parentNode é null. Quando um nó Element é clonado, todos os seus atributos também são clo-\nnados. Note, entretanto, que as funções ouvintes de evento registradas em um nó não são clonadas.\n\n962          Parte IV     Referência de JavaScript do lado do cliente\nunsigned short compareDocumentPosition(Node outro)\nEsse método compara a posição no documento desse nó com a posição no documento do nó outro \ne retorna um número cujos bits configurados descrevem a relação",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5090,
+    "totalChunks": 10000
+  }
+}

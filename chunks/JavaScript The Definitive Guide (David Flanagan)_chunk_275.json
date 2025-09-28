@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_275",
+  "content": "is.\nComo você pode ver no código anterior, atribuir um objeto (ou array) a uma variável simplesmente \natribui a referência: isso não cria uma nova cópia do objeto. Se quiser fazer uma nova cópia de um \nobjeto ou array, você precisa copiar explicitamente as propriedades do objeto ou dos elementos do \narray. Este exemplo demonstra o uso de um laço for (Seção 5.5.3):\nvar a = ['a','b','c'];     // Um array que queremos copiar\nvar b = [];                // Um array diferente no qual vamos copiar\nfor(var i = 0; i < a.length; i++) {  // Para cada índice de []\n    b[i] = a[i];          // Copia um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 275,
+    "totalChunks": 10000
+  }
+}

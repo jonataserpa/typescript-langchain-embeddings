@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_207",
+  "content": "o não é erro em JavaScript: ela simplesmente retorna infinito ou infinito negativo. \nContudo, há uma exceção: zero dividido por zero não tem um valor bem definido e o resultado \ndessa operação é o valor especial not-a-number, impresso como \nNaN. NaN também surge se você tenta \ndividir infinito por infinito, extrai a raiz quadrada de um número negativo, ou usa operadores arit-\nméticos com operandos não numéricos que não podem ser convertidos em números.\n\nCapítulo 3     Tipos, valores e variáveis      33\nJavaScript básica\nJavaScript predefine as variáveis globais Infinity e NaN para conter o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 207,
+    "totalChunks": 10000
+  }
+}

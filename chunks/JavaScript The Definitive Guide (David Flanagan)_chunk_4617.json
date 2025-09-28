@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4617",
+  "content": "uagem C. Os argumentos mensagem serão interpolados no argu-\nmento formato no lugar das sequências de caractere “%s”, “%d”, “%i”, “%f ” e “%o” e, então, a \nstring formatada será exibida na console (seguida por qualquer um dos argumentos mensagem não \nutilizados). Os argumentos que substituem “%s” são formatados como strings. Os que substituem \n“%d” ou “%i” são formatados como inteiros. Os que substituem “%f ” são formatados como nú-\nmeros em ponto flutuante e os que substituem “%o” são formatados como objetos em que se pode \nclicar.\nvoid profile([string título])\nInicia o traçador de perfil de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4617,
+    "totalChunks": 10000
+  }
+}

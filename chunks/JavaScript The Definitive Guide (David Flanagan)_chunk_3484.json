@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3484",
+  "content": "ela com a construtora Image(), a API \nde mídia de HTML5 permite criar um elemento áudio fora da tela com a construtora\n Audio(), passando \num URL de origem como argumento:\nnew Audio(\"chime.wav\").play();  // Carrega e reproduz um efeito sonoro\nO valor de retorno da construtora Audio() é o mesmo tipo de objeto que você obteria ao consultar um ele-\nmento \n<audio> do documento ou ao criar um novo com document.createElement(\"audio\"). Note que \nesse é um recurso da API de mídia apenas para áudio: não há uma construtora \nVideo() correspondente.\nApesar do requisito frustrante de definir mídia em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3484,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_878",
+  "content": "lemento\n }\n    return results;       // Retorna o array de índices\n}\nNote que as strings têm métodos indexOf() e lastIndexOf() que funcionam como esses métodos \nde array.\n7.10   Tipo do array\nVimos ao longo deste capítulo que os arrays são objetos com comportamento especial. Dado um \nobjeto desconhecido, frequentemente a capacidade de determinar se ele é um array ou não é útil. Em \nECMAScript 5, isso pode ser feito com a função Array.isArray():\nArray.isArray([])     //     =>     verdadeiro\nArray.isArray({})     //     =>     falso\n\n154          Parte     I     JavaScript     básica\nAntes de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 878,
+    "totalChunks": 10000
+  }
+}

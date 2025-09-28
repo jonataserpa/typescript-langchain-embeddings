@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1538",
+  "content": "os quais f(x) é verdadeira\nfunction select(i, f) {\n    for(let x in i) {\n        if (f(x)) yield x;\n }\n}\n// Começa com uma string de texto a processar\nlet text = \" #comment \\n \\n hello \\nworld\\n quit \\n unreached \\n\";\n// Agora constrói um pipeline de geradores para processá-la.\n// Primeiramente, decompõe o texto em linhas\nlet lines = eachline(text);\n// Em seguida, corta o espaço em branco do início e do fim de cada linha\nlet trimmed = map(lines, function(line) { return line.trim(); });\n// Por fim, ignora linhas em branco e comentários\nlet nonblank = select(trimmed, function(line) {\n    return",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1538,
+    "totalChunks": 10000
+  }
+}

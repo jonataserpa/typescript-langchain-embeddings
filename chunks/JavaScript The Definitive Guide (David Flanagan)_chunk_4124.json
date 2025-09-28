@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4124",
+  "content": "de dia do mês de um objeto Date (hora universal)\nSinopse\ndata.getUTCDate()\nRetorna\nO dia do mês (um valor entre 1 e 31) resultante quando \ndata é expressa na hora universal.\n\n734          Parte III     Referência de JavaScript básica\nDate.getUTCDay()\nretorna o campo de dia da semana de um objeto Date (hora universal)\nSinopse\ndata.getUTCDay()\nRetorna\nO dia da semana resultante quando \ndata é expressa em hora universal. Os valores de retorno estão \nentre 0 (domingo) e 6 (sábado).\nDate.getUTCFullYear()\nretorna o campo de ano de um objeto Date (hora",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4124,
+    "totalChunks": 10000
+  }
+}

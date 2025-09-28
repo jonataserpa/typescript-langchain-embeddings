@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_341",
+  "content": "ando o escopo dessa chamada de função. Isso se torna mais \ninteressante para funções aninhadas, pois sempre que a função externa é chamada, a função interna \né novamente definida. Como o encadeamento de escopo é diferente em cada chamada da função \nexterna, a função interna vai ser ligeiramente diferente cada vez que for definida – o código da fun-\nção interna vai ser idêntico em cada chamada da função externa, mas o encadeamento de escopo \nassociado a esse código vai ser diferente.\nEssa ideia de encadeamento de escopo é útil para se entender a instrução \nwith (Seção 5.7.1) e funda-\nmental",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 341,
+    "totalChunks": 10000
+  }
+}

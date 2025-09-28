@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4304",
+  "content": "é Number.\n\n      Referência de JavaScript básica      793\nReferência de \nJavaScript básica\nConsulte também\nObject.valueOf()\nObject\numa superclasse que contém recursos de todos os objetos de JavaScript\nConstrutora\nnew Object()\nnew Object(valor)\nArgumentos\nvalor\nEsse argumento opcional especifica um valor primitivo de JavaScript – um número, valor bo-\noleano ou string – a ser convertido em um objeto Number, Boolean ou String.\nRetorna\nSe não é passado qualquer argumento valor, essa construtora retorna uma instância de Object re-\ncentemente criada. Se é especificado um argumento de valor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4304,
+    "totalChunks": 10000
+  }
+}

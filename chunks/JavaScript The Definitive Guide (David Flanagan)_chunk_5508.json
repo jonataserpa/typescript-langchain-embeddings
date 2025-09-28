@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5508",
+  "content": "tos CSS, 518\n        para atributos HTML, 517\n        para classes CSS, 518\n        para conteúdo de elementos, 520\n        para dados de elementos, 522\n        para geometria de elementos, 520\n        para valores de formulário HTML, 519\n    propriedade,    125–127\n        API legada para, 131\n        combinando closures com, 178\nmétodos HTTP, 483\nmétodos innerWidth( ) e innerHeight( ), jQuery, \n521\n\n1036          Índice\nmétodos next( ) e prev( ), jQuery, 567\nmétodos nextAll( ) e prevAll( ), jQuery, 567\nmétodos nextUntil( ) e prevUntil( ), jQuery, 567\nmétodos outerWidth( ) e outerHeight( ),",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5508,
+    "totalChunks": 10000
+  }
+}

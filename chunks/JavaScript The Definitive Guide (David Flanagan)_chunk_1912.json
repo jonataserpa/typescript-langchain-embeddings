@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1912",
+  "content": "em gecko; a versão é Gecko\n//  \"msie\": IE; a versão é o número da versão pública\n//\n// Firefox 3.6, por exemplo, retorna: { name: \"mozilla\", version: \"1.9.2\" }.\nvar browser = (function() {\n    var s = navigator.userAgent.toLowerCase();\n    var match = /(webkit)[ \\/]([\\w.]+)/.exec(s) ||\n    /(opera)(?:.*version)?[ \\/]([\\w.]+)/.exec(s) ||\n    /(msie) ([\\w.]+)/.exec(s) ||\n\nCapítulo 14     O objeto Window      339\nJavaScript do\n lado do cliente\n    !/compatible/.test(s) && /(mozilla)(?:.*? rv:([\\w.]+))?/.exec(s) ||\n    [];\n    return { name: match[1] || \"\", version: match[2] || \"0\" };\n}());\nAlém",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1912,
+    "totalChunks": 10000
+  }
+}

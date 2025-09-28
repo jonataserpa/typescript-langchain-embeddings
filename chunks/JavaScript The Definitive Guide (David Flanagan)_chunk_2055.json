@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2055",
+  "content": "rer documentos\n/**\n * Retorna o n-ésimo ascendente de e, ou null se não existe tal ascendente\n * ou, se esse ascendente não é um Element (um Document ou DocumentFragment, por \n * exemplo).\n * Se n é 0, retorna o próprio e. Se n é 1 (ou\n * é omitido), retorna o pai. Se n é 2, retorna o avô, etc.\n */\nfunction parent(e, n) {\n    if (n === undefined) n = 1;\n    while(n-- && e) e = e.parentNode;\n    if (!e || e.nodeType !== 1) return null;\n    return    e;\n}\n/**\n * Retorna o n-ésimo elemento irmão do Element e.\n * Se n é positivo, retorna o n-ésimo próximo elemento irmão.\n * Se n é negativo,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2055,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3012",
+  "content": "get\nafter()insertAfter()\ninsere conteúdo antes de target\nbefore()insertBefore()\nsubstitui target por content\nreplaceWith()replaceAll()\nOs métodos demonstrados no exemplo de código anterior são os da segunda coluna. Os métodos da \nterceira coluna estão demonstrados a seguir. Existem alguns pontos importantes a saber sobre esses \npares de métodos:\n •   Se você passa uma string para um dos métodos da segunda coluna, ela é entendida como uma \nstring de HTML a ser inserida. Se você passa uma string para um dos métodos da terceira co-\nluna, ela é entendida como um seletor que identifica os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3012,
+    "totalChunks": 10000
+  }
+}

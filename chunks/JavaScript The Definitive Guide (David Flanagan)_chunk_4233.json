@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4233",
+  "content": "inity não é uma constante e pode ser configurada com qualquer \noutro valor, algo que você deve ter o cuidado de não fazer. (Contudo, Number.POSITIVE_INFINITY é \numa constante.)\nConsulte também\nisFinite(), NaN, Number.POSITIVE_INFINITY\nisFinite()\ndetermina se um número é finito\nSinopse\nisFinite(n)\n\n      Referência de JavaScript básica      769\nReferência de \nJavaScript básica\nArgumentos\nn\nO número a ser testado.\nRetorna\ntrue se n é (ou pode ser convertido em) um número finito ou false, se n é NaN (não é um número) \nou infinito positivo ou negativo.\nConsulte também\nInfinity, isNaN(), NaN,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4233,
+    "totalChunks": 10000
+  }
+}

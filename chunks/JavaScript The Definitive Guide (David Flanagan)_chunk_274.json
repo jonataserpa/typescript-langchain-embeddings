@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_274",
+  "content": "ores de objeto são referências e dizemos que os objetos \nsão comparados por referência: dois valores de objeto são iguais se, e somente se, eles se referem ao \nmesmo objeto básico.\nvar a = [];  // A variável a se refere a um array vazio.\nvar b = a;   // Agora b se refere ao mesmo array.\nb[0] = 1;    // Muda o array referido pela variável b.\na[0]         // => 1: a mudança também é visível por meio da variável a.\na === b      // => verdadeiro: a e b se referem ao mesmo objeto; portanto, são iguais.\nComo você pode ver no código anterior, atribuir um objeto (ou array) a uma variável simplesmente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 274,
+    "totalChunks": 10000
+  }
+}

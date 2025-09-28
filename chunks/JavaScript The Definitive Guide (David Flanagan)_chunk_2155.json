@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2155",
+  "content": "o Capítulo 16). Porém, o \nmodo mais simples de consultar a posição de um elemento (consulte a Seção 15.8.2) retorna a po-\nsição em coordenadas da janela de visualização. Da mesma forma, quando registramos funções de \ntratamento para eventos de mouse, as coordenadas do cursor do mouse se referem às coordenadas \nda janela de visualização.\nPara converter entre os sistemas de coordenadas, precisamos determinar as posições da barra de \nrolagem da janela do navegador. As propriedades pageXOffset e pageYOffset do objeto Window \nfornecem esses valores em todos os navegadores, exceto o IE versões 8 e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2155,
+    "totalChunks": 10000
+  }
+}

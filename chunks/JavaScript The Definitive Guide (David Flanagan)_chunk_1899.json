@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1899",
+  "content": "dos \nde aplicativo criados dinamicamente. HTML5 padroniza duas técnicas para fazer isso e elas estão \ndescritas na Seção 22.2.\nO gerenciamento de histórico antes de HTML5 é um problema mais complexo. Um aplicativo que \ngerencia seu próprio histórico deve ser capaz de criar uma nova entrada no histórico de navegação da \njanela, associar suas informações de estado à essa entrada do histórico, determinar quando o usuário \nutilizou o botão Voltar para ir a uma entrada diferente do histórico, obter as informações de estado \n\nCapítulo 14     O objeto Window      337\nJavaScript do\n lado do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1899,
+    "totalChunks": 10000
+  }
+}

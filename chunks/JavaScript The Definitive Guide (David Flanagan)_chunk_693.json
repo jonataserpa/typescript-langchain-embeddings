@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_693",
+  "content": "otype de construtoras internas são somente para leitura.\nObject.prototype = 0; // A atribuição falha silenciosamente; Object.prototype inalterado\nEssa peculiaridade histórica de JavaScript é corrigida no modo restrito de ECMAScript 5. No modo \nrestrito, qualquer tentativa malsucedida de configurar uma propriedade dispara um TypeError.\nAs regras que especificam quando uma atribuição de propriedade é bem-sucedida e quando falha são \nintuitivas, mas difíceis de expressar resumidamente. Uma tentativa de configurar uma propriedade \np \nde um objeto o falha nas seguintes circunstâncias:\n\nCapítulo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 693,
+    "totalChunks": 10000
+  }
+}

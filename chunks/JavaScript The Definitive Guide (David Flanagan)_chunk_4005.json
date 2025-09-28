@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4005",
+  "content": "etamente bidirecional e uma vez estabelecida uma conexão de WebSocket, o \ncliente e o servidor podem enviar mensagens um para o outro a qualquer momento, sendo que essa \ncomunicação não precisa assumir a forma de requisições e respostas. Cada serviço baseado em We-\nbSocket vai definir seu próprio “subprotocolo” para transferir dados entre cliente e servidor. Com o \ntempo, esses “subprotocolos” podem evoluir e você pode acabar com clientes e servidores que preci-\nsam suportar mais de uma versão de um subprotocolo. Felizmente, o protocolo WebSocket contém \num mecanismo de negociação para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4005,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2913",
+  "content": "\"/chat\") {\n        response.writeHead(404);\n        response.end();\n        return;\n    }    \n    // Se a requisição foi uma postagem, então um cliente está postando uma nova mensagem\n    if (request.method === \"POST\") {\n        request.setEncoding(\"utf8\");\n        var body = \"\";\n        // Quando obtemos um trecho de dados, adiciona-o no corpo\n        request.on(\"data\", function(chunk) { body += chunk; });\n        // Quando a requisição está pronta, envia uma resposta vazia\n        // e transmite a mensagem para todos os clientes que estiverem recebendo.\n        request.on(“end”, function()",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2913,
+    "totalChunks": 10000
+  }
+}

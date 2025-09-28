@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1692",
+  "content": "evento HTML, como onclick ou onmouseover\n •   Em um URL que use o protocolo especial javascript:.\nAs subseções a seguir explicam cada uma dessas quatro técnicas de incorporação de JavaScript. É in-\nteressante notar, contudo, que os atributos de tratamento de evento HTML e os URLs \njavascript: \nraramente são usados em código JavaScript moderno (eles eram bastante comuns nos primórdios \nda Web). Os scripts em linha (aqueles sem um atributo src) também são menos comuns do que já \nforam. Uma filosofia de programação conhecida como JavaScript discreta argumenta que conteúdo \n(HTML) e comportamento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1692,
+    "totalChunks": 10000
+  }
+}

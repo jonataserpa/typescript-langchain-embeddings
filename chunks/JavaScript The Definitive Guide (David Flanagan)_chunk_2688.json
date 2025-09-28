@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2688",
+  "content": "ada.) Para entrada de teclado, a propriedade data normalmente vai conter apenas um caractere, mas \na entrada de outras fontes frequentemente pode incluir vários caracteres.\nO  objeto  evento  passado  com  eventos  keypress  é  mais  confuso.  Um  evento  keypress  representa  \num único caractere de entrada. O objeto evento especifica esse caractere como uma posição de \ncódigo Unicode numérica e você deve usar \nString.fromCharCode() para convertê-la em uma string. \nNa maioria dos navegadores, a propriedade keyCode do objeto evento especifica a posição de código \ndo caractere de entrada. Por",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2688,
+    "totalChunks": 10000
+  }
+}

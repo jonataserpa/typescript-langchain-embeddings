@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_247",
+  "content": "instrução if, como segue:\nif (o !== null) ...\nO operador de desigualdade !== compara o com null e é avaliado como true ou como false. Mas \nvocê pode omitir a comparação e, em vez disso, contar com o fato de que null é falso e os objetos \nsão verdadeiros:\nif (o) ...\n\n40          Parte     I     JavaScript     básica\nNo primeiro caso, o corpo da instrução if só vai ser executado se o não for null. O segundo caso é \nmenos rigoroso: ele executa o corpo da instrução \nif somente se o não é false ou qualquer valor falso \n(como \nnull ou undefined). A instrução if apropriada para seu programa depende",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 247,
+    "totalChunks": 10000
+  }
+}

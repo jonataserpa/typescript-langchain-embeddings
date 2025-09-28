@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_385",
+  "content": "I     JavaScript     básica\nplícita. O operador delete também tem efeitos colaterais: excluir uma propriedade é como (mas não \no mesmo que) atribuir undefined à propriedade.\nNenhum outro operador JavaScript tem efeitos colaterais, mas as expressões de chamada de função e \nde criação de objeto vão ter efeitos colaterais se qualquer um dos operadores utilizados no corpo da \nfunção ou da construtora tiver efeitos colaterais.\n4.7.5   Precedência dos operadores\nOs operadores listados na Tabela 4-1 estão organizados em ordem de precedência alta para baixa, \ncom linhas horizontais separando os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 385,
+    "totalChunks": 10000
+  }
+}

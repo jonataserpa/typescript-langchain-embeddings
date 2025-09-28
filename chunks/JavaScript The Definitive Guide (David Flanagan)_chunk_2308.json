@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2308",
+  "content": "case letters.\n</span>\n</p>\n16.2   Propriedades CSS importantes\nPara programadores JavaScript do lado do cliente, os recursos mais importantes de CSS são as pro-\npriedades que especificam a visibilidade, o tamanho e a posição precisa dos elementos individuais de \num documento. Outras propriedades CSS permitem especificar a ordem de empilhamento, transpa-\nrência, região de corte, margens, preenchimento, bordas e cores. Para escrever scripts CSS, é impor-\ntante entender como essas propriedades de estilo funcionam. Elas estão resumidas na Tabela 16-1 e \ndocumentadas com mais detalhes nas seções a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2308,
+    "totalChunks": 10000
+  }
+}

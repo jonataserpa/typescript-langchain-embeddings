@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4481",
+  "content": "aScript \ndo lado do cliente\n\nApplicationCache                            DOMException                            HTMLOptionsCollection                            Script\nArrayBuffer                                       DOMImplementation                                       IFrame                                       Select\nArrayBufferView                              DOMSettableTokenList                              Image                              Storage\nAttr                                                      DOMTokenList",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4481,
+    "totalChunks": 10000
+  }
+}

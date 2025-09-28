@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1094",
+  "content": "para criar objetos que \nherdam dele, definimos uma classe de JavaScript. Normalmente, as instâncias de uma classe exigem \nmais inicialização e é comum definir uma função para criar e inicializar o novo objeto. O Exemplo \n9-1 demonstra isso: ele define um objeto protótipo para uma classe que representa um intervalo de \nvalores e também define uma função “fábrica”, que cria e inicializa uma nova instância da classe.\nExemplo 9-1 Uma classe JavaScript simples\n// range.js: Uma classe representando um intervalo de valores (range).\n// Esta é uma função fábrica que retorna um novo objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1094,
+    "totalChunks": 10000
+  }
+}

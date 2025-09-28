@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2382",
+  "content": "JavaScript, um \nhífen é interpretado como um sinal de subtração, de modo que não é possível escrever uma expressão \ncomo:\ne.style.font-size = \"24pt\";     // Erro de sintaxe!\nPortanto, os nomes das propriedades do objeto CSSStyleDeclaration são ligeiramente diferentes dos no-\nmes das propriedades CSS. Se um nome de propriedade CSS contém um ou mais hifens, o nome de pro-\npriedade CSSStyleDeclaration é formado removendo-se os hifens e colocando-se em maiúscula a letra \nimediatamente após cada hífen. Assim, a propriedade CSS \nborder-left-width é acessada por meio da \npropriedade JavaScript",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2382,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4252",
+  "content": "objeto ou índice de array do valor dentro \ndesse objeto e o segundo argumento é o valor em si. Esse valor é substituído pelo valor de retorno \nda função substituta. Se a substituta retorna \nundefined ou não retorna nada, então esse valor (e seu \nelemento de array ou propriedade de objeto) é omitido da transformação em string.\nSe, em vez disso, um array de strings (ou números – eles são convertidos em strings) é passado como \nsegundo argumento, elas são usadas como nomes de propriedades de objeto. Qualquer propriedade \ncujo nome não esteja no array será omitida da transformação em string.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4252,
+    "totalChunks": 10000
+  }
+}

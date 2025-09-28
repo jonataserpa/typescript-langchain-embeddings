@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4541",
+  "content": "o que você pode alterar o modo como o canvas compõe pixels, \nespecificando valores diferentes para a propriedade globalCompositeOperation. Por exemplo, você \npode configurar essa propriedade de modo que o elemento gráfico recentemente desenhado apareça \nembaixo do conteúdo já existente.\nA tabela a seguir lista os valores de propriedade permitidos e seus significados. A palavra origem na \ntabela se refere aos pixels que estão sendo desenhados no canvas e a palavra destino se refere aos pixels \njá existentes no canvas. A palavra \nresultado se refere aos pixels resultantes da combinação de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4541,
+    "totalChunks": 10000
+  }
+}

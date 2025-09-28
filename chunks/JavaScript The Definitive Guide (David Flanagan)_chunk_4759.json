@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4759",
+  "content": "mit\nquando um <form> é enviado\nElementos e atributos HTML\nEsta seção de referência inclui páginas de referência individuais para os seguintes tipos de elemento \nHTML:\nElemento(s)Página de referênciaElemento(s)Página de referência\n<audio>Audio<output>Output\n<button>, <input type=”button”>Button<progress>Progress\n<canvas>Canvas<script>Script\n<fieldset>FieldSet<select>Select\n<form>Form<style>Style\n<iframe>IFrame<td>TableCell\n<img>Image<tr>TableRow\n<input>Input<tbody>, <tfoot>, <thead>TableSection\n<label>Label<table>Table\n<a>, <area>,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4759,
+    "totalChunks": 10000
+  }
+}

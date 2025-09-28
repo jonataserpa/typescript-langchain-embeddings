@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3777",
+  "content": "encionado na Seção 14.8, algumas janelas e guias do navegador ficam completamente \nisoladas umas das outras e o código que está sendo executado em uma ignora completamente o \ndas outras. Em outros casos, quando um script abre novas janelas explicitamente ou trabalha com \nquadros aninhados, as várias janelas e quadros sabem da existência uns dos outros. Se eles contêm \ndocumentos do mesmo servidor Web, os scripts dessas janelas e quadros podem interagir e manipu-\nlar os documentos uns dos outros.\nÀs vezes, no entanto, um script pode se referir a outro objeto Window, mas como o conteúdo \ndessa",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3777,
+    "totalChunks": 10000
+  }
+}

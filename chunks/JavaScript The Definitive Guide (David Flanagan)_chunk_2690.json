@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2690",
+  "content": "finida, mas configurada como 0.\nOs eventos textinput, textInput e keypress podem ser cancelados para impedir a entrada do caracte-\nre. Isso significa que você pode usar esses eventos para filtrar entrada. Talvez você queira impedir que \no usuário insira letras em um campo destinado a dados numéricos, por exemplo. O Exemplo 17-6 é \num módulo não obstrusivo de código JavaScript que permite exatamente esse tipo de filtragem. Ele \n\n470          Parte II     JavaScript do lado do cliente\nprocura elementos <input type=text> que tenham um atributo adicional (não padronizado) chama-\ndo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2690,
+    "totalChunks": 10000
+  }
+}

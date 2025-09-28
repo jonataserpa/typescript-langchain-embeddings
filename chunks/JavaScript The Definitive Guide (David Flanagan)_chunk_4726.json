@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4726",
+  "content": "dentes desse elemento. Você pode usar o operador delete para remover atributos \nde dados e pode usar um laço for/in para enumerá-los.\nreadonly Element firstElementChild\nEssa propriedade é como a propriedade firstChild de Node, mas ignora nós Text e Comment \ne retorna apenas Elements.\nstring id\nO valor do atributo id. Dois elementos dentro do mesmo documento não devem ter o mesmo \nvalor de id.\nstring innerHTML\nUma string de leitura/gravação que especifica a marcação HTML ou XML contida no elemen-\nto, não incluindo as tags de abertura e fechamento do elemento em si. Consultar essa proprie-\ndade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4726,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1377",
+  "content": "pressões   regulares\nEm JavaScript, as expressões regulares são representadas por objetos RegExp. Os objetos RegExp po-\ndem ser criados com a construtora RegExp(), claro, mas são mais frequentemente criados com o uso \nde uma sintaxe literal especial. Assim como as strings literais são especificadas como caracteres entre \naspas, as literais de expressão regular são especificadas como caracteres entre duas barras normais (/). \nAssim, seu código JavaScript pode conter linhas como esta:\nvar pattern = /s$/;\nEssa linha cria um novo objeto RegExp e o atribui à variável pattern. Esse objeto RegExp em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1377,
+    "totalChunks": 10000
+  }
+}

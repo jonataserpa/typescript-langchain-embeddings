@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3379",
+  "content": "opriedade\n cookie, você deve interpretar esse \nvalor com base no formato ou na codificação utilizada pelo criador do cookie. Você poderia, por \nexemplo, passar o valor do cookie para decodeURIComponent() e depois para JSON.parse().\nO Exemplo 20-1 define uma função \ngetCookie() que analisa a propriedade document.cookie e retorna \num objeto cujas propriedades especificam o nome e os valores dos cookies do documento.\nExemplo 20-1 Analisando a propriedade document.cookies\n// Retorna os cookies do documento como um objeto de pares nome/valor.\n// Presume que os valores de cookie são codificados com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3379,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4978",
+  "content": "tipo tipo em elementos que correspondem à string seletora da seleção atual. Se for \nespecificada uma função de tratamento de evento f em especial, anula apenas o registro dela.\nhover(f(evento))\nhover(entra(evento), sai(evento))\nRegistra rotinas de tratamento para eventos “mouseenter” e “mouseleave” em todos os ele-\nmentos selecionados. Se for especificada apenas uma função, ela será usada como rotina de \ntratamento para os dois eventos.\nlive(tipo, [dados], f(evento))\nRegistra f como rotina dinâmica de tratamento de eventos do tipo tipo. Se dados forem espe-\ncificados, adiciona-os no objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4978,
+    "totalChunks": 10000
+  }
+}

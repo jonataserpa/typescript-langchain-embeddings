@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4743",
+  "content": "mente como este, mas que percorre o documento inteiro, em vez de apenas os descendentes de \num único elemento.\nNodeList getElementsByTagNameNS(string namespace, string nomeLocal)\nEsse método funciona como getElementsByTagName(), exceto que o nome de tag dos elementos de-\nsejados é especificado como uma combinação de um URI de namespace e um nome local definido \ndentro desse espaço de nomes.\nboolean hasAttribute(string nomeQualificado)\nEsse método retorna true se esse elemento tem um atributo com o nome especificado e false, caso \ncontrário. Em documentos HTML, os nomes de atributo não",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4743,
+    "totalChunks": 10000
+  }
+}

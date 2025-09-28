@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1730",
+  "content": ".\nOs URLs \njavascript: de bookmarklets existem fora de qualquer documento e podem ser consi-\nderados um tipo de extensão do usuário ou modificação de outros programas. Quando o usuário \nexecuta um bookmarklet, o código JavaScript marcado tem acesso ao objeto global e ao conteúdo do \ndocumento corrente e pode manipulá-lo como quiser.\nA execução de programas JavaScript ocorre em duas fases. Na primeira fase, o conteúdo do docu-\nmento é carregado e o código dos elementos \n<script> (tanto scripts em linha como scripts externos) \n\n310          Parte II     JavaScript do lado do cliente\né",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1730,
+    "totalChunks": 10000
+  }
+}

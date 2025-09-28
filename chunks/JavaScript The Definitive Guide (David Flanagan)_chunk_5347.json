@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5347",
+  "content": "rotinas de tratamento de evento da jQuery e, 531\ncapturando exceções, 104\ncaractere \\s (espaço) em expressões regulares, 248\ncaracteres de controle de formato (Unicode), 22\ncarregamento e execução assíncronos de scripts, 311\nCascading Style Sheets – folhas de estilo em cascata \n(consulte CSS)\nchacoalhando um elemento de um lado para outro \n(exemplo de animação), 422–424\nchamadas de função, 94\n (consulte também funções, chamando)\n    como instruções de expressão, 86\nchamando funções, 161–165\n    chamada de construtora, 165\n    chamada de método, 162\n    função jQuery( ), 512",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5347,
+    "totalChunks": 10000
+  }
+}

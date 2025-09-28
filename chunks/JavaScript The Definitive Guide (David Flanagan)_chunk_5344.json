@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5344",
+  "content": "CORS (“Cross-Origin Resource Sha-\nring”), 498\ncache, 587\n (consulte também cache de aplicativo)\n    memoização de funções, 191\ncache de aplicativo, 587–593\n    atualizações,    589–593\n    criando arquivo de manifesto de aplicativo, 587\n    valores de propriedade de status, 592\ncaixas de diálogo, 339–342\n    caixa de diálogo HTML exibida com showModal-\nDialog( ), 340\n\n1010          Índice\n    repetidas, em ataques de cross-site scripting, 329\n    repetidas, em ataques de negação de serviço, 330\ncaixas de diálogo modais, 340\n (consulte também caixas de diálogo)\ncall( ) e apply( ), objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5344,
+    "totalChunks": 10000
+  }
+}

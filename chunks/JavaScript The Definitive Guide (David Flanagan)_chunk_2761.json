@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2761",
+  "content": "uma resposta HTTP. Essas seções chave \nsão seguidas pela abordagem de tópicos mais especializados.\nA arquitetura de requisição/resposta básica do HTTP é muito simples e fácil de trabalhar. Na práti-\nca, contudo, existem todos os tipos de complicações: os clientes e o servidor trocam cookies, os ser-\nvidores redirecionam os navegadores para outros servidores, alguns recursos são colocados na cache \ne outros não, alguns clientes enviam todas as suas requisições por meio de servidores proxy e assim \npor diante. A XMLHttpRequest não é uma API HTTP em nível de protocolo, mas sim em nível de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2761,
+    "totalChunks": 10000
+  }
+}

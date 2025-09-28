@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5419",
+  "content": "04\n    consultando, inserindo e excluindo regras, 430\n    criando novas, 431\n    defi nição, 403\n    habilitando e desabilitando, 429\n    objeto CSSStyleSheet, 871\nfontes\n    fontes Web na CSS, 407–408\n    propriedades de estilo font-size e font-weight e \ncolor, 420\nformato de imagem PNG, conteúdo do canvas re-\ntornado no, 642\nformulários HTML, 387–394\n    botões de alternância, 392\n    botões de pressão, 391\n    campos de texto, 392\n    elementos,    387\n    elementos select e option, 393\n    eventos,    437\n    novos recursos em HTML5, 443\n    objeto FormControls, 913, 914\n    objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5419,
+    "totalChunks": 10000
+  }
+}

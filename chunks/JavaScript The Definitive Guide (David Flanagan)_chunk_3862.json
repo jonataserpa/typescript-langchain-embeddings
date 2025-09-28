@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3862",
+  "content": "ue a ordem endian da plataforma corresponde \nà ordem dos bytes dos dados. Em geral, ao trabalhar com dados externos, você pode usar Int8Array \ne Uint8Array para ver os dados como um array de bytes individuais, mas não deve usar os outros \narrays tipados com tamanhos de palavra de vários bytes. Em vez disso, pode usar a classe DataView, \nque define métodos para ler e gravar valores de um ArrayBuffer com ordem de byte especificada \nexplicitamente:\nvar data;              // Presume que isso é um ArrayBuffer da rede\nvar view = DataView(data);      // Cria um modo de exibição dele\nvar int =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3862,
+    "totalChunks": 10000
+  }
+}

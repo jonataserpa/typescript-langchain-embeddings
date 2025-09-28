@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_556",
+  "content": "á um exemplo de laço \nwhile que imprime os números de 0 a 9:\nvar count = 0;\nwhile (count < 10) {\n    console.log(count);\n    count++;\n}\nComo você pode ver, a variável count começa em 0 e é incrementada cada vez que o corpo do \nlaço é executado. Quando o laço tiver executado 10 vezes, a expressão se torna false (isto é, a \nvariável count deixa de ser menor do que 10), a instrução while termina e o interpretador pode \npassar para a próxima instrução do programa. Muitos laços têm uma variável contadora como \ncount. Os nomes de variável i, j e k são comumente utilizados como contadores de laço,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 556,
+    "totalChunks": 10000
+  }
+}

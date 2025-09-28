@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4946",
+  "content": "e (da pilha).\nchildren([sel])\nSeleciona filhos dos elementos selecionados. Sem argumentos, seleciona todos os filhos. Com \num seletor, seleciona apenas os filhos coincidentes.\nclosest(sel, [contexto])\nSeleciona o ascendente mais próximo de cada elemento selecionado correspondente a sel e \ndescendente de contexto. Se contexto é omitido, a propriedade context do objeto jQuery é \nusada.\ncontents()\nSeleciona todos os filhos de cada elemento selecionado, incluindo nós de texto e comentários.\nend()\nRetira da pilha interna, restaurando a seleção ao estado em que estava antes do último método \nde",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4946,
+    "totalChunks": 10000
+  }
+}

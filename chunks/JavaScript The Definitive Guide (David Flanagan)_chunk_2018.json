@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2018",
+  "content": "que tenham um atributo href). Essas propriedades se referem a objetos HTMLCollection, os \nquais são muito mais parecidos com objetos NodeList, mas podem também ser indexados pela \n\nCapítulo 15     Escrevendo script de documentos      357\nJavaScript do\n lado do cliente\nidentificação ou pelo nome do elemento. Anteriormente, vimos como se pode referir a um elemento \n<form> nomeado, com uma expressão como a seguinte:\ndocument.shipping_address\nCom a propriedade document.forms, também é possível se referir mais especificamente ao formulário \nnomeado (ou identificado) como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2018,
+    "totalChunks": 10000
+  }
+}

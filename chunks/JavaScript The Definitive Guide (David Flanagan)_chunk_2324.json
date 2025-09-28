@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2324",
+  "content": "tro elemento dinâmico), use \nos seguintes estilos:\nposition: absolute; right: 0px; bottom: 0px;\nPara posicionar um elemento de modo que sua margem superior fique a 10 pixels a partir da parte \nsuperior da janela e sua margem direita fique a 10 pixels a partir da direita da janela, e para que ele \nnão role com o documento, você poderia usar os seguintes estilos:\nposition: fixed; right: 10px; top: 10px;\nAlém da posição de elementos, CSS permite especificar o tamanho. Em geral, isso é feito fornecen-\ndo-se valores para as propriedades de estilo width e height. Por exemplo, o trecho HTML a seguir",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2324,
+    "totalChunks": 10000
+  }
+}

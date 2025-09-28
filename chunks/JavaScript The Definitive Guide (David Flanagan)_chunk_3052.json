@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3052",
+  "content": "registro de evento avançados que não estão disponíveis por \nmeio dos métodos mais simples\n4\n.\nEm sua forma mais simples, \nbind() espera uma string de tipo de evento como primeiro argumento \ne uma função de tratamento de evento como segundo. Os métodos simples de registro de evento \nutilizam essa forma de bind(). A chamada $('p').click(f), por exemplo, é equivalente a:\n$('p').bind('click', f);\nbind()\n também pode ser chamado com três argumentos. Nessa forma, o tipo de evento é o primeiro \nargumento e a função de tratamento é o terceiro. Você pode passar qualquer valor entre esses dois e \na",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3052,
+    "totalChunks": 10000
+  }
+}

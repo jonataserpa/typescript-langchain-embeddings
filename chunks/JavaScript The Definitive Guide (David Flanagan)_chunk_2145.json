@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2145",
+  "content": "ment(\"span\");\n        span.className = \"TOCSectNum\";\n        span.innerHTML = sectionNumber;\n        heading.insertBefore(span,    heading.firstChild);\n         // Encerra o cabeçalho em uma âncora nomeada para que possamos nos vincular a ele.\n        var anchor = document.createElement(\"a\");\n        anchor.name = \"TOC\"+sectionNumber;\n        heading.parentNode.insertBefore(anchor,    heading);\n        anchor.appendChild(heading);\n  \n        // Agora cria um link para essa seção.\n        var link = document.createElement(\"a\");\n        link.href = \"#TOC\" + sectionNumber;    // Destino do link",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2145,
+    "totalChunks": 10000
+  }
+}

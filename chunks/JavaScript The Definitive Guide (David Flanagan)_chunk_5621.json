@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5621",
+  "content": "t e clientWidth, objeto Ele-\nment, 382, 887–888\npropriedades clientLeft e clientTop, objeto Element, \n887–888\npropriedades clientX e clientY, objeto Event, 439, \n455, 900\npropriedades de accesso, 126, 799–800\n    adicionando em objetos existentes, 128\n\n1054          Índice\n    API legada de, 131\n    defi nindo usando sintaxe de objeto literal, 126\n    descritor de propriedade, 128\n    herança e, 120\n    usos de, 127\npropriedades de atalho em CSS, 405\n    propriedades correspondentes no objeto CSSSty-\nleDeclaration, 421\npropriedades de dados, 126\n    atributos de, 128\npropriedades de estilo,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5621,
+    "totalChunks": 10000
+  }
+}

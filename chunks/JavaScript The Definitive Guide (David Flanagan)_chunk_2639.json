@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2639",
+  "content": ";\n  }\n        // Se obtivermos um evento mousewheel ou wheel no (em uma futura versão do)\n        // Firefox, então não precisamos mais de DOMMouseScroll.\n        if (isFirefox && e.type !== \"DOMMouseScroll\")\n            frame.removeEventListener(\"DOMMouseScroll\", wheelHandler, false);\n        // Obtém as dimensões atuais do elemento conteúdo\n        var contentbox = content.getBoundingClientRect();\n        var contentwidth = contentbox.right – contentbox.left;\n        var contentheight = contentbox.bottom – contentbox.top;\n        if (e.altKey) { // Se a tecla Alt estiver pressionada,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2639,
+    "totalChunks": 10000
+  }
+}

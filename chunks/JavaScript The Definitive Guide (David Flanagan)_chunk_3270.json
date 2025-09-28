@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3270",
+  "content": "nados que não correspondem ao seletor. Se você passa um objeto jQuery, um array de elemen-\ntos ou um único elemento, \nnot() retorna todos os elementos selecionados, exceto os que você tiver \nexcluído explicitamente. Se você passa uma função predicado para not(), ela é chamada exatamente \ncomo acontece em filter(), mas o objeto jQuery retornado inclui somente os elementos para os \nquais o predicado retorna false ou um valor falso:\n$(\"div\").not(\"#header, #footer\");    // Todos os elementos <div> exceto dois especiais\nNa jQuery 1.4, o método has() é outro modo de refinar uma seleção. Se você",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3270,
+    "totalChunks": 10000
+  }
+}

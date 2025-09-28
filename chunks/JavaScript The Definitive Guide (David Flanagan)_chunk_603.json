@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_603",
+  "content": "w Error(\"x must not be negative\");\n    // Caso contrário, calcula um valor e retorna normalmente\n    for(var f = 1; x > 1; f *= x, x--) /* vazio */ ;\n    return    f;\n}\nQuando uma exceção é disparada, o interpretador JavaScript interrompe imediatamente a execução \nnormal do programa e pula para a rotina de tratamento de exceção mais próxima. As rotinas de \ntratamento de exceção são escritas usando a cláusula catch da instrução try/catch/finally, que está \ndescrita na próxima seção. Se o bloco de código no qual a exceção foi lançada não tem uma cláusula \ncatch associada, o interpretador",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 603,
+    "totalChunks": 10000
+  }
+}

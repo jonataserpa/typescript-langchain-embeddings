@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2684",
+  "content": "e = e || window.event;\n            var target = e.target || e.srcElement;\n\nCapítulo 17     Tratando eventos      469\nJavaScript do\n lado do cliente\n            // Se a soltura foi uma movimentação, exclui o item da lista.\n    // No IE8, isso vai ser \"none\", a não ser que você configure explicitamente \n// como move na rotina de tratamento ondrop acima. Mas forçá-lo a ser \"move\" \n// para o IE impede que outros navegadores ofereçam ao usuário a escolha de\n// uma operação copiar ou mover.\n            if (e.dataTransfer.dropEffect === \"move\")",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2684,
+    "totalChunks": 10000
+  }
+}

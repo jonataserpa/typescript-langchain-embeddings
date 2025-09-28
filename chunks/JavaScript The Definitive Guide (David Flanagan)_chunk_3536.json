@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3536",
+  "content": "tributo utiliza uma gramática compacta de códigos de letras e números que especificam co-\nordenadas, ângulos e outros valores. A letra M, por exemplo, significa “mover para” e é seguida por \ncoordenadas X e Y. A letra L significa “linha até” e desenha uma linha do ponto atual até as coorde-\nnadas que vêm depois dela. Esse exemplo também usa a letra A para desenhar um arco. Essa letra é \nseguida por sete números descrevendo o arco. Os detalhes precisos não são importantes aqui, mas \nvocê pode pesquisá-los na especificação, no endereço http://www.w3.org/TR/SVG/.\nNote que a função \npieChart()",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3536,
+    "totalChunks": 10000
+  }
+}

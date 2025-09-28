@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4314",
+  "content": "x) {\n    return ((typeof x == \"object\") && (x.constructor == Array));\n}\nNote, entretanto, que embora essa técnica funcione para os objetos internos do núcleo de JavaScript, \nnão é garantido que funcione com objetos hospedeiros, como o objeto Window de JavaScript do \nlado do cliente. A implementação padrão do método \nObject.toString() fornece outro modo de \ndeterminar o tipo de um objeto desconhecido.\nConsulte também\nObject.toString()\nObject.create() ECMAScript 5\ncria um objeto com o protótipo e as propriedades especificados\nSinopse\nObject.create(proto)\nObject.create(proto, descritores)\n\n796",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4314,
+    "totalChunks": 10000
+  }
+}

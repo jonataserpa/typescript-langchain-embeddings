@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3917",
+  "content": "sistema de arquivo \nlocal privativo, na qual podem gravar arquivos, ler arquivos, criar diretórios, listar diretórios, etc. \nQuando este livro estava sendo escrito, essa API Filesystem era implementada apenas pelo navegador \nChrome do Google, mas é uma forma local de armazenamento poderosa e importante, de modo que é \nabordada aqui, mesmo sendo essa API ainda menos estável do que a maioria das outras descritas neste \ncapítulo. Esta seção aborda tarefas básicas de sistema de arquivos, mas não demonstra todos os recursos \nda API. Como a API é nova e instável, não está documentada na seção de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3917,
+    "totalChunks": 10000
+  }
+}

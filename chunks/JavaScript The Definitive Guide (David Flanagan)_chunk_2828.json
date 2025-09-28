@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2828",
+  "content": ");              // Posta (com POST) no URL\n            xhr.send(file);                    // Envia o arquivo como corpo\n        },    false);\n }\n});\nConforme vamos ver na Seção 22.6, o tipo File é um subtipo do tipo mais geral Blob. A XHR2 \npermite passar qualquer objeto Blob para o método send(). A propriedade type do objeto Blob \nserá usada para configurar o cabeçalho \nContent-Type para o carregamento, caso você mesmo não \no configure explicitamente. Se precisar carregar dados binários que você gerou, pode usar as \ntécnicas mostradas na Seção 22.5 e na Seção 22.6.3 para convertê-los em um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2828,
+    "totalChunks": 10000
+  }
+}

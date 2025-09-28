@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2362",
+  "content": "de formulário não ficam bem com um fundo transpa-\nrente, por exemplo, e elementos como \n<button> têm uma cor de fundo padrão. Esse padrão pode ser \nanulado com a propriedade\n background-color e, se quiser, você pode até configurá-la explicitamente \ncomo “transparente”.\nA transparência que discutimos até aqui é do tipo tudo ou nada: ou um elemento tem um fundo \ntransparente ou um fundo opaco. Também é possível especificar que um elemento (tanto seu fundo \ncomo seu conteúdo de primeiro plano) seja translúcido. (Consulte a Figura 16-3 para ver um exem-\nplo.) Isso é feito com a propriedade CSS3",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2362,
+    "totalChunks": 10000
+  }
+}

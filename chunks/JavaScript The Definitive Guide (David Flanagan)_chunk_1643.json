@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1643",
+  "content": "stats.size + \"\\t\" +        // tamanho do arquivo mais\n                         stats.mtime + \"\\n\");       // hora da modificação\n});\nObserve o comentário #! na primeira linha anterior. Esse comentário é conhecido em Unix como \n“shebang”, usado para tornar um arquivo de script como esse autoexecutável, especificando em qual \nlinguagem o interpretador vai executar. O Node ignora linhas como essa, quando elas aparecem \ncomo a primeira linha do arquivo.\nO módulo “net” é uma API para ligação em rede baseada em TCP. (Consulte o módulo “dgram” \npara ligação em rede baseada em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1643,
+    "totalChunks": 10000
+  }
+}

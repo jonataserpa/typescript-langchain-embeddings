@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1380",
+  "content": "m, a expressão regular /java/ corresponde a qualquer string que contenha a substring \n“java”. Outros caracteres em expressões regulares não coincidem literalmente, mas têm significado \nespecial. Por exemplo, a expressão regular /s$/ contém dois caracteres. O primeiro, “s”, coincide \ncom ele mesmo literalmente. O segundo, “$”, é um metacaractere especial que corresponde ao final \nde uma string. Assim, essa expressão regular corresponde a qualquer string que contenha a letra “s” \ncomo seu último caractere.\nAs seções a seguir descrevem os vários caracteres e metacaracteres usados em expressões",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1380,
+    "totalChunks": 10000
+  }
+}

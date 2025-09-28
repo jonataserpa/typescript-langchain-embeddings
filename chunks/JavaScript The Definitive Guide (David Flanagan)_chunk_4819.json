@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4819",
+  "content": "ação padrão que possa ser cancelada.\n\n906          Parte IV     Referência de JavaScript do lado do cliente\nonerror\nDisparada quando ocorre um erro. O objeto evento associado é um Event simples.\nonmessage\nDisparada quando chega uma mensagem do servidor. O objeto evento associado é um Mes-\nsageEvent e o texto da mensagem do servidor está disponível por meio da propriedade data \ndesse objeto.\nonopen\nDisparada quando a conexão se abre. O objeto evento associado é um Event simples.\nEventTarget\num objeto que recebe eventos\nOs objetos que têm eventos disparados neles ou objetos para os quais",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4819,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2907",
+  "content": "igem dos dados\n         });\n        }\n                       data    =    \"\";\n                       continue;\n      }\n   }\n  }\n    };\n}\nConcluímos essa exploração da arquitetura Comet com um exemplo de servidor. O Exemplo 18-17 \né um servidor HTTP personalizado, escrito em JavaScript do lado do servidor para o ambiente do \nlado do servidor Node (Seção 12.2). Quando um cliente solicita o URL raiz “/”, ele envia o código \nde cliente de chat mostrado no Exemplo 18-15 e o código de simulação do Exemplo 18-16. Quando \num cliente faz uma requisição GET solicitando o URL “/chat”, ele salva o fluxo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2907,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3548",
+  "content": "\">9</text>\n    </g>\n    <!-- Desenha os ponteiros apontando para cima. Os giramos no código. -->\n    <g id=\"hands\" filter=\"url(#shadow)\"> <!-- Adiciona sombras nos ponteiros -->\n      <line id=\"hourhand\" x1=\"50\" y1=\"50\" x2=\"50\" y2=\"24\"/>\n      <line id=\"minutehand\" x1=\"50\" y1=\"50\" x2=\"50\" y2=\"20\"/>\n    </g>\n  </svg>\n</body>\n</html>\n21.4   Elementos gráficos em um <canvas>\nO elemento <canvas> não tem aparência própria, mas cria uma superfície de desenho dentro do \ndocumento e expõe uma poderosa API de desenho para JavaScript do lado do cliente. O elemen-\nto canvas é padronizado por HTML5, mas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3548,
+    "totalChunks": 10000
+  }
+}

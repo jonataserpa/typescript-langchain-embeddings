@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3336",
+  "content": "envolve a vida útil e o escopo do armazenamento. \nOs dados armazenados por meio de \nlocalStorage são permanentes: eles não expiram e continuam \narmazenados no computador do usuário até que um aplicativo Web os exclua ou o usuário peça para \nque o navegador (por meio de alguma interface com o usuário específica do navegador) os exclua.\nlocalStorage tem como escopo a origem do documento. Conforme explicado na Seção 13.6.2, a \norigem de um documento é definida por seu protocolo, nome de host e porta, de modo que cada \num dos URLs a seguir tem uma origem diferente:\nhttp://www.example.com //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3336,
+    "totalChunks": 10000
+  }
+}

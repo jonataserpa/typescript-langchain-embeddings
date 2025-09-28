@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4554",
+  "content": "ices onde segmentos de linha e/ou curvas se encontram, a \npropriedade lineJoin especifica como esses vértices são desenhados. O efeito dessa proprieda-\nde só aparece ao se desenhar com linhas largas.\nO valor padrão da propriedade é “miter”, o qual especifica que as bordas externas dos dois \nsegmentos de linha se estendem até que se cruzem. Quando duas linhas formam um ângulo \nagudo, as junções chanfradas podem se tornar muito longas. A propriedade \nmiterLimit coloca \num limite superior no comprimento de uma cunha. Se uma cunha exceder esse limite, é con-\nvertida em chanfro.\nO valor “round”",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4554,
+    "totalChunks": 10000
+  }
+}

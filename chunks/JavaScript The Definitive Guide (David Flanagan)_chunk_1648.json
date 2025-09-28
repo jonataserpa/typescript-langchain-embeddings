@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1648",
+  "content": "servidor recebe um novo pedido, executa esta função para tratar dele.\nserver.on(\"request\", function (request, response) {\n    // Analisa o URL solicitado\n    var url = require('url').parse(request.url);\n    // Um URL especial que apenas faz o servidor esperar antes de enviar a\n    // resposta. Isso pode ser útil para simular uma conexão de rede lenta.\n    if (url.pathname === \"/test/delay\") {\n        // Usa string de consulta para quantidade de atraso, ou 2000 milissegundos\n        var delay = parseInt(url.query) || 2000;\n        // Configura o código de status da resposta e cabeçalhos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1648,
+    "totalChunks": 10000
+  }
+}

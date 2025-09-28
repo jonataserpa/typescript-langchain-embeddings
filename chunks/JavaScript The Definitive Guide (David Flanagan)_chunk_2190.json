@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2190",
+  "content": "ffsetTop;\n }\n  // Itera novamente, por todos os elementos ascendentes para subtrair deslocamentos de \n// rolagem.\n  // Isso subtrai também as barras de rolagem principais e converte para coords da \n// janela de visualização.\n    for(var e=elt.parentNode; e != null && e.nodeType == 1; e=e.parentNode) {\n        x -= e.scrollLeft;\n        y -= e.scrollTop;\n }\n    return {x:x, y:y};\n}\nNos navegadores modernos esse método getElementPos() retorna os mesmos valores de posição \nque getBoundingClientRect()  (mas  é  muito  menos  eficiente).  Teoricamente,  uma  função  como  \ngetElementPos() poderia",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2190,
+    "totalChunks": 10000
+  }
+}

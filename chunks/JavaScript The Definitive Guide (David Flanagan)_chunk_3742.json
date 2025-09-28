@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3742",
+  "content": ".\n •   O objeto passado para a função callback success também inclui um timestamp e pode (em \nalguns dispositivos) incluir mais informações, como altitude, velocidade e direção.\nO Exemplo 22-2 demonstra esses recursos adicionais.\nExemplo 22-2 Uma demonstração de todos os recursos de geolocalização\n// Determina minha localização de forma assíncrona e a exibe no elemento especificado.\nfunction whereami(elt) {\n    // Passa esse objeto como 3º argumento para getCurrentPosition()\n    var options = {\n   // Configura como true para obter uma leitura com precisão mais alta (de GPS, por \n// exemplo),",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3742,
+    "totalChunks": 10000
+  }
+}

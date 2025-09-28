@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_941",
+  "content": "o tipo dos \nargumentos da função, caso seja necessário garantir que uma função não seja chamada com argu-\nmentos incompatíveis.\n8.3.1   Parâmetros   opcionais\nQuando uma função é chamada com menos argumentos do que parâmetros declarados, os pa-\nrâmetros adicionais são configurados com o valor undefined. Frequentemente é útil escrever fun-\nções de modo que alguns argumentos sejam opcionais e possam ser omitidos na chamada da \nfunção. Para fazer isso, deve-se atribuir um valor padrão razoável aos parâmetros omitidos. Aqui \nestá um exemplo:\n// Anexa os nomes das propriedades enumeráveis do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 941,
+    "totalChunks": 10000
+  }
+}

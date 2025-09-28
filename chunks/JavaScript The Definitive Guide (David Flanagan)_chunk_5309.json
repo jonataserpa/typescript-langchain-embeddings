@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5309",
+  "content": "6\n- (sinal de subtração)\n    -Infi nity (infi nito negativo), 32\n    instruções começando com, 26\n    operador -- (decremento), 61, 68\n        efeitos colaterais, 63, 86\n        quebras de linha em instruções e, 27\n    operador -= (subtração e atribuição), 76–77\n    operador de negação, 61\n    operador de subtração, 32, 61\n    operador de subtração unário, 67\n( ) (parênteses)\n    agrupando em expressões regulares, 250\n    em chamadas de função e método, 60\n    em    defi nições de função, 58, 159\n    em expressões de criação de objeto, 60\n    em expressões geradoras, 275\n    englobando",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5309,
+    "totalChunks": 10000
+  }
+}

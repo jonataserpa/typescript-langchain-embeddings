@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5218",
+  "content": ") e para baixo \n(pageYOffset). Essas propriedades não são suportadas no IE8 e anteriores. Consulte o Exemplo \n15-8 para ver um exemplo e código de compatibilidade que funciona no IE.\nreadonly Window parent\nO objeto Window que contém esse. Se essa janela é de nível superior, parent se refere à própria \njanela. Se essa janela é um quadro, a propriedade parent se refere à janela ou ao quadro que o \ncontém.\nstring returnValue\nEssa  propriedade  não  existe  em  janelas  normais,  mas  é  definida  para  janelas  criadas  por  \nshowModalDialog() e tem a string vazia como valor padrão. Quando um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5218,
+    "totalChunks": 10000
+  }
+}

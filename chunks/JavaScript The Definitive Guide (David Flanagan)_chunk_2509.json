@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2509",
+  "content": "drão também desaprova vários tipos de evento definidos pelo Level 2, mas que \nnunca foram amplamente implementados. Os navegadores ainda podem gerar eventos como DO-\nMActivate, DOMFocusIn e DOMNodeInserted, mas eles não são mais obrigatórios e não estão \ndocumentados neste livro\n3\n.\nA novidade na especificação Level 3 Events do DOM é o suporte padronizado para rodas de mouse \nbidimensionais por meio do evento wheel e um suporte melhor para eventos de entrada de texto, \ncom um evento textinput e um novo objeto KeyboardEvent, que é passado como argumento para \nrotinas de tratamento de eventos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2509,
+    "totalChunks": 10000
+  }
+}

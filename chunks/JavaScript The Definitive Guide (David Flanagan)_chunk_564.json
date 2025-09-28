@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_564",
+  "content": "a os operadores ++ ou --.\nPodemos imprimir os números de 0 a 9 com um laço \nfor, como segue. Compare isso com o laço \nwhile equivalente mostrado na seção anterior:\nfor(var count = 0; count < 10; count++)\n    console.log(count);\nÉ claro que os laços podem se tornar muito mais complexos do que esse exemplo simples e, às vezes, \ndiversas variáveis são alteradas em cada iteração do laço. Essa situação é o único lugar em que o ope-\nrador vírgula é comumente usado em JavaScript; ele oferece uma maneira de combinar várias expres-\nsões de inicialização e incremento em uma única expressão conveniente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 564,
+    "totalChunks": 10000
+  }
+}

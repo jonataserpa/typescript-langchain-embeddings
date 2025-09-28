@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5048",
+  "content": "ento está tentando carregar dados, mas nenhum dado está chegando.\nonsuspend\nO elemento colocou dados suficientes no buffer e interrompeu o download temporariamente.\nontimeupdate\nA propriedade currentTime mudou. Durante a reprodução normal, esse evento é \ndisparado entre 4 e 60 vezes por segundo.\nonvolumechange\nA propriedade volume ou muted mudou.\nonwaiting\nA reprodução não pode começar ou parou porque não há dados suficientes no buffer. Um \nevento playing vai se seguir quando dados suficientes estiverem prontos.\nMétodos\nstring canPlayType(string tipo)\nEsse método pergunta ao elemento de mídia",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5048,
+    "totalChunks": 10000
+  }
+}

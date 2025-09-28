@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5575",
+  "content": "LDocument, 357\npropriedade applicationCache, objeto Window, 590, \n986\npropriedade appName\n    objeto Navigator, 338, 958\n    objeto    WorkerNavigator,    996\npropriedade appVersion\n    objeto Navigator, 338, 958\n    objeto    WorkerNavigator,    996\npropriedade arguments, objeto Function, 761\npropriedade async, objeto Script, 969\npropriedade attributes, objeto Element, 886–887\npropriedade audio, objeto Video, 982\npropriedade autocomplete\n    objeto Form, 912\n    objeto Input, 926\npropriedade autofocus, objeto FormControl, 914\npropriedade autoplay, objeto MediaElement, 604, \n950\npropriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5575,
+    "totalChunks": 10000
+  }
+}

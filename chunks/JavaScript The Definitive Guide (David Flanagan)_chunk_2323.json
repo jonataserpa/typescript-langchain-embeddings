@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2323",
+  "content": "do em relação à posição do contêiner.\nEmbora seja mais comum especificar a posição do canto superior esquerdo de um elemento com \nleft e top, right e bottom também podem ser usadas para especificar a posição das margens inferior \ne direita de um elemento em relação às margens inferior e direita do elemento contêiner. Por exem-\nplo, para posicionar um elemento de modo que seu canto inferior direito fique no canto inferior \ndireito do documento (supondo que não esteja aninhado dentro de outro elemento dinâmico), use \nos seguintes estilos:\nposition: absolute; right: 0px; bottom: 0px;\nPara",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2323,
+    "totalChunks": 10000
+  }
+}

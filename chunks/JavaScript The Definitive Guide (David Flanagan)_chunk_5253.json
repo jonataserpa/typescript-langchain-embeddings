@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5253",
+  "content": "neira de se comunicarem com suas threads pais é por meio de eventos. Você \npode registrar rotinas de tratamento de evento nessas propriedades ou usar os métodos EventTarget.\nonerror\nQuando uma exceção é lançada no script que está sendo executado por um Worker e esse erro \nnão é tratado pela rotina de tratamento de onerror do WorkerGlobalScope, o erro dispara um \nevento error no objeto Worker. O objeto evento associado a esse evento é um ErrorEvent. O \nevento error não borbulha. Se esse worker pertence a outro worker, cancelar um evento error \nimpede que ele seja propagado para o worker pai.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5253,
+    "totalChunks": 10000
+  }
+}

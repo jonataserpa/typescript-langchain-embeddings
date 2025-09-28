@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3049",
+  "content": "definida. Para eventos de mouse, se which não \nestá definida, mas a propriedade button está, which é configurada com base no valor de button. \n0 significa que não há botão pressionado. 1 significa que o botão esquerdo está pressionado, 2 \nsignifica que o botão do meio está pressionado e 3 significa que o botão direito está pressionado. \n(Note que alguns navegadores não geram eventos de mouse para cliques do botão direito.)\nAlém disso, os seguintes campos do objeto Event da jQuery são adições específicas da biblioteca que \nem alguns momentos você pode considerar úteis:\ndata\nSe dados adicionais",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3049,
+    "totalChunks": 10000
+  }
+}

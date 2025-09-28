@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2590",
+  "content": "e não faz parte \ndo padrão de eventos Level 3 do DOM, mas é padronizado por HTML5.\nConforme descrito na Seção 13.3.4, a propriedade \ndocument.readyState muda quando o documento \né carregado. No IE, cada mudança no estado é acompanhada por um evento readystatechange no \nobjeto Document, sendo que é possível usar esse evento para determinar quando o IE atinge o esta-\ndo “completo”. HTML5 padroniza o evento readystatechange, mas o dispara imediatamente antes \ndo evento load, de modo que não está clara a vantagem obtida por receber “readystatechange” em \nvez de “load”.\nO Exemplo 17-1 define uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2590,
+    "totalChunks": 10000
+  }
+}

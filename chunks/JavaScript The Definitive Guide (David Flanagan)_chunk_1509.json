@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1509",
+  "content": "as propriedades \nde um objeto, ele itera pelos valores dessas propriedades:\nlet o = {one: 1, two: 2, three: 3}\nfor(let p in o) console.log(p);         // for/in: imprime 'one', 'two', 'three'\nfor each (let v in o) console.log(v);   // for/each: imprime 1, 2, 3\nQuando usado com um array, o laço for/each itera pelos elementos (em vez dos índices) do laço. \nNormalmente, ele os enumera em ordem numérica, mas isso não é padronizado nem obrigatório:\na = ['one', 'two', 'three'];\nfor(let p in a) console.log(p);         // Imprime os índices de array 0, 1, 2\nfor each (let v in a) console.log(v);   //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1509,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2083",
+  "content": "mentada) uma interface bidirecional di-\nnâmica para os atributos data- de um elemento. Configurar ou excluir uma propriedade de dataset \nconfigura ou remove o atributo data- correspondente do elemento.\nA função \ndrawSparkline() nos exemplos anteriores é fictícia, mas o Exemplo 21-13 traça gráficos de \nlinha com marcação como esse, usando o elemento <canvas>.\n15.4.4   Atributos como nós Attr\nHá mais uma maneira de trabalhar com os atributos de um objeto Element. O tipo Node define \numa propriedade attributes. Essa propriedade é null para todos os nós que não são objetos Ele-\nment. Para objetos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2083,
+    "totalChunks": 10000
+  }
+}

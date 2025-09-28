@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_50",
+  "content": "de \nalguma de entrada ou saída. Entrada e saída (assim como recursos mais sofisticados, como conexão \nem rede, armazenamento e gráficos) são responsabilidade do “ambiente hospedeiro” dentro do qual \nJavaScript está incorporada. Normalmente, esse ambiente hospedeiro é um navegador Web (apesar \nde que iremos ver duas utilizações de JavaScript sem um navegador Web, no Capítulo 12). A Parte I \ndeste livro aborda a linguagem em si e sua API interna mínima. A Parte II explica como JavaScript é \nusada em navegadores Web e aborda as amplas APIs baseadas em navegador, geralmente conhecidas \ncomo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 50,
+    "totalChunks": 10000
+  }
+}

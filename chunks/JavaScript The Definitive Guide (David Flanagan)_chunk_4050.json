@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4050",
+  "content": "o encontrado. A busca começa no índice do array especificado por início (ou no índice \n0) e continua com índices sucessivamente mais altos até que seja encontrada uma coincidência ou que \ntodos os elementos sejam verificados. O operador \n=== é usado para testar igualdade. O valor de retorno é \no índice do primeiro elemento coincidente encontrado ou -1, caso não seja encontrada uma coincidência.\nExemplo\n['a','b','c'].indexOf('b')      // => 1\n['a','b','c'].indexOf('d')      // => -1\n['a','b','c'].indexOf('a',1)    // => -1\nConsulte também\nArray.lastIndexOf(),",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4050,
+    "totalChunks": 10000
+  }
+}

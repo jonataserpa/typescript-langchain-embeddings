@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4837",
+  "content": "do cancela uma leitura. Ele configura readyState como DONE, result como null e error \ncomo um objeto FileError com code igual a FileError.ABORT_ERR. Então, dispara um evento abort e \num evento loadend.\n\n910          Parte IV     Referência de JavaScript do lado do cliente\nvoid readAsArrayBuffer(Blob blob)\nLê os bytes de blob de forma assíncrona e os torna disponíveis como um ArrayBuffer na propriedade \nresult.\nvoid readAsBinaryString(Blob blob)\nLê os bytes de blob de forma assíncrona, codifica-os como uma string binária de JavaScript e configu-\nra a propriedade result com a string resultante.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4837,
+    "totalChunks": 10000
+  }
+}

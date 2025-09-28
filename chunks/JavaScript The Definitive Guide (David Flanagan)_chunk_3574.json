@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3574",
+  "content": "Style = \"#ccc\";  // Interiores cinza-claro\nc.strokeStyle = \"#008\";         // contornados com linhas azul-escuro\nc.lineWidth = 5;       // com cinco pixels de largura.\n// Agora desenha todos os polígonos (cada um em seu próprio subcaminho) com estas \n// chamadas\nc.fill();             // Preenche as formas\nc.stroke();           // E traça seus contornos\n\nCapítulo 21     Mídia e gráficos em scripts      621\nJavaScript do\n lado do cliente\nObserve que esse exemplo desenha um hexágono com um quadrado dentro dele. O quadrado e \no hexágono são subcaminhos separados, mas se sobrepõem. Quando isso",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3574,
+    "totalChunks": 10000
+  }
+}

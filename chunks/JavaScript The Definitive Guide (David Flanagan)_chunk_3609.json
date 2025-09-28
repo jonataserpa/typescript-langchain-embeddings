@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3609",
+  "content": "ões recursivas de sistemas \nde coordenadas o tornam um tanto difícil de entender. Mesmo que você não acompanhe todas as \nnuanças, note que o código contém apenas uma chamada do método lineTo(). Todo segmento de \nlinha na Figura 21-8 é desenhado como segue:\nc.lineTo(len, 0);\n\n628          Parte II     JavaScript do lado do cliente\nO  valor  da  variável  len não  muda  durante  a  execução  do  programa,  de  modo  que  a  posição,  a  \norientação e o comprimento de cada um dos segmentos de linha são determinados por translações, \nrotações e operações de mudança de escala.\nExemplo 21-6 Um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3609,
+    "totalChunks": 10000
+  }
+}

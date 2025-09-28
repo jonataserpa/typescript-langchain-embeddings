@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1706",
+  "content": "um documento de um domínio interaja com o \nconteúdo de outro domínio. Contudo, note que a origem do script em si não importa – somente a \norigem do documento no qual o script está incorporado. Portanto, a política da mesma origem não \nse aplica nesse caso: o código JavaScript pode interagir com o documento no qual está incorporado, \nmesmo quando o código tem uma origem diferente da do documento. Quando você usa o atributo \nsrc para incluir um script em sua página, está dando ao autor desse script (e ao webmaster do domí-\nnio a partir do qual o script é carregado) controle completo sobre sua",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1706,
+    "totalChunks": 10000
+  }
+}

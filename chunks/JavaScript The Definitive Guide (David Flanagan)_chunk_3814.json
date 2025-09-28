@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3814",
+  "content": "ripts() para carregar os arquivos de que de-\npende. Note, entretanto, que \nimportScripts() não tenta monitorar quais scripts já foram carregados \ne não faz nada para evitar ciclos de dependência.\nimportScripts() é uma função síncrona: ela não retorna até que todos os scripts tenham carregado \ne executado. Você pode começar a usar os scripts que carregou assim que \nimport Scripts() retor-\nnar: não há necessidade de uma função callback ou de uma rotina de tratamento. Quando você \ntiver acostumado à natureza assíncrona de JavaScript do lado do cliente, poderá parecer estranho \nvoltar novamente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3814,
+    "totalChunks": 10000
+  }
+}

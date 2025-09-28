@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3392",
+  "content": "expiração imediata.\n        document.cookie = key + \"=; max-age=0\";\n    };\n \n    // Remove todos os cookies\n    this.clear = function() {\n        // Itera pelas chaves, removendo os cookies\n        for(var i = 0; i < keys.length; i++)\n            document.cookie = keys[i] + \"=; max-age=0\";\n        // Redefine nosso estado interno\n        cookies = {};\n        keys = [];\n        this.length = 0;\n    };\n}\n20.3   Persistência de userData do IE\nO IE5 e posteriores permitem armazenamento no lado do cliente anexando um “comportamento \nDHTML” patenteado em um elemento do documento. Isso pode ser",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3392,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5465",
+  "content": "palavra-chave let em, 263\n    usando com arrays associativos, 118\nlaços infi nitos, 97\nlaços while, 95\nlastElementChild, objeto Element, 363, 888–889\nlastEventId, objeto MessageEvent, 955\nlastModifi edDate, objeto File, 677–678, 907\nleitores de tela, 324\nlengthComputable, objeto ProgressEvent, 968\nligação em rede\n    baseada em TCP, módulo net em Node, 292\n    JavaScript do lado do cliente e, 325\nlineCap, CanvasRenderingContext2D, 851–852\nlineJoin, CanvasRenderingContext2D, 636, 851–\n852, 856\nlineTo( ), CanvasRenderingContext2D, 618, 627, \n635, 861\nlineWidth, CanvasRenderingContext2D,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5465,
+    "totalChunks": 10000
+  }
+}

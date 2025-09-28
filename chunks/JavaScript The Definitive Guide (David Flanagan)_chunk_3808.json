@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3808",
+  "content": "essage);\n}\nAssim  como  todos  os  destinos  de  evento,  os  objetos  Worker  definem  os  métodos  padrão  \naddEventListener() e removeEventListener(), sendo que, se quiser gerenciar várias rotinas de trata-\nmento de evento, você pode usá-los em lugar das propriedades onmessage e onerror.\nO objeto Worker tem apenas um outro método, \nterminate(), o qual obriga uma thread worker a \nparar de executar.\n\nCapítulo 22     APIs de HTML5      667\nJavaScript do\n lado do cliente\n22.4.2   Escopo de worker\nAo criar um novo worker com a construtora Worker(), você especifica o URL de um arquivo de \ncódigo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3808,
+    "totalChunks": 10000
+  }
+}

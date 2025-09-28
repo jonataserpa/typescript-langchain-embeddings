@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1360",
+  "content": "lo. Como \nmeu site está no endereço davidflanagan.com, eu pude publicar meu módulo sets no namespace com.\ndavidflanagan.collections.sets.\nCom espaço de nomes longos assim, importar valores torna-se importante para qualquer usuário de \nseu módulo. Entretanto, em vez de importar classes individuais, um programador poderia importar \no módulo inteiro no espaço de nomes global:\nvar sets = com.davidflanagan.collections.sets;\nPor convenção, o nome de arquivo de um módulo deve coincidir com seu espaço de nomes. O mó-\ndulo sets deve ser armazenado em um arquivo chamado sets.js. Se esse módulo usa o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1360,
+    "totalChunks": 10000
+  }
+}

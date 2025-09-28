@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2905",
+  "content": "tName = value; break;\n                case \"data\": data += value + \"\\n\"; break;\n                case \"id\": lastEventId = value; break;\n                case \"retry\": retrydelay = parseInt(value) || 1000; break;\n                  default:    break;    // Ignora qualquer outra linha\n      }\n\n506          Parte II     JavaScript do lado do cliente\n                if (line === \"\") {  // Uma linha em branco significa enviar o evento\n                     if (evtsrc.onmessage && data !== \"\") {\n                         // Corta nova linha à direita, se houver uma\n                           if",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2905,
+    "totalChunks": 10000
+  }
+}

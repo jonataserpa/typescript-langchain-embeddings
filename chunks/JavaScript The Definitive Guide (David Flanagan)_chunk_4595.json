@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4595",
+  "content": "está conectado a outro subcaminho do caminho. Quando esse método retorna, a posição atual é \n(x,y). Uma chamada para esse método é equivalente à seguinte sequência de chamadas:\nc.moveTo(x,y);\nc.lineTo(x+w, y);\nc.lineTo(x+w, y+h);\nc.lineTo(x, y+h);\nc.closePath();\nvoid restore()\nEsse método retira da pilha de estados gráficos salvos e restaura os valores das propriedades de Can-\nvasRenderingContext2D, o caminho de corte e a matriz de transformação. Consulte o método \nsave() para obter mais informações.\nvoid rotate(double ângulo)\nEsse método altera a matriz de transformação atual, de modo que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4595,
+    "totalChunks": 10000
+  }
+}

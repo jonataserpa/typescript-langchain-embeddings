@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_440",
+  "content": "rador menor ou igual a é simplesmente definido como “não maior que” e o operador \nmaior ou igual a é definido como “não menor que”. A única exceção ocorre quando um ou outro \noperando é (ou é convertido em) NaN, no caso em que todos os quatro operadores de comparação \nretornam \nfalse.\n4.9.3   O operador in\nO operador in espera um operando no lado esquerdo que seja ou possa ser convertido em uma \nstring. No lado direito, ele espera um operando que seja um objeto. Ele é avaliado como true se o \nvalor do lado esquerdo é o nome de uma propriedade do objeto do lado direito. Por exemplo:\nvar point",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 440,
+    "totalChunks": 10000
+  }
+}

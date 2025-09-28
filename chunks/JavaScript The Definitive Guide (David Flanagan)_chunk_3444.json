@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3444",
+  "content": "quando o \nusuário pode acessar os dados a partir de mais de um dispositivo.\nPara funcionar off-line, um aplicativo Web precisa saber se está off-line ou online e quando o estado \nda conexão de Internet muda. Para verificar se o navegador está online, um aplicativo Web pode usar \na propriedade\n navigator.onLine. E para detectar mudanças no estado da conexão, ele pode registrar \nrotinas de tratamento para eventos online e off-line no objeto Window.\nEste capítulo termina com um aplicativo Web off-line simples que demonstra essas técnicas. O apli-\ncativo se chama PermaNote – é um aplicativo de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3444,
+    "totalChunks": 10000
+  }
+}

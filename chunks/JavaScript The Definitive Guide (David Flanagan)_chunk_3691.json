@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3691",
+  "content": "que especificam como os valores de \npixel individuais são calculados a partir dos pixels de origem e de destino para cada uma das 11 \noperações de composição.\nQuando este livro estava sendo escrito, os fornecedores de navegador discordavam na implemen-\ntação de 5 dos 11 modos de composição: “copy”, “source-in”, “source-out”, “destination-atop” e \n“destination-in” se comportavam de formas diferentes em diferentes navegadores e não podiam ser \nusados de maneira portável. A seguir está uma explicação detalhada, mas você pode pular para a \npróxima seção, caso não pretenda usar essas operações de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3691,
+    "totalChunks": 10000
+  }
+}

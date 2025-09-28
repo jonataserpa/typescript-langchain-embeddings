@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4873",
+  "content": "NaN.\nreadonly double latitude\nA latitude do usuário em graus decimais ao norte do equador.\nreadonly double longitude\nA longitude do usuário em graus decimais a leste do Meridiano de Greenwich.\nreadonly double speed\nA velocidade do usuário em metros por segundo ou null, se a informação de velocidade não estiver \ndisponível. Essa propriedade nunca será um número negativo. Consulte também heading.\nGeolocation\nobtém a latitude e longitude do usuário\nO objeto Geolocation define métodos para determinar a localização geográfica precisa do usuário. \nNos navegadores que o suportam, o objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4873,
+    "totalChunks": 10000
+  }
+}

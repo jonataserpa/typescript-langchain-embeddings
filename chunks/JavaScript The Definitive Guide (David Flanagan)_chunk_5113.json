@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5113",
+  "content": "possa ser clo-\nnado com o algoritmo de clone estruturado (consulte “Clones estruturados”, na página 672).\nProcessingInstruction\numa instrução de processamento em um documento XML Node\nEssa interface raramente usada representa uma instrução de processamento (ou PI) em um docu-\nmento XML. Programadores que trabalham com documentos HTML nunca vão encontrar um nó \nProcessingInstruction.\nPropriedades\nstring data\nO conteúdo da instrução de processamento (isto é, o primeiro caractere que não seja um espa-\nço após o alvo, até, mas não incluindo, o ?> de fechamento).\nreadonly string target\nO alvo da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5113,
+    "totalChunks": 10000
+  }
+}

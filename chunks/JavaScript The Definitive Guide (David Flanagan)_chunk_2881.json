@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2881",
+  "content": "requisitos específicos do serviço que precise usar.\nO Exemplo 18-14 define uma função getJSONP() que faz uma requisição JSONP. Esse exemplo é \num pouco complicado e existem algumas coisas que você deve notar a respeito dele. Primeiramente, \nobserve como ele cria um novo elemento <script>, configura seu URL e o insere no documento.\nÉ essa inserção que dispara a requisição HTTP. Segundo, note que o exemplo cria uma nova função de \ncallback interna para cada pedido, armazenando a função como uma propriedade de \ngetJSONP(). Por \nfim, note que callback faz alguma limpeza necessária: ela remove o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2881,
+    "totalChunks": 10000
+  }
+}

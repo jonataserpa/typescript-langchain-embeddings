@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5544",
+  "content": "787–788\n    NaN,    787–788\n    NEGATIVE_INFINITY,    787–788\n    POSITIVE_INFINITY,    788–789\n    valores somente para leitura para variáveis globais \nInfi nity e NaN, 33\nobjeto Option, 394, 964\nobjeto Output, 965\nobjeto PageTransitionEvent, 965\nobjeto PopStateEvent, 966\nobjeto ProcessImageInstruction, 966\nobjeto ProcessingInstruction, criando, 879\nobjeto Progress, 966\nobjeto ProgressEvent, 967\nobjeto protótipo fn (jQuery), 569\nobjeto Range, 398\nobjeto RangeError, 812–813\nobjeto ReferenceErrors, 55, 813–814\nobjeto RegExp, 38, 245, 255, 813–820\n    como objeto que pode ser chamado, 186",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5544,
+    "totalChunks": 10000
+  }
+}

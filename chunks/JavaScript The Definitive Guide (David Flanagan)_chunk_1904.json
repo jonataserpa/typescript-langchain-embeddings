@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1904",
+  "content": "eto Navigator\nA propriedade navigator de um objeto Window se refere a um objeto Navigator que contém in-\nformações sobre o fornecedor e o número da versão do navegador. O objeto Navigator recebe esse \nnome por causa do antigo navegador Navigator da Netscape, mas também é suportado por todos os \noutros navegadores. (O IE também suporta \nclientInformation como sinônimo neutro com relação \nao fornecedor para \nnavigator. Infelizmente, outros navegadores não adotaram essa propriedade de \nnome mais sensato.)\nNo passado, o objeto Navigator era em geral usado por scripts para determinar se estavam",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1904,
+    "totalChunks": 10000
+  }
+}

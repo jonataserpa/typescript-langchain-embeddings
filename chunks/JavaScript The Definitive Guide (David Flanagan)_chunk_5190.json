@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5190",
+  "content": "ing createObjectURL(Blob blob)\nRetorna um URL de Blob para o blob especificado. Requisições HTTP GET para esse URL vão \nretornar o conteúdo de blob.\nvoid revokeObjectURL(string url)\nRevoga o url de Blob especificado, para que não esteja mais associado a Blob algum e não possa mais \nser carregado.\nVideo\num elemento <video> HTML Node, Element, MediaElement\nUm objeto Video representa um elemento HTML \n<video>. Os elementos <video> e <audio> são \nmuito parecidos e suas propriedades e métodos comuns estão documentados em MediaElement. Esta \npágina documenta várias propriedades adicionais,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5190,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_541",
+  "content": "é a melhor solução \nquando todas as ramificações dependem do valor da mesma expressão. Nesse caso, é um desperdício \navaliar essa expressão repetidamente em várias instruções if.\nA instrução \nswitch trata exatamente dessa situação. A palavra-chave switch é seguida de uma expres-\nsão entre parênteses e de um bloco de código entre chaves:\nswitch(expressão) {\n    instruções\n}\nContudo, a sintaxe completa de uma instrução switch é mais complexa do que isso. Vários locais no \nbloco de código são rotulados com a palavra-chave case, seguida de uma expressão e dois-pontos. \ncase é como uma instrução",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 541,
+    "totalChunks": 10000
+  }
+}

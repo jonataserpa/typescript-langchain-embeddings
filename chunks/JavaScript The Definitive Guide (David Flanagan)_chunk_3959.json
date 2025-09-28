@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3959",
+  "content": "objeto índice.\nContudo, essa simplicidade conceitual é complicada pelo fato de que a API precisa ser assíncrona \npara que os aplicativos Web possam utilizá-la sem bloquear a thread da interface com o usuário prin-\ncipal do navegador. (A especificação IndexedDB define uma versão síncrona da API para uso com \nthreads worker, mas quando este livro estava sendo escrito, nenhum navegador ainda tinha imple-\nmentado essa versão da API, de modo que não ela não é abordada aqui.) Criar transações e pesquisar \nobjetos armazenados e índices são operações síncronas fáceis. Mas abrir um banco de dados,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3959,
+    "totalChunks": 10000
+  }
+}

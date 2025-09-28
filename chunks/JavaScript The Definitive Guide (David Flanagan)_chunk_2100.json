@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2100",
+  "content": "3 Localizando todos os descendentes do nó Text de um elemento\n// Retorna o conteúdo de texto puro do elemento e, usando recursividade para os elementos\n// filhos.\n// Este método funciona como a propriedade textContent\nfunction textContent(e) {\n    var child, type, s = \"\";           // s contém o texto de todos os filhos\n    for(child = e.firstChild; child != null; child = child.nextSibling) {\n        type = child.nodeType;\n        if (type === 3 || type === 4)   // Nós Text e CDATASection\n            s += child.nodeValue;\n        else if (type === 1)           // Recursividade para nós",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2100,
+    "totalChunks": 10000
+  }
+}

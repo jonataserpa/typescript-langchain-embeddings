@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5541",
+  "content": "priedades, \n32\n    funções estáticas, 774–775\n    método max( ), 781\nobjeto MediaElement, 949–954\n    constantes    defi nindo valores para networkState e \nreadyState, 949\n    métodos,    953\n    propriedades,    950\n    rotinas de tratamento de evento, 952\nobjeto MediaError, 954\nobjeto MessageChannel, 669, 954\nobjeto MessageEvent, 955\nobjeto MessagePort, 669, 956\nobjeto Meter, 957\nobjeto Navigator, 322, 337, 958\n    propriedade cookieEnabled, 580\n    propriedade geolocation, 653\n    propriedade onLine, 594\n    propriedades de sniffi  ng de navegador, 337\n    propriedades e métodos diversos,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5541,
+    "totalChunks": 10000
+  }
+}

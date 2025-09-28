@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4203",
+  "content": "ição da função\n{\n    corpo\n}\nfunction (lista_nomes_argumento) {corpo}          // Função literal não nomeada\nnomedafunção(lista_valores_argumento)            // Chamada da função\nConstrutora\nnew Function(nomes_argumento..., corpo)\nArgumentos\nnomes_argumento...\nQualquer número de argumentos de string, cada um nomeando um ou mais argumentos do \nobjeto Function que está sendo criado.\ncorpo\nUma string especificando o corpo da função. Pode conter qualquer número de instruções \nJavaScript, separadas por pontos e vírgulas, e pode se referir a qualquer um dos nomes de \nargumento especificados pelos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4203,
+    "totalChunks": 10000
+  }
+}

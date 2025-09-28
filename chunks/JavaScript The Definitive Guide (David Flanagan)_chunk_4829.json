@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4829",
+  "content": "m um objeto FormData ou passando \no File para XMLHttpRequest.send(), mas não há muito mais que possa fazer com o objeto File em si. \nUse FileReader para ler o conteúdo de um File (ou de qualquer Blob).\nPropriedades\nreadonly Date lastModifiedDate\nA data de modificação do arquivo ou null, caso não esteja disponível.\n\n908          Parte IV     Referência de JavaScript do lado do cliente\nreadonly string name\nO nome do arquivo (mas não seu caminho).\nFileError\nerro durante a leitura de um arquivo\nUm  objeto  FileError  representa  um  erro  ocorrido  na  leitura  de  um  arquivo  com  \nFileReader",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4829,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1487",
+  "content": "d;\n        result.push(total);\n }\n    // Usar x ou odd aqui causaria um ReferenceError\n    return    result;\n}\noddsums(5);  //  Retorna  [1,4,9,16,25]\nObserve que esse código também usa let como substituta para var no laço for. Isso cria uma variável \ncujo escopo é o corpo do laço mais a condição e as cláusulas de incremento do laço. let também \npode ser usada da seguinte maneira em laços\n for/in (e for each; consulte a Seção 11.4.1):\no = {x:1,y:2};\nfor(let p in o) console.log(p);      // Imprime x e y\nfor each(let v in o) console.log(v); // Imprime 1 e 2\nconsole.log(p)             //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1487,
+    "totalChunks": 10000
+  }
+}

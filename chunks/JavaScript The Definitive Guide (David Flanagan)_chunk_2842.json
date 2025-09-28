@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2842",
+  "content": "HTTP. Nos \nnavegadores que implementaram esse recurso, o objeto XMLHttpRequest terá uma propriedade \nupload. O valor da propriedade upload é um objeto que define um método addEventListener() e \num conjunto completo de propriedades do evento progress, como onprogress e onload. (Contudo, \no objeto upload não define uma propriedade onreadystatechange: os uploads só disparam os novos \ntipos de evento.)\nVocê pode usar as rotinas de tratamento de evento upload exatamente como usaria as rotinas de \ntratamento de evento progress normais. Para um objeto XMLHttpRequest \nx, configure x.onprogress \npara",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2842,
+    "totalChunks": 10000
+  }
+}

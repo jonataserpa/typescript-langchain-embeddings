@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4372",
+  "content": "ng()\nparseFloat()\nconverte uma string em um número\nSinopse\nparseFloat(s)\nArgumentos\ns\nA string a ser analisada e convertida em um número.\nRetorna\nO  número  analisado  ou  \nNaN,  caso  s  não  comece  com  um  número  válido.  Em  JavaScript  1.0,  \nparseFloat() retorna 0, em vez de NaN, quando s não pode ser analisado como um número.\nDescrição\nparseFloat() analisa e retorna o primeiro número que ocorre em s. A análise para (e o valor é re-\ntornado) quando parseFloat() encontra um caractere em s que não é uma parte válida do número. \nSe s não começa com um número que parseFloat() possa",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4372,
+    "totalChunks": 10000
+  }
+}

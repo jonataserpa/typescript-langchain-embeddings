@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5003",
+  "content": "navegador.\njQuery.contains(a,b):boolean\nRetorna true se o elemento do documento a contém o elemento b.\njQuery.data(elt):data\njQuery.data(elt, chave):value\njQuery.data(elt, dados)\njQuery.data(elt, chave, valor)\nUma versão de baixo nível do método data(). Com um argumento de elemento, retorna o \nobjeto data desse elemento. Com um elemento e uma string, retorna o valor nomeado do \nobjeto data desse elemento. Com um elemento e um objeto, configura o objeto data do ele-\nmento. Com um elemento, uma string e um valor, configura o valor nomeado no objeto data \ndo elemento.\njQuery.dequeue(elt,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5003,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5130",
+  "content": "to HTML) para scripts normais em JavaScript. Se você confi-\n\n970          Parte IV     Referência de JavaScript do lado do cliente\ngurar essa propriedade com um tipo MIME personalizado, pode incorporar dados de textual \narbitrários no elemento <script> para usar em outros scripts.\nSelect\numa lista gráfica de seleção Node, Element, FormControl\nO elemento Select representa uma tag HTML \n<select>, a qual exibe uma lista gráfica de escolhas \npara o usuário. Se o atributo HTML multiple está presente, o usuário pode selecionar qualquer nú-\nmero de opções na lista. Se esse atributo não está",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5130,
+    "totalChunks": 10000
+  }
+}

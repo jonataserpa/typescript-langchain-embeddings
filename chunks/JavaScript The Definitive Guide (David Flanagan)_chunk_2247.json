@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2247",
+  "content": "special que permite aos programas JavaScript ler e gravar cookies HTTP. \nEssa propriedade é abordada no Capítulo 20.\ndomain\nUma propriedade que permite a servidores Web mutuamente confiáveis dentro do mesmo \ndomínio Internet abrandar colaborativamente as restrições de segurança da política da mesma \norigem em interações entre suas páginas Web (consulte a Seção 13.6.2.1).\nlastModified\nUma string contendo a data de modificação do documento.\nlocation\nEsta propriedade se refere ao mesmo objeto Location que a propriedade location do objeto \nWindow.\nreferrer\nO URL do documento contendo o link, se",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2247,
+    "totalChunks": 10000
+  }
+}

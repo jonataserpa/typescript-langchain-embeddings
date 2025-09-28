@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2212",
+  "content": "et.\nO objeto Form de JavaScript suporta dois métodos, \nsubmit() e reset(), que têm o mesmo objetivo. \nChamar o método \nsubmit() de um objeto Form envia o formulário e chamar reset() redefine os \nelementos do formulário.\nTodos (ou a maioria) os elementos de formulário têm as seguintes propriedades em comum. Alguns \nelementos têm outras propriedades de propósito especial que são descritas posteriormente, quando \nvários tipos de elementos de formulário são considerados individualmente:\ntype\nUma string somente para leitura que identifica o tipo do elemento de formulário. Para ele-\nmentos de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2212,
+    "totalChunks": 10000
+  }
+}

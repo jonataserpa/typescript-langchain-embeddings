@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4028",
+  "content": "s declarados. Note \ntambém que essa propriedade não tem nenhum comportamento especial da propriedade Array.\nlength.\nExemplo\n// Usa um objeto Arguments para verificar se o nº correto de args foi passado\nfunction check(args) {\n    var actual = args.length;          // O número real de argumentos\n    var expected = args.callee.length;  // O número esperado de argumentos\n    if (actual != expected) {          // Lança exceção, caso não coincidam\n        throw new Error(\"Wrong number of arguments: expected: \" +\n                        expected + \"; actually passed \" + actual);\n }\n}\n// Uma função",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4028,
+    "totalChunks": 10000
+  }
+}

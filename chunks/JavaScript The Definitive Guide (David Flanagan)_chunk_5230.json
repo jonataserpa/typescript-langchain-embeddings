@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5230",
+  "content": "ma janela, suas informações de estilo devem ser extraídas da cascata e \nos estilos especificados com unidades relativas (como porcentagens ou “emes”) devem ser “calculados” \npara se converter em pixels. Esses valores calculados às vezes também são chamados de valores “usados”.\nEsse método retorna um objeto CSSStyleDeclaration somente de leitura representando os valores de \nestilo CSS realmente usados para exibir o elemento. Todas as dimensões serão em pixels.\nO segundo argumento desse método normalmente é omitido ou é null, mas também é possível passar \no pseudoelemento CSS “::before” ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5230,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1979",
+  "content": "omo f(), exatamente como o código do quadro \nB faz.\nQuando você compartilha funções entre quadros ou janelas dessa forma, é importante ter em mente \nas regras de escopo léxico. Uma função é executada no escopo em que foi definida e não no escopo a \npartir do qual é chamada. Assim, se a função f anterior se refere a variáveis globais, essas variáveis são \npesquisadas como propriedades do quadro B, mesmo quando a função é chamada a partir do quadro A.\nLembre-se de que as construtoras também são funções; portanto, ao se definir uma classe (consulte \no Capítulo 9) com uma função construtora e um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1979,
+    "totalChunks": 10000
+  }
+}

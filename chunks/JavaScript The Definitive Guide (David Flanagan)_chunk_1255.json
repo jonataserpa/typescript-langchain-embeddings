@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1255",
+  "content": "da criação de subclasses em JavaScript é a inicialização correta do objeto protótipo. \nSe a classe B estende A, então \nB.prototype deve ser herdeira de A.prototype. Assim, as instâncias \nde B herdam de \nB.prototype que, por sua vez, herda de A.prototype. Esta seção demonstra cada um \ndos termos relacionados às subclasses definidos anteriormente e também aborda uma alternativa às \nsubclasses, conhecida como composição.\n\nCapítulo 9     Classes e módulos      223\nJavaScript básica\nUsando a classe Set do Exemplo 9-6 como ponto de partida, esta seção vai demonstrar como se \ndefine subclasses, como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1255,
+    "totalChunks": 10000
+  }
+}

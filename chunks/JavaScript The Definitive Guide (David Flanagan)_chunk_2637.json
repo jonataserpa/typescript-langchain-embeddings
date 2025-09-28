@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2637",
+  "content": "var deltaX = e.deltaX*-30 ||    // evento wheel\n                  e.wheelDeltaX/4    ||        //    mousewheel\n                 0;       // propriedade não definida\n        var deltaY = e.deltaY*-30 ||    // evento wheel\n                e.wheelDeltaY/4  ||    // evento mousewheel no Webkit\n    (e.wheelDeltaY===undefined    &&          // se não houver propriedade 2D, então\n                e.wheelDelta/4)  ||    // usa a propriedade wheel 1D\n                   e.detail*-10  ||    // evento DOMMouseScroll do Firefox\n                              0;       // propriedade não definida\n         //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2637,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2777",
+  "content": "}\nNote, no Exemplo 18-1, que o método send() inicia a requisição e depois retorna: ele não bloqueia \nenquanto espera pela resposta do servidor. As respostas HTTP são quase sempre manipuladas de \nforma assíncrona, conforme demonstrado na seção a seguir.\n\nCapítulo 18     Scripts HTTP      485\nJavaScript do\n lado do cliente\n18.1.2   Recuperando a resposta\nUma resposta HTTP completa consiste em um código de status, um conjunto de cabeçalhos e um \ncorpo. Eles estão disponíveis por meio de propriedades e métodos do objeto XMLHttpRequest:\n •   As propriedades \nstatus e statusText retornam o status",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2777,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_639",
+  "content": "o\ndebuggerdebugger;Ponto de interrupção de depurador\ndefaultdefault:Rotula a instrução padrão dentro \nde um switch\ndo/whiledo instrução while (expressão);     Uma alternativa para o laço while\nempty;Não faz nada\nforfor(inic; teste; incr) instruçãoUm laço fácil de usar\nfor/infor (var in objeto) instruçãoEnumera as propriedades de objeto\nfunctionfunction nome([parâm[,...]]) { \ncorpo }\nDeclara uma função chamada nome\nif/elseif (expr) instrução1 [else \ninstrução2]\nExecuta instrução1 ou instrução2\nlabelrótulo: instruçãoDá à instrução o nome rótulo\nreturnreturn [expressão];Retorna um valor de uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 639,
+    "totalChunks": 10000
+  }
+}

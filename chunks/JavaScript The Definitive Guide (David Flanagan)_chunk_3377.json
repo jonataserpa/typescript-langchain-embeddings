@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3377",
+  "content": "ínio\n; secure\nPara mudar o valor de um cookie, configure seu valor novamente, usando os mesmos nome, cami-\nnho e domínio, junto com o novo valor. Você pode alterar a vida útil de um cookie ao mudar seu \nvalor, especificando um novo atributo max-age.\nPara excluir um cookie, configure-o novamente usando os mesmos nome, caminho e domínio, espe-\ncificando um valor arbitrário (ou vazio) e um atributo \nmax-age igual a 0.\n20.2.3   Lendo   cookies\nAo se usar a propriedade cookie em uma expressão JavaScript, o valor que ela retorna é uma string \ncontendo todos os cookies que se aplicam ao documento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3377,
+    "totalChunks": 10000
+  }
+}

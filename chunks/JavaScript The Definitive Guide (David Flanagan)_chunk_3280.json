@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3280",
+  "content": "os irmãos deles mesmos). Se um seletor é passado para \nqualquer um desses métodos, somente os irmãos que correspondem são retornados:\n$(\"#footer\").nextAll(\"p\")       // Todos os irmãos de <p> após o elemento #footer\n$(\"#footer\").prevAll() // Todos os irmãos antes do elemento #footer\nNa jQuery 1.4 e posteriores, os métodos nextUntil() e prevUntil() recebem um argumento seletor \ne selecionam todos os irmãos após ou anteriores ao elemento selecionado, até ser encontrado um ir-\nmão que corresponda ao seletor. Se o seletor é omitido, esses métodos funcionam exatamente como \nnextAll() e prevAll()",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3280,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_593",
+  "content": "taxe.\nQuando a instrução \ncontinue é executada, a iteração atual do laço circundante é terminada e a próxi-\nma iteração começa. Isso significa coisas diferentes para diferentes tipos de laços:\n •   Em um laço \nwhile, a expressão especificada no início do laço é testada novamente e, se for \ntrue, o corpo do laço é executado desde o início.\n •   Em um laço \ndo/while, a execução pula para o final do laço, onde a condição de laço é nova-\nmente testada, antes de recomeçar o laço desde o início.\n •   Em um laço \nfor, a expressão de incremento é avaliada e a expressão de teste é novamente testa-\nda",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 593,
+    "totalChunks": 10000
+  }
+}

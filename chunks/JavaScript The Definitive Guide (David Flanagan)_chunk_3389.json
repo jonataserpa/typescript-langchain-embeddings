@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3389",
+  "content": "incrementa o comprimento\n  }\n        // Armazena esse par nome/valor no conjunto de cookies.\n        cookies[key] = value;\n        // Agora configura realmente o cookie.\n        // Primeiramente, codifica o valor e cria uma string nome=valor-codificado\n        var cookie = key + \"=\" + encodeURIComponent(value);\n        // Adiciona atributos de cookie nessa string\n        if (maxage) cookie += \"; max-age=\" + maxage;\n        if (path) cookie += \"; path=\" + path;\n        // Configura o cookie por meio da propriedade mágica document.cookie\n        document.cookie = cookie;\n    };\n    // Remove o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3389,
+    "totalChunks": 10000
+  }
+}

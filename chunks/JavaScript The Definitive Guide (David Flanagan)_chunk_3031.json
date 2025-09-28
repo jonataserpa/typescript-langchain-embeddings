@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3031",
+  "content": "objeto Window; portanto, se \nquiser registrar rotinas de tratamento para esses tipos de evento, você deve chamar os métodos \nresi-\nze() e unload() em $(window). O método scroll() é mais usado em $(window), mas também pode ser \nusado em qualquer elemento que tenha barras de rolagem (como quando o atributo CSS overflow é \nconfigurado como “scroll” ou “auto”). O método load() pode ser chamado em $(window) para regis-\ntrar uma rotina de tratamento de evento load para a janela, mas em geral é melhor passar sua função \nde inicialização diretamente para $(), como mostrado na Seção 19.1.1. Contudo,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3031,
+    "totalChunks": 10000
+  }
+}

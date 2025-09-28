@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_353",
+  "content": "de uma expressão inicializadora de array pode ser diferente \na cada vez que for avaliada.\nElementos indefinidos podem ser incluídos em um array literal simplesmente omitindo-se um valor \nentre vírgulas. Por exemplo, o array a seguir contém cinco elementos, incluindo três indefinidos:\nvar sparseArray = [1,,,,5];\nUma única vírgula à direita é permitida após a última expressão em um inicializador de array e ela \nnão cria um elemento indefinido.\nAs expressões inicializadoras de objeto são como as expressões inicializadoras de array, mas os col-\nchetes são substituídos por chaves e cada",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 353,
+    "totalChunks": 10000
+  }
+}

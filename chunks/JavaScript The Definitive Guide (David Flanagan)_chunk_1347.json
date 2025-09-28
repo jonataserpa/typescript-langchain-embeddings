@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1347",
+  "content": "itable) s += \"readonly \";\n            if (!desc.enumerable) s += \"hidden \";\n            if (desc.get || desc.set) s += \"accessor \" + n\n            else s += n + \": \" + ((typeof desc.value===\"function\")?\"function\"\n                                                                                                     :desc.value);\n            return    s;\n  }\n    };\n    // Por fim, torna não enumeráveis os métodos de instância do objeto\n    // protótipo anterior, usando os métodos que definimos aqui.\n    Properties.prototype.properties().hide();\n}());   // Invoca a função circundante assim que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1347,
+    "totalChunks": 10000
+  }
+}

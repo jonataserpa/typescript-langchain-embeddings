@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2570",
+  "content": "de tratamento de evento retornar uma string, ela vai ser exibida em uma caixa de diálogo \nmodal que pede para que o usuário confirme se deseja sair da página.\nÉ importante entender que esses valores de retorno só têm significado para rotinas de tratamento \nregistradas como propriedades. Vamos ver a seguir que as rotinas de tratamento de evento registradas \ncom \naddEventListener() ou attachEvent() devem, em vez disso, chamar o método preventDefault() \nou configurar a propriedade returnValue do objeto evento.\n17.3.5   Ordem de chamada\nUm elemento do documento ou outro objeto pode ter mais de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2570,
+    "totalChunks": 10000
+  }
+}

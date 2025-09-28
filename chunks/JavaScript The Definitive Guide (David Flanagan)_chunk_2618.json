@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2618",
+  "content": "p\",    upHandler);\n            elementToDrag.detachEvent(\"onmousemove\",    moveHandler);\n            elementToDrag.releaseCapture();\n  }\n        // E não permite que o evento se propague mais.\n        if (e.stopPropagation) e.stopPropagation();      // Modelo padrão\n        else e.cancelBubble = true;                       // IE\n }\n}\nO código a seguir mostra como usar drag() em um arquivo HTML (trata-se de uma versão simpli-\nficada do Exemplo 16-2, com a adição de arrasto):\n<script src=\"getScrollOffsets.js\"></script>      <!-- drag() exige isso -->\n<script src=\"Drag.js\"></script>",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2618,
+    "totalChunks": 10000
+  }
+}

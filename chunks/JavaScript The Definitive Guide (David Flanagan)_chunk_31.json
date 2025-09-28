@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_31",
+  "content": "122\n6.5   Enumerando   propriedades   123\n6.6   Métodos getter e setter de propriedades 125\n6.7   Atributos de propriedade 128\n6.8   Atributos de objeto 132\n6.9   Serializando   objetos   135\n6.10   Métodos de objeto 135\n    7     Arrays    ......................................................................................................................... 137\n7.1   Criando   arrays   137\n7.2   Lendo e gravando elementos de array 138\n7.3   Arrays   esparsos   140\n7.4   Comprimento do array 140\n7.5   Adicionando e excluindo elementos de array 141\n7.6   Iteração em arrays 142\n7.7",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 31,
+    "totalChunks": 10000
+  }
+}

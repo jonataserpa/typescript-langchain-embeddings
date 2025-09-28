@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2609",
+  "content": "posicionados de forma absoluta.\n *\n * Este módulo define uma única função drag() projetada para ser chamada\n * a partir de uma rotina de tratamento de evento onmousedown. Os eventos mousemove \n * subsequentes vão mover o elemento especificado. Um evento mouseup termina o arrasto.\n * Esta implementação funciona com os modelos de evento padrão e do IE.\n * Ela exige a função getScrollOffsets() de outra parte deste livro.\n *\n * Argumentos:\n *\n *   elementToDrag: o elemento que recebeu o evento mousedown ou\n *       algum elemento contêiner. Deve estar posicionado de forma absoluta. Seus\n *",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2609,
+    "totalChunks": 10000
+  }
+}

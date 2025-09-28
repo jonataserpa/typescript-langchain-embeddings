@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4855",
+  "content": "vento\nEstas propriedades de tratamento de evento relacionadas a formulário são definidas em Element, \nmas estão documentadas com mais detalhes aqui porque são disparadas em elementos Form.\nonreset\nChamada imediatamente antes que os elementos do formulário sejam redefinidos. Retorna \nfalse ou cancela o evento para impedir a redefinição.\nonsubmit\nChamada imediatamente antes que formulário seja enviado. Retorna false ou cancela o even-\nto para impedir o envio.\nFormControl\nrecursos comuns de todos os controles de formulário\nEm sua maioria, os controles de formulário HTML são elementos \n<input>,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4855,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4293",
+  "content": ".\nExemplo\nvar n = 12345.6789;\nn.toExponential(1);   //   Retorna   1.2e+4\nn.toExponential(5);   //   Retorna   1.23457e+4\nn.toExponential(10);  //  Retorna  1.2345678900e+4\nn.toExponential();    //    Retorna    1.23456789e+4\nConsulte também\nNumber.toFixed(), Number.toLocaleString(), Number.toPrecision(), Number.toString()\nNumber.toFixed()\nformata um número usando notação em ponto fixo\nSinopse\nnúmero.toFixed(dígitos)\n\n790          Parte III     Referência de JavaScript básica\nArgumentos\ndígitos\nO número de dígitos a aparecer após o ponto decimal; pode ser um valor entre 0 e 20 (inclusi-\nve) e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4293,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5188",
+  "content": "a um novo TypedArray que usa o mesmo ArrayBuffer subjacente que esse. O primeiro ele-\nmento do array retornado é o elemento início desse array. E o último elemento do array retornado é \no elemento fim–1 desse array. Valores negativos de início e fim são interpretados como deslocamen-\ntos a partir do fim desse array, em vez do início.\nURL\nmétodos de URL de Blob\nA propriedade \nURL do objeto Window se refere a esse objeto URL. No futuro, esse objeto pode se \ntornar uma construtora para uma classe utilitária de análise e manipulação de URLs. No entanto, \nquando este livro estava sendo escrito,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5188,
+    "totalChunks": 10000
+  }
+}

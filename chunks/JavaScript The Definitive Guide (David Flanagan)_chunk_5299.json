@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5299",
+  "content": "basta configurar essas propriedades com as funções \nde tratamento de evento apropriadas ou chamar os métodos EventTarget. Note que as rotinas de \ntratamento de evento de andamento de upload definidas aqui são exatamente iguais às rotinas de \ntratamento de evento de andamento de download definidas no próprio XMLHttpRequest, exceto \nque não há uma propriedade onreadystatechange nesse objeto.\nRotinas de tratamento de evento\nonabort\nDisparada se o carregamento é cancelado.\nonerror\nDisparada se o carregamento falha com um erro de rede.\nonload\nDisparada quando o carregamento é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5299,
+    "totalChunks": 10000
+  }
+}

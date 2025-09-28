@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1881",
+  "content": "ion() { clearInterval(h); }, end);\n  }\n }\n}\nPor motivos históricos, você pode passar uma string como primeiro argumento de setTimeout() e \nsetInterval(). Se fizer isso, a string será avaliada (assim como acontece com eval()) após o tempo-\n-limite ou o intervalo especificado. A especificação HTML5 (e todos os navegadores, exceto o IE) \npermitem argumentos adicionais para \nsetTimeout() e setInterval(), após os dois primeiros. Quais-\nquer desses argumentos são passados para a função chamada. Entretanto, se for exigida portabilidade \ncom o IE, esse recurso não deve ser usado.\n\n334          Parte",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1881,
+    "totalChunks": 10000
+  }
+}

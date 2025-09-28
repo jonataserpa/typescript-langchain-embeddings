@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_511",
+  "content": "seguir \natuam como uma única instrução e podem ser usadas em qualquer lugar em que JavaScript espere \numa única instrução:\n{\n    x = Math.PI;\n    cx = Math.cos(x);\n    console.log(\"cos(π) = \" + cx);\n}\n\nCapítulo     5     Instruções          87\nJavaScript básica\nExistem algumas coisas a observar a respeito desse bloco de instruções. Primeiramente, ele não ter-\nmina com um ponto e vírgula. As instruções primitivas dentro do bloco terminam em pontos e \nvírgulas, mas o bloco em si, não. Segundo, as linhas dentro do bloco são recuadas em relação às \nchaves que as englobam. Isso é opcional, mas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 511,
+    "totalChunks": 10000
+  }
+}

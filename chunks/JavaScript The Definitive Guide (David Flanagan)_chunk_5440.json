@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5440",
+  "content": "463\n    API Filesystem, 684–690\n    API Geolocation, 653–656\n    API    Offl  ine Web Applications, 574\n    API    WebSocket,    697–700\n    APIs para aplicativos Web, 303\n    arrays tipados e ArrayBuff ers, 672–676\n    atributo placeholder, campos de texto, 392\n\nÍndice          1025\n    atributo sandbox para elemento <iframe>, 329\n    atributos dataset e propriedade dataset, 367\n    bancos de dados do lado do cliente, 690–698\n    Blobs,    676–684\n    cache de aplicativo, 587\n    comandos de edição, 400\n    especifi cação Web Workers, 665–672\n    evento DOMContentLoaded, 453\n    eventos,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5440,
+    "totalChunks": 10000
+  }
+}

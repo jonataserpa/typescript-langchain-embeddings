@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3278",
+  "content": ", incluindo nós de \ntexto, de cada elemento. Além disso, se qualquer um dos elementos selecionados é um \n<iframe>, \ncontents() retorna o objeto documento do conteúdo desse <iframe>. Note que contents() não aceita \n\nCapítulo 19     A biblioteca jQuery      567\nJavaScript do\n lado do cliente\numa string seletora opcional – isso porque ele retorna nós do documento que não são elementos e as \nstrings seletoras só descrevem nós de elemento.\nOs métodos \nnext() e prev() retornam o próximo irmão e o anterior de cada elemento selecionado \nque tiver um. Se um seletor é especificado, o irmão é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3278,
+    "totalChunks": 10000
+  }
+}

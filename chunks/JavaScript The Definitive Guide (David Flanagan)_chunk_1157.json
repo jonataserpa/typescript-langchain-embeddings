@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1157",
+  "content": "s nomes são iguais. Algumas implementações de JavaScript tornam o nome de uma função \ndisponível por meio de uma propriedade não padronizada name do objeto função. Para implemen-\ntações sem propriedade name, podemos converter a função em uma string e extrair o nome disso. \n(Fizemos isso na Seção 9.4, quando mostramos como adicionar um método getName() na classe \nFunction.)\nO Exemplo 9-4 define uma função \ntype() que retorna o tipo de um objeto como uma string. Ela \nmanipula valores primitivos e funções com o operador typeof. Para objetos, ela retorna o valor do \natributo classe ou o nome da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1157,
+    "totalChunks": 10000
+  }
+}

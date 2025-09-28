@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1897",
+  "content": "ção. \nUm terceiro método, \ngo(), recebe um argumento inteiro e pode pular qualquer número de páginas \npara frente (para argumentos positivos) ou para trás (para argumentos negativos) na lista do histó-\nrico:\nhistory.go(-2);  // Retrocede 2, como clicar no botão Voltar duas vezes\nSe uma janela contém filhos (como os elementos <iframe> – consulte a Seção 14.8.2), os históricos \nde navegação das janelas filhas são intercalados cronologicamente com o histórico da janela prin-\ncipal. Isso significa que chamar \nhistory.back() (por exemplo) na janela principal pode fazer uma \ndas janelas filhas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1897,
+    "totalChunks": 10000
+  }
+}

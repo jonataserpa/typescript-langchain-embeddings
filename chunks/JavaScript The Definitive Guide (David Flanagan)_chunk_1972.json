@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1972",
+  "content": "ado \npelo nome, assim como pelo número. Um quadro chamado “f1” seria frames[\"f1\"] ou frames.f1, \npor exemplo.\nLembre-se, da Seção 14.7, que os nomes ou identificações de \n<iframe> e outros elementos são uti-\nlizados automaticamente como propriedades do objeto Window e que os elementos <iframe> são \ntratados de forma diferente dos outros elementos: para quadros, o valor dessas propriedades criadas \nautomaticamente se refere a um objeto Window, em vez de a um objeto Element. Isso significa \nque podemos nos referir a um quadro chamado “f1” como f1, em vez de frames.f1. Na verdade, \nHTML5",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1972,
+    "totalChunks": 10000
+  }
+}

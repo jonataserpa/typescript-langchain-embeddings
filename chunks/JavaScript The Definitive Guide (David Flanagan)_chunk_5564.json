@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5564",
+  "content": "operadores relacionais, conversões de objeto para \nprimitivo com, 50\nordem de avaliação, operadores, 65\nordem de byte, endian, 675\nordem de byte big-endian, 675, 874\nordem de byte little-endian, 675, 874\nordem de chamada, rotinas de tratamento de evento, \n450\nordem endian, 675\norigem de um documento, 326, 576\noverrideMimeType( ), objeto XMLHttpRequest, \n488, 1000\n\nÍndice          1045\nP\npadrões\n    especifi cando para preenchimento ou traço no \ncanvas, 633\n    preenchimento ou traço usando, 633, 850–851\npáginas Web, 12\n    script de conteúdo, apresentação e comportamen-\nto, 9\npalavra-chave",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5564,
+    "totalChunks": 10000
+  }
+}

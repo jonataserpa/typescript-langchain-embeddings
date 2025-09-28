@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1076",
+  "content": "ntos externos\n    return function() {\n        var a = array(args, 1); // Começa com um array de args externos\n        var i=0, j=0;\n        // Itera por esses args, preenchendo os valores indefinidos do interno\n        for(; i < a.length; i++)\n            if (a[i] === undefined) a[i] = arguments[j++];\n        // Agora anexa os argumentos internos restantes\n        a = a.concat(array(arguments, j))\n        return f.apply(this, a);\n    };\n}\n// Aqui está uma função com três argumentos\nvar f = function(x,y,z) { return x * (y – z); };\n// Observe como essas três aplicações parciais",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1076,
+    "totalChunks": 10000
+  }
+}

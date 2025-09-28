@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3531",
+  "content": "e\", \"black\");       // Contorna a fatia com preto\n    path.setAttribute(\"stroke-width\", \"2\");     // Espessura de 2 unidades\n    chart.appendChild(path);                    // Adiciona fatia no gráfico\n    // A próxima fatia começa onde esta termina\n    startangle = endangle;\n\nCapítulo 21     Mídia e gráficos em scripts      613\nJavaScript do\n lado do cliente\n    // Agora desenha um pequeno quadrado correspondente para a chave\n        var icon = document.createElementNS(svgns, \"rect\");\n        icon.setAttribute(\"x\", lx);             // Posiciona o quadrado\n        icon.setAttribute(\"y\", ly +",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3531,
+    "totalChunks": 10000
+  }
+}

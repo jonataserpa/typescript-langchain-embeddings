@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3169",
+  "content": "traditional como true. Isso vai impedir a seria-\nlização avançada de propriedades cujos valores são arrays ou objetos.\nOcasionalmente, talvez você queira passar um objeto Document (ou algum outro objeto que não deva ser \nconvertido automaticamente) como corpo de uma requisição POST. Nesse caso, pode configurar a opção \ncontentType para especificar o tipo de seus dados e configurar a opção processData como false, a fim \nde impedir que a jQuery passe seu objeto dado para \njQuery.param().\n\nCapítulo 19     A biblioteca jQuery      549\nJavaScript do\n lado do cliente\nSe o URL ou a string de dados",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3169,
+    "totalChunks": 10000
+  }
+}

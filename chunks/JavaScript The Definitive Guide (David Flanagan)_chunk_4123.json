@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4123",
+  "content": "minutos, entre a hora GMT e a local.\nDescrição\ngetTimezoneOffset() retorna a diferença no número de minutos entre a hora GMT ou UTC e a hora \nlocal. Na verdade, essa função informa em qual fuso horário o código JavaScript está sendo executa-\ndo e se o horário de verão está (ou estaria) em vigor ou não na data especificada.\nO valor de retorno é medido em minutos, em vez de horas, pois alguns países têm fusos horários em \nintervalos que não são de hora cheia.\nDate.getUTCDate()\nretorna o campo de dia do mês de um objeto Date (hora universal)\nSinopse\ndata.getUTCDate()\nRetorna\nO dia do mês (um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4123,
+    "totalChunks": 10000
+  }
+}

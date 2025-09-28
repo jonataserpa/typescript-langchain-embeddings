@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1111",
+  "content": "esmo objeto protótipo. Então, as duas construto-\nras podem ser usadas para criar instâncias da mesma classe.\nMesmo as construtoras não sendo tão fundamentais quanto os protótipos, a construtora serve como \nface pública de uma classe. Assim, o nome da função construtora normalmente é adotado como \nnome da classe. Dizemos, por exemplo, que a construtora \nRange() cria objetos Range. Mais fun-\ndamentalmente, no entanto, as construtoras são usadas com o operador instanceof ao se testar a \nparticipação de objetos como membros de uma classe. Se temos um objeto r e queremos saber se ele \né um objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1111,
+    "totalChunks": 10000
+  }
+}

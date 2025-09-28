@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1149",
+  "content": "expressão \no instanceof c é avaliada como true se o herda de c.prototype. \nA herança não precisa ser direta. Se o herda de um objeto que herda de um objeto que herda de \nc.prototype, a expressão ainda vai ser avaliada como true.\nConforme observado anteriormente neste capítulo, as construtoras atuam como identidade pública \ndas classes, mas os protótipos são a identidade fundamental. Apesar do uso de uma função cons-\ntrutora com \ninstanceof, esse operador na verdade está testando de quem um objeto herda e não a \nconstrutora que foi utilizada para criá-lo.\nSe quiser testar o encadeamento de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1149,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_203",
+  "content": "m inteiro\nMath.floor(.6) // => 0.0: arredonda para baixo para um inteiro\nMath.abs(-5) // => 5: valor absoluto\nMath.max(x,y,z) // Retorna o maior argumento\nMath.min(x,y,z) // Retorna o menor argumento\nMath.random() // Número pseudoaleatório x, onde 0 <= x < 1.0\nMath.PI // π: circunferência de um círculo / diâmetro\nMath.E                   //                   e: A base do logaritmo natural\nMath.sqrt(3) // A raiz quadrada de 3\nMath.pow(3, 1/3)         // A raiz cúbica de 3\nMath.sin(0)              //              Trigonometria:              também Math.cos, Math.atan, etc.\nMath.log(10) //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 203,
+    "totalChunks": 10000
+  }
+}

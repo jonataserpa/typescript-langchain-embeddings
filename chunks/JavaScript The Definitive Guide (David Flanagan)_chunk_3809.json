@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3809",
+  "content": "r\nAo criar um novo worker com a construtora Worker(), você especifica o URL de um arquivo de \ncódigo JavaScript. Esse código é executado em um ambiente de execução JavaScript novo em folha, \ncompletamente isolado do script que criou o worker. O objeto global desse novo ambiente de execu-\nção é um objeto WorkerGlobalScope. Um WorkerGlobalScope é mais do que o objeto global básico \nde JavaScript, mas menos do que um objeto Window do lado do cliente completo.\nO objeto WorkerGlobalScope tem um método \npostMessage() e uma propriedade de tratamento de \nevento \nonmessage que são iguais aos do objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3809,
+    "totalChunks": 10000
+  }
+}

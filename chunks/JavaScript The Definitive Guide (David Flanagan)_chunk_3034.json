@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3034",
+  "content": "e registro de evento especial é \ntoggle(). Esse método vincula funções de tratamen-\nto para o evento click. Você especifica duas ou mais funções de tratamento e a jQuery chama uma \ndelas sempre que um evento click ocorre. Se você chama \ntoggle(f,g,h), por exemplo, a função f() é \nchamada para tratar do primeiro evento click, g() é chamada para tratar do segundo, h() é chamada \npara tratar do terceiro e f() é chamada novamente para tratar do quarto evento click. Mas tome \ncuidado ao usar toggle(): conforme vamos ver na Seção 19.5.1, esse método também pode ser usado \npara exibir ou ocultar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3034,
+    "totalChunks": 10000
+  }
+}

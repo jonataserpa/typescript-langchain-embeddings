@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_747",
+  "content": "de de dados.\n •   Se uma propriedade de dados não é configurável, você não pode transformá-la em uma pro-\npriedade de acesso.\n •   Se uma propriedade de dados não é configurável, você não pode alterar seu atributo gravável \nde \nfalse para true, mas pode mudá-lo de true para false.\n •   Se uma propriedade de dados não é configurável e não é gravável, você não pode alterar seu \nvalor. Contudo, pode alterar o valor de uma propriedade configurável, mas não gravável (pois \nisso seria o mesmo que torná-la gravável, depois alterar o valor e, então, convertê-la novamente \nem não gravável).\nO Exemplo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 747,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_219",
+  "content": "// => 2010\nlater.getMonth()         // => 0: meses com base em zero\nlater.getDate()          // => 1: dias com base em um\nlater.getDay()           // => 5: dia da semana. 0 é domingo, 5 é sexta-feira.\nlater.getHours()         // => 17: 5 da tarde, hora local\nlater.getUTCHours()      // Horas em UTC; depende do fuso horário\n\nCapítulo 3     Tipos, valores e variáveis      35\nJavaScript básica\nlater.toString()             // => \"Sexta-feira, 01 de janeiro de 2010, 17:10:30 GMT-0800\n                            //    (PST)\"\nlater.toUTCString()          // => \"Sábado, 02 de janeiro de 2010,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 219,
+    "totalChunks": 10000
+  }
+}

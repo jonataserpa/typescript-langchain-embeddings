@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4079",
+  "content": "so: nenhum elemento é > 5\n[1,2,3].some(function(x) { return x > 2; })       // => verdadeiro: alguns elementos são \n// > 3\n[].some(function(x) { return true; });           // => falso: sempre falso para []\nConsulte também\nArray.every(), Array.filter(), Array.forEach()\nArray.sort()\nclassifica os elementos de um array\nSinopse\narray.sort()\narray.sort(ordemclass)\n\n      Referência de JavaScript básica      721\nReferência de \nJavaScript básica\nArgumentos\nordemclass\nUma função opcional usada para especificar a ordem de classificação.\nRetorna\nUma referência para o array. Note que o array é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4079,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5087",
+  "content": "os, têm parentNode igual \na null.\nreadonly Node previousSibling\nO nó irmão que precede imediatamente esse no array childNodes[] do parentNode ou null, \ncaso esse nó não exista.\nstring textContent\nPara nós Text e Comment, essa propriedade é apenas um sinônimo da propriedade data. Para \nnós Element e DocumentFragment, consultar essa propriedade retorna o conteúdo de texto con-\ncatenado de todos os descendentes do nó Text. Configurar essa propriedade em um Element \nou DocumentFragment substitui todos os descendentes desse elemento ou fragmento por um \núnico nó Text novo contendo o valor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5087,
+    "totalChunks": 10000
+  }
+}

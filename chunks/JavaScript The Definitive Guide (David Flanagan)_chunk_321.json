@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_321",
+  "content": "s somente dentro do corpo da \nfunção. Elas são variáveis locais e têm escopo local. Os parâmetros de função também contam como \nvariáveis locais e estão definidos somente dentro do corpo da função.\nDentro do corpo de uma função, uma variável local tem precedência sobre uma variável global com \no mesmo nome. Se você declara uma variável local ou um parâmetro de função com o mesmo nome \nde uma variável global, ela efetivamente oculta a variável global:\nvar scope = \"global\";  // Declara uma variável global\nfunction checkscope() {\n    var scope = \"local\";        // Declara uma variável local com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 321,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1466",
+  "content": "pois per-\nmitem a execução de strings de código arbitrárias e essas strings não podem ser analisadas \nestaticamente.\n •   A palavra-chave \nthis é proibida ou restrita, pois funções (no modo não restrito) podem acessar \no objeto global por meio de \nthis. Impedir o acesso ao objeto global é um dos principais obje-\ntivos de qualquer sistema de caixa de areia.\n •   A instrução \nwith é frequentemente proibida em subconjuntos seguros, pois torna mais difícil \na verificação de código estático.\n •   Certas variáveis globais não são permitidas em subconjuntos seguros. Em JavaScript do lado \ndo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1466,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2584",
+  "content": "rotinas de tratamento definidas no \nmesmo objeto, o restante dessas rotinas de tratamento ainda será chamado, mas rotina alguma \nde tratamento de evento em qualquer outro objeto será chamada após a chamada de stopPropa-\ngation(). O método stopPropagation() pode ser chamado a qualquer momento durante a propa-\ngação de eventos. Ele funciona durante a fase de captura, no próprio alvo do evento, e durante a \nfase de borbulha.\nAntes do IE9, o IE não suporta o método stopPropagation(). Em vez disso, o objeto evento do IE \ntem uma propriedade chamada cancelBubble. Configure essa propriedade como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2584,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1381",
+  "content": "o caractere.\nAs seções a seguir descrevem os vários caracteres e metacaracteres usados em expressões regulares de \nJavaScript.\n10.1.1   Caracteres   literais\nConforme mencionado, todos os caracteres alfabéticos e dígitos coincidem com eles mesmos lite-\nralmente em expressões regulares. A sintaxe de expressão regular de JavaScript também aceita certos \ncaracteres não alfabéticos, por meio de sequências de escape que começam com uma barra invertida \n(\\). Por exemplo, a sequência \\n corresponde a um caractere de nova linha literal em uma string. A \nTabela 10-1 lista esses caracteres.\nTabela 10-1",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1381,
+    "totalChunks": 10000
+  }
+}

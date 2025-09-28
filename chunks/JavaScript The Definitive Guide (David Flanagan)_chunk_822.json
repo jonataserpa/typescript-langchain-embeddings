@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_822",
+  "content": "ado na Seção 6.5, um laço for/in pode retornar os nomes de propriedades herda-\ndas, como os nomes de métodos que foram adicionados a Array.prototype. Por isso, não se deve usar \num laço for/in em um array, a não ser que seja incluído um teste adicional para filtrar as proprieda-\ndes indesejadas. Você poderia usar um destes testes:\nfor(var i in a) {\n    if (!a.hasOwnProperty(i)) continue;          // Pula as propriedades herdadas\n    // corpo do laço aqui\n}\nfor(var i in a) {\n    // Pula i se não for um inteiro não negativo\n    if (String(Math.floor(Math.abs(Number(i)))) !== i) continue;\n}\nA",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 822,
+    "totalChunks": 10000
+  }
+}

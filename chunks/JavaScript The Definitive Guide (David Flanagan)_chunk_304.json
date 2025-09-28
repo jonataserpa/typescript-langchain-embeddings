@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_304",
+  "content": "// => \"/\\\\d+/g\"\nnew Date(2010,0,1).toString()       // => \"Sexta-feira 01 de Janeiro de 2010 00:00:00\n                                  //            GMT-0800    (PST)\"\nA outra função de conversão de objeto é chamada valueOf(). A tarefa desse método é menos bem \ndefinida: ele deve converter um objeto em um valor primitivo que represente o objeto, caso exista \ntal valor primitivo. Os objetos são valores compostos e a maioria deles não pode ser representada \npor um único valor primitivo; portanto, o método padrão valueOf() simplesmente retorna o próprio \nobjeto, em vez de retornar um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 304,
+    "totalChunks": 10000
+  }
+}

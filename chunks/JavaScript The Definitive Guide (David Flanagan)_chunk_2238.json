@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2238",
+  "content": "propriedade \ntype depende de como é configurado. Se o \nelemento <select> tem o atributo multiple, o usuário pode selecionar várias opções e a propriedade \ntype do objeto Select é “select-multiple”. Caso contrário, se o atributo multiple não está presente, \napenas um item pode ser selecionado e a propriedade \ntype é “select-one”.\n\n394          Parte II     JavaScript do lado do cliente\nDe certa forma, um elemento select-multiple é como um conjunto de elementos caixa de seleção \ne um elemento select-one é como um conjunto de elementos botão de ação. Contudo, as opções \nexibidas por um elemento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2238,
+    "totalChunks": 10000
+  }
+}

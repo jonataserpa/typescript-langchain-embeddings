@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3969",
+  "content": "antiga do Chrome\n// O Firefox não prefixa estas duas:\nvar IDBTransaction = window.IDBTransaction || window.webkitIDBTransaction;\nvar IDBKeyRange = window.IDBKeyRange || window.webkitIDBKeyRange;\n// Vamos usar esta função para registrar quaisquer erros de banco de dados que ocorrerem\nfunction logerr(e) {\n    console.log(\"IndexedDB error\" + e.code + \": \" + e.message);\n}\n// Esta função obtém o objeto banco de dados de forma assíncrona (criando e\n// inicializando o banco de dados, se necessário) e passa-o para a função f().\nfunction withDB(f) {\n    var request = indexedDB.open(\"zipcodes\");",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3969,
+    "totalChunks": 10000
+  }
+}

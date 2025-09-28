@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_345",
+  "content": "vez de “é avaliado como” \num valor.\nEste capítulo documenta todos os operadores JavaScript e também explica as expressões (como in-\ndexação de array e chamada de função) que não utilizam operadores. Se você já conhece outra lin-\nguagem de programação que utiliza sintaxe estilo C, vai ver que a sintaxe da maioria das expressões \ne operadores em JavaScript é familiar.\n4.1   Expressões   primárias\nAs expressões mais simples, conhecidas como expressões primárias, são autônomas – elas não incluem \noutras expressões mais simples. Em JavaScript, as expressões primárias são valores constantes ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 345,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_443",
+  "content": "u-\nlo 9 explica que em JavaScript as classes de objetos são definidas pela função construtora que as ini-\ncializa. Assim, o operando do lado direito de instanceof deve ser uma função. Aqui estão exemplos:\nvar d = new Date();   // Cria um novo objeto com a construtora Date()\n\n74          Parte     I     JavaScript     básica\nd instanceof Date;    // É avaliado como true; d foi criado com Date()\nd instanceof Object;  // É avaliado como true; todos os objetos são instâncias de Object\nd instanceof Number;  // É avaliado como false; d não é um objeto Number\nvar a = [1, 2, 3];    // Cria um array",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 443,
+    "totalChunks": 10000
+  }
+}

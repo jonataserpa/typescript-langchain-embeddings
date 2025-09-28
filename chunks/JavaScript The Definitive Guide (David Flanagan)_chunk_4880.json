@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4880",
+  "content": "ltar a localização do usuário\nSe uma tentativa de determinar a posição geográfica do usuário falhar, sua função callback de error \nserá chamada com um objeto GeolocationError descrevendo o que deu errado.\nConstantes\nEstas constantes são os valores possíveis da propriedade code:\nunsigned short PERMISSION_DENIED = 1\nO usuário não deu permissão para compartilhar sua localização.\nunsigned short POSITION_UNAVAILABLE = 2\nA localização não pode ser determinada por um motivo não especificado. Isso poderia ser cau-\nsado por um erro da rede, por exemplo.\n\n      Referência de JavaScript do lado do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4880,
+    "totalChunks": 10000
+  }
+}

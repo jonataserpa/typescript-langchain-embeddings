@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1812",
+  "content": "do IE5, eram renderizadas no modo Quirks. As páginas com definições de tipo \nde documento restritas (ou, por compatibilidade com futuras versões, páginas com definições de \ntipo de documento não reconhecidas) eram renderizadas no modo Standards. As páginas com de-\nfinição de tipo de documento HTML5 (\n<!DOCTYPE html>) são renderizadas no modo Standards em \ntodos os navegadores modernos.\nEssa distinção entre modo Quirks e modo Standards passou pelo teste do tempo. As novas versões do \nIE ainda implementam isso, outros navegadores modernos também e a existência desses dois modos \né reconhecida",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1812,
+    "totalChunks": 10000
+  }
+}

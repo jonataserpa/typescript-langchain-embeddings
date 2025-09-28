@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4272",
+  "content": ",14159265358979.\nMath.pow()\ncalcula x\ny\nSinopse\nMath.pow(x, y)\nArgumentos\nx\nO número a ser elevado a uma potência.\ny\nA potência a que x deve ser elevado.\nRetorna\nx elevado à potência y, x\ny\nDescrição\nMath.pow() calcula x elevado à potência y. Qualquer valor de x e y pode ser passado para Math.pow(). \nContudo, se o resultado é um número imaginário ou complexo, Math.pow() retorna NaN. Na prática, \nisso significa que, se x é negativo, y deve ser um inteiro positivo ou negativo. Lembre-se também \nde que expoentes maiores podem facilmente causar estouro em ponto flutuante e retornar o valor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4272,
+    "totalChunks": 10000
+  }
+}

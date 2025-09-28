@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2857",
+  "content": "imedout) return;                   // Ignora requisições canceladas.\n        clearTimeout(timer);                    // Cancela tempo-limite pendente.\n        if (request.status === 200)              // Se a requisição foi bem-sucedida\n            callback(request.responseText);     // passa a resposta para a callback.\n    };\n    request.send(null);                         // Envia a requisição agora\n}\n18.1.6   Requisitando HTTP de várias origens\nComo parte da política de segurança da mesma origem (Seção 13.6.2), o objeto XMLHttpRequest \nnormalmente pode fazer requisições HTTP somente para o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2857,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1059",
+  "content": "// Este é nosso array de números\n// A média é a soma dos elementos dividida pelo número de elementos\nvar total = 0;\nfor(var i = 0; i < data.length; i++) total += data[i];\nvar mean = total/data.length;                   // A média de nossos dados é 3\n// Para calcularmos o desvio padrão, primeiramente somamos os quadrados do\n// desvio de cada elemento em relação à média.\ntotal = 0;\nfor(var i = 0; i < data.length; i++) {\n    var deviation = data[i] – mean;\n    total += deviation * deviation;\n}\nvar stddev = Math.sqrt(total/(data.length-1));   // O desvio padrão é 2\nPodemos efetuar esses",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1059,
+    "totalChunks": 10000
+  }
+}

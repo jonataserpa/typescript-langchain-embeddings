@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3506",
+  "content": "elemento <audio> ou <video>. Se não ocorreu erro, error é null. Caso contrário, é \num objeto com uma propriedade numérica code que descreve o erro. O objeto erro também define \nconstantes que descrevem os possíveis códigos de erro:\nConstanteValorDescrição\nMEDIA_ERR_ABORTED\n1O usuário pediu ao navegador para parar de carregar a mídia.\nMEDIA_ERR_NETWORK\n2A mídia é do tipo correto, mas um erro da rede a impediu de ser \ncarregada.\nMEDIA_ERR_DECODE\n3A mídia é do tipo correto, mas um erro de codificação a impediu de ser \ndecodificada e reproduzida.\nMEDIA_ERR_SRC_NOT_SUPPORTED\n4A mídia especificada",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3506,
+    "totalChunks": 10000
+  }
+}

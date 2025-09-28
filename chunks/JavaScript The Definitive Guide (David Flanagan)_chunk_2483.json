@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2483",
+  "content": "ragenter”, \n“dragover” e “drop”. Os aplicativos que querem definir origens de arrasto ou destinos de soltura per-\nsonalizados devem manipular alguns desses eventos. Os elementos \n<video> e <audio> de HTML5 \n(Seção 21.2) definem uma longa lista de tipos de evento associados, como “waiting”, “playing”, “se-\neking”, “volumechange”, etc. Esses eventos normalmente só têm interesse para aplicativos Web que \nquerem definir controles personalizados para reprodução de vídeo ou áudio.\nRotinas de tratamento de cronômetros e erro\nAs rotinas de tratamento de cronômetros e erro (ambas descritas no Capítulo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2483,
+    "totalChunks": 10000
+  }
+}

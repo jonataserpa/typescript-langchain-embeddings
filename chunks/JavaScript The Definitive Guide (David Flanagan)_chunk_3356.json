@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3356",
+  "content": "imagine um aplicativo de edição de \nimagens baseado na Web que permite ao usuário exibir paletas de ferramenta em janelas separadas. \nQuando o usuário seleciona uma ferramenta, o aplicativo usa localStorage para salvar o estado atual \ne para notificar as outras janelas de que uma nova ferramenta foi selecionada.\n20.2   Cookies\nUm cookie é um pequeno volume de dados nomeados, armazenados pelo navegador Web e asso-\nciados a uma página Web ou site em especial. Os cookies foram projetados originalmente para \nprogramação no lado do servidor e, no nível mais baixo, são implementados como uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3356,
+    "totalChunks": 10000
+  }
+}

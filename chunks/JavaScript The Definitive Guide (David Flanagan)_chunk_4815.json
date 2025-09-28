@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4815",
+  "content": "do \ndo cliente\nEventSource\numa conexão Comet com um servidor HTTP EventTarget\nEventSource representa uma conexão HTTP de longa duração, por meio da qual um servidor Web \npode “enviar” mensagens textuais. Para usar esses “eventos enviados pelo servidor”, passe o URL do \nservidor para a construtora \nEventSource() e, em seguida, registre uma rotina de tratamento de evento \nmensagem no objeto EventSource resultante.\nEventos enviados pelo servidor são novos e, quando este livro estava sendo escrito, não eram supor-\ntados em todos os navegadores.\nConstrutora\nnew EventSource(string url)\nCria um novo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4815,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4542",
+  "content": "els \njá existentes no canvas. A palavra \nresultado se refere aos pixels resultantes da combinação de origem \ne destino. Nas fórmulas, a letra S é o pixel de origem, D é o pixel de destino, R é o pixel resultante, \u0002\ns\n \né o canal alfa (a opacidade) do pixel de origem e \u0002\nd\n é o canal alfa do destino:\nValorFórmulaSignificado\n\"copy\"R = S\nDesenha o pixel de origem, ignorando o pixel de \ndestino.\n\"destination-atop\"\nR=(1-\u0002\nd\n)S + \u0002\ns\nD\nDesenha o pixel de origem sob o destino. Se a origem é \ntransparente, o resultado também é transparente.\n(continua)\n\n854          Parte IV     Referência de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4542,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1762",
+  "content": "usam isto em seu lugar\n        window.attachEvent(\"onload\",    f);\n}\n// Começa configurando um flag que indica se o documento ainda não está carregado.\nonLoad.loaded = false;\n// E registra uma função para configurar o flag quando o documento estiver carregado.\nonLoad(function() { onLoad.loaded = true; });\n13.3.3   Modelo de threading de JavaScript do lado do cliente\nJavaScript básica não contém qualquer mecanismo de threading e JavaScript do lado do cliente \ntradicionalmente também não tem um mecanismo definido. A HTML5 define “Web workers”, os \nquais servem como um tipo de thread de segundo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1762,
+    "totalChunks": 10000
+  }
+}

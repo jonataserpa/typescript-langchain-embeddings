@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1474",
+  "content": "conta apenas com verificação estática e utiliza o JSLint (http://jslint.org) como verificador. \nEle proíbe o acesso à maioria das variáveis globais e define uma variável \nADSAFE que dá acesso \na uma API segura, incluindo métodos DOM de propósito especial. O ADsafe não é am-\nplamente utilizado, mas foi uma prova de conceito influente que teve impacto sobre outros \nsubconjuntos seguros.\ndojox.secure\nO subconjunto dojox.secure (http://www.sitepen.com/blog/2008/08/01/secure-mashups-with-do-\njoxsecure/) é uma extensão do kit de ferramentas Dojo (http://dojotoolkit.org) e foi inspirado no \nADsafe.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1474,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5219",
+  "content": "a  para  janelas  criadas  por  \nshowModalDialog() e tem a string vazia como valor padrão. Quando um objeto Window de \ndiálogo é fechado (consulte o método close()), o valor dessa propriedade se torna o valor de \nretorno de showModalDialog().\nreadonly Screen screen\nO objeto Screen que especifica informações sobre a tela: o número de pixels e o número de \ncores disponíveis. Consulte Screen para ver os detalhes.\nreadonly long screenX\nreadonly long screenY\nAs coordenadas do canto superior esquerdo da janela na tela.\nreadonly Window self\nUma referência para essa própria janela. É um sinônimo da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5219,
+    "totalChunks": 10000
+  }
+}

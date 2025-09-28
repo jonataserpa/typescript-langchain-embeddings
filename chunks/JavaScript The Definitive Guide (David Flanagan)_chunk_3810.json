@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3810",
+  "content": "do \npostMessage() e uma propriedade de tratamento de \nevento \nonmessage que são iguais aos do objeto Worker, mas funcionam na direção oposta: chamar \npostMessage() dentro de um worker gera um evento mensagem fora dele e as mensagens enviadas \nde fora do worker são transformadas em eventos e enviadas para a rotina de tratamento \nonmessage. \nNote que, como WorkerGlobalScope é o objeto global para um worker, \npostMessage() e onmessage \nparecem uma função global e uma variável global para o código do worker.\nA função close() permite que um worker termine por si só e tem efeito semelhante ao",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3810,
+    "totalChunks": 10000
+  }
+}

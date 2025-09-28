@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2998",
+  "content": "ário do que acontece com outros métodos \nsetter, você não pode passar uma função para scrollTop() ou scrollLeft().\nPodemos usar \nscrollTop() como getter e como setter, junto com o método height(), para definir um \nmétodo que rola a janela para cima ou para baixo pelo número especificado de páginas:\n// Rola a janela por n páginas. n pode ser fracionário ou negativo\nfunction page(n) {\n    var w = $(window);        // Empacota a janela em um objeto jQuery\n    var pagesize = w.height();         // Obtém o tamanho de uma página\n    var current = w.scrollTop();       // Obtém a posição atual da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2998,
+    "totalChunks": 10000
+  }
+}

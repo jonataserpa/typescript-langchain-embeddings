@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1248",
+  "content": "para a construtora. Contudo, a \nconstrutora tem uma infeliz ambiguidade: não podemos utilizá-la para criar um conjunto que tenha \num array como seu único membro. (Para fazer isso, precisaríamos criar um conjunto vazio e, então, \nchamar o método add() explicitamente.)\nNo caso de números complexos inicializados com coordenadas polares, sobrecarregar a construtora \nnão é viável. As duas representações de números complexos envolvem dois números em ponto flutu-\nante e, a não ser que adicionemos um terceiro argumento na construtora, não há modo de ela exami-\nnar seu argumentos e determinar qual",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1248,
+    "totalChunks": 10000
+  }
+}

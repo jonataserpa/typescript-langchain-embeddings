@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5259",
+  "content": "nome.\nvoid clearTimeout(long alça)\nEsse método é exatamente como o método Window de mesmo nome.\nvoid close()\nEsse método coloca o worker em um estado “closing” especial. Nesse estado, ele não vai disparar \nquaisquer timers nem eventos. O script continua a executar até que retorne para o laço de eventos do \nworker, no ponto em que o worker para.\nvoid importScripts(string urls...)\nPara cada um dos urls especificados, esse método soluciona o URL em relação a location do worker \ne, então, carrega o conteúdo do URL e executa esse conteúdo como código JavaScript. Note que esse \né um método",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5259,
+    "totalChunks": 10000
+  }
+}

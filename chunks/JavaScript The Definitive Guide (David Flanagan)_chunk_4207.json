@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4207",
+  "content": "dos métodos, construtoras e a pro-\npriedade prototype das funções. Consulte esses capítulos para ver os detalhes completos. Note que, \nembora os objetos função possam ser criados com a construtora Function() descrita aqui, isso não \né eficiente e a maneira preferida de definir funções, na maioria dos casos, é com uma instrução de \ndefinição de função ou com uma função literal.\nEm JavaScript 1.1 e posteriores, o corpo de uma função recebe automaticamente uma variável local \nchamada \narguments que se refere a um objeto Arguments. Esse objeto é um array dos valores passa-\ndos como argumentos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4207,
+    "totalChunks": 10000
+  }
+}

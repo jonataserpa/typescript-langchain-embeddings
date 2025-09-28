@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_402",
+  "content": "do pode depender da ordem em que as operações são efetuadas. Por \nexemplo:\n1 + 2 + \" blind mice\"; // => \"3 blind mice\"\n1 + (2 + \" blind mice\");        // => \"12 blind mice\"\nA primeira linha não tem parênteses e o operador + tem associatividade da esquerda para a direita, \nde modo que os dois números são primeiro somados e a soma é concatenada com a string. Na se-\ngunda linha, os parênteses alteram a ordem das operações: o número 2 é concatenado com a string \npara produzir uma nova string. Então, o número 1 é concatenado com a nova string para produzir \no resultado final.\n4.8.2   Operadores",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 402,
+    "totalChunks": 10000
+  }
+}

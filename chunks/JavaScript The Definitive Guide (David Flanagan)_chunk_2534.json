@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2534",
+  "content": "ocê pode configurar uma propriedade de tratamento de evento em código JavaScript ou, para \nelementos do documento, pode configurar o atributo correspondente diretamente em HTML. \nPara registro de rotina de tratamento por meio de chamada de método, existe um método pa-\ndrão, chamado \naddEventListener(), que é suportado por todos os navegadores, exceto o IE8 e \nanteriores, e um método diferente, chamado attachEvent(), para todas as versões do IE anteriores \nao IE9.\n\nCapítulo 17     Tratando eventos      445\nJavaScript do\n lado do cliente\n17.2.1   Configurando propriedades de tratamento de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2534,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2425",
+  "content": "nome de classe individuais do atributo class do elemento. \ntoggle() adiciona um nomes de classes se ainda não estiver presente e, caso contrário, o remove. Por \nfim, o método \ncontains() testa se o atributo class contém um nome de classe especificado.\nAssim como outros tipos de coleção DOM, um DOMTokenList é uma representação “dinâmica” \ndo conjunto de classes do elemento e não um instantâneo estático das classes no momento em que \na propriedade \nclassList é consultada. Se você obtém um DOMTokenList da propriedade classList \nde um elemento e depois altera a propriedade className desse",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2425,
+    "totalChunks": 10000
+  }
+}

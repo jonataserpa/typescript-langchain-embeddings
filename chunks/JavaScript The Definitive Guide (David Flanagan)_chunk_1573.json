@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1573",
+  "content": "cações e atributos sejam adicionados:\n// Modifica a marcação <element> de Hydrogen para adicionar um novo atributo\n// e um novo elemento filho, para que apareça como segue:\n//\n// <element id=\"1\" symbol=\"H\">\n//    <name>Hydrogen</name>\n//    <weight>1.00794</weight>\n// </element>\n//\npt.element[0].@symbol = \"H\";\npt.element[0].weight = 1.00794;\nRemover atributos e marcações também é fácil com o operador delete padrão:\ndelete pt.element[0].@symbol;   // exclui um atributo\ndelete pt..weight;     // exclui todas as marcações <weight>\nE4X é projetada de modo que seja possível fazer as manipulações",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1573,
+    "totalChunks": 10000
+  }
+}

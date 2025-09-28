@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1640",
+  "content": "ntrada\n    var output = fs.createWriteStream(filename2);      // Fluxo de saída\n    input.on(\"data\", function(d) { output.write(d); }); // Copia in em out\n    input.on(\"error\", function(err) { throw err; });    // Lança erros\n    input.on(\"end\", function() {     // Quando a entrada termina\n        output.end();           // fecha a saída\n         if (done) done();             // E notifica o retorno de chamada\n    });\n}\n\n292          Parte     I     JavaScript     básica\nO módulo “fs” também inclui vários métodos para listar diretórios, consultar atributos de arquivo, \netc. O programa Node a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1640,
+    "totalChunks": 10000
+  }
+}

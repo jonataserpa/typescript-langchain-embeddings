@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4288",
+  "content": "ritméti-\nca ou função matemática gera um valor negativo maior do que o maior número representável em \nJavaScript (isto é, mais negativo do que -Number.MAX_VALUE).\nJavaScript exibe o valor \nNEGATIVE_INFINITY como -Infinity. Esse valor se comporta matematicamen-\nte como infinito; por exemplo, qualquer coisa multiplicada por infinito é infinito e qualquer coisa \ndividida por infinito é zero. Em ECMAScript v1 e posteriores, você também pode usar -Infinity, \nem vez de Number.NEGATIVE_INFINITY.\nConsulte também\nInfinity,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4288,
+    "totalChunks": 10000
+  }
+}

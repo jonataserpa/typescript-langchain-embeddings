@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2904",
+  "content": "= line.indexOf(\":\"), name, value=\"\";\n                if (pos == 0) continue; // Ignora comentários\n                if (pos > 0) {         // campo nome:valor\n                       name    =    line.substring(0,pos);\n                       value    =    line.substring(pos+1);\n                     if (value.charAt(0) == \" \") value = value.substring(1);\n      }\n                else name = line;   // somente nome de campo\n                  switch(name)    {\n                case \"event\": eventName = value; break;\n                case \"data\": data += value + \"\\n\"; break;\n                case",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2904,
+    "totalChunks": 10000
+  }
+}

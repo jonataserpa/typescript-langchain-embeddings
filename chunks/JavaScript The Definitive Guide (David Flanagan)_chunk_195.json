@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_195",
+  "content": "−324\n.\nO  formato  numérico  de  JavaScript  permite  representar  exatamente  todos  os  inteiros  entre  \n−9007199254740992 (−2\n53\n) e 9007199254740992 (2\n53\n), inclusive. Se você usar valores inteiros \nmaiores do que isso, poderá perder a precisão nos dígitos à direita. Note, entretanto, que certas ope-\nrações em JavaScript (como indexação de arrays e os operadores bit a bit descritos no Capítulo 4) são \nefetuadas com inteiros de 32 bits.\nQuando um número aparece diretamente em um programa JavaScript, ele é chamado de literal \nnumérico. JavaScript aceita literais numéricos em vários",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 195,
+    "totalChunks": 10000
+  }
+}

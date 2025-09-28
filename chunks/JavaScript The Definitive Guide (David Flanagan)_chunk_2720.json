@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2720",
+  "content": "ratamento são chamadas como métodos do documento ou elemento do \n* documento em que o mapa de teclas está instalado e recebem dois argumentos:\n*    1) o objeto evento para o evento keydown\n*    2) o identificador de tecla da tecla que foi pressionada\n* O valor de retorno da rotina de tratamento se torna o valor de retorno da rotina de \n* tratamento de keydown.\n* Se uma função de tratamento retornar false, o mapa de teclas vai parar de borbulhar e\n* vai cancelar qualquer ação padrão associada ao evento keydown.\n*\n* Limitações\n*\n* Não é possível vincular uma função de tratamento a todas as",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2720,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4398",
+  "content": "ncontrar uma coincidência (ou outra coincidên-\ncia). Se você começa a pesquisar uma nova string após uma coincidência bem-sucedida de alguma \noutra string, precisa configurar essa propriedade como 0 explicitamente.\nConsulte também\nRegExp.exec(), RegExp.test()\n\n818          Parte III     Referência de JavaScript básica\nRegExp.source\no texto da expressão regular\nSinopse\nexpreg.source\nDescrição\nsource é uma propriedade de string somente para leitura de objetos RegExp. Ela contém o texto do \npadrão de RegExp. Esse texto não inclui as barras delimitadoras utilizadas em expressões regulares",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4398,
+    "totalChunks": 10000
+  }
+}

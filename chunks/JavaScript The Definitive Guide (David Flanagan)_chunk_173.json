@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_173",
+  "content": "uns casos surpreendentes. O código a seguir parece \nser duas instruções distintas, separadas por uma nova linha:\nvar y = x + f\n(a+b).toString()\nPorém, os parênteses na segunda linha de código podem ser interpretados como uma chamada de \nfunção de f da primeira linha, sendo que JavaScript interpreta o código como segue:\nvar y = x + f(a+b).toString();\nMuito provavelmente, essa não é a interpretação pretendida pelo autor do código. Para funcionarem \ncomo duas instruções distintas, é necessário um ponto e vírgula explícito nesse caso.\nEm geral, se uma instrução começa com (, [, /, + ou -, há a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 173,
+    "totalChunks": 10000
+  }
+}

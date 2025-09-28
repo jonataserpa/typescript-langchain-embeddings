@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3882",
+  "content": "não pode ser testado, esta seção é apenas um esboço simples da API XHR2 \npara trabalhar com Blobs.\nO Exemplo 22-9 mostra a técnica básica para baixar um Blob da Web. Compare esse exemplo com \no Exemplo 18-2, que baixa o conteúdo de um URL como texto puro:\nExemplo 22-9 Baixando um Blob com XMLHttpRequest\n// Obtém (com GET) o conteúdo do url como um Blob e passa-o para a função callback \n// especificada.\n// Este código não está testado: nenhum navegador suportava essa API quando ele foi \n// escrito.\nfunction getBlob(url, callback) {\n    var xhr = new XMLHttpRequest();  // Cria novo objeto XHR",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3882,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5247",
+  "content": "sted igual \na \nfalse. No entanto, quando uma página carregada anteriormente é restaurada da cache na \nmemória do navegador, nenhum evento load é disparado (pois a página colocada na cache já \nestá em seu estado loaded) e um evento pageshow é disparado com um objeto evento que tem \nsua propriedade \npersisted configurada como true. Consulte PageTransitionEvent.\nonpopstate\nQuando o navegador carrega uma nova página ou restaura um estado salvo com History.\npushState() ou History.replaceState(). Consulte PopStateEvent.\nonresize\nQuando o usuário muda o tamanho da janela do navegador\nonscroll\nQuando",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5247,
+    "totalChunks": 10000
+  }
+}

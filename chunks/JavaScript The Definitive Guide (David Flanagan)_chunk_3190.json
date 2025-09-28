@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3190",
+  "content": "ento XML como corpo da requisição, também precisa configurar esta opção.\ntimeout\nUm tempo-limite, em milissegundos. Se esta opção estiver configurada e a requisição não tiver \nterminado dentro do limite de tempo especificado, a requisição será cancelada e a callback \nerror será chamada com status “timeout”. O tempo-limite padrão é 0, ou seja, as requisições \ncontinuam até terminarem e nunca são canceladas.\ncache\nPara requisições GET, se esta opção estiver configurada como false, a jQuery vai adicionar um \nparâmetro \n_= no URL ou vai substituir um parâmetro existente por esse nome. O valor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3190,
+    "totalChunks": 10000
+  }
+}

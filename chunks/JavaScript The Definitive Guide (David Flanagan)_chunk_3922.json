@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3922",
+  "content": "cumento contêiner. Todos \nos documentos ou aplicativos Web de mesma origem (host, porta e protocolo) compartilham um \nsistema de arquivos. Dois documentos ou aplicativos de origens diferentes têm sistemas de arquivos \ncompletamente distintos e separados. O sistema de arquivo também é isolado do restante dos arqui-\nvos na unidade de disco rígido do usuário: não há como um aplicativo Web “escapar” do diretório-\n-raiz local ou acessar arquivos arbitrários de algum modo.\nNote que essas funções têm “request” em seus nomes. Na primeira vez que uma delas é chamada, \no navegador pode solicitar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3922,
+    "totalChunks": 10000
+  }
+}

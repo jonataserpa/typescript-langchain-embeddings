@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_783",
+  "content": "etorna esse valor. As classes Date e Number definem versões personalizadas de to-\nLocaleString() que tentam formatar números, datas e horas de acordo com as convenções locais. \nArray define um método toLocaleString() que funciona como toString(), exceto que formata os \nelementos do array chamando seus métodos toLocaleString(), em vez de seus métodos toString().\n6.10.3   O método toJSON()\nObject.prototype não define realmente um método toJSON(), mas o método JSON.stringify() (con-\nsulte a Seção 6.9) procura um método toJSON() em todo objeto que é solicitado a serializar. Se esse \nmétodo existe",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 783,
+    "totalChunks": 10000
+  }
+}

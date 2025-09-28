@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_723",
+  "content": "opriedade de dados normal\n    data_prop:    value,\n    // Uma propriedade de acesso definida como um par de funções\n    get accessor_prop() {  /* corpo da função aqui */ },\n    set accessor_prop(value) {  /* corpo da função aqui */ }\n};\nAs propriedades de acesso são definidas como uma ou duas funções cujo nome é igual ao nome \nda propriedade e com a palavra-chave function substituída por get e/ou set. Note que não são \nusados dois-pontos para separar o nome da propriedade das funções que acessam essa proprie-\ndade, mas que uma vírgula ainda é exigida depois do corpo da função, para separar o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 723,
+    "totalChunks": 10000
+  }
+}

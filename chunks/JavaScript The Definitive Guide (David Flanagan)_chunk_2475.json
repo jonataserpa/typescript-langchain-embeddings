@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2475",
+  "content": "cífico, como o mouse ou o \nteclado.  Eles  incluem  tipos  de  evento  legados,  como  “mousedown”,  “mousemove”,  “mouseup”,  \n“keydown”, “keypress” e “keyup”, além de novos eventos de toque específicos, como “touchmove” \ne “gesturechange”.\nEventos de entrada independentes de dispositivo\nSão os eventos de entrada que não estão diretamente ligados a um dispositivo de entrada específico. \nO evento click, por exemplo, indica que um link ou botão (ou outro elemento do documento) foi \nativado. Isso é feito frequentemente por meio de um clique de mouse, mas também poderia ser feito \npelo teclado",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2475,
+    "totalChunks": 10000
+  }
+}

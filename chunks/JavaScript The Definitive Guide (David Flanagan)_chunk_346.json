@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_346",
+  "content": "em \noutras expressões mais simples. Em JavaScript, as expressões primárias são valores constantes ou \nliterais, certas palavras-chave da linguagem e referências a variáveis.\nCapítulo 4\nExpressões e operadores\n\nCapítulo 4     Expressões e operadores      57\nJavaScript básica\nOs literais são valores constantes incorporados diretamente em seu programa. São como segue:\n1.23         // Um número literal\n\"hello\"      // Uma string literal\n/pattern/    // Uma expressão regular literal\nA sintaxe de JavaScript para números literais foi abordada na Seção 3.1. As strings literais foram do-\ncumentadas na",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 346,
+    "totalChunks": 10000
+  }
+}

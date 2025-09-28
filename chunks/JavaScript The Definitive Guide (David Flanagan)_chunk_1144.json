@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1144",
+  "content": "todos os objetos. \nContudo, isso não é recomendado, pois antes de ECMAScript 5 não há uma maneira de tornar esses \nmétodos complementares não enumeráveis e, se você adicionar propriedades em Object.prototype, \nessas propriedades serão reportadas por todos os laços for/in. Na Seção 9.8.1, vamos ver um exem-\nplo de uso do método Object.defineProperty() de ECMAScript 5 para aumentar Object.prototype \ncom segurança.\nO fato de as classes definidas pelo ambiente hospedeiro (como o navegador Web) poderem ser au-\nmentadas dessa maneira depende da implementação. Em muitos navegadores Web, por exemplo,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1144,
+    "totalChunks": 10000
+  }
+}

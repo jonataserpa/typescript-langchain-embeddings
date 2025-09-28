@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4144",
+  "content": "r configurado em data. Esse argumento deve ser um \ninteiro que inclua o século, como 1999, e não uma abreviação, como 99.\nmês\nUm inteiro opcional entre 0 e 11 usado como o novo valor (em hora universal) do campo de \nmês de data. Note que os meses são numerados a partir de 0, enquanto os dias dentro do mês \nsão numerados a partir de 1.\ndia\nUm inteiro opcional entre 1 e 31 usado como o novo valor (em hora universal) do campo de \ndia do mês de data.\nRetorna\nA representação interna da data ajustada em milissegundos.\nDate.setUTCHours()\nconfigura os campos de horas, minutos, segundos e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4144,
+    "totalChunks": 10000
+  }
+}

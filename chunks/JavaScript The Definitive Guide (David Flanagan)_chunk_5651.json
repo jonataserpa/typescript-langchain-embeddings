@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5651",
+  "content": "o de estilo, \n421\nstrings literais, 35\n    sequências de escape em, 36\nstrings vazias, 35\nstroke( ), CanvasRenderingContext2D, 619, 634, \n863\nstrokeRect( ), CanvasRenderingContext2D, 631, \n863\nstrokeText( ), CanvasRenderingContext2D, 636, \n863\nsubarray( ), objeto TypedArray, 674, 982\nsubcaminhos (Canvas), 618\nsubclasses, 222\n    composição    versus subclasses, 227\n    construtora e encadeamento de métodos, 225–\n227\n    criando com recursos de ECMAScript 5, 237\n    defi nindo, 223\n    hierarquias de classes e classes abstratas, 228–232\nsubconjunto de segurança ADsafe, 261\nsubconjunto seguro",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5651,
+    "totalChunks": 10000
+  }
+}

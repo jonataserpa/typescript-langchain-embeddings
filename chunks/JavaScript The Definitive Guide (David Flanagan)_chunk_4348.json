@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4348",
+  "content": "reeze(). Também é possível \nselar um objeto passando-o para Object.preventExtensions() e depois usar Object.defineProperty() \npara tornar todas as suas propriedades impossíveis de excluir.\nNote que esse não é um método a ser chamado em um objeto: é uma função global e você deve \npassar um objeto para ela.\nConsulte também\nObject.defineProperty(), Object.freeze(), Object.isExtensible(), Object.isFrozen(), \nObject.preventExtensions(), Object.seal(), Seção 6.8.3\nObject.keys() ECMAScript 5\nretorna nomes de propriedades próprias enumeráveis\nSinopse\nObject.keys(o)\nArgumentos\no\nUm objeto.\nRetorna\nUm",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4348,
+    "totalChunks": 10000
+  }
+}

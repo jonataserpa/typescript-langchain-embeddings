@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4851",
+  "content": "length\nO número de controles de formulário representados pela propriedade elements. Os elementos do \nformulário se comportam como se fossem eles próprios objetos semelhantes a um array de contro-\nles de formulário e, para um formulário f e um inteiro n, a expressão f[n] é igual a f.elements[n].\nstring method\nO método HTTP usado para enviar o formulário para o URL action. É “get” ou “post”.\nstring name\nO nome do formulário, conforme especificado pelo atributo HTML name. O valor dessa pro-\npriedade pode ser usado como nome de propriedade no objeto documento. O valor dessa \npropriedade de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4851,
+    "totalChunks": 10000
+  }
+}

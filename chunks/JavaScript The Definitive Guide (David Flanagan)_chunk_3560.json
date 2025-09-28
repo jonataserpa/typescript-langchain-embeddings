@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3560",
+  "content": "em um \n<canvas>.\n •   Como “recortar” elementos gráficos para que nenhum desenho seja feito fora de uma região \nespecificada.\n •   Como adicionar sombras projetadas em seus elementos gráficos.\n •   Como desenhar (e opcionalmente mudar a escala) imagens em um canvas e como extrair o \nconteúdo de um canvas como uma imagem.\n •   Como controlar o processo de composição por meio do qual os pixels recentemente desenha-\ndos (translúcidos) são combinados com os pixels existentes no canvas.\n •   Como consultar e configurar os valores brutos de vermelho, verde, azul e alfa (transparência) \ndos pixels",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3560,
+    "totalChunks": 10000
+  }
+}

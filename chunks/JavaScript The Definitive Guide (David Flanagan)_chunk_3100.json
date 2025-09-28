@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3100",
+  "content": "isuais animados se tornaram a norma em muitos sites, mas nem todos os usuários gostam \ndeles: alguns acham que atrapalham e outros sentem enjoo. Usuários deficientes podem achar que as ani-\nmações interferem na tecnologia auxiliar, como leitores de tela, e usuários com hardware antigo podem \nachar que eles exigem poder de processamento demais. Como uma cortesia para seus usuários, você em \ngeral deve manter suas animações simples e moderadas, e também dar a opção de desabilitá-las comple-\ntamente. A jQuery torna fácil desabilitar todos os efeitos globalmente: basta configurar \njQuery.fx.off",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3100,
+    "totalChunks": 10000
+  }
+}

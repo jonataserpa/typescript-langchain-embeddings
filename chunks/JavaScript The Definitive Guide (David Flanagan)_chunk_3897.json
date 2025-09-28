@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3897",
+  "content": "// ajusta seu tamanho e\n                  document.body.appendChild(this);             // insere no documento.\n                revokeBlobURL(this.src);                 // Mas não vaza memória!\n   }\n  }\n        droptarget.classList.remove(\"active\");                // Retira o realce de \n// droptarget\n        return    false;                              // Tratamos da soltura\n }\n};\n</script>\n<style> /* Estilos simples para o alvo de soltura de arquivo */\n#droptarget { border: solid black 2px; width: 200px; height: 200px; }\n#droptarget.active { border: solid red 4px; }\n\n682",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3897,
+    "totalChunks": 10000
+  }
+}

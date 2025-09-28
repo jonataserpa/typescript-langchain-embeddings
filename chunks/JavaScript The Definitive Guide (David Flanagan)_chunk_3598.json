@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3598",
+  "content": "nos. Para converter graus \nem radianos, divida por 180 e multiplique por \nMath.PI.) O método scale() aumenta ou diminui \ndistâncias ao longo dos eixos X ou Y.\n\nCapítulo 21     Mídia e gráficos em scripts      625\nJavaScript do\n lado do cliente\nFigura 21-7 Transformações de sistema de coordenadas.\nPassar um fator de escala negativo para o método scale() rebate esse eixo em torno da origem, como \nse fosse refletido em um espelho. Isso foi feito no canto inferior esquerdo da Figura 21-7: translate() \nfoi usado para mover a origem para o canto inferior esquerdo do canvas e, então, scale() foi",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3598,
+    "totalChunks": 10000
+  }
+}

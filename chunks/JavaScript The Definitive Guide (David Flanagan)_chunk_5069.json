@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5069",
+  "content": "nica instância do objeto Navigator, a qual pode ser referenciada \npor meio da propriedade \nnavigator de qualquer objeto Window.\nHistoricamente, o objeto Navigator tem sido usado para “farejar clientes”, para executar código \ndiferente, dependendo do navegador que esteja sendo usado. O Exemplo 14-3 mostra uma maneira \nsimples de fazer isso e o texto que acompanha na Seção 14.4 descreve as armadilhas de contar com \no objeto Navigator. Uma estratégia melhor para compatibilidade entre navegadores está descrita na \nSeção 13.4.3.\nPropriedades\nreadonly string appName\nO nome do navegador. Para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5069,
+    "totalChunks": 10000
+  }
+}

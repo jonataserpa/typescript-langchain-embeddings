@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3201",
+  "content": "da. O primeiro argumento dessa callback é o objeto XMLHttpRequest da requisição (se ele \nusou um). O segundo argumento é o código de status jQuery. Pode ser “error” para um erro \nde HTTP, “timeout” para um tempo-limite e “parsererror” para um erro ocorrido durante \na análise da resposta do servidor. Se um documento XML ou objeto JSON não estiver bem \nformado, por exemplo, o código de status será “parsererror”. Nesse caso, o terceiro argumento \nda callback \nerror será o objeto Error lançado. Note que as requisições com dataType “script” \nque retornam código JavaScript inválido não causam",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3201,
+    "totalChunks": 10000
+  }
+}

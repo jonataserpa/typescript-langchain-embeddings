@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1583",
+  "content": "// Lê o conteúdo textual de um URL e retorna como uma string\nspawn(f);             // Executa f() ou carrega e executa o arquivo f em uma nova thread\nrunCommand (cmd,[args...]); // Executa um comando de sistema com zero ou mais args de  \n                           //linha de comando\nquit()               // Faz o Rhino encerrar\nObserve a função print(): vamos usá-la nesta seção em lugar de console.log(). O Rhino representa \npacotes e classes Java como objetos JavaScript:\n// Global Packages é a raiz da hierarquia de pacotes Java\nPackages.any.package.name       // Qualquer pacote do CLASSPATH",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1583,
+    "totalChunks": 10000
+  }
+}

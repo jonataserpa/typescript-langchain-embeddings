@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1626",
+  "content": "// Idem: addListener() é sinônimo de on()\nemitter.once(name, f)   // Apenas uma vez; em seguida, f é removida automaticamente\nemitter.listeners(name)         // Retorna um array de funções de rotina de tratamento\nemitter.removeListener(name, f) // Anula o registro da rotina de tratamento de evento f\nemitter.removeAllListeners(name) // Remove todas as rotinas de tratamento de eventos name\nO objeto process mostrado anteriormente é um emissor de evento. Aqui estão exemplos de rotinas \nde tratamento para alguns de seus eventos:\n// O evento \"exit\" é enviado antes que o Node",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1626,
+    "totalChunks": 10000
+  }
+}

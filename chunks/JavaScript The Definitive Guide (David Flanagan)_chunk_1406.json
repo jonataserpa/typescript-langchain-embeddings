@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1406",
+  "content": "is letras minúsculas, seguidas de um ou mais dígitos. \nVocê poderia usar o padrão \n/[a-z]+\\d +/. Mas suponha que você só se importe com os dígitos no \nfinal de cada correspondência. Se você colocar essa parte do padrão nos parênteses (/[a-z]+(\\d+)/), \npoderá extrair os dígitos de qualquer correspondência que encontrar, conforme explicado posterior-\nmente.\nUm uso relacionado de subexpressões entre parênteses é permitir a referência a uma subexpressão \nanterior, posteriormente na mesma expressão regular. Isso é feito colocando-se um ou mais dígitos \ndepois do caractere \n\\. Os dígitos se referem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1406,
+    "totalChunks": 10000
+  }
+}

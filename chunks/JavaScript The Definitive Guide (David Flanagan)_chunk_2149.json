@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2149",
+  "content": "e voltar entre o modelo abstrato baseado em árvore de um \ndocumento e o modo de exibição geométrico baseado em coordenadas do documento, conforme \né apresentado na janela de um navegador. As propriedades e métodos descritos nesta seção já são \nimplementados nos navegadores há bastante tempo (embora alguns sejam, até recentemente, espe-\ncíficos do IE e alguns não sejam implementado pelo IE até o IE9). Quando este livro estava sendo \nproduzido, eles estavam passando pelo processo de padronização do W3C como o CSSOM-View \nModule (consulte http://www.w3.org/TR/cssom-view/).\n15.8.1   Coordenadas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2149,
+    "totalChunks": 10000
+  }
+}

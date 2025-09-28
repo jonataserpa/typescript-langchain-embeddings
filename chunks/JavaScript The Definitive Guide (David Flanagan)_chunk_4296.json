@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4296",
+  "content": "46: note o arredondamento, sem parte fracionária\nn.toFixed(1);            // Retorna 12345.7: note o arredondamento\nn.toFixed(6);            // Retorna 12345.678900: note os zeros adicionados\n(1.23e+20).toFixed(2);   //   Retorna   123000000000000000000.00\n(1.23e-10).toFixed(2)    // Retorna 0.00\nConsulte também\nNumber.toExponential(), Number.toLocaleString(), Number.toPrecision(), Number.\ntoString()\nNumber.toLocaleString()\nconverte um número em uma string formatada de acordo com a localidade\nSinopse\nnúmero.toLocaleString()\nRetorna\nUma representação de string do número, dependente da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4296,
+    "totalChunks": 10000
+  }
+}

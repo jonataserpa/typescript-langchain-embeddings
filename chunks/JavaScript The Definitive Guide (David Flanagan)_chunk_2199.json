@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2199",
+  "content": "dor Web; a propriedade \nvalue é somente para leitura\n<input type=”hidden”>“hidden”noneDados enviados com o formulário, mas invisíveis para \no usuário\n<option>nonenoneUm único item dentro de um objeto Select; as rotinas \nde tratamento de evento estão no objeto Select e não \nnos objetos Option individuais\n<input type=”password”>“password”onchangeUm campo de entrada para senha – os caracteres \ndigitados não são visíveis\n(Continua)\n\n388          Parte II     JavaScript do lado do cliente\nTabela 15-1 Elementos de formulário HTML (Continuação)\nElemento HTML\nPropriedade \nde tipo\nRotina de tratamento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2199,
+    "totalChunks": 10000
+  }
+}

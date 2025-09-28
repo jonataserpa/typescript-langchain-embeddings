@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2895",
+  "content": "serão inseridas antes desse campo de entrada -->\n<input id=\"input\" style=\"width:100%\"/>\nQuando este livro estava sendo escrito, EventSource era suportado no Chrome e no Safari, sendo \nesperado que o Mozilla o implementasse no primeiro lançamento após o Firefox 4.0. Nos navegado-\nres (como o Firefox) cuja implementação de XMLHttpRequest dispara um evento readystatechange \n(para readyState 3) quando há download em andamento, é relativamente fácil simular EventSource \ncom XMLHttpRequest, e o Exemplo 18-16 mostra como isso pode ser feito. Com esse módulo de \nsimulação, o Exemplo 18-15 funciona",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2895,
+    "totalChunks": 10000
+  }
+}

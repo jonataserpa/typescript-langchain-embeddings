@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4576",
+  "content": "em da imagem especificada em um \nretângulo de destino do canvas. \nimagem deve ser um elemento <img>, <canvas> ou <video>. (sx,sy) \nespecifica o canto superior esquerdo do retângulo de origem dentro dessa imagem e \nsw e sh especifi-\ncam a largura e a altura do retângulo de origem. Note que esses argumentos são dados em pixels CSS \ne não estão sujeitos à transformação. Os argumentos restantes especificam o retângulo de destino \nno qual a imagem deve ser copiada: consulte a versão de cinco argumentos de \ndraw Image() para ver \nos detalhes. Note que esses argumentos de retângulo de destino são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4576,
+    "totalChunks": 10000
+  }
+}

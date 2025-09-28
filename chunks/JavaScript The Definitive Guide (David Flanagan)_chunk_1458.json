@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1458",
+  "content": "Há um interessante subconjunto definido por diferentes motivos. Vamos abordar primei-\nramente esse e depois vamos ver os subconjuntos seguros da linguagem.\n11.1.1   The Good Parts\nO livro JavaScript: The Good Parts (O’Reilly), de Douglas Crockford, descreve um subconjunto de \nJavaScript que consiste nas partes da linguagem que ele considera úteis. O objetivo desse subconjun-\nto é simplificar a linguagem, ocultar peculiaridades e imperfeições e, basicamente, tornar a progra-\nmação mais fácil e os programas melhores. Crockford explica sua motivação:\nA maioria das linguagens de programação",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1458,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1411",
+  "content": "s itens dentro de \n( e ), inicie o grupo com (?: e finalize \ncom ). Considere o padrão a seguir, por exemplo:\n/([Jj]ava(?:[Ss]cript)?)\\sis\\s(fun\\w*)/\nAqui, a subexpressão (?:[Ss]cript) é usada simplesmente para agrupamento, de modo que o ca-\nractere de repetição ? pode ser aplicado no grupo. Esses parênteses modificados não produzem uma \nreferência; portanto, nessa expressão regular, \\2 se refere ao texto correspondente a (fun\\w*).\nA Tabela 10-4 resume os operadores de alternação, agrupamento e referência de expressões regulares.\nTabela 10-4 Caracteres de alternação, agrupamento e referência",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1411,
+    "totalChunks": 10000
+  }
+}

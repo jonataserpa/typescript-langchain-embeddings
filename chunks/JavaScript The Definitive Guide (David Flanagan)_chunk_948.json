@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_948",
+  "content": "esperado, pois JavaScript não \nfaz isso automaticamente:\nfunction f(x, y, z)\n{\n    // Primeiramente, verifica se foi passado o número correto de argumentos\n    if (arguments.length != 3) {\n        throw new Error(\"function f called with \" + arguments.length +\n                        \"arguments, but it expect 3 arguments.\");\n }\n    // Agora executa a função real...\n}\nNote que muitas vezes é desnecessário verificar o número de argumentos assim. O comportamento \npadrão de JavaScript é satisfatório na maioria dos casos: os argumentos ausentes são undefined e os \nargumentos extras são simplesmente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 948,
+    "totalChunks": 10000
+  }
+}

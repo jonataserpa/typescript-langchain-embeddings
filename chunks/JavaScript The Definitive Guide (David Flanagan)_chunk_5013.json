@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5013",
+  "content": "l>.\nreadonly Form form\nEssa propriedade é uma referência ao elemento Form que contém esse rótulo. Ou então, se o \natributo HTML form estiver configurado, o elemento Form identificado por essa identificação.\nstring htmlFor\nEssa propriedade espelha o atributo HTML for. Como for é uma palavra reservada em Java-\nScript, o nome dessa propriedade é prefixado com “html” para criar um identificador válido. \nSe for configurada, essa propriedade deve especificar a identificação do \nFormControl a que esse \nrótulo está associado. (Contudo, normalmente é mais simples apenas fazer esse FormControl \nser",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5013,
+    "totalChunks": 10000
+  }
+}

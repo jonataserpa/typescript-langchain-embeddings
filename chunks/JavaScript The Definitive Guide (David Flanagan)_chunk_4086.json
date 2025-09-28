@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4086",
+  "content": "5,6,7,8]\na.splice(1,2);        // Retorna [2,3]; a é [1,4]\na.splice(1,1);        // Retorna [4]; a é [1]\na.splice(1,0,2,3);    // Retorna []; a é [1 2 3]\nConsulte também\nArray.slice()\nArray.toLocaleString()\nconverte um array em uma string localizada Anula Object.toLocaleString()\nSinopse\narray.toLocaleString()\nRetorna\nUma representação de string localizada de \narray.\nLança\nTypeError\nSe esse método é chamado em um objeto que não é Array.\nDescrição\nO método toLocaleString() de um array retorna uma representação de string localizada de um array. \nEle faz isso chamando o método toLocaleString() de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4086,
+    "totalChunks": 10000
+  }
+}

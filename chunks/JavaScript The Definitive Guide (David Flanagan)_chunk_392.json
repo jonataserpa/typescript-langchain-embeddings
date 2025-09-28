@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_392",
+  "content": "rimeiro, seguida de x, y e z. Então, \nos valores de y e z são multiplicados, somados ao valor de x e atribuídos à variável ou propriedade \nespecificada pela expressão w. A inclusão de parênteses nas expressões pode alterar a ordem relativa da \nmultiplicação, adição e atribuição, mas não a ordem da esquerda para a direita da avaliação.\nA ordem de avaliação só faz diferença se uma das expressões que estão sendo avaliadas tem efeitos \ncolaterais que afetam o valor de outra expressão. Se a expressão \nx incrementa uma variável utilizada \npela expressão z, então o fato de x ser avaliada antes de z",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 392,
+    "totalChunks": 10000
+  }
+}

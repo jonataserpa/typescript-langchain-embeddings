@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5553",
+  "content": "es utilitárias Ajax na jQuery, 547\n    Version 2 da especifi cação, 443\nobjeto XMLHttpRequestUpload, 1002\nobjetos, 5, 112–136\n    arrays de, 137\n    atributos de, 113, 132–135\n        atributo    class,    133\n        atributo    extensible,    134\n        atributo    prototype,    132\n    atributos de propriedade, 128–131\n    clones estruturados de, 657\n    consultando e confi gurando propriedades, 117–\n121\n        erros de acesso à propriedade, 120\n        herança    e,    119\n        objetos como arrays associativos, 117\n    conversão para primitivos, 48–51\n    conversão para strings, 657",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5553,
+    "totalChunks": 10000
+  }
+}

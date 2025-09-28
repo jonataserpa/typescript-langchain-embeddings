@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_539",
+  "content": "(n == 2) {\n    // Executa o bloco de código #2\n}\nelse if (n == 3) {\n    // Executa o bloco de código #3\n}\nelse {\n    // Se tudo falhar, executa o bloco #4\n}\nNão há nada de especial nesse código. Trata-se apenas de uma série de instruções if, onde cada if su-\ncessivo faz parte da cláusula else da instrução anterior. Usar o idioma else if é preferível e mais legí-\nvel do que escrever essas instruções em sua forma totalmente aninhada e sintaticamente equivalente:\nif (n == 1) {\n    // Executa o bloco de código #1\n}\nelse {\n    if (n == 2) {\n        // Executa o bloco de código #2\n }\n    else    {",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 539,
+    "totalChunks": 10000
+  }
+}

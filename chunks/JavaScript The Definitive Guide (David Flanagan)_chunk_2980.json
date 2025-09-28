@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2980",
+  "content": ").is(\".first.hilite\")         // is() é mais flexível do que hasClass()\nNote que o método hasClass() é menos flexível do que addClass(), removeClass() e toggleClass(). \nhasClass() só funciona para um único nome de classe e não suporta argumentos de função. Ele re-\ntorna true se qualquer um dos elementos selecionados tem a classe CSS especificada e retorna false \nse nenhuma delas tem. O método is() (descrito na Seção 19.1.2) é mais flexível e pode ser usado \npara o mesmo propósito.\nEsses métodos jQuery são como os métodos \nclassList descritos na Seção 16.5, mas funcionam em \ntodos os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2980,
+    "totalChunks": 10000
+  }
+}

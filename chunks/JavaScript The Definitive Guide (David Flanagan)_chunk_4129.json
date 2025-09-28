@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4129",
+  "content": "ript v3, não é obrigatório a estar de acordo com as implementações de JavaScript; em vez \ndisso, use getFullYear().\nDate.now() ECMAScript 5\nretorna a hora atual, em milissegundos\nSinopse\nDate.now()\nRetorna\nA hora atual, em milissegundos, a partir de meia-noite GMT de 1º de janeiro de 1970.\nDescrição\nAntes de ECMAScript 5, você podia implementar esse método como segue:\nDate.now = function() { return (new Date()).getTime(); }\nConsulte também\nDate, Date.getTime()\nDate.parse()\nanalisa uma string de data/hora\nSinopse\nDate.parse(data)\nArgumentos\ndata\nUma string contendo a data e hora a serem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4129,
+    "totalChunks": 10000
+  }
+}

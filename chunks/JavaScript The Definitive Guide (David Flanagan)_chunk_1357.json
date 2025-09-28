@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1357",
+  "content": "rma rígida e pode importar os valores que em geral \nsão utilizados para o espaço de nomes global. Um programador que fosse utilizar frequentemente a \nclasse Set a partir do namespace sets poderia importar a classe como segue:\nvar Set = sets.Set;    // Importa Set para o espaço de nomes global\nvar s = new Set(1,2,3); // Agora podemos usá-la sem o prefixo sets.\nÀs vezes os autores de módulo utilizam espaço de nomes aninhados mais profundamente. Se o mó-\ndulo sets fizesse parte de um grupo maior de módulos collections, ele poderia usar collections.sets \ncomo espaço de nomes e o módulo começaria",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1357,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5211",
+  "content": "te para o IE]\nNo Internet Explorer, essa propriedade se refere ao objeto Event que descreve o evento mais \nrecente. No IE8 e anteriores, o objeto evento nem sempre é passado para a rotina de tratamen-\nto de evento e às vezes deve ser acessado por meio dessa propriedade. Consulte o Capítulo 17 \npara ver mais detalhes.\nreadonly Element frameElement\nSe esse objeto Window está dentro de um <iframe>, essa propriedade se refere a esse elemento \nIFrame. Para janelas de nível superior, essa propriedade é null.\nreadonly Window frames\nEssa propriedade, assim como as propriedades self e window, se",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5211,
+    "totalChunks": 10000
+  }
+}

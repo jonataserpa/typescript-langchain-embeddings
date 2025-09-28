@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3852",
+  "content": "// Uma matriz de 3x3\nvar 3dPoint = new Int16Array(3);     // Um ponto no espaço 3D\nvar rgba = new Uint8Array(4);       // Um valor de pixel RGBA de 4 bytes\nvar sudoku = new Uint8Array(81);     // Um tabuleiro de sudoku de 9x9\nA notação de colchetes de JavaScript permite obter e configurar elementos individuais de um array \ntipado. Mas os arrays tipados também definem métodos para configurar e consultar regiões inteiras \ndo array. O método set() copia os elementos de arrays normais ou tipados em um array tipado:\nvar bytes = new Uint8Array(1024)          // Um buffer de 1K\nvar pattern = new",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3852,
+    "totalChunks": 10000
+  }
+}

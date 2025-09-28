@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5294",
+  "content": "ncluindo cabeçalhos \nrelacionados a cookies, que não podem ser configurados com esse método. A lista completa está na \nSeção 18.1.\n\n      Referência de JavaScript do lado do cliente      1001\nReferência de \nJavaScript do lado \ndo cliente\nRotinas de tratamento de evento\nO objeto XMLHttpRequest original definia apenas uma propriedade de tratamento de evento: \nonreadystatechange. A XHR2 expande a lista com um conjunto de rotinas de tratamento de evento \nprogress muito mais fáceis de usar. Você pode registrar rotinas de tratamento configurando essas pro-\npriedades ou usando os métodos de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5294,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4505",
+  "content": "teza de que deseja sair da página. O objeto passado para funções de tratamento de \n\n      Referência de JavaScript do lado do cliente      847\nReferência de \nJavaScript do lado \ndo cliente\nevento unload é um objeto BeforeUnloadEvent. Se quiser exigir que o usuário confirme que real-\nmente deseja sair da página, não precisa (e não deve) chamar o método Window.confirm(). Em vez \ndisso, retorne uma string da rotina de tratamento de evento ou configure o \nreturnValue desse objeto \nevento com uma string. A string retornada ou configurada será apresentada ao usuário no diálogo \nde confirmação visto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4505,
+    "totalChunks": 10000
+  }
+}

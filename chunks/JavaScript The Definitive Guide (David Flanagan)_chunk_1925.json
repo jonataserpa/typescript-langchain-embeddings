@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1925",
+  "content": "cliente\nFigura 14-1 Uma caixa de diálogo HTML exibida com showModalDialog().\nExemplo 14-4 Um arquivo HTML para uso com showModalDialog()\n<!--\n Este não é um arquivo HTML independente. Ele deve ser chamado por showModalDialog().\n Ele espera que window.dialogArguments seja um array de strings.\n O primeiro elemento do array é exibido na parte superior da caixa de diálogo.\n Cada elemento restante é um rótulo para um campo de entrada de texto de uma linha.\n Retorna um array de valores do campo de entrada quando o usuário clica em OK.\n Use este arquivo com código como o seguinte:\n var p =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1925,
+    "totalChunks": 10000
+  }
+}

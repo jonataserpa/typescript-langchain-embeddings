@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2314",
+  "content": "animação mais complexas. Atualmente, CSS Animations só \né implementada pelos navegadores Webkit. Nem as transições nem as animações são abordadas neste \ncapítulo, mas são tecnologias que você, como desenvolvedor Web, deve conhecer.\nOutro projeto de CSS que os desenvolvedores Web devem conhecer é CSS Transforms, que permite aplicar \ntransformações bidimensionais afins (rotação, mudança de escala, translação ou qualquer combinação \nexpressa como uma matriz) arbitrárias em qualquer elemento. Todos os navegadores atuais (incluindo o \nIE9 e posteriores) suportam esta nova funcionalidade, com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2314,
+    "totalChunks": 10000
+  }
+}

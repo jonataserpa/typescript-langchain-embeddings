@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_836",
+  "content": "//        classificação considerando letras maiúsculas e minúsculas:\n                            //['Bug','Dog','ant',cat']\na.sort(function(s,t) {     // Classificação sem considerar letras maiúsculas e minúsculas\n            var a = s.toLowerCase();\n            var b = t.toLowerCase();\n            if (a < b) return -1;\n            if (a > b) return 1;\n            return    0;\n         });                  //    =>    ['ant','Bug','cat','Dog']\n7.8.4   concat()\nO método Array.concat() cria e retorna um novo array contendo os elementos do array original em \nque concat() foi chamado, seguido",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 836,
+    "totalChunks": 10000
+  }
+}

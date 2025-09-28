@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5157",
+  "content": "meradas na ordem em \nque aparecem na origem do documento. As linhas nas seções <thead> e <tfoot> são numeradas junto \ncom todas as outras linhas da tabela.\nvoid deleteTFoot()\nRemove o primeiro elemento <tfoot> da tabela, caso tenha um.\nvoid deleteTHead()\nRemove o primeiro elemento <thead> da tabela, caso tenha um.\nTableRow insertRow([long índice])\nEsse método cria um novo elemento <tr>, o insere na tabela no índice especificado e o retorna.\nA nova linha é inserida na mesma seção e imediatamente antes da linha existente na posição especi-\nfica por \níndice. Se índice é igual ao número de linhas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5157,
+    "totalChunks": 10000
+  }
+}

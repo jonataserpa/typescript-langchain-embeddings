@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5634",
+  "content": "pt de Java com, 281–288\n        exemplo de GUI (interface gráfi ca do usuário), \n285–288\n    suporte para E4X, 276\n\n1056          Índice\n    suporte para extensões de JavaScript, 258\n    versões de JavaScript, 262\nrigor\n    rotinas de tratamento de evento defi nidas no \nmodo não restrito, 446\nrolando, 384\n    eventos scroll em janelas, 439\nrotações, 627\nrotate( ), CanvasRenderingContext2D, 624, 862\nrotina de tratamento de evento onbeforeunload, \njanelas, 450\nrotina de tratamento de evento ondragstart, 464\nrotinas de tratamento de evento\n    anulando o registro com jQuery, 532\n    chamando,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5634,
+    "totalChunks": 10000
+  }
+}

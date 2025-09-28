@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5185",
+  "content": "o \nmesmo do array que está sendo criado.\n •   Se for passado um único array (um array verdadeiro de JavaScript), a construtora cria um novo \narray tipado com o mesmo número de argumentos e então copia os valores de elemento do \nargumento array no novo array.\n •   Por fim, se for passado um objeto ArrayBuffer, junto com argumentos de deslocamento e \ncomprimento opcionais, a construtora cria um novo array tipado que é um modo de exibição \nda região estipulada do ArrayBuffer especificado. O comprimento do novo TypedArray de-\npende da região de ArrayBuffer e do tamanho do elemento do array",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5185,
+    "totalChunks": 10000
+  }
+}

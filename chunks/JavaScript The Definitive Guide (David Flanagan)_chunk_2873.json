@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2873",
+  "content": "s elementos <script> são transportes Ajax úteis por um motivo importante: eles não \nestão sujeitos à política da mesma origem, de modo que podem ser usados para solicitar dados de \nservidores que não o seu próprio. Um motivo secundário para usar elementos <script> é que eles \ndecodificam (isto é, executam) automaticamente corpos de resposta que consistem em dados codi-\nficados com JSON.\nScripts e segurança\nPara usar um elemento <script> como transporte Ajax, você tem de permitir que sua página Web execute \nqualquer código JavaScript que o servidor remoto opte por enviar. Isso significa que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2873,
+    "totalChunks": 10000
+  }
+}

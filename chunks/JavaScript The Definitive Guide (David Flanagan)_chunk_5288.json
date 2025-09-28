@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5288",
+  "content": "cumento que \n\n1000          Parte IV     Referência de JavaScript do lado do cliente\ncontém o script que está fazendo a requisição. A XHR2 permite requisições de várias origens para \nservidores que suportam CORS.\nSe o argumento \nasync for especificado e for false, a requisição será executada de forma síncrona e \no método \nsend() vai bloquear até que a resposta esteja completa. Isso não é recomendado, exceto \nquando XMLHttpRequest é usado em um \nWorker.\nOs argumentos opcionais \nusuário e pass especificam um nome de usuário e uma senha para usar \ncom a requisição HTTP.\nvoid",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5288,
+    "totalChunks": 10000
+  }
+}

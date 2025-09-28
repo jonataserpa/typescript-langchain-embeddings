@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1967",
+  "content": "um quadro esteja profundamente aninhado, \nsua propriedade top se refere à janela contêiner de nível superior. Se um objeto Window representa \numa janela de nível superior, top se refere simplesmente a essa própria janela. Para quadros que são \nfilhos diretos de uma janela de nível superior, a propriedade top é igual à propriedade parent.\nAs propriedades \nparent e top permitem a um script fazer referência aos ascendentes de seu quadro. \nHá mais de uma maneira de fazer referência aos quadros descendentes de uma janela ou quadro. \n\n348          Parte II     JavaScript do lado do cliente\nOs",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1967,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5208",
+  "content": "e top de um objeto \nWindow se referem diretamente à janela contêiner e à janela ascendente de nível superior.\nNovas janelas de nível superior do navegador são criadas com o método \nWindow.open(). Quando \nesse método for chamado, salve o valor de retorno da chamada de open() em uma variável e use essa \nvariável para referenciar a nova janela. A propriedade opener da nova janela é uma referência para a \njanela que a abriu.\nPropriedades\nAlém das propriedades listadas aqui, o conteúdo do documento exibido dentro da janela faz surgir \nnovas propriedades. Conforme explicado na Seção 14.7, você",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5208,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4671",
+  "content": "location\nSinônimo de Window.location.\n\n878          Parte IV     Referência de JavaScript do lado do cliente\nreadonly HTMLCollection plugins\nUm sinônimo para a propriedade embeds.\nreadonly string readyState\nEssa propriedade é a string “loading” se o documento ainda estiver sendo carregado e “com-\nplete”, se estiver totalmente carregado. O navegador dispara um evento readystatechange em \nDocument quando essa propriedade muda para “complete”.\nreadonly string referrer\nO URL do documento vinculado a esse documento ou null, se esse documento não foi aces-\nsado por meio de um hiperlink ou se o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4671,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1782",
+  "content": "rmanente na plataforma Web. Às vezes, os fornecedores de navegador e os desenvolvedores \nWeb tomam a iniciativa e os organismos de padronização escrevem a versão oficial bem depois \nque o recurso já é um padrão de fato. Em um ou outro caso, um novo recurso foi adicionado \nna Web. Os navegadores novos o suportam e os antigos, não. Os desenvolvedores Web ficam \ndivididos entre querer utilizar novos recursos poderosos e querer que suas páginas Web pos-\nsam ser utilizadas pelo maior número de visitantes – mesmo aqueles que não estão usando os \nnavegadores mais recentes.\nNão implementação\nÀs",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1782,
+    "totalChunks": 10000
+  }
+}

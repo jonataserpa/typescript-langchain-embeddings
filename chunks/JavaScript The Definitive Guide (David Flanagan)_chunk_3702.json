@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3702",
+  "content": "ta(x,y,w,h);\n    // Esse borrão é feito no local e exige apenas o ImageData de origem.\n    // Alguns algoritmos de processamento de imagens exigem um ImageData adicional\n  // para armazenar valores de pixels transformados. Se precisássemos de um buffer de \n// saída, poderíamos criar um novo ImageData com as mesmas dimensões, como segue:\n    //   var output_pixels = c.createImageData(pixels);\n    // Essas dimensões podem ser diferentes dos argumentos w e h: pode haver\n    // mais de um pixel de dispositivo por pixel CSS.\n    var width = pixels.width, height = pixels.height;\n \n  // Este é o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3702,
+    "totalChunks": 10000
+  }
+}

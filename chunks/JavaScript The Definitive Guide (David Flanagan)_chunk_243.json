@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_243",
+  "content": "odas as correspondências\ntext.replace(pattern, \"#\");     // => \"testing: #, #, #\"\ntext.split(/\\D+/);     // => [\"\",\"1\",\"2\",\"3\"]: divide em não dígitos\n\nCapítulo 3     Tipos, valores e variáveis      39\nJavaScript básica\n3.3   Valores   booleanos\nUm valor booleano representa verdadeiro ou falso, ligado ou desligado, sim ou não. Só existem dois \nvalores possíveis desse tipo. As palavras reservadas true e false são avaliadas nesses dois valores.\nGeralmente, os valores booleanos resultam de comparações feitas nos programas JavaScript. Por \nexemplo:\na == 4\nEsse código faz um teste para ver se o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 243,
+    "totalChunks": 10000
+  }
+}

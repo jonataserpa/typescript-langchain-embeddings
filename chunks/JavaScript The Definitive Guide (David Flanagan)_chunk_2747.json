@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2747",
+  "content": "s GET normais, e pode \nretornar a resposta do servidor como texto ou como um objeto Document. Apesar de seu nome, \na API XMLHttpRequest não está limitada ao uso com documentos XML: ela pode buscar qual-\nquer tipo de documento de texto. A Seção 18.1 aborda a API XMLHttpRequest e ocupa a maior \nparte do capítulo. A maioria dos exemplos de Ajax deste capítulo vai usar o objeto XMLHtt-\npRequest como transporte, mas também vamos demonstrar como se usa transporte baseado em \n<script>, na Seção 18.2, devido à capacidade do elemento <script> de contornar as restrições da \nmesma origem.\n3\n  As imagens",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2747,
+    "totalChunks": 10000
+  }
+}

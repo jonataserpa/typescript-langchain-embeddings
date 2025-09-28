@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3370",
+  "content": "quadro.  A  política  da  mesma  origem  (Seção  \n13.6.2) impede que esse tipo de detecção de cookie aconteça entre sites, mas ele é perfeitamente \nválido para documentos do mesmo site.\nPor default, o escopo dos cookies é a origem do documento. No entanto, sites grandes talvez quei-\nram compartilhar cookies entre subdomínios. Por exemplo, o servidor em order.example.com talvez \nprecise ler valores de cookie configurados em catalog.example.com. É aí que o atributo domínio entra \nem ação. Se um cookie criado por uma página em catalog.example.com configura seu atributo cami-\nnho como “/” e seu",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3370,
+    "totalChunks": 10000
+  }
+}

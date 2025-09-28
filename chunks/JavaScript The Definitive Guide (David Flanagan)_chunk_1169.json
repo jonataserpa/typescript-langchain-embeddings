@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1169",
+  "content": "ray.\n\n208          Parte     I     JavaScript     básica\nOs exemplos de tipagem do pato apresentados anteriormente envolvem a resposta de objetos ao \noperador < e o comportamento especial da propriedade length. Mais normalmente, contudo, quan-\ndo falamos sobre tipagem do pato, estamos falando sobre testar se um objeto implementa um ou \nmais métodos. Uma função triatlo() fortemente tipada poderia exigir que seu argumento fosse um \nobjeto TriAtleta. Uma alternativa com tipagem do pato poderia ser projetada para aceitar qualquer \nobjeto que tivesse métodos corrida(), natação() e ciclismo().",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1169,
+    "totalChunks": 10000
+  }
+}

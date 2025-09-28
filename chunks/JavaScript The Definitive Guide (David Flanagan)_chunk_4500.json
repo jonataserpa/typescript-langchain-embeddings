@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4500",
+  "content": "iedades comuns de tipos baseados em ArrayBuffers\nArrayBufferView serve como superclasse de tipos que fornecem acesso aos bytes de um \nArrayBuffer. \nNão é possível criar um ArrayBufferView diretamente: ele existe para definir as propriedades co-\nmuns de subtipos como \nTypedArray e DataView.\nPropriedades\nreadonly ArrayBuffer buffer\nO ArrayBuffer subjacente do qual esse objeto é um modo de exibição.\nreadonly unsigned long byteLength\nO comprimento, em bytes, da parte de buffer acessível por meio desse modo de exibição.\nreadonly unsigned long byteOffset\nA posição inicial, em bytes, da parte do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4500,
+    "totalChunks": 10000
+  }
+}

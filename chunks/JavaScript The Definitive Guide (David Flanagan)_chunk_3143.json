@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3143",
+  "content": "cê pode usar uma fila para gerenciar a sequência. Basta passar um nome de fila que não seja “fx”. \nE lembre-se de que funções enfileiradas não são executadas automaticamente. Você precisa chamar \ndequeue() explicitamente para executar a primeira e cada operação deve retirar a próxima da fila \nquando terminar.\n19.6   Ajax com jQuery\nAjax é o nome popular das técnicas de programação de aplicativo Web que utilizam scripts HTTP \n(consulte o Capítulo 18) para carregar dados quando necessário, sem fazer a página atualizar. Como \nas técnicas Ajax são muito úteis nos aplicativos Web modernos, a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3143,
+    "totalChunks": 10000
+  }
+}

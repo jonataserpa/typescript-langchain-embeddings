@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2812",
+  "content": "as de leitura, GET é mais apropriado que \nPOST. Os pedidos GET nunca têm corpo, de modo que a “carga útil” de dados codificados \ncomo formulário precisa ser enviada para o servidor como a parte do URL referente à consulta \n(após um ponto de interrogação). A função utilitária encodeFormData() também pode ser útil para \nesse tipo de pedido GET e o Exemplo 18-6 demonstra como usá-la.\nExemplo 18-6 Fazendo um pedido GET com dados codificados como formulário\nfunction getData(url, data, callback) {\n    var request = new XMLHttpRequest();\n    request.open(\"GET\", url + // Obtém (com GET) o url",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2812,
+    "totalChunks": 10000
+  }
+}

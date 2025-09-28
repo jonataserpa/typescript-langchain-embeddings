@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_339",
+  "content": "e nenhum dos objetos do encadeamento de escopo, então x \nnão está no escopo desse código e ocorre um ReferenceError.\n\nCapítulo 3     Tipos, valores e variáveis      55\nJavaScript básica\nNo código JavaScript de nível superior (isto é, código não contido dentro de qualquer definição de \nfunção), o encadeamento de escopo consiste em um único objeto, o objeto global. Em uma fun-\nção não aninhada, o encadeamento de escopo consiste em dois objetos. O primeiro é o objeto que \ndefine os parâmetros e as variáveis locais da função e o segundo é o objeto global. Em uma função \naninhada, o encadeamento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 339,
+    "totalChunks": 10000
+  }
+}

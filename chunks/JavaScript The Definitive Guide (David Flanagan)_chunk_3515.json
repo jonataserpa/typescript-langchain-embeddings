@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3515",
+  "content": "Parte II     JavaScript do lado do cliente\n21.3    SVG: Scalable Vector Graphics (Gráficos Vetoriais \nEscaláveis)\nSVG é uma gramática de XML para elementos gráficos. A palavra “vector” (vetorial) indica que é \nfundamentalmente diferente dos formatos de imagem raster, como GIF, JPEG, e PNG, que especi-\nficam uma matriz de valores de pixel. Em vez disso, uma “imagem” SVG é uma descrição precisa e \nindependente da resolução (daí  “escaláveis”) dos passos necessários para desenhar o elemento gráfico \ndesejado. Aqui está um arquivo SVG simples:\n<!-- Inicia uma figura SVG e declara nosso espaço de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3515,
+    "totalChunks": 10000
+  }
+}

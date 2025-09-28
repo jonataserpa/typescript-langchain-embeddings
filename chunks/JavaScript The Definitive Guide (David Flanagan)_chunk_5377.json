@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5377",
+  "content": "jeto, \n128\n    utilitários de propriedades de ECMAScript 5, \n238–240\ndesenhando contextos de objeto, 616\ndesignMode, objeto Document, 399, 877\ndeslocamentos de rolagem, 455\ndetecção de acertos, 648–649\nDHTML (Dynamic HTML), 302\ndialogArguments, objeto Window, 340, 986\ndiferenciação de maiúsculas e minúsculas em Java-\nScript, 21\n    nomes de propriedade, 366\ndígitos hexadecimais, especifi cando cores RGB, 416\n\nÍndice          1015\ndimensões, canvas, 623\ndiretiva use strict, 108\ndiretivas, 108\ndisparando eventos, 533\n    impedindo a jQuery de disparar eventos relacio-\nnados a Ajax, 557\ndisparo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5377,
+    "totalChunks": 10000
+  }
+}

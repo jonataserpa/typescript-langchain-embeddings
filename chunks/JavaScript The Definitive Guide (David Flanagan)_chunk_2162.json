@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2162",
+  "content": "e um elemento\nA maneira mais fácil de determinar o tamanho e a posição de um elemento é chamando seu mé-\ntodo \ngetBoundingClientRect(). Esse método foi introduzido no IE5 e agora é implementado por \ntodos os navegadores atuais. Ele não espera argumento algum e retorna um objeto com proprieda-\ndes \nleft, right, top e bottom. As propriedades left e top fornecem as coordenadas X e Y do canto \nsuperior esquerdo do elemento e as propriedades \nright e bottom fornecem as coordenadas do canto \ninferior direito.\nEsse método retorna as posições do elemento em coordenadas da janela de visualização. (A",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2162,
+    "totalChunks": 10000
+  }
+}

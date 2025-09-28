@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_837",
+  "content": "retorna um novo array contendo os elementos do array original em \nque concat() foi chamado, seguido de cada um dos argumentos de concat(). Se qualquer um desses \nargumentos é ele próprio um array, então são os elementos do array que são concatenados e não o \narray em si. Note, entretanto, que concat() não concatena arrays de arrays recursivamente. concat() \nnão modifica o array em que é chamado. Aqui estão alguns exemplos:\nvar a = [1,2,3];\na.concat(4, 5)              // Retorna [1,2,3,4,5]\na.concat([4,5]);            // Retorna [1,2,3,4,5]\na.concat([4,5],[6,7])       // Retorna",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 837,
+    "totalChunks": 10000
+  }
+}

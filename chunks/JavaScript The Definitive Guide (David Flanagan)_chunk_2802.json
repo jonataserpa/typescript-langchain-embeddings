@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2802",
+  "content": "deMimeType() para permitir que o objeto XMLHttpRequest saiba que não precisa anali-\nsar o arquivo em um documento XML:\n// Não processa a resposta como um documento XML\nrequest.overrideMimeType(\"text/plain; charset=utf-8\")\n\nCapítulo 18     Scripts HTTP      489\nJavaScript do\n lado do cliente\n18.1.3   Codificando o corpo da requisição\nAs requisições HTTP POST incluem um corpo contendo os dados que o cliente está passando para \no servidor. No Exemplo 18-1, o corpo da requisição era simplesmente uma string de texto. Frequen-\ntemente, contudo, queremos enviar dados mais complicados junto com uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2802,
+    "totalChunks": 10000
+  }
+}

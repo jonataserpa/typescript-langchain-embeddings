@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5166",
+  "content": "g length\nO comprimento, em caracteres, do texto.\nreadonly string wholeText\nO conteúdo do texto desse nó e de quaisquer nós de texto adjacentes, antes ou depois desse. \nSe você tiver chamado o método normalize() do Node pai, essa propriedade vai ser o mesmo \nque data.\nMétodos\nA não ser que você esteja escrevendo um aplicativo do tipo editor de texto baseado na Web, esses \nmétodos normalmente não são usados.\nvoid appendData(string texto)\nEsse método anexa o texto especificado no fim desse nó Text.\nvoid deleteData(unsigned long deslocamento, unsigned long contagem)\nEsse método exclui caracteres",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5166,
+    "totalChunks": 10000
+  }
+}

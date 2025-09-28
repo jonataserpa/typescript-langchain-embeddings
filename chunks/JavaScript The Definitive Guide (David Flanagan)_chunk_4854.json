@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4854",
+  "content": "malmente você não precisa chamar esse método.\nvoid dispatchFormInput()\nEsse método dispara um evento forminput em cada controle nesse formulário. Normalmente, o for-\nmulário faz isso automaticamente, quando a entrada do usuário dispara um evento input; portanto, \nnormalmente você não precisa chamar esse método.\nvoid reset()\nRedefine todos os elementos do formulário com seus valores padrão.\nvoid submit()\nEnvia o formulário manualmente, sem disparar um evento submit.\nRotinas de tratamento de evento\nEstas propriedades de tratamento de evento relacionadas a formulário são definidas em Element,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4854,
+    "totalChunks": 10000
+  }
+}

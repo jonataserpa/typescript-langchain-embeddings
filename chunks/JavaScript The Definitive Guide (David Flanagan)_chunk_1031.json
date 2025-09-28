@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1031",
+  "content": "o tem \numa propriedade chamada m):\no.m = f;     // Torna f um método temporário de o.\no.m();      // Chama-o, sem passar argumentos.\ndelete o.m;  // Remove o método temporário.\nNo modo restrito de ECMAScript 5, o primeiro argumento de call() ou apply() se torna o valor de \nthis, mesmo que seja um valor primitivo ou null ou undefined. Em ECMAScript 3 e no modo não \nrestrito, um valor null ou undefined é substituído pelo objeto global e um valor primitivo é substi-\ntuído pelo objeto empacotador correspondente.\nQualquer argumento para \ncall(), após o primeiro argumento de contexto da chamada, é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1031,
+    "totalChunks": 10000
+  }
+}

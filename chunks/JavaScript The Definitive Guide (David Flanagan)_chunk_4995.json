@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4995",
+  "content": "Setup(opções)\nEssa função configura valores padrão para opções Ajax da jQuery. Passe o mesmo tipo de objeto \nopções que você passaria para jQuery.ajax(). Os valores especificados serão usados por qualquer \npedido Ajax subsequente que não especifique o valor. Essa função não tem valor de retorno.\njQuery.getJSON(url, [dados], [f(objeto,status)]):XMLHttpRequest\nSolicita  o  url  especificado  de  forma  assíncrona,  adicionando  quaisquer  dados  estipulados.  \nQuando a resposta é recebida, a analisa como JSON e passa o objeto resultante para a função \ncallback \nf. Retorna o objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4995,
+    "totalChunks": 10000
+  }
+}

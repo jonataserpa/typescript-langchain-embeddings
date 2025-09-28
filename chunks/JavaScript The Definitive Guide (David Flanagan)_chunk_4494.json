@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4494",
+  "content": "ficar a existência de atualizações mais frequentemente.\nRotinas de tratamento de eventos\nO navegador dispara uma sequência de eventos em ApplicationCache durante a verificação do ma-\nnifesto e coloca o processo de atualização na cache. Você pode usar as propriedades de rotina de \ntratamento de eventos a seguir do objeto ApplicationCache para registrar rotinas de tratamento \nde evento ou pode usar os métodos EventTarget implementados pelo objeto ApplicationCache. As \nrotinas de tratamento da maioria desses eventos recebem um objeto Event simples. Contudo, as \nrotinas de tratamento para eventos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4494,
+    "totalChunks": 10000
+  }
+}

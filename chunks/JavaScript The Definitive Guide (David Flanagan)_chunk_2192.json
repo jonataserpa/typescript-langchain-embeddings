@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2192",
+  "content": "esse algoritmo básico de cálculo de posição com várias \ncorreções de erro específicas do navegador. Se precisar calcular a posição de um elemento e que seu \ncódigo funcione em navegadores que não suportam getBoundingClientRect(), você provavelmente \ndeve usar uma biblioteca como a jQuery.\n15.9   Formulários   HTML\nO elemento HTML <form> e os vários elementos de entrada de formulário, como <input>, <select> \ne <button>, têm um lugar importante na programação no lado do cliente. Esses elementos HTML \nremontam aos primórdios da Web e são anteriores à própria JavaScript. Os formulários HTML são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2192,
+    "totalChunks": 10000
+  }
+}

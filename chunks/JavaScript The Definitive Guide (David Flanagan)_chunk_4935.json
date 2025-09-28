@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4935",
+  "content": "ias, mas também é a \nfunção fábrica para criar objetos jQuery. jQuery() pode ser chamada de todas as maneiras mostradas \na seguir, mas sempre retorna um objeto jQuery representando um conjunto de elementos do docu-\nmento (ou o próprio objeto Document). O símbolo \n$ é um pseudônimo para jQuery e você pode \nusar $(), em vez de jQuery(), em cada uma das formas a seguir:\n\n930          Parte IV     Referência de JavaScript do lado do cliente\njQuery(sel [, contexto=document])\nRetorna um novo objeto jQuery representando os elementos do documento que são descen-\ndentes de contexto e correspondem à",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4935,
+    "totalChunks": 10000
+  }
+}

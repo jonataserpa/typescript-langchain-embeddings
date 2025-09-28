@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5363",
+  "content": "no objetos WorkerGlobalSco-\npe, 669\n    janelas interativas e, 350\n    para arrays tipados, 981\n    propriedade constructor de um objeto, 795–796\n    propriedade prototype, 132\n    protótipos de objeto e, 115\n    sobrecarga,    221\n    usando nome de, como identifi cador de classe, \n205\ncontentDocument, objeto IFrame, 923\ncontentWindow, objeto IFrame, 348, 923\nconteúdo\n    gerando conteúdo de documento no momento do \ncarregamento, 310\n    script do lado do cliente simples para revelar, 301\nconteúdo que pode ser editado em documentos, \n398–401\ncontexto de chamada, 158\ncontexto de execução,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5363,
+    "totalChunks": 10000
+  }
+}

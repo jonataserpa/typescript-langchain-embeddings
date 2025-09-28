@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2017",
+  "content": "ntos <span> dentro do primeiro elemento <p> \nde um documento, você poderia escrever:\nvar firstpara = document.getElementsByTagName(\"p\")[0];\nvar firstParaSpans = firstpara.getElementsByTagName(\"span\");\nPor motivos históricos, a classe HTMLDocument define propriedades de atalho para acessar certos \ntipos de nós. As propriedades images, forms e links, por exemplo, se referem aos objetos que se com-\nportam como arrays somente para leitura de elementos <img>, <form> e <a> (mas somente marcações \n<a> que tenham um atributo href). Essas propriedades se referem a objetos HTMLCollection, os \nquais são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2017,
+    "totalChunks": 10000
+  }
+}

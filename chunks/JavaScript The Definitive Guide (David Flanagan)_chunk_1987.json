@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1987",
+  "content": "ção mais longa. Se você pudesse comparar os dois objetos, seria difícil distingui-\n-los. Na verdade, contudo, não há maneira de se referir ao objeto global do lado do cliente real. O objeto \nglobal está no topo do encadeamento de escopo, mas as propriedades\n window, self, top, parent e frames \nretornam todas objetos proxy. O método window.open() retorna um objeto proxy. Até o valor da palavra-\n-chave \nthis dentro de uma função de nível superior é um objeto proxy, em vez do objeto global real\n1\n.\n\nCapítulo 15\nEscrevendo script de documentos\nJavaScript do lado do cliente existe para transformar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1987,
+    "totalChunks": 10000
+  }
+}

@@ -76,11 +76,6 @@ jspm_packages/
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
-# Generated chunks
-chunks/
-chunks/*.json
-*.txt
-
 # IDE
 .vscode/
 .idea/

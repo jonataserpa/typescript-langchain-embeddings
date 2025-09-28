@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_49",
+  "content": "cente da linguagem (veja o quadro) define novos recursos \npara desenvolvimento de software em grande escala.\nCAPÍTULO 1\nIntrodução a JavaScript\n\n2          Capítulo     1     Introdução     a     JavaScript\nPara ser útil, toda linguagem deve ter ou uma plataforma, ou biblioteca padrão, ou API de funções \npara fazer coisas como entrada e saída básicas. A linguagem JavaScript básica define uma API mí-\nnima para trabalhar com texto, arrays, datas e expressões regulares, mas não inclui funcionalidade \nalguma de entrada ou saída. Entrada e saída (assim como recursos mais sofisticados, como conexão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 49,
+    "totalChunks": 10000
+  }
+}

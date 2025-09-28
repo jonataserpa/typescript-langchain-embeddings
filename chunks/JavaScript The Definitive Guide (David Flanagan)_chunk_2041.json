@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2041",
+  "content": "Todos os navegadores atuais suportam \nquerySelector() e querySelectorAll(). Note, entretanto, que \na especificação desses métodos não exige suporte para seletores CSS3: os navegadores são estimu-\nlados a suportar o mesmo conjunto de seletores que suportam em folhas de estilo. Os navegadores \natuais, fora o IE, suportam seletores CSS3. O IE7 e 8 suportam seletores CSS2. (É esperado que o \nIE9 tenha suporte para CSS3.)\nquerySelectorAll() é o método definitivo de seleção de elemento: trata-se de uma técnica muito po-\nderosa por meio da qual os programas JavaScript do lado do cliente podem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2041,
+    "totalChunks": 10000
+  }
+}

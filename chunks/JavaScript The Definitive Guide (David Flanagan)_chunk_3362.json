@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3362",
+  "content": "Antes de usar cookies em seu código JavaScript, talvez \nvocê queira primeiro verificar se eles estão habilitados. Na maioria dos navegadores, isso pode ser feito \nverificando-se a propriedade\n navigator.cookieEnabled. Se for true, os cookies estão habilitados e se for \nfalse, estão desabilitados (embora cookies não persistentes que duram apenas pela sessão de navegação \natual ainda possam estar habilitados). Essa não é uma propriedade padrão e se você descobrir que ela está \nindefinida no navegador em que seu código está sendo executado, deve testar o suporte para cookies \ntentando gravar,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3362,
+    "totalChunks": 10000
+  }
+}

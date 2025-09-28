@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2733",
+  "content": "// Teclas de letra. Note que não distinguimos maiúsculas e minúsculas\n    65:\"A\", 66:\"B\", 67:\"C\", 68:\"D\", 69:\"E\", 70:\"F\", 71:\"G\", 72:\"H\", 73:\"I\",\n    74:\"J\", 75:\"K\", 76:\"L\", 77:\"M\", 78:\"N\", 79:\"O\", 80:\"P\", 81:\"Q\", 82:\"R\",\n    83:\"S\", 84:\"T\", 85:\"U\", 86:\"V\", 87:\"W\", 88:\"X\", 89:\"Y\", 90:\"Z\",\n    // Números do teclado numérico e teclas de pontuação. (O Opera não suporta isso.)\n    96:\"0\",97:\"1\",98:\"2\",99:\"3\",100:\"4\",101:\"5\",102:\"6\",103:\"7\",104:\"8\",105:\"9\",\n    106:\"Multiply\", 107:\"Add\", 109:\"Subtract\", 110:\"Decimal\", 111:\"Divide\",\n \n    // Teclas de função\n    112:\"F1\", 113:\"F2\", 114:\"F3\",",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2733,
+    "totalChunks": 10000
+  }
+}

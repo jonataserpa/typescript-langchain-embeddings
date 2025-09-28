@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1500",
+  "content": "2,3,4];    // first=1, second=2, all=[1,2,3,4]\n\n266          Parte     I     JavaScript     básica\nA atribuição de desestruturação pode ser usada até com arrays aninhados. Nesse caso, o lado esquer-\ndo da atribuição deve ser semelhante a um array literal aninhado:\nlet [one, [twoA, twoB]] = [1, [2,2.5], 3];       // one=1, twoA=2, twoB=2.5\nA atribuição de desestruturação também pode ser executada quando o lado direito é um valor \nde objeto. Nesse caso, o lado esquerdo da atribuição é semelhante a um objeto literal: uma lista \nseparada com vírgulas e delimitada com chaves de pares contendo nome",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1500,
+    "totalChunks": 10000
+  }
+}

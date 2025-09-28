@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_342",
+  "content": "ia de encadeamento de escopo é útil para se entender a instrução \nwith (Seção 5.7.1) e funda-\nmental para se entender os fechamentos (Seção 8.6).\n\nUma expressão é uma frase de código JavaScript que um interpretador JavaScript pode avaliar para \nproduzir um valor. Uma constante literalmente incorporada em seu programa é um tipo de expres-\nsão muito simples. Um nome de variável também é uma expressão simples, avaliada com o valor \natribuído a essa variável. Expressões complexas são formadas a partir de expressões mais simples. \nUma expressão de acesso a array, por exemplo, consiste em uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 342,
+    "totalChunks": 10000
+  }
+}

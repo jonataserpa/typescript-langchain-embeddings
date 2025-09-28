@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1847",
+  "content": "mente a string “home.example.com”, você \npode configurá-la como a string “example.com”, mas não como “home.example” ou “ample.com”. \nAlém disso, o valor \ndomain deve conter pelo menos um ponto; você não pode configurá-lo como \n“com” ou qualquer outro domínio de nível superior.\nSe duas janelas (ou quadros) contêm scripts que configuram \ndomain com o mesmo valor, a política \nda mesma origem é atenuada para essas duas janelas e uma pode interagir com a outra. Por exemplo, \nscripts que funcionam juntos em documentos carregados de orders.example.com e de catalog.example.\ncom poderiam configurar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1847,
+    "totalChunks": 10000
+  }
+}

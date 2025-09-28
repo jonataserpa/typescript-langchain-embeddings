@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_218",
+  "content": "tipo fundamental como os números. Esta seção apresenta um estudo rápido sobre \no trabalho com datas. Detalhes completos podem ser encontrados na seção de referência:\nvar then = new Date(2010, 0, 1);   // O 1º dia do 1º mês de 2010\nvar later = new Date(2010, 0, 1,   // O mesmo dia, às 5:10:30 da tarde, hora local\n                   17, 10, 30);\nvar now = new Date();    // A data e hora atuais\nvar elapsed = now – then;         // Subtração de data: intervalo em milissegundos\nlater.getFullYear()      // => 2010\nlater.getMonth()         // => 0: meses com base em zero\nlater.getDate()          //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 218,
+    "totalChunks": 10000
+  }
+}

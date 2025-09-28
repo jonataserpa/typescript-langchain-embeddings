@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1371",
+  "content": "ulo sets\ncollections.sets = (function namespace() {\n    // Define as várias classes set aqui, usando variáveis e funções locais\n    // ... Bastante código omitido...\n    // Agora exporta nossa API retornando um objeto namespace\n    return    {\n        // Nome da propriedade exportada : nome da variável local\n        AbstractSet:    AbstractSet,\n        NotSet:    NotSet,\n        AbstractEnumerableSet:    AbstractEnumerableSet,\n        SingletonSet:    SingletonSet,\n        AbstractWritableSet:    AbstractWritableSet,\n        ArraySet:    ArraySet\n    };\n}());\nUma técnica similar é tratar a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1371,
+    "totalChunks": 10000
+  }
+}

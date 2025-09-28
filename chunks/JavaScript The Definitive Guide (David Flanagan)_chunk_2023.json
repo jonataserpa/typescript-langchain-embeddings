@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2023",
+  "content": "function(e) { return e.innerHTML; });\nOs objetos HTMLCollection podem ter propriedades nomeadas adicionais e podem ser indexados com \nstrings e com números.\nPor motivos históricos, tanto objetos NodeList como HTMLCollection também podem ser tratados como \nfunções: chamá-los com um argumento numérico ou de string é o mesmo que indexá-los com um número \nou com uma string. O uso dessa peculiaridade é desestimulado.\nAs interfaces NodeList e HTMLCollection foram projetadas tendo em mente linguagens menos dinâmi-\ncas do que JavaScript em mente. Ambas definem um método",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2023,
+    "totalChunks": 10000
+  }
+}

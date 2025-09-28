@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_87",
+  "content": "função como propriedades do \n                           //    objeto\n}                           // Nenhum return é necessário\n// Usa uma função construtora com a palavra-chave \"new\" para criar instâncias\nvar p = new Point(1, 1);     // O ponto geométrico (1,1)\n// Define métodos para objetos Point atribuindo-os ao objeto\n// prototype associado à função construtora.\nPoint.prototype.r = function() {\n    return    Math.sqrt(           // Retorna a raiz quadrada de x\n2\n + y\n2\n        this.x * this.x +    // Este é o objeto Point no qual o método...\n        this.y * this.y     //...é chamado.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 87,
+    "totalChunks": 10000
+  }
+}

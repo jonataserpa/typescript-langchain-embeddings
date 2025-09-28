@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4630",
+  "content": "opriedade style \nde um objeto CSSRule. Contudo, o valor de retorno de Window.getComputedStyle() é um objeto \nCSSStyleDeclaration cujas propriedades são somente para leitura.\nUm objeto CSSStyleDeclaration torna os atributos de estilo CSS disponíveis por meio de proprieda-\ndes de JavaScript. Os nomes dessas propriedades de JavaScript são muito parecidos com os nomes de \natributo CSS, com pequenas alterações necessárias para evitar erros de sintaxe em JavaScript. Atribu-\ntos de várias palavras que contêm hifens, como “font-family”, são escritos sem hifens em JavaScript, \ncom cada palavra após a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4630,
+    "totalChunks": 10000
+  }
+}

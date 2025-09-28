@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1938",
+  "content": "ução desse código, ui.input, ui.prompt e ui.heading se referem a elementos do documen-\nto. Um script poderia usar as variáveis globais \ninput e heading, em vez de ui.input e ui.heading. Mas \nlembre-se, da Seção 14.5, que o objeto Window tem um método chamado \nprompt(), de modo que \num script não pode usar a variável global \nprompt em lugar de ui.prompt.\nO uso implícito de identificações de elemento como variáveis globais é uma peculiaridade histórica \nda evolução dos navegadores Web. Ele é exigido para compatibilidade com versões anteriores de \npáginas Web já existentes, mas seu uso não é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1938,
+    "totalChunks": 10000
+  }
+}

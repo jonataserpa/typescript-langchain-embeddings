@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1849",
+  "content": "pedido \nOrigin: e um novo cabeçalho de resposta Access-Control-Allow-\n-Origin\n. Isso permite que os servidores utilizem um cabeçalho para listar explicitamente as origens \nque podem solicitar um arquivo ou usar um curinga e permitir que um arquivo seja solicitado por \nqualquer site. Navegadores como o Firefox 3.5 e o Safari 4 utilizam esse novo cabeçalho para permi-\ntir pedidos HTTP de origem híbrida com XMLHttpRequest que, de outro modo, seriam proibidos \npela política da mesma origem.\n\n328          Parte II     JavaScript do lado do cliente\nOutra técnica nova, conhecida como troca de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1849,
+    "totalChunks": 10000
+  }
+}

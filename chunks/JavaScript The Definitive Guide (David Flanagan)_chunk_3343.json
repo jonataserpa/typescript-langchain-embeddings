@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3343",
+  "content": "valor para \nsetItem(). Para recuperar um valor, passe o nome para getItem(). \nPara excluir um valor, passe o nome para \nremoveItem(). (Na maioria dos navegadores, o operador \ndelete também pode ser usado para remover um valor, exatamente como você faria para um objeto \nnormal, mas essa técnica não funciona no IE8.) Para excluir todos os valores armazenados, chame \nclear() (sem argumentos). Por fim, para enumerar os nomes de todos os valores armazenados, use a \npropriedade \nlength e passe números de 0 a length-1 para o método key(). Aqui estão alguns exemplos \nusando \nlocalStorage. O mesmo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3343,
+    "totalChunks": 10000
+  }
+}

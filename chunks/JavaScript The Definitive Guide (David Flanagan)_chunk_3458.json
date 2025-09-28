@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3458",
+  "content": "ilable. Reload to run it\");\n};\n// Além disso, permite que o usuário saiba que não há uma nova versão disponível.\nwindow.applicationCache.onnoupdate = function() {\n    status(\"You are running the latest version of the application.\");\n};\n// Uma função para exibir uma mensagem de status na linha de status\nfunction status(msg) { statusline.innerHTML = msg; }\n// Carrega o texto da anotação no servidor (se estivermos online).\n// Será chamado automaticamente após 5 segundos de inatividade, quando\n// a anotação for modificada.\nfunction save() {\n    if (idletimer) clearTimeout(idletimer);",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3458,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3428",
+  "content": "s vezes fomos chamados.\n    var progress = \"\";\n    if (e && e.lengthComputable)  // Evento progress: calcula a porcentagem\n        progress = \" \" + Math.round(100*e.loaded/e.total) + \"%\"\n    else                // Caso contrário, relata o nº de vezes que foi chamado\n        progress = \" (\" + ++progresscount + \")\"\n    status(\"Downloading new version\" + progress);\n    return    false;\n};\n// Na primeira vez que um aplicativo é baixado na cache, o navegador\n// dispara o evento cached quando o download tiver terminado.\nwindow.applicationCache.oncached = function() {\n    status(\"This application is",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3428,
+    "totalChunks": 10000
+  }
+}

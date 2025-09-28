@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1639",
+  "content": "g.json\", JSON.stringify(userprefs));\nAs  funções  mostradas  anteriormente  tratam  o  conteúdo  do  arquivo  como  uma  única  string  ou  \nBuffer. O Node também define uma API de streaming para ler e gravar arquivos. A função a seguir \ncopia um arquivo em outro:\n// Cópia de arquivo com API de streaming.\n// Passe um retorno de chamada se você quer saber quando está terminado\nfunction fileCopy(filename1, filename2, done) {\n    var input = fs.createReadStream(filename1);        // Fluxo de entrada\n    var output = fs.createWriteStream(filename2);      // Fluxo de saída\n    input.on(\"data\",",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1639,
+    "totalChunks": 10000
+  }
+}

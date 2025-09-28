@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_988",
+  "content": "ão são obrigatórios, em torno de uma função que deve ser chamada \nimediatamente após ser definida.\nO Exemplo 8-3 demonstra essa técnica de espaço de nomes. Ele define uma função anônima que \nretorna uma função \nextend() como a que aparece no Exemplo 6-2. O código da função anônima \ntesta se está presente um conhecido erro do Internet Explorer e, se estiver presente, retorna uma \nversão corrigida da função. Além disso, o espaço de nomes da função anônima serve para ocultar um \narray de nomes de propriedade.\nExemplo 8-3 A função extend(), corrigida, se necessário\n// Define uma função extend que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 988,
+    "totalChunks": 10000
+  }
+}

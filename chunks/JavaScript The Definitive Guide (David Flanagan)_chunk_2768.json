@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2768",
+  "content": "risco.) Os navegadores mais antigos podem não suportar todos esses métodos, mas pelo menos \n“HEAD” é amplamente suportado e o Exemplo 18-13 demonstra seu uso.\nO segundo argumento de \nopen() é o URL que é o assunto da requisição. Isso é relativo ao URL do \ndocumento que contém o script que está chamando open(). Se você especifica um URL absoluto, o \nprotocolo, o host e a porta em geral devem corresponder aos do documento contêiner: requisições \nHTTP de várias origens normalmente causam um erro. (Mas a especificação XMLHttpRequest \nLevel 2 permite requisições de várias origens quando o servidor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2768,
+    "totalChunks": 10000
+  }
+}

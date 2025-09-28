@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1564",
+  "content": "qui (também \nnão são abordados na seção de referência). Os leitores que quiserem usar E4X precisarão consultar a \nespecificação para uma documentação definitiva.\nE4X define bastante sintaxe nova da linguagem. O que mais se destaca na nova sintaxe é que a \nmarcação XML se torna parte da linguagem JavaScript e é possível incluir literais XML como os \nseguintes diretamente no código JavaScript:\n// Cria um objeto XML\nvar pt =\n    <periodictable>\n      <element id=\"1\"><name>Hydrogen</name></element>\n      <element id=\"2\"><name>Helium</name></element>\n      <element",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1564,
+    "totalChunks": 10000
+  }
+}

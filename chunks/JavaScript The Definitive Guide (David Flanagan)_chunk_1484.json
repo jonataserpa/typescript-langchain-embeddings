@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1484",
+  "content": "bloco para variáveis em JavaScript há tempos é considerada uma deficiência da \nlinguagem, sendo que JavaScript 1.7 trata disso adicionando a palavra-chave let na linguagem. A \npalavra-chave const sempre foi reservada (mas não utilizada) em JavaScript, de modo que as cons-\ntantes podem ser adicionadas sem danificar qualquer código já existente. A palavra-chave let não \nfoi reservada; portanto, não é reconhecida a não ser que você opte por utilizá-la explicitamente na \nversão 1.7 ou posterior.\nA palavra-chave \nlet pode ser usada de quatro maneiras:\n •   como uma declaração de variável, como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1484,
+    "totalChunks": 10000
+  }
+}

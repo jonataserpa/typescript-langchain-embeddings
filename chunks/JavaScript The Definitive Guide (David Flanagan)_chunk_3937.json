@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3937",
+  "content": "// Registra erros de getFile()\n}\n// Exclui o arquivo nomeado, chamando a função callback opcional ao terminar\nfunction deleteFile(name, callback) {\n    filesystem.root.getFile(name, {},   // Obtém FileEntry para o arquivo nomeado\n                            function(entry) {             // Passa o FileEntry aqui\n                      entry.remove(callback,    // Exclui o FileEntry\n                                   logerr);    // Ou registra erro de remove()\n                           },\n                           logerr);  // Registra um erro de getFile()\n}\n\n688          Parte II",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3937,
+    "totalChunks": 10000
+  }
+}

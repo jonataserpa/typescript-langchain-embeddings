@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5560",
+  "content": "excluindo elementos de array, 142\n    excluindo propriedades, 121\n    excluindo propriedades confi guráveis do global \nobjeto, 122\n    removendo atributos e tags XML na E4X, 279\noperador descendente (. .), 278\noperador in, 61, 73\n    testando propriedades herdadas ou não herdadas, \n122\noperador instanceof, 61, 74\n    determinando a classe de um objeto, 204\n    incapacidade de distinguir tipo de array, 154\n    método isPrototypeOf( ) e, 132\n    não funcionando entre janelas, 350\n    trabalhando com objetos e classes Java no Rhino, \n283\n    usando com construtoras para testar a participa-\nção",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5560,
+    "totalChunks": 10000
+  }
+}

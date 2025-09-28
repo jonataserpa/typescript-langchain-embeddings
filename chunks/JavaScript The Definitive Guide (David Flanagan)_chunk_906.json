@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_906",
+  "content": "de outras funções:\ndata.sort(function(a,b) { return a-b; });\n// Às vezes as expressões de função são definidas e chamadas imediatamente:\nvar tensquared = (function(x) {return x*x;}(10));\nNote que o nome da função é opcional para funções definidas como expressões. A instrução \nde declaração de função na verdade declara uma variável e atribui a ela um objeto função. Uma \nexpressão de definição de função, por outro lado, não declara uma variável. É permitido um \nnome para funções (como na função de fatorial anterior) que precisem fazer referência a si mes-\nmas. Se uma expressão de definição de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 906,
+    "totalChunks": 10000
+  }
+}

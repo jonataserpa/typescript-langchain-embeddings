@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4890",
+  "content": "gumento \ntítulo fornece um nome para esse estado e os navegadores podem exibi-lo em suas \ninterfaces de histórico. (Quando este livro estava sendo escrito, os navegadores ignoravam esse argu-\nmento.) Se for especificado, o argumento \nurl é exibido na barra de endereço e fornece a esse estado \n\n      Referência de JavaScript do lado do cliente      921\nReferência de \nJavaScript do lado \ndo cliente\num estado permanente que pode ser marcado ou compartilhado com outros. url é solucionado em \nrelação à localização atual do documento. Se url é um URL absoluto, deve ter a mesma origem do \ndocumento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4890,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3782",
+  "content": "gem diferente da que você especificou. Se a mensagem que está sendo pas-\nsada não contém informações sigilosas e você quer passá-la para código de qualquer origem, pode \npassar a string \"*\" como curinga. Se quiser especificar a mesma origem da janela atual, pode usar \nsimplesmente \"/\".\nSe as origens corresponderem, a chamada de \npostMessage() vai resultar no disparo de um evento \nmensagem no objeto Window de destino. Um script nessa janela pode definir uma função de trata-\nmento de evento para ser notificada sobre eventos mensagem. Essa rotina de tratamento recebe um \nobjeto evento com as",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3782,
+    "totalChunks": 10000
+  }
+}

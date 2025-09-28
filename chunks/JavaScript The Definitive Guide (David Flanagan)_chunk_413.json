@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_413",
+  "content": "essões e operadores      69\nJavaScript básica\nOU bit a bit (|)\nO operador \n| executa uma operação OU booleana em cada bit de seus argumentos inteiros. \nUm bit se torna 1 no resultado se o bit correspondente for 1 em um ou nos dois operandos. \nPor exemplo, 0x1234 | 0x00FF é avaliado como 0x12FF.\nXOR bit a bit (\n^)\nO operador \n^ executa uma operação OU exclusivo booleana em cada bit de seus argumentos \ninteiros. OU exclusivo significa que o operando um é true ou o operando dois é true, mas \nnão ambos. Um bit se torna 1 no resultado dessa operação se um bit correspondente for 1 em \num (mas não",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 413,
+    "totalChunks": 10000
+  }
+}

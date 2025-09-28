@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2073",
+  "content": "er usados para consultar e configurar atributos \nHTML não padronizados e para consultar e configurar atributos nos elementos de um documen-\nto XML:\nvar image = document.images[0];\nvar width = parseInt(image.getAttribute(\"WIDTH\"));\nimage.setAttribute(\"class\", \"thumbnail\");\nO código anterior destaca duas importantes diferenças entre esses métodos e a API baseada em pro-\npriedades descritas. Primeiramente, todos os valores de atributo são tratados como strings. getAttri-\nbute() nunca retorna um número, booleano ou objeto. Segundo, esses métodos utilizam nomes de \natributo padrão, mesmo quando",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2073,
+    "totalChunks": 10000
+  }
+}

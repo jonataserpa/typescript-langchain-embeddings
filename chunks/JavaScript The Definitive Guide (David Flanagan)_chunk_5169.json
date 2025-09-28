@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5169",
+  "content": "centes pelo novo nó e retorna o novo nó. Consulte a propriedade wholeText ante-\nriormente e o método normalize() de Node.\n\n978          Parte IV     Referência de JavaScript do lado do cliente\nText splitText(unsigned long deslocamento)\nEsse método divide um nó Text em dois, no deslocamento especificado. O nó Text original é modifi-\ncado de modo a ter todo o conteúdo do texto até, mas não incluindo, o caractere na posição deslo-\ncamento. Um novo nó Text é criado para conter todos os caracteres a partir (e incluindo) da posição \ndeslocamento até o fim da string. Esse novo nó Text é o valor de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5169,
+    "totalChunks": 10000
+  }
+}

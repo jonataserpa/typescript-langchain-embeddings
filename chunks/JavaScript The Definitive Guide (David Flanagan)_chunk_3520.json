@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3520",
+  "content": "lguns navegadores um pouco mais antigos (como o Firefox 3.6) não \nsuportam isso e exigem o uso de um elemento <object>:\n<object data=\"sample.svg\" type=\"image/svg+xml\" width=\"100\" height=\"100\"/>\n\nCapítulo 21     Mídia e gráficos em scripts      609\nJavaScript do\n lado do cliente\nFigura 21-1 Um elemento gráfico SVG simples.\nQuando usada com um elemento <img> ou <object>, SVG é apenas outro formato de imagem e não \né especialmente interessante para programadores JavaScript. É mais útil incorporar imagens SVG di-\nretamente dentro de seus documentos para que possam ser incluídas em scripts. Como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3520,
+    "totalChunks": 10000
+  }
+}

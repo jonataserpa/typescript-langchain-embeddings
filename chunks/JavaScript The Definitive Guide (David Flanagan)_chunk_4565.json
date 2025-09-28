@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4565",
+  "content": "nto inferior esquerdo \n// arredondados\nc.arcTo(100,100,200,100,10);  // Desenha a esquerda e o canto superior esquerdo \n// arredondados\nc.closePath();               // De volta ao ponto de partida.\nc.stroke();                  // Desenha o caminho\nvoid beginPath()\nbeginPath() descarta qualquer caminho atualmente definido e inicia um novo. Não há um ponto \natual após uma chamada de \nbeginPath().\nQuando o contexto de um canvas é criado pela primeira vez, \nbeginPath() é chamado implicitamente.\n\n858          Parte IV     Referência de JavaScript do lado do cliente\nvoid bezierCurveTo(double pc1x,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4565,
+    "totalChunks": 10000
+  }
+}

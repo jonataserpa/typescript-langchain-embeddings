@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1308",
+  "content": "writable: false,     // Somente para leitura\n                          enumerable: false,   // Não enumerável\n                          configurable: false  // Não pode ser excluída\n                                        });\n  }\n        return this[idprop];    // Agora retorna o valor já existente ou o novo\n    };\n    // Essas variáveis são usadas por idGetter() e são privativas dessa função\n    var idprop = \"|**objectId**|\";  // Presume que essa propriedade não está em uso\n    var nextid = 1;       // Começa a atribuir identificações neste nº\n}());   // Chama a função",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1308,
+    "totalChunks": 10000
+  }
+}

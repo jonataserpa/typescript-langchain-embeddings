@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4154",
+  "content": "niversal\nSinopse\ndata.toGMTString()\nRetorna\nUma representação de string da data e hora especificadas pelo objeto Date \ndata. A data é convertida \ndo fuso horário local para o fuso horário GMT, antes de ser convertida em uma string.\nDescrição\ntoGMTString() foi desaprovado em favor do método idêntico Date.toUTCString().\nConforme ECMAScript v3, as implementações de JavaScript compatíveis não são mais obrigadas a \nfornecer esse método; em vez disso, use \ntoUTCString().\nConsulte também\nDate.toUTCString()\nDate.toISOString() ECMAScript 5\nconverte um objeto Date em uma string formatada em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4154,
+    "totalChunks": 10000
+  }
+}

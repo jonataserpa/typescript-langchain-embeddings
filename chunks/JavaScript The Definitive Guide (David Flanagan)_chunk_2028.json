@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2028",
+  "content": "s os descendentes do elemento chamado \"log\" que têm a classe\n// \"error\" e a classe \"fatal\"\nvar log = document.getElementById(\"log\");\nvar fatal = log.getElementsByClassName(\"fatal error\");\nOs navegadores Web atuais exibem documentos HTML no “modo Quirks” ou no “modo Standar-\nds”, dependendo do quanto a declaração <!DOCTYPE> no início do documento é restrita. O modo \nQuirks existe por compatibilidade com versões anteriores e uma de suas peculiaridades é que os \nelemento que está nesse índice. Em JavaScript nunca há necessidade de chamar esse método, pois pode-\n-se simplesmente utilizar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2028,
+    "totalChunks": 10000
+  }
+}

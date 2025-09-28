@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_664",
+  "content": "jeto vazio normal (como o objeto retornado por {} ou por new Object()), passe \nObject.prototype:\nvar o3 = Object.create(Object.prototype);  // o3 é como {} ou new Object().\nA capacidade de criar um novo objeto com um protótipo arbitrário (falando de outro modo: a capaci-\ndade de criar um “herdeiro” para qualquer objeto) é poderosa e podemos simulá-la em ECMAScript 3 \ncom uma função como a do Exemplo 6-1\n1\n.\nExemplo 6-1 Criando um novo objeto que herda de um protótipo\n// inherit() retorna um objeto recém-criado que herda propriedades do\n// objeto protótipo p. Ele usa a função ECMAScript 5",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 664,
+    "totalChunks": 10000
+  }
+}

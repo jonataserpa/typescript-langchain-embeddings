@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4874",
+  "content": "ra determinar a localização geográfica precisa do usuário. \nNos navegadores que o suportam, o objeto Geolocation está disponível por meio do objeto \nNaviga-\ntor como navigator.geolocation. Os métodos descritos aqui dependem de alguns outros tipos: as \nlocalizações são relatadas na forma de um objeto Geoposition e os erros são informados como objetos \nGeolocationError.\nMétodos\nvoid clearWatch(long idObservação)\nDeixa de monitorar a localização do usuário. O argumento idObservação deve ser o valor retornado \npela chamada correspondente de watchPosition().\nvoid getCurrentPosition(function",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4874,
+    "totalChunks": 10000
+  }
+}

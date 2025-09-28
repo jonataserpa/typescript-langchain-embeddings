@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5027",
+  "content": "o ponto de interrogação à esquerda – por exemplo, \n“?q=JavaScript&m=10”.\nMétodos\nvoid assign(string url)\nCarrega e exibe o conteúdo do url especificado, como se a propriedade href fosse configurada com \nurl.\nvoid reload()\nRecarrega o documento atualmente exibido.\nvoid replace(string url)\nCarrega e exibe o conteúdo do url especificado, substituindo o documento atual no histórico de \nnavegação para que o botão Back do navegador não o leve de volta ao documento exibido anterior-\nmente.\nMediaElement\num elemento reprodutor de mídia Node, Element\nMediaElement é a superclasse comum dos elementos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5027,
+    "totalChunks": 10000
+  }
+}

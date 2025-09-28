@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3147",
+  "content": ".\nSe quiser exibir apenas uma parte do documento carregado, adicione um espaço no URL e depois \ndele coloque um seletor jQuery. Quando o URL tiver carregado, o seletor especificado será usado \npara selecionar as partes do HTML carregado a serem exibidas:\n// Carrega e exibe a parte da previsão do tempo referente à temperatura\n$('#temp').load(\"weather_report.html #temperature\");\nNote que o seletor no final desse URL é muito parecido com um identificador de fragmento (a parte \nhash do URL, descrita na Seção 14.2). Contudo, se quiser que a jQuery insira apenas a parte (ou \npartes) selecionada do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3147,
+    "totalChunks": 10000
+  }
+}

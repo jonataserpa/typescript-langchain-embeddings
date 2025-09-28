@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2038",
+  "content": "nte, o objeto NodeList retornado por querySelectorAll() não é \ndinâmico: ele contém os elementos que correspondiam ao seletor no momento em que o método \nfoi chamado, mas não é atualizado quando o documento muda. Se nenhum elemento coincide, \nquerySelectorAll() retorna um objeto NodeList vazio. Se a string do seletor é inválida, querySelec-\ntorAll() lança uma exceção.\nAlém de \nquerySelectorAll(), o objeto documento também define querySelector(), que é como \nquerySelectorAll() mas retorna somente o primeiro (na ordem do documento) elemento coinciden-\nte ou null, caso não haja elemento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2038,
+    "totalChunks": 10000
+  }
+}

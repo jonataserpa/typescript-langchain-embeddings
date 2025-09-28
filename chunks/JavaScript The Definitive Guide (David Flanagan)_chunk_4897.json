@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4897",
+  "content": "objeto semelhante a um array retornado tem uma propriedade \nvalue que retorna o \natributo \nvalue do primeiro botão de opção com esse nome marcado. Você pode até configurar essa \npropriedade \nvalue para marcar o botão de opção com o valor correspondente.\nHTMLOptionsCollection\numa coleção de elementos Option HTMLCollection\nHTMLOptionsCollection é um HTMLCollection especializado que representa o elementos \nOption \ndentro de um elemento \nSelect. Ele anula o método namedItem() para manipular vários elementos \nOption com o mesmo nome e define métodos para adicionar e remover elementos. Por motivos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4897,
+    "totalChunks": 10000
+  }
+}

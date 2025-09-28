@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5413",
+  "content": "aldade, 70\n    visão geral dos operadores, 61–65\nexpressões aritméticas, 65–69\n    operador +, 66\n    operadores aritméticos unários, 67\n    operadores bit a bit, 68\nexpressões de acesso à propriedade, 59\n    chamadas de método, 163\n    precedência,    64\nexpressões de atribuição, 76\n    atribuição com operação, 76–77\n    efeitos colaterais, 86\nexpressões de avaliação, 78–80\n    eval( ) global, 78–79\n    eval( ) restrito, 79–80\n    função eval( ), 78–79\nexpressões de chamada, 60\n    chamada de função, 162\n    precedência,    64\nexpressões de criação de objeto, 60\nexpressões de defi nição de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5413,
+    "totalChunks": 10000
+  }
+}

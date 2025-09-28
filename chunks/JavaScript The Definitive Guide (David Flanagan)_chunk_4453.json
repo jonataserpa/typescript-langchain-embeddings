@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4453",
+  "content": "[\"1\",\"2\",\"3\",\"4\",\"5\"]\n\"|a|b|c|\".split(\"|\");    // Retorna [\"\", \"a\", \"b\", \"c\", \"\"]\nOutro uso comum do método split() é na análise de comandos e strings semelhantes, decompon-\ndo-os em palavras delimitadas por espaços:\nvar words = sentence.split(' ');\nÉ mais fácil decompor uma string em palavras usando uma expressão regular como delimitador:\nvar words = sentence.split(/\\s+/);\nPara decompor uma string em um array de caracteres, use a string vazia como delimitador. Use o \nargumento limite se quiser decompor apenas um prefixo da string em um array de caracteres:\n\"hello\".split(\"\");       // Retorna",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4453,
+    "totalChunks": 10000
+  }
+}

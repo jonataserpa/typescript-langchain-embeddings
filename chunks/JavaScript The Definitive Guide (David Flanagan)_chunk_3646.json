@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3646",
+  "content": "ntes \nbgfade e peekhole definidos anteriormente, usando o código a seguir:\nc.fillStyle = bgfade;  // Começa com o gradiente linear\nc.fillRect(0,0,600,600);        // Preenche o canvas inteiro\nc.strokeStyle = pattern;        // Usa o padrão para traçar linhas\nc.lineWidth = 100;     // Usa linhas realmente grossas\nc.strokeRect(100,100,400,400);  // Desenha um quadrado grande\nc.fillStyle = peekhole;         // Troca para o gradiente radial\nc.fillRect(0,0,600,600);                // Cobre a tela de desenho com esse preenchimento \n// translúcido\n21.4.8   Atributos de desenho de linhas\nVocê já viu",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3646,
+    "totalChunks": 10000
+  }
+}

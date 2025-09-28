@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1541",
+  "content": "iciar o \ngerador como faz o método next(). A diferença é que um valor pode ser passado para send() e esse \nvalor se torna o valor da expressão yield. (Na maioria das funções geradoras que não aceitam entrada \nadicional, a palavra-chave yield parece uma instrução. Na verdade, contudo, yield é uma expressão e \ntem um valor.) Além de next() e send(), outro modo de reiniciar um gerador é com throw(). Se esse \nmétodo é chamado, a expressão yield lança o argumento de throw() como uma exceção. O código a \nseguir demonstra isso:\n// Uma função geradora que conta a partir de um valor inicial.\n// Usa",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1541,
+    "totalChunks": 10000
+  }
+}

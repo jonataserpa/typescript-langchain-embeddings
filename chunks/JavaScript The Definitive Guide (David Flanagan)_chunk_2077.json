@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2077",
+  "content": "ados\nÀs vezes é útil anexar informações nos elementos HTML, normalmente quando o código Java-\nScript vai selecioná-los e manipulá-los de algum modo. Às vezes isso pode ser feito pela adição \nde identificadores especiais no atributo class. Outras vezes, para dados mais complexos, os pro-\ngramadores do lado do cliente recorrem a atributos não padronizados. Conforme mencionado, \nvocê pode usar os métodos getAttribute() e setAttribute() para ler e gravar valores de atributos \nnão padronizados. O preço a ser pago, no entanto, é que seu documento não vai ser um HTML \nválido.\nHTML5 oferece uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2077,
+    "totalChunks": 10000
+  }
+}

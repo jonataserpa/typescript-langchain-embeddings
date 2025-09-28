@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2330",
+  "content": "dos elementos \ne indicar quais de dois ou mais elementos sobrepostos é desenhado sobre os outros. A propriedade \nz-index é um inteiro. O valor padrão é zero, mas você pode especificar valores positivos ou negativos. \nQuando dois ou mais elementos se sobrepõem, eles são desenhados na ordem do menor z-index para \no maior; o elemento com z-index mais alto aparece sobre todos os outros. Se elementos sobrepostos \ntêm o mesmo z-index, eles são desenhados na ordem em que aparecem no documento, de modo que \no último elemento sobreposto aparece em cima.\nNote que o empilhamento de \nz-index só se",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2330,
+    "totalChunks": 10000
+  }
+}

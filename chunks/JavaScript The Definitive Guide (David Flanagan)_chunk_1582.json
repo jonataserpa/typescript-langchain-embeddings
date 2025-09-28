@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1582",
+  "content": "importantes que não fazem parte de JavaScript básica:\n// Globais específicas da incorporação: digite help() no prompt do rhino para mais \n// informações\nprint(x);             // A função global print imprime na console\nversion(170);         // Diz ao Rhino que queremos recursos da linguagem JS 1.7\nload(filename,...);   // Carrega e executa um ou mais arquivos de código JavaScript\nreadFile(file);       // Lê um arquivo de texto e retorna seu conteúdo como uma string\nreadUrl(url);         // Lê o conteúdo textual de um URL e retorna como uma string\nspawn(f);             // Executa f() ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1582,
+    "totalChunks": 10000
+  }
+}

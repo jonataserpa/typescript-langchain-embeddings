@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3071",
+  "content": "como \nonsubmit. Mas você não \npode disparar manualmente rotinas de tratamento de evento registradas com addEventListener() \nou attachEvent() (contudo, essas rotinas de tratamento ainda serão chamadas quando ocorrer um \nevento real).\nNote também que o mecanismo de disparo de eventos da jQuery é síncrono – não há fila de even-\ntos envolvida. Quando você dispara um evento, as rotinas de tratamento são chamadas imediata-\nmente, antes que o método que causou o disparo que você chamou retorne. Se você dispara um \nevento click e uma das rotinas de tratamento disparadas dispara um evento submit,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3071,
+    "totalChunks": 10000
+  }
+}

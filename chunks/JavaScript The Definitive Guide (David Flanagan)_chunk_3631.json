@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3631",
+  "content": "permitem o uso dos espaços de cores RGB, RGBA, \nHSL e HSLA, além das cores RGB hexadecimais básicas. Aqui estão alguns exemplos:\nvar colors = [\n    \"#f44\",                // Valor RGB hexadecimal: vermelho\n    \"#44ff44\",            // Valor RRGGBB hexadecimal: verde\n    \"rgb(60, 60, 255)\",             // RGB como inteiros 0-255: azul\n    \"rgb(100%, 25%, 100%)\",         // RGB como porcentagens: violeta\n    \"rgba(100%, 25%, 100%, 0.5)\",   // RGB mais alfa 0-1: violeta translúcido\n    \"rgba(0,0,0,0)\",      // Preto completamente transparente\n    \"transparent\",        // Sinônimo do anterior",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3631,
+    "totalChunks": 10000
+  }
+}

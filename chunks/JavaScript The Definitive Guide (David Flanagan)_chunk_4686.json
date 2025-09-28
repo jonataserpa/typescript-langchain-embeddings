@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4686",
+  "content": "dentes têm o foco).\nNode importNode(Node nó, boolean profundidade)\nEsse método recebe um nó definido em outro documento e retorna uma cópia do nó, conveniente \npara inserção nesse documento. Se profundidade é true, todos os descendentes do nó também são \ncopiados. O nó original e seus descendentes não são modificados. A cópia retornada tem sua pro-\npriedade ownerDocument configurada com esse documento, mas parentNode igual a null, pois ainda \nnão foi inserida no documento. As funções receptoras de evento registradas no nó original ou na \nárvore não são copiadas. Consulte também",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4686,
+    "totalChunks": 10000
+  }
+}

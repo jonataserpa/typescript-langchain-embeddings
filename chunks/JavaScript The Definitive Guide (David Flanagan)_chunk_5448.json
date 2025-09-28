@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5448",
+  "content": "ontinue,    102\n        instruções    return,    103\n        instruções    rotuladas,    100\n        instruções    throw,    104\n        instruções    try/catch/fi nally, 104\n    terminação, pontos e vírgulas opcional e, 25\ninstruções break, 101\n    quebra de linha interpretada como ponto e vírgu-\nla, 26\ninstruções condicionais, 85, 90\n    else if, 92\n    em inclusões de array, 274\n    if,    90\n    switch,    93\ninstruções continue, 102\n    ponto e vírgula interpretado como quebra de li-\nnha, 26\ninstruções continue não rotuladas, 102\ninstruções de declaração, 85, 87\n    instrução var,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5448,
+    "totalChunks": 10000
+  }
+}

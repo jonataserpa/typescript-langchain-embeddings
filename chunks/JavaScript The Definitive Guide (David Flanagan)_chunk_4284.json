@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4284",
+  "content": "ção construtora Number(). Conforme mencionado anteriormente, JavaScript converte \nautomaticamente de valores numéricos primitivos para objetos Number quando necessário. Isso \n\n      Referência de JavaScript básica      787\nReferência de \nJavaScript básica\nsignifica que você pode usar os métodos de Number com valores numéricos primitivos e também \ncom objetos Number.\nvar value = 1234;\nvar binary_value = n.toString(2);\nConsulte também\nInfinity, Math, NaN\nNumber.MAX_VALUE\no valor numérico máximo\nSinopse\nNumber.MAX_VALUE\nDescrição\nNumber.MAX_VALUE é o maior número representável em JavaScript. Seu",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4284,
+    "totalChunks": 10000
+  }
+}

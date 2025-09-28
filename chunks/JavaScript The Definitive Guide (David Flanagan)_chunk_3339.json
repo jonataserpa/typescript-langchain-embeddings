@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3339",
+  "content": "rante a segunda visita.\nOs dados armazenados por meio de \nsessionStorage têm vida útil diferente dos dados armazenados \npor meio de \nlocalStorage: eles têm a mesma vida útil que a janela de nível superior ou guia do \nnavegador em que o script que os armazenou está sendo executado. Quando a janela ou guia é fe-\nchada permanentemente, os dados armazenados por meio de \nsessionStorage são excluídos. (Note, \nentretanto, que os navegadores modernos têm a capacidade de reabrir guias fechadas recentemente \ne restaurar a última sessão de navegação, de modo que a vida útil dessas guias e da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3339,
+    "totalChunks": 10000
+  }
+}

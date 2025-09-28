@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_917",
+  "content": "hamada. Em JavaScript as funções podem ser chamadas de quatro maneiras:\n •   como funções,\n •   como métodos,\n1\n  Algumas implementações de JavaScript não são tão rígidas quanto a essa regra. O Firefox, por exemplo, permite que “de-\nclarações de função condicional” apareçam dentro de instruções \nif.\n\n162          Parte     I     JavaScript     básica\n •   como construtoras e\n •   indiretamente, por meio de seus métodos \ncall() e apply().\n8.2.1   Chamada de função\nAs funções são chamadas como funções ou como métodos com uma expressão de invocação (Seção \n4.5). Uma expressão de invocação",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 917,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2816",
+  "content": "uest();\n    request.open(\"POST\", url);                  // Posta (com POST) no url especificado\n     request.onreadystatechange = function() {    // Rotina de tratamento de evento simples\n        if (request.readyState === 4 && callback) // Quando a resposta está completa\n            callback(request);                  // chama a função callback.\n    };\n    request.setRequestHeader(\"Content-Type\",    \"application/json\");\n    request.send(JSON.stringify(data));\n}\n18.1.3.3   Pedidos codificados como XML\nÀs vezes a XML também é usada como codificação para transferência de dados. Em vez de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2816,
+    "totalChunks": 10000
+  }
+}

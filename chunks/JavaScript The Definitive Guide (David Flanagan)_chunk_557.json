@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_557",
+  "content": "ntadora como \ncount. Os nomes de variável i, j e k são comumente utilizados como contadores de laço, embora \nvocê deva usar nomes mais descritivos se isso tornar seu código mais fácil de entender.\n\n96          Parte     I     JavaScript     básica\n5.5.2   do/while\nO laço do/while é como um laço while, exceto que a expressão do laço é testada no final e não no início \ndo laço. Isso significa que o corpo do laço sempre é executado pelo menos uma vez. A sintaxe é:\ndo\n    instrução\nwhile (expressão);\nO laço do/while é menos comumente usado do que seu primo while – na prática, é um tanto inco-\nmum",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 557,
+    "totalChunks": 10000
+  }
+}

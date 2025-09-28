@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2843",
+  "content": "ratamento de evento progress normais. Para um objeto XMLHttpRequest \nx, configure x.onprogress \npara monitorar o andamento do download da resposta. E configure x.upload.onprogress para moni-\ntorar o andamento do upload da requisição.\nO Exemplo 18-11 demonstra como usar eventos progress de upload para dar feedback do andamen-\nto de upload para o usuário. Esse exemplo também demonstra como obter objetos File da API Drag-\n-and-Drop e como fazer o upload de vários arquivos em uma única requisição XMLHttpRequest \ncom a API FormData. Esses recursos ainda estavam em versão draft quando este livro",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2843,
+    "totalChunks": 10000
+  }
+}

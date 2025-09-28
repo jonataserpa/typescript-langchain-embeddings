@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_486",
+  "content": "o tipo do operando. A tabela a seguir especifica o valor do \noperador typeof para qualquer valor de JavaScript:\nxtypeof x\nundefined\"indefinido\"\nnull\"objeto\"\ntrue ou false\"booleano\"\nqualquer número ou NaN\"número\"\nqualquer string\"string\"\nqualquer função\"função\"\nqualquer objeto nativo que não seja \nfunção\n\"objeto\"\nqualquer objeto hospedeiroUma string definida pela implementação, mas não \n\"indefinido\", \"booleano\", \"número\" nem \"string\".\n\n82          Parte     I     JavaScript     básica\nO operador typeof poderia ser usado em uma expressão como a seguinte:\n(typeof value == \"string\") ? \"'\" + value",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 486,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1780",
+  "content": "e seus documentos e aplicativos serão vistos e executados em navegadores de épocas diferentes (desde \nlançamentos beta de última geração até navegadores de dez anos atrás, como o IE6), de diferentes for-\nnecedores (Microsoft, Mozilla, Apple, Google, Opera), executando em diferentes sistemas operacionais \n(Windows, Mac OS, Linux, OS, Android). É um desafio escrever programas complexos em JavaScript \ndo lado do cliente que sejam executados corretamente em uma variedade tão ampla de plataformas.\nOs problemas de compatibilidade e interoperabilidade de JavaScript do lado do cliente caem em três",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1780,
+    "totalChunks": 10000
+  }
+}

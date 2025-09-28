@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5216",
+  "content": "qual fornece informações sobre versão e configuração \ndo navegador Web. Consulte Navigator.\nreadonly Window opener\nUma referência de leitura/gravação ao objeto Window que continha o script que chamou open() \npara abrir essa janela de navegador ou null, para janelas que não foram criadas dessa maneira. \nEssa propriedade é válida somente para objetos Window que representam janelas de nível su-\nperior e não para os que representam quadros. A propriedade opener é útil para que uma janela \nrecentemente criada possa se referir a propriedades e funções definidas na janela que a criou.\nreadonly long",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5216,
+    "totalChunks": 10000
+  }
+}

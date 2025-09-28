@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_839",
+  "content": "icado pelo segundo argumento. Se apenas um argumento é especificado, o array \nretornado contém todos os elementos desde a posição inicial até o fim do array. Se um ou outro \nargumento é negativo, ele especifica um elemento relativo ao último elemento no array. Um ar-\ngumento -1, por exemplo, especifica o último elemento no array e um argumento -3 especifica o \nantepenúltimo elemento do array. Note que \nslice() não modifica o array em que é chamado. Aqui \nestão alguns exemplos:\nvar a = [1,2,3,4,5];\na.slice(0,3);    //    Retorna    [1,2,3]\n\nCapítulo     7     Arrays          147\nJavaScript",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 839,
+    "totalChunks": 10000
+  }
+}

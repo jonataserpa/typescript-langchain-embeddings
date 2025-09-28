@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3745",
+  "content": "se a geolocalização falhar\n    function error(e) {\n\n656          Parte II     JavaScript do lado do cliente\n   // O objeto error tem um código numérico e uma mensagem de texto. Valores do \n// código:\n        // 1: o usuário não deu permissão para compartilhar sua localização\n        // 2: o navegador não conseguiu determinar a posição\n        // 3: um tempo-limite foi atingido\n        elt.innerHTML = \"Geolocation error \" + e.code + \": \" + e.message;\n }\n    // Esta função será chamada se a geolocalização for bem-sucedida\n    function success(pos) {\n        // Esses são os campos que sempre",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3745,
+    "totalChunks": 10000
+  }
+}

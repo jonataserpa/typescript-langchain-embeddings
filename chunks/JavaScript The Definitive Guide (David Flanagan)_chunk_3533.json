@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3533",
+  "content": "// Adiciona no gráfico\n        // E adiciona um rótulo à direita do retângulo\n        var label = document.createElementNS(svgns, \"text\");\n        label.setAttribute(\"x\", lx + 30);        // Posiciona o texto\n        label.setAttribute(\"y\", ly + 30*i + 18);\n        // Os atributos de estilo de texto também poderiam ser configurados via CSS\n        label.setAttribute(\"font-family\",    \"sans-serif\");\n        label.setAttribute(\"font-size\",    \"16\");\n        // Adiciona um nó de texto DOM no elemento <svg:text>\n        label.appendChild(document.createTextNode(labels[i]));",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3533,
+    "totalChunks": 10000
+  }
+}

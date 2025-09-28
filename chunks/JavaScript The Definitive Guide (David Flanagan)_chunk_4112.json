@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4112",
+  "content": "ate – o número de milissegundos desde a meia-noite \n(GMT) de 1º de janeiro de 1970. Nesse formato de milissegundos padrão, a data e a hora são re-\npresentadas por um único inteiro, o que torna a aritmética com datas especialmente fácil. O padrão \nECMAScript exige que o objeto Date possa representar qualquer data e hora, com precisão de mi-\nlissegundos, no período de 100 milhões de dias antes ou depois de 1/1/1970. Esse é um intervalo \nde mais ou menos 273.785 anos, de modo que o clock de JavaScript não vai “estourar a data” até o \nano 275755.\n\n730          Parte III     Referência de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4112,
+    "totalChunks": 10000
+  }
+}

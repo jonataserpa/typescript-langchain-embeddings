@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5490",
+  "content": "ConsoleCommandLine, 868\nmétodo profi leEnd( )\n    objeto Console, 867\n    objeto ConsoleCommandLine, 868\nmétodo prompt( ), objeto Window, 339, 990\nmétodo propertyIsEnumerable( ), 122, 806–807\nmétodo push( ), objeto Array, 147, 715\n    adicionando elementos no fi nal do array, 141\nmétodo pushStack( ), jQuery, 568\nmétodo pushState( ), objeto History, 657, 920\n    gerenciamento de histórico com (exemplo), 658–\n661\nmétodo PUT, 595\nmétodo querySelector( ), 360\n    objeto Document, 881\n    objeto Element, 891–892\nmétodo querySelectorAll( ), 360\n    função $( ) versus, 515\n    objeto Document, 429,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5490,
+    "totalChunks": 10000
+  }
+}

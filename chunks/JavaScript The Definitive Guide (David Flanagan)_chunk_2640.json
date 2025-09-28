@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2640",
+  "content": "= contentbox.bottom – contentbox.top;\n        if (e.altKey) { // Se a tecla Alt estiver pressionada, redimensiona o quadro\n            if (deltaX) {\n\n462          Parte II     JavaScript do lado do cliente\n                framewidth -= deltaX;  // Nova largura, mas não maior do que o\n                framewidth = Math.min(framwidth, contentwidth);   // conteúdo\n                framewidth = Math.max(framewidth,50);    // e não menor do que 50.\n                frame.style.width = framewidth + \"px\";   // Configura-o no quadro\n   }\n            if (deltaY) {\n                frameheight -= deltaY;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2640,
+    "totalChunks": 10000
+  }
+}

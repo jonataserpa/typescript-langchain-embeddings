@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2058",
+  "content": "lado do cliente\n/**\n * Retorna o n-ésimo elemento filho de e, ou null se ele não tem um.\n * Valores negativos de n contam a partir do final. 0 significa o primeiro filho, mas\n * -1 significa o último filho, -2 significa o penúltimo e assim por diante.\n */\nfunction child(e, n) {\n    if (e.children) {       // Se o array children existe\n        if (n < 0) n += e.children.length;    //  Converte n negativo no índice do array\n        if (n < 0) return null;      // Se ainda é negativo, nenhum filho\n        return e.children[n];        // Retorna o filho especificado\n }\n    // Se e não tem um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2058,
+    "totalChunks": 10000
+  }
+}

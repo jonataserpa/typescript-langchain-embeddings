@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2575",
+  "content": "os eventos lá. Você poderia registrar uma rotina de tratamento “change” em um \nelemento \n<form>, por exemplo, em vez de registrar uma rotina de tratamento “change” para cada \nelemento do formulário.\nA maioria dos eventos que ocorrem em elementos do documento borbulha. As exceções notáveis são \nos eventos focus, blur e scroll. O evento load nos elementos do documento borbulha, mas para de \nborbulhar no objeto Document e não se propaga para o objeto Window. O evento load do objeto \nWindow é disparado somente quando o documento inteiro está carregado.\nA borbulha de eventos é a terceira “fase” da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2575,
+    "totalChunks": 10000
+  }
+}

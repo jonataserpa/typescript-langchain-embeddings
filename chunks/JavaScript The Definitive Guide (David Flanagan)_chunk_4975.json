@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4975",
+  "content": "nveniência que seguem esse padrão:\n    ajaxComplete()    blur()        focusin()    mousedown()      mouseup()\n    ajaxError()         change()        focusout()    mouseenter()     resize()\n    ajaxSend()         click()        keydown()    mouseleave()     scroll()\n    ajaxStart()         dblclick()        keypress()    mousemove()      select()\n    ajaxStop()         error()        keyup()     mouseout()       submit()\n    ajaxSuccess()    focus()        load()      mouseover()      unload()\nbind(tipo, [dados], f(evento))\nbind(eventos)\nRegistra f como rotina de tratamento de eventos do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4975,
+    "totalChunks": 10000
+  }
+}

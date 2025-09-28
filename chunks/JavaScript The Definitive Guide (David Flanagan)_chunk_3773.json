@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3773",
+  "content": "eros usando uma tabela\n    ui.low.style.width = state.low + \"%\";\n\nCapítulo 22     APIs de HTML5      661\nJavaScript do\n lado do cliente\n    ui.mid.style.width = (state.high-state.low) + \"%\";\n    ui.high.style.width = (100-state.high) + \"%\";\n    // Certifica-se de que o campo de entrada esteja visível, vazio e com o foco\n    ui.input.style.visibility = \"visible\";\n    ui.input.value = \"\";\n    ui.input.focus();\n \n    // Configura o prompt com base no palpite mais recente do usuário\n    if (state.guess === undefined)\n        ui.prompt.innerHTML = \"Type your guess and hit Enter: \";\n    else if",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3773,
+    "totalChunks": 10000
+  }
+}

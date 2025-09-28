@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_441",
+  "content": "valor do lado esquerdo é o nome de uma propriedade do objeto do lado direito. Por exemplo:\nvar point = { x:1, y:1 };       // Define um objeto\n\"x\" in point           // => verdadeiro: o objeto tem uma propriedade chamada  \n                              //\"x\"\n\"z\" in point           // => falso: o objeto não tem propriedade \"z\".\n\"toString\" in point    // => verdadeiro: o objeto herda o método toString\nvar data = [7,8,9];    // Um array com elementos 0, 1 e 2\n\"0\" in data            // => verdadeiro: o array tem um elemento \"0\"\n1 in data              // => verdadeiro: números são convertidos em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 441,
+    "totalChunks": 10000
+  }
+}

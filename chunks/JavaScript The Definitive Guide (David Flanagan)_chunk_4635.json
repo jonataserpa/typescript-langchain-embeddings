@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4635",
+  "content": "licada ao documento. Se for false, a folha \nde estilo é habilitada e aplicada ao documento.\nreadonly string href\nO URL de uma folha de estilo vinculada ao documento ou null, para folhas de estilo em linha.\nreadonly string media\nUma lista da mídia à qual essa folha de estilo se aplica. Você pode consultar e configurar essa \npropriedade como uma única string ou tratá-la como um objeto semelhante a um array de \ntipos de mídia, com métodos appendMedium() e deleteMedium(). (Formalmente, o valor dessa \npropriedade é um objeto MediaList, mas esse tipo não é abordado nesta referência.)\nreadonly Node",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4635,
+    "totalChunks": 10000
+  }
+}

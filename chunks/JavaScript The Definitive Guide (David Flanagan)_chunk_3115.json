@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3115",
+  "content": "/ Anima o tamanho da fonte até 10 pixels\n}, {\n    duration: 500,    // A animação dura 1/2 segundo\n    complete: function() {      // Chama esta função ao terminar\n        this.text(\"Goodbye\");   // Muda o texto do elemento.\n }\n});\nEm vez de passar um objeto opções como segundo argumento, animate() também permite especi-\nficar três das opções mais usadas como argumentos. Você pode passar a duração (como número ou \nstring) como segundo argumento. Pode especificar o nome de uma função de abrandamento como \nterceiro argumento. (As funções de abrandamento vão ser explicadas em breve.) E pode",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3115,
+    "totalChunks": 10000
+  }
+}

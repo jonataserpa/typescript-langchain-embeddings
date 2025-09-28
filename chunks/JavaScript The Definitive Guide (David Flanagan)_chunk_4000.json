@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4000",
+  "content": "a. O cliente e o servidor se comunicam por meio de um soquete \nTCP de longa duração, seguindo regras definidas pelo protocolo WebSocket. Os detalhes do protocolo \nnão são relevantes aqui, mas é interessante notar que o protocolo WebSocket é cuidadosamente pro-\njetado para que os servidores Web possam manipular conexões HTTP e WebSocket facilmente pela \nmesma porta.\nOs WebSockets usufruem de amplo suporte entre os fornecedores de navegador Web. Contudo, foi des-\ncoberta uma importante brecha na segurança de uma antiga versão prelinimar do protocolo WebSocket \ne, quando este livro estava sendo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4000,
+    "totalChunks": 10000
+  }
+}

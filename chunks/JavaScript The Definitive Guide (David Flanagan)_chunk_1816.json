@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1816",
+  "content": "alguma combinação dos três).\nEm JavaScript do lado do cliente, isso é feito com o objeto Navigator, sobre o qual você vai apren-\nder no Capítulo 14. O código que determina o fornecedor e a versão do navegador presente é \nfrequentemente chamado de browser sniffer (farejador de navegador) ou client sniffer (farejador de \ncliente). Uma amostra simples aparece no Exemplo 14-3. Farejar cliente era uma técnica de progra-\nmação comum nos primórdios da Web, quando as plataformas Netscape e IE eram incompatíveis \ne divergentes. Agora a técnica perdeu a popularidade e só deve ser usada quando",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1816,
+    "totalChunks": 10000
+  }
+}

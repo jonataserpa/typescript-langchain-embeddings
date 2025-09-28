@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_942",
+  "content": "el aos parâmetros omitidos. Aqui \nestá um exemplo:\n// Anexa os nomes das propriedades enumeráveis do objeto o no\n// array a e retorna a. Se a for omitido, cria e retorna um novo array.\nfunction getPropertyNames(o, /* opcional */ a) {\n    if (a === undefined) a = [];    // Se for undefined, usa um novo array\n    for(var property in o) a.push(property);\n    return    a;\n}\n// Esta função pode ser chamada com 1 ou 2 argumentos:\nvar a = getPropertyNames(o);    // Obtém as propriedades de o em um novo array\ngetPropertyNames(p,a); // anexa as propriedades de p nesse array\nEm vez de usar uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 942,
+    "totalChunks": 10000
+  }
+}

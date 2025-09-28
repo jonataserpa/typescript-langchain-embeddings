@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5557",
+  "content": "oll, 459\nobjetos FileEntry, 685–686\nobjetos FileWriter, 685–686\nobjetos host, 113\nobjetos ImageData, 925\n    copiando no canvas, 862\n    criando,    858\n    passando para worker via postMessage( ), 669\n    propriedade data, array de bytes, 673\nobjetos imutáveis, 134, 798–799, 803–804\nobjetos nativos, 113\nobjetos proxy, 350\nobjetos que podem ser chamados, 186\nobjetos que podem ser iterados, 268–269\nobjetos selados, 804–805\nobjetos semelhantes a um array, 154–156, 344\n    arrays tipados, 672\n    jQuery,    514\n    objeto Arguments, 167\n    objeto DOMTokenList, 427\n    objetos HTMLCollection,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5557,
+    "totalChunks": 10000
+  }
+}

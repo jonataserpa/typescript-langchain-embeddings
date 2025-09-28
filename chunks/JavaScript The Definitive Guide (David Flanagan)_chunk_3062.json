@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3062",
+  "content": "jQuery:\n$('*').unbind();  // Remove todas as rotinas de tratamento de evento jQuery de todos os \n// elementos!\nCom um argumento de string, todas as rotinas de tratamento do tipo de evento nomeado (ou tipos, \nse a string nomear mais de um) são desvinculadas de todos os elementos do objeto jQuery:\n// Desvincula todas as rotinas de tratamento de mouseover e mouseout em todos os \n// elementos <a>\n$('a').unbind(\"mouseover mouseout\");\nEssa é uma estratégia pesada e não deve ser usada em código modular, pois o usuário de seu módulo \npode estar utilizando outros módulos que registram suas próprias",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3062,
+    "totalChunks": 10000
+  }
+}

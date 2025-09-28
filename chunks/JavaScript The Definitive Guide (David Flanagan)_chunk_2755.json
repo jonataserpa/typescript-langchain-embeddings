@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2755",
+  "content": "te a HTTP; a saber, toda atividade envolvida com requisições ou respostas \nHTTP para os métodos HTTP definidos.\n\nCapítulo 18     Scripts HTTP      481\nJavaScript do\n lado do cliente\nEntretanto, este capítulo não descreve protocolos de nível mais alto como esse; em vez disso, se con-\ncentra nas APIs que permitem Ajax e Comet.\n18.1   Usando   XMLHttpRequest\nOs navegadores definem suas APIs HTTP em uma classe XMLHttpRequest. Cada instância dessa \nclasse representa um único par requisição/resposta. As propriedades e os métodos do objeto permi-\ntem especificar detalhes da requisição e extrair",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2755,
+    "totalChunks": 10000
+  }
+}

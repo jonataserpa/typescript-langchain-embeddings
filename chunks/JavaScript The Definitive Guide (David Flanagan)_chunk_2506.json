@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2506",
+  "content": "keydown, keyup e keypress são suportados por todos os navegadores, mas existem alguns \nproblemas de interoperabilidade, pois os valores da propriedade \nkeyCode do objeto evento nunca \nforam padronizados. A especificação Level 3 Events do DOM, descrita a seguir, tenta tratar desses \nproblemas de interoperabilidade, mas ainda não foi implementada. A Seção 17.9 contém um exem-\nplo de tratamento de eventos keydown e a Seção 17.8 contém um exemplo de processamento de \neventos keypress.\n\nCapítulo 17     Tratando eventos      441\nJavaScript do\n lado do cliente\n17.1.2   Eventos   DOM\nA especificação",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2506,
+    "totalChunks": 10000
+  }
+}

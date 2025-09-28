@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3699",
+  "content": "O re-\ntângulo passado para \ngetImageData() está no sistema de coordenadas padrão: suas dimensões são \nmedidas em pixels CSS e ele não é afetado pela transformação atual. Quando você chama putIma-\ngeData(), a posição especificada também é medida no sistema de coordenadas padrão. Além disso, \nputImageData() ignora todos os atributos gráficos. Ele não faz composição, não multiplica pixels por \nglobalAlpha e não desenha sombras.\nOs métodos de manipulação de pixels são úteis para implementar processamento de imagens. O \nExemplo 21-10 mostra como criar um motion blur simples ou efeito de “borrão”",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3699,
+    "totalChunks": 10000
+  }
+}

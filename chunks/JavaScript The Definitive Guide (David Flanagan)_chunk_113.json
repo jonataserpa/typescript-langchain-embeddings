@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_113",
+  "content": "rios recursos da linguagem JavaScript básica e também importantes técnicas \nde JavaScript do lado do cliente:\n •   Como localizar elementos em um documento.\n •   Como obter entrada do usuário a partir de elementos de entrada de formulários.\n •   Como definir o conteúdo HTML de elementos do documento.\n •   Como armazenar dados no navegador.\n •   Como fazer requisições HTTP em scripts.\n •   Como desenhar gráficos com o elemento \n<canvas>.\nExemplo 1-1 Uma calculadora de empréstimos em JavaScript\n<!DOCTYPE html>\n<html>\n<head>\n<title>JavaScript Loan Calculator</title>\n<style> /* Esta é uma folha",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 113,
+    "totalChunks": 10000
+  }
+}

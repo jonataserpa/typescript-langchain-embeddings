@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_695",
+  "content": "e somente de leitura herdada com uma propriedade própria de mesmo nome.\n •\no não tem uma propriedade própria p; o não herda uma propriedade p com um método setter \ne o atributo extensível de o (consulte a Seção 6.8.3) é false. Se p ainda não existe em o e se \nnão há qualquer método setter para chamar, então p deve ser adicionada em o. Mas se o não é \nextensível, então nenhuma propriedade nova pode ser definida nele.\n6.3   Excluindo   propriedades\nO operador delete (Seção 4.13.3) remove uma propriedade de um objeto. Seu operando deve ser \numa expressão de acesso à propriedade.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 695,
+    "totalChunks": 10000
+  }
+}

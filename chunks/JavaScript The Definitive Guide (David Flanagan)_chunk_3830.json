@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3830",
+  "content": "pixels\n    var context = canvas.getContext(\"2d\");\n    context.drawImage(img, 0, 0);\n    var pixels = context.getImageData(0,0,img.width,img.height)\n \n    // Envia os pixels para uma thread worker\n    var worker = new Worker(\"SmearWorker.js\");   // Cria o worker\n    worker.postMessage(pixels);                 // Copia e envia os pixels\n \n    // Registra uma rotina de tratamento para obter a resposta do worker\n    worker.onmessage = function(e) {\n        var smeared_pixels = e.data;                      // Pixels do worker\n        context.putImageData(smeared_pixels, 0, 0);      // Copia-os no",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3830,
+    "totalChunks": 10000
+  }
+}

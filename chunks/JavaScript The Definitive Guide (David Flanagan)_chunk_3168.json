@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3168",
+  "content": ", \nos nomes de propriedade desse objeto aninhado são colocados entre colchetes e anexados no nome de \npropriedade externo. Por exemplo:\n$.param({a:[1,2,3]})   // Retorna \"a[]=1&a[]=2&a[]=3\"\n$.param({o:{x:1,y:true}})       //       Retorna       \"o[x]=1&o[y]=true\"\n$.param({o:{x:{y:[1,2]}}})      //      Retorna      \"o[x][y][]=1&o[x][y][]=2\"\nPara compatibilidade com as versões 1.3 e anteriores da jQuery, você pode passar true como segundo \nargumento para \njQuery.param() ou configurar a opção traditional como true. Isso vai impedir a seria-\nlização avançada de propriedades cujos valores são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3168,
+    "totalChunks": 10000
+  }
+}

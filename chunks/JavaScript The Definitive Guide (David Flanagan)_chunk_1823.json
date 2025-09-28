@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1823",
+  "content": "efinir um bloco de código para executar no IE e um bloco diferente para executar \nem todos os outros navegadores:\n/*@cc_on\n  @if (@_jscript)\n\n324          Parte II     JavaScript do lado do cliente\n    // Este código está dentro de um comentário condicional, que também é um\n    // comentário normal de JavaScript. O IE o executa, mas outros navegadores o ignoram.\n    alert('You are using Internet Explorer);\n  @else*/\n    // Este código não está mais dentro de um comentário JavaScript, mas ainda está\n    // dentro do comentário condicional do IE. Isso significa que todos os navegadores,\n    //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1823,
+    "totalChunks": 10000
+  }
+}

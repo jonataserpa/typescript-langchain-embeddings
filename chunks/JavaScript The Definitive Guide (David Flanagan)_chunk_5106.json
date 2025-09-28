@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5106",
+  "content": "965\nReferência de \nJavaScript do lado \ndo cliente\nstring text\nO textContent (consulte Node) desse elemento Option, com espaço em branco à esquerda e à \ndireita removido e sequências de dois ou mais espaços substituídas por um único caractere de \nespaço.\nstring value\nO valor do atributo HTML value, se esse elemento Option tiver um; caso contrário, o textContent \ndo elemento.\nOutput\num elemento <output> de formulário HTML Node, Element, FormControl\nO objeto Output representa um elemento \n<output> de formulário HTML. Nos navegadores que os \nsuportam, os objetos Output implementam a maioria",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5106,
+    "totalChunks": 10000
+  }
+}

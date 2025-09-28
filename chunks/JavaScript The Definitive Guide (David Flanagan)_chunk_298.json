@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_298",
+  "content": ": números não podem começar com \"$\"\nparseInt() \naceita um segundo argumento opcional especificando a raiz (base) do número a ser ana-\nlisado. Os valores válidos estão entre 2 e 36. Por exemplo:\nparseInt(\"11\", 2);     // => 3 (1*2 + 1)\nparseInt(\"ff\", 16);    // => 255 (15*16 + 15)\nparseInt(\"zz\", 36);    // => 1295 (35*36 + 35)\nparseInt(\"077\", 8);    // => 63 (7*8 + 7)\nparseInt(\"077\", 10);   // => 77 (7*10 + 7)\n3.8.3   Conversões de objeto para valores primitivos\nAs conversões de objeto para valores booleanos são simples: todos os objetos (inclusive arrays e fun-\nções) são convertidos em true.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 298,
+    "totalChunks": 10000
+  }
+}

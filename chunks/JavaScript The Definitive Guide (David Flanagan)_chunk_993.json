@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_993",
+  "content": "ecial que verificamos\n    var protoprops = [ \"toString\", \"valueOf\", \"constructor\", \"hasOwnProperty\", \n\"isPrototypeOf\", \"propertyIsEnumerable\",\"toLocaleString\"];\n}());\n8.6   Closures\nAssim como a maioria das linguagens de programação modernas, JavaScript utiliza escopo léxico. Isso \nsignifica que as funções são executadas usando o escopo de variável que estava em vigor ao serem \ndefinidas e não o escopo de variável que estava em vigor ao serem chamadas. Para implementar esco-\npo léxico, o estado interno de um objeto função em JavaScript deve incluir não apenas o código da \nfunção, mas também",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 993,
+    "totalChunks": 10000
+  }
+}

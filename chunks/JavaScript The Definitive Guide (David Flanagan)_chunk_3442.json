@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3442",
+  "content": "disparar uma exceção.\n20.4.3   Aplicativos   Web   off-line\nUm aplicativo Web off-line é aquele que instala a si mesmo na cache de aplicativo para que esteja \nsempre disponível, mesmo quando o navegador estiver off-line. Para os casos mais simples – coisas \ncomo relógios e geradores de fractal – isso é tudo que um aplicativo Web precisa para se tornar um \naplicativo off-line. Mas a maioria dos aplicativos Web também precisa carregar dados no servidor: \nmesmo aplicativos de jogos simples talvez queiram carregar a pontuação do usuário no servidor. \n\n594          Parte II     JavaScript do lado",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3442,
+    "totalChunks": 10000
+  }
+}

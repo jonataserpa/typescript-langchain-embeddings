@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3161",
+  "content": "jQuery.getJSON()\njQuery.getJSON() é como jQuery.getScript(): busca texto e então o processa de modo especial, \nantes de chamar a callback especificada por você. Em vez de executar o texto como um script, \njQuery.getJSON() o analisa como JSON (usando a função jQuery.parseJSON(): consulte a Seção \n19.7). \njQuery.getJSON() só tem utilidade quando recebe um argumento de callback. Se o URL for \ncarregado com sucesso e se seu conteúdo for analisado como JSON com sucesso, o objeto resul-\ntante será passado como primeiro argumento para a função callback. Assim como acontece com \njQuery.getScript(),",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3161,
+    "totalChunks": 10000
+  }
+}

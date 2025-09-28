@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3864",
+  "content": "êm nomes \ncomo getInt16(), getUint32() e getFloat64(). O primeiro argumento é o deslocamento de byte den-\ntro do ArrayBuffer em que o valor começa. Todos esses métodos getter, fora getInt8() e getUint8(), \naceitam um valor booleano opcional como segundo argumento. Se o segundo argumento é omitido \nou é false, a ordem de byte big-endian é usada. Se o segundo argumento é true, é usada a ordem \nlittle-endian.\nDataView define oito métodos \nset correspondentes que gravam valores no ArrayBuffer subjacente. \nO primeiro argumento é o deslocamento em que o valor começa. O segundo argumento é o valor a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3864,
+    "totalChunks": 10000
+  }
+}

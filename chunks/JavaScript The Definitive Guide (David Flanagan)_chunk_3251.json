@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3251",
+  "content": ":not(sel)\nCorresponde aos elementos que não corresponderam ao seletor aninhado sel.\n:nth(n)\nSinônimo de :eq(n) (extensão da jQuery).\n:nth-child(n)\nCorresponde aos elementos que são o n-ésimo filho de seus pais. n pode ser um número, a palavra \n“even”,  a palavra “odd” ou uma fórmula. Use \n:nth-child(even) para selecionar elementos \nque são o segundo e o quarto (etc.) na lista de filhos de seus pais. Use \n:nth-child(odd) para \nselecionar elementos que são o primeiro, terceiro, etc.\nDe forma mais geral, \nn pode ser uma fórmula da forma xn ou xn+y, onde x e y são inteiros e n é a \nletra n",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3251,
+    "totalChunks": 10000
+  }
+}

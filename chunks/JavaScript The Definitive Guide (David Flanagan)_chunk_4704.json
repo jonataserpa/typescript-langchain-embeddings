@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4704",
+  "content": "NE_ERR = 25\nEsses são os valores possíveis da propriedade code. Os nomes de constante são prolixos o sufi-\nciente para indicar o motivo aproximado pelo qual a exceção foi lançada.\nPropriedades\nunsigned short code\nUm dos valores de constante listados anteriormente, indicando o tipo de exceção ocorrida.\nstring name\nO nome do tipo de exceção específico. Será um dos nomes de constante listados anteriormen-\nte, como uma string.\nDOMImplementation\nmétodos globais do DOM\nO objeto DOMImplementation define métodos que não são específicos de nenhum objeto Do-\ncument em especial, mas são “globais” para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4704,
+    "totalChunks": 10000
+  }
+}

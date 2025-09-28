@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4463",
+  "content": "ara letras minúsculas de maneira específica da localidade. Apenas \nalguns idiomas, como o turco, têm mapeamentos de caixa específicos da localidade, de modo que \nesse método normalmente retorna o mesmo valor que toUpperCase().\nConsulte também\nString.toLocaleLowerCase(), String.toLowerCase(), String.toUpperCase()\nString.toLowerCase()\nconverte uma string para letras minúsculas\nSinopse\nstring.toLowerCase()\nRetorna\nUma cópia de string com cada letra maiúscula convertida em sua equivalente minúscula, caso tenha uma.\nString.toString()\nretorna a string Anula",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4463,
+    "totalChunks": 10000
+  }
+}

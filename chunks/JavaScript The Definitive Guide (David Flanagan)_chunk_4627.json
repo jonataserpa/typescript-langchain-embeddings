@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4627",
+  "content": "m qual é o tipo de \nregra. Se type for diferente de 1, o objeto CSSRule terá outras propriedades que não estão \ndocumentadas aqui.\nPropriedades\nstring cssText\nO texto completo dessa regra CSS.\nreadonly CSSRule parentRule\nA regra, se houver, dentro da qual essa regra está contida.\n\n870          Parte IV     Referência de JavaScript do lado do cliente\nreadonly CSSStyleSheet parentStyleSheet\nA folha de estilo dentro da qual essa regra está contida.\nstring selectorText\nQuando type é STYLE_RULE, essa propriedade contém o texto seletor que especifica os elementos \ndo documento a que essa regra de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4627,
+    "totalChunks": 10000
+  }
+}

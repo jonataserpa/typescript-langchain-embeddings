@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1850",
+  "content": "328          Parte II     JavaScript do lado do cliente\nOutra técnica nova, conhecida como troca de mensagens entre documentos, permite que um script \nde um documento passe mensagens textuais para um script de outro documento, independente \ndas origens do script. Chamar o método postMessage() em um objeto Window resulta no envio \nassíncrono de um evento mensagem (você pode tratá-lo com uma função de tratamento de evento \nonmessage) para o documento nessa janela. Contudo, um script de um documento não pode cha-\nmar métodos nem ler propriedades do outro documento, mas eles podem se comunicar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1850,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4665",
+  "content": "tre sessões \nde navegação na Web. Dados de cookie são transmitidos automaticamente entre o navegador \nWeb e o servidor Web quando apropriado, de modo que scripts do lado do servidor podem \nler e gravar valores de cookie. Código JavaScript do lado do cliente também pode ler e gravar \ncookies com essa propriedade. Note que essa é uma propriedade de leitura/gravação, mas o \nvalor lido, em geral, não é igual ao valor gravado. Consulte a Seção 20.2 para ver os detalhes.\nreadonly string defaultCharset\nO conjunto de caracteres padrão do navegador.\n*  N. de R.T.:  O elemento frameset divide uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4665,
+    "totalChunks": 10000
+  }
+}

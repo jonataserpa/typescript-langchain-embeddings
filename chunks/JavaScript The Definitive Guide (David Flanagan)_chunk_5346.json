@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5346",
+  "content": "sobre o cami-\nnho atual, 648\n    SVG,    613\ncampos e métodos de classe (classes Java), 199\ncampos e métodos de instância (classes Java), 199\ncancelamento, eventos, 452\n    atualizações de cache de aplicativo, 592\n    eventos textinput e keypress, 469\ncanPlayType( ), objeto MediaElement, 953\nCanvasRenderingContext2D\n    métodos save( ) e restore( ), 622\ncapacidade de extensão de objetos, 802–803\ncaptura de evento, 435, 446, 451\n    Internet Explorer, setCapture( ) para eventos de \nmouse, 456\n    rotinas de tratamento de evento da jQuery e, 531\ncapturando exceções, 104\ncaractere \\s (espaço) em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5346,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_456",
+  "content": "eiro operando é verdadeiro, ele retorna \nesse valor verdadeiro. Caso contrário, ele avalia o segundo operando, a expressão à sua direita, e \nretorna o valor dessa expressão.\nAssim como no operador \n&&, você deve evitar operandos no lado direito que contenham efeitos co-\nlaterais, a não ser que queira propositalmente utilizar o fato de que a expressão do lado direito pode \nnão ser avaliada.\n\n76          Parte     I     JavaScript     básica\nUma utilização idiomática desse operador é selecionar o primeiro valor verdadeiro em um conjunto \nde alternativas:\n// Se max_width é definido, usa isso.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 456,
+    "totalChunks": 10000
+  }
+}

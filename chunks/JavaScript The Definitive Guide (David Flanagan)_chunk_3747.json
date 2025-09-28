@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3747",
+  "content": "itude, adiciona essa informação.\n        if (pos.coords.altitude) {\n            msg += \" You are \" + pos.coords.altitude + \" \n+\n \" +\n                pos.coords.altitudeAccuracy + \"meters above sea level.\";\n  }\n        // se nosso dispositivo retorna velocidade e direção, adiciona isso também.\n        if (pos.coords.speed) {\n            msg += \" You are travelling at \" +\n                pos.coords.speed + \"m/s on heading \" +\n                  pos.coords.heading    +    \".\";\n  }\n        elt.innerHTML = msg;    // Exibe todas as informações de posição\n }\n}\n22.2   Gerenciamento de histórico\nOs",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3747,
+    "totalChunks": 10000
+  }
+}

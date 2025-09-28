@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_251",
+  "content": "ifica “nenhum objeto”. Na práti-\nca, contudo, \nnull normalmente é considerado como o único membro de seu próprio tipo e pode ser \nusado para indicar “nenhum valor” para números e strings, assim como para objetos. A maioria das \nlinguagens de programação tem um equivalente para o \nnull de JavaScript: talvez você já o conheça \ncomo \nnull ou nil.\nJavaScript  também  tem  um  segundo  valor  que  indica  ausência  de  valor.  O  valor  indefinido  \nrepresenta uma ausência mais profunda. É o valor de variáveis que não foram inicializadas e o \nvalor obtido quando se consulta o valor de uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 251,
+    "totalChunks": 10000
+  }
+}

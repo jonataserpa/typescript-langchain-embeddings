@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3673",
+  "content": "ntes transformações de escala ainda terão sombras da mes-\nma “altura”\n2\n.\n21.4.12   Imagens\nAlém dos elementos gráficos vetoriais (caminhos, linhas, etc.), a API Canvas também suporta ima-\ngens de bitmap. O método drawImage() copia os pixels de uma imagem de origem (ou de um retân-\ngulo dentro da imagem de origem) no canvas, mudando a escala e rotacionando os pixels da imagem \nconforme for necessário.\ndrawImage() pode ser chamado com três, cinco ou nove argumentos. Em todos os casos, o primeiro \nargumento é a imagem de origem a partir da qual os pixels serão copiados. Esse argumento imagem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3673,
+    "totalChunks": 10000
+  }
+}

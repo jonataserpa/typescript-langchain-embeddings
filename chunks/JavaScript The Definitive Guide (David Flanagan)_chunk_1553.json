@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1553",
+  "content": "cesso aleatório. Ou seja, os geradores não \npodem ser indexados como os arrays: para obter o n-ésimo valor, deve-se iterar por todos os n-1 \nvalores que vêm antes dele.\nAnteriormente neste capítulo, escrevemos uma função map() como segue:\nfunction map(i, f) {  // Um gerador que gera f(x) para cada elemento de i\n    for(let x in i) yield f(x);\n}\nAs expressões geradoras tornam desnecessário escrever ou usar essa função map(). Para obter um novo \ngerador h que gera f(x) para cada x gerado por um gerador g, basta escrever o seguinte:\nlet h = (f(x) for (x in g));\nNa verdade, dado o gerador",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1553,
+    "totalChunks": 10000
+  }
+}

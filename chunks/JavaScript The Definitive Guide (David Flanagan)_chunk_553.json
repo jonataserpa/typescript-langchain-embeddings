@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_553",
+  "content": "pelos elementos de um array. A Seção 7.6 dis-\ncute esse tipo de laço em detalhes e aborda métodos de laço especiais definidos pela classe Array.\n5.5.1   while\nAssim como a instrução if é a condicional básica de JavaScript, a instrução while é o laço básico \nda linguagem. Ela tem a seguinte sintaxe:\nwhile (expressão)\n    instrução\nPara executar uma instrução while, o interpretador primeiramente avalia a expressão. Se o valor \nda expressão é falso, o interpretador pula a instrução que serve de corpo do laço e vai para a \ninstrução seguinte no programa. Se, por outro lado, a expressão é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 553,
+    "totalChunks": 10000
+  }
+}

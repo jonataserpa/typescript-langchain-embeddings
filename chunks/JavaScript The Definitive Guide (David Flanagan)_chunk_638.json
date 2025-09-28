@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_638",
+  "content": "5.8   Resumo das instruções JavaScript\nEste capítulo apresentou cada uma das instruções da linguagem JavaScript. A Tabela 5-1 as resume, \nlistando a sintaxe e o objetivo de cada uma.\nTabela 5-1 Sintaxe das instruções JavaScript\nInstruçãoSintaxeObjetivo\nbreakbreak [rótulo];Sai do laço ou switch mais interno \nou da instrução circundante \nnomeada\ncasecase expressão:Rotula uma instrução dentro de \num switch\ncontinuecontinue [rótulo];Começa a próxima iteração do laço \nmais interno ou do laço nomeado\ndebuggerdebugger;Ponto de interrupção de depurador\ndefaultdefault:Rotula a instrução padrão dentro",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 638,
+    "totalChunks": 10000
+  }
+}

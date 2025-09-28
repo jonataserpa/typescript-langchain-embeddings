@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1652",
+  "content": "ido termina, a resposta também terminou.\n        request.on(“end”, function(chunk) { response.end(); });\n }\n    // Caso contrário, serve um arquivo do diretório local.\n    else    {\n        // Obtém nome de arquivo local e supõe seu tipo de conteúdo com base na extensão.\n        var filename = url.pathname.substring(1);        // corta o início /\n        var    type;\n        switch(filename.substring(filename.lastIndexOf(\".\")+1)) {   // extensão\n        case    \"html\":\n        case \"htm\": type = \"text/html; charset=UTF-8\"; break;\n        case \"js\": type = \"application/javascript;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1652,
+    "totalChunks": 10000
+  }
+}

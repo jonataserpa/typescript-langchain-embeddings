@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_359",
+  "content": "um ponto-final e um identi-\nficador. A expressão especifica o objeto e o identificador especifica o nome da propriedade desejada. \nO segundo estilo de acesso à propriedade tem outra expressão entre colchetes após a primeira (o \nobjeto ou array). Essa segunda expressão especifica o nome da propriedade desejada ou o índice do \nelemento do array desejado. Aqui estão alguns exemplos concretos:\nvar o = {x:1,y:{z:3}}; // Um exemplo de objeto\nvar a = [o,4,[5,6]];   // Um exemplo de array que contém o objeto\no.x                    // => 1: propriedade x da expressão o\no.y.z                 // => 3:",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 359,
+    "totalChunks": 10000
+  }
+}

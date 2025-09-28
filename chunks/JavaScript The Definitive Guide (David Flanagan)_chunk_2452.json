@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2452",
+  "content": "(styleSheet.insertRule) {\n                var rule = selector + \" {\" + styles[selector] + \"}\";\n                  styleSheet.insertRule(rule,    i++);\n   }\n            else    {\n                  styleSheet.addRule(selector,    styles[selector],    i++);\n   }\n  }\n }\n}\n\nCapítulo 17\nTratando eventos\nOs programas JavaScript do lado do cliente usam um modelo de programação dirigido por eventos \nassíncronos (apresentado na Seção 13.3.2). Nesse estilo de programação, o navegador Web gera um \nevento onde acontece algo interessante no documento, no navegador ou em algum elemento ou ob-\njeto associado",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2452,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1691",
+  "content": "aScript que utilizam \nserviços como os providos por um sistema operacional e que são fornecidos pelo navegador Web e \nnão se espera que funcionem com JavaScript desativada\n1\n.\n13.2   Incorporando JavaScript em HTML\nO código JavaScript do lado do cliente é incorporado em documentos HTML de quatro maneiras:\n •   Em linha, entre um par de marcações \n<script> e </script>\n •   A partir de um arquivo externo especificado pelo atributo src de uma marcação <script>\n •   Em um atributo de tratamento de evento HTML, como onclick ou onmouseover\n •   Em um URL que use o protocolo especial javascript:.\nAs",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1691,
+    "totalChunks": 10000
+  }
+}

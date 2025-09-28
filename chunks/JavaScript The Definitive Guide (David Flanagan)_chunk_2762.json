@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2762",
+  "content": "e assim \npor diante. A XMLHttpRequest não é uma API HTTP em nível de protocolo, mas sim em nível de \nnavegador. O navegador cuida de cookies, redirecionamentos, uso de cache e proxys, e seu código \nprecisa se preocupar apenas com requisições e respostas.\nXMLHttpRequest e arquivos locais\nA capacidade de usar URLs relativos em páginas Web normalmente significa que podemos desenvolver e \ntestar nossa HTML usando o sistema de arquivo local e, então, enviá-la inalterada para um servidor Web. \nContudo, isso geralmente não é possível na programação de Ajax com XMLHttpRequest. A XMLHttpRe-\nquest é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2762,
+    "totalChunks": 10000
+  }
+}

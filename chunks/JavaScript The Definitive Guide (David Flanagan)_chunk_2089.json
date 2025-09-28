@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2089",
+  "content": "suportada há tempos por todos os \nnavegadores, somente com o advento de HTML5 foi padronizada. HTML5 diz que innerHTML deve \nfuncionar em nós Document e em nós Element, mas isso ainda não é suportado universalmente.\nHTML5 também padroniza uma propriedade chamada \nouterHTML. Quando se consulta outerHTML, a \nstring de marcação HTML ou XML retornada inclui as tags de abertura e fechamento do elemento \nno qual ela foi consultada. Quando se configura outerHTML em um elemento, o novo conteúdo subs-\ntitui o elemento em si. outerHTML só é definida para nós Element, não para Documents. Quando este",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2089,
+    "totalChunks": 10000
+  }
+}

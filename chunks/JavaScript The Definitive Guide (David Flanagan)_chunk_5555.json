@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5555",
+  "content": "usando o operador instanceof, 204\n        usando tipagem de pato, 207\n    enumerando propriedades, 123–125\n    excluindo propriedades, 121\n    expressões de acesso à propriedade, 59\n    inicializadores,    57\n    iterando por meio de propriedades com a função \njQuery.each( ), 558\n    Java, consultando e confi gurando campos no Rhi-\nno, 283\n    jQuery,    513\n    métodos, 7, 158\n        universais,    135\n    métodos getter e setter de propriedade, 125–127\n    objeto global, 41\n    operador instanceof, 74\n    propriedades,    112\n    propriedades form-encoding para pedido HTTP, \n489\n    que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5555,
+    "totalChunks": 10000
+  }
+}

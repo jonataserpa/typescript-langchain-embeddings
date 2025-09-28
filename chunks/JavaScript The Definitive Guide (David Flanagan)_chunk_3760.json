@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3760",
+  "content": "odem acompanhar. Primeiramente, o Firefox 4 torna o estado atual disponível \npor meio da propriedade \nstate do próprio objeto History, ou seja, as páginas carregadas recentemen-\nte não precisam esperar por um evento popstate. Segundo, o Firefox 4 não dispara mais um evento \npopstate para páginas carregadas recentemente que não tenham algum estado salvo. Essa segunda \nalteração significa que o exemplo a seguir não funciona muito bem no Firefox 4.\nFigura 22-1 Um jogo de adivinhação de números.\nExemplo 22-3 Gerenciamento de histórico com pushState()\n<!DOCTYPE html>\n<html><head><title>I'm",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3760,
+    "totalChunks": 10000
+  }
+}

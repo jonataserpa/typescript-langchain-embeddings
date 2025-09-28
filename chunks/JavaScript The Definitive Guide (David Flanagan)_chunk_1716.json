@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1716",
+  "content": "ador de \nprotocolo \njavascript:. Esse tipo de protocolo especial especifica que o corpo do URL é uma string \narbitrária de código JavaScript a ser executada pelo interpretador JavaScript. Ela é tratada como \numa única linha de código, ou seja, as instruções devem ser separadas por pontos e vírgulas e que \ncomentários \n/* */ devem ser usados em lugar de comentários //. O “recurso” identificado por um \nURL \njavascript: é o valor de retorno do código executado, convertido em uma string. Se o código \ntem um valor de retorno\n undefined, o recurso não tem conteúdo.\nUm URL \njavascript: pode ser",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1716,
+    "totalChunks": 10000
+  }
+}

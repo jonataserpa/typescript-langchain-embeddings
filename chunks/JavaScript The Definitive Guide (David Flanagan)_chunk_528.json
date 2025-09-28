@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_528",
+  "content": "ão, mas a instrução de \ndeclaração de função também declara o nome da função como variável e atribui o objeto fun-\nção a ela. Assim como as variáveis declaradas com \nvar, as funções definidas com instruções de \n\n90          Parte     I     JavaScript     básica\ndefinição de função são implicitamente “içadas” para o topo do script ou função que as contém, \nde modo que sejam visíveis em todo o script ou função. Com var, somente a declaração da va-\nriável é içada – o código de inicialização da variável permanece onde é colocado. Contudo, com \ninstruções de declaração de função, tanto o nome da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 528,
+    "totalChunks": 10000
+  }
+}

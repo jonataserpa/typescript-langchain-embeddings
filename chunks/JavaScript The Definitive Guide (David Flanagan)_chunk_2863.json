@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2863",
+  "content": "sição e \nqualquer cookie recebidos como parte de uma resposta de várias origens é descartado. Se sua requi-\nsição de várias origens exige esses tipos de credenciais para ser bem-sucedida, você deve configurar a \npropriedade withCredentials do objeto XMLHttpRequest como true, antes de enviar (com send()) a \nrequisição. É incomum ter de fazer isso, mas testar a presença da propriedade withCredentials é uma \nmaneira de saber se existe suporte para CORS em seu navegador.\nO Exemplo 18-13 é um código JavaScript discreto que utiliza XMLHttpRequest para fazer requi-\nsições HTTP HEAD para baixar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2863,
+    "totalChunks": 10000
+  }
+}

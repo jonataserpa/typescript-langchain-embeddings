@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4023",
+  "content": "local arguments \né inicializada automaticamente para se referir a esse objeto Arguments. O principal objetivo do \nobjeto Arguments é fornecer uma maneira de determinar quantos argumentos são passados para a \nfunção e se referir a argumentos não nomeados. Contudo, além dos elementos do array e da proprie-\ndade length, a propriedade callee permite que uma função não nomeada faça referência a si mesma.\nPara a maioria dos propósitos, o objeto Arguments pode ser considerado um array com a adição da \npropriedade \ncallee. Contudo, não se trata de uma instância de Array e a propriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4023,
+    "totalChunks": 10000
+  }
+}

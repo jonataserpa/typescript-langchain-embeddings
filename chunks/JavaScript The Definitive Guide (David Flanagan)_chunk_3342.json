@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3342",
+  "content": "ntém dois elementos \n<iframe> e esses quadros contêm dois documentos \ncom a mesma origem, esses dois documentos em quadros vão compartilhar \nsessionStorage.\n20.1.2   API de armazenamento\nlocalStorage e sessionStorage são frequentemente usados como se fossem objetos JavaScript normais: \nconfigure uma propriedade para armazenar uma string e consulte a propriedade para recuperá-la. \nMas esses objetos também definem uma API mais formal baseada em métodos. Para armazenar um \nvalor, passe o nome e o valor para \nsetItem(). Para recuperar um valor, passe o nome para getItem(). \nPara excluir um valor,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3342,
+    "totalChunks": 10000
+  }
+}

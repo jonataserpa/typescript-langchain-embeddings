@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_139",
+  "content": "al*interest;\n        bal -= (monthly – thisMonthsInterest);    // O resto vai para o capital\n        g.lineTo(paymentToX(p),amountToY(bal));    //        Desenha a linha até esse ponto\n }\n    g.lineWidth = 3;    // Usa uma linha grossa\n    g.stroke();        // Desenha a curva do saldo\n    g.fillStyle = \"black\";       // Troca para texto preto\n    g.fillText(\"Loan Balance\", 20,50); // Entrada da legenda\n    // Agora faz marcações anuais e os números de ano no eixo X\n    g.textAlign=\"center\";        // Centraliza o texto nas \n                                  //    marcas\n    var y =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 139,
+    "totalChunks": 10000
+  }
+}

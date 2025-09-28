@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5273",
+  "content": "esponseHeader() ou getResponseHeaders() para recuperar os \nvalores do cabeçalho da resposta e use as propriedades responseText ou responseXML para obter \no corpo da resposta.\nXMLHttpRequest define uma interface de nível relativamente alto para o protocolo HTTP. Ele cui-\nda de detalhes como manipular redirecionamentos, gerenciar cookies e negociar conexões de várias \norigens com cabeçalhos CORS.\nOs recursos de XMLHttpRequest descritos anteriormente são bem suportados por todos os nave-\ngadores modernos. Quando este livro estava sendo escrito, um padrão XMLHttpRequest Level 2 \nestava em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5273,
+    "totalChunks": 10000
+  }
+}

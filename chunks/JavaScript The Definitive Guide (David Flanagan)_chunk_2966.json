@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2966",
+  "content": "ter, esses métodos configuram valores em cada elemento no objeto \njQuery e, então, retornam o objeto jQuery para permitir encadeamento de métodos.\n •   Quando usados como getter, esses métodos consultam apenas o primeiro elemento do conjun-\nto de elementos e retornam um único valor. (Use \nmap() se quiser consultar todos os elemen-\ntos.) Como os métodos getter não retornam o objeto jQuery em que são chamados, só podem \naparecer no final de um encadeamento de métodos.\n •   Quando usados como setter, esses métodos frequentemente aceitam argumentos de objeto. \nNesse caso, cada propriedade do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2966,
+    "totalChunks": 10000
+  }
+}

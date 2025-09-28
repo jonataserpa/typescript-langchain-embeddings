@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4036",
+  "content": "início de um array.\nslice()\nRetorna uma fatia (subarray) de um array.\nsome()\nTesta se um predicado é verdadeiro para pelo menos um elemento desse array.\nsort()\nClassifica, no local, os elementos de um array.\nsplice()\nInsere, exclui ou substitui elementos do array.\ntoLocaleString()\nConverte um array em uma string localizada.\ntoString()\nConverte um array em uma string.\nunshift()\nInsere elementos no início de um array.\n\n708          Parte III     Referência de JavaScript básica\nDescrição\nOs arrays são um recurso básico de JavaScript e estão documentados em detalhes no Capítulo 7.\nConsulte",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4036,
+    "totalChunks": 10000
+  }
+}

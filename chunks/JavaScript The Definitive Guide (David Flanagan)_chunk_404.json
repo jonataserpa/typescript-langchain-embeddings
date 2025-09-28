@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_404",
+  "content": "– são usados tanto como \noperadores unários como binários.\nOs operadores aritméticos unários são os seguintes:\nMais unário (\n+)\nO operador mais unário converte seu operando em um número (ou em \nNaN) e retorna esse valor \nconvertido. Quando usado com um operando que já é um número, ele não faz nada.\nMenos unário (\n-)\nQuando  é usado como operador unário, ele converte seu operando em um número, se neces-\nsário, e depois troca o sinal do resultado.\nIncremento (\n++)\nO operador \n++ incrementa (isto é, soma um ao) seu único operando, o qual deve ser um lvalue \n(uma variável, um elemento de um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 404,
+    "totalChunks": 10000
+  }
+}

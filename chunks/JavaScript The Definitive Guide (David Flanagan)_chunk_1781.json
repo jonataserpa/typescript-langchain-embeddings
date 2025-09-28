@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1781",
+  "content": ".\nOs problemas de compatibilidade e interoperabilidade de JavaScript do lado do cliente caem em três \ncategorias gerais:\nEvolução\nA plataforma Web está sempre evoluindo e expandindo. Um organismo de padronização pro-\npõe um novo recurso ou API. Se o recurso parece útil, os fornecedores de navegador o imple-\nmentam. Se fornecedores suficientes o implementam com capacidade de operação conjunta, \nos desenvolvedores começam a utilizar e a depender do recurso; assim, ele garante um lugar \npermanente na plataforma Web. Às vezes, os fornecedores de navegador e os desenvolvedores \nWeb tomam a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1781,
+    "totalChunks": 10000
+  }
+}

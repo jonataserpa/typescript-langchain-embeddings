@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1399",
+  "content": "regular /a*/ \ncorresponde na verdade à string “bbbb”, pois a string contém zero ocorrências da letra a!\n10.1.3.1   Repetição não gananciosa\nOs caracteres de repetição listados na Tabela 10-3 correspondem quantas vezes possível, enquanto \nainda permitem que qualquer parte seguinte da expressão regular seja correspondida. Dizemos que \nessa repetição é “gananciosa”. Também é possível especificar que a repetição deve ocorrer de forma \nnão gananciosa. Basta colocar um ponto de interrogação após o caractere (ou caracteres) de repeti-\nção: ??, +?, *? ou mesmo {1,5}?. Por exemplo, a expressão regular",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1399,
+    "totalChunks": 10000
+  }
+}

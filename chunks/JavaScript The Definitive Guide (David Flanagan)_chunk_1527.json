@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1527",
+  "content": "modo semelhante a \nreturn, retorna um valor da função. No entanto, a diferença entre yield e return é que uma função \nque gera um valor para sua chamadora mantém seu estado interno, de modo que pode ser retomada. \nEssa capacidade de ser retomada torna \nyield uma ferramenta perfeita para escrever iteradores. Os ge-\nradores são um recurso muito poderoso da linguagem, mas podem ser difíceis de entender no início. \nVamos começar com algumas definições.\nQualquer função que utilize a palavra-chave \nyield (mesmo que yield não possa ser alcançada) é \numa função geradora. As funções geradoras",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1527,
+    "totalChunks": 10000
+  }
+}

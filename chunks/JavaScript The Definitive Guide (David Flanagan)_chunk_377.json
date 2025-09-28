@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_377",
+  "content": "uer→bool\n!=Testa a desigualdadeE    2\nqualquer,qualquer→bool\n===Testa a igualdade restrita      E    2\nqualquer,qualquer→bool\n!==Testa a desigualdade restrita   E    2\nqualquer,qualquer→bool\n&Calcula E bit a bitE    2\nint,int→int\n^Calcula XOR bit a bitE    2\nint,int→int\n|Calcula OU bit a bitE    2\nint,int→int\n&&Calcula E lógicoE    2\nqualquer,qualquer→qualquer\n||Calcula OU lógicoE    2\nqualquer,qualquer→qualquer\n?:Escolhe 2º ou 3º operando       D    3\nbool,qualquer,qualquer→qualquer\n=Atribui a uma variável ou \npropriedade\nD2\nlval,qualquer→\nqualquer\n*=, /=, %=, +=,    Opera e atribuiD",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 377,
+    "totalChunks": 10000
+  }
+}

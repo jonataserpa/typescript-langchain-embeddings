@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4684",
+  "content": "te para leitura que contém todos os \nnós Element do documento que têm o nome de tag especificado, na ordem em que aparecem na \norigem do documento. O NodeList é “dinâmico” – seu conteúdo é atualizado automaticamente, \nconforme o necessário, quando o documento muda. Para elementos HTML, a comparação de no-\nmes de tag não diferencia letras maiúsculas e minúsculas. Como um caso especial, o nome de tag “*” \ncorresponde a todos os elementos em um documento.\nNote que a interface Element define um método de mesmo nome que só pesquisa uma subárvore \ndo documento.\nNodeList",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4684,
+    "totalChunks": 10000
+  }
+}

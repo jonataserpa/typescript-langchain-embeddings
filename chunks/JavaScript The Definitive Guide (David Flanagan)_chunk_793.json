@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_793",
+  "content": "m array vazio sem elementos e é equivalente ao array literal [].\n •   Chamada com um único argumento numérico, o qual especifica um comprimento:\n    var a = new Array(10);\nEssa técnica cria um array com o comprimento especificado. Essa forma da construtora Ar-\nray() pode ser usada para fazer a alocação prévia de um array quando se sabe antecipadamente \nquantos elementos vão ser necessários. Note que valor algum é armazenado no array e que as \npropriedades de índice “0”, “1”, etc. do array nem mesmo são definidas para o array.\n •   Especificação explícita de dois ou mais elementos de array ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 793,
+    "totalChunks": 10000
+  }
+}

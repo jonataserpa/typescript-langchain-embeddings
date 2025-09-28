@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_838",
+  "content": "1,2,3,4,5]\na.concat([4,5]);            // Retorna [1,2,3,4,5]\na.concat([4,5],[6,7])       // Retorna [1,2,3,4,5,6,7]\na.concat(4, [5,[6,7]])      // Retorna [1,2,3,4,5,[6,7]]\n7.8.5   slice()\nO método Array.slice() retorna um pedaço (ou subarray) do array especificado. Seus dois argumen-\ntos especificam o início e o fim do trecho a ser retornado. O array retornado contém o elemento \nespecificado pelo primeiro argumento e todos os elementos subsequentes, até (mas não incluindo) \no elemento especificado pelo segundo argumento. Se apenas um argumento é especificado, o array \nretornado contém todos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 838,
+    "totalChunks": 10000
+  }
+}

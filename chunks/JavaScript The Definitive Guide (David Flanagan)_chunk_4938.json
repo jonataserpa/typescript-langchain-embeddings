@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4938",
+  "content": "ramática de seletor jQuery\nA gramática de seletor jQuery é muito parecida com a gramática de seletor CSS3 e está explicada em \ndetalhes na Seção 19.8.1. A seguir está um resumo:\nSeletores de tag, classe e identificação simples\n*   tagname   .classname   #id\nCombinações de seletor\nA B  B como descendente de A\nA > B B como filho de A\nA + B B como um irmão após A\nA ~ B B como irmão de A\nFiltros de atributo\n[attr]  tem atributo\n[attr=val]  tem atributo com valor val\n[attr!=val]  não tem atributo com valor val\n[attr^=val]  o atributo começa com val\n[attr$=val]  o atributo termina com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4938,
+    "totalChunks": 10000
+  }
+}

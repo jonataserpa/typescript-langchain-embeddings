@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2595",
+  "content": "h a cada vez, no caso de a chamada\n        // de uma dessas funções fazer com que mais funções sejam registradas.\n        for(var i = 0; i < funcs.length; i++)\n            funcs[i].call(document);\n        // Agora configura o flag ready como true e esquece as funções\n        ready = true;\n        funcs = null;\n }\n \n    // Registra a rotina de tratamento de qualquer evento que possamos receber\n    if (document.addEventListener) {\n        document.addEventListener(\"DOMContentLoaded\", handler, false);\n        document.addEventListener(\"readystatechange\", handler, false);",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2595,
+    "totalChunks": 10000
+  }
+}

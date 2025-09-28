@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2442",
+  "content": "s regras de estilo reais da folha de \nestilo.\nOs objetos CSSRule têm duas propriedades que podem ser usadas de modo portável. (Na API \npadrão, uma regra que não é uma regra de estilo não vai ter essas propriedades definidas e você \nprovavelmente quer evitá-las ao percorrer a folha de estilo.) \nselectorText é o seletor CSS da regra e \nstyle se refere a um objeto CSSStyleDeclaration que pode ser gravado e descreve os estilos associa-\ndos a esse seletor. Lembre-se de que CSSStyleDeclaration é o mesmo tipo usado para representar \nestilos em linha e computados. Esse objeto CSSStyleDeclaration pode",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2442,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4548",
+  "content": "m ser úteis, se você quiser implementar operações de proces-\nsamento de imagem em JavaScript.\n\n      Referência de JavaScript do lado do cliente      855\nReferência de \nJavaScript do lado \ndo cliente\nPropriedades\nreadonly Canvas canvas\nO elemento Canvas no qual esse contexto vai desenhar.\nany fillStyle\nA cor, padrão ou gradiente atual usado para preencher caminhos. Essa propriedade pode ser \nconfigurada com uma string de cor CSS ou com um objeto CanvasGradient ou CanvasPat-\ntern. O estilo de preenchimento padrão é preto uniforme.\nstring font\nA fonte a ser usada por métodos de desenho de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4548,
+    "totalChunks": 10000
+  }
+}

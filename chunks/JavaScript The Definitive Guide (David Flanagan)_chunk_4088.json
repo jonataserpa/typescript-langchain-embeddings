@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4088",
+  "content": "a representação de string de \narray.\nLança\nTypeError\nSe esse método é chamado em um objeto que não é Array.\nDescrição\nO método toString() de um array converte-o em uma string e retorna a string. Quando um array é \nusado em um contexto de string, JavaScript o converte automaticamente em uma string, chamando \nesse método. Contudo, em algumas ocasiões, talvez você queira chamar toString() explicitamente.\ntoString() converte um array em uma string, convertendo primeiramente cada elemento do array \nem strings (chamando seu método toString()). Quando cada elemento for convertido em uma \nstring,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4088,
+    "totalChunks": 10000
+  }
+}

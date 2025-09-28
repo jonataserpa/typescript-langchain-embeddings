@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_431",
+  "content": "arência muito diferente na \nverdade são iguais. Primeiramente, o valor booleano true é convertido no número 1 e a comparação \n\n72          Parte     I     JavaScript     básica\né feita novamente. Em seguida, a string \"1\" é convertida no número 1. Como agora os dois valores \nsão iguais, a comparação retorna true.\n4.9.2   Operadores de comparação\nOs operadores de comparação testam a ordem relativa (numérica ou alfabética) de seus dois operan-\ndos:\nMenor que (\n<)\nO operador \n< é avaliado como true se o primeiro operando é menor do que o segundo; caso \ncontrário, é avaliado como false.\nMaior que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 431,
+    "totalChunks": 10000
+  }
+}

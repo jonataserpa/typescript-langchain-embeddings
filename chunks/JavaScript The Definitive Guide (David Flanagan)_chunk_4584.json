@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4584",
+  "content": "o). Se a implementação usar \nmais de um pixel de dispositivo por pixel CSS, as propriedades \nwidth e height do objeto ImageData \nretornado sercão diferentes dos argumentos sw e sh.\nAssim como \nCanvas.toDataURL(), esse método está sujeito a uma verificação de segurança para im-\npedir vazamento de informações entre origens. getImageData() só retorna um objeto ImageData se \no canvas subjacente tem “origem limpa”; caso contrário, lança uma exceção. Um canvas não tem \norigem limpa se já teve uma imagem desenhada (diretamente por meio de drawImage() ou indireta-\n\n      Referência de JavaScript do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4584,
+    "totalChunks": 10000
+  }
+}

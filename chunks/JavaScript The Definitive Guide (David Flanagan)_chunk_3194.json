@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3194",
+  "content": "o 19.6.1 para mais \ninformações sobre códigos de status Ajax da jQuery.\nglobal\nEsta opção especifica se a jQuery deve disparar eventos que descrevem o andamento da requi-\nsição Ajax. O padrão é \ntrue; configure esta opção como false para desabilitar todos os eventos \nrelacionados a Ajax. (Consulte a Seção 19.6.4 para ver detalhes completos sobre eventos.) O \nnome desta opção confunde: chama-se “global” porque a jQuery normalmente dispara seus \neventos globalmente e não em um objeto específico.\n19.6.3.2   Funções   callbacks\nAs opções a seguir especificam funções a serem chamadas em vários",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3194,
+    "totalChunks": 10000
+  }
+}

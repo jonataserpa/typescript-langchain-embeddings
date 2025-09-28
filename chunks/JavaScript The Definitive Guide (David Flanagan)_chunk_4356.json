@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4356",
+  "content": "otype, Object.hasOwnProperty(); Capítulo 6\nObject.seal() ECMAScript 5\nimpede a adição ou exclusão de propriedades\nSinopse\nObject.seal(o)\nArgumentos\no\nO objeto a ser selado.\nRetorna\nO objeto argumento \no agora selado.\nDescrição\nObject.seal() torna o não extensível (consulte Object.preventExtensions()) e torna todas as suas \npropriedades próprias não configuráveis. Isso tem o efeito de impedir a adição de novas propriedades \ne a exclusão de propriedades já existentes. Selar um objeto é uma operação permanente: uma vez \nselado, um objeto não pode deixar de estar selado.\n\n808          Parte III",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4356,
+    "totalChunks": 10000
+  }
+}

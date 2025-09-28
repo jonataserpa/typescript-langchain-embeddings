@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5455",
+  "content": "inguagem para, 267–275\n        expressões    geradoras,    274\n        geradores,    270–273\n        inclusões de array, 273\n        iteradores,    267–271\n        laço    for/each,    267–268\n    laço for/each defi nido na E4X, 279\nIU (interface do usuário)\n    biblioteca jQuery UI, 571\n    eventos,    436\n    Java, implementando com JavaScript no Rhino, \n284\n        exemplo de GUI, 285–288\nJ\njanela ascendente de nível superior, 345\njanela pai, 345\njanelas, 332–350\n    caixas de diálogo, 339–342\n    consultando o tamanho da porta de visualização, \n381–382\n    consultando posições da barra de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5455,
+    "totalChunks": 10000
+  }
+}

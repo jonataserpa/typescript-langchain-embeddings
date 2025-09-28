@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1207",
+  "content": "serialização de estruturas de dados e pode manipular valores primitivos, arrays e \nobjetos comuns de JavaScript. Ele não conhece classes e, ao serializar um objeto, ignora o protótipo \ne a construtora do objeto. Se JSON.stringify() é chamado em um objeto Range ou Complex, por \nexemplo, ele retorna uma string como {\"from\":1, \"to\":3} ou {\"r\":1, \"i\":-1}. Se você passar essas \nstrings para JSON.parse(), vai obter um objeto simples com propriedades adequadas a objetos Range \ne Complex, mas que não herdam os métodos Range e Complex.\nEsse tipo de serialização é apropriado para classes como Range e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1207,
+    "totalChunks": 10000
+  }
+}

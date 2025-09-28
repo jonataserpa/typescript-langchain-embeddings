@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1105",
+  "content": "tervalo\nr.foreach(console.log);         // Imprime 1 2 3\nconsole.log(r);        // Imprime (1...3)\nÉ interessante comparar o Exemplo 9-1 com o Exemplo 9-2 com bastante atenção e notar as diferen-\nças entre essas duas técnicas de definição de classes. Primeiramente, note que mudamos o nome da \nfunção fábrica range() para Range() quando a convertemos em uma construtora. Essa é uma conven-\nção de codificação muito comum: de certo modo, as funções construtoras definem classes e as classes \ntêm nomes que começam com letras maiúsculas. As funções e os métodos normais têm nomes que \ncomeçam com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1105,
+    "totalChunks": 10000
+  }
+}

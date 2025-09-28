@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3466",
+  "content": "e dimi-\nnuindo os custos com hardware.\n •   Gerar elementos gráficos no cliente está de acordo com a arquitetura moderna de aplicativo \nWeb, na qual os servidores fornecem dados e os clientes gerenciam a apresentação desses dados.\nA Seção 21.3 explica a Scalable Vector Graphics ou SVG. A SVG é uma linguagem baseada em \nXML usada para descrever elementos gráficos, sendo que os desenhos em SVG podem ser criados \ne colocados em scripts usando-se JavaScript e DOM. Por fim, a Seção 21.4 aborda o elemento \nHTML5 \n<canvas> e sua API JavaScript completa para desenhos no lado do cliente. O elemento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3466,
+    "totalChunks": 10000
+  }
+}

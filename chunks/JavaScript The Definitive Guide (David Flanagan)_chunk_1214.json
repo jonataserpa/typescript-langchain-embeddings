@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1214",
+  "content": "A linguagem de programação Java utiliza métodos para comparação de objetos e adotar as con-\nvenções Java é comum e útil em JavaScript. Para permitir que instâncias de sua classe sejam \ntestadas quanto à igualdade, defina um método de instância chamado equals(). Ele deve receber \num único argumento e retornar true se esse argumento for igual ao objeto em que é chamado. \nÉ claro que fica por sua conta decidir o que significa “igual” no contexto de sua classe. Para \nclasses simples, muitas vezes você pode simplesmente comparar as propriedades constructor para \ncertificar-se de que os dois",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1214,
+    "totalChunks": 10000
+  }
+}

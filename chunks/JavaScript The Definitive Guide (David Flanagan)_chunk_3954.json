@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3954",
+  "content": "te para uso como chave. Nesse caso, você especifica um \n“caminho de chave” para essa propriedade, ao criar o object store. Conceitualmente, um caminho de \nchave é um valor que diz ao banco de dados como extrair a chave de um objeto.\nAlém de recuperar objetos de um object store pelo valor de sua chave primária, talvez você queira \npesquisar com base no valor de outras propriedades do objeto. Para fazer isso, você pode definir \nqualquer quantidade de índices no object store. (A capacidade de indexar um object store explica o \nnome “IndexedDB”.) Cada índice define uma chave secundária para os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3954,
+    "totalChunks": 10000
+  }
+}

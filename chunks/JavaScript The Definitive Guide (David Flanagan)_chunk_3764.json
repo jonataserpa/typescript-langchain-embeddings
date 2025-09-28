@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3764",
+  "content": "state = {\n        n: Math.floor(99 * Math.random()) + 1,   // Um inteiro: 0 < n < 100\n        low: 0,        // O limite inferior (exclusivo) nos palpites\n        high: 100,    // O limite superior (exclusivo) nos palpites\n        guessnum: 0,   // Quantos palpites foram dados\n        guess: undefined        // Qual foi o último palpite\n    };\n    // Modifica o conteúdo do documento para exibir este estado inicial\n    display(state);\n    // Esta função é chamada como rotina de tratamento de evento onload e também é \n    // chamada pelo botão Play Again, exibido no final de um jogo. O",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3764,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4423",
+  "content": "contém uma ocorrência de \nsubstring. A busca começa na posição início dentro de string ou no fim de string, caso início \nnão seja especificado. Se uma ocorrência de substring é encontrada, String.lastIndexOf() retorna \na posição do primeiro caractere dessa ocorrência. Como esse método pesquisa do fim para o início \nda string, a primeira ocorrência encontrada é a última na string que ocorre antes da posição \ninício.\nSe nenhuma ocorrência de \nsubstring é encontrada, String.lastIndexOf() retorna −1.\n\n826          Parte III     Referência de JavaScript básica\nNote que, embora",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4423,
+    "totalChunks": 10000
+  }
+}

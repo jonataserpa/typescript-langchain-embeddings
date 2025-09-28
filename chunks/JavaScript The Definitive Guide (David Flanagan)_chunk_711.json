@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_711",
+  "content": "umerados por laços for/in. Para prevenir-se contra isso, talvez você queira \nfiltrar as propriedades retornadas por for/in. Aqui estão duas maneiras de fazer isso:\nfor(p in o) {\n    if (!o.hasOwnProperty(p)) continue;          // Pula as propriedades herdadas\n}\n\n124          Parte     I     JavaScript     básica\nfor(p in o) {\n    if (typeof o[p] === \"function\") continue;    // Pula os métodos\n}\nO Exemplo 6-2 define funções utilitárias que usam laços for/in para manipular propriedades de \nobjeto de maneiras úteis. A função extend(), em especial, é comumente incluída em bibliotecas \nutilitárias",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 711,
+    "totalChunks": 10000
+  }
+}

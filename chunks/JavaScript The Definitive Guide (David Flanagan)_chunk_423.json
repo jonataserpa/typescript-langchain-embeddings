@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_423",
+  "content": "er na Seção 4.10, o operador \n! calcula a operação booleana NÃO. Isso torna fácil \nlembrar que \n!= e !== significam “não igual a” e “não rigorosamente igual a”.\nConforme mencionado na Seção 3.7, os objetos em JavaScript são comparados por referência e não \npor valor. Um objeto é igual a si mesmo, mas não a qualquer outro objeto. Se dois objetos distintos \ntêm o mesmo número de propriedades, com os mesmos nomes e valores, eles ainda não são iguais. \nDois arrays que tenham os mesmos elementos na mesma ordem não são iguais.\nO operador de igualdade restrita \n=== avalia seus operandos e, então,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 423,
+    "totalChunks": 10000
+  }
+}

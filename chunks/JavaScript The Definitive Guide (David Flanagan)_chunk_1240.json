@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1240",
+  "content": "closure da chamada de construtora que cria uma instância. Para fazer isso, definimos \nfunções dentro da construtora (para que elas tenham acesso aos argumentos e às variáveis da cons-\ntrutora) e atribuímos essas funções às propriedades do objeto recém-criado. O Exemplo 9-10 mostra \ncomo podemos fazer isso para criar uma versão encapsulada de nossa classe Range. Em vez de ter \npropriedades \nfrom e to que fornecem os pontos extremos do intervalo, as instâncias dessa nova versão \nda classe têm métodos from e to que retornam os pontos extremos do intervalo. Esses método from() \ne to() são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1240,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2275",
+  "content": "para descobrir se o comando pode ser usado no momento. (Um comando que espera um intervalo \nde texto selecionado, por exemplo, poderia ser desabilitado quando não houvesse seleção.) Alguns \ncomandos, como “bold” e “italic”, têm um estado booleano e podem ser ativados ou desativados de-\npendendo da seleção atual ou da posição do cursor. Esses comandos normalmente são representados \ncom um botão de alternância em uma barra de ferramentas. Use document.queryCommandState() para \ndeterminar o estado atual de tal comando. Por fim, alguns comandos, como “fontname”, têm um \nvalor associado (um nome",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2275,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2025",
+  "content": "ibuto class fazem parte do mesmo conjunto. \nclass é uma palavra reservada de JavaScript, de modo que JavaScript do lado do cliente utiliza a pro-\npriedade className para conter o valor do atributo HTML class. O atributo class normalmente é \nusado em conjunto com uma folha de estilos CSS para aplicar os mesmos estilos de apresentação em \ntodos os membros de um conjunto. Vamos vê-lo outra vez, no Capítulo 16. Além disso, contudo, \na HTML5 define um método getElementsByClassName() que nos permite selecionar conjuntos de \nelementos de documento com base nos identificadores que estão em seu",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2025,
+    "totalChunks": 10000
+  }
+}

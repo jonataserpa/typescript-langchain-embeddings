@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5471",
+  "content": "o( ), jQuery, 524\nmétodo apply( ), objeto Function, 760\nmétodo assert( ), objeto Console, 866\nmétodo assign( ), objeto Location, 335, 949\nmétodo atob( ), objeto Window, 988\nmétodo attachEvent( ), 313, 444, 907\n    incompatibilidades entre addEventListener( ) e, \n320\n    registrando rotinas de tratamento de evento no IE, \n447\n    rotinas de tratamento registradas com, valor de \nthis, 449\nmétodo attr( ), jQuery, 517, 528\nmétodo back( ), objeto History, 336, 920\nmétodo before( ), jQuery, 524\nmétodo bind( ), 183\n    aplicação parcial de funções, 189\n    eventos dinâmicos e, 535\n    método",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5471,
+    "totalChunks": 10000
+  }
+}

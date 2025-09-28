@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4426",
+  "content": "ing.\nRetorna\nUm número indicando o resultado da comparação. Se \nstring é “menor do que” alvo, locale Com-\npare()\n retorna um número menor do que zero. Se string é “maior do que” alvo, o método retorna \num número maior do que zero. E se as strings são idênticas ou indistinguíveis de acordo com as \nconvenções de ordenação da localidade, o método retorna 0.\nDescrição\nQuando os operadores < e > são aplicados em strings, eles comparam essas strings usando somente \nas codificações Unicode desses caracteres e não consideram a ordem de comparação da localidade \ncorrente. A ordenação produzida dessa",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4426,
+    "totalChunks": 10000
+  }
+}

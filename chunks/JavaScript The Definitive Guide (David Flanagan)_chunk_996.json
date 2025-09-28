@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_996",
+  "content": "ida e não importa que exista uma closu-\nre envolvida. As closures se tornam interessantes quando são chamadas em um encadeamento de \nescopo diferente do que estava em vigor quando foram definidas. Isso acontece mais comumente \nquando um objeto função aninhada é retornado da função dentro da qual foi definido. Existem \nvárias técnicas de programação poderosas que envolvem esse tipo de closures de função aninhada \ne seu uso se tornou relativamente comum na programação JavaScript. As closures podem parecer \nconfusas quando você as encontra pela primeira vez, mas é importante entendê-las bem para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 996,
+    "totalChunks": 10000
+  }
+}

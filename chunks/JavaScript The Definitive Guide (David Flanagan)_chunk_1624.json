@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1624",
+  "content": "er quando \numa operação está concluída, tem de fornecer uma função que o Node possa chamar quando os \nresultados estiverem prontos ou quando a operação estiver concluída (ou quando ocorrer um erro). \nEm alguns casos (como na chamada de setTimeout() anteriormente), basta passar a função como \nargumento e o Node vai chamá-la no momento apropriado. Em outros casos, pode-se contar com a \ninfraestrutura de eventos do Node. Os objetos Node que geram eventos (conhecidos como emissores \nde evento) definem um método on() para registrar rotinas de tratamento. Passe o tipo de evento \n(uma string) como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1624,
+    "totalChunks": 10000
+  }
+}

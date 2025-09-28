@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3681",
+  "content": "text2D. Normalmente, você chama \ntoDataURL() sem argumentos e ele retorna o conteúdo do canvas \ncomo uma imagem PNG, codificada como uma string usando um URL data:. O URL retornado é \nconveniente para uso com um elemento <img> e você pode tirar um snapshot estático de um canvas \ncom código como o seguinte:\nvar img = document.createElement(\"img\");          // Cria um elemento <img>\nimg.src = canvas.toDataURL();                   // Configura seu atributo src\ndocument.body.appendChild(img);                 // Anexa-o no documento\nTodos os navegadores são obrigados a suportar o formato de imagem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3681,
+    "totalChunks": 10000
+  }
+}

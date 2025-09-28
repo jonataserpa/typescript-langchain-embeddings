@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2451",
+  "content": "e estilo deve ser a última\n        styleSheet = document.styleSheets[document.styleSheets.length-1]\n }\n    // Agora insere os estilos nela\n    if (typeof styles === \"string\") {\n        // O argumento é o texto da folha de estilo\n        if (styleElt) styleElt.innerHTML = styles;\n        else styleSheet.cssText = styles;        // A API do IE\n }\n    else    {\n        // O argumento é um objeto de regras individuais para inserir\n        var i = 0;\n        for(selector in styles) {\n            if (styleSheet.insertRule) {\n                var rule = selector + \" {\" + styles[selector] + \"}\";",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2451,
+    "totalChunks": 10000
+  }
+}

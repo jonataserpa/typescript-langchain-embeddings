@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4628",
+  "content": "ssa propriedade contém o texto seletor que especifica os elementos \ndo documento a que essa regra de estilo se aplica.\nreadonly CSSStyleDeclaration style\nQuando type é STYLE_RULE, essa propriedade especifica os estilos que devem ser aplicados nos \nelementos especificados por selectorText. Note que, embora a propriedade style em si seja \nsomente de leitura, as propriedades do objeto CSSStyleDeclaration às quais ela se refere são \nde leitura/gravação.\nreadonly unsigned short type\nO tipo dessa regra. O valor será uma das constantes definidas anteriormente.\nCSSStyleDeclaration\num conjunto de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4628,
+    "totalChunks": 10000
+  }
+}

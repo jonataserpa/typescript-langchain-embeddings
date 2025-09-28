@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2647",
+  "content": "do tecla-\ndo) no conjunto permitido.\n •   Devem fornecer uma maneira para que uma origem de arrasto especifique o ícone ou a ima-\ngem a ser arrastada.\n •   Devem fornecer notificação baseada em evento, tanto para a origem do arrasto como para o \nalvo de soltura, do andamento da interação DnD.\nA Microsoft introduziu uma API de DnD nas primeiras versões do IE. Não era uma API bem pro-\njetada nem bem documentada, mas outros navegadores tentaram copiá-la e HTML5 padroniza algo \nparecido com a API do IE e acrescenta novos recursos que tornam a API muito mais fácil de usar. \nEssa nova API de DnD",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2647,
+    "totalChunks": 10000
+  }
+}

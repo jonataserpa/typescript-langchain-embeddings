@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5594",
+  "content": "de localStorage, objetos Window, 575, 986\n    aplicativos    Web    off -line, 594\n    armazenamento API, 577\n    duração e escopo de armazenamento, 576\n    eventos de armazenamento, 578\npropriedade location\n    objeto Document, 334, 395, 877\n    objeto Event, 904\n    objeto Window, 299, 334, 986\n    objeto WorkerGlobalScope, 668, 993\npropriedade longitude, objeto Geocoordinates, 917\npropriedade loop, objeto MediaElement, 604, 951\npropriedade low, objeto Meter, 957\npropriedade margin, 405, 421\npropriedade max\n    objeto Input, 927\n    objeto Meter, 957\n    objeto Progress, 967\npropriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5594,
+    "totalChunks": 10000
+  }
+}

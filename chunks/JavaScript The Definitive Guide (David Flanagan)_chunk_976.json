@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_976",
+  "content": "(operation, operand1, operand2) {\n    if (typeof operators[operation] === \"function\")\n        return operators[operation](operand1, operand2);\n    else throw \"unknown operator\";\n}\n// Calcula o valor (\"hello\" + \" \" + \"world\") como segue:\nvar j = operate2(\"add\", \"hello\", operate2(\"add\", \" \", \"world\"));\n// Usando a função predefinida Math.pow():\nvar k = operate2(\"pow\", 10, 2);\nComo outro exemplo de funções como valores, considere o método Array.sort(). Esse método clas-\nsifica os elementos de um array. Como existem muitas ordens de classificação possíveis (numérica, \nalfabética, por data,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 976,
+    "totalChunks": 10000
+  }
+}

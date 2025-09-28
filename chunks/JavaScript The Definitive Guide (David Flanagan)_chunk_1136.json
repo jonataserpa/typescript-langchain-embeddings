@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1136",
+  "content": "usa um método e um campo de classe\nComplex.parse(c.toString()).    // Converte c em uma string e de volta novamente,\n    add(c.neg()).     // adiciona seu negativo a ele,\n    equals(Complex.ZERO)        // e ele sempre será igual a zero\nEmbora em JavaScript as classes possam simular membros de classe estilo Java, existem vários recur-\nsos importantes da linguagem Java que as classes de JavaScript não suportam. Primeiramente, nos \nmétodos de instância das classes Java, os campos de instância podem ser usados como se fossem va-\nriáveis locais – não há necessidade de prefixá-los com \nthis.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1136,
+    "totalChunks": 10000
+  }
+}

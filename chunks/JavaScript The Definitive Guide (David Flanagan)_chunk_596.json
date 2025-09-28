@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_596",
+  "content": "(i = 0; i < data.length; i++) {\n    if (!data[i]) continue;         // Não pode prosseguir com dados indefinidos\n    total += data[i];\n}\nAssim como a instrução break, a instrução continue pode ser usada em sua forma rotulada dentro \nde laços aninhados, quando o laço a ser reiniciado não é o laço imediatamente circundante. Além \ndisso, assim como na instrução break, não são permitidas quebras de linha entre a instrução continue \ne seu nomerótulo.\n5.6.4   return\nLembre-se de que as chamadas de função são expressões e de que todas as expressões têm valores. \nUma instrução return dentro de uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 596,
+    "totalChunks": 10000
+  }
+}

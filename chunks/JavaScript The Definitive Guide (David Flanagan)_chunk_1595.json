@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1595",
+  "content": "s elementos são tipados e eles não têm métodos de JavaScript, como \nslice(). Não \nexiste uma sintaxe JavaScript natural que o Rhino possa estender para permitir que programas JavaScript \ncriem novos arrays Java; portanto, é preciso fazer isso usando a classe java.lang.reflect.Array:\n// Cria um array de 10 strings e um array de 128 bytes\nvar words = java.lang.reflect.Array.newInstance(java.lang.String, 10);\nvar bytes = java.lang.reflect.Array.newInstance(java.lang.Byte.TYPE, 128);\n// Uma vez criados os arrays, você pode usá-los exatamente como os arrays de JavaScript:\nfor(var i = 0; i <",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1595,
+    "totalChunks": 10000
+  }
+}

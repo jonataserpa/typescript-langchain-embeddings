@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4058",
+  "content": "ECMAScript 5\ncalcula novos elementos do array a partir dos antigos\nSinopse\narray.map(f)\narray.map(f, o)\nArgumentos\nf\nA função a ser chamada para cada elemento de array. Seus valores de retorno se tornam ele-\nmentos do array retornado.\no\nUm valor opcional no qual f é chamada.\nRetorna\nUm novo array com elementos calculados pela função \nf.\nDescrição\nmap() cria um novo array com o mesmo comprimento de array e calcula os elementos desse novo \narray passando os elementos de array para a função f. map() itera pelos índices de array, em ordem \ncrescente, e chama f uma vez para cada elemento. Para um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4058,
+    "totalChunks": 10000
+  }
+}

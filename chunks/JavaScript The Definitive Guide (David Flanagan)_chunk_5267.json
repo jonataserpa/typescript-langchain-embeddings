@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5267",
+  "content": "g hash\nA parte do identificador de fragmento do URL, incluindo o sinal numérico à esquerda.\nreadonly string host\nAs partes do host e da porta do URL.\n\n996          Parte IV     Referência de JavaScript do lado do cliente\nreadonly string hostname\nA parte do host do URL.\nreadonly string href\nO texto completo do URL passado para a construtora Worker(). Esse é o único valor que o \nworker recebe diretamente de sua thread pai: todos os outros valores são recebidos indireta-\nmente por meio de eventos message.\nreadonly string pathname\nA parte do nome de caminho do URL.\nreadonly string port\nA parte da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5267,
+    "totalChunks": 10000
+  }
+}

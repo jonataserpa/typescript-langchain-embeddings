@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_727",
+  "content": "são abordados com mais detalhes na \nSeção 8.2.2.\nAs propriedades de acesso são herdadas, assim como as propriedades de dados; portanto, pode-se \nusar o objeto \np definido anteriormente como protótipo para outros pontos. Os novos objetos podem \nreceber suas próprias propriedades x e y e eles vão herdar as propriedades r e theta:\nvar q = inherit(p);   // Cria um novo objeto que herda métodos getter e setter\nq.x = 1, q.y = 1;     // Cria as propriedades de dados próprias de q\nconsole.log(q.r);     // E usa as propriedades de acesso herdadas\nconsole.log(q.theta);\nO código anterior usa",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 727,
+    "totalChunks": 10000
+  }
+}

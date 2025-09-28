@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3625",
+  "content": "uperior.\n// Curva Bezier quadrática: um ponto de controle\nc.moveTo(75, 250);            // Começa em (75,250)\nc.quadraticCurveTo(100,200, 175, 250);  // Curva até (175,250)\nc.fillRect(100-3,200-3,6,6);           // Marca o ponto de controle (100,200)\n// Curva Bezier cúbica\nc.moveTo(200, 250);                    // Começa em (200,250)\nc.bezierCurveTo(220,220,280,280,300,250);        // Curva até (300,250)\nc.fillRect(220-3,220-3,6,6);                    // Marca os pontos de controle\nc.fillRect(280-3,280-3,6,6);\n// Define alguns atributos gráficos e desenha as curvas\nc.fillStyle = \"#aaa\"; //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3625,
+    "totalChunks": 10000
+  }
+}

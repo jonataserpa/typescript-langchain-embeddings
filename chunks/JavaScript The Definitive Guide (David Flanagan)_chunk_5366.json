@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5366",
+  "content": "lemento na, 382\nCoordinated Universal Time (UTC), 726\ncores\n    degradês no canvas, 632\n    especifi cando com CSS, 415\n    especifi cando no canvas, 631\n    especifi cando para caminhos no canvas, 851–852\n    propriedade background-color, 410\n    propriedade shadowColor, 639\ncorreção ortográfi ca em navegadores, 399\ncreateComment( ), objeto Document, 878\ncreateDocument( ), DOMImplementation, 884–\n885\ncreateDocumentFragment( ), objeto Document, \n375, 878\ncreateDocumentType( ), objeto DOMImplementa-\ntion, 884–885\ncreateElement( ), objeto Document, 372, 879\ncreateElementNS( ), objeto Document,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5366,
+    "totalChunks": 10000
+  }
+}

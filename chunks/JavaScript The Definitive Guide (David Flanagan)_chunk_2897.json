@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2897",
+  "content": "uma conexão HTTP de longa duração. Note que\n// esta não é uma implementação completa da API: ela não suporta a\n// propriedade readyState, o método close() nem os eventos open e error.\n// Além disso, o registro de evento para eventos message é feito apenas por meio da\n// propriedade onmessage -- esta versão não define um método addEventListener.\nif (window.EventSource === undefined) {          // Se EventSource não estiver definido,\n    window.EventSource = function(url) {         // simula-o deste modo.\n        var    xhr;              // Nossa conexão HTTP...\n        var evtsrc = this;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2897,
+    "totalChunks": 10000
+  }
+}

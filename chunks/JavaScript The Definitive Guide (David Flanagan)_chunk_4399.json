@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4399",
+  "content": "padrão de RegExp. Esse texto não inclui as barras delimitadoras utilizadas em expressões regulares \nliterais nem os atributos “g”, “i” e “m”.\nRegExp.test()\ntesta se uma string corresponde a um padrão\nSinopse\nexpreg.test(string)\nArgumentos\nstring\nA string a ser testada.\nRetorna\ntrue se string contém texto que corresponde a expreg; caso contrário, false.\nLança\nTypeError\nSe esse método é chamado em um objeto que não é RegExp.\nDescrição\ntest() testa string para ver se contém texto correspondente a expreg. Se contiver, retorna true; caso \ncontrário, retorna false. Chamar o método test() de um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4399,
+    "totalChunks": 10000
+  }
+}

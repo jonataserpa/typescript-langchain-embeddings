@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3687",
+  "content": "balCompositeOpera-\ntion. O valor padrão é “source-over”, ou seja, os pixels de origem são desenhados “sobre” os pixels \nde destino e combinados com eles se a origem for translúcida. Se você configura essa propriedade \ncomo “copy”, a composição é desativada: os pixels de origem são copiados no canvas sem altera-\nção e os pixels de destino são ignorados. Outro valor de globalCompositeOperation que às vezes é \nútil é “destination-over”. Esse tipo de composição combina os pixels como se os novos pixels de \norigem fossem desenhados embaixo dos pixels de destino existentes. Se o destino é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3687,
+    "totalChunks": 10000
+  }
+}

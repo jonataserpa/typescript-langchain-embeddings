@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1325",
+  "content": "urn \"(\" + this.from + \"...\" + this.to + \")\"; }\n});\n9.8.4   Impedindo extensões de classe\nNormalmente considera-se uma característica de JavaScript as classes poderem ser estendidas dina-\nmicamente pela adição de novos métodos no objeto protótipo. ECMAScript 5 permite evitar isso, \ncaso se queira. Object.preventExtensions() torna um objeto não extensível (Seção 6.8.3), ou seja, \nnenhuma propriedade nova pode ser adicionada nele. Object.seal() leva isso um passo adiante: \nimpede a adição de novas propriedades e também transforma todas as propriedades atuais em não \nconfiguráveis, de modo que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1325,
+    "totalChunks": 10000
+  }
+}

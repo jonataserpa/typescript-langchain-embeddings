@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_244",
+  "content": "arações feitas nos programas JavaScript. Por \nexemplo:\na == 4\nEsse código faz um teste para ver se o valor da variável a é igual ao número 4. Se for, o resultado dessa \ncomparação é o valor booleano true. Se a não é igual a 4, o resultado da comparação é false.\nOs valores booleanos são comumente usados em estruturas de controle em JavaScript. Por exemplo, \na instrução \nif/else de JavaScript executa uma ação se um valor booleano é true e outra ação se o va-\nlor é false. Normalmente, uma comparação que gera um valor booleano é combinada diretamente \ncom a instrução que o utiliza. O resultado é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 244,
+    "totalChunks": 10000
+  }
+}

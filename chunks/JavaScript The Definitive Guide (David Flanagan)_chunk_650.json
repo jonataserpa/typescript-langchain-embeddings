@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_650",
+  "content": "a especificação ECMAScript. \nArrays, funções, datas e expressões regulares (por exemplo) são objetos nativos.\n •Um objeto hospedeiro é um objeto definido pelo ambiente hospedeiro (como um navega-\ndor Web) dentro do qual o interpretador JavaScript está incorporado. Os objetos HTML-\nElement, que representam a estrutura de uma página Web em JavaScript do lado do clien-\nte, são objetos hospedeiros. Os objetos hospedeiros também podem ser objetos nativos, \ncomo quando o ambiente hospedeiro define métodos que são objetos Function normais \nde JavaScript.\n •   Um objeto definido pelo usuário é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 650,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4709",
+  "content": "ropriedade \nclassName, que é uma string. Se quiser configurar todos os símbolos de \nclassList de uma só vez, pode simplesmente configurar a propriedade className com uma nova \nstring. A propriedade sandbox do elemento IFrame é um pouco diferente. Essa propriedade e o \natributo HTML em que é baseada foram definidas por HTML5 e, portanto, não há necessidade \nde uma representação de string antiga e de uma nova representação de DOMTokenList. Nesse \ncaso, a propriedade é simplesmente definida como DOMSettableTokenList: você pode lê-la e gravá-\n-la como se fosse uma string ou utilizar seus métodos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4709,
+    "totalChunks": 10000
+  }
+}

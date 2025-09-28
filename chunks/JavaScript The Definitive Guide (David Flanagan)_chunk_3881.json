@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3881",
+  "content": "a seu uso com arquivos.\n22.6.2   Baixando   Blobs\nO Capítulo 18 abordou os scripts HTTP com o objeto XMLHttpRequest e também documen-\ntou alguns dos novos recursos da versão preliminar da especificação XMLHttpRequest Level 2 \n\nCapítulo 22     APIs de HTML5      679\nJavaScript do\n lado do cliente\n(XHR2). Quando este livro estava sendo escrito, a XHR2 definia uma maneira de baixar o con-\nteúdo de um URL como um Blob, mas as implementações de navegador ainda não a suportavam. \nComo o código ainda não pode ser testado, esta seção é apenas um esboço simples da API XHR2 \npara trabalhar com Blobs.\nO",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3881,
+    "totalChunks": 10000
+  }
+}

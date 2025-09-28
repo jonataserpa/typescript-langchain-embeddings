@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_128",
+  "content": "mplementação real desse serviço de busca de financeiras. Mas \n// se o serviço existisse, essa função funcionaria com ele.\nfunction getLenders(amount, apr, years, zipcode) {\n    // Se o navegador não suporta o objeto XMLHttpRequest, não faz nada\n    if (!window.XMLHttpRequest) return;\n\n16          Capítulo     1     Introdução     a     JavaScript\n    // Localiza o elemento para exibir a lista de financeiras\n    var ad = document.getElementById(\"lenders\");\n    if (!ad) return;  // Encerra se não há ponto de saída\n    // Codifica a entrada do usuário como parâmetros de consulta em um URL",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 128,
+    "totalChunks": 10000
+  }
+}

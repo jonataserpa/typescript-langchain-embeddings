@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5537",
+  "content": "propriedade caller, 763–764\n    propriedade length, 764–765\n    propriedade prototype, 764–765\n    propriedades,    759\nobjeto Geocoordinates, 917\nobjeto Geolocation, 917\nobjeto GeolocationError, 918\nobjeto Geoposition, 919\nobjeto global, 41, 765–768\n    propriedades se referindo a objetos JavaScript pre-\ndefi nidos, 766–767\nobjeto HashChangeEvent, 919\nobjeto History, 336, 920\n    método pushState( ), 657\n        gerenciamento de histórico com (exemplo), \n658–661\n    método replaceState( ), 658\n    métodos back( ), forward( ) e go( ), 336\nobjeto HTMLCollection, 357, 921\n    elementos de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5537,
+    "totalChunks": 10000
+  }
+}

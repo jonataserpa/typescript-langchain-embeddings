@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3674",
+  "content": "iro \nargumento é a imagem de origem a partir da qual os pixels serão copiados. Esse argumento imagem \nfrequentemente é um elemento <img> ou uma imagem fora da tela criada com a construtora Image(), \nmas também pode ser outro elemento <canvas> ou mesmo um elemento <video>. Se você especificar \num elemento <img> ou <video> que ainda está carregando seus dados, a chamada de drawImage() não \nvai fazer nada.\nNa versão de \ndrawImage() com três argumentos, o segundo e terceiro argumentos especificam as \ncoordenadas X e Y nas quais o canto superior esquerdo da imagem será desenhado. Nessa versão do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3674,
+    "totalChunks": 10000
+  }
+}

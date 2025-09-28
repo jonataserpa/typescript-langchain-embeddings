@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4532",
+  "content": "erior do círculo menor está fora \ndo caminho. Essa mesma definição de interior é usada pelos métodos fill() e clip().\nCores, degradês e padrões\nAo preencher ou traçar caminhos, você pode especificar como as linhas ou área preenchida são ren-\nderizadas, usando as propriedades fillStyle e strokeStyle. Ambas aceitam strings de cor estilo CSS, \nassim como objetos CanvasGradient e CanvasPattern que descrevem gradientes e padrões. Para criar \num gradiente, use os métodos createLinearGradient() ou createRadialGradient(). Para criar um \npadrão, use createPattern().\nPara especificar uma cor opaca",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4532,
+    "totalChunks": 10000
+  }
+}

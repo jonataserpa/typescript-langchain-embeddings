@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_983",
+  "content": "t tem escopo de função: as variáveis declaradas dentro de \numa função são visíveis por toda a função (inclusive dentro de funções aninhadas), mas não existem \nfora da função. As variáveis declaradas fora de uma função são variáveis globais e são visíveis por \ntodo o seu programa JavaScript. JavaScript não define maneira alguma de declarar variáveis que são \nocultas dentro de um único bloco de código e, por esse motivo, às vezes é útil definir uma função \npara agir simplesmente como espaço de nomes temporário, no qual é possível definir variáveis sem \npoluir o espaço de nomes global.\n\n174",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 983,
+    "totalChunks": 10000
+  }
+}

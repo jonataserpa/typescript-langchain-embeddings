@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5563",
+  "content": "resultado, 63\n    ordem de avaliação, 65\n    OU lógico (||), 75\n    precedência,    64\n    typeof,    80–81\n    void,    83–84\noperadores aritméticos, 32, 61\noperadores aritméticos unários, 67\noperadores bit a bit, 61, 68\noperadores de atribuição, 61\n    efeitos colaterais, 63\noperadores de comparação, 61, 72, 217\noperadores de desigualdade (consulte ! (ponto de ex-\nclamação), sob Símbolos)\noperadores de igualdade (consulte = (sinal de igualda-\nde), sob Símbolos)\noperadores lógicos, 61\noperadores relacionais, conversões de objeto para \nprimitivo com, 50\nordem de avaliação, operadores,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5563,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2424",
+  "content": "amar a função \ngrabAttention() \npara esse elemento vai anular a classe existente.\nHTML5 resolve esse problema definindo uma propriedade \nclassList para cada elemento. O valor \ndessa propriedade é conhecido como DOMTokenList: um objeto semelhante a um array somente \nde leitura (Seção 7.11) cujos elementos contêm os nomes de classe individuais do elemento. Contu-\ndo, mais importantes do que seus elementos de array são os métodos definidos por DOMTokenList. \nadd() e remove() adicionam e removem nome de classe individuais do atributo class do elemento. \ntoggle() adiciona um nomes de classes se",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2424,
+    "totalChunks": 10000
+  }
+}

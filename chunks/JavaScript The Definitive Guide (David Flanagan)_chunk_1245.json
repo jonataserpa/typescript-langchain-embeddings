@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1245",
+  "content": "a de encapsulamento. Uma classe que utiliza \numa closure para encapsular seu estado quase certamente vai ser mais lenta e maior do que a classe \nequivalente com variáveis de estado não encapsuladas.\n9.6.7   Sobrecarga de construtora e métodos de fábrica\nÀs vezes queremos permitir que os objetos sejam inicializados de mais de uma maneira. Talvez quei-\nramos criar um objeto Complex inicializado com um raio e um ângulo (coordenadas polares), em \nvez dos componentes real e imaginário, por exemplo, ou queiramos criar um Set cujos membros são \nos elementos de um array, em vez dos argumentos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1245,
+    "totalChunks": 10000
+  }
+}

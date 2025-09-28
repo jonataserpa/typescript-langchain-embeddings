@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3439",
+  "content": "da cache. Portanto, o navegador geral-\nmente deve manter a versão antiga da cache até que o usuário recarregue o aplicativo.\nO método \nswapCache() diz ao navegador que pode descartar a cache antiga e atender a qualquer \npedido futuro a partir da nova cache. Note que isso não recarrega o aplicativo: arquivos HTML, \nimagens, scripts, etc., que já foram carregados, não são alterados. Mas qualquer pedido futuro vai ser \nproveniente da nova versão da cache. Isso pode causar problemas de assimetria de versão e geralmen-\nte não é uma boa ideia, a não ser que seu aplicativo seja cuidadosamente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3439,
+    "totalChunks": 10000
+  }
+}

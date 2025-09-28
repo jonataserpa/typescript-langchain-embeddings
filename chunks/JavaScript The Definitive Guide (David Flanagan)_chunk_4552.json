@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4552",
+  "content": "e forma local e alguns compunham globalmente. Consulte a Seção 21.4.13 \npara ver os detalhes.\nstring lineCap\nA propriedade lineCap especifica como as linhas devem ser terminadas. Isso só importa ao \nse desenhar linhas largas. Os valores válidos para essa propriedade estão listados na tabela a \nseguir. O valor padrão é “butt”.\nValorSignificado\n\"butt\"\nEsse valor padrão especifica que a linha não deve ter terminação. O fim da linha é reto e é perpendicular \nà sua direção. A linha não se estende além de seu ponto extremo.\n\"round\"\nEsse valor especifica que as linhas devem terminar com um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4552,
+    "totalChunks": 10000
+  }
+}

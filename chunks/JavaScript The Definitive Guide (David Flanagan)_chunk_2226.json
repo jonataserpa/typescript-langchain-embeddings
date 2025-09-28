@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2226",
+  "content": "m fazer isso \ncom a rotina de tratamento \nonsubmit do próprio objeto Form.\nA Parte IV não contém uma entrada Button. Consulte \nInput para ver os detalhes sobre todos os bo-\ntões de pressão do elemento formulário, incluindo aqueles criados com o elemento \n<button>.\n15.9.5   Botões de alternância\nOs elementos “botão de ação” e “caixa de seleção” são “botões de alternância”, ou botões que têm \ndois estados visualmente distintos: eles podem estar marcados ou desmarcados. O usuário pode mu-\ndar o estado de um botão de alternância clicando nele. Os elementos botão de ação são projetados \npara serem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2226,
+    "totalChunks": 10000
+  }
+}

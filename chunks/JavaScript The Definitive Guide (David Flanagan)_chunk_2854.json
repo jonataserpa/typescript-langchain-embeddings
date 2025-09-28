@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2854",
+  "content": "emplo 18-12 Implementando tempos-limite\n// Faz uma requisição HTTP GET solicitando o conteúdo do URL especificado.\n// Se a resposta chega normalmente, passa responseText para a função callback.\n// Se a resposta não chega em menos do que timeout ms, cancela a requisição.\n// Os navegadores podem disparar \"readystatechange\" após abort() e, se foi\n// recebida uma requisição parcial, a propriedade status pode ser configurada, de modo \n// que precisamos ativar um flag para não chamarmos a função callback para uma\n// resposta parcial que atingiu o tempo-limite. Esse problema não surge se usamos o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2854,
+    "totalChunks": 10000
+  }
+}

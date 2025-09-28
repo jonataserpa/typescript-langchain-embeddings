@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1656",
+  "content": "//    resposta\n                  response.end();             // E terminamos\n   }\n        });\n }\n});\n12.2.2   Exemplo de Node: módulo de utilitários de cliente HTTP\nO Exemplo 12-3 usa o módulo “http” para definir funções utilitárias para fazer pedidos HTTP \nGET e POST. O exemplo está estruturado como um módulo “httputils”, o qual poderia ser usado \nem seu código como segue:\nvar httputils = require(\"./httputils\"); // Observe a ausência do sufixo \".js\"\nhttputils.get(url, function(status, headers, body) { console.log(body); });\nA função require() não executa",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1656,
+    "totalChunks": 10000
+  }
+}

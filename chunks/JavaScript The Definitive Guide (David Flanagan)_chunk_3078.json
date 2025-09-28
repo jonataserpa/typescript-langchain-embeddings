@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3078",
+  "content": "erá passado \ncomo argumento para as rotinas de tratamento disparadas:\n$('#button1').trigger(\"click\", true);            // Passa um único argumento extra\n$('#button1').trigger(\"click\", [x,y,z]);         // Passa três argumentos extras\nEm certos momentos, talvez você queira disparar todas as rotinas de tratamento para determina-\ndo tipo de evento, independente de a qual elemento do documento essas rotinas de tratamento \nestejam vinculadas. Você poderia selecionar todos os elementos com $('*') e então chamar tri-\ngger() no resultado, mas isso seria muito ineficiente. Em vez disso, para disparar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3078,
+    "totalChunks": 10000
+  }
+}

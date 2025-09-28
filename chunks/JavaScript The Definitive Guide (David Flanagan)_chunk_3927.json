@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3927",
+  "content": "avação. Esse processo de várias etapas é espe-\ncialmente complexo ao se usar a API assíncrona:\n// Lê o arquivo de texto \"hello.txt\" e registra seu conteúdo.\n// A API assíncrona aninha funções a quatro níveis de profundidade.\n// Este exemplo não inclui qualquer função callback de erro.\nrequestFileSystem(PERSISTENT, 10*1024*1024, function(fs) {  // Obtém o sistema de arquivo\n    fs.root.getFile(\"hello.txt\", {}, function(entry) {      // Obtém FileEntry\n        entry.file(function(file) {  // Obtém File\n            var reader = new FileReader();\n            reader.readAsText(file);",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3927,
+    "totalChunks": 10000
+  }
+}

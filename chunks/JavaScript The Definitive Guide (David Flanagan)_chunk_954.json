@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_954",
+  "content": "ar o elemento do array também muda x!\n    console.log(x);   // Agora exibe \"null\"\n}\nCom certeza esse não é o comportamento que se esperaria ver se o objeto Arguments fosse um array \nnormal. Nesse caso, arguments[0] e x poderiam se referir inicialmente ao mesmo valor, mas uma \nalteração em um não teria efeito no outro.\nEsse comportamento especial do objeto Arguments foi eliminado no modo restrito de ECMAScript \n5. Existem ainda outras diferenças no modo restrito. Em funções não restritas, \narguments é apenas \num identificador. No modo restrito, é efetivamente uma palavra reservada. As funções",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 954,
+    "totalChunks": 10000
+  }
+}

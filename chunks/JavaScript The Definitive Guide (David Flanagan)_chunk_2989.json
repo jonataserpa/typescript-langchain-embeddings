@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2989",
+  "content": "slocamento, em vez de relativas ao documento como um todo. Na Seção \n15.8.5, vimos que todo elemento tem uma propriedade offsetParent a que sua posição é relativa. \nOs elementos posicionados sempre servem como pais de deslocamento para seus descendentes, mas \n\nCapítulo 19     A biblioteca jQuery      521\nJavaScript do\n lado do cliente\nalguns navegadores também transformam outros elementos, como células de tabela, em pais de des-\nlocamento. A jQuery considera pais de deslocamento somente elementos posicionados e o método \noffsetParent() de um objeto jQuery mapeia cada elemento em seu elemento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2989,
+    "totalChunks": 10000
+  }
+}

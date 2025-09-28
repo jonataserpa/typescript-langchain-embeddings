@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1857",
+  "content": "prio URL que \ncomeça com ?. Ele usa document.write() para adicionar conteúdo gerado dinamicamente no docu-\nmento. Essa página é destinada a ser chamada com um URL como o seguinte:\nhttp://www.example.com/greet.html?David\nQuando usada dessa forma, ela exibe o texto “Hello David”. Mas considere o que acontece quando \nela é chamada com este URL:\nhttp://www.example.com/greet.html?%3Cscript%3Ealert('David')%3C/script%3E\nCom esse URL, o script gera outro script dinamicamente (%3C e %3E são códigos para sinais de menor \ne maior)! Nesse caso, o script injetado simplesmente exibe uma caixa de diálogo,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1857,
+    "totalChunks": 10000
+  }
+}

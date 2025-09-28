@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_447",
+  "content": "ara entendê-los completamente, talvez você \nqueira rever a noção de valores “verdadeiros” e “falsos” apresentada na Seção 3.3.\n4.10.1   E lógico (&&)\nO operador && pode ser entendido em três níveis diferentes. No nível mais simples, quando utilizado \ncom operandos booleanos, && efetua a operação E booleana nos dois valores: ele retorna true se, e \nsomente se, seu primeiro operando e seu segundo operando são true. Se um ou os dois operandos \nsão false, ele retorna false.\n&& é frequentemente usado como conjunção para unir duas expressões relacionais:\nx == 0 && y == 0      // verdadeiro se, e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 447,
+    "totalChunks": 10000
+  }
+}

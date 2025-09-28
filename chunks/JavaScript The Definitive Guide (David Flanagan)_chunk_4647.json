@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4647",
+  "content": "cado. Se formato é igual (ignorando a caixa) a \n“text”, use “text/plain”, em vez disso. E se é igual (ignorando a caixa) a “url”, use “text/uri-list”. Esse \nmétodo é chamado pelo alvo da soltura em resposta ao evento drop no final de uma operação de \narrastar e soltar.\nvoid setData(string formato, string dados)\nEspecifica os dados a serem transferidos e o tipo MIME formato desses dados. A origem do arrasto \nchama esse método em resposta a um evento dragstart no início de uma operação de arrastar e soltar. \nEle não pode ser chamado a partir de nenhuma outra rotina de tratamento de evento. Se a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4647,
+    "totalChunks": 10000
+  }
+}

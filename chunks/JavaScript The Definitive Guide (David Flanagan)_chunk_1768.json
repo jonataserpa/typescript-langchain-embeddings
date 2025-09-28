@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1768",
+  "content": "principal ou com \noutros workers e só pode se comunicar com a thread principal e com outros workers por meio de \neventos assíncronos, de modo que a concomitância não pode ser detectada pela thread principal e os \nWeb workers não alteram o modelo básico de execução com thread única dos programas JavaScript. \nConsulte a Seção 22.4 para ver detalhes completos sobre Web workers.\n13.3.4   Linha do tempo de JavaScript do lado do cliente\nJá vimos que os programas JavaScript começam em uma fase de execução de script e depois passam \npara uma fase de tratamento de eventos. Esta seção explica a linha",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1768,
+    "totalChunks": 10000
+  }
+}

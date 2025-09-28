@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2635",
+  "content": "// Registra rotinas de tratamento de evento roda do mouse.\n    frame.onwheel = wheelHandler;      // Navegadores futuros\n    frame.onmousewheel = wheelHandler;  // A maioria dos navegadores atuais\n    if (isFirefox)           // Somente Firefox\n        frame.addEventListener(\"DOMMouseScroll\", wheelHandler, false);\n    function wheelHandler(event) {\n        var e = event || window.event;  // Evento de objeto padrão ou IE\n        // Extrai a quantidade de rotação do objeto evento, procurando\n        // propriedades de um objeto evento wheel, de um objeto evento mousewheel\n        // (tanto na",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2635,
+    "totalChunks": 10000
+  }
+}

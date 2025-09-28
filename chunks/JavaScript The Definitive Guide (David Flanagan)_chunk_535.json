@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_535",
+  "content": "dado para \ngarantir que a cláusula else combine com a instrução if apropriada. Considere as linhas a seguir:\ni = j = 1;\nk = 2;\nif (i == j)\n    if (j == k)\n        console.log(\"i equals k\");\nelse\n    console.log(\"i doesn't equal j\");   // ERRADO!!\nNesse exemplo, a instrução if interna forma a instrução única permitida pela sintaxe da instrução if \nexterna. Infelizmente, não está claro (a não ser pela dica dada pelo recuo) com qual if a cláusula else \nestá relacionada. E, nesse exemplo, o recuo está errado, pois um interpretador JavaScript interpreta \no exemplo anterior como:\nif (i == j) {",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 535,
+    "totalChunks": 10000
+  }
+}

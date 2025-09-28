@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2780",
+  "content": "2 \npara mais informações sobre responseXML.\nO objeto XMLHttpRequest em geral é usado (mas consulte a Seção 18.1.2.1) de forma assíncrona: \no método \nsend() retorna imediatamente após enviar a requisição, e os métodos e propriedades de \nresposta listados anteriormente não são válidos até que a resposta seja recebida. Para ser notificado \nquando a resposta estiver pronta, você deve receber eventos readystatechange (ou os novos eventos \nprogress da XHR2, descritos na Seção 18.1.4) no objeto XMLHttpRequest. Mas para entender esse \ntipo de evento, você deve primeiro entender a propriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2780,
+    "totalChunks": 10000
+  }
+}

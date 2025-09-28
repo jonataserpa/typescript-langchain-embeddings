@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2750",
+  "content": "aforma mais confiável para implementar Comet é fazer com que o \ncliente estabeleça uma conexão com o servidor (usando um transporte Ajax) e com que o servidor \nmantenha essa conexão aberta até que precise enviar uma mensagem. Sempre que o servidor envia \numa mensagem, ele fecha a conexão, o que ajuda a garantir que a mensagem seja recebida corre-\ntamente pelo cliente. Após processar a mensagem, o cliente estabelece imediatamente uma nova \nconexão para as futuras mensagens.\nÉ difícil implementar um transporte Comet confiável independente de plataforma, sendo que a \nmaioria dos desenvolvedores",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2750,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1409",
+  "content": "res-\npondam (isto é, ambas aspas simples ou ambas duplas):\n/['\"][^'\"]*['\"]/\nPara exigir que as aspas correspondam, use uma referência:\n/(['\"])[^'\"]*\\1/\n\nCapítulo 10     Comparação de padrões com expressões regulares      251\nJavaScript básica\nO item \\1 corresponde ao que a primeira subexpressão entre parênteses correspondeu. Nesse exem-\nplo, ele impõe a restrição de que as aspas de fechamento devem corresponder às aspas de abertura. \nEssa expressão regular não permite aspas simples dentro de strings com aspas duplas ou vice-versa. \nNão é válido usar uma referência dentro de uma classe de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1409,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3281",
+  "content": "a ao seletor. Se o seletor é omitido, esses métodos funcionam exatamente como \nnextAll() e prevAll() sem seletor.\nO método \nparent() retorna o pai de cada elemento selecionado:\n$(\"li\").parent()      // Pais de itens da lista, como elementos <ul> e <ol>\nO método parents() retorna os ascendentes (até o elemento <html>) de cada elemento selecionado. \nTanto \nparent() como parents() aceitam um argumento de string seletora opcional:\n$(\"a[href]\").parents(\"p\")       // Elementos <p> que contêm links\nparentsUntil()\n retorna os ascendentes de cada elemento selecionado até o primeiro ascendente que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3281,
+    "totalChunks": 10000
+  }
+}

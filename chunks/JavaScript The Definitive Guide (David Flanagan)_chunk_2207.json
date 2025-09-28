@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2207",
+  "content": "brigatório para grupos de caixas de seleção mutuamente exclusivos compartilhar \num valor do atributo \nname. Lembre-se de que, quando você indexa um HTMLCollection com um \nnome e mais de um elemento compartilha esse nome, o valor retornado é um objeto semelhante a \num array que contém todos os elementos coincidentes. Considere o seguinte formulário que contém \nbotões de opção para selecionar um método de despacho (shipping):\n<form name=\"shipping\">\n  <fieldset><legend>Shipping Method</legend>\n    <label><input type=\"radio\" name=\"method\" value=\"1st\">First-class</label>\n    <label><input",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2207,
+    "totalChunks": 10000
+  }
+}

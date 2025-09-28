@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2112",
+  "content": "child);\n    else parent.insertBefore(child, parent.childNodes[n]);\n}\nSe você chamar appendChild() ou insertBefore() para inserir um nó que já está no documento, esse \nnó será automaticamente removido de sua posição atual e reinserido em sua nova posição: não há \nnecessidade de remover o nó explicitamente. O Exemplo 15-4 mostra uma função para classificar \nas linhas de uma tabela com base nos valores das células em uma coluna especificada. Ela não cria \nnovos nós, mas utiliza appendChild() para mudar a ordem dos nós existentes.\nExemplo 15-4 Classificando as linhas de uma tabela\n// Classifica",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2112,
+    "totalChunks": 10000
+  }
+}

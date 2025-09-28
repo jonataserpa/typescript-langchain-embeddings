@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_384",
+  "content": "e o programa efetue não vai ser afetado por essa avaliação. Contudo, algumas \nexpressões têm efeitos colaterais e sua avaliação pode afetar o resultado de futuras avaliações. Os \noperadores de atribuição são o exemplo mais evidente: se você atribui um valor a uma variável ou \npropriedade, isso altera o valor de qualquer expressão que utilize essa variável ou propriedade. Os \noperadores \n++ e -- de incremento e decremento são semelhantes, pois realizam uma atribuição im-\n\n64          Parte     I     JavaScript     básica\nplícita. O operador delete também tem efeitos colaterais: excluir uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 384,
+    "totalChunks": 10000
+  }
+}

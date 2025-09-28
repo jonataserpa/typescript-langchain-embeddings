@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3776",
+  "content": "HTML a seguir são a interface com o usuário do jogo -->\n<!-- Título do jogo e representação textual do intervalo de números -->\n<h1 id=\"heading\">I'm thinking of a number...</h1>\n<!-- uma representação visual dos números que não foram rejeitados -->\n<table><tr><td id=\"low\"></td><td id=\"mid\"></td><td id=\"high\"></td></tr></table>\n<!-- Onde o usuário digita seus palpites -->\n<label id=\"prompt\"></label><input id=\"input\" type=\"text\">\n</body></html>\n22.3   Troca de mensagens entre origens\nConforme mencionado na Seção 14.8, algumas janelas e guias do navegador ficam completamente \nisoladas umas das",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3776,
+    "totalChunks": 10000
+  }
+}

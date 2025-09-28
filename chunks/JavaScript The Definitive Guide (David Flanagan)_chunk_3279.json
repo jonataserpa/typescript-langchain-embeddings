@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3279",
+  "content": "mão e o anterior de cada elemento selecionado \nque tiver um. Se um seletor é especificado, o irmão é selecionado somente se corresponde ao seletor:\n$(\"h1\").next(\"p\")     // O mesmo que $(\"h1+p\")\n$(\"h1\").prev()        // Elementos irmãos antes dos elementos <h1>\nnextAll()\n e prevAll() retornam todos os irmãos após e todos os irmãos antes (se houver algum) \nde cada elemento selecionado. E o método \nsiblings() retorna todos os irmãos de cada elemento \nselecionado (os elementos não são considerados irmãos deles mesmos). Se um seletor é passado para \nqualquer um desses métodos, somente os irmãos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3279,
+    "totalChunks": 10000
+  }
+}

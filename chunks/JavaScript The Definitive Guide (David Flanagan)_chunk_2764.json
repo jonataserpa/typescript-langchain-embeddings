@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2764",
+  "content": "esses URLs vão \nser relativos a um URL \nfile:// e não a um URL http://. E a política da mesma origem frequentemente \nimpede o uso de URLs \nhttp:// absolutos. (Mas consulte a Seção 18.1.6.) O resultado é que, ao trabalhar \ncom XMLHttpRequest, você geralmente precisa carregar seus arquivos em um servidor Web (ou executar \num servidor de forma local) para testá-los.\n18.1.1   Especificando a requisição\nApós criar um objeto XMLHttpRequest, o próximo passo para fazer uma requisição HTTP é cha-\nmar o método open() de seu objeto XMLHttpRequest para especificar as duas partes exigidas da \nrequisição,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2764,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3144",
+  "content": "sem fazer a página atualizar. Como \nas técnicas Ajax são muito úteis nos aplicativos Web modernos, a jQuery contém utilitários Ajax \npara simplificá-las. A jQuery define um método utilitário de alto nível e quatro funções utilitárias \nde alto nível. Esses utilitários de alto nível são todos baseados em uma única função de baixo nível \npoderosa, \njQuery.ajax(). As subseções a seguir descrevem primeiro os utilitários de alto nível e, em \n\nCapítulo 19     A biblioteca jQuery      545\nJavaScript do\n lado do cliente\nseguida, abordam a função jQuery.ajax() em detalhes. Para entender completamente o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3144,
+    "totalChunks": 10000
+  }
+}

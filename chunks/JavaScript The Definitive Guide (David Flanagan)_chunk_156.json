@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_156",
+  "content": "is estilos de comentários. Qualquer texto entre // e o final de uma linha é tratado \ncomo comentário e é ignorado por JavaScript. Qualquer texto entre os caracteres /* e */ também é \ntratado como comentário; esses comentários podem abranger várias linhas, mas não podem ser ani-\nnhados. As linhas de código a seguir são todas comentários JavaScript válidos:\n// Este é um comentário de uma linha.\n/* Este também é um comentário */ // e aqui está outro comentário.\n/*\n* Este é ainda outro comentário.\n* Ele tem várias linhas.\n*/\n2.3   Literais\nUm literal é um valor de dados que aparece diretamente em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 156,
+    "totalChunks": 10000
+  }
+}

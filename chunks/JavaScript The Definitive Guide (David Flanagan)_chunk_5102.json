@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5102",
+  "content": "do limite.\nOption\num <option> em um elemento Select Node, Element\nO objeto Option descreve uma única opção exibida dentro de um objeto \nSelect. As propriedades \ndesse objeto especificam se ele é selecionado por padrão, se está selecionado no momento, sua po-\nsição no array options[] de seu objeto Select contêiner, o texto que exibe e o valor que passa para o \nservidor, se estiver selecionado quando o formulário contêiner for enviado.\nPor motivos históricos, o elemento Option define uma construtora que pode ser usada para criar e \ninicializar novos elementos Option. (O método",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5102,
+    "totalChunks": 10000
+  }
+}

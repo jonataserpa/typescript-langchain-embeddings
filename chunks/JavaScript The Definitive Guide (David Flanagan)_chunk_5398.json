@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5398",
+  "content": "purando workers, 671\n    escopo de Worker, 667\n    fazendo XMLHttpRequests síncronos na (exem-\nplo), 671\n    objetos    Worker,    666\n    recursos de worker avançados, 669\n    usando API de sistema de arquivos síncrona com \nthreads worker, 689\n    worker para processamento de imagem (exemplo), \n669\nestado gráfi co (canvas), 621, 854\n    salvando, 854, 863\n    utilitários de gerenciamento de estado, 622\nestilos, cascata de, 404\nestilos calculados, 405, 518\n    consultando, 425–426, 425\nestilos em linha, script, 420–424\n    animações em CSS, 422–424\n    confi gurando ao consultar estilos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5398,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_710",
+  "content": "áveis\no.propertyIsEnumerable(\"toString\")   // => falso: não enumerável\nfor(p in o)                // Itera pelas propriedades\n    console.log(p);       // Imprime x, y e z, mas não toString\nAlgumas bibliotecas utilitárias adicionam novos métodos (ou outras propriedades) em Object.pro-\ntotype, de modo que eles são herdados por (e estão disponíveis para) todos os objetos. Antes de \nECMAScript 5, entretanto, não havia como tornar esses métodos adicionados não enumeráveis, de \nmodo que eles eram enumerados por laços for/in. Para prevenir-se contra isso, talvez você queira \nfiltrar as propriedades",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 710,
+    "totalChunks": 10000
+  }
+}

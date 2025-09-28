@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2950",
+  "content": "te da biblioteca jQuery são os métodos poderosos que ela define.\nA distinção entre funções e métodos jQuery às vezes é complicada, pois várias funções e métodos têm o \nmesmo nome. Observe as diferenças entre as duas linhas de código a seguir:\n// Chama a função jQuery each() para\n// chamar a função f uma vez para cada elemento do array a\n$.each(a,f);\n// Chama a função jQuery() para obter um objeto jQuery representando todos\n// os elementos <a> do documento. Em seguida, chama o método each() desse\n// objeto jQuery para chamar a função f uma vez para cada elemento selecionado.\n$(\"a\").each(f);\nA",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2950,
+    "totalChunks": 10000
+  }
+}

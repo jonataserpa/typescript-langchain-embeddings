@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5507",
+  "content": "todos abstratos, 222\nmétodos de comparação, implementação em classes, \n215–218\n    método compareTo( ), 216\n    método equals( ), 215\nmétodos de inserção e exclusão na jQuery, 937\nmétodos de seleção na jQuery, 564–568, 932\n    revertendo para a seleção anterior, 567\n    usando seleção como contexto, 566\nmétodos fábrica, 221\nmétodos fi rst( ) e last( ), jQuery, 564\nmétodos getAttribute( ) e setAttribute( ), objeto \nElement, 366\nmétodos getter e setter\n    jQuery,    517–523\n        para atributos CSS, 518\n        para atributos HTML, 517\n        para classes CSS, 518\n        para conteúdo de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5507,
+    "totalChunks": 10000
+  }
+}

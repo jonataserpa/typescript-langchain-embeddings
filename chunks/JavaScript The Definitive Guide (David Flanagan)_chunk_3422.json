@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3422",
+  "content": "nte o processo de atualização da cache e você pode registrar \nrotinas de tratamento para monitorar o processo e fornecer feedback para o usuário. Por exemplo:\napplicationCache.onupdateready = function() {\n    var reload = confirm(\"A new version of this application is available\\n\" +\n                         \"and will be used the next time you reload.\\n\" +\n                         \"Do you want to reload now?\");\n    if (reload) location.reload();\n}\nNote que essa rotina de tratamento de evento é registrada no objeto ApplicationCache que é o valor \nda propriedade applicationCache do objeto Window.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3422,
+    "totalChunks": 10000
+  }
+}

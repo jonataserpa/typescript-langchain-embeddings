@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5633",
+  "content": "stas HTTP síncronas, 486\nrestore( ), CanvasRenderingContext2D, 622, 862\nretângulos\n    desenhando no canvas, 631, 851–852\n    método clearRect( ), 858\n    método    fi llRect( ), 860\n    objeto ClientRects, 864\nretornos de carro, 22\nretornos de chamada, 312\n    função jQuery.ajax( ), 553\n    funções passadas para setTimeout( ) e setInter-\nval( ), 314\n    passando para métodos de efeitos da jQuery, 538\nrevokeObjectURL( ), método, objeto URL, 982\nrevokeObjectURL( ), objeto URL, 682\nRhino\n    script de Java com, 281–288\n        exemplo de GUI (interface gráfi ca do usuário), \n285–288\n    suporte",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5633,
+    "totalChunks": 10000
+  }
+}

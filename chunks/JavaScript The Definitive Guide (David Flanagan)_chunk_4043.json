@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4043",
+  "content": "Argumentos\npredicado\nA função a ser chamada determina se um elemento de array será incluído no array retornado.\no\nUm valor opcional no qual predicado é chamada.\nRetorna\nUm novo array contendo somente os elementos de \narray para os quais predicado retornou true (ou \num valor verdadeiro).\nDescrição\nfilter() cria um novo array e então o preenche com os elementos de array para os quais a função \npredicado retorna true (ou um valor verdadeiro). O método filter() não modifica array em si (em-\nbora a função predicado possa modificar).\nfilter() itera pelos índices de array, em ordem crescente, e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4043,
+    "totalChunks": 10000
+  }
+}

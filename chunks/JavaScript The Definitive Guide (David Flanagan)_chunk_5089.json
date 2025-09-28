@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5089",
+  "content": "hildNodes[] desse nó. Note que um nó de (ou criado \npor) um documento não pode ser inserido em outro documento. Isto é, a propriedade ownerDocument \nde novoFilho deve ser igual à propriedade ownerDocument desse nó. (Consulte Document.adoptNode().) \nEsse método retorna o Node passado a ele.\nNode cloneNode(boolean profundidade)\nO método cloneNode() faz e retorna uma cópia do nó em que é chamado. Se for passado o argumen-\nto true, ele também clona recursivamente todos os descendentes do nó. Caso contrário, clona apenas \no nó e nenhum de seus filhos. O nó retornado não faz parte da árvore de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5089,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4209",
+  "content": "entos\nobjthis\nO objeto no qual função será aplicada. No corpo da função, objthis se torna o valor da pala-\nvra-chave this. Se esse argumento é null, o objeto global é usado.\nargs\nUm array de valores a serem passados como argumentos para função.\nRetorna\nO valor retornado pela chamada de \nfunção.\nLança\nTypeError\nSe esse método é chamado em um objeto que não é uma função ou se é chamado com um \nargumento args que não é um array ou um objeto Arguments.\nDescrição\napply() chama a função especificada como se fosse um método de objthis, passando a ela os argu-\nmentos contidos no array args. Retorna o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4209,
+    "totalChunks": 10000
+  }
+}

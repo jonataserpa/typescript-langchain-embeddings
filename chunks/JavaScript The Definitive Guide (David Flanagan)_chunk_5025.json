@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5025",
+  "content": "plo, “http://www.oreilly.com:1234”.\nstring hostname\nA parte do nome de host de um URL – por exemplo, “http://www.oreilly.com”.\nstring href\nO texto completo do URL do documento, ao contrário de outras propriedades de Location \nque especificam apenas partes do URL. Configurar essa propriedade com um novo URL faz \no navegador ler e exibir o conteúdo do novo URL. Atribui um valor diretamente a um objeto \n\n      Referência de JavaScript do lado do cliente      949\nReferência de \nJavaScript do lado \ndo cliente\nLocation configura essa propriedade e usar um objeto Location como string usa o valor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5025,
+    "totalChunks": 10000
+  }
+}

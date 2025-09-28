@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4243",
+  "content": "alor primitivo \nserá armazenado em um objeto recentemente criado, usando uma propriedade cujo nome é a string \nvazia. Nesse caso, \nreviver será chamada uma vez nesse objeto recentemente criado, com uma string \nvazia como seu primeiro argumento e o valor primitivo como segundo.\nO valor de retorno da função \nreviver se torna o novo valor da propriedade nomeada. Se reviver \nretornar seu segundo argumento, então a propriedade vai permanecer inalterada. Se reviver retornar \nundefined (ou não retornar valor algum), então a propriedade nomeada vai ser excluída do objeto ou \narray antes que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4243,
+    "totalChunks": 10000
+  }
+}

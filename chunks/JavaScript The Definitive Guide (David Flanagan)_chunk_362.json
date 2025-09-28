@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_362",
+  "content": "essa segunda expressão é avaliada e convertida em uma string. Então, o valor global da expressão é o \nvalor da propriedade nomeada por essa string. Em um ou outro caso, se a propriedade nomeada não \nexiste, o valor da expressão de acesso à propriedade é \nundefined.\nA sintaxe .identificador é a mais simples das duas opções de acesso à propriedade, mas note que \nela só pode ser usada quando a propriedade que se deseja acessar tem um nome que é um iden-\ntificador válido e quando se sabe o nome ao escrever o programa. Se o nome da propriedade é \numa palavra reservada ou contém espaços ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 362,
+    "totalChunks": 10000
+  }
+}

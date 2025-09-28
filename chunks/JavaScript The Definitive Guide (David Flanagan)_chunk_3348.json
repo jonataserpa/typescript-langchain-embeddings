@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3348",
+  "content": "struturados) a seguir:\nlocalStorage.o = {x:1};         // Armazena um objeto que tem uma propriedade x\nlocalStorage.o.x = 2;  // Tenta configurar a propriedade do objeto armazenado\nlocalStorage.o.x       // => 1: x está intacto\nA segunda linha do código anterior quer configurar uma propriedade do objeto armazenado, mas \nem vez disso, recupera uma cópia do objeto, configura uma propriedade nesse objeto copiado e, en-\n\n578          Parte II     JavaScript do lado do cliente\ntão, descarta a cópia. O objeto armazenado permanece intacto. Haveria menos chance de confusão \nse usássemos getItem()",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3348,
+    "totalChunks": 10000
+  }
+}

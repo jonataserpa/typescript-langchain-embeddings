@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_150",
+  "content": "tere unicode da ca-\ntegoria Zs. JavaScript reconhece os seguintes caracteres como términos de linha: avanço de linha (\n\\\nu000A\n), retorno de carro (\\u000D), separador de linha (\\u2028) e separador de parágrafo (\\u2029). Uma \nsequência retorno de carro, avanço de linha é tratada como um único término de linha.\nOs caracteres de controle de formato Unicode (categoria Cf ), como RIGHT-TO-LEFT MARK \n(\n\\u200F) e LEFT-TO-RIGHT MARK (\\u200E), controlam a apresentação visual do texto em que \nocorrem. Eles são importantes para a exibição correta de alguns idiomas e são permitidos em comen-\ntários,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 150,
+    "totalChunks": 10000
+  }
+}

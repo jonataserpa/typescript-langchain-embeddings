@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3824",
+  "content": "workers dedicados: eles são associados (ou dedicados) a uma \núnica  thread  pai.  A  especificação  Web  Workers  define  outro  tipo  de  worker,  o  worker  compartilhado. \nQuando escrevi isto, os navegadores ainda não implementavam workers compartilhados. Contudo, a in-\ntenção é que um worker compartilhado seja um tipo de recurso nomeado que possa fornecer um serviço \ncomputacional para qualquer thread que queira se conectar nele. Na prática, interagir com um worker \ncompartilhado é como se comunicar com um servidor por meio de um soquete de rede.\nO “soquete” de um worker compartilhado é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3824,
+    "totalChunks": 10000
+  }
+}

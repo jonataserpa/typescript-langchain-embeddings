@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4718",
+  "content": "ementos do documento e \nos objetos Element definem muitas propriedades de tratamento de evento. Além disso, os objetos \nElement definem os métodos EventTarget (consulte \nEventTarget) para adicionar e remover ouvintes \nde evento.\n\n      Referência de JavaScript do lado do cliente      887\nReferência de \nJavaScript do lado \ndo cliente\nA entrada de referência de HTMLElement, que aparecia nas versões anteriores deste livro, foi mes-\nclada nesta seção. Note que algumas das propriedades, métodos e rotinas de tratamento de evento \ndescritos aqui são específicos de HTML e não vão funcionar com os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4718,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4550",
+  "content": "ifica transparência adicional a ser acrescentada a tudo que é desenhado no canvas. O va-\nlor alfa de todos os pixels desenhados no canvas é multiplicado pelo valor dessa propriedade. O \nvalor deve ser um número entre 0.0 (torna tudo completamente transparente) e 1.0 (o padrão: \nnão acrescenta transparência adicional).\nstring globalCompositeOperation\nEssa propriedade especifica como os pixels de origem que estão sendo renderizados no can-\nvas são combinados (ou “compostos”) com os pixels de destino que já existem no canvas. \nNormalmente, essa propriedade só tem utilidade quando se está",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4550,
+    "totalChunks": 10000
+  }
+}

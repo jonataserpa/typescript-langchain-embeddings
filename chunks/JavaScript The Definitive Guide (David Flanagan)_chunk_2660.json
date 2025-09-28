@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2660",
+  "content": "ript>\n<style>\n#clock {  /* Faz o relógio ficar bonito */\n    font: bold 24pt sans; background: #ddf; padding: 10px;\n    border: solid black 2px; border-radius: 10px;\n}\n</style>\n<h1>Drag timestamps from the clock</h1>\n<span id=\"clock\"></span> <!-- A hora é exibida aqui -->\n<textarea cols=60 rows=20></textarea> <!-- Você pode soltar timestamps aqui -->\nOs alvos de soltura são mais complicados do que as origens de arrasto. Qualquer elemento do do-\ncumento pode ser um alvo de soltura: não há necessidade de configurar um atributo HTML como \nacontece com as origens de arrasto; basta definir",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2660,
+    "totalChunks": 10000
+  }
+}

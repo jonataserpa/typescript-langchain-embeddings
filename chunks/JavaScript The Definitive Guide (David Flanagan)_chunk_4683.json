@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4683",
+  "content": "ornado aparecem na mesma ordem que aparecem no \ndocumento. Note que esse método também é definido em Element.\nNodeList getElementsByName(string nomeElemento)\nEsse método retorna um objeto semelhante a um array dinâmico e somente para leitura de Elements \nque têm um atributo name cujo valor é nomeElemento. Se não houver um elemento coincidente, ele \nretorna um NodeList com length 0.\nNodeList getElementsByTagName(string nomeQualificado)\nEsse método retorna um objeto semelhante a um array somente para leitura que contém todos os \nnós Element do documento que têm o nome de tag especificado, na",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4683,
+    "totalChunks": 10000
+  }
+}

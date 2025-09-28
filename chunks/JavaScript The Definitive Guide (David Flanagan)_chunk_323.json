@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_323",
+  "content": "() {\n    scope = \"local\";   // Opa! Simplesmente alteramos a variável global.\n    myscope = \"local\"; // Isso declara uma nova variável global implicitamente.\n    return [scope, myscope];    // Retorna dois valores.\n}\ncheckscope2()          // => [\"local\", \"local\"]: tem efeitos colaterais!\nscope                 // => \"local\": a variável global mudou.\nmyscope                // => \"local\": namespace global desordenado.\nAs definições de função podem ser aninhadas. Cada função tem seu próprio escopo local; portanto, \né possível ter várias camadas de escopo local aninhadas. Por exemplo:\nvar scope =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 323,
+    "totalChunks": 10000
+  }
+}

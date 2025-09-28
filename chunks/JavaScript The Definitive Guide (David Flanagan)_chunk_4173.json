@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4173",
+  "content": "seguintes caracte-\nres de pontuação ASCII, que têm significado especial em URIs:\n; / ? : @ & = + $ , #\nQuaisquer outros caracteres em uri são substituídos pela conversão de cada um para sua codificação \nUTF-8 e então, codificando cada um, dois ou três bytes resultantes com uma sequência de escape \nhexadecimal da forma %xx. Nesse esquema de codificação, os caracteres ASCII são substituídos por \num único escape %xx, os caracteres com codificações entre \\u0080 e \\u07ff são substituídos por duas \nsequências de escape e todos os outros caracteres Unicode de 16 bits são substituídos por três",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4173,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1588",
+  "content": "s) {\n    /* Classes como Font, ActionListener e JFrame definidas aqui */\n}\nAs classes Java podem ser instanciadas com new, exatamente como as classes em JavaScript:\n// Objetos: instancia classes Java com new\nvar f = new java.io.File(\"/tmp/test\");  // Vamos usar esses objetos a seguir\nvar out = new java.io.FileWriter(f);\nO Rhino permite que o operador instanceof de JavaScript funcione com objetos e classes Java:\nf instanceof java.io.File       // => verdadeiro\nout instanceof java.io.Reader   // => falso: é um Writer, não um Reader\nout instanceof java.io.Closeable // => verdadeiro: Writer",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1588,
+    "totalChunks": 10000
+  }
+}

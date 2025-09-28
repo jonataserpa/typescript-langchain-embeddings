@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3636",
+  "content": "os quais são desenhados – consulte a Seção 21.4.13 para ver detalhes sobre mo-\ndos de composição de Canvas.\n1\n  Aqua, black, blue, fuchsia, gray, green, lime, maroon, navy, olive, purple, red, silver, teal, white e yellow.\n\nCapítulo 21     Mídia e gráficos em scripts      633\nJavaScript do\n lado do cliente\nEm vez de desenhar com cores uniformes (mas possivelmente translúcidas), você pode usar gradien-\ntes de cor e repetir imagens ao preencher e traçar caminhos. A Figura 21-10 mostra um retângulo \ntraçado com linhas grossas e um estilo de traçado padronizado sobre um preenchimento de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3636,
+    "totalChunks": 10000
+  }
+}

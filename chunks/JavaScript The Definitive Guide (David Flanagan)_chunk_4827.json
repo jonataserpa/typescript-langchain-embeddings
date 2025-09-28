@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4827",
+  "content": "sabilitado. Desabilitar um FieldSet desabilita os controles de formu-\nlário que ele contém.\nreadonly HTMLFormControlsCollection elements\nUm objeto semelhante a um array de todos os controles de formulário contidos nesse <fiel-\ndset>.\nFile\num arquivo em um sistema de arquivos local Blob\nUm File é um Blob que tem um nome e possivelmente também uma data de modificação. Ele re-\npresenta um arquivo no sistema de arquivos local. Obtenha um arquivo selecionado pelo usuário a \npartir do array \nfiles de um elemento <input type=file> ou do array files do objeto DataTransfer \nassociado ao objeto Event",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4827,
+    "totalChunks": 10000
+  }
+}

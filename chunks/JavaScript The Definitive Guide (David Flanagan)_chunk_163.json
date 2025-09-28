@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_163",
+  "content": "reserva certas palavras-chave não utilizadas atualmente na linguagem, mas que \npoderão ser usadas em futuras versões. A ECMAScript 5 reserva as seguintes palavras:\nclass          const          enum            export          extends          import          super\nAlém disso, as seguintes palavras, que são válidas em código JavaScript normal, são reservadas no \nmodo restrito:\nimplements         let          private           public          yield\ninterface          package          protected          static\nO modo restrito também impõe restrições sobre o uso dos identificadores a seguir. Eles",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 163,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4343",
+  "content": "método a ser chamado em um objeto: é uma função global e você deve \npassar um objeto para ela.\n\n804          Parte III     Referência de JavaScript básica\nConsulte também\nObject.defineProperty(), Object.freeze(), Object.isExtensible(), Object.isSealed(), Ob-\nject.preventExtensions()\n, Object.seal(), Seção 6.8.3\nObject.isPrototypeOf()\num objeto é o protótipo de outro?\nSinopse\nobjeto.isPrototypeOf(o)\nArgumentos\no\nQualquer objeto.\nRetorna\ntrue se objeto é o protótipo de o; false se o não é um objeto ou se objeto não é o protótipo de o.\nDescrição\nConforme explicado no Capítulo 9, os objetos de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4343,
+    "totalChunks": 10000
+  }
+}

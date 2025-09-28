@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3486",
+  "content": "as a API JavaScript para traba-\nlhar com fluxos de áudio e vídeo.\n21.2.1   Seleção e carregamento de tipos\nSe quiser testar se um elemento mídia pode reproduzir um tipo de mídia em especial, passe o \ntipo MIME media (possivelmente incluindo um parâmetro codec) para o método canPlayType(). \nO elemento retorna a string vazia (um valor falso) se não consegue reproduzir esse tipo de mídia. \nCaso contrário, ele retorna a string “maybe” ou “probably”. Devido à natureza complicada dos \ncodecs de áudio e vídeo, em geral um reprodutor não pode ter mais certeza do que “probably” \n(provavelmente) de que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3486,
+    "totalChunks": 10000
+  }
+}

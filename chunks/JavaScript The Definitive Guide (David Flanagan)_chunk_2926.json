@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2926",
+  "content": "todos para operar nos conjuntos de elementos que representam, sendo que a maior \nparte do capítulo é dedicada à explicação desses métodos. A seguir, por exemplo, está um código que \nlocaliza, realça e exibe rapidamente todos os elementos <p> ocultos que têm a classe “details”:\n$(\"p.details\").css(\"background-color\", \"yellow\").show(\"fast\");\n2\n  Se você usa $ em seu próprio código ou está usando outra biblioteca, como a Prototype, que utiliza $, pode chamar jQuery.\nnoConflict()\n para restaurar $ ao seu valor original.\n\nCapítulo 19     A biblioteca jQuery      511\nJavaScript do\n lado do cliente\nO",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2926,
+    "totalChunks": 10000
+  }
+}

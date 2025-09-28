@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4832",
+  "content": "porque suas permissões mudaram ou porque outro pro-\ncesso o bloqueou.\nunsigned short ENCODING_ERR = 5\nUma chamada para readAsDataURL() falhou porque o arquivo era longo demais para codificar \nem um URL data://.\nPropriedades\nreadonly unsigned short code\nEssa propriedade especifica o tipo de erro ocorrido. Seu valor é uma das constantes anteriores.\nFileReader\nlê um File ou Blob de forma assíncrona EventTarget\nUm FileReader define uma API assíncrona para ler o conteúdo de um File ou qualquer Blob. Para \nler um arquivo, siga estes passos:\n •   Crie um FileReader com a construtora \nFileReader().",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4832,
+    "totalChunks": 10000
+  }
+}

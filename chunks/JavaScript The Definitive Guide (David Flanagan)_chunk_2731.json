@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2731",
+  "content": "evel 3 do DOM e pelo\n    \"delete\":\"del\",    // código de tecla no mapa de nomes de tecla abaixo.\n    \"return\":\"enter\",      // Tanto as teclas como os valores devem estar em letras \n// minúsculas aqui.\n    \"ctrl\":\"control\",\n    \"space\":\"spacebar\",\n    \"ins\":\"insert\"\n};\n// A propriedade legada keyCode do objeto evento keydown não é padronizada\n// Mas os valores a seguir parecem funcionar para a maioria dos navegadores e sistemas \n// operacionais.\nKeymap.keyCodeToKeyName = {\n    // Teclas contendo palavras ou setas\n    8:\"Backspace\", 9:\"Tab\", 13:\"Enter\", 16:\"Shift\", 17:\"Control\", 18:\"Alt\",",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2731,
+    "totalChunks": 10000
+  }
+}

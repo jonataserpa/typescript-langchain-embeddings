@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2984",
+  "content": "o conteúdo de texto puro de \ntodos os nós de texto descendentes de todos os elementos coincidentes. Isso funciona até em navega-\ndores que não suportam as propriedades textContent ou innerText (Seção 15.5.2).\nSe você chama o método \nhtml() sem argumentos, ele retorna o conteúdo HTML apenas do primeiro \nelemento coincidente. A jQuery usa a propriedade innerHTML para fazer isso: x.html() é na realidade \no mesmo que x[0].innerHTML.\nSe você passar uma string para \ntext() ou html(), essa string será usada para o conteúdo de texto \npuro ou formatado em HTML do elemento e vai substituir todo o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2984,
+    "totalChunks": 10000
+  }
+}

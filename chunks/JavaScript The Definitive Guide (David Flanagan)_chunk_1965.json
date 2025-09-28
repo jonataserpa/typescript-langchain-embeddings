@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1965",
+  "content": "des e chamar métodos da outra. Algo semelhante é \npossível com quadros. Um código em execução em uma janela ou quadro pode se referir à janela ou \nquadro contêiner e aos quadros filhos aninhados, usando as propriedades descritas a seguir.\nVocê já sabe que o código JavaScript em qualquer janela ou quadro pode se referir ao seu próprio \nobjeto Window como \nwindow ou como self. Um quadro pode se referir ao objeto Window da janela \nou quadro que o contém, usando a propriedade parent:\nparent.history.back();\nUm objeto Window que representa uma janela ou guia de nível superior não tem algum",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1965,
+    "totalChunks": 10000
+  }
+}

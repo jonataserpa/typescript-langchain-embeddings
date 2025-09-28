@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4240",
+  "content": "{ return JSON.parse(JSON.stringify(o)); }\nConsulte também\nJSON.parse(), JSON.stringify(), Seção 6.9, http://json.org\nJSON.parse() ECMAScript 5\nanalisa uma string formatada com JSON\nSinopse\nJSON.parse(s)\nJSON.parse(s, reviver)\nArgumentos\ns\nA string a ser analisada.\nreviver\nUma função opcional que pode transformar valores analisados.\n\n      Referência de JavaScript básica      771\nReferência de \nJavaScript básica\nRetorna\nUm objeto, array ou valor primitivo analisado de \ns (e opcionalmente modificado por reviver).\nDescrição\nJSON.parse() é uma função global para analisar strings formatadas com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4240,
+    "totalChunks": 10000
+  }
+}

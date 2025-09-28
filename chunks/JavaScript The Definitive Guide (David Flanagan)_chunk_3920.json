@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3920",
+  "content": "fs aqui\n        },\n                  function(e) {        // chamada com um objeto de erro onerror\n                     console.log(e);   // Ou a manipula de algum outro modo\n                          });\nTanto na versão síncrona como na assíncrona da API, você especifica a vida útil e o tamanho do \nsistema de arquivo desejado. Um sistema de arquivos PERSISTENT é conveniente para aplicativos Web \nque querem armazenar dados do usuário permanentemente. O navegador não vai excluí-los, a não \nser que o usuário solicite isso explicitamente. Um sistema de arquivo TEMPORARY é apropriado para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3920,
+    "totalChunks": 10000
+  }
+}

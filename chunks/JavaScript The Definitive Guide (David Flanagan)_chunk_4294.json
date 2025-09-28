@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4294",
+  "content": "O número de dígitos a aparecer após o ponto decimal; pode ser um valor entre 0 e 20 (inclusi-\nve) e opcionalmente as implementações podem suportar um intervalo de valores maior. Se esse \nargumento é omitido, é tratado como 0.\nRetorna\nUma  representação  de  string  de  \nnúmero  que  não  utiliza  notação  exponencial  e  tem  exatamente  \ndígitos dígitos após a casa decimal. O número é arredondado, se necessário, e a parte fracionária é \npreenchida com zeros, se necessário, para que tenha o comprimento especificado. Se número é maior \ndo que 1e+21, esse método simplesmente chama",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4294,
+    "totalChunks": 10000
+  }
+}

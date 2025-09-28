@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1390",
+  "content": "actere minúsculo \ndo alfabeto latino, use /[a-z]/; e para corresponder a qualquer letra ou dígito do alfabeto latino, use \n/[a-zA-Z0-9]/.\nComo certas classes de caracteres são utilizadas comumente, a sintaxe de expressão regular de JavaS-\ncript inclui caracteres especiais e sequências de escape para representar essas classes comuns. Por \nexemplo, \n\\s corresponde ao caractere de espaço, ao caractere de tabulação e a qualquer outro carac-\n\n248          Parte     I     JavaScript     básica\ntere Unicode de espaço em branco; \\S corresponde a qualquer caractere Unicode que não seja espaço \nem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1390,
+    "totalChunks": 10000
+  }
+}

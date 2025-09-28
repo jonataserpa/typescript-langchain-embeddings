@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2389",
+  "content": "omMargin + \"px \" + leftMargin + \"px\";\nCom certeza, é mais fácil configurar as quatro propriedades de margem individualmente:\ne.style.marginTop = topMargin + \"px\";\ne.style.marginRight = rightMargin + \"px\";\n\n422          Parte II     JavaScript do lado do cliente\ne.style.marginBottom = bottomMargin + \"px\";\ne.style.marginLeft = leftMargin + \"px\";\nO atributo style de um elemento HTML é seu estilo em linha e anula qualquer especificação de es-\ntilo de uma folha de estilo. Os estilos em linha geralmente são úteis para configurar valores de estilo \ne foi isso que todos os exemplos anteriores",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2389,
+    "totalChunks": 10000
+  }
+}

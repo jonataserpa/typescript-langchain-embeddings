@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4275",
+  "content": "na\nA raiz quadrada de \nx. Retorna NaN se x é menor do que zero.\nDescrição\nMath.sqrt() calcula a raiz quadrada de um número. Note, contudo, que é possível calcular raízes \narbitrárias de um número com Math.pow(). Por exemplo:\n\n784          Parte III     Referência de JavaScript básica\nMath.cuberoot = function(x){ return Math.pow(x,1/3); }\nMath.cuberoot(8);     // Retorna 2\nMath.SQRT1_2\na constante matemática 1/√2\nSinopse\nMath.SQRT1_2\nDescrição\nMath.SQRT1_2  é  1/√2,  a  recíproca  da  raiz  quadrada  de  2.  O  valor  aproximado  dessa  constante  é  \n0,7071067811865476.\nMath.SQRT2\na constante",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4275,
+    "totalChunks": 10000
+  }
+}

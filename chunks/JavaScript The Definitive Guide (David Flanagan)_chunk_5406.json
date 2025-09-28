@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5406",
+  "content": "adrão que podem ser evitadas, 454\n    especifi cação DOM Level 3 Events, 441\n    registrando rotinas de tratamento de evento com \njQuery, 526\n    testando se o evento é sobre o caminho corrente \nno canvas, 648\n    testando se o evento é sobre pixel pintado no can-\nvas, 649\neventos de mudança de estado, 437\neventos de notifi cação de ciclo de vida, 442\neventos de tecla, 440\neventos de teclado, 472–477\n    classe Keymap para atalhos de teclado (exemplo), \n473–477\n    entrada de texto, 469\n    keydown e keyup, 473\n    registro de rotina de tratamento de evento com \njQuery, 527\neventos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5406,
+    "totalChunks": 10000
+  }
+}

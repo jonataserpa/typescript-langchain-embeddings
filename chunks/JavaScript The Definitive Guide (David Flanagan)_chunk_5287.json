@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5287",
+  "content": "send().\nmétodo é o método HTTP a ser usado para a requisição. Os valores implementados com segurança \nincluem GET, POST e HEAD. As implementações também podem suportar os métodos CON-\nNECT, DELETE, OPTIONS, PUT, TRACE e TRACK.\nurl é o URL que está sendo solicitado. Os URLs relativos são solucionados da maneira normal, \nusando o URL do documento que contém o script. A política de segurança da mesma origem (con-\nsulte a Seção 13.6.2) exige que esse URL tenha os mesmos nome de host e porta do documento que \n\n1000          Parte IV     Referência de JavaScript do lado do cliente\ncontém o script",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5287,
+    "totalChunks": 10000
+  }
+}

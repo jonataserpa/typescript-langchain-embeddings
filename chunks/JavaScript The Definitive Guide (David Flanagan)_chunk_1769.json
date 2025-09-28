@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1769",
+  "content": "ecução de script e depois passam \npara uma fase de tratamento de eventos. Esta seção explica a linha do tempo da execução de progra-\nmas JavaScript com mais detalhes.\n    1.  O navegador Web cria um objeto Document e começa a analisar a página Web, adicio-\nnando nós de objetos Element e Text no documento, à medida que analisa os elementos \nHTML e seu conteúdo textual. A propriedade document.readyState tem o valor “loading” \nnesse estágio.\n    2.  Quando o analisador de HTML encontra elementos <script> que não têm os atributos async \nou defer, ele adiciona esses elementos no documento e, em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1769,
+    "totalChunks": 10000
+  }
+}

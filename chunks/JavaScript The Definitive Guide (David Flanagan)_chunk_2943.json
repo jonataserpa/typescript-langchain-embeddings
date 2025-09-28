@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2943",
+  "content": "Seção 19.7 lista as funções utilitárias de uso geral e outras funções \nda jQuery estão descritas ao longo deste capítulo.\nTerminologia da jQuery\nVamos fazer uma pausa aqui para definir alguns termos e frases importantes que você verá ao longo deste \ncapítulo:\n“a função jQuery”\nA função jQuery é o valor de \njQuery ou de $. Essa é a função que cria objetos jQuery, registra rotinas \nde tratamento para serem chamadas quando o DOM estiver pronto e também serve como espaço \nde nomes da jQuery. Normalmente, me refiro a ela como \n$(). Já que serve como espaço de nomes, \na função jQuery também",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2943,
+    "totalChunks": 10000
+  }
+}

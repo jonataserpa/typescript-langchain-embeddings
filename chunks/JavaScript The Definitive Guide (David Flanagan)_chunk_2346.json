@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2346",
+  "content": "idas a partir do canto inferior \ndireito do preenchimento.\nAqui está um exemplo que pode tornar isso mais claro. Suponha que você criou um elemento con-\ntêiner posicionado dinamicamente e que tem 10 pixels de preenchimento em torno de sua área de \nconteúdo e uma borda de 5 pixels em torno do preenchimento. Agora, suponha que você posicione \num elemento filho dinamicamente dentro desse contêiner. Se configurar a propriedade \nleft do filho \ncomo “0 px”, vai descobrir que ele está posicionado com sua margem esquerda diretamente sobre a \nmargem interna da borda do contêiner. Com essa",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2346,
+    "totalChunks": 10000
+  }
+}

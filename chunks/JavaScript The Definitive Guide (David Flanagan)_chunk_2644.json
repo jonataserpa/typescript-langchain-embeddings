@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2644",
+  "content": "// o documento. Espera-se que chamar preventDefault() em um evento wheel\n        // também impeça a geração de um evento mousewheel para a\n        // mesma rotação.\n        if (e.preventDefault) e.preventDefault();\n        if (e.stopPropagation) e.stopPropagation();\n        e.cancelBubble = true;  // eventos do IE\n        e.returnValue = false;  // eventos do IE\n        return    false;\n }\n}\n17.7   Eventos arrastar e soltar\nO Exemplo 17-2 mostrou como responder a arrastos de mouse dentro de um aplicativo. É possí-\nvel usar técnicas como aquela para permitir que elementos sejam arrastados e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2644,
+    "totalChunks": 10000
+  }
+}

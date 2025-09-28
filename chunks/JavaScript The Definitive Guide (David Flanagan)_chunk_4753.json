@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4753",
+  "content": "nas de \ntratamento de evento próprias e as propriedades marcadas com um asterisco na tabela a seguir têm \num significado diferente no objeto Window. Por motivos históricos, as rotinas de tratamento de \nevento registradas como atributos HTML do elemento \n<body> são registradas no objeto Window e \nisso significa que, no elemento <body>, as propriedades de tratamento de evento com asteriscos têm \num significado diferente do de outros elementos. Consulte Window.\nMuitos dos eventos listados aqui são disparados apenas em certos tipos de elementos HTML. Mas \ncomo a maioria desses eventos borbulha",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4753,
+    "totalChunks": 10000
+  }
+}

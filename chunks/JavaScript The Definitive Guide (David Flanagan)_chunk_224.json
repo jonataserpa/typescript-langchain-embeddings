@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_224",
+  "content": "\\    \n            //    udc52\"\nOs diversos métodos de manipulação de strings definidos em JavaScript operam sobre valores de 16 bits \ne não sobre caracteres. Eles não tratam pares substitutos de forma especial, não fazem a normalização da \nstring e nem mesmo garantem que uma string seja UTF-16 bem formada.\n3.2.1   Strings   literais\nPara incluir uma string literalmente em um programa JavaScript, basta colocar os caracteres da string \ndentro de um par combinado de aspas simples ou duplas (' ou \"). Os caracteres de aspas duplas \npodem estar contidos dentro de strings delimitadas por caracteres",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 224,
+    "totalChunks": 10000
+  }
+}

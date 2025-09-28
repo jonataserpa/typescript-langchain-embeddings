@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_757",
+  "content": "a propriedade prototype de sua função cons-\ntrutora. E os objetos criados com Object.create() usam o primeiro argumento dessa função (que \npode ser null) como protótipo.\nEm ECMAScript 5, pode-se consultar o protótipo de qualquer objeto, passando esse objeto para \nObject.getPrototypeOf(). Não existe função equivalente em ECMAScript 3, mas frequentemente \né possível determinar o protótipo de um objeto o usando a expressão o.constructor.prototype. \nOs objetos criados com uma expressão new normalmente herdam uma propriedade constructor \nque se refere à função construtora utilizada para criar o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 757,
+    "totalChunks": 10000
+  }
+}

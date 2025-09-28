@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3696",
+  "content": "o estado atual da especificação. \nHá grande possibilidade de que a especificação seja alterada para exigir composição local, em vez de \ncomposição global.\nPor fim, note que é possível fazer composição global em navegadores como o Safari e o Chrome, \nque implementam composição local. Primeiramente, crie um canvas em branco fora da tela, com as \nmesmas dimensões do canvas exibido na tela. Então, desenhe seus pixels de origem no canvas fora da \ntela e use \ndrawImage() para copiar os pixels de fora da tela no canvas da tela e compô-los globalmente \ndentro da região de recorte. Não há uma técnica",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3696,
+    "totalChunks": 10000
+  }
+}

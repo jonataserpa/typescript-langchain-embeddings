@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3994",
+  "content": "ord);    // Ou então use add() para não sobrescrever\n      }\n  \n                status(\"Initializing zipcode database: loaded \"\n                       + numlines + \" records.\");\n   }\n\nCapítulo 22     APIs de HTML5      697\nJavaScript do\n lado do cliente\n            if (e.type == \"load\") {\n                // Se esse foi o último evento load, então enviamos todos os nossos\n                // dados de código postal para o banco de dados. Mas como acabamos de\n       // carregá-lo com uns 40.000 registros, ele ainda pode estar \n// processando.\n       // Assim, vamos fazer uma consulta simples.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3994,
+    "totalChunks": 10000
+  }
+}

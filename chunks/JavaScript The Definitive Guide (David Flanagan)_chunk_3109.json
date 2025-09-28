@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3109",
+  "content": "amados \nsem argumentos, \nhide() e show() simplesmente ocultam ou exibem imediatamente os elemen-\ntos selecionados. Contudo, com um argumento duração (ou objeto opções), eles animam o \nprocesso de ocultação ou exibição. \nhide() reduz as propriedades width e height de um elemento \npara 0, ao mesmo tempo que reduz a propriedade \nopacity do elemento para 0. show() inverte \no processo.\ntoggle() muda o estado de visibilidade dos elementos em que é chamado: se estão ocultos, ele \nchama \nshow(), e se estão visíveis, chama hide(). Assim como em show() e hide(), você deve \npassar uma duração ou um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3109,
+    "totalChunks": 10000
+  }
+}

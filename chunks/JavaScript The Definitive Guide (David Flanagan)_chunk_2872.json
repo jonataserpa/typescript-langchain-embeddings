@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2872",
+  "content": "link.removeEventListener(\"mouseover\", mouseoverHandler, false);\n        else\n            link.detachEvent(\"onmouseover\",    mouseoverHandler);\n }\n});\n18.2   HTTP por <script>: JSONP\nA introdução deste capítulo mencionou que um elemento <script> pode ser usado como mecanismo \nde transporte Ajax: basta configurar o atributo src de um elemento <script> (e inseri-lo no docu-\nmento, caso ainda não esteja lá) e o navegador vai gerar uma requisição HTTP para baixar o URL \nespecificado. Os elementos <script> são transportes Ajax úteis por um motivo importante: eles não \nestão sujeitos à",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2872,
+    "totalChunks": 10000
+  }
+}

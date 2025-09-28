@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4298",
+  "content": "Number.toPrecision(), Number.toString()\nNumber.toPrecision()\nformata os dígitos significativos de um número\nSinopse\nnúmero.toPrecision(precisão)\nArgumentos\nprecisão\nO número de dígitos significativos a aparecer na string retornada. Pode ser um valor entre 1 e \n21 (inclusive). Opcionalmente, as implementações podem suportar valores de precisão maio-\nres e menores. Se esse argumento é omitido, o método toString() é usado, em vez de converter \no número para um valor de base 10.\nRetorna\nUma representação de string de número contendo precisão dígitos significativos. Se precisão é grande o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4298,
+    "totalChunks": 10000
+  }
+}

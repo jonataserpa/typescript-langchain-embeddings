@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_813",
+  "content": "eça com um array vazio.\na[0] = \"zero\";   // E adiciona elementos nele.\na[1] = \"one\";\nO método push() também pode ser usado para adicionar um ou mais valores no final de um array:\na = [];               // Começa com um array vazio\na.push(\"zero\")        // Adiciona um valor no final. a = [\"zero\"]\na.push(\"one\", \"two\")  // Adiciona mais dois valores. a = [\"zero\", \"one\", \"two\"]\n\n142          Parte     I     JavaScript     básica\nInserir um valor em um array a é o mesmo que atribuir o valor a a[a.length]. O método unshift() \n(descrito na Seção 7.8) pode ser usado para inserir um valor no início de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 813,
+    "totalChunks": 10000
+  }
+}

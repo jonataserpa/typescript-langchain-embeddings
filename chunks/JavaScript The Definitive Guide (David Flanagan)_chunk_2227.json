@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2227",
+  "content": "tado de um botão de alternância clicando nele. Os elementos botão de ação são projetados \npara serem usados em grupos de elementos relacionados, todos os quais com o mesmo valor para o \natributo HTML \nname. Os elementos botão de ação criados dessa maneira são mutuamente exclu-\nsivos: quando um é marcado, o que estava marcado anteriormente se torna desmarcado. As caixas \nde seleção também são frequentemente utilizadas em grupos que compartilham um atributo \nname e, \nquando você seleciona esses elementos usando o nome como uma propriedade do formulário, deve \nlembrar que obtém um objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2227,
+    "totalChunks": 10000
+  }
+}

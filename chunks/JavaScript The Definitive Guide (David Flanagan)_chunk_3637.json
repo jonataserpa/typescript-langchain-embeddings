@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3637",
+  "content": "m retângulo \ntraçado com linhas grossas e um estilo de traçado padronizado sobre um preenchimento de gra-\ndiente linear e sob um preenchimento de gradiente radial translúcido. Os trechos de código a seguir \nmostram como o padrão e os gradientes foram criados.\nPara preencher ou traçar usando uma imagem de fundo padrão, em vez de uma cor, configure \nfillS-\ntyle\n ou strokeStyle com o objeto CanvasPattern retornado pelo método createPattern() do objeto \ncontexto:\nvar image = document.getElementById(\"myimage\");\nc.fillStyle = c.createPattern(image, \"repeat\");\nO primeiro argumento de createPattern()",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3637,
+    "totalChunks": 10000
+  }
+}

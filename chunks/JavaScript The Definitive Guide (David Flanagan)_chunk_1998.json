@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1998",
+  "content": "MLTableElement\n. . . etc.\nFigura 15-2 Uma hierarquia de classe parcial de nós de documento.\nTambém é interessante notar na Figura 15-2 que existem muitos subtipos de HTMLElement que \nrepresentam tipos específicos de elementos HTML. Cada um define propriedades de JavaScript para \nespelhar os atributos HTML de um elemento específico ou de um grupo de elementos (consulte a \nSeção 15.4.1). Algumas dessas classes específicas do elemento definem mais propriedades ou méto-\ndos que vão além do simples espelhamento da sintaxe HTML. Essas classes e seus recursos adicionais \nsão abordados na seção de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1998,
+    "totalChunks": 10000
+  }
+}

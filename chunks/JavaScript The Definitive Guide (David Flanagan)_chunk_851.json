@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_851",
+  "content": "implementação).\n\nCapítulo     7     Arrays          149\nJavaScript básica\n7.9   Métodos de array de ECMAScript 5\nECMAScript 5 define nove novos métodos de array para iterar, mapear, filtrar, testar, reduzir e pes-\nquisar arrays. As subseções a seguir descrevem esses métodos.\nEntretanto, antes de abordarmos os detalhes, é interessante fazermos algumas generalizações a res-\npeito desses métodos de array de ECMAScript 5. Primeiramente, a maioria dos métodos aceita \numa função como primeiro argumento e chama essa função uma vez para cada elemento (ou para \nalguns elementos) do array. Se o array",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 851,
+    "totalChunks": 10000
+  }
+}

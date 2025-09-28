@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3703",
+  "content": "de dispositivo por pixel CSS.\n    var width = pixels.width, height = pixels.height;\n \n  // Este é o array de bytes que contém os dados de pixel brutos, da esquerda para a \n// direita e de cima para baixo. Cada pixel ocupa 4 bytes consecutivos na ordem \n// R,G,B,A.\n    var data = pixels.data;\n\n648          Parte II     JavaScript do lado do cliente\n// Cada pixel após o primeiro em cada linha é borrado por ser substituído por\n// 1/n-ésimo de seu próprio valor, mais m/n-ésimos do valor do pixel anterior\nvar m = n-1;\nfor(var row = 0; row < height; row++) {  // Para cada linha\n    var i =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3703,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_366",
+  "content": "madas. Objetos hospedeiros também podem ser chamados, mesmo que não \nsejam funções. Essa distinção é explorada na Seção 8.7.7.) Em seguida, os valores de argumento são \natribuídos, em ordem, aos nomes de parâmetro especificados quando a função foi definida e, então, \no corpo da função é executado. Se a função utiliza uma instrução \nreturn para retornar um valor, \nentão esse valor se torna o valor da expressão de invocação. Caso contrário, o valor da expressão de \ninvocação é undefined. Detalhes completos sobre invocação de função, incluindo uma explicação \nsobre o que acontece quando o número",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 366,
+    "totalChunks": 10000
+  }
+}

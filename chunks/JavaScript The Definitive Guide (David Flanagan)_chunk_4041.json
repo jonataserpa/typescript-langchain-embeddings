@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4041",
+  "content": "ndice do array \ni, predicado é chamada com três argumentos:\npredicado(array[i], i, array)\nO valor de retorno de predicado é interpretado como um valor booleano. true e todos os valores \nverdadeiros indicam que o elemento do array passa no teste ou satisfaz a condição descrita por essa \nfunção. Um valor de retorno false ou qualquer valor falso significa que o elemento do array não \npassa no teste.\nConsulte \nArray.forEach() para ver mais detalhes.\nExemplo\n[1,2,3].every(function(x) { return x < 5; })    // => verdadeiro: todos os elementos são \n// < 5\n[1,2,3].every(function(x) { return x < 3; })",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4041,
+    "totalChunks": 10000
+  }
+}

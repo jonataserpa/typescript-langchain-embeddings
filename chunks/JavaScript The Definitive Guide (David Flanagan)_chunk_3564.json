@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3564",
+  "content": "aminho com o método \nbeginPath(). Inicie um novo subcaminho com o método moveTo(). Uma vez que tenha estabelecido \no ponto de partida de um subcaminho com \nmoveTo(), você pode conectar esse ponto a um novo \nponto com uma linha reta, chamando \nlineTo(). O código a seguir define um caminho que inclui \ndois segmentos de linha:\nc.beginPath();        // Inicia um novo caminho\nc.moveTo(100, 100);   // Inicia um subcaminho em (100,100)\nc.lineTo(200, 200);   // Adiciona uma linha de (100,100) a (200,200)\nc.lineTo(100, 200);   // Adiciona uma linha de (200,200) a (100,200)\n\nCapítulo 21     Mídia e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3564,
+    "totalChunks": 10000
+  }
+}

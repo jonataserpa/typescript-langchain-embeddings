@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4100",
+  "content": "o de 0 (janeiro) a 11 (dezembro).\ndia\nO dia do mês, especificado como um inteiro de 1 a 31. Note que esse argumento usa 1 como \nmenor valor, enquanto outros argumentos usam 0. Opcional.\nhoras\nA hora, especificada como um inteiro de 0 (meia-noite) a 23 (11 p.m.). Opcional.\nminutos\nOs minutos na hora, especificados como um inteiro de 0 a 59. Opcional.\n\n      Referência de JavaScript básica      727\nReferência de \nJavaScript básica\nsegundos\nOs segundos no minuto, especificados como um inteiro de 0 a 59. Opcional.\nms\nOs milissegundos no segundo, especificados como um inteiro de 0 a 999.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4100,
+    "totalChunks": 10000
+  }
+}

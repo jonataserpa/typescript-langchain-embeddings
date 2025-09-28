@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4003",
+  "content": "mente você registra rotinas de tratamento de evento nele:\nsocket.onopen = function(e) {   /* Agora o soquete está conectado. */ };\nsocket.onclose = function(e) {  /* O soquete fechado. */ };\nsocket.onerror = function(e) {  /* Algo deu errado! */ };\nsocket.onmessage = function(e) {\n    var message = e.data;       /* O servidor nos enviou uma mensagem. */\n};\nPara enviar dados ao servidor por meio do soquete, você chama o método send() do soquete:\nsocket.send(\"Hello, server!\");\nA versão atual da API WebSocket suporta apenas mensagens textuais e as envia como strings codifi-\ncadas em UTF-8.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4003,
+    "totalChunks": 10000
+  }
+}

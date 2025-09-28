@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1101",
+  "content": "2.3. As chamadas de construtora que utilizam new \ncriam o novo objeto automaticamente, de modo que a construtora em si só precisa inicializar o esta-\ndo desse novo objeto. A característica fundamental das chamadas de construtora é que a propriedade \nprototype da construtora é usada como protótipo do novo objeto. Isso significa que todos os objetos \ncriados com a mesma construtora herdam do mesmo objeto e, portanto, são membros da mesma \nclasse. O Exemplo 9-2 mostra como poderíamos alterar a classe range do Exemplo 9-1 para usar \numa função construtora em vez de uma função fábrica:\nExemplo 9-2",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1101,
+    "totalChunks": 10000
+  }
+}

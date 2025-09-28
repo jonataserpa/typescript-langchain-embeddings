@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5546",
+  "content": "o modo restrito ao se excluir proprieda-\ndes, 122\nobjeto Table, 974–975\n\n1042          Índice\nobjeto TableCell, 975\nobjeto TableRow, 975\nobjeto TableSection, 976\nobjeto TextArea, 978\nobjeto TextMetrics, 637, 861, 979\nobjeto TextRange (IE), 398\nobjeto TimeRanges, 605, 979\nobjeto TypedArray, 980\nobjeto TypeError, 41, 837–838\n    erros de acesso à propriedade, 120\n    lançado em conversões de tipo, 46\n    lançado por tentativas de criar ou modifi car pro-\npriedades, 130\n    resultante de tentativas de excluir propriedades, \n121\nobjeto Uint8Arrays, 673\nobjeto URIError, 839–840\nobjeto Video,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5546,
+    "totalChunks": 10000
+  }
+}

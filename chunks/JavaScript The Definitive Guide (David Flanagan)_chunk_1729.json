@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1729",
+  "content": "rando e pode ser considerado um programa JavaScript separado. Lembre-se, contudo, de \nque não existe definição formal de quais são os limites de um programa JavaScript. Se o documento \ncontêiner e o documento contido estão no do mesmo servidor, o código de um pode interagir com \no do outro e, se quiser, você pode tratá-los como duas partes interagentes de um único programa. A \nSeção 14.8.3 explica mais sobre o objeto global Window e as interações entre programas de janelas \ne quadros separados.\nOs URLs \njavascript: de bookmarklets existem fora de qualquer documento e podem ser consi-\nderados",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1729,
+    "totalChunks": 10000
+  }
+}

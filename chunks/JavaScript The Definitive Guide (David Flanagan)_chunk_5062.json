@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5062",
+  "content": "s\nvoid close()\nEsse método desconecta esse MessagePort da porta em que estava conectado (se houver). As chama-\ndas subsequentes para postMessage() não terão efeito algum e nenhum evento message será enviado \nno futuro.\nvoid postMessage(any mensagem, [MessagePort[] portas])\nEnvia um clone da mensagem especificada por meio da porta e o entrega na forma de um evento \nmessage na porta em que ele está conectado. Se portas for especificado, as entrega também como \nparte do evento message. mensagem pode ser qualquer valor compatível com o algoritmo de clone \nestruturado (“Clones estruturados”, na",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5062,
+    "totalChunks": 10000
+  }
+}

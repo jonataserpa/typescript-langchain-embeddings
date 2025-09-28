@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_532",
+  "content": "instrução\nNessa forma, a expressão é avaliada. Se o valor resultante é verdadeiro, a instrução é executada. \nSe a expressão é falsa, a instrução não é executada. (Consulte a Seção 3.3 para ver uma definição \nde valores verdadeiros e falsos.) Por exemplo:\nif (username == null)  // Se username é null ou undefined,\n    username = \"John Doe\";      // o define\nOu, de modo similar:\n// Se username é null, undefined, false, 0, \"\" ou NaN, fornece a ele um novo valor\nif (!username) username = \"John Doe\";\nNote que os parênteses em torno da expressão são uma parte obrigatória da sintaxe da instrução",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 532,
+    "totalChunks": 10000
+  }
+}

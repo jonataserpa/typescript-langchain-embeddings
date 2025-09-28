@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2804",
+  "content": "no \nservidor e os dados do formulário codificados são usados como corpo da requisição. O esquema \nde codificação usado para dados de formulário é relativamente simples: faz a codificação de URI \nnormal (substituindo caracteres especiais por códigos de escape hexadecimais) no nome e no valor \nde cada elemento do formulário, separa o nome e valor codificados com um sinal de igualdade e \nsepara esses pares nome/valor com símbolos de E comercial. A codificação de um formulário simples \npoderia ser como a seguinte:\nfind=pizza&zipcode=02134&radius=1km\nEste formato de codificação de dados de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2804,
+    "totalChunks": 10000
+  }
+}

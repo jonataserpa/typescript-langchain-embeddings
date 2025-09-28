@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3822",
+  "content": "ém importantes objetos construtores de JavaScript do \nlado do cliente. Isso inclui \nXMLHttpRequest() para que os workers possam fazer scripts de HTTP \n(consulte  o  Capítulo  18)  e  a  construtora  Worker(),  para  que  possam  criar  suas  próprias  threads  \nworker. (Contudo, quando este livro estava sendo escrito, a construtora Worker() não estava disponí-\nvel para workers no Chrome e no Safari.)\n\nCapítulo 22     APIs de HTML5      669\nJavaScript do\n lado do cliente\nVárias das APIs de HTML5 descritas posteriormente neste capítulo definem recursos que estão \ndisponíveis por intermédio de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3822,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1273",
+  "content": "ão permite null, undefined nem funções\n\n226          Parte     I     JavaScript     básica\nvar MySet = filteredSetSubclass(NonNullSet,\n                      function(x) {return typeof x !== \"function\";});\nO código dessa função fábrica de classe está no Exemplo 9-14. Observe como essa função faz o mes-\nmo encadeamento de métodos e de construtoras feito por NonNullSet.\nExemplo 9-14 Uma fábrica de classe e encadeamento de métodos\n/*\n * Esta função retorna uma subclasse da classe Set especificada e anula\n * o método add() dessa classe para aplicar o filtro especificado.\n */\nfunction",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1273,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3554",
+  "content": "e é uma ligação de JavaScript com a API padrão OpenGL. Para obter um objeto contexto para \nelementos gráficos tridimensionais, passe a string “webgl” para o método \ngetContext() do canvas. A \nWebGL é uma API de baixo nível, grande e complicada, que não está documentada neste livro: é mais \nprovável os desenvolvedores Web usarem bibliotecas utilitárias construídas sobre WebGL do que usarem \na API WebGL diretamente.\nComo um exemplo simples da API Canvas, o código a seguir desenha um quadrado vermelho \ne um azul em elementos <canvas> para produzir saída como os elementos gráficos SVG mostrados",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3554,
+    "totalChunks": 10000
+  }
+}

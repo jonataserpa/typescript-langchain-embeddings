@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3975",
+  "content": "ome (diferencia letras maiúsculas e minúsculas). Passa os resultados de \n// forma assíncrona, um por vez, para a função callback especificada\nfunction lookupZipcodes(city, callback) {\n    withDB(function(db)    {\n        // Como acima, criamos uma transação e obtemos o objeto armazenado\n        var transaction = db.transaction([\"zipcodes\"],\n                                               IDBTransaction.READ_ONLY,    0);\n        var store = transaction.objectStore(\"zipcodes\");\n        // Desta vez, obtemos o índice da cidade do objeto armazenado\n        var index = store.index(\"cities\");\n\n694",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3975,
+    "totalChunks": 10000
+  }
+}

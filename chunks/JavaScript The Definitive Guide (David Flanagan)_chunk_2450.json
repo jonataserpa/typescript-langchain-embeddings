@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2450",
+  "content": "estilo\n    var styleElt, styleSheet;\n    if (document.createStyleSheet) { // Se a API do IE estiver definida, a utiliza\n        styleSheet = document.createStyleSheet();\n }\n    else    {\n        var head = document.getElementsByTagName(\"head\")[0]\n        styleElt = document.createElement(\"style\");      // Novo elemento <style>\n        head.appendChild(styleElt);                      // O insere em <head>\n\n432          Parte II     JavaScript do lado do cliente\n        // Agora a nova folha de estilo deve ser a última\n        styleSheet = document.styleSheets[document.styleSheets.length-1]",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2450,
+    "totalChunks": 10000
+  }
+}

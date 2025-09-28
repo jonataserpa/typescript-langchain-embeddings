@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1747",
+  "content": "nte – scripts que não são incluídos \nem linha dentro da página Web nem referenciados estaticamente a partir da página Web são carrega-\ndos no documento e se tornam parte do programa JavaScript em execução.\n13.3.2   JavaScript dirigida por eventos\nO programa JavaScript antigo, mostrado no Exemplo 13-3, é síncrono: ele começa a executar quan-\ndo a página carrega, produz alguma saída e então termina. Esse tipo de programa é muito raro \natualmente. Em vez disso, escrevemos programas que registram funções de tratamento de eventos. \nEntão, essas funções são chamadas de forma assíncrona quando",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1747,
+    "totalChunks": 10000
+  }
+}

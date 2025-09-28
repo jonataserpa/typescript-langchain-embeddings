@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5570",
+  "content": "-\ndo no canvas, 649\n    withdrawImage( ) ampliado no canvas, 642\nplug-ins\n    script em navegadores, implicações na segurança, \n328\nplug-ins Flash, scripts, 328\npolígonos, desenhando com métodos Canvas, 619\npolítica da mesma origem, 326\n    abrandando,    327\n    impedindo troca de cookie entre sites, 581\n    objetos Canvas, método toDataURL( ), 643\n    origem de um documento, 576\n    sistemas de arquivo e, 684–685\nponto, determinando o elemento no, 383\nponto-fi nal (.) (consulte. (ponto), sob Símbolos)\npop ups, bloqueio pelos navegadores, 346\npor referência, comparações de objeto, 44\n\n1046",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5570,
+    "totalChunks": 10000
+  }
+}

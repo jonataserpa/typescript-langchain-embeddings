@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1472",
+  "content": "madores, pois esses recursos não são comumente usados na programação com \nJavaScript. Outras, como a restrição do uso de colchetes para acesso à propriedade, são bastante \nonerosas e é aí que entra em ação a tradução de código. Um tradutor pode transformar automati-\ncamente o uso de colchetes, por exemplo, em uma chamada de função que inclua verificações em \ntempo de execução. Transformações semelhantes podem permitir o uso seguro da palavra-chave \nthis. Contudo, há um compromisso entre a segurança dessas verificações em tempo de execução e a \nvelocidade de execução do código da caixa de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1472,
+    "totalChunks": 10000
+  }
+}

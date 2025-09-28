@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2645",
+  "content": "um aplicativo. É possí-\nvel usar técnicas como aquela para permitir que elementos sejam arrastados e “soltos” dentro de \numa página Web, mas o verdadeiro “arrastar e soltar” é outra coisa. Arrastar e soltar (ou DnD – de \ndrag-and-drop, em inglês) é uma interface com o usuário para transferir dados entre uma “origem \nde arrasto” e um “alvo de soltura”, que pode ser no mesmo aplicativo ou em aplicativos diferen-\ntes. DnD é uma interação homem/computador complexa e as APIs para implementar DnD são \nsempre complicadas:\n\nCapítulo 17     Tratando eventos      463\nJavaScript do\n lado do cliente\n •",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2645,
+    "totalChunks": 10000
+  }
+}

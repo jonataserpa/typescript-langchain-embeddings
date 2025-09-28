@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4899",
+  "content": "coleção de elementos Option é truncada e os \nque não estão mais na coleção são removidos do elemento Select contêiner. Se você configura \nlength com um valor maior do que o atual, elementos <option/> vazios são criados e adiciona-\ndos ao elemento Select e na coleção.\nlong selectedIndex\nO índice do primeiro elemento Option selecionado no conjunto ou -1, caso nenhum ele-\nmento Option esteja selecionado. Você pode configurar essa propriedade para alterar o item \nselecionado.\nMétodos\nvoid add(Element opção, [any antes])\nInsere a opção (que deve ser um elemento <option> ou <optgroup>) nessa",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4899,
+    "totalChunks": 10000
+  }
+}

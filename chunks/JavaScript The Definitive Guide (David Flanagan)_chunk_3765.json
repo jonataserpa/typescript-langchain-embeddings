@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3765",
+  "content": "to de evento onload e também é \n    // chamada pelo botão Play Again, exibido no final de um jogo. O argumento\n    // playagain vai ser true neste segundo caso. Se é true, salvamos\n    // o novo estado do jogo. Mas se fomos chamados em resposta a um evento load,\n    // não salvamos o estado. Isso porque os eventos load também vão ocorrer\n    // quando retrocedermos pelo histórico do navegador a partir de algum outro\n    // documento para o estado existente de um jogo. Se fôssemos salvar um novo\n    // estado inicial, nesse caso sobrescreveríamos o histórico atual\n    // atual do jogo. Nos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3765,
+    "totalChunks": 10000
+  }
+}

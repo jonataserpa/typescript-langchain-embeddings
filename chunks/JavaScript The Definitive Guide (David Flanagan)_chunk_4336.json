@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4336",
+  "content": "objeto.hasOwnProperty(nomeprop)\nArgumentos\nnomeprop\nUma string contendo o nome de uma propriedade de objeto.\nRetorna\ntrue se objeto tem uma propriedade não herdada com o nome especificado por nomeprop; false se \nobjeto não tem uma propriedade com o nome especificado ou se herda essa propriedade de seu \nobjeto protótipo.\nDescrição\nConforme explicado no Capítulo 9, os objetos de JavaScript podem ter suas propriedades próprias e \ntambém podem herdar propriedades de seus objetos protótipos. O método hasOwnProperty() fornece \numa maneira de distinguir entre propriedades herdadas e propriedades",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4336,
+    "totalChunks": 10000
+  }
+}

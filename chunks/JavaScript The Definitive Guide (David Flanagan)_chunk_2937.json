@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2937",
+  "content": "ecificar explicitamente o objeto documento desse quadro.) Ou então, você pode passar um objeto \ncomo segundo argumento. Se fizer isso, as propriedades do objeto devem especificar os nomes e \nvalores dos atributos HTML a serem configurados no objeto. Mas se o objeto incluir propriedades \ncom qualquer um dos nomes “css”, “html”, “text”, “width”, “height”, “offset”, “val” ou “data”, ou \npropriedades que tenham o mesmo nome de qualquer um dos métodos de registro de rotina de \ntratamento de evento da jQuery, a biblioteca vai chamar o método de mesmo nome no elemento \nrecém-criado e vai passar o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2937,
+    "totalChunks": 10000
+  }
+}

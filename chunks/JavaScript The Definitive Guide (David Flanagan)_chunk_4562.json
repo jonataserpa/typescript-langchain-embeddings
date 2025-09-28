@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4562",
+  "content": "do círculo.\nChamar esse método adiciona uma linha reta entre o ponto atual e o ponto inicial do arco e depois \nadiciona o arco em si no caminho atual.\nvoid arcTo(double x1, y1, x2, y2, raio)\nEsse método adiciona uma linha reta e um arco no subcaminho atual e descreve esse arco de uma \nmaneira que o torna especialmente útil para adicionar cantos arredondados em polígonos. Os ar-\ngumentos \nx1 e y1 especificam um ponto P1 e os argumentos x2 e y2 especificam um ponto P2. O \narco adicionado no caminho é parte de um círculo com o raio especificado. O arco tem um ponto \ntangente à linha da posição",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4562,
+    "totalChunks": 10000
+  }
+}

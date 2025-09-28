@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3517",
+  "content": "azul-claro -->\n    </linearGradient>\n  </defs>\n  <!-- Desenha um retângulo com borda preta grossa e o preenche com fade -->\n  <rect x=\"100\" y=\"200\" width=\"800\" height=\"600\"\n    stroke=\"black\" stroke-width=\"25\" fill=\"url(#fade)\"/>\n</svg>\nA Figura 21-1 mostra como esse arquivo SVG fica quando renderizado graficamente.\nSVG é uma gramática grande e moderadamente complexa. Além das primitivas de desenho de \nformas simples, ela contém suporte para curvas arbitrárias, texto e animação. Os elementos gráficos \nSVG podem até incorporar scripts JavaScript e folhas de estilos CSS para adicionar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3517,
+    "totalChunks": 10000
+  }
+}

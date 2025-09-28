@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2490",
+  "content": "oreunload é semelhante a unload, \nmas oferece a oportunidade de pedir para que o usuário confirme se realmente deseja sair de sua \npágina Web. Se uma rotina de tratamento para beforeunload retornar uma string, essa string vai ser \nexibida para o usuário em um diálogo de confirmação, antes que a nova página seja carregada – e o \nusuário terá a oportunidade de cancelar a navegação e continuar em sua página.\nA propriedade \nonerror do objeto Window é parecida com uma rotina de tratamento de evento, sen-\ndo disparada em resposta a erros de JavaScript. Contudo, não é uma verdadeira rotina de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2490,
+    "totalChunks": 10000
+  }
+}

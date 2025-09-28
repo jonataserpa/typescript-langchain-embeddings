@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_43",
+  "content": "age   e   sessionStorage   575\n20.2   Cookies   579\n20.3   Persistência de userData do IE 585\n20.4   Armazenamento de aplicativo e aplicativos Web off-line 587\n  21 Mídia e gráficos em scripts ........................................................................................... 599\n21.1   Escrevendo scripts de imagens 599\n21.2   Escrevendo scripts de áudio e vídeo 601\n21.3    SVG: Scalable Vector Graphics (Gráficos Vetoriais Escaláveis) 608\n21.4   Elementos gráficos em um <canvas> 616\n\nxviii          Sumário\n  22 APIs de HTML5",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 43,
+    "totalChunks": 10000
+  }
+}

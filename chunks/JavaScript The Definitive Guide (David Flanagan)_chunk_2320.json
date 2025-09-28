@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2320",
+  "content": "a combinação das propriedades left, top, \nright e bottom. A técnica de posicionamento mais comum usa as propriedades left e top para espe-\ncificar a distância da margem esquerda do elemento contêiner (normalmente o próprio documento) \naté a margem esquerda do elemento e a distância da margem superior do contêiner até a margem \nsuperior do elemento. Por exemplo, para colocar um elemento 100 pixels a partir da esquerda e 100 \npixels a partir da parte superior do documento, você pode especificar estilos CSS em um atributo \nstyle como segue:\n<div style=\"position: absolute; left: 100px; top:",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2320,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1004",
+  "content": "do a \nuniqueInteger. Agora, se estudarmos o \ncorpo da função, vemos que seu valor de retorno é outra função. É esse objeto função aninhada que \né atribuído a \nuniqueInteger. A função aninhada tem acesso às variáveis que estão no escopo e pode \nImplementando closures\nAs closures são fáceis de entender quando simplesmente se aceita a regra de escopo léxico: as funções \nsão executadas usando o encadeamento de escopo que estava em vigor quando foram definidas. Contu-\ndo, alguns programadores acham as closures confusas, pois se prendem aos detalhes da implementação. \nCertamente, pensam eles, as",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1004,
+    "totalChunks": 10000
+  }
+}

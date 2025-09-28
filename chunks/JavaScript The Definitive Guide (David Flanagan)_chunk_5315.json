@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5315",
+  "content": "englobando inicializadores de array, 57\n    instruções começando com [, 26\n    operador de array, 5, 673\n        acessando caracteres de string individuais, 38\n~ (til), operador NÃO bit a bit, 61, 69\n_ (sublinhado), em nomes de função, 160\n| (barra vertical)\n    alternação em comparação de padrões em expres-\nsão regular, 250\n    operador || (OU lógico), 61, 75, 166\n    operador |= (OU e atribuição bit a bit), 61, 76–77\n    operador OU bit a bit, 61, 69\nA\nabout:blank URL, 345\nabrindo e fechando janelas, 345–347\nacessibilidade, 324\nações padrão de eventos, 435\naddColorStop( ), objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5315,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2366",
+  "content": "cionamento.\nscroll\nA caixa do elemento tem barras de rolagem horizontal e vertical permanentes. Se o conteúdo \nultrapassa o tamanho da caixa, as barras de rolagem permitem ao usuário rolar para ver o \nconteúdo extra. Esse valor é respeitado somente quando o documento é exibido na tela do \ncomputador; quando o documento é impresso no papel, por exemplo, obviamente as barras \nde rolagem não fazem sentido.\nauto\nAs barras de rolagem são exibidas somente quando o conteúdo ultrapassa o tamanho do ele-\nmento, em vez de serem exibidas permanentemente.\nEnquanto a propriedade \noverflow permite",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2366,
+    "totalChunks": 10000
+  }
+}

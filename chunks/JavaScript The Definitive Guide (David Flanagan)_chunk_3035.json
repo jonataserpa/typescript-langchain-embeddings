@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3035",
+  "content": "gle(): conforme vamos ver na Seção 19.5.1, esse método também pode ser usado \npara exibir ou ocultar (isto é, alternar a visibilidade) os elementos selecionados.\nVamos aprender sobre outras maneiras mais gerais de registrar rotinas de tratamento de evento na \nSeção 19.4.4. E vamos finalizar esta seção com uma maneira mais simples e conveniente de registrar \nrotinas de tratamento.\n\n528          Parte II     JavaScript do lado do cliente\nLembre-se de que é possível passar uma string de HTML para $() para criar os elementos descritos \npor essa string e que você pode passar (como segundo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3035,
+    "totalChunks": 10000
+  }
+}

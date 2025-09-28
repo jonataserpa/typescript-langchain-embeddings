@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5033",
+  "content": "iver \ncarregado dados suficientes. Espelha o atributo HTML autoplay.\nreadonly TimeRanges buffered\nOs intervalos de tempo dos dados da mídia que estão no buffer.\nboolean controls\nSe for true, o elemento de mídia deve exibir um conjunto de controles de reprodução. Espelha \no atributo HTML controls.\nreadonly string currentSrc\nO URL dos dados da mídia, do atributo src ou de um dos filhos <source> desse elemento, ou \na string vazia, caso não sejam especificados dados de mídia.\ndouble currentTime\nO tempo de reprodução atual, em segundos. Configure essa propriedade para fazer o elemento \nde mídia",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5033,
+    "totalChunks": 10000
+  }
+}

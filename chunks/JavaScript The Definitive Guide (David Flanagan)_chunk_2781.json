@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2781",
+  "content": "to XMLHttpRequest. Mas para entender esse \ntipo de evento, você deve primeiro entender a propriedade readyState.\nreadyState é um valor inteiro que especifica o status de uma requisição HTTP. Seus valores possíveis \nestão enumerados na Tabela 18-1. Os símbolos na primeira coluna são constantes definidas na cons-\ntrutora XMLHttpRequest. Essas constantes fazem parte da especificação XMLHttpRequest, mas os \nnavegadores mais antigos e o IE8 não as definem, sendo que frequentemente se vê código contendo \no valor 4, em vez de XMLHttpRequest.DONE.\nTabela 18-1 Valores de readyState de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2781,
+    "totalChunks": 10000
+  }
+}

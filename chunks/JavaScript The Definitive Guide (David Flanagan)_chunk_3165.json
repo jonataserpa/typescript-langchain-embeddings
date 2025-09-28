@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3165",
+  "content": "ada ao URL. Para requisições POST, ela é enviada como corpo da requisição, \napós o envio de todos os cabeçalhos HTTP.\nUma maneira de obter uma string de dados nesse formato é chamar o método \nserialize() de um objeto \njQuery que contenha formulários ou elementos de formulário. Para enviar um formulário HTML usando o \nmétodo\n load(), por exemplo, você poderia usar código como o seguinte:\n$(\"#submit_button\").click(function(event) {\n    $(this.form).load(     // Substitui o formulário carregando...\n        this.form.action,           // seu url\n        $(this.form).serialize());  // com os dados",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3165,
+    "totalChunks": 10000
+  }
+}

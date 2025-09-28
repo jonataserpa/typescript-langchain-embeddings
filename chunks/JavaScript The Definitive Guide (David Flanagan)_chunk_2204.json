@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2204",
+  "content": "ddress             // Frágil: não use\ndocument.address           // Só funciona para formulários com atributo name\ndocument.forms.address     // Acesso explícito a um formulário com nome ou identificação\ndocument.forms[n]          // Frágil: n é a posição numérica do formulário\nA Seção 15.2.3 explicou que document.forms é um objeto HTMLCollection que permite selecionar \nelementos de formulário por ordem numérica, por \nid ou por name. Os próprios objetos de formulá-\nrio atuam como HTMLCollections de elementos de formulário e podem ser indexados pelo nome \n\nCapítulo 15     Escrevendo script de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2204,
+    "totalChunks": 10000
+  }
+}

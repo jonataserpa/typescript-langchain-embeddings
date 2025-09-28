@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4132",
+  "content": "e(), Date.toISOString(), Date.toString()\nDate.setDate()\nconfigura o campo de dia do mês de um objeto Date\nSinopse\ndata.setDate(dia_do_mês)\nArgumentos\ndia_do_mês\nUm inteiro entre 1 e 31 que é utilizado como o novo valor (na hora local) do campo de dia \ndo mês de data.\nRetorna\nA representação, em milissegundos, da data ajustada. Antes da padronização ECMAScript, esse \nmétodo não retornava nada.\nDate.setFullYear()\nconfigura o campo de ano e, opcionalmente, os campos de mês e data de um objeto Date\nSinopse\ndata.setFullYear(ano)\ndata.setFullYear(ano, mês)\ndata.setFullYear(ano, mês,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4132,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2917",
+  "content": "00/ para usá-lo.\nserver.listen(8000);\n\nCapítulo 19\nA biblioteca jQuery\nJavaScript tem uma API básica intencionalmente simples e uma API do lado do cliente demasiada-\nmente complicada, desfigurada por grandes incompatibilidades entre os navegadores. A chegada do \nIE9 elimina a pior dessas incompatibilidades, mas muitos programadores acham mais fácil escrever \naplicativos Web usando uma estrutura ou uma biblioteca utilitária de JavaScript para simplificar ta-\nrefas comuns e ocultar as diferenças entre os navegadores. Quando este livro estava sendo produzido, \numa das bibliotecas mais populares",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2917,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5047",
+  "content": "to associado a esse evento é um objeto Event simples \ne não o objeto \nProgressEvent usado por outras APIs que disparam eventos chamados \n“progress”.\nonratechange\nplaybackRate\n ou defaultPlaybackRate foi alterado.\nonseeked\nA propriedade seeking voltou a ser false.\nonseeking\nO script ou o usuário pediu para que a reprodução pulasse para uma parte da mídia que \nnão está no buffer e a reprodução foi interrompida enquanto dados são carregados. A \npropriedade \nseeking é true.\nonstalled\nO elemento está tentando carregar dados, mas nenhum dado está chegando.\nonsuspend\nO elemento colocou dados",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5047,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4798",
+  "content": "é simulada por eventos da jQuery. Consulte \nsrcElement.\nreadonly unsigned long timeStamp*\nUm número especificando a data e hora na qual o evento ocorreu ou que pelo menos pode ser \nusado para determinar a ordem em que dois eventos ocorreram. Muitos navegadores retornam \num timestamp que pode ser passado para a construtora Date(). Contudo, no Firefox 4 e an-\nteriores essa propriedade é algum outro tipo de timestamp, como o número de milissegundos \ndesde que o computador foi inicializado. Os eventos do IE não suportam isso. A jQuery confi-\ngura essa propriedade com um timestamp no formato",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4798,
+    "totalChunks": 10000
+  }
+}

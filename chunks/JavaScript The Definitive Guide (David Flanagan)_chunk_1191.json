@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1191",
+  "content": "operadores relacionais funcionam\nString(Coin.Dime) + \":\" + Coin.Dime  // => \"Dime:10\": forçado a ser string\nO objetivo desse exemplo é demonstrar que as classes de JavaScript são muito mais flexíveis e dinâ-\nmicas do que as classes estáticas de linguagens como C++ e Java.\nExemplo 9-7 Tipos enumeração em JavaScript\n// Esta função cria um novo tipo enumeração. O objeto argumento especifica\n// os nomes e valores de cada instância da classe. O valor de retorno\n// é uma função construtora que identifica a nova classe. Note, entretanto,\n// que a construtora lança uma exceção: você não pode usá-la",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1191,
+    "totalChunks": 10000
+  }
+}

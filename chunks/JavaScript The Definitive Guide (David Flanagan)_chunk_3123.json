@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3123",
+  "content": "meiro argumento.\nA propriedade \nqueue do objeto opções especifica se a animação deve ser enfileirada – se deve ser \nadiada até que as animações pendentes tenham terminado. Todas as animações são enfileiradas por \npadrão. Para desabilitar o enfileiramento, configure a propriedade queue como false. As animações \nnão enfileiradas começam imediatamente. As animações enfileiradas subsequentes não são adiadas \npor animações não enfileiradas. Considere o código a seguir:\n$(\"img\").fadeIn(500)\n        .animate({\"width\":\"+=100\"}, {queue:false, duration:1000})\n        .fadeOut(500);\nOs efeitos fadeIn()",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3123,
+    "totalChunks": 10000
+  }
+}

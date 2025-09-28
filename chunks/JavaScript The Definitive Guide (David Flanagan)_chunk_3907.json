@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3907",
+  "content": ", readAsArray \nBuffer(), readAsDataURL() e readAsBinaryString(). (Evidentemente, você pode chamar um desses \nmétodos primeiro e depois registrar rotinas de tratamento de evento – a natureza de thread única \nde JavaScript, descrita na Seção 22.4, significa que rotinas de tratamento de evento nunca serão \nchamadas até que sua função tenha retornado e o navegador esteja de volta ao seu laço de eventos.) \nOs dois primeiros métodos são os mais importantes e são abordados aqui. Cada um desses métodos \nde leitura recebe um Blob como primeiro argumento. \nreadAsText() recebe um segundo argumento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3907,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1749",
+  "content": "documento. Nenhuma rotina de \ntratamento seria necessária para eventos de entrada de usuário, mas o programa ainda registraria \numa rotina de tratamento de evento onload para saber quando o documento tivesse terminado de \ncarregar e estivesse pronto para gerar o sumário.\nOs eventos e o tratamento de eventos são temas do Capítulo 17, mas esta seção fornece uma breve \nvisão geral. Os eventos têm nomes, como “click”, “change”, “load”, “mouseover”, “keypress” ou \n“readystatechange”, que indicam o tipo geral do evento que ocorreu. Eles também têm um alvo, que \né o objeto em que ocorreram. Quando",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1749,
+    "totalChunks": 10000
+  }
+}

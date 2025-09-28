@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3027",
+  "content": "ne métodos de registro de evento simples para cada um dos eventos de navegador \nnormalmente usados e universalmente implementados. Para registrar uma rotina de tratamento de \neventos click, por exemplo, basta chamar o método \nclick():\n// Clicar em qualquer <p> fornece a ele um fundo cinza\n$(\"p\").click(function() { $(this).css(\"background-color\", \"gray\"); });\nA chamada de um método de registro de evento da jQuery registra sua rotina de tratamento em \ntodos os elementos selecionados. Normalmente, isso é muito mais fácil do que registrar rotinas de \ntratamento de evento uma por vez, com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3027,
+    "totalChunks": 10000
+  }
+}

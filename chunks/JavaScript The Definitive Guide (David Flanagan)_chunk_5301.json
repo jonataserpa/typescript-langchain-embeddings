@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5301",
+  "content": "e XMLHttpRequest expirou.\n\nSímbolos\nelementos gráfi cos em 3D para elemento <canvas>, \n617, 673\n& (E comercial)\n    operador && (E lógico), 40, 61, 74\n        comportamento de curto-circuito do, 120\n    operador &= (E bit a bit e atribuição), 61, 76–77\n    operador E bit a bit, 61, 68\n< > (sinal de menor e maior)\n    operador < (menor que), 61, 72\n        substituindo o método compareTo ( ), 217\n    operador << (deslocamento à esquerda bit a bit), \n61, 69\n    operador <<= (deslocamento à esquerda bit a bit e \natribuição), 61, 76–77\n    operador <= (menor ou igual a), 61, 72",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5301,
+    "totalChunks": 10000
+  }
+}

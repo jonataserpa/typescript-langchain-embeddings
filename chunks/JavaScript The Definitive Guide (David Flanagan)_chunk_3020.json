@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3020",
+  "content": "empacotador recém-criado ou uma string de HTML \nusada para criar um empacotador. A string HTML pode conter vários elementos aninhados, se \ndesejado, mas deve haver apenas um elemento mais interno. Se você passar uma função para qual-\nquer um desses métodos, ela será chamada uma vez no contexto de cada elemento (com o índice do \nelemento como seu único argumento) e deve retornar a string empacotadora, o objeto Element ou o \nobjeto jQuery. Aqui estão alguns exemplos:\n// Empacota todos os elementos <h1> com elementos <i>\n$(\"h1\").wrap(document.createElement(\"i\"));       //       Produz",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3020,
+    "totalChunks": 10000
+  }
+}

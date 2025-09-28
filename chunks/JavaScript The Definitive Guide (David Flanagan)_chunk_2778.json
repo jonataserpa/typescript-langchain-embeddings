@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2778",
+  "content": "ades e métodos do objeto XMLHttpRequest:\n •   As propriedades \nstatus e statusText retornam o status HTTP nas formas numérica e textual. \nEssas propriedades contêm valores HTTP padrão, como 200 e “OK” para pedidos bem-suce-\ndidos e 404 e “Not Found” para URLs que não correspondem a nenhum recurso no servidor.\n •   Os cabeçalhos de resposta podem ser consultados com \ngetResponseHeader() e getAllRespon-\nseHeaders(). A XMLHttpRequest manipula cookies automaticamente: ela filtra os cabeçalhos \nde cookie do conjunto retornado por getAllResponseHeaders() e retorna null se você passa \n“Set-Cookie”",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2778,
+    "totalChunks": 10000
+  }
+}

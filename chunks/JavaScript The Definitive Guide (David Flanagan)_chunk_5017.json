@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5017",
+  "content": "<link> que se referem a folhas de estilo, essa propriedade controla se a folha de \nestilo é aplicada no documento ou não.\nstring hash\nEspecifica o identificador de fragmento de href, incluindo o sinal numérico (#) à esquerda – \npor exemplo, “#results”.\nstring host\nEspecifica  as  partes  do  nome  de  host  e  porta  de  href  –  por  exemplo,  “http://www.oreilly.\ncom:1234”.\nstring hostname\nEspecifica a parte do nome de host de href – por exemplo, “http://www.oreilly.com”.\nstring href\nEspecifica o atributo href do link. Quando um elemento <a> ou <area> é usado como string, é \no valor dessa",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5017,
+    "totalChunks": 10000
+  }
+}

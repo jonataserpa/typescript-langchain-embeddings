@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3977",
+  "content": "rono.\n        // Agora solicitamos um cursor, o qual será retornado de forma assíncrona.\n        var request = index.openCursor(range);   // Solicita o cursor\n        request.onerror = logerr;               // Registra erros\n        request.onsuccess = function() {         // Passa o cursor para esta função\n            // Esta rotina de tratamento de evento será chamada várias vezes, uma\n            // para cada registro que corresponda à consulta e, então, mais uma vez\n            // com um cursor nulo para indicar que terminamos.\n            var cursor = request.result // O cursor está em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3977,
+    "totalChunks": 10000
+  }
+}

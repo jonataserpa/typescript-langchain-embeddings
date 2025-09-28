@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2546",
+  "content": "ento \nde captura e será chamada em uma fase diferente do envio do evento. Vamos abordar a captura de \neventos na Seção 17.3.6. Deveria ser possível omitir o terceiro argumento, em vez de passar false, \nsendo que a especificação eventualmente pode mudar para permitir isso, mas quando este livro esta-\nva sendo escrito, omitir esse argumento dava erro em alguns navegadores.\nO código a seguir registra duas rotinas de tratamento para o evento click em um elemento \n<button>. \nNote as diferenças entre as duas técnicas utilizadas:\n<button id=\"mybutton\">Click me</button>\n<script>\n\nCapítulo 17",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2546,
+    "totalChunks": 10000
+  }
+}

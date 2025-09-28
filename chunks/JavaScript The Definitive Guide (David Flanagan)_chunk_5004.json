@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5004",
+  "content": "o, uma string e um valor, configura o valor nomeado no objeto data \ndo elemento.\njQuery.dequeue(elt, [nomef=\"fx\"])\nRemove e chama a primeira função na fila nomeada do elemento especificado. O mesmo que \n$(elt).dequeue(qname).\njQuery.each(o, f(nome,valor)):o\njQuery.each(a, f(índice,valor)):a\nChama f uma vez para cada propriedade de o, passando o nome e o valor da propriedade e \nchamando f como método do valor. Se o primeiro argumento é um array ou um objeto seme-\nlhante a um array, chama f como um método de cada elemento do array, passando o índice do \narray e o valor do elemento como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5004,
+    "totalChunks": 10000
+  }
+}

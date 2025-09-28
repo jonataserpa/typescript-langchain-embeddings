@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1825",
+  "content": "rmações aos visitantes \ncom limitações visuais ou físicas.\nOs usuários cegos podem usar uma forma de “tecnologia auxiliar”, conhecida como leitor de tela, \npara converter palavras escritas em palavras faladas. Alguns leitores de tela são sensíveis à JavaScript \ne outros funcionam melhor quando JavaScript está desativada. Se você projetar um site que exige \nJavaScript para exibir suas informações, vai excluir os usuários desses leitores de tela. (E também vai \nexcluir qualquer pessoa que desabilite JavaScript intencionalmente em seu navegador.) A função cor-\nreta de JavaScript é melhorar a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1825,
+    "totalChunks": 10000
+  }
+}

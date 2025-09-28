@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3480",
+  "content": "io> e <video> não vão renderizar o conteúdo desse ele-\nmento. Mas os navegadores que não os suportam renderizam o conteúdo, de modo que você pode \ncolocar conteúdo de apoio (como um elemento <object> que chame o plug-in Flash) dentro:\n<video id=\"news\" width=640 height=480 controls preload>\n  <!-- Formato WebM para Firefox e Chrome -->\n  <source src=\"news.webm\" type='video/webm; codecs=\"vp8, vorbis\"'>\n  <!-- Formato H.264 para IE e Safari -->\n  <source src=\"news.mp4\" type='video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"'>\n  <!-- Recorre ao plugin Flash -->\n  <object width=640 height=480",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3480,
+    "totalChunks": 10000
+  }
+}

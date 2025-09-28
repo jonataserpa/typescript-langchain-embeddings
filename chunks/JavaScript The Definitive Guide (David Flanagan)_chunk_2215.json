@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2215",
+  "content": "propriedade contém o texto digitado pelo usuário. Para elementos botão criados com uma \ntag \n<input> (mas não aqueles criados com uma tag <button>), essa propriedade especifica o \ntexto exibido dentro do botão. Contudo, para elementos “botão de ação” e “caixa de seleção”, \na propriedade \nvalue não é editada nem exibida para o usuário. É simplesmente uma string \nconfigurada pelo atributo HTML \nvalue. Ela se destina a ser usada para envio do formulário, \nmas também pode ser uma maneira útil de associar dados extras a um elemento do formulário. \nAinda neste capítulo, a propriedade \nvalue também",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2215,
+    "totalChunks": 10000
+  }
+}

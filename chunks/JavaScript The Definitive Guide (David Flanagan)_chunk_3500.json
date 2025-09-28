@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3500",
+  "content": "o de tempos contíguos, você usaria start(0) e end(0). Supondo que não aconteceu \nbusca e que a mídia é colocada no buffer desde o início, por exemplo, você poderia usar um código \ncomo o seguinte para determinar a porcentagem de um recurso que foi colocada no buffer:\nvar percent_loaded = Math.floor(song.buffered.end(0) / song.duration * 100);\nPor fim, mais três propriedades, readyState, networkState e error, fornecem detalhes de status de \nbaixo nível sobre os elementos <audio> e <video>. Cada uma dessas propriedades tem um valor nu-\nmérico e são definidas constantes para cada um dos valores",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3500,
+    "totalChunks": 10000
+  }
+}

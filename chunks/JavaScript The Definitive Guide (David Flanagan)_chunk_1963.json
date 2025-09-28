@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1963",
+  "content": "amente somente as janelas criadas por seu pró-\nprio código JavaScript. Se você tenta fechar qualquer outra janela, o pedido falha ou é apresentada \numa caixa de diálogo ao usuário, solicitando a ele para que permita (ou cancele) esse pedido para \nfechar a janela. O método \nclose() de um objeto Window que representa um quadro, em vez de \numa janela ou guia nível superior, não faz nada: não é possível fechar um quadro (em vez disso, você \nexcluiria o <iframe> de seu documento contêiner).\nUm objeto Window continua a existir depois que a janela que representa foi fechada. Uma janela \nfechada vai",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1963,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4605",
+  "content": "entRect descreve um retângulo, usando coordenadas de Window ou da janela de vi-\nsualização. O método \ngetBoundingClientRect() de Element retorna objetos desse tipo para descrever o \nenvelope de um elemento na tela. Os objetos ClientRect são estáticos em x: eles não mudam quando \no elemento que descrevem muda.\nPropriedades\nreadonly float bottom\nA posição Y, em coordenadas da janela de visualização, do lado inferior do retângulo.\nreadonly float height\nA altura, em pixels, do retângulo. No IE8 e anteriores, essa propriedade não é definida; em vez \ndisso, use bottom-top.\nreadonly float left\nA",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4605,
+    "totalChunks": 10000
+  }
+}

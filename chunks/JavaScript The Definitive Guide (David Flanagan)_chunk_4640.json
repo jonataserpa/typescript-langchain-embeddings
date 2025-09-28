@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4640",
+  "content": "ataTransfer (consulte \nEvent) se refere a um objeto DataTransfer. O objeto DataTransfer é central em qualquer operação \nde arrastar e soltar: a origem do arrasto armazena os dados a serem transferidos para ele e o alvo da \nsoltura extrai os dados transferidos dele. Além disso, o objeto DataTransfer gerencia uma negociação \nentre a origem do arrasto e o alvo da soltura para decidir arrastar e soltar será uma operação de cópia, \nmovimentação ou criação de um link.\nA API descrita aqui foi criada pela Microsoft para o IE e tem sido implementada, pelo menos par-\ncialmente, por outros navegadores.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4640,
+    "totalChunks": 10000
+  }
+}

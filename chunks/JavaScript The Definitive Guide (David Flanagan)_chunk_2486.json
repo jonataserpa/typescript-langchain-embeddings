@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2486",
+  "content": "os os \noutros eventos de formulário, sim. O IE define eventos focusin e focusout que borbulham, como \numa alternativa útil a focus e blur. A biblioteca jQuery (consulte o Capítulo 19) simula eventos fo-\ncusin e focusout para navegadores que não os suportam, e a especificação Level 3 Events do DOM \ntambém os está padronizando.\nPor fim, note que outros navegadores (que não o IE) disparam um evento de entrada em \n<textarea> \ne outros elementos de formulário para entrada de texto, quando o usuário insere texto (por meio \ndo teclado ou pela operação de recortar e colar) no elemento. Ao contrário",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2486,
+    "totalChunks": 10000
+  }
+}

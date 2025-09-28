@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4744",
+  "content": "ibuto com o nome especificado e false, caso \ncontrário. Em documentos HTML, os nomes de atributo não diferenciam letras maiúsculas e mi-\nnúsculas.\nboolean hasAttributeNS(string namespace, string nomeLocal)\nEsse método funciona como hasAttribute(), exceto que o atributo é especificado pelo URI de na-\nmespace e pelo nome local dentro desse espaço de nomes.\nvoid insertAdjacentHTML(string posição, string texto)\nEsse método insere o texto de marcação HTML especificado na posição especificada relativa a esse \nelemento. O argumento \nposição deve ser uma das quatro strings a seguir:\n\n892",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4744,
+    "totalChunks": 10000
+  }
+}

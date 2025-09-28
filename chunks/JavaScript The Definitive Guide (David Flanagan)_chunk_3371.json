@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3371",
+  "content": "cookie criado por uma página em catalog.example.com configura seu atributo cami-\nnho como “/” e seu atributo domínio como “.example.com”, esse cookie está disponível para todas \nas páginas Web de catalog.example.com, orders.example.com e qualquer outro servidor no domínio \nexample.com. Se o atributo domínio não está configurado para um cookie, o padrão é o nome de host \ndo servidor Web que contém a página. Note que não é possível configurar o domínio de um cookie \ncomo um que não seja o de seu servidor.\nO último atributo de cookie é um valor booleano chamado secure que especifica como os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3371,
+    "totalChunks": 10000
+  }
+}

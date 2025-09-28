@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3063",
+  "content": "ular, pois o usuário de seu módulo \npode estar utilizando outros módulos que registram suas próprias rotinas de tratamento para os mesmos \ntipos de evento nos mesmos elementos. No entanto, se seu módulo registrou rotinas de tratamento de \nevento usando espaços de nomes, você pode usar essa versão de um só argumento de unbind() para anu-\nlar o registro apenas das rotinas de tratamento em seu espaço de nomes (ou espaços de nomes):\n// Desvincula todas as rotinas de tratamento de mouseover e mouseout no espaço de nomes\n// \"myMod\"\n$('a').unbind(\"mouseover.myMod mouseout.myMod\");\n// Desvincula",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3063,
+    "totalChunks": 10000
+  }
+}

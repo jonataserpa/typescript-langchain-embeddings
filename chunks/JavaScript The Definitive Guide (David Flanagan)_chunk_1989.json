@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1989",
+  "content": "fere a um ob-\njeto Document. O objeto Document representa o conteúdo da janela e esse é o tema deste capítulo. \nContudo, o objeto Document não opera independentemente. Ele é o principal objeto de uma API \nmaior, conhecida como Document Object Model (ou DOM), para representar e manipular conteúdo \nde documento.\nEste capítulo começa explicando a arquitetura básica do DOM. Em seguida, passa a explicar:\n •   Como consultar ou selecionar elementos individuais de um documento.\n •   Como percorrer um documento como uma árvore de nós e como localizar os ascendentes, \nirmãos e descendentes de qualquer",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1989,
+    "totalChunks": 10000
+  }
+}

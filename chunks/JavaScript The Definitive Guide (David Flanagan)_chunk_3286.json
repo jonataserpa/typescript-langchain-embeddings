@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3286",
+  "content": "aos elementos <div>.\n// Primeiramente, sem encadeamento de métodos\nvar divs = $(\"div\");\nvar paras = divs.find(\"p\");\nparas.addClass(\"highlight\");\ndivs.css(\"border\", \"solid black 1px\");\n// Aqui está como poderíamos fazer isso com um encadeamento de métodos\n$(\"div\").find(\"p\").addClass(\"highlight\").end().css(\"border\", \"solid black 1px\");\n// Ou então, podemos reordenar as operações e evitar a chamada de end()\n$(\"div\").css(\"border\", \"solid black 1px\").find(\"p\").addClass(\"highlight\");\nSe quiser definir o conjunto de elementos selecionados manualmente de um modo que seja compa-\ntível com o método",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3286,
+    "totalChunks": 10000
+  }
+}

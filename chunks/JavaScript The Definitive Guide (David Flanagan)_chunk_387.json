@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_387",
+  "content": "a do que o operador de adição +; portanto \na multiplicação é efetuada antes da adição. Além disso, o operador de atribuição = tem a precedên-\ncia mais baixa; portanto, a atribuição é realizada depois que todas as operações no lado direito são \nconcluídas.\nA precedência dos operadores pode ser anulada com o uso explícito de parênteses. Para forçar que a \nadição do exemplo anterior seja efetuada primeiro, escreva:\nw = (x + y)*z;\nNote que as expressões de acesso à propriedade e de chamada têm precedência mais alta do que qual-\nquer um dos operadores listados na Tabela 4-1. Considere a seguinte",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 387,
+    "totalChunks": 10000
+  }
+}

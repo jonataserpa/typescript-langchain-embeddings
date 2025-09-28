@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5461",
+  "content": "funções Ajax, 942–943\n    funções utilitárias, 557–560, 944\n    fundamentos da, 510\n    gramática de seletor, 930\n    métodos de elemento, 934\n    métodos de evento, 939\n    métodos de inserção e exclusão, 937\n    métodos de seleção, 564–568, 932\n    métodos e propriedades básicos, 931\n    métodos getter e setter, 517–523\n    nomes de funções e métodos na documentação \nofi cial, 514\n    obtendo,    511\n    seletores,    560–564\n        combinações    de,    563\n        grupos    de,    564\n        simples,    561–563\n    terminologia,    513\n    tratando eventos com, 526–536\njQuery.fx.speeds,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5461,
+    "totalChunks": 10000
+  }
+}

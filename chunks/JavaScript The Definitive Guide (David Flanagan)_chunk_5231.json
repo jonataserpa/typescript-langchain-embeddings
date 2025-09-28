@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5231",
+  "content": "do normalmente é omitido ou é null, mas também é possível passar \no pseudoelemento CSS “::before” ou “::after” para determinar os estilos usados para conteúdo gerado \npor CSS.\nCompare getComputedStyle() com a propriedade style de um HTMLElement, que dá acesso apenas \naos estilos em linha de um elemento, nas unidades onde foram especificados, e não informa nada \nsobre os estilos de folha de estilo que se aplicam ao elemento.\nEsse método não é implementado no IE8 e anteriores, mas funcionalidade semelhante está disponí-\nvel por meio da propriedade não padronizada \ncurrentStyle de cada objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5231,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_867",
+  "content": "subsequentes, é o valor retornado pela chamada anterior da função. No \nprimeiro exemplo anterior, a função de redução é primeiramente chamada com argumentos 0 e 1. \nEla os soma e retorna 1. Então, ela é chamada novamente com argumentos 1 e 2 e retorna 3. Em \nseguida, ela calcula 3+3=6, depois 6+4=10 e, finalmente, 10+5=15. Esse valor final, 15, se torna o \nvalor de retorno de \nreduce().\n\n152          Parte     I     JavaScript     básica\nVocê pode ter notado que a terceira chamada de reduce() tem apenas um argumento: não há \nqualquer valor inicial especificado. Quando reduce() é chamado",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 867,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1684",
+  "content": "io, tornando mais fácil \nobter ou transmitir informações. A experiência do usuário não deve depender de JavaScript, mas ela \npode ajudar a facilitar essa experiência, por exemplo:\n •   Criando animações e outros efeitos visuais para guiar um usuário sutilmente e ajudar na na-\nvegação na página\n •   Ordenar as colunas de uma tabela para tornar mais fácil para o usuário descobrir o que neces-\nsita\n •   Ocultar certo conteúdo e revelar detalhes progressivamente, à medida que o usuário “se apro-\nfunda” nesse conteúdo\n13.1.2   JavaScript em aplicativos Web\nOs aplicativos Web utilizam todos os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1684,
+    "totalChunks": 10000
+  }
+}

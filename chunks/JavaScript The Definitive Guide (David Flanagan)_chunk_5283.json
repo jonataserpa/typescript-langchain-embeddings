@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5283",
+  "content": "pecifica um valor de tempo-limite, em milissegundos. Se a re-\nquisição HTTP demorar mais do que isso para terminar, ela será cancelada e o evento timeout \nserá disparado. Essa propriedade só pode ser configurada após a chamada de \nopen() e antes da \nchamada de send().\nreadonly XMLHttpRequestUpload upload\nEssa propriedade da XHR2 se refere a um objeto XMLHttpRequestUpload que define um conjun-\nto de propriedades de registro de rotina de tratamento de evento para monitorar o progresso \nde carregamento do corpo da requisição HTTP.\nboolean withCredentials\nEssa propriedade da XHR2 especifica se",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5283,
+    "totalChunks": 10000
+  }
+}

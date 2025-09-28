@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4492",
+  "content": "lado do cliente\n\n844          Parte IV     Referência de JavaScript do lado do cliente\nMétodos\nvoid swapCache()\nQuando a propriedade status é UPDATEREADY, o navegador está mantendo duas versões do aplicativo \ncolocadas na cache: os arquivos estão vindo da versão antiga da cache e a nova versão acabou de ser \nbaixada e está pronta para uso na próxima vez que o aplicativo for recarregado. Você pode chamar \nswapCache() para dizer ao navegador que descarte a cache antiga imediatamente e comece a servir \narquivos da nova cache. Note, entretanto, que isso pode levar a problemas de assimetria de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4492,
+    "totalChunks": 10000
+  }
+}

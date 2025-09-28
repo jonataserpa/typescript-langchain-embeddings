@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1324",
+  "content": "configurable:false},\n        to: { get: getTo, set: setTo, enumerable:true, configurable:false }\n    });\n}\n// O objeto protótipo não mudou em relação aos exemplos anteriores.\n// Os métodos de instância leem from e to como se fossem propriedades normais.\nRange.prototype = hideProps({\n    constructor:    Range,\n    includes: function(x) { return this.from <= x && x <= this.to; },\n    foreach: function(f) {for(var x=Math.ceil(this.from);x<=this.to;x++) f(x);},\n    toString: function() { return \"(\" + this.from + \"...\" + this.to + \")\"; }\n});\n9.8.4   Impedindo extensões de classe\nNormalmente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1324,
+    "totalChunks": 10000
+  }
+}

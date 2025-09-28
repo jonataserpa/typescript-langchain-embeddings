@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2146",
+  "content": "nk = document.createElement(\"a\");\n        link.href = \"#TOC\" + sectionNumber;    // Destino do link\n        link.innerHTML = heading.innerHTML;    // O texto do link é o mesmo do cabeçalho\n        // Coloca o link em um div que pode ser estilizado de acordo com o nível.\n        var entry = document.createElement(\"div\");\n        entry.className = \"TOCEntry TOCLevel\" + level;\n        entry.appendChild(link);\n        // E adiciona o div no contêiner de TOC.\n        toc.appendChild(entry);\n }\n});\n\n380          Parte II     JavaScript do lado do cliente\n15.8   Geometria e rolagem de documentos e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2146,
+    "totalChunks": 10000
+  }
+}

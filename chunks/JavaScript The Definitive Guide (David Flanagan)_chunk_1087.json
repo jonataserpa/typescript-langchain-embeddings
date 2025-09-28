@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1087",
+  "content": "rtamento é definido pela classe \ne compartilhado por todas as instâncias. Imagine uma classe chamada Complex para representar \ne efetuar operações aritméticas em números complexos, por exemplo. Uma instância de Complex \nteria propriedades para armazenar as partes (estado) real e imaginária do número complexo. E a \nclasse Complex definiria métodos para efetuar a adição e a multiplicação (comportamento) desses \nnúmeros.\nEm JavaScript, as classes se baseiam no mecanismo de herança baseado em protótipos da linguagem. \nSe dois objetos herdam propriedades do mesmo objeto protótipo, dizemos que eles",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1087,
+    "totalChunks": 10000
+  }
+}

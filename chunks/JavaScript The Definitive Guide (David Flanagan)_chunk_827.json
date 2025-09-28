@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_827",
+  "content": "ray, você \nescreveria matrix[x][y]. Aqui está um exemplo concreto que utiliza um array bidimensional como \ntabuada de multiplicação:\n// Cria um array multidimensional\nvar table = new Array(10);             // 10 linhas da tabuada\nfor(var i = 0; i < table.length; i++)\n    table[i] = new Array(10);          // Cada linha tem 10 colunas\n// Inicializa o array\nfor(var row = 0; row < table.length; row++) {\n    for(col = 0; col < table[row].length; col++) {\n        table[row][col] = row*col;\n }\n}\n// Usa o array multidimensional para calcular 5*7\nvar product = table[5][7];      // 35\n7.8   Métodos de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 827,
+    "totalChunks": 10000
+  }
+}

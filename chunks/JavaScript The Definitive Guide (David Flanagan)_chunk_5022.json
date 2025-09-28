@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5022",
+  "content": "Link. \nQuando um objeto Location é usado como string, é retornado o valor da propriedade \nhref. Isso \nsignifica que você pode usar a expressão \nlocation no lugar de location.href.\nAlém de representar o local do navegador atual, o objeto Location também controla esse local. Se \nvocê atribui uma string contendo um URL ao objeto Location ou à sua propriedade \nhref, o na-\nvegador Web carrega e exibe esse URL. Também é possível fazer o navegador carregar um novo \ndocumento, configurando outras propriedades de Location para alterar partes do URL atual. Por \nexemplo, se você configura a propriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5022,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2981",
+  "content": "es métodos jQuery são como os métodos \nclassList descritos na Seção 16.5, mas funcionam em \ntodos os navegadores e não apenas naqueles que suportam a propriedade classList de HTML5. \nAlém disso, evidentemente, os métodos jQuery funcionam para vários elementos e podem ser en-\ncadeados.\n19.2.4   Obtendo e configurando valores de formulário HTML\nval() é um método para configurar e consultar o atributo value de elementos de formulário HTML \ne também para consultar e configurar o estado de caixas de seleção, botões de opção e elementos \n<select>:\n$(\"#surname\").val()    // Obtém o valor do campo de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2981,
+    "totalChunks": 10000
+  }
+}

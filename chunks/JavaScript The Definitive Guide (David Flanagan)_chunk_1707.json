@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1707",
+  "content": "ript (e ao webmaster do domí-\nnio a partir do qual o script é carregado) controle completo sobre sua página Web.\n13.2.3   Tipo de script\nJavaScript foi a linguagem de script original da Web e, por padrão, os elementos <script> hipotetica-\nmente contêm ou fazem referência a código JavaScript. Se quiser usar uma linguagem de script não \npadrão, como VBScript da Microsoft (que é suportada somente pelo IE), o atributo \ntype deve ser \nutilizado para especificar o tipo de script MIME:\n<script type=”text/vbscript”>\n' O código VBScript fica aqui\n</script>\nO valor padrão do atributo type é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1707,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5286",
+  "content": "ão inclui o \ncabeçalho especificado. Os cabeçalhos relacionados a cookie e \nCORS são filtrados e não podem ser consultados. Se a resposta contiver mais de um cabeçalho com \no nome especificado, a string retornada vai incluir o valor de todos esses cabeçalhos, concatenados e \nseparados por uma vírgula e um espaço.\nvoid open(string método, string url, [boolean assínc, string usuário, string pass])\nEsse método redefine o objeto XMLHttpRequest e armazena seus argumentos para uso posterior \npor send().\nmétodo é o método HTTP a ser usado para a requisição. Os valores implementados com segurança",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5286,
+    "totalChunks": 10000
+  }
+}

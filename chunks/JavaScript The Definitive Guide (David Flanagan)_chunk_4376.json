@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4376",
+  "content": "nt() analisar \num número decimal. O valor 8 especifica que um número octal (usando dígitos de 0 a 7) deve ser \nanalisado. O valor 16 especifica um valor hexadecimal, usando dígitos de 0 a 9 e as letras A a F. raiz \npode ser qualquer valor entre 2 e 36.\nSe \nraiz é 0 ou não é especificada, parseInt() tenta determinar a raiz do número a partir de s. Se s \ncomeça (após um sinal de subtração opcional) com 0x, parseInt() analisa o restante de s como um \nnúmero hexadecimal. Caso contrário, parseInt() o analisa como um número decimal.\nExemplo\nparseInt(\"19\", 10);   // Retorna 19 (10 +",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4376,
+    "totalChunks": 10000
+  }
+}

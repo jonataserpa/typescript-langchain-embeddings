@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2566",
+  "content": "Parte II     JavaScript do lado do cliente\nPor outro lado, o encadeamento de escopo modificado das rotinas de tratamento de evento HTML \né uma fonte de armadilhas, pois as propriedades de cada um dos objetos do encadeamento escon-\ndem as propriedades de mesmo nome no objeto global. O objeto Document define um método \nopen() (raramente usado), por exemplo, de modo que uma rotina de tratamento de evento HTML \nque queira chamar o método open() do objeto Window deve escrever window.open explicitamente, \nem vez de open. Há um problema semelhante (porém mais pernicioso) nos formulários, pois os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2566,
+    "totalChunks": 10000
+  }
+}

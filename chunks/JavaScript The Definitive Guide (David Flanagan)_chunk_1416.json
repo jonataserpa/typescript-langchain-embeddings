@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1416",
+  "content": "cora mais comumente usados são ^, que prende o padrão ao início da string, e $, que \nancora o padrão no final da string.\nPor exemplo, para corresponder à palavra “JavaScript” em uma linha sozinha, você pode usar a \nexpressão regular /^JavaScript$/. Se quiser procurar “Java” como uma palavra em si (não como \num prefixo, como em “JavaScript”), pode tentar o padrão \n/\\sJava\\s/, que exige um espaço antes \ne depois da palavra. Mas existem dois problemas nessa solução. Primeiro, ela não corresponde a \n“Java” no início ou no final de uma string, mas somente se aparece com espaço em um ou outro",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1416,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2787",
+  "content": "// Define receptor de evento\n        // Se a requisição está completa e foi bem-sucedida\n        if (request.readyState === 4 && request.status === 200) {\n            var type = request.getResponseHeader(\"Content-Type\");\n            if (type.match(/^text/))   // Certifica-se de que a resposta seja texto\n                callback(request.responseText); // A passa para callback\n  }\n    };\n    request.send(null);                         // Envia a requisição agora\n}\n18.1.2.1   Respostas   síncronas\nPor sua própria natureza, as respostas HTTP são mais bem manipuladas de forma assíncrona.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2787,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2272",
+  "content": "emento no qual o atributo \ncontenteditable é configurado. Se um documento contém mais de um elemento que pode ser edita-\ndo, o comando se aplica ao que contém a seleção ou o cursor de inserção.) Os comandos executados \npor \nexecCommand() são nomeados com strings como “bold”, “subscript”, “justifycenter” ou “inserti-\nmage”. O nome do comando é o primeiro argumento de \nexecCommand(). Alguns comandos exigem \num argumento de valor – “createlink”, por exemplo, exige o URL do hiperlink. Teoricamente, se o \nsegundo argumento de \nexecCommand() for true, o navegador vai solicitar ao usuário o valor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2272,
+    "totalChunks": 10000
+  }
+}

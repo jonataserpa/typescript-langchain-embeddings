@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4438",
+  "content": "caractere $ tem significado especial dentro da string substituição. Confor-\nme mostrado na tabela a seguir, ele indica que uma string derivada da correspondência de padrão é \nusada na substituição.\nCaracteresSubstituição\n$1, $2, ..., $99\nO texto que correspondeu da 1ª a 99ª subexpressão entre parênteses dentro de expreg\n$&\nA substring que correspondeu a expreg\n$'\nO texto à esquerda da substring coincidente\n$'\nO texto à direita da substring coincidente\n$$\nUm cifrão literal\nECMAScript v3 especifica que o argumento substituição de replace() pode ser uma função, em vez \nde uma string. Nesse",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4438,
+    "totalChunks": 10000
+  }
+}

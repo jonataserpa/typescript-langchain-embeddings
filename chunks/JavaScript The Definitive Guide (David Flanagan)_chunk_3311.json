@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3311",
+  "content": "ipt do lado do cliente\n// Transforma elementos <input> com class=\"date\" em widgets selecionadores de data\n$(\"input.date\").datepicker();\nPara utilizar um widget jQuery UI completamente, você deve saber de três coisas: suas opções de \nconfiguração, seus métodos e seus eventos. Todos os widgets jQuery UI podem ser configurados e \nalguns têm muitas opções de configuração. Você pode personalizar o comportamento e a aparên-\ncia de seus widgets passando um objeto opções (como o objeto opções de animação passado para \nanimate()) para o método widget.\nNormalmente, os widgets jQuery UI definem pelo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3311,
+    "totalChunks": 10000
+  }
+}

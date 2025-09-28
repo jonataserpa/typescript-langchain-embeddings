@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4390",
+  "content": "ento 2 contém o texto que coincidiu com a segunda \nsubexpressão e assim por diante. A propriedade de array length especifica o número de elementos \nno array, como sempre. Além dos elementos do array e da propriedade length, o valor retornado por \nexec() também tem outras duas propriedades. A propriedade index especifica a posição do primei-\nro caractere do texto coincidente. A propriedade input se refere a string. Esse array retornado é o \nmesmo retornado pelo método String.match(), quando chamado em um objeto RegExp não global.\nQuando \nexec() é chamado em um padrão não global, faz a pesquisa",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4390,
+    "totalChunks": 10000
+  }
+}

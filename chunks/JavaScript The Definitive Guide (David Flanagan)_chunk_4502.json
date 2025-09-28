@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4502",
+  "content": "es de atributo podem ser representados completamente por strings, normalmente não \né necessário usar a interface Attr. Na maioria dos casos, o modo mais fácil de trabalhar com atributos \né com os métodos \nElement.getAttribute() e Element.setAttribute(). Esses métodos usam strings \npara valores de atributo e evitam o uso de objetos Attr.\nPropriedades\nreadonly string localName\nO nome do atributo, não incluindo nenhum prefixo de namespace.\nreadonly string name\nO nome do atributo, incluindo o prefixo de namespace, se houve um.\nreadonly string namespaceURI\nO URI que identifica o namespace do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4502,
+    "totalChunks": 10000
+  }
+}

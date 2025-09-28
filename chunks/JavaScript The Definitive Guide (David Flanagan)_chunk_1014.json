@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1014",
+  "content": "sso à propriedade. Isso \npermite que o chamador de counter() especifique o valor inicial da variável privada.\nO Exemplo 8-4 é uma generalização do estado privado compartilhado, por meio da técnica de closu-\nres que demonstramos aqui. Esse exemplo define uma função \naddPrivateProperty() que define uma \nvariável privada e duas funções aninhadas para configurar e obter o valor dessa variável. Ela adiciona \nessas funções aninhadas como métodos do objeto especificado:\nExemplo 8-4 Métodos de acesso da propriedade privada usando closures\n// Esta função adiciona métodos de acesso para uma propriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1014,
+    "totalChunks": 10000
+  }
+}

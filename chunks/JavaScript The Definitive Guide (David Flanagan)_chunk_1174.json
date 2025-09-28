@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1174",
+  "content": "se;\n            continue;\n        case 'function':        // uma função: usa o objeto protótipo\n            // Se o argumento é uma função, usamos seu objeto protótipo\n            arg = arg.prototype;\n            // passa para o próximo case\n        case 'objeto': // um objeto: procura métodos correspondentes\n            for(var m in arg) { // Para cada propriedade do objeto\n                if (typeof arg[m] !== \"function\") continue;  // pula o que não for método\n                if (typeof o[m] !== \"function\") return false;\n   }\n  }\n }\n    // Se ainda estamos aqui, então o implementa tudo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1174,
+    "totalChunks": 10000
+  }
+}

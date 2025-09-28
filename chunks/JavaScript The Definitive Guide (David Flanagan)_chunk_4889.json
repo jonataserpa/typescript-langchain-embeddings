@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4889",
+  "content": "dos, string título, [string url])\nEsse método adiciona uma nova entrada no histórico de navegação da janela, armazenando um \nclone estruturado (consulte “Clones estruturados”, na página 672) de dados, assim como o título e \nurl especificados. Se, posteriormente, o usuário utilizar o mecanismo de navegação de histórico do \nnavegador para retornar a esse estado salvo, um evento popstate será disparado na janela e o objeto \nPopStateEvent conterá outro clone de dados em sua propriedade state.\nO argumento \ntítulo fornece um nome para esse estado e os navegadores podem exibi-lo em suas \ninterfaces",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4889,
+    "totalChunks": 10000
+  }
+}

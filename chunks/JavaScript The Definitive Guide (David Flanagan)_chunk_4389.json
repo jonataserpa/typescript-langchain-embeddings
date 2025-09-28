@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4389",
+  "content": "s de RegExp e String. É \num método de uso geral um tanto mais complexo de usar do que RegExp.test(), String.search(), \nString.replace() e String.match().\nexec() pesquisa string em busca de texto que coincida com expreg. Se encontra uma coincidência, \nele retorna um array de resultados; caso contrário, retorna null. O elemento 0 do array retornado \né o texto coincidente. O elemento 1 é o texto que coincidiu com a primeira subexpressão entre pa-\nrênteses (se houver) dentro de \nexpreg. O elemento 2 contém o texto que coincidiu com a segunda \nsubexpressão e assim por diante. A propriedade de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4389,
+    "totalChunks": 10000
+  }
+}

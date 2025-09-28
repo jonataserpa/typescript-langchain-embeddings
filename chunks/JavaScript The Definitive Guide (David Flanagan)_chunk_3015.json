@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3015",
+  "content": "z dos da segunda. Observe que, na segunda linha, não \npodemos passar texto puro (sem sinais de menor e maior para identificá-lo como HTML) para o \nmétodo \n$() – ele pensa que estamos especificando um seletor. Por isso, devemos criar explicitamente \no nó de texto que queremos inserir:\n$(\"<br/>+message\").appendTo(\"#log\");             // Anexa html em #log\n$(document.createTextNode(\"\n\")).prependTo(\"h1\"); // Anexa nó de texto nos <h1>s\n\nCapítulo 19     A biblioteca jQuery      525\nJavaScript do\n lado do cliente\n$(\"<hr/>\").insertBefore(\"h1\");                  // Insere regra antes de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3015,
+    "totalChunks": 10000
+  }
+}

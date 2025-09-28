@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4629",
+  "content": "a regra. O valor será uma das constantes definidas anteriormente.\nCSSStyleDeclaration\num conjunto de atributos CSS e seus valores\nUm objeto CSSStyleDeclaration representa um conjunto de atributos de estilo CSS e seus valores, \npermitindo que esses valores de estilo sejam consultados e configurados usando-se nomes de pro-\npriedade JavaScript semelhantes aos nomes de propriedade CSS. A propriedade \nstyle de um HTM-\nLElement é um objeto CSSStyleDeclaration de leitura/gravação, assim como a propriedade style \nde um objeto CSSRule. Contudo, o valor de retorno de Window.getComputedStyle() é um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4629,
+    "totalChunks": 10000
+  }
+}

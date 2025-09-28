@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2166",
+  "content": "s não suas margens.\nSe a palavra “Client” no método \ngetBoundingClientRect() especifica o sistema de coordenadas do re-\ntângulo retornado, o que explica a palavra “Bounding” (contorno) no nome do método? Elementos \nde bloco, como imagens, parágrafos e elementos \n<div>, quando expostos pelo navegador são sempre \n\nCapítulo 15     Escrevendo script de documentos      383\nJavaScript do\n lado do cliente\nretangulares. No entanto, os elementos em linha, como <span>, <code> e <b>, podem abranger várias \nlinhas e, portanto, consistir em vários retângulos. Imagine, por exemplo, um texto em itálico",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2166,
+    "totalChunks": 10000
+  }
+}

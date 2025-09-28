@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4660",
+  "content": "s dentro da árvore de documentos. Muitos \noutros métodos de Document são “métodos fábrica” que criam elementos e objetos relacionados.\nOs objetos Document, assim como os objetos Element que contêm, são alvos de evento. Eles im-\nplementam os métodos definidos por \nEventTarget e também suportam muitas propriedades de tra-\ntamento de evento.\n\n876          Parte IV     Referência de JavaScript do lado do cliente\nNovos objetos Document podem ser criados com os métodos createDocument() e createHTMLDocu-\nment() de DOMImplementation:\ndocument.implementation.createHTMLDocument(\"New Doc\");\nTambém é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4660,
+    "totalChunks": 10000
+  }
+}

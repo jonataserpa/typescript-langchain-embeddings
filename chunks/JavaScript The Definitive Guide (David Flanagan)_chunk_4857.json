@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4857",
+  "content": "ntroles de formulário.\nOs elementos \n<fieldset> e <output> implementam a maioria (mas não todas) das propriedades des-\ncritas aqui. Esta referência trata objetos FieldSet e Output como FormControls, mesmo que não \nimplementem cada propriedade.\nEsta página documenta certos recursos de formulário HTML5 (especialmente a validação de formu-\nlário) que, quando este livro estava sendo escrito, ainda não estavam amplamente implementados.\nPropriedades\nboolean autofocus\ntrue se o controle deve receber o foco do teclado automaticamente, assim que o documento \nfor carregado. (Os controles FieldSet e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4857,
+    "totalChunks": 10000
+  }
+}

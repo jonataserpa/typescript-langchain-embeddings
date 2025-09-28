@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3762",
+  "content": "// Começa um novo jogo quando carregamos\nwindow.onpopstate = popState;   // Trata de eventos de histórico\nvar state, ui;         // Globais inicializadas em newgame()\nfunction newgame(playagain) {   // Inicia um novo jogo de adivinhação de números\n    // Configura um objeto para conter elementos do documento que nos interessam\n    ui = {\n        heading: null, // O <h1> no topo do documento.\n        prompt:    null,     // Pede para o usuário digitar um palpite.\n        input: null,   // Onde o usuário digita o palpite.\n        low: null,    // Três células de tabela para a representação",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3762,
+    "totalChunks": 10000
+  }
+}

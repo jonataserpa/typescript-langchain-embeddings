@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2249",
+  "content": "mico como \no objeto Location. Se o usuário navegar para um novo identificador de fragmento dentro do \ndocumento, por exemplo, \nlocation.href vai mudar, mas document.URL, não.\nreferrer é uma das propriedades mais interessantes: ela contém o URL do documento a partir do \nqual o usuário se vinculou ao documento atual. Você poderia usar essa propriedade com código \ncomo o seguinte:\nif (document.referrer.indexOf(\"http://www.google.com/search?\") == 0) {\n    var args = document.referrer.substring(ref.indexOf(\"?\")+1).split(\"&\");\n    for(var i = 0; i < args.length; i++) {\n\n396          Parte II",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2249,
+    "totalChunks": 10000
+  }
+}

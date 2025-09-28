@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3074",
+  "content": "se espaço de nomes. Se \nquiser disparar apenas rotinas de tratamento de evento que não têm espaço de nomes, anexe um pon-\nto de exclamação no tipo de evento. As rotinas de tratamento registradas por meio de propriedades \ncomo onclick são consideradas como não tendo espaço de nomes:\n$(\"button\").trigger(\"click.ns1\");   // Dispara rotinas de tratamento de click em um espaço \n// de nomes\n$(\"button\").trigger(\"click!\");          // Dispara rotinas de tratamento de click em nenhum \n// espaço de nomes\n\n534          Parte II     JavaScript do lado do cliente\nEm vez de passar uma string de tipo de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3074,
+    "totalChunks": 10000
+  }
+}

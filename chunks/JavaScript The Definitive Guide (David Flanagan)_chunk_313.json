@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_313",
+  "content": "xatamente igual àquelas explicadas anteriormente: o valor primitivo retornado por \nvalueOf() ou \npor \ntoString() é usado diretamente, sem ser forçado a ser um número ou uma string.\nO operador \n< e os outros operadores relacionais realizam conversões de objeto para valores primiti-\nvos, assim como \n==, mas sem o caso especial para objetos Date: todo objeto é convertido tentando \nvalueOf() primeiro e depois toString(). Seja qual for o valor primitivo obtido, é utilizado diretamen-\nte sem ser convertido em um número ou em uma string.\n+, ==, != e os operadores relacionais são os únicos que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 313,
+    "totalChunks": 10000
+  }
+}

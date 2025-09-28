@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1293",
+  "content": "quals: function(that) {\n            return that instanceof NotSet && this.set.equals(that.set);\n  }\n }\n);\n/*\n * AbstractEnumerableSet é uma subclasse abstrata de AbstractSet.\n * Ela define os métodos abstratos size() e foreach(), e então implementa\n * os métodos concretos isEmpty(), toArray(), to[Locale]String() e equals()\n * sobre eles. As subclasses que implementam contains(), size() e foreach()\n * obtêm gratuitamente esses cinco métodos concretos.\n */\nvar AbstractEnumerableSet = AbstractSet.extend(\n    function() { throw new Error(\"Can't instantiate abstract classes\"); },\n {\n        size:",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1293,
+    "totalChunks": 10000
+  }
+}

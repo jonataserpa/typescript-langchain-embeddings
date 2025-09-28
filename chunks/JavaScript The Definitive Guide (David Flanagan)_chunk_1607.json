@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1607",
+  "content": "a entra no quadro\nrow.setBorder(padding);                         // Adiciona algum preenchimento na linha\nframe.pack();                          // Configura o tamanho mínimo\nframe.visible = true;                  // Torna a janela visível\n// Quando qualquer coisa acontecer na janela, chama esta função.\nframe.addWindowListener(function(e, name) {\n// Se o usuário fecha a janela, sai do aplicativo.\n    if (name === \"windowClosing\")               // O Rhino adiciona o argumento name\n        java.lang.System.exit(0);\n});\n// Quando o usuário clica no botão, chama esta",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1607,
+    "totalChunks": 10000
+  }
+}

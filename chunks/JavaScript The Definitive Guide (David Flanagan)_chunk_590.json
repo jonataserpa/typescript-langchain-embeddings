@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_590",
+  "content": "um array 2D de números de algum lugar\n// Agora soma todos os números da matriz.\nvar sum = 0, success = false;\n// Começa com uma instrução rotulada da qual podemos sair se ocorrerem erros\ncompute_sum: if (matrix) {\n    for(var x = 0; x < matrix.length; x++) {\n        var row = matrix[x];\n        if (!row) break compute_sum;\n\n102          Parte     I     JavaScript     básica\n        for(var y = 0; y < row.length; y++) {\n            var cell = row[y];\n            if (isNaN(cell)) break compute_sum;\n            sum += cell;\n  }\n }\n    success = true;\n}\n// As instruções break pulam para cá. Se",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 590,
+    "totalChunks": 10000
+  }
+}

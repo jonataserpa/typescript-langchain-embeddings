@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4830",
+  "content": "objeto  FileError  representa  um  erro  ocorrido  na  leitura  de  um  arquivo  com  \nFileReader  ou  \nFileReaderSync. Se é usada a API síncrona, o objeto FileError é lançado. Se é usada a API assíncrona, o \nobjeto FileError é o valor da propriedade error do objeto FileReader quando o evento error é enviado.\nNote que a API FileWriter (descrita na Seção 22.7, mas não estável o suficiente para documentar \nnesta seção de referência) adiciona novas constantes de código de erro nesse objeto.\nConstantes\nOs códigos de erro de FileError são os seguintes:\nunsigned short NOT_FOUND_ERR = 1\nO arquivo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4830,
+    "totalChunks": 10000
+  }
+}

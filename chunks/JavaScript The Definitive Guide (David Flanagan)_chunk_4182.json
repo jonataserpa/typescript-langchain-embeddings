@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4182",
+  "content": "conveniente lançar objetos Error para sinalizar exceções ou talvez prefira simplesmente lançar \numa mensagem de erro ou um código de erro como string primitiva ou valor numérico.\nNote que a especificação ECMAScript define um método \ntoString() para a classe Error (ele é herda-\ndo por cada uma das subclasses de Error), mas não exige esse método toString() para retornar uma \nstring que possua o conteúdo da propriedade message. Portanto, você não deve esperar que o método \ntoString() converta um objeto Error em uma string significativa, legível para seres humanos. Para \nexibir uma mensagem de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4182,
+    "totalChunks": 10000
+  }
+}

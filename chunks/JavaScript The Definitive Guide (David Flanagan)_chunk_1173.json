@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1173",
+  "content": "todos com os mesmos nomes do objeto protótipo.\nExemplo 9-5 Uma função para verificação do tipagem do pato\n// Retorna true se o implementa os métodos especificados pelos args restantes.\nfunction quacks(o /*, ... */) {\n    for(var i = 1; i < arguments.length; i++) {  // para cada argumento após o\n        var arg = arguments[i];\n        switch(typeof arg) {    // Se arg é:\n        case 'string': // uma string: procura um método com esse nome\n            if (typeof o[arg] !== \"function\") return false;\n            continue;\n        case 'function':        // uma função: usa o objeto protótipo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1173,
+    "totalChunks": 10000
+  }
+}

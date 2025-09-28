@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_76",
+  "content": "gula \nsão instruções. (No código a seguir, você vai ver instruções de várias linhas que não terminam com \nponto e vírgula.) Na verdade há muita sobreposição entre instruções e expressões. Em linhas gerais, \numa expressão é algo que calcula um valor, mas não faz nada: ela não altera o estado do programa \nde modo algum. As instruções, por outro lado, não têm um valor (ou não têm um valor com que \nnos preocupemos), mas alteram o estado. Você viu declarações de variável e instruções de atribuição \nanteriormente. A outra categoria abrangente de instrução são as estruturas de controle, como as",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 76,
+    "totalChunks": 10000
+  }
+}

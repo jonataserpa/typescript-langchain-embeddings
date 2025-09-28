@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1591",
+  "content": "Java f e out criados anteriormente\nout.write(\"Hello World\\n\");\nout.close();\nvar len = f.length();\nO Rhino também permite que código JavaScript consulte e configure os campos estáticos de classes \nJava e os campos de instância de objetos Java. As classes Java frequentemente evitam a definição de \ncampos públicos, favorecendo métodos getter e setter. Quando existem métodos getter e setter, o \nRhino os expõe como propriedades de JavaScript:\n// Lê um campo estático de uma classe Java\nvar stdout = java.lang.System.out;\n// O Rhino mapeia métodos getter e setter em propriedades únicas de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1591,
+    "totalChunks": 10000
+  }
+}

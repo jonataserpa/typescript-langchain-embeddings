@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3203",
+  "content": "error. O primeiro argumento da callback complete é o objeto XMLHttpRequest e o segundo \né o código de status.\n19.6.3.3   Opções incomuns e ganchos\nAs opções Ajax a seguir não são muito usadas. Algumas especificam opções que você provavelmente \nnão vai configurar e outras fornecem ganchos de personalização para aqueles que precisam modificar \no tratamento padrão da jQuery para requisições Ajax.\nasync\nOs scripts de requisições HTTP são assíncronos por sua própria natureza. Contudo, o objeto \nXMLHttpRequest oferece a opção de bloquear até que a resposta seja recebida. Configure \nessa opção",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3203,
+    "totalChunks": 10000
+  }
+}

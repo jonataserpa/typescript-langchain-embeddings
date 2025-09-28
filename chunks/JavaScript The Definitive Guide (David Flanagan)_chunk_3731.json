@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3731",
+  "content": "ation-API/) permite aos programas JavaScript soli-\ncitar ao navegador a localização real do usuário. Os aplicativos que reconhecem a localização podem \nexibir mapas, direções e outras informações relevantes à posição atual do usuário. Evidentemente, \naqui existem preocupações significativas quanto à privacidade, e os navegadores que suportam a API \nGeolocation sempre perguntam ao usuário antes de permitir que um programa JavaScript acesse a \nlocalização física onde ele está.\nOs navegadores que suportam a API Geolocation definem \nnavigator.geolocation. Essa propriedade \nse refere a um objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3731,
+    "totalChunks": 10000
+  }
+}

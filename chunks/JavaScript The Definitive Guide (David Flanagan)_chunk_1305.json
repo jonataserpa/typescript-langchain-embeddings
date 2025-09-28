@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1305",
+  "content": "ades não enumeráveis. O \nExemplo 9-17 demonstra como fazer isso com Object.defineProperty() e também mostra como se \ndefine uma função getter e como testar se um objeto é extensível.\nExemplo 9-17 Definindo propriedades não enumeráveis\n// Encerra nosso código em uma função para que possamos definir variáveis no escopo da \n// função\n(function() {\n    // Define objectId como uma propriedade não enumerável herdada por todos os objetos.\n    // Quando essa propriedade é lida, a função getter é chamada.\n    // Ela não tem setter; portanto, é somente para leitura.\n    // Ela não é configurável;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1305,
+    "totalChunks": 10000
+  }
+}

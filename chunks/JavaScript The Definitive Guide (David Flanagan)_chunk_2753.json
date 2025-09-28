@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2753",
+  "content": "L em seu nome e vamos ver posteriormente que uma das propriedades do objeto XMLHttpRequest se \nchama \nresponseXML. Parece que XML é uma parte importante dos scripts HTTP, mas não é. Esses nomes \nsão o legado histórico da época em que XML era um jargão poderoso. As técnicas Ajax trabalham com \ndocumentos XML, é claro, mas o uso de XML é puramente opcional e na verdade se tornou relativamente \nraro. A especificação XMLHttpRequest apresenta as inadequações do nome que preservamos:\nO nome do objeto é XMLHttpRequest por compatibilidade com a Web, embora cada componente \ndesse nome seja",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2753,
+    "totalChunks": 10000
+  }
+}

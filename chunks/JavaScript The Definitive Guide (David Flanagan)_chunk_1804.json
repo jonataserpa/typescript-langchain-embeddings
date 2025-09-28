@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1804",
+  "content": "dida \npela Yahoo! que traz algum equilíbrio à normalmente descontrolada proliferação de variantes de \nfornecedores/versão/sistema operacional de navegadores. Sucintamente, o graded browser support \nenvolve escolher navegadores “grau A” que recebem suporte e teste totais e identificar navegadores \n“grau C” que não são suficientemente poderosos. Os navegadores grau A recebem páginas Web \ncompletas e os navegadores grau C funciona versões mínimas, somente de HTML das páginas \nque não exigem JavaScript ou CSS. Os navegadores que não são nem grau A, nem grau C são \ndenominados grau X: normalmente,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1804,
+    "totalChunks": 10000
+  }
+}

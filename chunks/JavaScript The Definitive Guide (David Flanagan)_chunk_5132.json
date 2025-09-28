@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5132",
+  "content": "size linhas de altura na janela do navegador. Se size é menor do que o número \nde opções, a caixa de listagem inclui uma barra de rolagem. Por outro lado, se size é 1 e multiple \nnão é especificado, a opção atualmente selecionada é exibida em uma única linha e a lista das outras \nopções se torna disponível por meio de um menu suspenso. O primeiro estilo de apresentação exibe \nas opções claramente, mas exige mais espaço na janela do navegador. O segundo estilo exige espaço \nmínimo, mas não exibe as opções alternativas tão explicitamente. size tem como padrão 4 quando \no atributo multiple é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5132,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3733",
+  "content": "mero \nretornado pela chamada correspondente de watchPosition().\nNos dispositivos que contêm hardware GPS, podem ser obtidas informações de localização muito \nprecisas. Em geral, contudo, as informações de localização vêm por meio da Web. Se um navegador \n\n654          Parte II     JavaScript do lado do cliente\nenvia seu endereço IP de Internet para um serviço Web, normalmente pode determinar (com base \nnos registros do ISP) em qual cidade você está (e é comum anunciantes fazerem isso no lado do \nservidor). Muitas vezes, um navegador pode obter uma localização ainda mais precisa, solicitando",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3733,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3508",
+  "content": "atividade da rede e até, durante a reprodução, à simples passa-\ngem do tempo – e acabamos de ver que esses elementos têm muitas propriedades que definem seus \nestados atuais. Assim como a maioria dos elementos HTML, <audio> e <video> disparam eventos \nquando seus estados mudam. Como esses elementos têm um estado muito complicado, podem \ndisparar muitos eventos.\nA tabela a seguir resume os 22 eventos de mídia, na ordem em que provavelmente ocorrem. Não \nexistem propriedades de registro para esses eventos. Use o método \naddEventListener() do elemento \n<audio> ou <video> para registrar funções",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3508,
+    "totalChunks": 10000
+  }
+}

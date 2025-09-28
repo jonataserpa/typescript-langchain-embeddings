@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2858",
+  "content": "igem (Seção 13.6.2), o objeto XMLHttpRequest \nnormalmente pode fazer requisições HTTP somente para o servidor do qual o documento que o uti-\nliza foi baixado. Essa restrição fecha brechas de segurança, mas é autoritária e também impede vários \nusos legítimos de requisições de várias origens. Você pode usar URLs de várias origens com elementos \n<form> e <iframe>, e o navegador vai exibir o documento de origem múltipla resultante. Mas, por \ncausa da política da mesma origem, o navegador não vai permitir que o script original inspecione o \nconteúdo do documento com várias origens. Com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2858,
+    "totalChunks": 10000
+  }
+}

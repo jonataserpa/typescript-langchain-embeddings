@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4901",
+  "content": "ice)\nHTMLOptionsCollection  herda  esse  método  de  HTMLCollection.  Ele  retorna  o  elemento  no  \níndice especificado ou null, caso índice esteja fora do limite. Você também pode indexar a coleção \ndiretamente com colchetes, em vez de chamar esse método explicitamente.\nobject namedItem(string nome)\nEsse método retorna todos os elementos Option da coleção que tenham o nome ou a identificação \nespecificada. Se nenhum elemento corresponder, retorna null. Se um elemento Option correspon-\nder, retorna esse elemento. Se mais de um elemento corresponder, retorna um NodeList desses ele-\nmentos.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4901,
+    "totalChunks": 10000
+  }
+}

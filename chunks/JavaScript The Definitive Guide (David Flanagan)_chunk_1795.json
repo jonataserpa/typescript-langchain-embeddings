@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1795",
+  "content": "e capítulo, os navegado-\nres correntes (não beta) eram:\n •Internet Explorer 8\n •Firefox 3.6\n •Safari 5\n •Chrome 5\n •Opera 10.10\nQuando este livro chegar às livrarias, os navegadores atuais provavelmente vão ser Internet Explorer 9, \nFirefox 4, Safari 5, Chrome 11 e Opera 11.\nIsso não é uma garantia de que toda declaração neste livro sobre “navegadores atuais” seja verdadeira \npara cada um desses navegadores específicos. Contudo, permite saber quais navegadores representavam \na tecnologia corrente quando este livro foi escrito.\nA quinta edição deste livro usou a frase “navegadores modernos”,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1795,
+    "totalChunks": 10000
+  }
+}

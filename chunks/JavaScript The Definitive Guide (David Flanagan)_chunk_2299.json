@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2299",
+  "content": "CSS foi dividida em vários módulos \nespecializados que estão passando pelo processo de padronização separadamente. A especificações \nCSS e os documentos de trabalho podem ser encontrados no endereço http://www.w3.org/Style/CSS/\ncurrent-work.\n16.1.3   Propriedades de atalho\nCertas propriedades de estilo em geral utilizadas em conjunto podem ser combinadas com proprie-\ndades de atalho especiais. Por exemplo, as propriedades font-family, font-size, font-style e fon-\ntweight podem ser configuradas todas de uma vez usando-se uma única propriedade font com um \nvalor composto:\nfont: bold italic",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2299,
+    "totalChunks": 10000
+  }
+}

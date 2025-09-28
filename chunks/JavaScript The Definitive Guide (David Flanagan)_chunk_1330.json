@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1330",
+  "content": "emplo 9-7. Aquela função armazenava as instâncias de cada tipo enumeração em \npropriedades do objeto construtor e também no array \nvalues da construtora. Essas propriedades e \nesse array servem como uma lista oficial das instâncias do tipo enumeração e é interessante congelá-\n-las para que novas instâncias não possam ser adicionadas e as instâncias já existentes não possam \nser excluídas nem alteradas. Na função enumeration(), podemos simplesmente adicionar as seguintes \nlinhas de código:\nObject.freeze(enumeration.values);\nObject.freeze(enumeration);\nObserve que, chamando Object.freeze() no",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1330,
+    "totalChunks": 10000
+  }
+}

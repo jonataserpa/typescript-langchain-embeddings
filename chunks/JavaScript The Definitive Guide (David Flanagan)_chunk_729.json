@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_729",
+  "content": "serialnum = {\n    // Esta propriedade de dados contém o próximo número serial.\n    // O $ no nome da propriedade sugere que se trata de uma propriedade privada.\n    $n:    0,\n    // Retorna o valor atual e o incrementa\n    get next() { return this.$n++; },\n    // Configura um novo valor de n, mas somente se for maior do que o atual\n    set next(n) {\n        if (n >= this.$n) this.$n = n;\n        else throw \"serial number can only be set to a larger value\";\n }\n};\nPor fim, aqui está mais um exemplo que usa um método getter para implementar uma propriedade \ncom comportamento “mágico”.\n// Este",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 729,
+    "totalChunks": 10000
+  }
+}

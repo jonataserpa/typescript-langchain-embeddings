@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5443",
+  "content": "núsculas) em expressões regulares, 253\niçamento, 53, 160\nidentifi cadores\n    caracteres de controle de formato e, 22\n    defi nição, 23\n    em expressões de acesso à propriedade, 59\n    em instruções rotuladas, 100\nidentifi cadores de fragmento em URLs, 657\nimagens\n    desenhando no canvas, 641–643, 851–852\n    exibindo arquivos de imagem soltos com URLs de \nBlob, 680\n    extraindo conteúdo do canvas como, 642\n    objeto Image, 924\n    script,    599\n    trocas de imagem não invasivas, 600\n    Web Worker para processamento de imagem \n(exemplo), 669\nimportNode( ), objeto Document, 372,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5443,
+    "totalChunks": 10000
+  }
+}

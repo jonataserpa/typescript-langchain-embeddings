@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2147",
+  "content": "380          Parte II     JavaScript do lado do cliente\n15.8   Geometria e rolagem de documentos e elementos\nAté aqui, neste capítulo, consideramos os documentos como árvores abstratas de elementos e nós \nde texto. Mas quando um navegador renderiza um documento dentro de uma janela, ele cria uma \nrepresentação visual do documento na qual cada elemento tem uma posição e um tamanho. Fre-\nquentemente, os aplicativos Web podem tratar os documentos como árvores de elementos e nunca \nprecisam pensar em como esses elementos são renderizados na tela. Às vezes, no entanto, é necessário \ndeterminar a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2147,
+    "totalChunks": 10000
+  }
+}

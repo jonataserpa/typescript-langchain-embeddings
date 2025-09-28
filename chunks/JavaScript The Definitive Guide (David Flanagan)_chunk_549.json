@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_549",
+  "content": "avalia \nas expressões case, na ordem em que aparecem, até encontrar um valor que coincida\n1\n. O case coin-\ncidente é determinado usando-se o operador de identidade === e não o operador de igualdade ==, de \nmodo que as expressões devem coincidir sem qualquer conversão de tipo.\nComo nem todas as expressões \ncase são avaliadas sempre que a instrução switch é executada, você \ndeve evitar o uso de expressões case que contenham efeitos colaterais, como chamadas de função \nou atribuições. O caminho mais seguro é simplesmente limitar suas expressões case às expressões \nconstantes.\nCo\nnforme explicado",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 549,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5182",
+  "content": "retados como um número em ponto flutuante, usan-\ndo ordem de byte da plataforma.\nConforme seus nomes implicam, esses são objetos semelhantes a um array e você pode obter e con-\nfigurar valores de elemento usando notação de array normal com colchetes. Note, entretanto, que \nobjetos desses tipos sempre têm um comprimento fixo.\n\n      Referência de JavaScript do lado do cliente      981\nReferência de \nJavaScript do lado \ndo cliente\nConforme observado nas descrições anteriores, as classes TypedArray usam a ordem de byte padrão \nda plataforma subjacente. Consulte DataView para um modo de exibição",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5182,
+    "totalChunks": 10000
+  }
+}

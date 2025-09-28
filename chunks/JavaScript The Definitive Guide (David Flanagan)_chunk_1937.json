@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1937",
+  "content": "l sobrescreve o valor implícito da \npropriedade.\nNa Seção 15.2, você vai aprender que pode pesquisar elementos de documento pelo valor de seu \natributo HTML \nid, usando o método document.getElementById(). Considere este exemplo:\nvar ui = [\"input\",\"prompt\",\"heading\"];    // Um array de identificações de elemento\nui.forEach(function(id) {                // Para cada identificação, pesquisa o elemento\n    ui[id] = document.getElementById(id); // e o armazena em uma propriedade\n});\nApós a execução desse código, ui.input, ui.prompt e ui.heading se referem a elementos do documen-\nto. Um script",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1937,
+    "totalChunks": 10000
+  }
+}

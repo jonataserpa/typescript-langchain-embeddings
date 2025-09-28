@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_990",
+  "content": "fiquemos \n// explicitamente.\n\nCapítulo     8     Funções          175\nJavaScript básica\nvar extend = (function() {      // Atribui o valor de retorno dessa função\n    // Primeiramente, verifica a presença do erro, antes de usar o patch.\n    for(var p in {toString:null}) {\n        // Se chegamos aqui, então o laço for/in funciona corretamente e retornamos\n        // uma versão simples da função extend()\n        return function extend(o) {\n            for(var i = 1; i < arguments.length; i++) {\n                var source = arguments[i];\n                for(var prop in source) o[prop] =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 990,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3069",
+  "content": "ento e as disparam quando chamados sem argumen-\ntos. Por exemplo:\n$(\"#my_form\").submit();         // Age como se o usuário tivesse clicado no botão Submit\nO método submit() na linha anterior sintetiza um objeto Event e dispara qualquer rotina de tra-\ntamento de evento que tenha sido registrada para o evento submit. Se nenhuma dessas rotinas de \ntratamento de evento retornar \nfalse ou chamar o método preventDefault() do objeto Event, o for-\nmulário será realmente enviado. Note que os eventos que borbulham vão borbulhar mesmo quando \ndisparados manualmente dessa forma. Isso significa que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3069,
+    "totalChunks": 10000
+  }
+}

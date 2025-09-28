@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2903",
+  "content": "rn;\n      }\n   }\n            // Monitora o quanto recebemos e obtém apenas a\n            // parte da resposta que ainda não processamos.\n            var chunk = xhr.responseText.substring(charsReceived);\n            charsReceived = xhr.responseText.length;\n            // Decompõe o trecho de texto em linhas e itera por elas.\n            var lines = chunk.replace(/(\\r\\n|\\r|\\n)$/, \"\").split(/\\r\\n|\\r|\\n/);\n            for(var i = 0; i < lines.length; i++) {\n                var line = lines[i], pos = line.indexOf(\":\"), name, value=\"\";\n                if (pos == 0) continue; // Ignora comentários",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2903,
+    "totalChunks": 10000
+  }
+}

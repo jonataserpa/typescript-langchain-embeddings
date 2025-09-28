@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5437",
+  "content": "ando novo objeto que herda do protótipo, 116\n    enumeração de propriedades e, 123\n    favorecendo a composição em detrimento da, em \ndesign orientado a objeto, 227\n    propriedades de acesso, 127\n    propriedades de objeto, 119\n    subclasses,    224\nhiperlinks, 308\n    marcando destino de, 309\n    objetos Link, 946\n    rotina de tratamento de evento onclick, 391\nhistórico de navegação, 336\n    mecanismo de gerenciamento de histórico em \nHTML5, 442, 656–661\n    objeto History, 920\n    transição, PopStateEvent, 966\nhora, 736\n (consulte também datas e hora)\n    função Date.getTime( ), 750",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5437,
+    "totalChunks": 10000
+  }
+}

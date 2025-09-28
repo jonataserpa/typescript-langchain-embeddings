@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1194",
+  "content": "ue enumerados\n    // Agora cria as instâncias desse novo tipo.\n    for(name in namesToValues) {       // Para cada valor\n        var e = inherit(proto);        // Cria um objeto para representá-lo\n        e.name = name;        // Dá um nome a ele\n        e.value = namesToValues[name];  // E um valor\n        enumeration[name] = e;         // Torna-o uma propriedade da construtora\n        enumeration.values.push(e);    // E armazena no array values\n }\n    // Um método de classe para iterar entre as instâncias da classe\n    enumeration.foreach = function(f,c) {\n        for(var i = 0; i <",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1194,
+    "totalChunks": 10000
+  }
+}

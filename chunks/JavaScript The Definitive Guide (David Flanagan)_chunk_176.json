@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_176",
+  "content": "ção da pri-\nmeira linha. A primeira exceção envolve as instruções return, break e continue (consulte o Capítulo \n5). Essas instruções frequentemente aparecem sozinhas, mas às vezes são seguidas por um identifica-\ndor ou por uma expressão. Se uma quebra de linha aparece depois de qualquer uma dessas palavras \n(antes de qualquer outro sinal), JavaScript sempre interpreta essa quebra de linha como um ponto e \nvírgula. Por exemplo, se você escreve:\nreturn\ntrue;\nJavaScript presume que você quis dizer:\nreturn; true;\nContudo, você provavelmente quis dizer:\nreturn true;\n\nCapítulo 2     Estrutura",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 176,
+    "totalChunks": 10000
+  }
+}

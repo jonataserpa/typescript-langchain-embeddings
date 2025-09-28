@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4018",
+  "content": "s classes estão em ordem alfabética por seus \nnomes completos, os quais incluem os nomes das classes que os definem. Por exemplo, se quisesse \nler a respeito do método \nreplace() da classe String, você procuraria String.replace() e não apenas \nreplace.\nJavaScript básica define algumas funções e propriedades globais, como \neval() e NaN. Tecnicamente, \nessas são propriedades do objeto global. Contudo, como o objeto global não tem nome, elas estão \nlistadas nesta seção de referência sob seus próprios nomes não qualificados. Por conveniência, o con-\njunto completo de funções e propriedades",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4018,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2338",
+  "content": "icam ambas espaço em branco em torno de um elemento. \nA diferença importante é que margin especifica espaço fora da borda, entre a borda e os elementos \nadjacentes, e padding especifica espaço dentro da borda, entre a borda e o conteúdo do elemento. \nUma margem fornece espaço visual entre um elemento (possivelmente com bordas) e seus vizinhos \nno fluxo normal do documento. O preenchimento mantém o conteúdo do elemento visualmente \nseparado de sua borda. Se um elemento não tem bordas, o preenchimento em geral não é necessário. \nSe um elemento é posicionado dinamicamente, ele não faz parte do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2338,
+    "totalChunks": 10000
+  }
+}

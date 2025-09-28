@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_963",
+  "content": "método \narraycopy() mostrado an-\nteriormente. Ele espera um array como primeiro argumento. Qualquer implementação plausível \nvai falhar se esse primeiro argumento for algo que não seja um array (ou possivelmente um objeto \nsemelhante a um array). A não ser que você esteja escrevendo uma função “descartável” que vai ser \nchamada apenas uma ou duas vezes, pode ser interessante adicionar código para verificar os tipos dos \nargumentos. É melhor que uma função falhe imediata e previsivelmente quando são passados valores \nincompatíveis do que comece a executar e falhe com uma mensagem de erro que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 963,
+    "totalChunks": 10000
+  }
+}

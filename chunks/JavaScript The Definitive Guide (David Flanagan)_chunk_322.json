@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_322",
+  "content": "vel global\nfunction checkscope() {\n    var scope = \"local\";        // Declara uma variável local com o mesmo nome\n    return scope;     // Retorna o valor local, não o global\n}\ncheckscope()           // => \"local\"\nEmbora seja possível não utilizar a instrução var ao escrever código no escopo global, var sempre \ndeve ser usada para declarar variáveis locais. Considere o que acontece se você não faz isso:\nscope = \"global\";      // Declara uma variável global, mesmo sem var.\nfunction checkscope2() {\n    scope = \"local\";   // Opa! Simplesmente alteramos a variável global.\n    myscope = \"local\";",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 322,
+    "totalChunks": 10000
+  }
+}

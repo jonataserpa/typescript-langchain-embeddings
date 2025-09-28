@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_615",
+  "content": "bloco finally é sim-\nplesmente código de limpeza que garantidamente é executado, independente do que aconteça no \nbloco \ntry. Lembre-se de que não podemos simular completamente um laço for com um laço whi-\nle\n, pois a instrução continue se comporta diferentemente para os dois laços. Se adicionamos uma \ninstrução \ntry/finally, podemos escrever um loop while que funciona como um laço for e que trata \ninstruções \ncontinue corretamente:\n// Simula o corpo de for( inicialização ; teste ; incremento );\ninicialização ;\nwhile( teste ) {\n    try    {    corpo ; }\n    finally    {    incremento ;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 615,
+    "totalChunks": 10000
+  }
+}

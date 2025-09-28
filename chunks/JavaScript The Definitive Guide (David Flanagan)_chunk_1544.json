@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1544",
+  "content": "counter(10);   // Cria o gerador em 10\nconsole.log(c.next());          //          Imprime          10\nconsole.log(c.send(2));         //         Imprime         12\nconsole.log(c.throw(\"reset\"));  //  Imprime  10\n11.4.4   Array   comprehension\nArray comprehension é outro recurso que JavaScript 1.7 emprestou da Python. Trata-se de uma \ntécnica para inicializar os elementos de um array a partir dos (ou com base nos) elementos de \noutro array ou objeto iterável. A sintaxe dos array comprehensions é baseada na notação ma-\ntemática de definição dos elementos de um conjunto, ou seja, expressões e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1544,
+    "totalChunks": 10000
+  }
+}

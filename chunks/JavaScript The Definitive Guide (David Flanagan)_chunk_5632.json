@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5632",
+  "content": "diferente de zero, 621\nregras, estilo, 403, 869\n    consultando, inserindo e excluindo em folhas de \nestilo, 430\nregras de estilo, 403\nremoveAttribute( ), objeto Element, 367, 891–892\nremoveAttributeNS( ), objeto Element, 891–892\nrepetição em expressões regulares, 248\n    não gananciosa, 249\nreplaceWholeText( ), nó Text, 978\nresponseText, objeto XMLHttpRequest, 488, 998\n    analisando a resposta, 487\nresponseType, objeto XMLHttpRequest, 998\nresponseXML, objeto XMLHttpRequest, 487, 998\nrespostas HTTP síncronas, 486\nrestore( ), CanvasRenderingContext2D, 622, 862\nretângulos\n    desenhando no",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5632,
+    "totalChunks": 10000
+  }
+}

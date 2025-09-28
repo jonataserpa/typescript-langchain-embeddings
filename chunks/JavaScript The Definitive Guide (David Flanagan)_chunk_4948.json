@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4948",
+  "content": "l, que \nestejam incluídos no objeto semelhante a um array elts ou para os quais a função predicado f \nretorna true quando chamada como método do elemento.\nfind(sel)\nSeleciona todos os descendentes de qualquer elemento selecionado que corresponda a sel.\nfirst()\nSeleciona apenas o primeiro elemento selecionado.\nhas(sel)\nhas(elt)\nFiltra a seleção para incluir apenas os elementos selecionados com um descendente correspon-\ndente a sel ou que sejam ascendentes de elt.\nlast()\nSeleciona apenas o último elemento selecionado.\nnext([sel])\nSeleciona o próximo irmão de cada elemento selecionado. Se sel é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4948,
+    "totalChunks": 10000
+  }
+}

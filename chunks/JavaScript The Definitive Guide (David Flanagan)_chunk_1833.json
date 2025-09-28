@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1833",
+  "content": "liente. Isso \nsignifica que um programa JavaScript não pode excluir dados nem disseminar vírus. (Mas consulte a \nSeção 22.6.5 para saber como JavaScript pode ler arquivos selecionados pelo usuário e a Seção 22.7 \npara saber como ela pode obter um sistema de arquivos privado seguro dentro do qual pode ler e \ngravar arquivos.)\nDa mesma forma, JavaScript do lado do cliente não tem qualquer recurso de conexão em rede de uso \ngeral. Um programa JavaScript do lado do cliente pode fazer script do protocolo HTTP (consulte o \nCapítulo 18). E outro padrão associado ao HTML5, conhecido como WebSockets,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1833,
+    "totalChunks": 10000
+  }
+}

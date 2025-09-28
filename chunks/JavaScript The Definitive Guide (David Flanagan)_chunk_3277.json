@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3277",
+  "content": "ais apropriados. \nCom o seletor, eles filtram a lista para retornar apenas os coincidentes.\nO método \nchildren() retorna os elementos filhos imediatos de cada elemento selecionado, filtrando-\n-os com um seletor opcional:\n// Localiza todos os elementos <span> que são filhos diretos dos elementos com\n// identificações \"header\" e \"footer\". O mesmo que $(\"#header>span,#footer>span\")\n$(\"#header, #footer\").children(\"span\")\nO método contents() é semelhante a children(), mas retorna todos os nós filhos, incluindo nós de \ntexto, de cada elemento. Além disso, se qualquer um dos elementos selecionados é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3277,
+    "totalChunks": 10000
+  }
+}

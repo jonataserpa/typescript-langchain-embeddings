@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3390",
+  "content": "meio da propriedade mágica document.cookie\n        document.cookie = cookie;\n    };\n    // Remove o cookie especificado\n    this.removeItem = function(key) {\n        if (!(key in cookies)) return;  // Se ele não existe, não faz nada\n\nCapítulo 20     Armazenamento no lado do cliente      585\nJavaScript do\n lado do cliente\n        // Exclui o cookie de nosso conjunto interno de cookies\n        delete    cookies[key];\n        // E remove a chave do array de nomes também.\n        // Isso seria mais fácil com o método de array ES5 indexOf().\n        for(var i = 0; i < keys.length; i++) {   //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3390,
+    "totalChunks": 10000
+  }
+}

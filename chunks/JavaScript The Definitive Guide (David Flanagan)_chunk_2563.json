@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2563",
+  "content": "tratamento de evento têm escopo léxico. \nElas são executadas no escopo em que são definidas, não no escopo no qual são chamadas, e podem \nacessar qualquer variável local desse escopo. (Isso está demonstrado na função addEvent() anterior, \npor exemplo.)\nNo entanto, as rotinas de tratamento de evento registradas como atributos HTML são um caso es-\npecial. Elas são convertidas em funções de nível superior que têm acesso às variáveis globais, mas não \nàs variáveis locais. Porém, por motivos históricos, elas são executadas com um encadeamento de es-\ncopo modificado. As rotinas de tratamento de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2563,
+    "totalChunks": 10000
+  }
+}

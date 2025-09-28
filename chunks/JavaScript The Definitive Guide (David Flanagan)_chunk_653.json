@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_653",
+  "content": "r da expressão \n(pode ser um valor primitivo ou um valor de objeto) se torna o valor da propriedade. Aqui estão \nalguns exemplos:\nvar empty = {};                 // Um objeto sem propriedades\nvar point = { x:0, y:0 };                // Duas propriedades\nvar point2 = { x:point.x, y:point.y+1 };   // Valores mais complexos\nvar book = {\n    \"main title\": \"JavaScript\",          // Os nomes de propriedade incluem espaços,\n    'sub-title': \"The Definitive Guide\",  // e hifens; portanto, usam strings literais\n    \"for\": \"all audiences\",               // for é uma palavra reservada; portanto, usa \n//",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 653,
+    "totalChunks": 10000
+  }
+}

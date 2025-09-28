@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3107",
+  "content": "os, baseados no tipo de efeito que realizam:\nfadeIn(), fadeOut(), fadeTo()\nEsses são os efeitos mais simples: fadeIn() e fadeOut() simplesmente animam a propriedade \nCSS \nopacity para exibir ou ocultar um elemento. Ambos aceitam argumentos de duração e \nretorno de chamada opcionais. \nfadeTo() é ligeiramente diferente: ele espera um argumento \nde opacidade final e anima a alteração da opacidade atual do elemento até esse final. Para \no método\n fadeTo(), a duração (ou objeto opções) é exigida como primeiro argumento e a \nopacidade final é exigida como segundo argumento. A função callback é um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3107,
+    "totalChunks": 10000
+  }
+}

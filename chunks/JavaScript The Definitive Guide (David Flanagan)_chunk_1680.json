@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1680",
+  "content": "eal *.handle { display: block;} /* Exceto para o filho de class=\"handle\" */\n</style>\n<script>\n// Não faz nada até que o documento inteiro esteja carregado\nwindow.onload = function() {\n    // Localiza todos os elementos contêiner com classe \"reveal\"\n    var elements = document.getElementsByClassName(\"reveal\");\n    for(var i = 0; i < elements.length; i++) {   // Para cada um...\n        var elt = elements[i];\n        // Localiza o elemento \"handle\" com o contêiner\n        var title = elt.getElementsByClassName(\"handle\")[0];\n        // Quando esse elemento é clicado, exibi o restante do conteúdo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1680,
+    "totalChunks": 10000
+  }
+}

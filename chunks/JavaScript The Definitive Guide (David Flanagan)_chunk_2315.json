@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2315",
+  "content": "Todos os navegadores atuais (incluindo o \nIE9 e posteriores) suportam esta nova funcionalidade, com prefixos do fornecedor. O Safari suporta até \numa extensão que permite transformações tridimensionais, mas não está claro se outros navegadores vão \nseguir o exemplo.\n\nCapítulo 16     Escrevendo script de CSS      409\nJavaScript do\n lado do cliente\n16.2.1   Posicionando elementos com CSS\nA propriedade CSS position especifica o tipo de posicionamento aplicado a um elemento. Aqui \nestão os quatro valores possíveis para essa propriedade:\nstatic\nEsse é o valor padrão e especifica que o elemento é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2315,
+    "totalChunks": 10000
+  }
+}

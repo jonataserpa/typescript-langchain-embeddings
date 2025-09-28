@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4235",
+  "content": "conhecido como NaN) que representa um número inválido (como o \nresultado de zero dividido por zero). isNaN() testa se seu argumento não é um número. Essa função \nretorna false se x é (ou pode ser convertido em) um número diferente de NaN. Retorna true se x não \né (e não pode ser convertido em) um número ou se é igual a \nNaN.\nNaN tem a propriedade especial de não ser igual a valor algum, incluindo a si mesmo. Assim, se quiser \ntestar especificamente o valor NaN, em vez de testar genericamente qualquer coisa que não seja núme-\nro, não escreva x === NaN: isso sempre vai ser false. Em vez disso,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4235,
+    "totalChunks": 10000
+  }
+}

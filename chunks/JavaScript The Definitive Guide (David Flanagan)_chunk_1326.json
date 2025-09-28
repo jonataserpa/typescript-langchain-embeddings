@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1326",
+  "content": "vas propriedades e também transforma todas as propriedades atuais em não \nconfiguráveis, de modo que não podem ser excluídas. (No entanto, uma propriedade não configu-\n\n236          Parte     I     JavaScript     básica\nrável ainda pode ser gravável e ainda pode ser convertida em uma propriedade somente de leitura.) \nPara impedir extensões em Object.prototype, basta escrever:\nObject.seal(Object.prototype);\nOutro recurso dinâmico de JavaScript é a capacidade de substituir (ou fazer “monkey-patch”) mé-\ntodos de um objeto:\nvar original_sort_method = Array.prototype.sort;\nArray.prototype.sort =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1326,
+    "totalChunks": 10000
+  }
+}

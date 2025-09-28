@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5548",
+  "content": "45\n        URL javascript: como argumento, 307\n    método postMessage( ), 328, 662\n        gadget de pesquisa do Twitter controlado por, \n663–665\n    método scroll( ), 384\n    método setInterval( ), 333\n    método setTimeout( ), 333\n    métodos,    988\n    métodos alert( ), confi rm( ) e prompt( ), 339\n    métodos scrollTo( ) e scroll( ), 384\n    ponto de entrada em JavaScript do lado do clien-\nte, 299\n    propriedade applicationCache, 590\n    propriedade closed, 347\n    propriedade dialogArguments, 340\n    propriedade document, 300, 351\n    propriedade event, 448\n    propriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5548,
+    "totalChunks": 10000
+  }
+}

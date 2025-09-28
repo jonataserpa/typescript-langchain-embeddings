@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5008",
+  "content": "true somente se x é um array verdadeiro de JavaScript.\njQuery.isEmptyObject(x):boolean\nRetorna true somente se x não tem propriedades enumeráveis.\njQuery.isFunction(x):boolean\nRetorna true somente se x é uma função de JavaScript.\njQuery.isPlainObject(x):boolean\nRetorna true somente se x é um objeto JavaScript puro, como um criado por um objeto literal.\njQuery.isXMLDoc(x):true\nRetorna true somente se x é um documento XML ou um elemento de um documento XML.\njQuery.makeArray(a):array\nRetorna um novo array de JavaScript contendo os mesmos elementos do objeto semelhante a \num array",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5008,
+    "totalChunks": 10000
+  }
+}

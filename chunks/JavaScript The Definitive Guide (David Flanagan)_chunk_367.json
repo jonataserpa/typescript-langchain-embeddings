@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_367",
+  "content": "completos sobre invocação de função, incluindo uma explicação \nsobre o que acontece quando o número de expressões de argumento não corresponde ao número de \nparâmetros na definição da função, estão no Capítulo 8.\nToda expressão de invocação contém um par de parênteses e uma expressão antes do parêntese de \nabertura. Se essa expressão é uma expressão de acesso à propriedade, então a chamada é conhecida \ncomo invocação de método. Nas invocações de método, o objeto ou array sujeito ao acesso à pro-\npriedade se torna o valor do parâmetro \nthis enquanto o corpo da função está sendo executado.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 367,
+    "totalChunks": 10000
+  }
+}

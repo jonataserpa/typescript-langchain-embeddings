@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5260",
+  "content": "carrega o conteúdo do URL e executa esse conteúdo como código JavaScript. Note que esse \né um método síncrono. Ele carrega e executa cada arquivo por sua vez e não retorna até que todos os \nscripts tenham executado. (Contudo, se algum script lançar uma exceção, essa exceção vai se propa-\ngar e impedir que quaisquer URLs subsequentes sejam carregados e executados.)\nvoid postMessage(any mensagem, [MessagePort[] portas])\nEnvia uma mensagem (e opcionalmente um array de portas) para a thread que gerou esse worker. \nChamar esse método faz um evento message ser disparado no objeto Worker da thread",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5260,
+    "totalChunks": 10000
+  }
+}

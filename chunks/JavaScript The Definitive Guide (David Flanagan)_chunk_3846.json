@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3846",
+  "content": "dade data de um Image-\nData é um array de bytes. O padrão HTML chama isso de CanvasPixelArray, mas é basicamente o mesmo \nque Uint8Array descrito aqui, exceto quanto a maneira de tratar de valores fora do intervalo de 0 a 255.\nNote que esses tipos não fazem parte da linguagem básica. É provável que uma futura versão da lingua-\ngem JavaScript inclua suporte para arrays tipados como esses, mas quando este livro estava sendo escrito, \nnão estava claro se a linguagem adotaria a API descrita aqui ou criaria uma nova API.\nAo criar um array tipado, você passa o tamanho do array para a construtora ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3846,
+    "totalChunks": 10000
+  }
+}

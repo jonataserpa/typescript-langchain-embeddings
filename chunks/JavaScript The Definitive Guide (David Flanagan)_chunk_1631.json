@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1631",
+  "content": "método write() retorna \nfalse. Registre uma rotina de tratamento para “drenar” eventos, caso precise saber quando o buffer \ndo Node tiver descarregado e os dados tiverem sido realmente gravados:\n// Fluxo de saída s:\ns.write(buffer);          // Grava dados binários\ns.write(string, encoding) // Grava dados de string. A codificação tem como padrão \"utf-8\"\ns.end()                   // Fecha o fluxo.\ns.end(buffer);            // Grava o trecho final dos dados binários e fecha.\ns.end(str, encoding)      // Grava a string final e fecha tudo em um só\ns.writeable;              // verdadeiro se o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1631,
+    "totalChunks": 10000
+  }
+}

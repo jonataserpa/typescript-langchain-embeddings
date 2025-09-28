@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4274",
+  "content": "() arredonda seu argumento para cima ou para baixo, até o inteiro mais próximo. Arre-\ndonda 0,5 para cima. Por exemplo, arredonda 2,5 para 3 e −2,5 para −2.\nMath.sin()\ncalcula um seno\nSinopse\nMath.sin(x)\nArgumentos\nx\nUm ângulo, em radianos. Para converter graus em radianos, multiplique por 0,017453293 \n(2π/360).\nRetorna\nO seno de \nx. Esse valor de retorno está entre −1,0 e 1,0.\nMath.sqrt()\ncalcula uma raiz quadrada\nSinopse\nMath.sqrt(x)\nArgumentos\nx\nUm valor numérico maior ou igual a zero.\nRetorna\nA raiz quadrada de \nx. Retorna NaN se x é menor do que zero.\nDescrição\nMath.sqrt() calcula a raiz",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4274,
+    "totalChunks": 10000
+  }
+}

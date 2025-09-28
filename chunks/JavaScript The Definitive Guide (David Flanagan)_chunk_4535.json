@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4535",
+  "content": ", \ncom a propriedade lineCap, e como as linhas são unidas, usando a propriedade lineJoin.\nDesenhando retângulos\nVocê pode contornar e preencher retângulos com strokeRect() e fillRect(). Além disso, pode lim-\npar a área definida por um retângulo com clearRect().\nDesenhando imagens\nNa API Canvas, as imagens são especificadas com objetos Image que representam elementos HTML \n<img> ou imagens fora da tela criadas com a construtora Image(). (Consulte a página de referência \nde \nImage para ver os detalhes.) Um elemento <canvas> ou um elemento <video> também podem ser \nusados como fonte de uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4535,
+    "totalChunks": 10000
+  }
+}

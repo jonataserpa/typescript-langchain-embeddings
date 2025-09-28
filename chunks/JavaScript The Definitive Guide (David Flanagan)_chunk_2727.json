@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2727",
+  "content": "evento.\n    if (!keyname) return;\n\n476          Parte II     JavaScript do lado do cliente\n    // A identificação de tecla canônica é modifiers mais o nome da tecla em minúsculas\n    var keyid = modifiers + keyname.toLowerCase();\n    // Agora vê se o identificador de tecla está vinculado a alguma coisa\n    var handler = this.map[keyid];\n    if (handler) {   // Se existe uma rotina de tratamento para essa tecla, trata dela\n        // Chama a função de tratamento\n        var retval = handler.call(element, event, keyid);\n         // Se a rotina de tratamento retorna false, cancela o padrão e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2727,
+    "totalChunks": 10000
+  }
+}

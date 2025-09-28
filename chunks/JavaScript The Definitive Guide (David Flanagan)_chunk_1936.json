@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1936",
+  "content": "mento HTML inclui um elemento cujo atributo \nid é “x” \ne você também declara e atribui um valor para a variável global \nx em seu código, a variável de-\nclarada explicitamente vai ocultar a variável implícita do elemento. Se a variável é declarada em \num script que aparece antes do elemento nomeado, sua existência vai impedir que o elemento \nobtenha sua própria propriedade window. E se a variável é declarada em um script que aparece \ndepois do elemento nomeado, sua atribuição explícita à variável sobrescreve o valor implícito da \npropriedade.\nNa Seção 15.2, você vai aprender que pode pesquisar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1936,
+    "totalChunks": 10000
+  }
+}

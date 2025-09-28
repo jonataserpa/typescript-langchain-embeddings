@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4315",
+  "content": "as propriedades especificados\nSinopse\nObject.create(proto)\nObject.create(proto, descritores)\n\n796          Parte III     Referência de JavaScript básica\nArgumentos\nproto\nO protótipo do objeto recentemente criado ou null.\ndescritores\nUm objeto opcional que mapeia nomes de propriedade em descritores de propriedade.\nRetorna\nUm objeto recentemente criado que herda de \nproto e tem as propriedades descritas por descritores.\nLança\nTypeError\nSe \nproto não é um objeto ou null, ou se descritores é especificado e faz Object.defineProper-\nties() lançar TypeError.\nDescrição\nObject.create() cria e retorna",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4315,
+    "totalChunks": 10000
+  }
+}

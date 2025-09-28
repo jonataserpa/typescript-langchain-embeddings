@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2544",
+  "content": ".2.3   addEventListener()\nNo modelo de evento padrão suportado por todos os navegadores, menos o IE8 e anteriores, qual-\nquer objeto que possa ser um alvo de evento – isso inclui os objetos Window e Document e todos os \nobjetos Element do documento – define um método chamado addEventListener() que pode ser usa-\ndo para registrar uma rotina de tratamento de evento para esse alvo. addEventListener() recebe três \nargumentos. O primeiro é o tipo de evento para o qual a rotina de tratamento está sendo registrada. \nO tipo de evento (ou nome) é uma string e não deve incluir o prefixo “on”, utilizado",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2544,
+    "totalChunks": 10000
+  }
+}

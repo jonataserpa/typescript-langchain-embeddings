@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5409",
+  "content": "XHR2), 1001\neventos progress de carregamento, 495\neventos readystatechange, 453, 486\neventos resize, janelas, 439\n\n1020          Índice\neventos unload, 438\n    objeto BeforeUnloadEvent, 847\neventos wheel (consulte eventos mousewheel)\nexceções\n    Java, tratando como exceção de JavaScript no Rhi-\nno, 285\n    lançadas por objetos Worker, 666\n    lançando,    104\n    tratando com instruções try/catch/fi nally, 104\n        várias cláusulas catch, 276\nexceções StopIteration, 268–269\n    lançadas pelo método next( ) de geradores, 271–\n272\nexecCommand( ), objeto Document, 400, 879\nexecução de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5409,
+    "totalChunks": 10000
+  }
+}

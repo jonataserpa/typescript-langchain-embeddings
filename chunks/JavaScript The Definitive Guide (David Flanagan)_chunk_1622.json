@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1622",
+  "content": "o abordadas na Seção 14.1. A implementação do Node é compa-\ntível com as implementações de navegador Web.\nO Node define outras globais importantes sob o espaço de nomes\n process. Estas são algumas das \npropriedades desse objeto:\nprocess.version  // String de versão do Node\nprocess.argv     // Args de linha de comando como um array argv[0] é \"node\"\nprocess.env      // Variáveis de ambiente como um objeto. por exemplo: process.env.PATH\nprocess.pid      // Identificação de processo\nprocess.getuid() // Retorna a identificação do usuário\nprocess.cwd()    // Retorna o diretório corrente de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1622,
+    "totalChunks": 10000
+  }
+}

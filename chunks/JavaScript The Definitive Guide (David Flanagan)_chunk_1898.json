@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1898",
+  "content": "fica que chamar \nhistory.back() (por exemplo) na janela principal pode fazer uma \ndas janelas filhas navegar de volta para um documento exibido anteriormente, mas deixe a janela \nprincipal em seu estado atual.\nOs aplicativos Web modernos podem alterar seu próprio conteúdo dinamicamente sem carregar um \nnovo documento (consulte os capítulos 15 e 18, por exemplo). Os aplicativos que fazem isso talvez \nqueiram permitir que o usuário utilize os botões Voltar e Avançar para navegar entre esses estados \nde aplicativo criados dinamicamente. HTML5 padroniza duas técnicas para fazer isso e elas estão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1898,
+    "totalChunks": 10000
+  }
+}

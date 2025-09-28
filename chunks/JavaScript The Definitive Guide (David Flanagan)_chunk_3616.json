@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3616",
+  "content": "o-\nnectados. Nos caminhos que definimos na Seção 21.4.1, os pontos eram conectados com segmentos \nde linha retos, mas nem sempre isso precisa ser assim. O objeto CanvasRenderingContext2D define \nvários métodos que adicionam um novo ponto no subcaminho e conectam o ponto atual a esse novo \nponto com uma curva:\narc()\nEste método adiciona um arco no subcaminho atual. Ele conecta o ponto atual ao início do \narco com uma linha reta e, então, conecta o início do arco ao final dele com uma parte de um \ncírculo, deixando a extremidade do arco como o novo ponto atual. O arco a ser desenhado \né",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3616,
+    "totalChunks": 10000
+  }
+}

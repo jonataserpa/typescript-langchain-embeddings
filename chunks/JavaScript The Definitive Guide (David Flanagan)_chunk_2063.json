@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2063",
+  "content": "onjunto de pares nome/valor conhe-\ncidos como atributos. O elemento <a> que define um hiperlink, por exemplo, utiliza o valor de seu \natributo href como destino do link. Os valores de atributo dos elementos HTML estão disponíveis \ncomo propriedades dos objetos HTMLElement que representam esses elementos. O DOM também \ndefine outras APIs para obter e configurar os valores de atributos XML e atributos HTML não pa-\ndronizados. As subseções a seguir têm detalhes.\n15.4.1   Atributos HTML como propriedades de Element\nOs objetos HTMLElement que representam os elementos de um documento HTML definem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2063,
+    "totalChunks": 10000
+  }
+}

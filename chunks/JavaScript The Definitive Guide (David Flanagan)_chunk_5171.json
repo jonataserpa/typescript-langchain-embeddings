@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5171",
+  "content": "grande, usar \nesse método pode ser mais eficiente do que usar String.substring().\nTextArea\numa área de entrada de texto de várias linhas Node, Element, FormControl\nUm objeto TextArea representa um elemento HTML \n<textarea> que cria um campo de entrada de \ntexto de várias linhas, frequentemente dentro de um formulário HTML. O conteúdo inicial da área \nde texto é especificado como texto puro entre as tags <textarea> e </textarea>. Você pode consultar \ne configurar o texto exibido com a propriedade value.\nTextArea é um elemento de controle de formulário como Input e Select. Assim como esses",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5171,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1982",
+  "content": "uma cópia independente da construtora e uma cópia independente do objeto protótipo. Por exem-\nplo, cada janela tem sua própria cópia da construtora String() e do objeto String.prototype. Assim, \nse você escreve um novo método para manipular strings JavaScript e depois o torna um método da \nclasse String, atribuindo-o ao objeto String.prototype na janela atual, todas as strings criadas pelo \ncódigo dessa janela podem usar o novo método. Contudo, o novo método não é acessível para as \nstrings criadas em outras janelas.\nO fato de que cada objeto Window tem seus próprios objetos protótipos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1982,
+    "totalChunks": 10000
+  }
+}

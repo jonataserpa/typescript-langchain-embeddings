@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4949",
+  "content": "o elemento selecionado.\nnext([sel])\nSeleciona o próximo irmão de cada elemento selecionado. Se sel é especificado, exclui os que \nnão correspondem.\nnextAll([sel])\nSeleciona todos os irmãos após cada elemento selecionado. Se sel é especificado, exclui os que \nnão correspondem.\nnextUntil(sel)\nSeleciona os irmãos após cada elemento selecionado, até (mas não incluindo) o primeiro irmão \nque corresponda a sel.\nnot(sel)\nnot(elts)\nnot(f(ind):boolean)\nÉ o oposto de filter(). Filtra a seleção para excluir os elementos que correspondem a sel, que \nestão incluídos em \nelts ou para o quais f retorna",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4949,
+    "totalChunks": 10000
+  }
+}

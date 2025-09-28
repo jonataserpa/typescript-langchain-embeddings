@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3072",
+  "content": "e você dispara um \nevento click e uma das rotinas de tratamento disparadas dispara um evento submit, todas as rotinas \nde tratamento de submit correspondentes são chamadas antes que a próxima rotina de tratamento \nde “click” seja chamada.\nMétodos como submit() são convenientes para vincular e disparar eventos, mas assim como a jQuery \ndefine um método bind() mais geral, define também um método trigger() mais geral. Normalmen-\nte, você chama trigger() com uma string de tipo de evento como primeiro argumento e ele dispara \nas rotinas de tratamento registradas para eventos desse tipo em todos os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3072,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4480",
+  "content": "ry. As en-\ntradas estão organizadas em ordem alfabética por nome de objeto e cada entrada inclui uma lista \ncompleta das constantes, propriedades, métodos e rotinas de tratamento de evento suportadas por \nesse objeto.\nAs edições anteriores deste livro continham uma entrada de referência separada para cada método, \nmas nesta edição o material de referência se tornou mais compacto (sem omitir detalhes) pela inclu-\nsão das descrições de método diretamente na entrada pai.\nPARTE IV\nReferência de JavaScript \ndo lado do cliente\n\nApplicationCache                            DOMException",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4480,
+    "totalChunks": 10000
+  }
+}

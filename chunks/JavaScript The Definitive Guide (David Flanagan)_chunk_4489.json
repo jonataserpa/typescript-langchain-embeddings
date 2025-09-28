@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4489",
+  "content": "he de aplicativo EventTarget\nO objeto ApplicationCache é o valor da propriedade \napplicationCache do objeto Window. Ele defi-\nne uma API para gerenciar atualizações em aplicativos colocados na cache. Para aplicativos colocados \nna cache simples, não há necessidade de usar essa API: basta criar (e atualizar, quando necessário) \num manifesto de cache apropriado, conforme descrito na Seção 20.4. Aplicativos mais complexos \ncolocados na cache que queiram gerenciar atualizações mais ativamente podem usar as propriedades, \nmétodos e rotinas de tratamento de evento descritos aqui. Consulte a Seção",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4489,
+    "totalChunks": 10000
+  }
+}

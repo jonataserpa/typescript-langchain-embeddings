@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_608",
+  "content": "o bloco\n  // try dispara uma exceção. Essas instruções podem usar a variável local\n  // e se referir ao objeto Error ou a outro valor que foi lançado.\n  // Este bloco pode tratar da exceção de algum modo, pode ignorá-la\n  // não fazendo nada ou pode lançar a exceção novamente com throw.\n}\nfinally {\n  // Este bloco contém instruções que são sempre executadas, independente\n  // do que aconteça no bloco try. Elas são executadas se o bloco\n  // try terminar:\n  //     1) normalmente, após chegar ao final do bloco\n  //     2) por causa de uma instrução break, continue ou return\n  //     3) com uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 608,
+    "totalChunks": 10000
+  }
+}

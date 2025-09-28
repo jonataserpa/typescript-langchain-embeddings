@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5198",
+  "content": "s volumes de dados, você pode usar essa propriedade para garantir que não esteja \nenviando mensagens mais rápido do que elas podem ser transmitidas.\nreadonly string protocol\nSe um array de subprotocolos foi passado para a construtora WebSocket(), essa propriedade \ncontém o que foi escolhido pelo servidor. Note que, quando o WebSocket é criado, a conexão \nnão está estabelecida e a escolha do servidor não é conhecida. Assim, essa propriedade começa \ncomo a string vazia. Se você passou protocolos para a construtora, essa propriedade vai mudar \npara refletir a escolha de subprotocolo do servidor,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5198,
+    "totalChunks": 10000
+  }
+}

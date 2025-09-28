@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1618",
+  "content": "é software livre que pode ser baixado no endereço http://nodejs.org. Quando este livro estava \nsendo produzido, o Node ainda estava sendo desenvolvido e distribuições binárias não estavam dispo-\nníveis – era preciso construir sua própria cópia a partir do código-fonte. Os exemplos desta seção foram \nescritos e testados com o Node versão 0.4. A API ainda não está congelada, mas é improvável que os fun-\ndamentos ilustrados aqui mudem muito no futuro.\nO Node tem como base o mecanismo de JavaScript V8 do Google. O Node 0.4 usa V8 versão 3.1, a qual \nimplementa toda ECMAScript 5, exceto o modo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1618,
+    "totalChunks": 10000
+  }
+}

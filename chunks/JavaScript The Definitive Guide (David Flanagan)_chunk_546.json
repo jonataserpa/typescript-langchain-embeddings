@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_546",
+  "content": "lor de sua expressão e continua a executar as instruções até atingir o final \n\n94          Parte     I     JavaScript     básica\ndo bloco. Em raras ocasiões, é útil escrever código como esse, que “passa” de um rótulo case para \no seguinte, mas 99% das vezes deve-se tomar o cuidado de finalizar cada case com uma instrução \nbreak. (Entretanto, ao usar switch dentro de uma função, pode-se utilizar uma instrução return, em \nvez de uma instrução break. Ambas servem para finalizar a instrução switch e impedir que a execução \npasse para o próximo case.)\nAqui está um exemplo mais realista da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 546,
+    "totalChunks": 10000
+  }
+}

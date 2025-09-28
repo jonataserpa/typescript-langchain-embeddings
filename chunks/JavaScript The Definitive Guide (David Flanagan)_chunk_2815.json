@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2815",
+  "content": "enção comum, mas \nde forma alguma é um requisito do protocolo HTTP. Nos últimos anos, o formato JSON ganhou \npopularidade como formato de troca na Web. O Exemplo 18-7 mostra como você poderia codifi-\ncar um corpo de solicitação usando JSON.stringify() (Seção 6.9). Note que esse exemplo difere do \nExemplo 18-5 apenas nas duas últimas linhas.\nExemplo 18-7 Fazendo uma solicitação HTTP POST com um corpo codificado com JSON\nfunction postJSON(url, data, callback) {\n    var request = new XMLHttpRequest();\n    request.open(\"POST\", url);                  // Posta (com POST) no url especificado",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2815,
+    "totalChunks": 10000
+  }
+}

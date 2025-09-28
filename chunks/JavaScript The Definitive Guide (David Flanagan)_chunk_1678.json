@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1678",
+  "content": "evento mais importantes é o handler onload do objeto Win-\ndow. Ela é disparada quando o conteúdo do documento exibido na janela está estável e pronto para \nser manipulado. Normalmente, o código JavaScript fica dentro de um handler de evento onload. \nOs eventos são o tema do Capítulo 17. O Exemplo 13-1 demonstra o handler onload e mostra mais \ncódigo JavaScript do lado do cliente que consulta elementos documento, altera classes CSS e define \nmecanismos de tratamento de evento. O elemento HTML <script> contém o código JavaScript \ndesse exemplo e está explicado na Seção 13.2. Note que o código",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1678,
+    "totalChunks": 10000
+  }
+}

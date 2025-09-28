@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5439",
+  "content": "conteúdo HTML separado do compor-\ntamento JavaScript, 446\n    métodos de classe String, 820–821\n    não diferencia maiúsculas e minúsculas, 21\n    nomes de tag sem diferenciação de maiúsculas e \nminúsculas, 356\n    obtendo e confi gurando atributos com jQuery, \n517\n    rotinas de tratamento de evento, 307\n    script de conteúdo de documento, 9\n    strings, com aspas simples e duplas, 36\n    usando JavaScript para fazer script de conteúdo, \n10\nHTML5, 652–700\n    API arrastar e soltar (DnD), 463\n    API Filesystem, 684–690\n    API Geolocation, 653–656\n    API    Offl  ine Web Applications,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5439,
+    "totalChunks": 10000
+  }
+}

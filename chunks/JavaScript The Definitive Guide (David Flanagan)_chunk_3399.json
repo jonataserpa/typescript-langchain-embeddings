@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3399",
+  "content": "age em \ncima de userData do IE. (Ele não implementa key() nem clear() porque userData não define uma \nmaneira de iterar por todos os itens armazenados.)\nExemplo 20-3 Uma API Storage parcial, baseada em userData do IE\nfunction UserDataStorage(maxage) {\n    // Cria um elemento de documento e instala nele o comportamento\n    // especial userData para que obtenha métodos save() e load().\n    var memory = document.createElement(\"div\");           // Cria um elemento\n    memory.style.display = \"none\";                       // Nunca o exibe\n    memory.style.behavior = \"url('#default#userData')\";  //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3399,
+    "totalChunks": 10000
+  }
+}

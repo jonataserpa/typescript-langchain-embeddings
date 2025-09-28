@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2403",
+  "content": "igura em e\n            setTimeout(animate,         // Agenda outro quadro\n                           Math.min(25,    time-elapsed));\n  }\n        else {                        // Caso contrário, terminamos\n            e.style.opacity = \"0\";              // Torna e totalmente transparente\n            if (oncomplete) oncomplete(e);      // Ativa callback na conclusão\n  }\n }\n}\nTanto shake() como fadeOut() aceitam uma função de callback opcional como segundo argumento. \nSe for especificado, essa função vai ser chamada quando a animação terminar. O elemento que foi \nanimado é passado como argumento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2403,
+    "totalChunks": 10000
+  }
+}

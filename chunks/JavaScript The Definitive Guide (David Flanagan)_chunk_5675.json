@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5675",
+  "content": "nós Text em documentos, 371\n    opcional em scripts de HTTP, 480\n    pedido HTTP codifi cado com o documento \nXML como corpo, 491\n    propriedade innerHTML, uso com elementos \nXML, 369\n    propriedade outerHTML, uso da, 369\n    SVG (Scalable Vector Graphics), 608\nXSS (cross-site scripting), 328\nY\nyieldForStorageUpdates( ), objeto Navigator, 959\nYUI (biblioteca interna do Yahoo!), 331",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5675,
+    "totalChunks": 10000
+  }
+}

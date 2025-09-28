@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_964",
+  "content": "do são passados valores \nincompatíveis do que comece a executar e falhe com uma mensagem de erro que provavelmente não \nserá clara. Aqui está um exemplo de função que faz verificação de tipo. Note que ela usa a função \nisArrayLike() da Seção 7.11:\n// Retorna a soma dos elementos do array (ou objeto semelhante a um array) a.\n// Todos os elementos de a devem ser números ou null undefined são ignorados.\nfunction sum(a) {\n    if (isArrayLike(a)) {\n        var total = 0;\n        for(var i = 0; i < a.length; i++) {      // Itera por todos os elementos\n            var element = a[i];\n            if",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 964,
+    "totalChunks": 10000
+  }
+}

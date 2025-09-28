@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4238",
+  "content": "N.parse() e JSON.stringify(). JSON não é uma construtora. Antes de ECMAScript 5, funções \nde análise e serialização compatíveis com JSON estão disponíveis no endereço http://json.org/json2.js.\n“JSON” significa JavaScript Object Notation (notação de objeto de JavaScript). JSON é um forma-\nto de serialização de dados baseado em literais de JavaScript e pode representar o valor \nnull, os valo-\nres booleanos true e false, números em ponto flutuante (usando literais numéricas de JavaScript), \nstrings (usando strings literais de JavaScript), arrays de valores (usando sintaxe de array literal de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4238,
+    "totalChunks": 10000
+  }
+}

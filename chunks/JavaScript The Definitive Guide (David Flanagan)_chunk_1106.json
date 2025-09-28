@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1106",
+  "content": "nomes que começam com letras maiúsculas. As funções e os métodos normais têm nomes que \ncomeçam com letras minúsculas.\nEm seguida, note que a construtora Range() é chamada (no final do exemplo) com a palavra-\n-chave new, ao passo que a função fábrica range() foi chamada sem ela. O Exemplo 9-1 utiliza \nchamada de função normal (Seção 8.2.1) para criar o novo objeto e o Exemplo 9-2 utiliza cha-\nmada de construtora (Seção 8.2.3). Como a construtora Range() é chamada com new, não precisa \nchamar inherit() nem executar qualquer ação para criar um novo objeto. O novo objeto é criado",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1106,
+    "totalChunks": 10000
+  }
+}

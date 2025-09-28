@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4953",
+  "content": "elemento selecionado, excluindo o próprio elemento. Se sel é \nespecificado, exclui os irmãos que não correspondem.\nslice(indinicial, [indfinal])\nFiltra a seleção para incluir somente os elementos com índice maior ou igual a indinicial e \nmenor (mas não igual) do que indfinal. Índices negativos contam para trás, a partir do fim da \nseleção. Se indfinal é omitido, a propriedade length é usada.\nMétodos de elemento da jQuery\nOs métodos descritos aqui consultam e configuram atributos HTML e propriedades de estilo CSS \ndos elementos. As funções callback setter com um argumento chamado atual recebem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4953,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3943",
+  "content": "s(handleEntries,    logerr);\n   }\n  }\n }\n}\nTrabalhar com arquivos e com o sistema de arquivo é muito mais fácil em threads worker, onde é \npossível fazer chamadas com bloqueio e onde podemos usar a API síncrona. O Exemplo 22-14 defi-\nne as mesmas funções utilitárias de sistema de arquivo do Exemplo 22-13, mas utiliza a API síncrona \ne é muito mais curto.\n\nCapítulo 22     APIs de HTML5      689\nJavaScript do\n lado do cliente\nExemplo 22-14 A API síncrona de sistema de arquivos\n// Utilitários de sistema de arquivos usando a API síncrona em uma thread worker\nvar filesystem =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3943,
+    "totalChunks": 10000
+  }
+}

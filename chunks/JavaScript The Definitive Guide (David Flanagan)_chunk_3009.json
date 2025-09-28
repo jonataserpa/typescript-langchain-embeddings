@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3009",
+  "content": "ndo o conteúdo\n                var h2 = $(this);\n                h2.replaceWith(\"<h1>\" + h2.html() + \"</h1>\");\n            });\n// after() e before() também podem ser chamados em nós de texto\n// Esta é outra maneira de adicionar um símbolo de seção no início de cada <h1>\n$(\"h1\").map(function() { return this.firstChild; }).before(\"\n\");\nPara cada um desses cinco métodos de alteração de estrutura, também pode ser passada uma função \nque será chamada para calcular o valor a ser inserido. Como sempre, se você fornecer uma função \nassim, ela será chamada uma vez para cada elemento selecionado. O",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3009,
+    "totalChunks": 10000
+  }
+}

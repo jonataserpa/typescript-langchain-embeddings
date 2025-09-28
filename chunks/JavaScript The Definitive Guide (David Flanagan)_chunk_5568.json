@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5568",
+  "content": "cionais,    166\npedidos e respostas (HTTP), 482\n    cancelamento de pedidos e tempos-limite, 497\n    codifi cando o corpo do pedido, 489–494\n    componentes da resposta, 485\n    decodifi cando a resposta, 487\n    especifi cando o pedido, 482\n    obtendo resposta onreadystatechange, 486\n    ordem das partes do pedido, 484\n    respostas síncronas, 486\npedidos form-encoded HTTP, 489–494\n    codifi cando um objeto, 489\n    corpo    codifi cado com JSON, 491\n    corpo    codifi cado com XML, 491\n    fazendo pedido GET, 490\n    fazendo pedido POST HTTP, 490\n    pedidos multipartform=data, 493",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5568,
+    "totalChunks": 10000
+  }
+}

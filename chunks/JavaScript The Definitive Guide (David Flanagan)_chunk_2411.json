@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2411",
+  "content": "o elemento (ou pseudoelemento) especificado. Existem várias diferenças impor-\ntantes entre um objeto CSSStyleDeclaration que representa estilos em linha e um que representa \nestilos computados:\n •   As propriedades de estilo computadas são somente de leitura.\n •   As propriedades de estilo computadas são absolutas: unidades relativas, como porcentagens \ne pontos, são convertidas em valores absolutos. Qualquer propriedade que especifique um \ntamanho (como um tamanho de margem ou de fonte) vai ter um valor medido em pixels. \nEsse valor vai ser uma string com o sufixo “px”, de modo que você",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2411,
+    "totalChunks": 10000
+  }
+}

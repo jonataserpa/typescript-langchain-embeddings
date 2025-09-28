@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3438",
+  "content": "do o navegador baixa e coloca na \ncache uma versão atualizada de um aplicativo, o usuário ainda está executando a versão desatualiza-\nda. Se o usuário recarregar o aplicativo, verá a nova versão. Mas se o usuário não recarregar, a versão \nantiga ainda deve executar corretamente. E observe que a versão antiga ainda pode estar carregando \nrecursos da cache: pode estar usando XMLHttpRequest para solicitar arquivos, por exemplo, e esses \npedidos devem ser atendidos pelos arquivos da versão antiga da cache. Portanto, o navegador geral-\nmente deve manter a versão antiga da cache até que o usuário",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3438,
+    "totalChunks": 10000
+  }
+}

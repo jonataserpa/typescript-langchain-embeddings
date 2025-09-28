@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_802",
+  "content": "podem herdar elementos de seus protótipos. Em ECMAScript 5, \neles podem até ter elementos definidos por métodos getter e setter (Seção 6.6). Se um array não \n\n140          Parte     I     JavaScript     básica\nherda elementos nem usa métodos getter e setter para os elementos, deve-se esperar que ele utilize \num caminho de código não otimizado: o tempo para acessar um elemento de um array assim seria \nsemelhante aos tempos de busca de propriedade de objeto normal.\n7.3   Arrays   esparsos\nUm array esparso é aquele no qual os elementos não têm índices contíguos começando em 0. Nor-\nmalmente, a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 802,
+    "totalChunks": 10000
+  }
+}

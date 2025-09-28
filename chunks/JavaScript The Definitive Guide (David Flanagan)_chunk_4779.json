@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4779",
+  "content": "definem os valores da propriedade eventPhase. Essa propriedade (e as constantes) \nnão são suportadas no modelo de evento do IE.\nunsigned short CAPTURING_PHASE = 1\nO evento está sendo enviado para rotinas de captura de tratamento de evento de captura regis-\ntradas em ascendentes de seu alvo.\nunsigned short AT_TARGET = 2\nO evento está sendo enviado em seu alvo.\n\n      Referência de JavaScript do lado do cliente      899\nReferência de \nJavaScript do lado \ndo cliente\nunsigned short BUBBLING_PHASE = 3\nO evento está borbulhando e sendo enviado nos ascendentes de seu alvo.\nPropriedades\nAs",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4779,
+    "totalChunks": 10000
+  }
+}

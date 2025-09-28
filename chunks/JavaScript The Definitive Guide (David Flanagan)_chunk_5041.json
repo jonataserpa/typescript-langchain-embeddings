@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5041",
+  "content": "o currentTime. Se uma nova posição de reprodução já estiver no buffer, essa pro-\npriedade só vai ser true por um tempo breve. Mas se o elemento de mídia precisar baixar novos \ndados de mídia, seeking vai permanecer true por um tempo mais longo.\nstring src\nEssa propriedade espelha o atributo HTML src do elemento de mídia. Você pode configurar \nessa propriedade para fazer o elemento de mídia carregar novos dados de mídia. Note que essa \npropriedade não é o mesmo que currentSrc.\nreadonly Date startOffsetTime\nA data e hora do mundo real da posição de reprodução 0, caso os metadados da mídia",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5041,
+    "totalChunks": 10000
+  }
+}

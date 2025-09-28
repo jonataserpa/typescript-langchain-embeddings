@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3993",
+  "content": "eto que vamos armazenar\n                          zipcode: fields[0],   // Todas as propriedades são strings\n                            city:    fields[1],\n                            state:    fields[2],\n                            latitude:    fields[3],\n                            longitude:    fields[4]\n        };\n         // A melhor parte da API IndexedDB é que os objects stores são \n// *realmente* simples. Aqui está como adicionamos um registro:\n                       store.put(record);    // Ou então use add() para não sobrescrever\n      }\n  \n                status(\"Initializing",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3993,
+    "totalChunks": 10000
+  }
+}

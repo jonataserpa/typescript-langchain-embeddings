@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1753",
+  "content": "O na-\nvegador vai fazer a chamada quando os eventos ocorrerem. A programação assíncrona com eventos \nfrequentemente envolve funções aninhadas e não é raro acabar escrevendo código que define funções \ndentro de funções dentro de funções.\nNa maioria dos navegadores, para a maioria dos tipos de eventos, as rotinas de tratamento de evento \nsão passadas a um objeto como um argumento e as propriedades desse objeto fornecem detalhes \nsobre o evento. O objeto passado para um evento click, por exemplo, teria uma propriedade especifi-\ncando qual botão do mouse foi clicado. (No IE, esses detalhes do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1753,
+    "totalChunks": 10000
+  }
+}

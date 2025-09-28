@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1480",
+  "content": "-\ngura.\n11.2   Constantes e variáveis com escopo\nDeixamos agora os subconjuntos para trás e passamos para as extensões da linguagem. Em JavaScript \n1.5 e posteriores, pode-se usar a palavra-chave const para definir constantes. As constantes são como \nas variáveis, exceto que as atribuições a elas são ignoradas (a tentativa de alterar uma constante não \ncausa erro) e as tentativas de redeclará-las causam erros:\nconst pi = 3.14; // Define uma constante e fornece a ela um valor.\npi = 4;          // Qualquer atribuição futura a ela é ignorada silenciosamente.\nconst pi = 4;    // É erro redeclarar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1480,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1529",
+  "content": "torna “função” e elas herdam de Function.prototype, \nexatamente como as funções normais. Entretanto, quando chamada, uma função geradora se com-\nporta de maneira completamente diferente de uma função normal: em vez de executar o corpo da \nfunção geradora, a chamada retorna um objeto gerador.\n\nCapítulo 11     Subconjuntos e extensões de JavaScript      271\nJavaScript básica\nUm gerador é um objeto que representa o estado atual da execução de uma função geradora. Ele de-\nfine um método next() que retoma a execução da função geradora e permite que continue a executar \naté que sua próxima",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1529,
+    "totalChunks": 10000
+  }
+}

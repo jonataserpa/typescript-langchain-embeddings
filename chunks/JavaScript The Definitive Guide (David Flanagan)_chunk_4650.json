@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4650",
+  "content": "te de 4 e 8 bytes do (ou no) buffer. Os métodos suportam ordens de byte big-endian e \nlittle-endian. Consulte também TypedArray.\nConstrutora\nnew DataView( ArrayBuffer buffer,\n[unsigned long deslocamentoByte], [unsigned long comprimentoByte])\nEssa construtora cria um novo objeto DataView que permite acesso de leitura e gravação aos bytes \nem buffer ou a uma região de buffer. Com apenas um argumento, ela cria um modo de exibi-\nção do buffer inteiro. Com dois argumentos, cria um modo de exibição que se estende do byte \nnúmero byteOffset até o final do buffer. E com três argumentos, cria um modo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4650,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4561",
+  "content": "s primeiros argumentos desse método especificam o centro e o raio de um círculo. Os \ndois argumentos seguintes são ângulos que especificam os pontos inicial e final de um arco ao lon-\ngo do círculo. Esses ângulos são medidos em radianos. A posição de três horas ao longo do eixo X \npositivo é um ângulo 0, sendo que os ângulos aumentam no sentido horário. O último argumento \nespecifica se o arco é percorrido no sentido anti-horário (true) ou horário (false ou omitido) ao \nlongo da circunferência do círculo.\nChamar esse método adiciona uma linha reta entre o ponto atual e o ponto inicial do arco",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4561,
+    "totalChunks": 10000
+  }
+}

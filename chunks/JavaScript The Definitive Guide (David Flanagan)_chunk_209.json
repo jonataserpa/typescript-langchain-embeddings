@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_209",
+  "content": "//                            Infinity.\nNumber.POSITIVE_INFINITY    // O mesmo valor, somente para leitura.\n1/0 // Este também é o mesmo valor.\nNumber.MAX_VALUE + 1        // Isso também é avaliado como Infinity.\nNumber.NEGATIVE_INFINITY    // Essas expressões são infinito negativo.\n-Infinity\n-1/0\n-Number.MAX_VALUE – 1\nNaN // Uma variável de leitura/gravação inicializada como NaN.\nNumber.NaN // Uma propriedade somente para leitura contendo o mesmo \n                            //                            valor.\n0/0                         //                         Avaliado",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 209,
+    "totalChunks": 10000
+  }
+}

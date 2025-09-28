@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5661",
+  "content": ", 488\n    arquivos de manifesto de cache de aplicativo, 588\n    codifi cação de dados de formulário, 489\n    especifi cando em cabeçalhos Content-Type \nHTTP, 483\n    mídia,    603\n    texto,    487\ntipos mutáveis, 30\ntipos numéricos, 28\ntipos primitivos, 28\n    conversão de primitivos de JavaScript em Java, \n281, 285\n    conversões de objeto para primitivo, 48–51\n    conversões para outros tipos, 45\n    valores primitivos imutáveis e referências de obje-\nto mutável, 43\ntoDataURL( ), objeto Canvas, 642, 849\ntoExponential( ), objeto Number, 47, 788–789\ntoFixed( ), objeto Number, 47,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5661,
+    "totalChunks": 10000
+  }
+}

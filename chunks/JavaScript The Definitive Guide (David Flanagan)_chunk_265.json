@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_265",
+  "content": "len. Essa propriedade não existe e a expressão é avaliada como undefined. Esse \ncódigo demonstra que strings, números e valores booleanos se comportam como objetos quando se \ntenta ler o valor de uma propriedade (ou método) deles. Mas se você tenta definir o valor de uma \npropriedade, essa tentativa é ignorada silenciosamente: a alteração é feita em um objeto temporário \ne não persiste.\nOs objetos temporários criados ao se acessar uma propriedade de uma string, número ou valor bo-\noleano são conhecidos como objetos empacotadores (wrapper) e ocasionalmente pode ser necessário \ndiferenciar um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 265,
+    "totalChunks": 10000
+  }
+}

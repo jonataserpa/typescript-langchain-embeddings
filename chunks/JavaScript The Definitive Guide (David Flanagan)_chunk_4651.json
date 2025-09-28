@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4651",
+  "content": "que se estende do byte \nnúmero byteOffset até o final do buffer. E com três argumentos, cria um modo de exibição dos \ncomprimentoByte bytes, começando no byte Offset.\nMétodos\nCada um desses métodos lê um valor numérico (ou grava um valor numérico) do ArrayBuffer subja-\ncente. O nome do método especifica o tipo lido ou gravado. Todos os métodos que leem ou gravam \nmais de um byte aceitam um argumento opcional littleEndian final. Se esse argumento é omitido \nou é false, é usada a ordem de byte big-endian, com os bytes mais significativos sendo lidos ou gra-\nvados primeiro. Contudo, se o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4651,
+    "totalChunks": 10000
+  }
+}

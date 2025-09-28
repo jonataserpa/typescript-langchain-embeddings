@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2674",
+  "content": "bjeto dt.types lista os tipos ou formatos em que os dados\n       // que estão sendo arrastados estão disponíveis. HTML5 diz que o tipo \n// tem um método contains(). Em alguns navegadores ele é um array com um\n                // método indexOf. No IE8 e anteriores, ele simplesmente não existe.\n                var types = dt.types;  // Em quais formatos os dados estão disponíveis\n                // Se não temos quaisquer dados do tipo ou se os dados estão\n                // disponíveis em formato de texto puro, então realça a\n                // lista para permitir que o usuário saiba que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2674,
+    "totalChunks": 10000
+  }
+}

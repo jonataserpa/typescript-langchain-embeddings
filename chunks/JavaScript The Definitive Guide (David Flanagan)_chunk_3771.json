@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3771",
+  "content": "// Se é um número e está no intervalo correto\n    if ((g > state.low) && (g < state.high)) {\n        // Atualiza o objeto estado com base nesse palpite\n        if (g < state.n) state.low = g;\n        else if (g > state.n) state.high = g;\n        state.guess = g;\n        state.guessnum++;\n        // Agora salva o novo estado no histórico do navegador\n        save(state);\n        // Modifica o documento para responder ao palpite do usuário\n        display(state);\n }\n    else {  // Um palpite inválido: não coloca um novo estado de histórico\n        alert(\"Please enter a number greater than \" +",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3771,
+    "totalChunks": 10000
+  }
+}

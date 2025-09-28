@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1453",
+  "content": "inguagem JavaScript completa e oficial, padronizada por ECMA-\nScript 3 e ECMAScript 5. Este capítulo descreve subconjuntos e super-conjuntos de JavaScript. Os \nsubconjuntos foram definidos, de modo geral, por questões de segurança: um script escrito usando \napenas um subconjunto seguro da linguagem pode ser executado com segurança, mesmo que seja \nproveniente de uma fonte não confiável, como um servidor de anúncios. A Seção 11.1 descreve \nalguns desses subconjuntos.\nO padrão ECMAScript 3 foi publicado em 1999, e decorreu uma década antes que fosse atua-\nlizado para o ECMAScript 5, em 2009.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1453,
+    "totalChunks": 10000
+  }
+}

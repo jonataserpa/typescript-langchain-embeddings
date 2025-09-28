@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5407",
+  "content": "469\n    keydown e keyup, 473\n    registro de rotina de tratamento de evento com \njQuery, 527\neventos dependentes e independentes de dispositivo, \n436\neventos dinâmicos, 535\neventos específi cos de API, 437\neventos focus, 391, 437\n    borbulhando eventos focusin e focusout, 441\n    foco do teclado para elementos do documento, \n440\n    registro de rotina de tratamento de evento com \njQuery, 527\neventos hashchange, 657\neventos load, 310, 438\n    documento,    453–454\n        propagação de eventos, 451\n    objeto FileReader, 682–683\n    registrando rotina de tratamento de evento para, \n11",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5407,
+    "totalChunks": 10000
+  }
+}

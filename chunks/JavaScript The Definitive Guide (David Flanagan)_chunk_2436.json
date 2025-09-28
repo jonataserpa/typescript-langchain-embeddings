@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2436",
+  "content": "ilo em si. A propriedade document.\nstyleSheets é um objeto semelhante a um array somente de leitura, contendo objetos CSSStyleSheet \nque representam as folhas de estilo associadas ao documento. Se você configurar o atributo title do \nelemento <style> ou <link> que define ou faz referência à folha de estilo, esse título vai estar dispo-\nnível como a propriedade title do objeto CSSStyleSheet correspondente.\nAs subseções a seguir explicam o que se pode fazer com esses elementos estilo e link e com objetos \nfolha de estilo.\n16.6.1   Habilitando e desabilitando folhas de estilo\nA técnica de script",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2436,
+    "totalChunks": 10000
+  }
+}

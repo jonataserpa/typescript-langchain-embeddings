@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4325",
+  "content": "gura essa \npropriedade, alterando seu valor ou seus atributos. Nesse caso, desc só precisa conter os atributos a \nserem alterados: os atributos não mencionados em desc não serão alterados.\nNote que esse não é um método a ser chamado em um objeto: é uma função global e você deve \npassar um objeto para ela.\nExemplo\nfunction constant(o, n, v) {    // Define uma constante o.n com valor v\nObject.defineProperty(o, n, { value: v, writable: false\n                                enumerable:    true,    configurable:false});\n}\nConsulte também\nObject.create(), Object.defineProperties(),",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4325,
+    "totalChunks": 10000
+  }
+}

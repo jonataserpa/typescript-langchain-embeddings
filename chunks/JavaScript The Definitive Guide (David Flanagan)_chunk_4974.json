@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4974",
+  "content": "(f(ind):wrapper)\nÉ como wrap(), mas insere wrapper (ou o valor de retorno de f) em torno do conteúdo de cada \nelemento selecionado, em vez de em torno dos próprios elementos.\nMétodos de evento da jQuery\nOs métodos desta seção servem para registrar rotinas de tratamento de evento e disparar eventos. \nConsulte a Seção 19.4.\ntipo-evento\n()\ntipo-evento(f(evento))\nRegistra f como rotina de tratamento para tipo-evento ou dispara um evento de tipo-evento. A \njQuery define os seguintes métodos de conveniência que seguem esse padrão:\n    ajaxComplete()    blur()        focusin()    mousedown()",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4974,
+    "totalChunks": 10000
+  }
+}

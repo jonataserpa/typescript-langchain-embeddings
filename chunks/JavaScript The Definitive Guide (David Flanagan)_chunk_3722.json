@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3722",
+  "content": "for(var i = 0; i < data.length; i++) {            // Para cada ponto de dados\n            var x = width*i/data.length;                 // Muda a escala de i\n            var y = (ymax-data[i])*height/(ymax-ymin);   // Muda a escala de data[i]\n            context.lineTo(x,y);    // O primeiro lineTo() faz um moveTo() em seu lugar\n  }\n        context.strokeStyle = color;    // Especifica a cor do sparkline\n        context.stroke();              // e o desenha\n }\n});\n\nCapítulo 22\nAPIs de HTML5\nO termo HTML5 se refere à versão mais recente da especificação HTML, é claro, mas também a um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3722,
+    "totalChunks": 10000
+  }
+}

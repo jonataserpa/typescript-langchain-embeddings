@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4408",
+  "content": "HTML para um hyperlink em negrito vermelho, com código como segue:\nvar s = \"click here!\";\nvar html = s.bold().link(\"javascript:alert('hello')\").fontcolor(\"red\");\nComo esses métodos não são padronizados, não têm entradas de referência individuais nas páginas \na seguir:\nanchor( nome )\nRetorna uma cópia da string em um ambiente <a name=>.\nbig()\nRetorna uma cópia da string em um ambiente <big>.\nblink()\nRetorna uma cópia da string em um ambiente <blink>.\nbold()\nRetorna uma cópia da string em um ambiente <b>.\nfixed()\nRetorna uma cópia da string em um ambiente <tt>.\nfontcolor( cor )\nRetorna uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4408,
+    "totalChunks": 10000
+  }
+}

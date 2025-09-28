@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4618",
+  "content": "os como objetos em que se pode \nclicar.\nvoid profile([string título])\nInicia o traçador de perfil de JavaScript e exibe título no início de seu relatório.\nvoid profileEnd()\nPara o traçador de perfil e exibe seu relatório de perfil de código.\nvoid time(string nome)\nInicia um timer com o nome especificado.\nvoid timeEnd(string nome)\nFinaliza o timer com o nome especificado e exibe o nome e o tempo decorrido desde a chamada cor-\nrespondente de time()\nvoid trace()\nExibe uma pilha com o rastro.\nvoid warn(any mensagem...)\nÉ como console.log(), mas marca a saída como um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4618,
+    "totalChunks": 10000
+  }
+}

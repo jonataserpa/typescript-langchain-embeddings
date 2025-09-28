@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1007",
+  "content": "ulo de variável é removido do \nencadeamento de escopo. Se não existem funções aninhadas, não há mais referências ao objeto vínculo \ne ele é removido pela coleta de lixo. Se existem funções aninhadas definidas, então cada uma dessas \nfunções tem uma referência para o encadeamento de escopo e esse encadeamento de escopo se refere \nao objeto vínculo de variável. No entanto, se esses objetos funções aninhadas permaneceram dentro de \nsuas funções externas, então eles próprios são removidos pela coleta de lixo, junto com o objeto vínculo \nde variável a que se referiam. Mas se a função define uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1007,
+    "totalChunks": 10000
+  }
+}

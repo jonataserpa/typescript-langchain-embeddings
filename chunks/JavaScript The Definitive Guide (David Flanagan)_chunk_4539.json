@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4539",
+  "content": "om os métodos \ntranslate(), scale() e rotate(), os quais afetam a matriz de transformação do canvas. Como o \nespaço de coordenadas pode ser transformado dessa forma, as coordenadas passadas para métodos \ncomo \nlineTo() não podem ser medidas em pixels e a API Canvas utiliza números em ponto flutu-\nante, em vez de inteiros.\nSombras\nCanvasRenderingContext2D pode adicionar uma sombra projetada automaticamente em tudo que \nvocê desenhar. A cor da sombra é especificada com shadowColor e seu deslocamento é alterado com \nshadowOffsetX e shadowOffsetY. Além disso, a quantidade de suavização aplicada",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4539,
+    "totalChunks": 10000
+  }
+}

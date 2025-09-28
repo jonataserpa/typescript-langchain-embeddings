@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4662",
+  "content": "ncionar em documentos XML.\nPropriedades\nAlém das propriedades listadas aqui, você também pode usar o valor do atributo name de elementos \n<iframe>, <form> e <img> como propriedades de documento. O valor dessas propriedades é o Ele-\nment nomeado ou um NodeList de tais elementos. Contudo, para elementos <iframe> nomeados, a \npropriedade se refere ao objeto Window do <iframe>. Consulte a Seção 15.2.2 para ver os detalhes.\nreadonly Element activeElement\nO elemento do documento que tem o foco do teclado no momento.\nElement body\nPara documentos HTML, esse elemento se refere ao Element <body>. (Para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4662,
+    "totalChunks": 10000
+  }
+}

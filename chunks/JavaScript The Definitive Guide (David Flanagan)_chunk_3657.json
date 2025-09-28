@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3657",
+  "content": "izontalmente com relação à \ncoordenada X passada para fillText() ou para strokeText(). A propriedade textBaseline especifica \ncomo o texto deve ser alinhado verticalmente com relação à coordenada Y. A Figura 21-12 ilustra os \nvalores permitidos para essas propriedades. A linha fina próxima a cada string de texto é a linha de \nbase e o quadradinho marca o ponto \n(x,y) que foi passado para fillText().\nFigura 21-12 As propriedades textAlign e textBaseline.\nO padrão de textAlign é “start”. Note que para texto da esquerda para a direita, o alinhamento \n“start” é o mesmo que “left” e o alinhamento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3657,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1065",
+  "content": "if (i == len) throw TypeError();\n  }\n        // Agora chama f para cada elemento restante no array\n        while(i < len) {\n            if (i in a)\n                accumulator = f.call(undefined, accumulator, a[i], i, a);\n            i++;\n  }\n        return    accumulator;\n    };\nCom essas funções map() e reduce() definidas, nosso código para calcular a média e o desvio padrão \nagora é como segue:\nvar data = [1,1,3,5,5];\nvar sum = function(x,y) { return x+y; };\nvar square = function(x) { return x*x; };\nvar mean = reduce(data, sum)/data.length;\nvar deviations = map(data, function(x)",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1065,
+    "totalChunks": 10000
+  }
+}

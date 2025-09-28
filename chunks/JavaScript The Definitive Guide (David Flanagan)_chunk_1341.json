@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1341",
+  "content": "ade não enumerável de Object.prototype.\n    // Esse é o único valor exportado desse escopo de função privado.\n    Object.defineProperty(Object.prototype, \"properties\", {\n        value:    properties,\n        enumerable: false, writable: true, configurable: true\n    });\n    // Esta função construtora é chamada pela função properties() anterior.\n    // A classe Properties representa um conjunto de propriedades de um objeto.\n    function Properties(o, names) {\n        this.o = o;   // O objeto ao qual as propriedades pertencem\n        this.names = names;     // Os nomes das propriedades\n }",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1341,
+    "totalChunks": 10000
+  }
+}

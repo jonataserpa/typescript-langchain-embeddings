@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_65",
+  "content": "m o código JavaScript.\n// variável é um nome simbólico para um valor.\n// As variáveis são declaradas com a palavra-chave var:\nvar x; // Declara uma variável chamada x.\n// Valores podem ser atribuídos às variáveis com o sinal =\nx = 0; // Agora a variável x tem o valor 0\nx // => 0: Uma variável é avaliada com seu valor.\n// JavaScript aceita vários tipos de valores\nx = 1; // Números.\nx = 0.01; // Apenas um tipo Number para inteiros e reais.\nx = \"hello world\"; // Strings de texto entre aspas.\nx = 'JavaScript'; // Apóstrofos também delimitam strings.\nx = true; // Valores booleanos.\nx = false; // O",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 65,
+    "totalChunks": 10000
+  }
+}

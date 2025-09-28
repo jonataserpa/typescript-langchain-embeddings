@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_506",
+  "content": "m outras instruções repetidas vezes.\n •Saltos são instruções como \nbreak, return e throw que fazem o interpretador pular para outra \nparte do programa.\nAs seções a seguir descrevem as várias instruções de JavaScript e explicam sua sintaxe. A Tabela 5-1, \nno final do capítulo, resume a sintaxe. Um programa JavaScript é simplesmente uma sequência de \ninstruções, separadas umas das outras com pontos e vírgulas; portanto, uma vez que você conheça as \ninstruções de JavaScript, pode começar a escrever programas em JavaScript.\nCapítulo 5\nInstruções\n\n86          Parte     I     JavaScript",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 506,
+    "totalChunks": 10000
+  }
+}

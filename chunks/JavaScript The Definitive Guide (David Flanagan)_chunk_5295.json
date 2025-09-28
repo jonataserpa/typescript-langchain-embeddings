@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5295",
+  "content": "Você pode registrar rotinas de tratamento configurando essas pro-\npriedades ou usando os métodos de EventTarget. Os eventos XMLHttpRequest são sempre enviados \nno próprio objeto XMLHttpRequest. Eles não borbulham e não têm uma ação padrão para cancelar. \nOs eventos readystatechange têm um objeto Event associado e todos os outros tipos de evento têm \num objeto ProgressEvent associado.\nConsulte a propriedade \nupload e XMLHttpRequestUpload para ver uma lista dos eventos que podem ser \nusados para monitorar o andamento de carregamentos HTTP.\nonabort\nDisparada quando uma requisição é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5295,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2739",
+  "content": "licativo Web relacionada, que utiliza scripts \nHTTP\n2\n. De certo modo, Comet é o inverso de Ajax: em Comet, é o servidor Web que inicia \na comunicação, enviando mensagens para o cliente de forma assíncrona. Se o aplicativo Web \n1\n  Ajax é o acrônimo (sem letras maiúsculas) de Asynchronous JavaScript and XML. O termo foi inventado por Jesse James \nGarrett e apareceu pela primeira vez em seu ensaio de fevereiro de 2005 “Ajax: A New Approach to Web Applications” \n(http://www.adaptivepath.com/publications/essays/archives/000385.php). “Ajax” foi um jargão popular por muitos anos; agora \né apenas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2739,
+    "totalChunks": 10000
+  }
+}

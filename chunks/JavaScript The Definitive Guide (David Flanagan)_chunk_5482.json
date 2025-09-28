@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5482",
+  "content": "bjeto Date, 734\nmétodo getUTCMilliseconds( ), objeto Date, 734\nmétodo getUTCMinutes( ), objeto Date, 735\nmétodo getUTCMonth( ), objeto Date, 735\nmétodo getUTCSeconds( ), objeto Date, 735\nmétodo getYear( ), objeto Date, 735\nmétodo go( ), objeto History, 336, 920\nmétodo grep( ), jQuery, 565\nmétodo group( ), objeto Console, 866\nmétodo groupCollapsed( ), objeto Console, 866\nmétodo groupEnd( ), objeto Console, 867\nmétodo has( ), jQuery, 565\nmétodo hasAttribute( ), objeto Element, 367, \n890–891\nmétodo hasClass( ), jQuery, 518\nmétodo hasFocus( ), objeto Document, 880\nmétodo hasOwnProperty( ), Object",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5482,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3146",
+  "content": "quer conteúdo que já esteja lá. Por exemplo:\n// Carrega e exibe o relatório de status mais recente a cada 60 segundos\nsetInterval(function() { $(\"#stats\").load(\"status_report.html\"); }, 60000);\nTambém vimos o método load() na Seção 19.4.1, onde foi usado para registrar uma rotina de tra-\ntamento para eventos load. Se o primeiro argumento desse método é uma função, em vez de uma \nstring, ele se comporta como um método de registro de rotina de tratamento de evento e não como \num método Ajax.\nSe quiser exibir apenas uma parte do documento carregado, adicione um espaço no URL e depois \ndele",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3146,
+    "totalChunks": 10000
+  }
+}

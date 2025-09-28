@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2599",
+  "content": "click.\ndblclickDisparado quando o usuário dá um clique duplo com o mouse\nmousedownDisparado quando o usuário pressiona um botão do mouse\nmouseupDisparado quando o usuário solta um botão do mouse\nmousemoveDisparado quando o usuário move o mouse.\nmouseoverDisparado quando o mouse entra em um elemento. \nrelatedTarget (ou fromElement no IE); especifica de qual \nelemento o mouse está vindo.\nmouseoutDisparado quando o mouse sai de um elemento. \nrelatedTarget (ou toElement no IE); especifica para qual \nelemento o mouse está indo.\nmouseenterComo“mouseover”,  mas não borbulha. Introduzido pelo IE e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2599,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4017",
+  "content": "ta classes, métodos e propriedades definidos pela \nlinguagem JavaScript básica. Esta referência está organizada em ordem alfabética por nome de classe \nou objeto:\nArguments    EvalError    Number                      String\nArray        Function        Object                    SyntaxError\nBoolean       Global      RangeError              TypeError\nDate          JSON         ReferenceError             URIError\nError       Math       RegExp\nAs páginas de referência dos métodos e propriedades das classes estão em ordem alfabética por seus \nnomes completos, os quais incluem os nomes das classes",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4017,
+    "totalChunks": 10000
+  }
+}

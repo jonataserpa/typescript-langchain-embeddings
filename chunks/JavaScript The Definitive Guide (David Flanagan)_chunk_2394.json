@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2394",
+  "content": "epetida-\nmente uma função que altera o estilo em linha de um elemento. O Exemplo 16-3 demonstra isso \ncom duas funções: shake() e fadeOut(). shake() move rapidamente ou “chacoalha” um elemento de \num lado para outro. Ela poderia ser usada para chamar a atenção do usuário caso ele insira dados in-\nválidos, por exemplo. fadeOut() diminui a opacidade de um elemento no decorrer de um período de \ntempo especificado (500 milissegundos, por padrão), fazendo-o desaparecer gradualmente até sumir.\nExemplo 16-3 Animações com CSS\n// Converte o elemento e para posicionamento relativo e o \"chacoalha\" para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2394,
+    "totalChunks": 10000
+  }
+}

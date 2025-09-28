@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1713",
+  "content": "usuário ativa ou desativa uma caixa de seleção em um \nformulário, você pode especificar o código do mecanismo de tratamento como um atributo do \nelemento HTML que define a caixa de seleção:\n<input type=\"checkbox\" name=\"options\" value=\"giftwrap\"\n        onchange=\"order.options.giftwrap = this.checked;\">\nO interessante aqui é o atributo onchange. O código JavaScript que é o valor desse atributo vai ser \nexecutado quando o usuário marcar ou desmarcar a caixa de seleção.\nOs atributos de tratamento de eventos definidos em HTML podem incluir qualquer número de \ninstruções JavaScript, separadas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1713,
+    "totalChunks": 10000
+  }
+}

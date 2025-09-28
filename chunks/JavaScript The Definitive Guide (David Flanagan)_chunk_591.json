@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_591",
+  "content": "_sum;\n            sum += cell;\n  }\n }\n    success = true;\n}\n// As instruções break pulam para cá. Se chegamos aqui com success == false,\n// então algo deu errado com a matriz que recebemos.\n// Caso contrário, sum contém a soma de todas as células da matriz.\nPor fim, note que uma instrução break, com ou sem rótulo, não pode transferir o controle para além \ndos limites da função. Não se pode rotular uma instrução de definição de função, por exemplo, e \ndepois usar esse rótulo dentro da função.\n5.6.3   continue\nA instrução continue é semelhante à instrução break. No entanto, em vez de sair de um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 591,
+    "totalChunks": 10000
+  }
+}

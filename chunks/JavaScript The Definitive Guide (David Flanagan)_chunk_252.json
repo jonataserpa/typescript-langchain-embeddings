@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_252",
+  "content": "o valor de variáveis que não foram inicializadas e o \nvalor obtido quando se consulta o valor de uma propriedade de objeto ou elemento de array que \nnão existe. O valor indefinido também é retornado por funções que não têm valor de retorno \ne o valor de parâmetros de função quando os quais nenhum argumento é fornecido. \nundefined \né uma variável global predefinida (e não uma palavra-chave da linguagem, como null) que é \ninicializada com o valor indefinido. Em ECMAScript 3, \nundefined é uma variável de leitura/\ngravação e pode ser configurada com qualquer valor. Esse erro foi corrigido em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 252,
+    "totalChunks": 10000
+  }
+}

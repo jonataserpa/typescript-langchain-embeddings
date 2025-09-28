@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_933",
+  "content": "sistematicamente em toda sua API, permitirá um estilo de programação conhecido \ncomo encadeamento de métodos\n2\n, no qual um objeto pode ser nomeado uma vez e, então, vários méto-\ndos podem ser chamados a partir dele:\nshape.setX(100).setY(100).setSize(50).setOutline(\"red\").setFill(\"blue\").draw();\nNão confunda encadeamento de métodos com encadeamento de construtoras, que será descrito na Se-\nção 9.7.2.\n\nCapítulo     8     Funções          165\nJavaScript básica\n8.2.3   Chamada de construtora\nSe  uma  chamada  de  função  ou  de  método  é  precedida  pela  palavra-chave  new,  então  ela  é  uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 933,
+    "totalChunks": 10000
+  }
+}

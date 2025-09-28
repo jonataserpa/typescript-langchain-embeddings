@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5200",
+  "content": "mento, con-\nfigurando \nreadyState como CLOSING. Os eventos message podem continuar a ser disparados, mesmo \ndepois de \nclose() ser chamado, até que readyState mude para CLOSED e o evento close seja disparado.\nvoid send(string dados)\nEsse método envia os dados especificados para o servidor na outra extremidade da conexão de Web-\nSocket. Esse método lança uma exceção se chamado antes que o evento open tenha sido disparado, \nenquanto \nreadyState ainda é CONNECTING. O protocolo WebSocket suporta dados binários, mas quan-\ndo este livro estava sendo escrito, a API WebSocket só permitia enviar e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5200,
+    "totalChunks": 10000
+  }
+}

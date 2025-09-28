@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1049",
+  "content": "ara a construtora.\nObserve que a construtora \nFunction() não recebe argumento algum especificando um nome para \na função que cria. Assim como as funções literais, a construtora Function() cria funções anônimas.\nExistem alguns pontos importantes para entender a respeito da construtora\n Function():\n •   Ela permite que funções JavaScript sejam criadas dinamicamente e compiladas em tempo de \nexecução.\n •   Ela analisa o corpo da função e cria um novo objeto função cada vez que é chamada. Se a \nchamada da construtora aparece dentro de um laço ou de uma função chamada frequente-\nmente, esse",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1049,
+    "totalChunks": 10000
+  }
+}

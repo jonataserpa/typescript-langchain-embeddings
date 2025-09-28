@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1859",
+  "content": "B mal-intencionado, mas agora está \nincorporado ao site A e pode fazer absolutamente qualquer coisa com o conteúdo do site A. Poderia \ndesfigurar a página ou fazê-la deixar de funcionar (como, por exemplo, iniciando um dos ataques \nde negação de serviço descritos na próxima seção). Isso seria ruim para as relações com os clientes \ndo site A. Mais perigosamente, o script mal-intencionado pode ler cookies armazenados pelo site A \n(talvez números de conta ou outras informações de identificação pessoal) e enviar esses dados para o \nsite B. O script injetado pode até monitorar os toques de tecla",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1859,
+    "totalChunks": 10000
+  }
+}

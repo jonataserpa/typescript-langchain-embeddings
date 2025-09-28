@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1803",
+  "content": "os navegadores. Em jQuery, por exemplo, o regis-\ntro de rotina de tratamento de eventos é feito com um método chamado \nbind(). Se você adotar \njQuery para todo desenvolvimento Web, nunca vai precisar pensar nas incompatibilidades entre \naddEventListener() e attachEvent(). Consulte a Seção 13.7 para mais informações sobre estruturas \ndo lado do cliente.\n13.4.2   Graded browser support\nGraded browser support é uma técnica de teste e garantia de qualidade promovida e defendida \npela Yahoo! que traz algum equilíbrio à normalmente descontrolada proliferação de variantes de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1803,
+    "totalChunks": 10000
+  }
+}

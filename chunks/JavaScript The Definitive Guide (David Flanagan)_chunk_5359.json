@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5359",
+  "content": "mecanismos de transporte do, 480\n    Server-Sent Events com, 502–508\ncomparação de padrões, 38\n (consulte também expressões regulares)\n    métodos de string para, 253\ncomparações\n    objetos,    44\n    valores primitivos, 43\ncomparações de igualdade\n    binário em ponto fl utuante e erros de arredonda-\nmento, 34\n    conversões de tipo e, 46\ncompareDocumentPosition( ), objeto Node, 962\ncompatibilidade e operação em conjunto, 317–324\n    bibliotecas de compatibilidade, 320\n    comentários condicionais no Internet Explorer, \n323\n    modo Quirks e modo Standards, 322\n    suporte para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5359,
+    "totalChunks": 10000
+  }
+}

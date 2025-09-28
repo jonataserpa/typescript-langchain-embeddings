@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2243",
+  "content": "do lado do cliente. Você pode truncar o array de elementos Option configu-\nrando \noptions.length com o número de opções desejadas e pode remover todos os objetos Option \nconfigurando \noptions.length como 0. Um objeto Option individual pode ser removido do ele-\nmento Select configurando-se seu lugar no array \noptions[] como null. Isso exclui o objeto Option \ne qualquer elemento mais alto no array \noptions[] é movido automaticamente para baixo, a fim de \npreencher o lugar vazio.\nPara adicionar novas opções em um elemento Select, crie um objeto Option com a construtora \nOption() e anexe-o na",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2243,
+    "totalChunks": 10000
+  }
+}

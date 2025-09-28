@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2866",
+  "content": "ão, \n * configura esses detalhes no atributo title do link para que sejam exibidos como uma \n * dica de ferramenta.\n */\nwhenReady(function() {\n    // Há alguma chance de que requisições com várias origens sejam bem-sucedidos?\n    var supportsCORS = (new XMLHttpRequest()).withCredentials !== undefined;\n    // Itera por todos os links do documento\n    var links = document.getElementsByTagName('a');\n    for(var i = 0; i < links.length; i++) {\n        var link = links[i];\n        if (!link.href) continue;   // Pula âncoras que não são hiperlinks\n        if (link.title) continue;   // Pula links",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2866,
+    "totalChunks": 10000
+  }
+}

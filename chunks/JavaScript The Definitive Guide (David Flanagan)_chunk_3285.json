@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3285",
+  "content": "-\n\n568          Parte II     JavaScript do lado do cliente\nlha de objetos jQuery. O método end() faz retiradas nessa pilha, retornando o objeto jQuery salvo. \nChamar \nend() em um encadeamento de métodos restaura o conjunto de elementos coincidentes ao \nseu estado anterior. Considere o código a seguir:\n// Localiza todos os elementos <div> e então localiza os elementos <p> dentro deles.\n// Realça os elementos <p> e depois adiciona uma borda aos elementos <div>.\n// Primeiramente, sem encadeamento de métodos\nvar divs = $(\"div\");\nvar paras =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3285,
+    "totalChunks": 10000
+  }
+}

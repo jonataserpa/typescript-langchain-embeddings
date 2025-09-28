@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5326",
+  "content": "arrastamento personalizada, 464\n\nÍndice          1007\n    soltando arquivos locais no navegador para acesso \ncom script, 678–679\narray arguments[ ], 703\narrays, 5, 28, 137–157\n    adicionando e excluindo elementos, 141\n    classe Array, 29\n        indexOf( ) e lastIndexOf( ), 153\n        método toString( ), 49\n    comparando,    44\n    comprimento de, 140\n    conversões,    50\n        para    strings,    148\n    convertendo objeto jQuery em array verdadeiro, \n514\n    criando,    137\n    de instâncias de classe, classifi cando, 218\n    de valores, atribuições de desestruturação, 265",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5326,
+    "totalChunks": 10000
+  }
+}

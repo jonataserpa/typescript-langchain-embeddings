@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3785",
+  "content": "expor uma API \nJavaScript normal, mas incluindo-o na sua página permite-se que ele assuma o controle completo da \n\nCapítulo 22     APIs de HTML5      663\nJavaScript do\n lado do cliente\npágina e de seu conteúdo. Não é incomum fazer isso na Web hoje (especialmente para anúncios na \nWeb), mas não é uma boa ideia, mesmo quando se confia no outro site.\nA troca de mensagens entre origens oferece uma alternativa: o autor do gadget pode empacotá-lo \ndentro de um arquivo HTML que receba eventos mensagem e envie esses eventos para as funções \napropriadas de JavaScript. Então, a página Web que inclui o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3785,
+    "totalChunks": 10000
+  }
+}

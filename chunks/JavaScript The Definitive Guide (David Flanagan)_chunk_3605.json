@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3605",
+  "content": "uintes equações:\nx' = ax + cy + e\ny' = bx + dy + f\nVocê pode aplicar uma transformação arbitrária no sistema de coordenadas atual, passando esses seis \nparâmetros para o método\n transform(). A Figura 21-7 ilustra dois tipos de transformações – cisa-\n\nCapítulo 21     Mídia e gráficos em scripts      627\nJavaScript do\n lado do cliente\nlhamentos e rotações em torno de um ponto especificado – que podem ser implementadas com o \nmétodo transform() como segue:\n// Transformação de cisalhamento:\n//  x' = x + kx*y;\n//  y' = y + ky*x;\nfunction shear(c,kx,ky) { c.transform(1, ky, kx, 1, 0, 0); }\n// Gira",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3605,
+    "totalChunks": 10000
+  }
+}

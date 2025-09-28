@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4069",
+  "content": "ntos de array) e retorna um novo \nvalor “reduzido”.\ninicial\nUm valor inicial opcional para servir de base para a redução do array. Se esse argumento é \nespecificado, reduceRight() se comporta como se fosse inserido no final de array.\nRetorna\nO valor reduzido do array, que é o valor de retorno da última chamada de \nf.\nDescrição\nreduceRight() funciona como o método reduce(): chama a função f n-1 vezes para reduzir os n ele-\nmentos de array a um único valor. reduceRight() difere de reduce() somente pelo fato de enumerar \nos elementos do array da direita para a esquerda (do índice mais alto para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4069,
+    "totalChunks": 10000
+  }
+}

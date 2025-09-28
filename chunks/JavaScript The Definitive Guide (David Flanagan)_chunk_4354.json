@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4354",
+  "content": "dades predefinidas (como os métodos) de objetos inter-\nnos normalmente não são enumeráveis. O método propertyIsEnumerable() fornece uma maneira de \ndistinguir entre propriedades enumeráveis e não enumeráveis. Note, entretanto, que a especificação \nECMAScript diz que propertyIsEnumerable() não examina o encadeamento de protótipos, ou seja, \nsó funciona para propriedades locais de um objeto e não fornece uma maneira de testar a capacidade \nde propriedades herdadas serem enumeradas.\nExemplo\nvar o = new Object();               // Cria um objeto\no.x = 3.14;                         // Define uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4354,
+    "totalChunks": 10000
+  }
+}

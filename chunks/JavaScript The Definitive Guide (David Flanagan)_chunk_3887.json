@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3887",
+  "content": "s seções anteriores mostraram como você pode obter ou criar Blobs. Agora vamos avançar e come-\nçar a falar sobre o que é possível fazer com os Blobs obtidos ou criados. Uma das coisas mais simples \nque podem ser feitas com um Blob é criar um URL que se refira a ele. Então, você pode usar esse \nURL em qualquer lugar onde usaria um URL normal: no DOM, em uma folha de estilo ou mesmo \ncomo destino de um XMLHttpRequest.\nCrie um URL de Blob com a função \ncreateObjectURL(). Quando este livro estava sendo escrito, a \nversão preliminar da especificação e o Firefox 4 colocavam essa função em um objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3887,
+    "totalChunks": 10000
+  }
+}

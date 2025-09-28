@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5609",
+  "content": "ssionStorage, objetos Window, 575, \n988\n    API de armazenamento, 577\n    cookies    versus, 580\n    duração e escopo de armazenamento, 576\n    eventos de armazenamento, 578\npropriedade shadowBlur, 639, 856\npropriedade shadowColor, 639, 856\npropriedade sheet, objeto Link, 947\npropriedade sheet, objeto Style, 973–974\npropriedade shiftKey, objeto Event, 439, 455, 472, \n901\npropriedade size\n    elemento Select, 970–971\n    objeto Blob, 847\n    objeto Input, 928\npropriedade source\n    objeto MessageEvent, 662, 956\n    objeto RegExp, 817–818\npropriedade speed, objeto Geocoordinates,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5609,
+    "totalChunks": 10000
+  }
+}

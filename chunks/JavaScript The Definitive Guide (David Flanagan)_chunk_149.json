@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_149",
+  "content": "r uma exceção). Como é possível \nusar espaços e novas linhas livremente em seus programas, você pode formatar e endentar os progra-\nmas de um modo organizado e harmonioso, que torne o código fácil de ler e entender.\nAlém do caractere de espaço normal (\n\\u0020), JavaScript também reconhece os seguintes caracteres \ncomo espaço em branco: tabulação (\n\\u0009), tabulação vertical (\\u000B), avanço de página (\\u000C), \nespaço não separável (\n\\u00A0), marca de ordem de byte (\\uFEFF) e qualquer caractere unicode da ca-\ntegoria Zs. JavaScript reconhece os seguintes caracteres como términos de linha:",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 149,
+    "totalChunks": 10000
+  }
+}

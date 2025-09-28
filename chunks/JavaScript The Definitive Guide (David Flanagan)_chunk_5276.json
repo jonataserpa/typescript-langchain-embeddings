@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5276",
+  "content": "a.\nunsigned short HEADERS_RECEIVED = 2\nO método send() foi chamado e os cabeçalhos de resposta foram recebidos, mas o corpo da \nresposta ainda não foi recebido.\n\n998          Parte IV     Referência de JavaScript do lado do cliente\nunsigned short LOADING = 3\nO corpo da resposta foi recebido, mas não está completo.\nunsigned short DONE = 4\nA resposta HTTP foi totalmente recebida ou parou por causa de um erro.\nPropriedades\nreadonly unsigned short readyState\nO estado da requisição HTTP e da resposta do servidor. O valor dessa propriedade começa em \n0 quando um XMLHttpRequest é criado e aumenta",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5276,
+    "totalChunks": 10000
+  }
+}

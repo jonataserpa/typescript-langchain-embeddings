@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_177",
+  "content": "dizer:\nreturn; true;\nContudo, você provavelmente quis dizer:\nreturn true;\n\nCapítulo 2     Estrutura léxica      27\nJavaScript básica\nIsso significa que não se deve inserir uma quebra de linha entre return, break ou continue e a expres-\nsão que vem após a palavra-chave. Se você inserir uma quebra de linha, seu código provavelmente vai \nfalhar de uma maneira inesperada, difícil de depurar.\nA segunda exceção envolve os operadores \n++ e −− (Seção 4.8). Esses podem ser operadores prefixados, \nque aparecem antes de uma expressão, ou operadores pós-fixados, que aparecem depois de uma ex-\npressão.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 177,
+    "totalChunks": 10000
+  }
+}

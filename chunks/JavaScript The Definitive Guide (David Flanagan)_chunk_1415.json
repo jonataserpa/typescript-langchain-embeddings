@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1415",
+  "content": "b não especificam qualquer \ncaractere a ser usado em uma string coincidente; o que eles especificam, no entanto, são as posições \nválidas em que uma correspondência pode ocorrer. Às vezes esses elementos são chamados de âncoras \nde expressão regular, pois ancoram o padrão em uma posição específica na string de busca. Os ele-\n2\n  Exceto dentro de uma classe de caracteres (colchetes), onde \\b corresponde ao caractere de backspace.\n\n252          Parte     I     JavaScript     básica\nmentos de âncora mais comumente usados são ^, que prende o padrão ao início da string, e $, que \nancora o padrão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1415,
+    "totalChunks": 10000
+  }
+}

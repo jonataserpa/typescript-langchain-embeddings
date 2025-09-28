@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_477",
+  "content": "ões locais. O código a seguir demonstra isso:\nvar geval = eval;      // Usar outro nome faz uma eval global\nvar x = \"global\", y = \"global\";  // Duas variáveis globais\n\n80          Parte     I     JavaScript     básica\nfunction f() {         // Esta função faz uma eval local\n    var x = \"local\";   // Define uma variável local\n    eval(\"x += 'changed';\");    // eval direta configura variável local\n    return x;         // Retorna variável local alterada\n}\nfunction g() {         // Esta função faz uma eval global\n    var y = \"local\";   // Uma variável local\n    geval(\"y += 'changed';\");   //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 477,
+    "totalChunks": 10000
+  }
+}

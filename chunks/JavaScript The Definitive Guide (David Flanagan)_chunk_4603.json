@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4603",
+  "content": "is de uma matriz de transfor-\nmação afim T de 3x3:\na c e\nb d f\n0 0 1\ntransform()\n configura a matriz de transformação atual com o produto da matriz de transformação \ne T:\nCTM' = CTM × T\nTranslações, mudanças de escala e rotações podem ser implementadas em termos desse método \ntransform() de uso geral. Para uma translação, chame transform(1,0,0,1,dx,dy). Para uma mudança \nde escala, chame transform(sx, 0, 0, sy, 0, 0). Para uma rotação no sentido horário em torno da \norigem, por um ângulo x, use:\ntransform(cos(x),sin(x),-sin(x), cos(x), 0, 0)\nPara um cisalhamento por um fator k paralelo ao",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4603,
+    "totalChunks": 10000
+  }
+}

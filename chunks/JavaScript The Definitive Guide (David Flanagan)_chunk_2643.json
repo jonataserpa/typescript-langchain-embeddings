@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2643",
+  "content": "0);\n                // Soma deltaY a contentY, mas não deixa menor do que minoffset\n                contentY = Math.max(contentY + deltaY, minoffset);\n                contentY = Math.min(contentY, 0);        // Nem maior do que 0\n                content.style.top = contentY + \"px\";      // Configura o novo \n// deslocamento.\n   }\n  }\n        // Não permite que esse evento borbulhe. Impede qualquer ação padrão.\n        // Isso impede o navegador de usar o evento mousewheel para rolar\n        // o documento. Espera-se que chamar preventDefault() em um evento wheel\n        // também impeça a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2643,
+    "totalChunks": 10000
+  }
+}

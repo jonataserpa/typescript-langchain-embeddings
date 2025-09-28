@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2151",
+  "content": "documento ou ao canto superior \nesquerdo da janela de visualização em que o documento é exibido. Em janelas e guias de nível supe-\nrior, a “janela de visualização” é a parte do navegador que realmente exibe conteúdo de documento: \nisso exclui a “moldura” do navegador, como menus, barras de ferramentas e guias. Para documentos \nexibidos em quadros, a janela de visualização é o elemento \n<iframe> que define o quadro. Em um ou \noutro caso, quando falamos sobre a posição de um elemento, devemos esclarecer se estamos usando \ncoordenadas do documento ou coordenadas da janela de visualização. (Note",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2151,
+    "totalChunks": 10000
+  }
+}

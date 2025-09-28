@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4456",
+  "content": "comprimento\nO número de caracteres na substring. Se esse argumento é omitido, a substring retornada \ninclui todos os caracteres, da posição inicial até o fim da string.\nRetorna\nUma cópia da parte de \nstring, começando (e incluindo) no caractere especificado por início e con-\ntinuando até comprimento caracteres; ou até o fim da string, se comprimento não é especificado.\nDescrição\nsubstr() extrai e retorna uma substring de string. Não modifica string.\nNote que \nsubstr() especifica a substring desejada com uma posição de caractere e um comprimento. \nIsso fornece uma alternativa útil a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4456,
+    "totalChunks": 10000
+  }
+}

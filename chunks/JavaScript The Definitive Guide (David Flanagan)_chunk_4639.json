@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4639",
+  "content": "use addRule(), em vez disso, e passe a string seletora e a string de estilos (sem \nchaves) como dois argumentos separados, passando o índice como terceiro argumento.\nDataTransfer\numa transferência de dados via arrastar e soltar\nQuando o usuário executa uma operação de arrastar e soltar, uma sequência de eventos é disparada \nna origem ou no alvo da soltura (ou em ambos, caso os dois ocorram em uma janela do navegador). \nEsses eventos são acompanhados por um objeto evento cuja propriedade \ndataTransfer (consulte \nEvent) se refere a um objeto DataTransfer. O objeto DataTransfer é central em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4639,
+    "totalChunks": 10000
+  }
+}

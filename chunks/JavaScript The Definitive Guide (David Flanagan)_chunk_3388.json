@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3388",
+  "content": "o\n    this.key = function(n) {\n        if (n < 0 || n >= keys.length) return null;\n        return    keys[n];\n    };\n \n    // Retorna o valor do cookie nomeado ou null.\n    this.getItem = function(name) { return cookies[name] || null; };\n    // Armazena um valor\n    this.setItem = function(key, value) {\n        if (!(key in cookies)) {    // Se não existe nenhum cookie com esse nome\n            keys.push(key);        // Adiciona key no array de keys\n            this.length++;         // E incrementa o comprimento\n  }\n        // Armazena esse par nome/valor no conjunto de cookies.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3388,
+    "totalChunks": 10000
+  }
+}

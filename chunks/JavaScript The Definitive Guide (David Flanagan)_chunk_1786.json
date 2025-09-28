@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1786",
+  "content": "Para dar crédito à Microsoft, o IE9 agora oferece suporte para o elemento <canvas> e para o método addEventListener().\n\n318          Parte II     JavaScript do lado do cliente\ntodos os fornecedores estavam trabalhando na implementação de ES5. A transição entre ES3 e ES5 \npode ser a fonte de problemas de compatibilidade, pois alguns navegadores suportam o modo res-\ntrito enquanto outros não, mas a expectativa é de que os fornecedores de navegador implementem \nES5 de forma interoperável.\nO primeiro passo para tratar de problemas de compatibilidade em JavaScript do lado do cliente é \nsaber",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1786,
+    "totalChunks": 10000
+  }
+}

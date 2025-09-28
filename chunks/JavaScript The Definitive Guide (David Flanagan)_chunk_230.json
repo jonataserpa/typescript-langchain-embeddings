@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_230",
+  "content": "cape que representa um caractere de \nnova linha.\nOutro exemplo, mencionado anteriormente, é o escape \\’, que representa o caractere de aspas sim-\nples (ou apóstrofo). Essa sequência de escape é útil quando se precisa incluir um apóstrofo em uma \nstring literal que está contida dentro de aspas simples. Você pode ver por que elas são chamadas de \nsequências de escape: a barra invertida permite escapar da interpretação normal do caractere de aspas \nsimples. Em vez de utilizá-lo para marcar o final da string, você o utiliza como um apóstrofo:\n'You\\'re right, it can\\'t be a quote'\nA Tabela 3-1",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 230,
+    "totalChunks": 10000
+  }
+}

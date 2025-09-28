@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2043",
+  "content": "() portável e \nindependente de navegador, chamado $().\nO código de correspondência de seletor CSS da jQuery foi decomposto e lançado como uma biblio-\nteca independente, chamada Sizzle, que foi adotada pela Dojo e por outras bibliotecas do lado do \ncliente\n3\n. A vantagem de usar uma biblioteca como a Sizzle (ou uma biblioteca que utiliza Sizzle) é \nque as seleções funcionam até em navegadores mais antigos, e existe um conjunto básico de seletores \nque garantidamente funcionam em todos os navegadores.\n15.2.6   document.all[]\nAntes do DOM ser padronizado, o IE4 introduziu a coleção",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2043,
+    "totalChunks": 10000
+  }
+}

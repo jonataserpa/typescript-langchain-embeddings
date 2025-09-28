@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2877",
+  "content": "igos, que não suportam CORS, só podem \nacessar seu serviço com um elemento \n<script>. O corpo de sua resposta JSON é (por definição) \ncódigo JavaScript válido e o navegador vai executá-lo quando ele chegar. Executar dados codificados \ncom JSON os decodifica, mas o resultado ainda é apenas dados, e não faz nada.\nÉ aí que a parte P de JSONP entra em ação. Quando chamado por meio de um elemento \n<script>, \nseu serviço deve “preencher” sua resposta circundando-a com parênteses e prefixando-a com o nome \nde uma função JavaScript. Em vez de apenas enviar dados JSON, como segue:\n[1, 2, {\"buckle\":",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2877,
+    "totalChunks": 10000
+  }
+}

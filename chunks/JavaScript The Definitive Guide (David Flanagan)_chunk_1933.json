@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1933",
+  "content": "tificá-lo explicitamente quando um erro ocorrer:\n// Exibe mensagens de erro em uma caixa de diálogo, mas nunca mais do que 3\nwindow.onerror = function(msg, url, line) {\n    if (onerror.num++ < onerror.max) {\n        alert(\"ERROR: \" + msg + \"\\n\" + url + \":\" + line);\n        return    true;\n }\n}\nonerror.max = 3;\nonerror.num = 0;\n14.7   Elementos de documento como propriedades de Window\nSe você nomeia um elemento em seu documento HTML usando o atributo id e se o objeto Window \nainda não tem uma propriedade com esse nome, o objeto Window recebe uma propriedade não \nenumerável cujo nome é o valor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1933,
+    "totalChunks": 10000
+  }
+}

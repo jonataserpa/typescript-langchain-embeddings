@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2814",
+  "content": "Os formulários HTML usam seções de consulta codificadas como formulário para codificar dados \nem um URL, mas o uso de XMLHttpRequest nos dá a liberdade de codificar nossos dados como \nquisermos. Com suporte apropriado no servidor, nossos dados de consulta de pizza poderiam ser \ncodificados em um URL mais legível como o seguinte:\nhttp://restaurantfinder.example.com/02134/1km/pizza\n18.1.3.2   Pedidos codificados como JSON\nO uso de codificação de formulário no corpo de requisições POST é uma convenção comum, mas \nde forma alguma é um requisito do protocolo HTTP. Nos últimos anos, o formato JSON",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2814,
+    "totalChunks": 10000
+  }
+}

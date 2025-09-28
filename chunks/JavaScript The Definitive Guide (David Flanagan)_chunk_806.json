@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_806",
+  "content": "deiro: a2 tem valor undefined no índice 0\nAlgumas  implementações  mais  antigas  (como  o  Firefox  3)  inserem  incorretamente  os  valores  \nundefined nos arrays literais com valores omitidos. Nessas implementações, [1,,3] é o mesmo que \n[1,undefined,3]. \nEntender os arrays esparsos é importante para compreender a verdadeira natureza dos arrays em \nJavaScript. Na prática, contudo, em sua maioria, os arrays em JavaScript com que você vai trabalhar \nnão serão esparsos. E, caso você tenha que trabalhar com um array esparso, seu código provavelmen-\nte vai tratá-lo como trataria um array não",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 806,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_701",
+  "content": "r \nnão qualificado, como x, e é preciso ser explícito sobre o acesso à propriedade:\ndelete x;        // SyntaxError no modo restrito\ndelete this.x;   // Isto funciona\n6.4   Testando   propriedades\nOs objetos em JavaScript podem ser considerados conjuntos de propriedades e frequentemente é \nútil testar a participação como membro do conjunto – verificar se um objeto tem uma proprieda-\nde com determinado nome. Isso é feito com o operador in, com os métodos hasOwnProperty() e \npropertyIsEnumerable() ou simplesmente consultando-se a propriedade.\nO operador \nin espera um nome de propriedade (como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 701,
+    "totalChunks": 10000
+  }
+}

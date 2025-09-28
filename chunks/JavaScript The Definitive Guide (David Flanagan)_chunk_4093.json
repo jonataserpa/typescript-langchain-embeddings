@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4093",
+  "content": "alse. Todos \nos outros valores primitivos, exceto false (mas incluindo a string “false”), e todos os objetos e arrays \nsão convertidos em true.\nMétodos\ntoString()\nRetorna “true” ou “false”, dependendo do valor booleano representado pelo objeto Boolean.\n\n      Referência de JavaScript básica      725\nReferência de \nJavaScript básica\nvalueOf()\nRetorna o valor booleano primitivo contido no objeto Boolean.\nDescrição\nOs valores booleanos são um tipo de dados fundamental em JavaScript. O objeto Boolean é um \nobjeto empacotador em torno do valor booleano. Esse tipo de objeto Boolean existe",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4093,
+    "totalChunks": 10000
+  }
+}

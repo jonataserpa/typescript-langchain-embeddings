@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5607",
+  "content": "edade scoped, objeto Style, 973–974\npropriedade screen, objeto Window, 339, 987\npropriedade scripts, objeto Document, 357, 878\npropriedade seamless, objeto IFrame, 924\npropriedade search\n    objeto Link, 947\n    objeto Location, 334, 949\n    objeto    WorkerLocation,    996\npropriedade seekable, objeto MediaElement, 605, \n952\npropriedade seeking, objeto MediaElement, 952\npropriedade selected, objeto Option, 394, 965\npropriedade selectedIndex\n    elemento Select, 394, 970–971\n    objeto HTMLOptionsCollection, 922\npropriedade selectedOption, objeto Input, 928\npropriedade selectedOptions,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5607,
+    "totalChunks": 10000
+  }
+}

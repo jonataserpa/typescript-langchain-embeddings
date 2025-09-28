@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1907",
+  "content": "navegador Web. No IE é “Microsoft Internet Explorer”. No Firefox essa \npropriedade é “Netscape”. Por compatibilidade com código de farejamento de navegador já \nexistente, outros navegadores frequentemente também informam o nome “Netscape”.\nappVersion\nEssa propriedade normalmente começa com um número e segue a isso uma string detalhada \ncontendo informações do fornecedor e da versão do navegador. O número no início dessa \nstring em geral é 4.0 ou 5.0, para indicar compatibilidade genérica com navegadores de quarta \ne de quinta geração. Não há um formato padrão para a string appVersion, de modo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1907,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3606",
+  "content": "= x + kx*y;\n//  y' = y + ky*x;\nfunction shear(c,kx,ky) { c.transform(1, ky, kx, 1, 0, 0); }\n// Gira theta radianos no sentido horário em torno do ponto (x,y)\n// Isso também pode ser feito com uma sequência translação,rotação,translação\nfunction rotateAbout(c,theta,x,y) {\n    var ct = Math.cos(theta), st = Math.sin(theta);\n    c.transform(ct, -st, st, ct, -x*ct-y*st+x, x*st-y*ct+y);\n}\nO método setTransform() recebe os mesmos argumentos que transform(), mas em vez de transfor-\nmar o sistema de coordenadas atual, ele ignora o sistema atual, transforma o sistema de coordenadas \npadrão e torna o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3606,
+    "totalChunks": 10000
+  }
+}

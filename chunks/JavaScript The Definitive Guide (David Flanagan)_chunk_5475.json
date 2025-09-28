@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5475",
+  "content": "ins( ), DOMTokenList, 427, 885–\n886\nmétodo contents( ), jQuery, 567\nmétodo count( ), objeto Console, 866\nmétodo createCaption( ), objeto Table, 974–975\nmétodo createIndex( ), armazém de objetos, 691–\n692\nmétodo createObjectStore( ), objetos IndexedDB, \n691–692\nmétodo createRange( ), 398\nmétodo createTBody( ), objeto Table, 974–975\nmétodo createTFoot( ), objeto Table, 974–975\nmétodo createTHead( ), objeto Table, 974–975\nmétodo css( ), jQuery, 518\nmétodo data( ), jQuery, 522, 570\nmétodo datepicker( ), 572\nmétodo dblclick( ), jQuery, 527\nmétodo debug( ), objeto Console, 866\nmétodo delay( ),",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5475,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_399",
+  "content": "ão é efetuada somente \nse nenhum dos operandos é uma string.\nTecnicamente, o operador \n+ se comporta como segue:\n •   Se um de seus valores de operando é um objeto, ele o converte em um valor primitivo utili-\nzando o algoritmo de objeto para valor primitivo descrito na Seção 3.8.3: os objetos Date são \nconvertidos por meio de seus métodos \ntoString() e todos os outros objetos são convertidos via \nvalueOf(), caso esse método retorne um valor primitivo. Contudo, a maioria dos objetos não \ntem um método valueOf() útil; portanto, também são convertidos via toString().\n •   Após a conversão de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 399,
+    "totalChunks": 10000
+  }
+}

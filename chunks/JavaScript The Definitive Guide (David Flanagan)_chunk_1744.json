@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1744",
+  "content": "gador que os suporte vai respeitar o atributo async e ignorar \no atributo defer.\nNote que os scripts adiados são executados na ordem em que aparecem no documento. Os scripts \nassíncronos são executados enquanto carregam, ou seja, podem ser executados fora da ordem.\nQuando este livro estava sendo escrito, os atributos \nasync e defer ainda não estavam amplamente \nimplementados e devem ser considerados apenas como dicas de otimização: suas páginas Web de-\nvem ser projetadas para funcionar corretamente, mesmo que scripts adiados e assíncronos sejam \nexecutados de forma síncrona.\nVocê pode",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1744,
+    "totalChunks": 10000
+  }
+}

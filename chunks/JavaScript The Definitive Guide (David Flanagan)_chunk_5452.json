@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5452",
+  "content": "dos attachEvent( ) e addEventListener( ), \n313\n        métodos attachEvent( ) e detachEvent( ), 447, \n907\n    persistência de userData, 585–587\n    propriedade clientInformation, objeto Window, \n337\n    propriedade    fi lter, 417\n    propriedade innerText, em vez de textContent, \n370\n    propriedade rules, em vez de cssRules, 430\n\nÍndice          1027\n    removendo tags de script e outro conteúdo execu-\ntável no IE8, 329\n    sem suporte para getElementsByClassName( ), \n359\n    uso de objetos host que podem ser chamados, em \nvez de objetos Function nativos, 186\n    versão atual, 319",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5452,
+    "totalChunks": 10000
+  }
+}

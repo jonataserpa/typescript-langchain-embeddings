@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1557",
+  "content": "t     básica\n11.6   Cláusulas catch múltiplas\nEm JavaScript 1.5, a instrução try/catch foi estendida para permitir várias cláusulas catch. Para usar \nesse recurso, coloque após o nome do parâmetro da cláusula catch a palavra-chave \nif e uma expres-\nsão condicional:\ntry {\n    // vários tipos de exceção podem ser lançados aqui\n    throw    1;\n}\ncatch(e if e instanceof ReferenceError) {\n    // Trata de erros de referência aqui\n}\ncatch(e if e === \"quit\") {\n    // Trata da string \"quit\" lançada\n}\ncatch(e if typeof e === \"string\") {\n    // Trata de qualquer outra string lançada aqui\n}\ncatch(e) {",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1557,
+    "totalChunks": 10000
+  }
+}

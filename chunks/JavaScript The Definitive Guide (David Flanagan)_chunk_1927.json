@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1927",
+  "content": "go -->\n<button onclick=\"okay()\">Okay</button>  <!-- Configura o valor de retorno e fecha -->\n<button onclick=\"cancel()\">Cancel</button> <!-- Fecha sem nenhum valor de retorno -->\n</div>\n<script>\n// Cria o código HTML do corpo do diálogo e o exibe no fieldset\nvar args = dialogArguments;\nvar text = \"<legend>\" + args[0] + \"</legend>\";\nfor(var i = 1; i < args.length; i++)\n    text += \"<label>\" + args[i] + \": <input id='f\" + i + \"'></label><br>\";\ndocument.getElementById(\"fields\").innerHTML = text;\n// Fecha a caixa de diálogo sem configurar um valor de retorno\nfunction cancel() { window.close();",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1927,
+    "totalChunks": 10000
+  }
+}

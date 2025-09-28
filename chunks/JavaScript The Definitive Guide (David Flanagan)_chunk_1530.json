@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1530",
+  "content": "xt() que retoma a execução da função geradora e permite que continue a executar \naté que sua próxima instrução yield seja encontrada. Quando isso acontece, o valor da instrução \nyield na função geradora se torna o valor de retorno do método next() do gerador. Se uma função \ngeradora retorna (executando uma instrução return ou atingindo o fim de seu corpo), o método \nnext() do gerador lança StopIteration.\nO fato de os geradores terem um método \nnext() que pode lançar StopIteration deve tornar claro \nque eles são objetos iteradores\n1\n. Na verdade, eles são iteradores iteráveis, ou seja, podem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1530,
+    "totalChunks": 10000
+  }
+}

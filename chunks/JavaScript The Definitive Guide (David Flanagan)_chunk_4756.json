@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4756",
+  "content": "e\nondblclick\nocorrem dois cliques rápidos de mouse\nondrag\no arrasto continua (disparado na origem do arrasto)\nondragend\no arrasto termina (disparado na origem do arrasto)\nondragenter\no arrasto entra (disparado no alvo da soltura)\nondragleave\no arrasto sai (disparado no alvo da soltura)\nondragover\no arrasto continua (disparado no alvo da soltura)\nondragstart\no usuário inicia o arrasto e soltura (disparado na origem do arrasto)\nondrop\no usuário conclui o arrasto e soltura (disparado no alvo da soltura)\nonerror*\no carregamento do recurso falhou (normalmente devido a um erro de rede)\nonfocus*\no",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4756,
+    "totalChunks": 10000
+  }
+}

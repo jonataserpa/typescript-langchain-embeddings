@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3667",
+  "content": "a não ser que você configure essa propriedade com uma cor \ntranslúcida ou opaca. Essa propriedade só pode ser configurada com uma string de cor – padrões e \ndegradês não são permitidos para sombras. Usar uma cor de sombra translúcida produz efeitos de \nsombra mais realistas, pois permite que o fundo apareça.\nAs propriedades \nshadowOffsetX e shadowOffsetY especificam os deslocamentos X e Y da sombra. O \npadrão para as duas propriedades é 0, o que coloca a sombra diretamente embaixo do desenho, \nonde ela não é visível. Se você configurar as duas propriedades com um valor positivo, as sombras",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3667,
+    "totalChunks": 10000
+  }
+}

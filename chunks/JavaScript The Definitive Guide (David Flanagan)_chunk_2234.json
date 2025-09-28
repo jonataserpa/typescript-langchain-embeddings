@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2234",
+  "content": "usuário digita nele. Conforme o nome indica, isso é útil para permitir que um usuário \ndigite senhas sem se preocupar com o fato de outras pessoas lerem por cima de seus ombros. Note \nque o elemento Password protege a entrada do usuário contra curiosos, mas quando o formulário \né enviado, essa entrada não é criptografada (a não ser que seja enviada por meio de uma conexão \nHTTPS segura) e pode ficar visível ao ser transmitida pela rede.\nPor fim, um elemento \n<input type=\"file\"> permite ao usuário digitar o nome de um arquivo a ser \ncarregado no servidor Web. Ele é um campo de texto combinado",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2234,
+    "totalChunks": 10000
+  }
+}

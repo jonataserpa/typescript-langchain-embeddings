@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5002",
+  "content": "jQuery\nEstas são funções e propriedades (não métodos) diversas da jQuery. Consulte a Seção 19.7 para \nobter mais detalhes.\njQuery.boxModel\nUm sinônimo desaprovado para jQuery.support.boxModel.\njQuery.browser\nEssa propriedade se refere a um objeto que identifica o fornecedor e a versão do navegador. O \nobjeto tem a propriedade msie para Internet Explorer, mozilla para Firefox, webkit para Safari \ne Chrome e opera para Opera. A propriedade version é o número de versão do navegador.\njQuery.contains(a,b):boolean\nRetorna true se o elemento do documento a contém o elemento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5002,
+    "totalChunks": 10000
+  }
+}

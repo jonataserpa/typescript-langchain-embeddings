@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_515",
+  "content": "= 0 e nenhum corpo é necessário no laço. \nContudo, a sintaxe de JavaScript exige uma instrução como corpo do laço, de modo que é utilizada \numa instrução vazia – apenas um ponto e vírgula.\nNote que a inclusão acidental de um ponto e vírgula após o parêntese da direita de um laço\n for, laço \nwhile ou instrução if pode causar erros frustrantes e difíceis de detectar. Por exemplo, o código a \nseguir provavelmente não faz o que o autor pretendia:\nif ((a == 0) || (b == 0));       // Opa! Esta linha não faz nada...\n    o = null;         // e esta linha é sempre executada.\nAo se usar a instrução",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 515,
+    "totalChunks": 10000
+  }
+}

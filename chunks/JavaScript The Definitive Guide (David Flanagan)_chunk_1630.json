@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1630",
+  "content": "ngs para a rotina de tratamento de \n//evento \"data\"\ns.setEncoding(enc);   // Como decodificar bytes: \"utf8\", \"ascii\" ou \"base64\"\nOs fluxos que podem ser gravados são menos centrados em eventos do que os fluxos que podem ser \nlidos. Use o método write() para enviar dados e o método end() para fechar o fluxo quando todos os \ndados tiverem sido gravados. O método write() nunca é bloqueado. Se o Node não consegue gravar \nos dados imediatamente e precisa colocá-los em um buffer internamente, o método write() retorna \nfalse. Registre uma rotina de tratamento para “drenar” eventos, caso precise",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1630,
+    "totalChunks": 10000
+  }
+}

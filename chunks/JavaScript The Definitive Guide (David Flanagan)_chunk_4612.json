@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4612",
+  "content": "função \nconsole.log() básica \né praticamente universal, mas as outras funções podem não ser tão bem suportadas em todos os \nnavegadores.\nNote que em alguns navegadores mais antigos, a propriedade \nconsole é definida apenas quando a ja-\nnela de console está aberta, sendo que executar scripts que utilizam a API Console sem que a console \nesteja aberta vai causar erros.\nConsulte também \nConsoleCommandLine.\nMétodos\nvoid assert(any expressão, string mensagem)\nExibe uma mensagem de erro na console caso expressão seja false ou um valor falso, como null, \nundefined, 0 ou a string vazia.\nvoid",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4612,
+    "totalChunks": 10000
+  }
+}

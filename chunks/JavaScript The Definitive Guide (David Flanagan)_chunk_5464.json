@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5464",
+  "content": "a-chave let, 263\nlaços for/each, 267–268\n    defi nidos na E4X, iteração por meio de listas de \ntags e atributos XML, 279\n    em inclusões de array, 274\n    enumerando propriedades, 123–125\n    extensão para trabalhar com objetos que podem \nser iterados, 267–271\n    instruções continue em, 102\n    iterando arrays, 143\n    iterando por meio de métodos, campos e proprie-\ndades de classes e objetos Java, 284\n    laços for/in, 98\n    ordem de enumeração de propriedade, 99\n\nÍndice          1029\n    palavra-chave let em, 263\n    usando com arrays associativos, 118\nlaços infi nitos, 97\nlaços while,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5464,
+    "totalChunks": 10000
+  }
+}

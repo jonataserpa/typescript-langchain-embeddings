@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_35",
+  "content": ".............................................................. 258\n11.1   Subconjuntos de JavaScript 259\n11.2   Constantes e variáveis com escopo 262\n11.3   Atribuição de desestruturação 264\n11.4   Iteração   267\n11.5   Funções   abreviadas   275\n11.6   Cláusulas catch múltiplas 276\n11.7   E4X: ECMAScript para XML 276\n  12 JavaScript do lado do servidor ...................................................................................... 281\n12.1   Scripts Java com Rhino 281\n12.2   E/S assíncrona com o Node 288\n\nxvi          Sumário\nParte II   JavaScript do lado do cliente\n  13 JavaScript em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 35,
+    "totalChunks": 10000
+  }
+}

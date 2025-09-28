@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2567",
+  "content": "tamente, \nem vez de open. Há um problema semelhante (porém mais pernicioso) nos formulários, pois os no-\nmes e identificações dos seus elementos definem propriedades no elemento contêiner do formulário \n(consulte a Seção 15.9.1). Assim, se um formulário contém um elemento com a identificação “loca-\ntion”, por exemplo, todas as rotinas de tratamento de evento HTML dentro desse formulário devem \nusar window.location, em vez de location, caso queiram se referir ao objeto Location da janela.\n17.3.4   Valor de retorno de rotina de tratamento\nO valor de retorno de uma rotina de tratamento de evento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2567,
+    "totalChunks": 10000
+  }
+}

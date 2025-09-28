@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2132",
+  "content": "ramente, define um método utilitário que recebe uma string HTML e retorna\n    // um DocumentFragment contendo a representação analisada desse HTML.\n\nCapítulo 15     Escrevendo script de documentos      377\nJavaScript do\n lado do cliente\n    function fragment(html) {\n        var elt = document.createElement(\"div\");          // Cria elemento vazio\n        var frag = document.createDocumentFragment();    // Cria fragmento vazio\n        elt.innerHTML = html;                   // Configura o conteúdo do elemento\n        while(elt.firstChild)                   // Move todos os nós",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2132,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1234",
+  "content": ".equals = generic.equals;\nNote que o método generic.equals() faz apenas uma comparação superficial e não é adequado para \nuso com classes cujas propriedades de instância se referem a objetos com seus próprios métodos \nequals(). Note também que esse método inclui código de caso especial para manipular a proprieda-\nde adicionada nos objetos quando são inseridos em um Set (Exemplo 9-6).\nExemplo 9-9 Métodos genéricos para empréstimo\nvar generic = {\n    // Retorna uma string que contém o nome da função construtora\n    // se estiver disponível e os nomes e valores de todas as propriedades\n    //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1234,
+    "totalChunks": 10000
+  }
+}

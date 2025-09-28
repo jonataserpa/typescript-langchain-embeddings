@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2379",
+  "content": "nt translucent\"\n    style=\"background-color:#ccc;    font-weight:bold;\">\nThis is another window. Its <tt>z-index</tt> puts it on top of the other one.\nCSS styles make its content area translucent, in browsers that support that.\n</div>\n</div>\nA principal deficiência desse exemplo é que a folha de estilo especifica um tamanho fixo para todas \nas janelas. Como as partes da barra de título e do conteúdo da janela devem ser posicionadas pre-\ncisamente dentro da janela global, mudar o tamanho de uma janela exige alterar o valor de várias \npropriedades de posicionamento em todas as três regras",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2379,
+    "totalChunks": 10000
+  }
+}

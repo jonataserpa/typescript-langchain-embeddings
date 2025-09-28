@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1452",
+  "content": "çar a \npesquisar uma nova string em alguma posição arbitrária dentro da string, em vez de começar no \ninício. Se sua expressão regular não tem o flag g ativo, então você não precisa se preocupar com nada \ndisso, evidentemente. Lembre-se também de que em ECMAScript 5 cada avaliação de uma expres-\nsão regular literal cria um novo objeto RegExp com sua própria propriedade lastIndex e isso reduz o \nrisco de usar acidentalmente um valor de lastIndex que“sobrou”.\n\nAté agora, este livro descreveu a linguagem JavaScript completa e oficial, padronizada por ECMA-\nScript 3 e ECMAScript 5. Este capítulo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1452,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5373",
+  "content": "método getYear( ), 735\n        método now( ), 736\n        método parse( ), 736\n        método seMilliseconds( ), 738\n        método setDate( ), 737\n        método setFullYear( ), 737\n        método setHours( ), 738\n        método setMinutes( ), 739\n        método setMonth( ), 739\n        método setSeconds( ), 740\n        método setTime( ), 740\n        método setUTCDate( ), 740–741\n        método setUTCFullYear( ), 740–741\n        método setUTCHours( ), 742\n        método setUTCMilliseconds( ), 742\n        método setUTCMinutes( ), 743\n        método setUTCMonth( ), 743\n        método",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5373,
+    "totalChunks": 10000
+  }
+}

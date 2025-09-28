@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4512",
+  "content": "propriedade type (consulte FormControl) “submit”, as outras propriedades listadas aqui especificam \nparâmetros de envio de formulário que anulam propriedades similares no form de Button (consulte \nFormControl).\nPropriedades\nAs propriedades a seguir só têm significado quando <button> tem o type “submit”.\nstring formAction\nEssa propriedade espelha o atributo HTML formaction. Para botões de envio, anula a proprie-\ndade action do formulário.\nstring formEnctype\nEssa propriedade espelha o atributo HTML formenctype. Para botões de envio, anula a pro-\npriedade enctype do formulário e tem os mesmos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4512,
+    "totalChunks": 10000
+  }
+}

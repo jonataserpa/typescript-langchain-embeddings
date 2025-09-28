@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3842",
+  "content": "ents);\n}\n22.5   Arrays tipados e ArrayBuffers\nConforme você aprendeu no Capítulo 7, em JavaScript os arrays são objetos de uso geral, com pro-\npriedades numéricas e uma propriedade especial length. Os elementos do array podem ser qualquer \nvalor de JavaScript. Os arrays podem aumentar ou diminuir dinamicamente e podem ser esparsos. \nAs implementações de JavaScript fazem muitas otimizações para que os usos típicos de arrays de \nJavaScript sejam muito rápidos. Os arrays tipados são objetos semelhantes a um array (Seção 7.11) \nque diferem dos arrays normais de algumas maneiras importantes:\n •",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3842,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4357",
+  "content": "ão permanente: uma vez \nselado, um objeto não pode deixar de estar selado.\n\n808          Parte III     Referência de JavaScript básica\nNote que Object.seal() não transforma as propriedades em somente para leitura; para isso, consulte \nObject.freeze(). Note também que Object.seal() não afeta propriedades herdadas. Se um objeto \nselado tem um objeto não selado em seu encadeamento de protótipos, então propriedades herdadas \npodem ser adicionadas ou removidas.\nNote que esse não é um método a ser chamado em um objeto: é uma função global e você deve \npassar um objeto para ela.\nConsulte",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4357,
+    "totalChunks": 10000
+  }
+}

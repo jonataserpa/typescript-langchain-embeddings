@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_865",
+  "content": "de valores\nvar product = a.reduce(function(x,y) { return x*y }, 1);  // Produto de valores\nvar max = a.reduce(function(x,y) { return (x>y)?x:y; });  // Maior valor\nreduce()\n recebe dois argumentos. O primeiro é a função que efetua a operação de redução. A tarefa \ndessa função de redução é combinar de algum modo ou reduzir dois valores a um único e retor-\nnar esse valor reduzido. Nos exemplos anteriores, as funções combinam dois valores somando-os, \nmultiplicando-os e escolhendo o maior. O segundo argumento (opcional) é um valor inicial a ser \npassado para a função.\nAs funções usadas com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 865,
+    "totalChunks": 10000
+  }
+}

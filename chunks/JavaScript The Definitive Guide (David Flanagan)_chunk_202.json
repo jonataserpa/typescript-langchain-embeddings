@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_202",
+  "content": "para \nmódulo (resto da divisão). Mais detalhes sobre esses e outros operadores podem ser encontrados no \nCapítulo 4.\nAlém desses operadores aritméticos básicos, JavaScript aceita operações matemáticas mais complexas \npor meio de um conjunto de funções e constantes definidas como propriedades do objeto\n Math:\nMath.pow(2,53) // => 9007199254740992: 2 elevado à potência 53\nMath.round(.6) // => 1.0: arredonda para o inteiro mais próximo\nMath.ceil(.6) // => 1.0: arredonda para cima para um inteiro\nMath.floor(.6) // => 0.0: arredonda para baixo para um inteiro\nMath.abs(-5) // => 5: valor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 202,
+    "totalChunks": 10000
+  }
+}

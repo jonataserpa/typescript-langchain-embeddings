@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4954",
+  "content": "ades de estilo CSS \ndos elementos. As funções callback setter com um argumento chamado atual recebem o valor atual \ndaquilo para o que estiverem calculando um novo valor. Consulte a Seção 19.2.\naddClass(nomes)\naddClass(f(ind,atual):names)\nAdiciona o nome (ou nomes) de classe CSS no atributo class de cada elemento selecionado. \nOu chama \nf como método de cada elemento para calcular o nome (ou nomes) de classe a \nadicionar.\nattr(nome):value\nattr(nome, valor)\nattr(nome, f(ind,atual):value)\nattr(obj)\nCom um argumento de string, retorna o valor do atributo nomeado para o primeiro elemento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4954,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1024",
+  "content": "funções aninhadas\nO Exemplo 8-5, posteriormente neste capítulo, define uma closure que utiliza essas técnicas para se \nreferir aos valores de this e de arguments da função externa.\n\nCapítulo     8     Funções          181\nJavaScript básica\n8.7   Propriedades de função, métodos e construtora\nVimos que nos programas JavaScript as funções são valores. O operador typeof retorna a string \n“function” quando aplicado a uma função, mas na verdade as funções são um tipo especializado de \nobjeto em JavaScript. Como as funções são objetos, podem ter propriedades e métodos, exatamente \ncomo qualquer",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1024,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1669",
+  "content": "de JavaScript em documentos e em aplicativos Web. Essa \nprimeira seção introdutória também explica o que há por vir nos capítulos da Parte II. As seções \nque se seguem explicam alguns detalhes importantes sobre como código JavaScript é incorporado e \nexecutado dentro de documentos HTML e, em seguida, apresentam tópicos em compatibilidade, \nacessibilidade e segurança.\n13.1   JavaScript do lado do cliente\nO objeto Window é o principal ponto de entrada para todos os recursos e APIs de JavaScript do lado \ndo cliente. Ele representa uma janela ou quadro de navegador Web e pode ser referenciado",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1669,
+    "totalChunks": 10000
+  }
+}

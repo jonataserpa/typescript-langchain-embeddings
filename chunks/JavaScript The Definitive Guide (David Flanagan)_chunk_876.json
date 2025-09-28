@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_876",
+  "content": "alor –1, por exemplo, especifica o último elemento do \narray.\nA função a seguir pesquisa um array em busca de um valor especificado e retorna um array com todos \nos índices coincidentes. Isso demonstra como o segundo argumento de \nindexOf() pode ser usado \npara localizar coincidências além da primeira.\n// Localiza todas as ocorrências de um valor x em um array a e retorna um array\n// de índices coincidentes\nfunction findall(a, x) {\n    var results = [],      // O array de índices que vamos retornar\n        len = a.length,             // O comprimento do array a ser pesquisado\n        pos = 0;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 876,
+    "totalChunks": 10000
+  }
+}

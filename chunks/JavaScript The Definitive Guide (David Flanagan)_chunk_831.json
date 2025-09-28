@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_831",
+  "content": "de um array e retorna o array invertido. \nEle faz isso no local; em outras palavras, ele não cria um novo array com os elementos reorganizados, \nmas em vez disso os reorganiza no array já existente. Por exemplo, o código a seguir, que usa os mé-\ntodos reverse() e join(), produz a string “3,2,1”:\nvar a = [1,2,3];\na.reverse().join()    // => \"3,2,1\" e a agora é [3,2,1]\n7.8.3   sort()\nArray.sort() classifica os elementos de um array no local e retorna o array classificado. Quando \nsort() é chamado sem argumentos, ele classifica os elementos do array em ordem alfabética (conver-\ntendo-os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 831,
+    "totalChunks": 10000
+  }
+}

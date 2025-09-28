@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4279",
+  "content": "é chamada como função sem o operador new, converte seu argu-\nmento em um valor numérico primitivo e retorna esse valor (ou \nNaN, caso a conversão tenha falhado).\nConstantes\nNumber.MAX_VALUE\nO maior número representável.\nNumber.MIN_VALUE\nO menor número representável.\nNumber.NaN\nValor not-a-number.\nNumber.NEGATIVE_INFINITY\nValor infinito negativo; retornado em caso de estouro.\n\n786          Parte III     Referência de JavaScript básica\nNumber.POSITIVE_INFINITY\nValor infinito; retornado em caso de estouro.\nMétodos\ntoString()\nConverte um número em uma string usando uma raiz (base)",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4279,
+    "totalChunks": 10000
+  }
+}

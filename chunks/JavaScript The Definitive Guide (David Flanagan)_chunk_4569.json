@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4569",
+  "content": ")) nesse mesmo ponto.\nfill() e clip() tratam todos os subcaminhos como se tivessem sido fechados, de modo que você \nsó precisa chamar closePath() explicitamente se quiser traçar um caminho fechado com stroke().\nImageData createImageData(ImageData dadosimagem)\nRetorna um novo objeto ImageData com as mesmas dimensões de dados.\nImageData createImageData(double w, double h)\nRetorna um novo objeto ImageData com a largura e altura especificadas. Todos os pixels dentro \ndesse novo objeto ImageData são inicializados com preto transparente (todos os componentes de \ncor e alfa são 0).\nOs argumentos \nw",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4569,
+    "totalChunks": 10000
+  }
+}

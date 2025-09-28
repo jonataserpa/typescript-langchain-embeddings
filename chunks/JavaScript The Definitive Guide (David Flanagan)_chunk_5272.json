@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5272",
+  "content": "dicionais da requisição.\n    4.    Chame    \nsend() para enviar a requisição para o servidor Web. Se for uma requisição POST, você \ntambém pode passar um corpo da requisição para esse método. Sua função de tratamento de \nevento onreadystatechange será chamada à medida que a requisição prosseguir. Quando rea-\ndyState for 4, a resposta está completa.\n    5.  Quando readyState for 4, verifique o código de \nstatus para certificar-se de que a requisição \nfoi bem-sucedida. Se foi, use getResponseHeader() ou getResponseHeaders() para recuperar os \nvalores do cabeçalho da resposta e use as",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5272,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2791",
+  "content": "e é de thre-\nad único e quando o método \nsend() bloqueia, normalmente congela toda a interface com o usuário \ndo navegador. Se o servidor que você está conectando estiver respondendo lentamente, o navegador \nde seu usuário vai congelar. Contudo, consulte a Seção 22.4 para ver um contexto no qual é aceitável \nfazer pedidos síncronos.\n18.1.2.2   Decodificando a resposta\nNos exemplos anteriores, supomos que o servidor enviou uma resposta textual, com um tipo MIME \ncomo “text/plain”, “text/html” ou “text/css”, e a recuperamos com a propriedade responseText do \nobjeto XMLHttpRequest.\nEntretanto,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2791,
+    "totalChunks": 10000
+  }
+}

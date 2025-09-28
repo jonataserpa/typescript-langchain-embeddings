@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1520",
+  "content": "intervalos têm uma representação de string.\n            return \"[\" + min + \",\" + max + \"]\";\n        },\n        __iterator__: function() {     // Os inteiros em um intervalo são iteráveis.\n            let val = Math.ceil(min);  // Armazena a posição atual na closure.\n            return {         // Retorna um objeto iterador.\n            next: function() {         // Retorna o próximo inteiro no intervalo.\n                if (val > max)         // Se passamos do final, paramos.\n                       throw    StopIteration;\n                  return val++;            // Caso contrário, retorna",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1520,
+    "totalChunks": 10000
+  }
+}

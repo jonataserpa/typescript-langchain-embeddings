@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2164",
+  "content": "a posição da janela de visualização em \n// coordenadas\nvar offsets = getScrollOffsets();   // Função utilitária definida acima\nvar x = box.left + offsets.x;      // Converte em coordenadas do documento\nvar y = box.top + offsets.y;\nEm muitos navegadores (e no padrão W3C), o objeto retornado por getBoundingClientRect() tam-\nbém tem propriedades \nwidth e height, mas a implementação original do IE não faz isso. Por portabi-\nlidade, você pode calcular a largura e a altura do elemento como segue:\nvar box = e.getBoundingClientRect();\nvar w = box.width || (box.right – box.left);\nvar h = box.height ||",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2164,
+    "totalChunks": 10000
+  }
+}

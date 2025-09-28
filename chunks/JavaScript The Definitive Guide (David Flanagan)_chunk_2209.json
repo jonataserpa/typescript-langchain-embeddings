@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2209",
+  "content": "n-\ndente chamada “method”; portanto, nesse caso, devemos usar a propriedade \nelements do formulário, \nem vez de acessar a propriedade \nmethod diretamente. Para determinar qual método de despacho o \nusuário selecionou, iteramos pelos elementos do formulário no array e verificamos a propriedade \nchecked de cada um:\nvar shipping_method;\nfor(var i = 0; i < methods.length; i++)\n    if (methods[i].checked) shipping_method = methods[i].value;\nVamos ver mais sobre as propriedades de elementos de formulário, como checked e value, na próxi-\nma seção.\n15.9.2   Propriedades de formulário e elemento\nO",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2209,
+    "totalChunks": 10000
+  }
+}

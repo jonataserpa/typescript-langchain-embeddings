@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_699",
+  "content": "o de variável e pela \ndeclaração de função. No modo restrito, a tentativa de excluir uma propriedade não configurável \ncausa um TypeError. No modo não restrito (e em ECMAScript 3), delete é simplesmente avaliado \ncomo false nesse caso:\ndelete Object.prototype;        // Não pode excluir; a propriedade não é configurável\nvar x = 1;             // Declara uma variável global\ndelete this.x;         // Não pode excluir esta propriedade\nfunction f() {}        // Declara uma função global\ndelete this.f;         // Também não pode excluir esta propriedade\n\n122          Parte     I     JavaScript",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 699,
+    "totalChunks": 10000
+  }
+}

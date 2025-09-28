@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_408",
+  "content": "a de pré-incremento como na de pós-incremento, é mais comu-\nmente usado para incrementar um contador que controla um laço \nfor (Seção 5.5.3).\nDecremento (--)\nO operador \n-- espera um operando lvalue. Ele converte o valor do operando em um número, \nsubtrai 1 e atribui o valor decrementado ao operando. Assim como o operador ++, o valor de \nretorno de -- depende de sua posição relativa ao operando. Quando usado antes do operando, \nele decrementa e retorna o valor decrementado. Quando usado após o operando, ele decre-\nmenta o operando, mas retorna o valor não decrementado. Quando usado após seu",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 408,
+    "totalChunks": 10000
+  }
+}

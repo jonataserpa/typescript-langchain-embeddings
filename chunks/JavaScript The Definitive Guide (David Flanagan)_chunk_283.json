@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_283",
+  "content": "ois e que não faça \nparte de um literal numérico faz a conversão de string para número produzir NaN. Algumas conver-\n\n46          Parte     I     JavaScript     básica\nsões numéricas podem parecer surpreendentes: true é convertido em 1 e false e a string vazia \"\" são \nconvertidos em 0.\nAs conversões de valor primitivo para objeto são diretas: os valores primitivos são convertidos em \nseus objetos wrapper (Seção 3.6), como se estivessem chamando a construtora \nString(), Number() \nou Boolean().\nAs exceções são \nnull e undefined: qualquer tentativa de usar esses valores onde é esperado um objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 283,
+    "totalChunks": 10000
+  }
+}

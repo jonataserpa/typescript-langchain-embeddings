@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1233",
+  "content": "de método usando o termo \ninformal empréstimo.\n\nCapítulo 9     Classes e módulos      219\nJavaScript básica\nNão são apenas os métodos de Array que podem ser emprestados: podemos escrever nossos pró-\nprios métodos genéricos. O Exemplo 9-9 define métodos genéricos toString() e equals() que são \nconvenientes para uso por classes simples como nossas Range, Complex e Card. Se a classe Range \nnão tivesse um método \nequals(), poderíamos emprestar o método genérico equals() como segue:\nRange.prototype.equals = generic.equals;\nNote que o método generic.equals() faz apenas uma comparação superficial e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1233,
+    "totalChunks": 10000
+  }
+}

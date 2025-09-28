@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2392",
+  "content": "dos para realmente utilizar esses valores. Em geral, o estilo em linha de um elemento só serve \npara configurar estilos. Se você precisa consultar o estilo de um elemento, use o estilo computado, \nque está discutido na Seção 16.4.\nÀs vezes, você pode achar mais fácil configurar ou consultar o estilo em linha de um elemento como \num único valor de string, em vez de como um objeto CSSStyleDeclaration. Para fazer isso, pode \nusar os métodos \ngetAttribute() e setAttribute() de Element ou a propriedade cssText do objeto \nCSSStyleDeclaration:\n// Configure o atributo style de e como a string s com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2392,
+    "totalChunks": 10000
+  }
+}

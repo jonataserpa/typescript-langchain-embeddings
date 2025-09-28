@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5050",
+  "content": "Se o elemento de mídia não tiver certeza de que poderá reprodu-\nzir mídia do tipo especificado, esse método vai retornar “maybe”.\nvoid load()\nEsse método redefine o elemento de mídia e o faz selecionar uma fonte de mídia e começar a car-\nregar seus dados. Isso acontece automaticamente quando o elemento é inserido pela primeira vez \nno documento ou quando você configura o atributo src. Contudo, se você adicionar, remover ou \nmodificar os descendentes <source> do elemento de mídia, deve chamar load() explicitamente.\n\n954          Parte IV     Referência de JavaScript do lado do cliente\nvoid",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5050,
+    "totalChunks": 10000
+  }
+}

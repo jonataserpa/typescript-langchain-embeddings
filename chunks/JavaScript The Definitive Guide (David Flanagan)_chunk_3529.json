@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3529",
+  "content": "ores do que meio círculo\n    // Isso é exigido pelo componente de desenho de arco da SVG\n    var big = 0;\n    if (endangle – startangle > Math.PI) big = 1;\n    // Descrevemos uma fatia com um elemento <svg:path>\n    // Observe que criamos isso com createElementNS()\n    var path = document.createElementNS(svgns, \"path\");\n    // Esta string contém os detalhes do caminho\n    var d = \"M \" + cx + \",\" + cy +   // Começa no centro do círculo\n        \" L \" + x1 + \",\" + y1 +     // Desenha linha até (x1,y1)\n        \" A \" + r + \",\" + r +       // Desenha um arco de raio r\n        \" 0 \" + big + \" 1 \" +",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3529,
+    "totalChunks": 10000
+  }
+}

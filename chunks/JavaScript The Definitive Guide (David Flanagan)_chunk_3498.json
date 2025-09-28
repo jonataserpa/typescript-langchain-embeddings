@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3498",
+  "content": "ês outras propriedades fornecem uma visão mais minuciosa da linha do tempo da mídia e seu \nstatus de reprodução e buffer. A propriedade \nplayed retorna o intervalo (ou intervalos) de tempo \n\nCapítulo 21     Mídia e gráficos em scripts      605\nJavaScript do\n lado do cliente\nque foi reproduzido. A propriedade buffered retorna o intervalo (ou intervalos) de tempo que está \natualmente no buffer e a propriedade seekable retorna o intervalo (ou intervalos) de tempo que o \nreprodutor pode buscar no momento. (Você poderia usar essas propriedades para implementar uma \nbarra de progresso ilustrando",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3498,
+    "totalChunks": 10000
+  }
+}

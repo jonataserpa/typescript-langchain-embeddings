@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1230",
+  "content": "compareTo(). Um pode ser facilmente definido em termos do \noutro. Por exemplo:\nRange.byLowerBound = function(a,b) { return a.compareTo(b); };\nCom um método como esse definido, a classificação se torna mais simples:\nranges.sort(Range.byLowerBound);\nAlgumas classes podem ser ordenadas de mais de uma maneira. A classe Card, por exemplo, define \num método de classe que ordena cartas pelo naipe e outro que as ordena pela posição.\n9.6.5   Emprestando   métodos\nNão há nada de especial sobre os métodos em JavaScript: eles são simplesmente funções atribuídas \na propriedades de objeto e chamadas “por",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1230,
+    "totalChunks": 10000
+  }
+}

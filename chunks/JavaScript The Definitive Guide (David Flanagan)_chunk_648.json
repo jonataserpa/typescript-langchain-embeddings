@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_648",
+  "content": "CMAScript 5, todas as propriedades dos objetos criados por seu código eram graváveis, \nenumeráveis e configuráveis. Em ECMAScript 5 é possível configurar os atributos de suas proprie-\ndades. A Seção 6.7 explica como se faz isso.\nAlém de suas propriedades, todo objeto tem três atributos de objeto associados:\n •O protótipo de um objeto é uma referência para outro objeto do qual as propriedades são \nherdadas.\n •A classe de um objeto é uma string que classifica o tipo de um objeto.\n •   O flag extensível de um objeto especifica (em ECMAScript 5) se novas propriedades podem \nser adicionadas no",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 648,
+    "totalChunks": 10000
+  }
+}

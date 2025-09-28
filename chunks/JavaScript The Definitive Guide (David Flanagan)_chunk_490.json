@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_490",
+  "content": "pode ser chamado – exatamente como uma função – que não seja uma \nfunção verdadeira. A especificação ECMAScript 3 diz que o operador typeof retorna “função” para \ntodo objeto nativo que possa ser chamado. A especificação ECMAScript 5 amplia isso, exigindo que \ntypeof retorne “função” para todos os objetos que possam ser chamados, sejam objetos nativos ou \nobjetos hospedeiros. A maioria dos fornecedores de navegador utiliza objetos de função JavaScript na-\ntivos para os métodos de seus objetos hospedeiros. No entanto, a Microsoft sempre tem usado objetos \nque podem ser chamados não nativos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 490,
+    "totalChunks": 10000
+  }
+}

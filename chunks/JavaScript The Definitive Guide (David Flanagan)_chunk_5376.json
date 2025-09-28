@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5376",
+  "content": "es, 252\ndeclarações doctype\n    modo Quirks e modo Standards, 322\n    rigor das, 359\ndefaultCharset, objeto Document, 876\ndefaultPlaybackRate, objeto MediaElement, 604, \n951\ndefaultPrevented, objeto Event, 452, 900\ndefaultSelected, objeto Option, 964\ndeleteRule( ), objeto CSSStyleSheet, 430, 872\ndepurando threads Worker, 671\ndesabilitando animações na jQuery, 537\ndescritores de propriedade, 128, 799–800\n    funções utilitárias para, 233\n    obtendo para propriedade nomeada de um objeto, \n128\n    utilitários de propriedades de ECMAScript 5, \n238–240\ndesenhando contextos de objeto,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5376,
+    "totalChunks": 10000
+  }
+}

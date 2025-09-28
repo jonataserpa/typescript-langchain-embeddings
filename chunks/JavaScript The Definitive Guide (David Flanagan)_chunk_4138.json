@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4138",
+  "content": "novo valor (na hora local) do campo de \nsegundos de data. Esse argumento não era suportado antes da padronização ECMAScript.\nmiliss\nUm inteiro opcional, entre 0 e 999, usado como o novo valor (na hora local) do campo de mi-\nlissegundos de data. Esse argumento não era suportado antes da padronização ECMAScript.\nRetorna\nA representação, em milissegundos, da data ajustada. Antes da padronização ECMAScript, esse \nmétodo não retornava nada.\nDate.setMonth()\nconfigura os campos de mês e dia de um objeto Date\nSinopse\ndata.setMonth(mês)\ndata.setMonth(mês, dia)\nArgumentos\nmês\nUm inteiro entre 0",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4138,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4825",
+  "content": ").\n\n      Referência de JavaScript do lado do cliente      907\nReferência de \nJavaScript do lado \ndo cliente\nMétodos do Internet Explorer\nO IE8 e anteriores não suportam addEventListener() e removeEventListener(). Em vez disso, imple-\nmentam os dois métodos a seguir, que são muito parecidos. (A Seção 17.2.4 lista algumas diferenças \nimportantes.)\nvoid attachEvent(string tipo, function ouvinte)\nRegistra a função ouvinte especificada como uma rotina de tratamento de eventos do tipo especifica-\ndo. Note que esse método espera que tipo inclua o prefixo “on” antes do nome do evento.\nvoid",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4825,
+    "totalChunks": 10000
+  }
+}

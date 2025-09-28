@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_614",
+  "content": "ou throw, ou \nchamando um método que lança uma exceção, o interpretador abandona o salto que estava pen-\ndente e realiza o novo salto. Por exemplo, se uma cláusula \nfinally lança uma exceção, essa exceção \nsubstitui qualquer outra que estava no processo de ser lançada. Se uma cláusula \nfinally executa uma \ninstrução \nreturn, o método retorna normalmente, mesmo que uma exceção tenha sido lançada e \nainda não tratada.\ntry e finally podem ser usadas juntas, sem uma cláusula catch. Nesse caso, o bloco finally é sim-\nplesmente código de limpeza que garantidamente é executado, independente do que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 614,
+    "totalChunks": 10000
+  }
+}

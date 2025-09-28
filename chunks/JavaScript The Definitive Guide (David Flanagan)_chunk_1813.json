@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1813",
+  "content": "implementam isso, outros navegadores modernos também e a existência desses dois modos \né reconhecida pela especificação HTML5. As diferenças entre o modo Quirks e o modo Standards \nnormalmente importam mais para autores de HTML e CSS. Mas às vezes o código JavaScript do \nlado do cliente precisa saber em que modo um documento está renderizado. Para fazer esse tipo de \nteste de recurso de modo de renderização, verifique a propriedade\n document.compatMode. Se ela tiver o \nvalor “CSS1Compat”, o navegador está usando o modo Standards. Se o valor é “BackCompat” (ou \nundefined, caso a propriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1813,
+    "totalChunks": 10000
+  }
+}

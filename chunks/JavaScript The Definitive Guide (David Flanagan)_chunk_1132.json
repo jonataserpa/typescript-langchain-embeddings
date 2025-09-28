@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1132",
+  "content": "= Complex &&          // e deve ser uma instância de Complex\n        this.r === that.r && this.i === that.i;  // e ter os mesmos valores.\n};\n/*\n * Os campos de classe (como as constantes) e os métodos de classe são definidos como\n * propriedades da construtora. Note que os métodos de classe geralmente\n * não usam a palavra-chave this: eles operam somente em seus argumentos.\n */\n// Aqui estão alguns campos de classe que contêm números complexos predefinidos úteis.\n// Seus nomes estão em maiúsculas para indicar que são constantes.\n// (Em ECMAScript 5, poderíamos tornar essas propriedades",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1132,
+    "totalChunks": 10000
+  }
+}

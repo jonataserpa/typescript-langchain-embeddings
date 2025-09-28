@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1828",
+  "content": "nge, assim como eventos dependentes de dispositivo, como onmouseover e on-\nmousedown\n. Para o bem da acessibilidade, você deve favorecer os eventos independentes de dispositi-\nvo, sempre que possível.\nCriar páginas Web acessíveis não é um problema simples, sendo que uma discussão completa sobre \nacessibilidade está fora dos objetivos deste livro. Os desenvolvedores de aplicativos Web preocupados \ncom acessibilidade devem conhecer os padrões WAI-ARIA (Web Accessibility Initiative–Accessible \nRich Internet Applications), no endereço http://www.w3.org/WAI/intro/aria.\n13.6   Segurança\nA",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1828,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_182",
+  "content": "lor normalmente é considerado como membro único de seu pró-\nprio tipo especial. A Seção 3.4 tem mais informações sobre null e undefined.\nQualquer valor em JavaScript que não seja número, string, booleano, \nnull ou undefined é um objeto. \nUm objeto (isto é, um membro do tipo objeto) é um conjunto de propriedades, em que cada proprie-\ndade tem um nome e um valor (ou um valor primitivo, como um número ou string, ou um objeto). \nUm objeto muito especial, o objeto global, é estudado na Seção 3.5, mas uma abordagem mais geral \ne detalhada sobre objetos aparece no Capítulo 6.\nUm objeto normal em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 182,
+    "totalChunks": 10000
+  }
+}

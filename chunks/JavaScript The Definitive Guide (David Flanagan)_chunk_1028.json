@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1028",
+  "content": "// Lança uma exceção se eles diferem.\n        throw Error(\"Expected \" + expected + \"args; got \" + actual);\n}\nfunction f(x, y, z) {\n    check(arguments);  // Verifica se o nº real de argumentos corresponde ao nº esperado.\n    return x + y + z;  // Agora faz o restante da função normalmente.\n}\n8.7.2   A propriedade prototype\nToda função tem uma propriedade prototype que se refere a um objeto conhecido como objeto pro-\ntótipo. Cada função tem um objeto protótipo diferente. Quando uma função é usada como constru-\ntora, o objeto recém-criado herda propriedades do objeto protótipo. Os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1028,
+    "totalChunks": 10000
+  }
+}

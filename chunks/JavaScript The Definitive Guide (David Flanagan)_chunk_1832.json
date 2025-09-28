@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1832",
+  "content": "s brechas de \nsegurança.\nAs subseções a seguir apresentam as restrições de segurança de JavaScript e problemas de segurança \nque você, como desenvolvedor Web, precisa conhecer.\n13.6.1   O que JavaScript não pode fazer\nA primeira linha de defesa dos navegadores Web contra código mal-intencionado é simplesmente \nnão aceitarem certos recursos. Por exemplo, JavaScript do lado do cliente não fornece maneiras de \ngravar ou excluir arquivos arbitrários ou listar diretórios arbitrários no computador cliente. Isso \nsignifica que um programa JavaScript não pode excluir dados nem disseminar vírus. (Mas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1832,
+    "totalChunks": 10000
+  }
+}

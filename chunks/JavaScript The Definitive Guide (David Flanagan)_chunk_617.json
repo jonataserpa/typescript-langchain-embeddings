@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_617",
+  "content": "er e use strict.\n5.7.1      with\nNa Seção 3.10.3, discutimos o encadeamento de escopo – uma lista de objetos que são pesquisados, \nem ordem, para realizar a solução de nomes de variável. A instrução \nwith é usada para ampliar o \nencadeamento de escopo temporariamente. Ela tem a seguinte sintaxe:\nwith (objeto)\ninstrução\n\nCapítulo     5     Instruções          107\nJavaScript básica\nEssa instrução adiciona objeto na frente do encadeamento de escopo, executa instrução e, então, \nrestaura o encadeamento de escopo ao seu estado original.\nA instrução \nwith é proibida no modo restrito (consulte a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 617,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3284",
+  "content": "métodos funciona, mas você deve ter em mente que os métodos \nchamados posteriormente no encadeamento podem estar operando em um conjunto de elementos \ndiferente daquele mais próximo ao início do encadeamento.\nEntretanto, a situação é um pouco mais complicada do que isso. Quando os métodos de seleção \ndescritos aqui criam e retornam um novo objeto jQuery, eles fornecem a esse objeto uma referência \ninterna para o objeto jQuery mais antigo do qual foi derivado. Isso cria uma lista encadeada ou pi-\n\n568          Parte II     JavaScript do lado do cliente\nlha de objetos jQuery. O método end() faz",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3284,
+    "totalChunks": 10000
+  }
+}

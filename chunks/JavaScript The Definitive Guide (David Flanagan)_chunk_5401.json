@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5401",
+  "content": "amada de rotinas de tratamento de evento, \n448–453\n    createEvent( ), objeto Document, 879\n    defi nição, 433\n    destino de evento, 433\n    DOM (Document Object Model), 441\n    emissores de evento em Node, 289\n    evento hashchange, 657\n    eventos abort HTTP, 497\n    eventos progress HTTP, 494–497\n    eventos timeout HTTP, 497\n    HTML5,    442\n    implementando receptores de evento Java com \nJavaScript no Rhino, 284\n    independentes de dispositivo, 324\n    jQuery,    939\n    media, 606, 952\n    message, 662, 666, 955, 956\n    mouse,    454–458\n    mousewheel,    459–462\n    objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5401,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4715",
+  "content": "um elemento do documento Node, EventTarget\nUm objeto Element representa um elemento em um documento HTML ou XML. A propriedade \ntagName especifica o nome de tag ou tipo do elemento. Atributos HTML padrão do elemento estão \ndisponíveis por meio de propriedades JavaScript do objeto Element. Os atributos, incluindo os \nXML e os HTML não padronizados, também podem ser acessados com os métodos getAttribute() \ne setAttribute(). O conteúdo de Element está disponível por meio de propriedades herdadas de \nNode. Se estiver interessado apenas nos parentes Element de um Element, pode usar a propriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4715,
+    "totalChunks": 10000
+  }
+}

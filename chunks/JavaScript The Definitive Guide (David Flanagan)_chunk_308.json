@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_308",
+  "content": "valueOf(). Se o método existe, JavaScript o chama. Se o \nvalor de retorno é primitivo, a JavaScript converte esse valor em uma string (se ainda não for) \ne retorna o valor convertido.\n •   Caso contrário, JavaScript não pode obter um valor primitivo nem de \ntoString() nem de va-\nlueOf(); portanto, lança um TypeError.\n\n50          Parte     I     JavaScript     básica\nPara converter um objeto em um número, JavaScript faz a mesma coisa, mas tenta primeiro o mé-\ntodo \nvalueOf():\n •   Se o objeto tem um método \nvalueOf() que retorna um valor primitivo, JavaScript converte (se \nnecessário) esse",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 308,
+    "totalChunks": 10000
+  }
+}

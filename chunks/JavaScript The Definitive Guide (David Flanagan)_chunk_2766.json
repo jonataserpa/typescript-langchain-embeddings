@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2766",
+  "content": "mbinar com o protocolo HTTP. Os métodos “GET” e “POST” são suportados \nuniversalmente. “GET” é usado para a maioria das requisições “normais” e é apropriado quan-\ndo o URL especifica completamente o recurso solicitado, quando a requisição não tem efeitos \ncolaterais no servidor e quando a resposta do servidor pode ser colocada na cache. O método \n“POST” é o normalmente utilizado por formulários HTML. Ele inclui dados adicionais (os \ndados do formulário) no corpo da requisição e esses dados frequentemente são armazenados \nem um banco de dados no servidor (um efeito colateral). POSTs repetidos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2766,
+    "totalChunks": 10000
+  }
+}

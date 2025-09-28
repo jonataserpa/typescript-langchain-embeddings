@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1929",
+  "content": "faz showModalDialog() retornar.\n}\n</script>\n</form>\n\n342          Parte II     JavaScript do lado do cliente\n14.6   Tratamento de erros\nA propriedade onerror de um objeto Window é uma rotina de tratamento de evento chamada quan-\ndo uma exceção não capturada se propaga até o início da pilha de chamada e uma mensagem de erro \nestá para ser exibida na console JavaScript do navegador. Se uma função é atribuída a essa proprieda-\nde, a função é chamada quando um erro JavaScript ocorre nessa janela: a função atribuída se torna \numa rotina de tratamento de erro para a janela.\nPor motivos históricos,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1929,
+    "totalChunks": 10000
+  }
+}

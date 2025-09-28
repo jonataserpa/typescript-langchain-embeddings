@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2290",
+  "content": "s de um documento com base na identificação, classe ou nome de tag do \nelemento ou em critérios mais especializados. Os seletores foram apresentados na Seção 15.2.5, que \ntambém mostrou como usar querySelectorAll() para obter o conjunto de elementos corresponden-\ntes ao seletor.\nO elemento básico de uma folha de estilos CSS é a regra de estilo, a qual consiste em um seletor \nseguido por um conjunto de propriedades CSS e seus valores, colocados entre chaves. Uma folha de \nestilo pode conter qualquer número de regras de estilo:\np {                    /* o seletor \"p\" corresponde a todos os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2290,
+    "totalChunks": 10000
+  }
+}

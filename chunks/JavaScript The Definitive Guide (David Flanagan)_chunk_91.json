@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_91",
+  "content": "e explica em \ndetalhes como trabalhar com JavaScript em navegadores Web. O mais importante que você vai \naprender nesse capítulo é que pode incorporar código JavaScript em arquivos HTML usando a \nmarca <script>:\n<html>\n<head>\n<script src=\"library.js\"></script> <!-- inclui uma biblioteca de código JavaScript -->\n</head>\n<body>\n<p>This is a paragraph of HTML</p>\n<script>\n// E este é um código JavaScript do lado do cliente\n// literalmente incorporado no arquivo HTML\n</script>\n<p>Here is more HTML.</p>\n</body>\n</html>\nO Capítulo 14, O objeto Window, explica técnicas de scripts no navegador Web e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 91,
+    "totalChunks": 10000
+  }
+}

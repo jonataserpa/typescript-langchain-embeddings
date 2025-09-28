@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3463",
+  "content": "astModified > localStorage.lastSaved) {\n                  save();\n   }\n            editor.disabled = false;   // Habilita o editor novamente\n            editor.focus();           // E coloca o cursor nele\n  }\n }\n    else {  // Se estamos off-line, não podemos sincronizar\n        status(\"Can't sync while offline\");\n        editor.disabled = false;\n        editor.focus();\n }\n}\n\nCapítulo 21\nMídia e gráficos em scripts\nEste capítulo descreve como usar JavaScript para manipular imagens, controlar fluxos de áudio e ví-\ndeo e desenhar elementos gráficos. A Seção 21.1 explica técnicas JavaScript",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3463,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_61",
+  "content": "trl-Shift-J. Muitas vezes, essas ferramentas de console apa-\nrecem como painéis na parte superior ou inferior da janela do navegador, mas alguns permitem abri-las \ncomo janelas separadas (conforme ilustrado na Figura 1-1), o que costuma ser bastante conveniente.\nUm painel ou janela típica de “ferramentas para o desenvolvedor” contém várias guias que permitem ins-\npecionar coisas como a estrutura de documentos HTML, estilos CSS, pedidos da rede, etc. Uma das guias \né um “console JavaScript” que permite digitar linhas de código JavaScript e testá-las. Essa é uma maneira \nespecialmente fácil de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 61,
+    "totalChunks": 10000
+  }
+}

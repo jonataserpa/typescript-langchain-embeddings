@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2168",
+  "content": "te, o retângulo de \ncontorno incluiria a largura inteira das duas linhas.\nSe  quiser  consultar  os  retângulos  individuais  de  elementos  em  linha,  chame  o  método  \ngetClientRects() para obter um objeto semelhante a um array somente para leitura, cujos elementos \nsão objetos retângulo como aqueles retornados por \ngetBoundingClientRect().\nVimos que métodos DOM como \ngetElementsByTagName() retornam resultados “dinâmicos” que são \natualizados quando o documento muda. Os objetos retângulo (e as listas de objeto retângulo) retor-\nnados por \ngetBoundingClientRect() e getClientRects() não são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2168,
+    "totalChunks": 10000
+  }
+}

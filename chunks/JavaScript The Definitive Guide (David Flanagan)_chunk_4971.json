@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4971",
+  "content": "o)\nreplaceWith(f(ind,html):content)\nSubstitui cada elemento selecionado por conteúdo ou chama f como método de cada elemento \nselecionado, passando o índice do elemento e o conteúdo HTML atual, substituindo então \nesse elemento pelo valor de retorno.\ntext():string\ntext(textoPuro)\ntext(f(ind,atual):plainText)\nSem argumentos, retorna o conteúdo do primeiro elemento selecionado como uma string de \ntexto puro. Com um argumento, configura o conteúdo de todos os elementos selecionados \ncom o \ntextoPuro especificado ou com o valor retornado pela chamada de f como método \ndesses",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4971,
+    "totalChunks": 10000
+  }
+}

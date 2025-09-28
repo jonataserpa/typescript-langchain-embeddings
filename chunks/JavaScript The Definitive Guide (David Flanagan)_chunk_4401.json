@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4401",
+  "content": "819\nReferência de \nJavaScript básica\nRegExp.toString()\nconverte uma expressão regular em uma string Anula Object.toString()\nSinopse\nexpreg.toString()\nRetorna\nUma representação de string de \nexpreg.\nLança\nTypeError\nSe esse método é chamado em um objeto que não é RegExp.\nDescrição\nO método RegExp.toString() retorna uma representação de string de uma expressão regular na for-\nma de expressão regular literal.\nNote que as implementações não são obrigadas a adicionar sequências de escape para garantir que a \nstring retornada seja uma expressão regular literal válida. Considere a expressão regular",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4401,
+    "totalChunks": 10000
+  }
+}

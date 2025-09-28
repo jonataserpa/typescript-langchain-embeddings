@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_254",
+  "content": "uitas \nvezes podem ser usados indistintamente. O operador de igualdade == os considera iguais. (Para dife-\nrenciá-los, use o operador de igualdade restrito ===.) Ambos são valores falsos – eles se comportam \ncomo false quando um valor booleano é exigido. Nem null nem undefined tem propriedades ou \nmétodos. Na verdade, usar . ou [] para acessar uma propriedade ou um método desses valores causa \num TypeError.\nVocê pode pensar em usar \nundefined para representar uma ausência de valor em nível de sistema, \ninesperada ou como um erro e null para representar ausência de valor em nível de programa,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 254,
+    "totalChunks": 10000
+  }
+}

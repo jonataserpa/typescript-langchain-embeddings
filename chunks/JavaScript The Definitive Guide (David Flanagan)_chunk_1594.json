@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1594",
+  "content": "print(m);  // Imprime os membros estáticos de java.lang.System\nfor(m in f) print(m);  // Imprime os membros de instância de java.io.File\n// Note que você não pode enumerar as classes em um pacote dessa maneira\nfor (c in java.lang) print(c);  // Isto não funciona\nO Rhino permite que programas JavaScript obtenham e configurem os elementos de arrays Java como se \nfossem arrays JavaScript. Os arrays Java não são iguais aos arrays de JavaScript, evidentemente: eles têm \ncomprimento fixo, seus elementos são tipados e eles não têm métodos de JavaScript, como \nslice(). Não \nexiste uma sintaxe",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1594,
+    "totalChunks": 10000
+  }
+}

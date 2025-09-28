@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1688",
+  "content": "cessar serviços mais \n\nCapítulo 13     JavaScript em navegadores Web      303\nJavaScript do\n lado do cliente\navançados (como conexão em rede, elementos gráficos e armazenamento de dados) oferecidos pelos \nnavegadores. O mais conhecido desses serviços avançados é o objeto XMLHttpRequest, que permite \nconexão em rede por meio de requisições HTTP em scripts. Os aplicativos Web utilizam esse serviço \npara obter novas informações do servidor sem recarregar uma página. Os aplicativos Web que fazem \nisso são comumente chamados de aplicativos Ajax e formam a espinha dorsal do que é conhecido \ncomo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1688,
+    "totalChunks": 10000
+  }
+}

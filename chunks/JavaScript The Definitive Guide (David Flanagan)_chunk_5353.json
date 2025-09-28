@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5353",
+  "content": "encapsulando estado de objeto, 235\n        impedindo extensões de classe, 236\n        subclasses,    237\n        tornando propriedades não enumeráveis, 232\n    estilo Java, em JavaScript, 199–202\n        defi nindo classe complexa, 200\n        função    defi nindo classes simples, 199\n        recursos não suportados em JavaScript, 202\n    hierarquia de classes parcial de nós de documento, \n353\n    internas,    predefi nidas automaticamente em todas \nas janelas, 350\n    Java\n        consultando    e    confi gurando campos estáticos \nno Rhino, 283\n        instanciando,    283\n    obtendo a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5353,
+    "totalChunks": 10000
+  }
+}

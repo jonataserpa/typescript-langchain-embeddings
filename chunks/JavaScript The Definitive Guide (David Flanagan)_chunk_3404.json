@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3404",
+  "content": "ache de aplicativo \né diferente da cache de navegador Web normal: ela não é apagada quando o usuário limpa a cache \nnormal. E os aplicativos que ficam na cache não são apagados com base no LRU (usado menos \nrecentemente), como poderia acontecer com uma cache de tamanho fixo normal. Os aplicativos \nnão são armazenados na cache temporariamente: eles são instalado lá e permanecem ali até que eles \nmesmos se desinstalem ou o usuário os exclua. A cache de aplicativo não é uma cache real: um nome \nmelhor seria “armazenamento de aplicativo”.\nO motivo de instalar aplicativos Web de forma local é para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3404,
+    "totalChunks": 10000
+  }
+}

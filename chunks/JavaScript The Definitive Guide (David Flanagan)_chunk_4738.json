@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4738",
+  "content": "ll, caso não exista \num atributo com esse nome. Note que o objeto HTMLElement define propriedades de JavaScript \nque  correspondem  a  cada  um  dos  atributos  HTML  padrão;  portanto,  você  só  precisa  usar  esse  \nmétodo com documentos HTML se estiver consultando o valor de atributos não padronizados. \nEm documentos HTML, as comparações de nome de atributo não diferenciam letras maiúsculas e \nminúsculas.\nEm documentos XML, os valores de atributo não estão diretamente disponíveis como propriedades \nde elemento e devem ser pesquisados pela chamada desse método. Para documentos XML que usam",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4738,
+    "totalChunks": 10000
+  }
+}

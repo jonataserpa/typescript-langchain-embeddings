@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1856",
+  "content": "sem primeiro “desinfetá-los”, removendo \ndeles qualquer marcação HTML incorporadas. Como um exemplo simples, considere a página Web \na seguir, que usa JavaScript para saudar o usuário pelo nome:\n<script>\nvar name = decodeURIComponent(window.location.search.substring(1)) || \"\";\ndocument.write(\"Hello \" + name);\n</script>\n\nCapítulo 13     JavaScript em navegadores Web      329\nJavaScript do\n lado do cliente\nEsse script de duas linhas usa window.location.search para obter a parte de seu próprio URL que \ncomeça com ?. Ele usa document.write() para adicionar conteúdo gerado dinamicamente no",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1856,
+    "totalChunks": 10000
+  }
+}

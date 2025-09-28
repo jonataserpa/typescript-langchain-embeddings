@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5589",
+  "content": "Link, 947\n    objeto Location, 334, 948\n    objeto    WorkerLocation,    996\npropriedade htmlFor\n    objeto Label, 946\n    objeto Output, 965\npropriedade id, objeto Element, 887–888\npropriedade ignoreCase, objeto RegExp, 256, \n816–817\npropriedade images, objeto HTMLDocument, 357\npropriedade implementation, Document, 877\npropriedade indeterminate, objeto Input, 927\npropriedade index, objeto Option, 964\npropriedade Infi nity, 768\npropriedade innerHTML, objeto Element, 369, \n376, 887–888\n    API de fl uxo da, 397\n    usando para implementar outerHTML, 374\n    uso na jQuery para obter conteúdo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5589,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_536",
+  "content": "está errado, pois um interpretador JavaScript interpreta \no exemplo anterior como:\nif (i == j) {\n    if (j == k)\n        console.log(\"i equals k\");\n    else\n        console.log(\"i doesn't equal j\");        // OPA!\n}\nA regra em JavaScript (assim como na maioria das linguagens de programação) é que, por padrão, \numa cláusula else faz parte da instrução if mais próxima. Para tornar esse exemplo menos ambíguo \ne mais fácil de ler, entender, manter e depurar, deve-se usar chaves:\nif (i == j) {\n    if (j == k) {\n        console.log(\"i equals k\");\n }\n}\n\n92          Parte     I     JavaScript",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 536,
+    "totalChunks": 10000
+  }
+}

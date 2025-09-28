@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4634",
+  "content": "elemento <style> ou <link> que define \nou de links para a folha de estilo.\nNo IE8 e anteriores, use o array \nrules[], em vez de cssRules[], e use addRule() e removeRule(), em \nvez de insertRule() e deleteRule() padrão do DOM.\nPropriedades\nreadonly CSSRule[] cssRules\nUm objeto semelhante a um array somente de leitura contendo os objetos CSSRule que com-\npõem a folha de estilo. No IE, use a propriedade rules em vez disso.\nboolean disabled\nSe for true, a folha de estilo é desabilitada e não é aplicada ao documento. Se for false, a folha \nde estilo é habilitada e aplicada ao documento.\nreadonly",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4634,
+    "totalChunks": 10000
+  }
+}

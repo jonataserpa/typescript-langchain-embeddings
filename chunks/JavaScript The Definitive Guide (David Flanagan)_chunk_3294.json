@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3294",
+  "content": "as da jQuery, poderá \nchamar sua extensão de plug-in e compartilhá-la com outros. As convenções para plug-in jQuery a \nserem conhecidas são:\n •   Não conte com o identificador \n$: a página envoltória pode ter chamado jQuery.noConflict() \ne $() pode não ser mais um sinônimo da função jQuery(). Em plug-ins pequenos, como o \nmostrado anteriormente, você pode apenas usar \njQuery, em vez de $. Se estiver escrevendo uma \nextensão maior, é provável que você a empacote inteira dentro de uma única função anônima \npara evitar a criação de variáveis globais. Se fizer isso, você pode usar o idioma de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3294,
+    "totalChunks": 10000
+  }
+}

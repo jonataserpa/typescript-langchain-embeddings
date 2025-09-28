@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_79",
+  "content": "em ser atribuídas a\n                       //    variáveis\n    return x*x;        // Calcula o valor da função\n};                   // Um ponto e vírgula marca o fim da atribuição.\nsquare(plus(y))       // => 16: chama duas funções em uma única expressão\nQuando combinamos funções com objetos, obtemos métodos:\n// Quando funções recebem as propriedades de um objeto, as\n// chamamos de \"métodos\". Todos os objetos de JavaScript têm métodos:\nvar a = [];   // Cria um array vazio\na.push(1,2,3); // O método push() adiciona elementos em um array\na.reverse();  // Outro método: inverte a ordem dos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 79,
+    "totalChunks": 10000
+  }
+}

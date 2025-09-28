@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4822",
+  "content": "(consulte a Seção 17.2.3) sendo \nregistrada em um documento ascendente do verdadeiro alvo do evento. Note que alguns navegado-\nres ainda exigem que você passe um terceiro argumento para essa função, sendo que false deve ser \npassado para registrar uma rotina de tratamento normal que não é de captura.\nboolean dispatchEvent(Event evento)\nEsse método envia um evento sintético para esse alvo de evento. Crie um novo objeto Event com \ndocument.createEvent(), passando o nome do evento (como “event” para eventos simples). Em se-\nguida, chame o método de inicialização de evento do objeto Event que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4822,
+    "totalChunks": 10000
+  }
+}

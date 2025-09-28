@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3391",
+  "content": "mais fácil com o método de array ES5 indexOf().\n        for(var i = 0; i < keys.length; i++) {   // Itera por todas as chaves\n            if (keys[i] === key) {              // Quando encontrarmos a que queremos\n                keys.splice(i,1);               // Removemos do array.\n                  break;\n   }\n  }\n        this.length--;                 // Decrementa o comprimento do cookie\n        // Por fim, exclui realmente o cookie, fornecendo a ele um valor vazio\n        // e uma data de expiração imediata.\n        document.cookie = key + \"=; max-age=0\";\n    };\n \n    // Remove todos os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3391,
+    "totalChunks": 10000
+  }
+}

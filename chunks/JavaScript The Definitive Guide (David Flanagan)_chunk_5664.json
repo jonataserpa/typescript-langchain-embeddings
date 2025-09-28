@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5664",
+  "content": "S), 407–408\ntranslucidez, especifi cando com a propriedade de \nestilo opacity, 417\ntransparência\n    especifi cando para cores na CSS, 416\n    especifi cando valores de alfa no canvas, 632\n    operações de composição com transparência hard \ne suave, 643\ntransportes, 479\ntroca de mensagens\n    entre documentos, 328, 661–665\n    enviando dados para objetos Worker com post-\nMessage( ), 666\n    evento message usado para comunicação assíncro-\nna, 443\n    suportada pela API WebSocket, 698–699\ntroca de mensagens assíncrona entre scripts de ori-\ngens diferentes, 662\ntroca de mensagens entre",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5664,
+    "totalChunks": 10000
+  }
+}

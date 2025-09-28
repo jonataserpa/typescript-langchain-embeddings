@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1658",
+  "content": "do Node\n//\n// Um módulo \"httputils\" para o Node.\n//\n// Faz um pedido GET HTTP assíncrono para o URL especificado e passa o\n//  status HTTP, os cabeçalhos e o corpo da resposta para a função callback especificada.\n// Observe como exportamos esse método por meio do objeto exports.\n// exports.get = function(url, callback) {\n2\n  O Node implementa o contrato de módulo CommonJS, sobre o qual você pode ler no endereço http://www.commonjs.\norg/specs/modules/1.0/.\n\nCapítulo 12     JavaScript do lado do servidor      295\nJavaScript básica\n    // Analisa o URL e obtém as partes que precisamos dele",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1658,
+    "totalChunks": 10000
+  }
+}

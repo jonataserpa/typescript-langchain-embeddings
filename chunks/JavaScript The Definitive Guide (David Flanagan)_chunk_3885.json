@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3885",
+  "content": "mazenar em um arquivo ou banco de dados ou passar para outra thread. \nPara criar um Blob a partir de seus próprios dados, use um BlobBuilder:\n// Cria um novo BlobBuilder\nvar bb = new BlobBuilder();\n// Anexa uma string no blob e marca o final da string com um caractere NUL\nbb.append(\"This blob contains this text and 10 big-endian 32 bits signed ints.\");\nbb.append(\"\\0\"); // Termina a string com NUL para marcar seu fim\n// Armazena alguns dados em um ArrayBuffer\nvar ab = new ArrayBuffer(4*10);\nvar dv = new DataView(ab);\nfor(var i = 0; i < 10; i++) dv.setInt32(i*4,i);\n// Anexa o ArrayBuffer ao",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3885,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_537",
+  "content": "if (j == k) {\n        console.log(\"i equals k\");\n }\n}\n\n92          Parte     I     JavaScript     básica\nelse {  // Que diferença faz a posição de uma chave!\n    console.log(\"i doesn't equal j\");\n}\nEmbora não seja o estilo utilizado neste livro, muitos programadores se habituam a colocar os cor-\npos de instruções if e else (assim como outras instruções compostas, como laços while) dentro de \nchaves, mesmo quando o corpo consiste em apenas uma instrução. Fazer isso sistematicamente pode \nevitar o tipo de problema que acabamos de ver.\n5.4.2   else   if\nA instrução if/else avalia uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 537,
+    "totalChunks": 10000
+  }
+}

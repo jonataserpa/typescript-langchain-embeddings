@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4371",
+  "content": "o núme-\nros reais normais, descartando a parte imaginária. Para isso, você poderia fazer algo como o seguinte:\nComplex.prototype.valueOf = new Function(\"return this.real\");\nCom esse método valueOf() definido para seu tipo de objeto Complex, você pode, por exemplo, \npassar um de seus objetos número complexo para \nMath.sqrt(), que calcula a raiz quadrada da parte \nreal do número.\n\n      Referência de JavaScript básica      811\nReferência de \nJavaScript básica\nConsulte também\nObject.toString()\nparseFloat()\nconverte uma string em um número\nSinopse\nparseFloat(s)\nArgumentos\ns\nA string a ser",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4371,
+    "totalChunks": 10000
+  }
+}

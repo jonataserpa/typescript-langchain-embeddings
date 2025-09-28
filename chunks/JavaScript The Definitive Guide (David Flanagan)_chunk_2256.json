@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2256",
+  "content": "revendo script de documentos      397\nJavaScript do\n lado do cliente\nse() do objeto documento. Isso, basicamente, diz ao parser de HTML que atingiu o final do arquivo \ndo documento e que deve parar de analisar e exibir o novo documento.\nÉ interessante notar que Document também suporta um método \nwriteln() idêntico ao método wri-\nte() de todas as maneiras, exceto que anexa uma nova linha após gerar a saída de seus argumentos. \nIsso pode ser útil se você está gerando texto previamente formatado dentro de um elemento <pre>, \npor exemplo.\nO método \ndocument.write() não é comumente usado em código",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2256,
+    "totalChunks": 10000
+  }
+}

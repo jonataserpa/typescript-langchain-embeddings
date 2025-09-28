@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_823",
+  "content": "não for um inteiro não negativo\n    if (String(Math.floor(Math.abs(Number(i)))) !== i) continue;\n}\nA especificação ECMAScript permite que o laço for/in itere pelas propriedades de um objeto em \nqualquer ordem. As implementações normalmente iteram nos elementos do array em ordem cres-\n\n144          Parte     I     JavaScript     básica\ncente, mas isso não é garantido. Em especial, se um array tem propriedades de objeto e elementos \nde array, os nomes de propriedade podem ser retornados na ordem em que foram criados, em vez \nda ordem numérica. As implementações diferem no modo como tratam desse",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 823,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2004",
+  "content": "document.getElementById(\"section1\");\nEssa é a maneira mais simples e normalmente usada de selecionar elementos. Se seu script vai ma-\nnipular determinado conjunto de elementos de documento, dê a esses elementos atributos id e pes-\nquise os objetos Element usando essa identificação. Se precisar pesquisar mais de um elemento pela \nidentificação, talvez ache útil a função getElements() do Exemplo 15-1.\nExemplo 15-1 Pesquisando vários elementos pela identificação\n/**\n * Esta função espera qualquer número de argumentos string. Ela trata cada\n  * argumento como uma identificação de elemento e chama",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2004,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1834",
+  "content": "tocolo HTTP (consulte o \nCapítulo 18). E outro padrão associado ao HTML5, conhecido como WebSockets, define uma API \ndo tipo soquete para comunicação com servidores especializados. Mas nenhuma dessas APIs permite \nacesso sem intermediários à rede mais ampla. Os clientes e servidores de Internet de uso geral não \npodem ser escritos em JavaScript do lado do cliente.\nA segunda linha de defesa dos navegadores contra código mal-intencionado é impor restrições ao \nuso de certos recursos que suportam. A seguir estão alguns recursos restritos:\n •   Um programa JavaScript pode abrir novas janelas do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1834,
+    "totalChunks": 10000
+  }
+}

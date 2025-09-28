@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4475",
+  "content": "s localizando e substituindo sequências de caractere da forma % xx e %u xxxx (onde x representa um \ndígito hexadecimal) pelos caracteres Unicode \\u00 xx e \\ u xxxx.\nEmbora \nunescape() tenha sido padronizada na primeira versão de ECMAScript, foi desaprovada e \nretirada do padrão por ECMAScript v3. É provável que as implementações de ECMAScript imple-\nmentem essa função, mas não são obrigadas a isso. Você deve usar decodeURI() e decodeURIComponent(), \nem vez de unescape(). Consulte escape() para ver mais detalhes e um exemplo.\nConsulte também\ndecodeURI(), decodeURIComponent(), escape(),",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4475,
+    "totalChunks": 10000
+  }
+}

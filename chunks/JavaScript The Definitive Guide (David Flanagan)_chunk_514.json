@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_514",
+  "content": "ção. A instrução vazia é o oposto: ela permite não colocar nenhuma instrução onde uma \né esperada. A instrução vazia é a seguinte:\n;\nO interpretador JavaScript não faz nada ao executar uma instrução vazia. Ocasionalmente, a instru-\nção vazia é útil quando se quer criar um laço com corpo vazio. Considere o laço for a seguir (os laços \nfor vão ser abordados na Seção 5.5.3):\n// Inicializa um array a\nfor(i = 0; i < a.length; a[i++] = 0) ;\nNesse laço, todo o trabalho é feito pela expressão a[i++] = 0 e nenhum corpo é necessário no laço. \nContudo, a sintaxe de JavaScript exige uma instrução como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 514,
+    "totalChunks": 10000
+  }
+}

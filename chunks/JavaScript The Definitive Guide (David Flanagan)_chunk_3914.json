@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3914",
+  "content": "/ Obtém acesso aos bytes resultantes\n        var magic = view.getUint32(0, false);    // Lê 4 bytes, big-endian\n        switch(magic) {         // Determina o tipo de arquivo a partir deles\n        case 0x89504E47: file.verified_type = \"image/png\"; break;\n        case 0x47494638: file.verified_type = \"image/gif\"; break;\n        case 0x25504446: file.verified_type = \"application/pdf\"; break;\n        case 0x504b0304: file.verified_type = \"application/zip\"; break;\n  }\n        console.log(file.name,    file.verified_type);\n    };\n}\n</script>\n<input type=\"file\"",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3914,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2831",
+  "content": "s File ou Blob) individuais na requisição. Por fim, passe o objeto FormData para \no método send(). O método send() vai definir uma string de limite apropriada e vai configurar o \ncabeçalho “Content-Type” da requisição. O Exemplo 18-10 demonstra o uso de FormData e vamos \nvê-lo novamente no Exemplo 18-11.\nExemplo 18-10 Postando (com POST) corpo de requisição multipart/form-data\nfunction postFormData(url, data, callback) {\n    if (typeof FormData === \"undefined\")\n        throw new Error(\"FormData is not implemented\");\n\n494          Parte II     JavaScript do lado do cliente\n    var request =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2831,
+    "totalChunks": 10000
+  }
+}

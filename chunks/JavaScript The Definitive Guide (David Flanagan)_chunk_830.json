@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_830",
+  "content": ":\nvar a = [1, 2, 3];     // Cria um novo array com esses três elementos\na.join();              // => \"1,2,3\"\na.join(\" \");           // => \"1 2 3\"\na.join(\"\");            // => \"123\"\nvar b = new Array(10); // Um array de comprimento 10 sem elementos\nb.join('-')            // => '---------': uma string de 9 hifens\nO método Array.join() é o inverso do método String.split(), que cria um array dividindo uma \nstring em partes.\n7.8.2   reverse()\nO método Array.reverse() inverte a ordem dos elementos de um array e retorna o array invertido. \nEle faz isso no local; em outras palavras, ele não cria um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 830,
+    "totalChunks": 10000
+  }
+}

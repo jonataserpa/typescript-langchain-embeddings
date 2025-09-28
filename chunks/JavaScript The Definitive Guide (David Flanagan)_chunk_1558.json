@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1558",
+  "content": "tch(e if typeof e === \"string\") {\n    // Trata de qualquer outra string lançada aqui\n}\ncatch(e) {\n    // Trata de todo o resto aqui\n}\nfinally {\n    // A cláusula finally funciona normalmente\n}\nQuando ocorre uma exceção, cada cláusula catch é tentada por sua vez. A exceção é atribuída ao \nparâmetro da cláusula catch nomeado e a condicional é avaliada. Se for verdadeira, o corpo dessa \ncláusula catch é avaliado e todas as outras cláusulas catch são puladas. Se uma cláusula catch não \ntem condicional, ela se comporta como se a condicional if fosse true e é sempre disparada se \nnenhuma cláusula",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1558,
+    "totalChunks": 10000
+  }
+}

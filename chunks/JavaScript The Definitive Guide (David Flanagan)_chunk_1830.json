@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1830",
+  "content": "tivos conflitantes:\n •   Definir APIs do lado do cliente poderosas para possibilitar aplicativos Web úteis.\n •   Impedir que código mal-intencionado leia ou altere seus dados, comprometendo a privacida-\nde, cometendo fraudes ou desperdiçando seu tempo.\nAssim como em muitos setores, a segurança de JavaScript evoluiu por meio de um processo \ninterativo e contínuo de explorações e emendas. Nos primórdios da Web, os navegadores adicio-\nnaram recursos como a capacidade de abrir, mover e redimensionar janelas e escrever na linha \nde status. Quando anunciantes e fraudadores antiéticos começaram a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1830,
+    "totalChunks": 10000
+  }
+}

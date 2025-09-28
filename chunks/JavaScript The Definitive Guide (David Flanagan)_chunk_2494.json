@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2494",
+  "content": "em quanto redimensiona-\nmento ou rolagem ocorreu – você pode determinar o tamanho da nova janela e a posição da barra de \nrolagem usando as técnicas mostradas na Seção 15.8.\n17.1.1.3   Eventos de mouse\nOs eventos de mouse são gerados quando o usuário move o mouse ou dá um clique em um do-\ncumento. Esses eventos são disparados no elemento mais profundamente aninhado sobre o qual \no cursor do mouse está, mas borbulham para cima no documento. O objeto evento passado para \nrotinas de tratamento de evento de mouse define propriedades que descrevem a posição e o esta-\ndo do botão do mouse e também",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2494,
+    "totalChunks": 10000
+  }
+}

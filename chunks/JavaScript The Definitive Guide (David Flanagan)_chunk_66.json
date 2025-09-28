@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_66",
+  "content": "JavaScript'; // Apóstrofos também delimitam strings.\nx = true; // Valores booleanos.\nx = false; // O outro valor booleano.\nFigura 1-1 Console de depuração Firebug do Firefox.\n\nCapítulo 1     Introdução a JavaScript      5\nx = null; //  Null é um valor especial que significa \"nenhum valor\".\nx = undefined; // Undefined é como null.\nDois outros tipos muito importantes que programas em JavaScript podem manipular são objetos e \narrays. Esses são os temas do Capítulo 6, Objetos, e do Capítulo 7, Arrays, mas são tão importantes \nque você vai vê-los muitas vezes antes de chegar a esses capítulos.\n//",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 66,
+    "totalChunks": 10000
+  }
+}

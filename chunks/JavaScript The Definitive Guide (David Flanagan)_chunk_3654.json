@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3654",
+  "content": "o entre elas pode se tornar muito \nlonga e essas junções chanfradas longas atrapalham visualmente. A propriedade miterLimit coloca \num limite superior no comprimento da junção. Se a junção em determinado vértice vai ser mais \nlonga do que metade da largura da linha vezes miterLimit, esse vértice vai ser desenhado com uma \njunção chanfrada, em vez de uma junção alongada.\n21.4.9   Texto\nPara desenhar texto em um canvas, normalmente é usado o método fillText(), o qual desenha texto \nusando a cor (ou degradê ou padrão) especificada pela propriedade fillStyle. Para efeitos especiais \nem tamanhos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3654,
+    "totalChunks": 10000
+  }
+}

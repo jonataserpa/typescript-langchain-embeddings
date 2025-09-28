@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5608",
+  "content": "TMLOptionsCollection, 922\npropriedade selectedOption, objeto Input, 928\npropriedade selectedOptions, elemento Select, \n971–972\npropriedade selectionEnd\n    objeto Input, 928\n    objeto    TextArea,    978\npropriedade selectionStart\n    objeto Input, 928\n    objeto    TextArea,    978\npropriedade selector, objetos jQuery, 515\npropriedade selectorText, objeto CSSRule, 870\npropriedade self\n    objeto    Window,    987\n    objeto WorkerGlobalScope, 668, 993\n\n1052          Índice\npropriedade sessionStorage, objetos Window, 575, \n988\n    API de armazenamento, 577\n    cookies    versus, 580",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5608,
+    "totalChunks": 10000
+  }
+}

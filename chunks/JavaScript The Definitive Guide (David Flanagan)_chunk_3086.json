@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3086",
+  "content": "ento de evento que os antigos e não se comportariam da \nmesma maneira.\nA jQuery trata desse problema com “eventos dinâmicos”. Para usar eventos dinâmicos, utilize os mé-\ntodos \ndelegate() e undelegate(), em vez de bind() e unbind(). delegate() normalmente é chamado \nem $(document) e recebe uma string seletora jQuery, uma string de tipo de evento jQuery e uma fun-\nção de tratamento de evento jQuery. Ele registra uma rotina de tratamento interna no documento \nou na janela (ou em qualquer elemento que estiver no objeto jQuery). Quando um evento do tipo \nespecificado borbulha até essa rotina de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3086,
+    "totalChunks": 10000
+  }
+}

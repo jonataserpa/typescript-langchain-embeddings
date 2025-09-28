@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_124",
+  "content": "//        Por fim, traça o gráfico do saldo devedor, dos juros e dos pagamentos do \ncapital\n        chart(principal, interest, monthly, payments);\n }\n    else    {\n        //        O resultado foi Not-a-Number ou infinito, o que significa que a entrada\n        //        estava incompleta ou era inválida. Apaga qualquer saída exibida anteriormente.\n        payment.innerHTML = \"\"; // Apaga o conteúdo desses elementos\n        total.innerHTML = \"\"\n        totalinterest.innerHTML = \"\";\n        chart();         // Sem argumentos, apaga o gráfico\n }\n}\n// Salva a entrada do usuário como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 124,
+    "totalChunks": 10000
+  }
+}

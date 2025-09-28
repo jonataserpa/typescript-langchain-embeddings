@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_485",
+  "content": "a (e tem um valor verdadeiro significativo) e, se estiver, a utiliza ou, se não estiver, \nfornece um valor padrão:\ngreeting = \"hello \" + (username ? username : \"there\");\nIsso é equivalente (mas mais compacto do que) à instrução if a seguir:\ngreeting = \"hello \";\nif (username)\n    greeting += username;\nelse\n    greeting += \"there\";\n4.13.2   O operador typeof\ntypeof é um operador unário colocado antes de seu único operando, o qual pode ser de qualquer \ntipo. Seu valor é uma string que especifica o tipo do operando. A tabela a seguir especifica o valor do \noperador typeof para qualquer valor de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 485,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4963",
+  "content": "todo de cada elemento selecionado para \ncalcular o nome (ou nomes) a ser alternado. Se adicionar for true ou false, adiciona ou remo-\nve os nomes de classe, em vez de alterná-los.\nval():value\nval(valor)\nval(f(ind,atual)):value\nRetorna o valor do formulário ou o estado da função ou seleção do primeiro elemento selecio-\nnado ou configura o valor ou estado da seleção de todos os elementos selecionados como valor \nou com o valor calculado pela chamada de f como método de cada elemento.\nwidth():int\nwidth(w)\nwidth(f(ind,atual):int)\nRetorna a largura (não incluindo preenchimento, borda ou margem) do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4963,
+    "totalChunks": 10000
+  }
+}

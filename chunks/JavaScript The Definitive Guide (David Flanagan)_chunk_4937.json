@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4937",
+  "content": "ntendo um ou mais elementos de nível superior da string. Se html descreve uma \núnica tag HTML, props pode ser um objeto especificando atributos HTML e rotinas de trata-\nmento de evento para o elemento recentemente criado.\njQuery(f)\nRegistra f como uma função a ser chamada quando o documento estiver carregado e pronto \npara ser manipulado. Se o documento já está pronto, f é chamada imediatamente como um \nmétodo do objeto documento. Retorna um objeto jQuery contendo apenas o objeto docu-\nmento.\nGramática de seletor jQuery\nA gramática de seletor jQuery é muito parecida com a gramática de seletor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4937,
+    "totalChunks": 10000
+  }
+}

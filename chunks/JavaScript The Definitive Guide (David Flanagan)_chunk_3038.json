@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3038",
+  "content": "tina de tratamento de evento com um ou mais argumentos e presta atenção ao \nvalor de retorno de suas rotinas de tratamento. O mais importante a saber é que para toda rotina de \ntratamento de evento é passado um objeto evento da jQuery como primeiro argumento. Os cam-\npos desse objeto fornecem detalhes (como as coordenadas do cursor do mouse) sobre o evento. As \npropriedades do objeto Event padrão foram descritas no Capítulo 17. A jQuery simula esse objeto \nEvent padrão, mesmo em navegadores (como o IE8 e anteriores) que não o suportam. Os objetos \nevento da jQuery têm o mesmo conjunto de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3038,
+    "totalChunks": 10000
+  }
+}

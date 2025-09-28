@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_645",
+  "content": "e são manipulados por referência e não por \nvalor. Se a variável \nx se refere a um objeto e o código var y = x; é executado, a variável y contém uma \nreferência para o mesmo objeto e não uma cópia desse objeto. Qualquer modificação feita no objeto \npor meio da variável \ny também é visível por meio da variável x.\nAs coisas mais comuns feitas com objetos são: criá-los e configurar, consultar, excluir, testar e enu-\nmerar suas propriedades. Essas operações fundamentais estão descritas nas seções de abertura deste \ncapítulo. As seções seguintes abordam temas mais avançados, muitos dos quais são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 645,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4515",
+  "content": "imagem do canvas com toDataURL(), \nmas a API real de desenho é implementada por um objeto “contexto” separado, retornado pelo \nmétodo \ngetContext(). Consulte CanvasRenderingContext2D.\nPropriedades\nunsigned long height\nunsigned long width\nEssas propriedades espelham os atributos width e height da tag <canvas> e especificam as di-\nmensões do espaço de coordenadas do canvas. Os padrões são 300 para width e 150 para hei-\nght.\nSe o tamanho do elemento canvas não é especificado de outra forma em uma folha de estilo \nou com o atributo em linha \nstyle, essas propriedades width e height também",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4515,
+    "totalChunks": 10000
+  }
+}

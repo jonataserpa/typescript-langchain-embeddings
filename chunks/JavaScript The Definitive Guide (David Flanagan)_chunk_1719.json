@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1719",
+  "content": "308          Parte II     JavaScript do lado do cliente\no documento contido – eles apenas ignoram o valor de retorno do código. No entanto, eles ainda \nsuportam URLs como a seguinte:\n<a href=\"javascript:alert(new Date().toLocaleTimeString());\">\nCheck the time without overwriting the document\n</a>\nQuando esse tipo de URL é carregado, o navegador executa o código JavaScript, mas como não há \nvalor retornado (o método alert() retorna undefined), navegadores como o Firefox não substituem \no documento atualmente exibido. (Nesse caso, o URL javascript: tem o mesmo objetivo de um \nhandler de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1719,
+    "totalChunks": 10000
+  }
+}

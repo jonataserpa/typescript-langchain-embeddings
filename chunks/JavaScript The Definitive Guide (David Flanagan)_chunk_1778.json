@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1778",
+  "content": "micamente com funções como \nloadasync() \ntorna indistinto o limite entre as fases de carregamento de script e a dirigida por eventos da execução \ndo programa.)\nEssa linha do tempo não especifica quando o documento se torna visível para o usuário ou quando \no navegador Web deve começar a responder aos eventos de entrada do usuário. Esses são detalhes da \nimplementação. Para documentos muito longos ou conexões de rede muito lentas, teoricamente é \npossível um navegador Web representar parte de um documento e permitir que o usuário comece a \ninteragir com ela antes que todos os scripts tenham",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1778,
+    "totalChunks": 10000
+  }
+}

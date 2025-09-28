@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5416",
+  "content": "s, 262–280\n    atribuição de desestruturação, 265\n    constantes e variáveis com escopo, 262\n    E4X (ECMAScript for XML), 276–280\n    funções de atalho (closures de expressão), 275\n    impedindo, 793–794, 805–806\n    impedindo extensões de classe em ECMAScript 5, \n236\n    iteração,    267–275\n        expressões    geradoras,    274\n        geradores,    270–273\n        inclusões de array, 273\n        iteradores,    267–271\n        laços    for/each,    267–268\nF\nFacebook, subconjunto seguro FBJS, 262\nfase de execução dirigida por eventos, 310\nfechando janelas, 347\nferramentas de console,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5416,
+    "totalChunks": 10000
+  }
+}

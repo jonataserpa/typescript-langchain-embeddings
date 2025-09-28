@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2221",
+  "content": "xto ou seleciona uma opção em uma lista suspensa. Note que esse \nevento não é disparado sempre que o usuário digita uma tecla em um campo de texto. Ele só é dis-\nparado quando o usuário altera o valor de um elemento e então move o foco de entrada para algum \noutro elemento do formulário. Isto é, a chamada dessa rotina de tratamento de evento indica uma \nalteração concluída. Os botões de ação e as caixas de seleção são botões que têm estado e disparam \neventos click e change; o evento \nchange é o mais útil dos dois.\nOs elementos de formulário também disparam um evento \nfocus quando recebem o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2221,
+    "totalChunks": 10000
+  }
+}

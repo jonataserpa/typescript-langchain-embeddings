@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3527",
+  "content": ", width);\nchart.setAttribute(\"height\", height);\nchart.setAttribute(\"viewBox\", \"0 0 \" + width + \" \" + height);\n// Soma os valores de dados para sabermos qual é o tamanho da pizza\nvar total = 0;\nfor(var i = 0; i < data.length; i++) total += data[i];\n// Agora descobre qual é o tamanho de cada fatia da pizza. Ângulos em radianos.\nvar angles = []\nfor(var i = 0; i < data.length; i++) angles[i] = data[i]/total*Math.PI*2;\n// Itera por cada fatia da pizza.\nstartangle = 0;\nfor(var i = 0; i < data.length; i++) {\n    // É aqui que a fatia termina\n    var endangle = startangle + angles[i];\n    // Calcula",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3527,
+    "totalChunks": 10000
+  }
+}

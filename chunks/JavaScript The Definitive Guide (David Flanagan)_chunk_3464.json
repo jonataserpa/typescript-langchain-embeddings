@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3464",
+  "content": "ar fluxos de áudio e ví-\ndeo e desenhar elementos gráficos. A Seção 21.1 explica técnicas JavaScript tradicionais para efeitos \nvisuais, como trocas de imagem nas quais uma imagem estática é substituída por outra quando o \ncursor do mouse é colocado sobre ela. A Seção 21.2 aborda os elementos HTML5 <audio> e <video> \ne suas APIs JavaScript.\nDepois dessas duas primeiras seções sobre imagens, áudio e vídeo, o capítulo passa a abordar duas \npoderosas tecnologias para desenhar elementos gráficos no lado do cliente. A capacidade de gerar \ndinamicamente elementos gráficos sofisticados no navegador",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3464,
+    "totalChunks": 10000
+  }
+}

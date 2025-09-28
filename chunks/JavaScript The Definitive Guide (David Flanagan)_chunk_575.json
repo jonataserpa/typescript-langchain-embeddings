@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_575",
+  "content": "priedades de \num objeto. Na prática, contudo, as implementações de JavaScript de todos os principais fornece-\ndores de navegador enumeram as propriedades de objetos simples de acordo como foram definidas, \ncom as propriedades mais antigas enumeradas primeiro. Se um objeto foi criado como objeto literal, \nsua ordem de enumeração é a mesma das propriedades que aparecem no literal. Existem sites e bi-\nbliotecas na Web que contam com essa ordem de enumeração e é improvável que os fornecedores de \nnavegador a alterem.\nO parágrafo anterior especifica uma ordem de enumeração de propriedade que serve",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 575,
+    "totalChunks": 10000
+  }
+}

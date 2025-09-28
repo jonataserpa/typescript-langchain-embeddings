@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_300",
+  "content": "s especiais descritos \na seguir. Note que as regras de conversão de strings e números descritas aqui se aplicam apenas a \nobjetos nativos. Os objetos hospedeiros (definidos pelos navegadores Web, por exemplo) podem ser \nconvertidos em números e strings de acordo com seus próprios algoritmos.\n2\n  Em ECMAScript 3, parseInt() pode analisar uma string que começa com “0” (mas não com “0x” ou “0X”) como um \nnúmero octal ou como um número decimal. Como o comportamento não é especificado, você nunca deve usar parseInt() \npara analisar números com zeros à esquerda, a não ser que especifique",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 300,
+    "totalChunks": 10000
+  }
+}

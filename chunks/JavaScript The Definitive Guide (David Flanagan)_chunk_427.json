@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_427",
+  "content": "valores se referem ao mesmo objeto, array ou função, eles são iguais. Se eles se referem \na objetos diferentes, não são iguais, mesmo que os dois objetos tenham propriedades idênticas.\nO operador de igualdade == é como o operador de igualdade restrita, mas é menos restrito. Se os \nvalores dos dois operandos não são do mesmo tipo, ele procura fazer algumas conversões de tipo e \ntenta fazer a comparação novamente:\n •   Se os dois valores têm o mesmo tipo, testa-os quanto à igualdade restrita, conforme descrito \nanteriormente. Se eles são rigorosamente iguais, eles são iguais. Se eles não são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 427,
+    "totalChunks": 10000
+  }
+}

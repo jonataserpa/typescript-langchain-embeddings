@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4448",
+  "content": "elimitador\nA string ou expressão regular na qual a string é decomposta.\nlimite\nEsse inteiro opcional especifica o comprimento máximo do array retornado. Se for especifica-\ndo, não será retornado mais do que esse número de substrings. Se não for especificado, a string \ninteira será decomposta, independente de seu comprimento.\n\n832          Parte III     Referência de JavaScript básica\nRetorna\nUm array de strings, criado pela decomposição de \nstring em substrings nos limites especificados por \ndelimitador. As substrings no array retornado não incluem o próprio delimitador, exceto no caso",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4448,
+    "totalChunks": 10000
+  }
+}

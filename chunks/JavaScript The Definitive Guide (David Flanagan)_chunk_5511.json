@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5511",
+  "content": "tions (CSS), 407–408, 424\nmódulos, 240–244\n    avaliação de, 294\n    escopo de função como namespace privado, \n242–244\n    objetos como namespaces, 240\nmonitorEvents( ), objeto ConsoleCommandLine, \n868\nmouse\n    coordenadas do cursor, 380–381\n    rodas de mouse bidimensionais e evento wheel, 441\n    usando o teclado em vez do, 324\nmoveTo( ), CanvasRenderingContext2D, 618, 861\nMozilla\n    baixando o Rhino a partir do, 282\n    versões de JavaScript, 258, 262\nN\n\\n (caractere de nova linha), 36\nnamespaces\n    documentos XML incluindo atributos de outros \nnamespaces, 367\n    escopo de função como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5511,
+    "totalChunks": 10000
+  }
+}

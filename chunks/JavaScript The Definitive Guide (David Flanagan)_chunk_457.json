@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_457",
+  "content": "r o primeiro valor verdadeiro em um conjunto \nde alternativas:\n// Se max_width é definido, usa isso. Caso contrário, procura um valor\n// no objeto preferences. Se isso não estiver definido, usa uma constante codificada.\nvar max = max_width || preferences.max_width || 500;\nEsse idioma é frequentemente utilizado em corpos de função para fornecer valores padrão para \nparâmetros:\n// Copia as propriedades de o em p e retorna p\nfunction copy(o, p) {\n    p = p || {};     // Se nenhum objeto é passado para p, usa um objeto recém-criado.\n    // o corpo da função fica aqui\n}\n4.10.3   NÃO lógico (!)\nO",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 457,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4045",
+  "content": "Exemplo\n[1,2,3].filter(function(x) { return x > 1; });   // => [2,3]\nConsulte também\nArray.every(), Array.forEach(), Array.indexOf(), Array.map(), Array.reduce()\nArray.forEach() ECMAScript 5\nchama uma função para cada elemento do array\nSinopse\narray.forEach(f)\narray.forEach(f, o)\nArgumentos\nf\nA função a ser chamada para cada elemento de array.\no\nUm valor opcional no qual f é chamada.\n\n      Referência de JavaScript básica      711\nReferência de \nJavaScript básica\nRetorna\nEsse método não retorna nada.\nDescrição\nforEach() itera i, f é chamada com três argumentos:\nf(array[i], i, array)\nO valor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4045,
+    "totalChunks": 10000
+  }
+}

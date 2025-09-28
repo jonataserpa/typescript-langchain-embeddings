@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2551",
+  "content": "9, não suporta addEventListener() e removeEventListener(). No IE5 \ne posteriores, ele define métodos attachEvent() e detachEvent() similares.\nOs métodos \nattachEvent() e detachEvent() funcionam como addEventListener() e removeEventLis-\ntener(), com as seguintes exceções:\n •   Como o modelo de evento do IE não suporta captura de eventos, \nattachEvent() e detachE-\nvent() esperam somente dois argumentos: o tipo de evento e a função de tratamento.\n •   O primeiro argumento dos métodos do IE é um nome de propriedade de tratamento de even-\nto, com o prefixo “on”, em vez do tipo de evento não",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2551,
+    "totalChunks": 10000
+  }
+}

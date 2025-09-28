@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3418",
+  "content": "isso, a um arquivo de ajuda baseado em texto.\nAqui está um manifesto de cache mais complicado:\nCACHE MANIFEST\nCACHE:\nmyapp.html\nmyapp.css\nmyapp.js\nFALLBACK:\nvideos/offline_help.html\nNETWORK:\ncgi/\n20.4.2   Atualizações de cache\nQuando um aplicativo Web colocado na cache é carregado, todos os seus arquivos vêm diretamente \nda cache. Se o navegador estiver online, também vai verificar de forma assíncrona se o arquivo de \nmanifesto mudou. Se tiver mudado, o novo arquivo de manifesto e todos os arquivos a que ele faz \nreferência são baixados e reinstalados na cache de aplicativo. Note que o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3418,
+    "totalChunks": 10000
+  }
+}

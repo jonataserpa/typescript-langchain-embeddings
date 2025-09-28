@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1281",
+  "content": "é feito.\nExemplo 9-15 Composição de conjuntos em vez de subclasses\n/*\n *  Um FilteredSet empacota um objeto conjunto especificado e aplica um filtro especificado\n * nos valores passados para seu método add(). Todos os outros métodos de conjunto básicos\n * simplesmente encaminham para a instância do conjunto empacotado.\n */\nvar FilteredSet = Set.extend(\n    function FilteredSet(set, filter) { // A construtora\n        this.set = set;\n        this.filter = filter;\n    },\n    {   // Os métodos de instância\n        add: function() {\n            // Se temos um filtro, o aplicamos\n            if",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1281,
+    "totalChunks": 10000
+  }
+}

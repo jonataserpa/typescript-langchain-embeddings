@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2197",
+  "content": "a programação no \nlado do cliente, e também suportam algumas APIs que antecedem o DOM.\nNote que esta seção fala sobre script de formulários HTML e não sobre HTML em si. Ela presume \nque você já conhece um pouco sobre os elementos HTML (\n<input>, <textarea>, <select>, etc.) \nutilizados para definir esses formulários. Contudo, a Tabela 15-1 é uma referência rápida para os \nelementos de formulário mais comumente usados. Você pode ler mais sobre as APIs de formulário e \nde elemento de formulário na Parte IV, sob as entradas Form, Input, Option, Select e TextArea.\nTabela 15-1 Elementos de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2197,
+    "totalChunks": 10000
+  }
+}

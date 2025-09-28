@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2508",
+  "content": "ns novos, descritos aqui. Esses novos tipos de evento ainda não são \nmuito suportados, mas espera-se que os fornecedores de navegador os implementem quando o \npadrão for finalizado.\nConforme mencionado, a especificação Level 3 Events do DOM padroniza os eventos focusin e fo-\ncusout como alternativas que borbulham aos eventos focus e blur, padronizando também os eventos \nmouseenter e mouseleave como alternativas que não borbulham aos eventos mouseover e mouseout. \nEssa versão do padrão também desaprova vários tipos de evento definidos pelo Level 2, mas que \nnunca foram amplamente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2508,
+    "totalChunks": 10000
+  }
+}

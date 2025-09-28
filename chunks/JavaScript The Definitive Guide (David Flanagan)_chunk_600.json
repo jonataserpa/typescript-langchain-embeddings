@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_600",
+  "content": "cluir \numa quebra de linha entre a palavra-chave return e a expressão que a segue.\n5.6.5   throw\nUma exceção é um sinal indicando que ocorreu algum tipo de condição excepcional ou erro. Disparar \numa exceção é sinalizar tal erro ou condição excepcional. Capturar uma exceção é tratar dela – execu-\n\n104          Parte     I     JavaScript     básica\ntar as ações necessárias ou apropriadas para se recuperar da exceção. Em JavaScript, as exceções são \nlançadas quando ocorre um erro em tempo de execução e quando o programa lança uma explicita-\nmente, usando a instrução throw. As exceções são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 600,
+    "totalChunks": 10000
+  }
+}

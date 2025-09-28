@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1398",
+  "content": "// Corresponde a um valor entre dois e quatro dígitos\n/\\w{3}\\d?/   // Corresponde a exatamente três caracteres alfabéticos e um dígito opcional\n/\\s+java\\s+/ // Corresponde a “java” com um ou mais espaços antes e depois\n/[^(]*/      // Corresponde a zero ou mais caracteres que não sejam parêntese de abertura\nCuidado ao usar os caracteres de repetição * e ?. Como esses caracteres podem corresponder a zero \ninstâncias do que os precede, eles podem corresponder a nada. Por exemplo, a expressão regular /a*/ \ncorresponde na verdade à string “bbbb”, pois a string contém zero ocorrências da letra",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1398,
+    "totalChunks": 10000
+  }
+}

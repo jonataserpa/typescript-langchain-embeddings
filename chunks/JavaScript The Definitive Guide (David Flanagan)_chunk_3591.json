@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3591",
+  "content": "is. Contudo, \n\n624          Parte II     JavaScript do lado do cliente\nem telas de alta resolução as implementações podem mapear vários pixels do dispositivo em pixels \nCSS. Isso significa que o retângulo de pixels desenhado pelo elemento canvas pode ser maior do \nque as dimensões nominais do canvas. Você precisa saber disso ao trabalhar com os recursos de \nmanipulação de pixels (consulte a Seção 21.4.14) do elemento canvas, mas fora isso a distinção \nentre pixels CSS virtuais e pixels de hardware reais não tem qualquer efeito sobre o código de \ncanvas que você escreve.\nPor padrão, um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3591,
+    "totalChunks": 10000
+  }
+}

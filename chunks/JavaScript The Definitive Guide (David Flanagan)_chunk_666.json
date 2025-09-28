@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_666",
+  "content": "e \n// tipo\n    if (t !== \"object\" && t !== \"function\") throw TypeError();\n    function f() {};          // Define uma função construtora fictícia.\n    f.prototype = p;          // Configura sua propriedade prototype como p.\n    return new f();          // Usa f() para criar um \"herdeiro\" de p.\n}\nO código da função inherit() vai fazer mais sentido depois que abordarmos as construtoras, no \nCapítulo 9. Por enquanto, apenas aceite que ela retorna um novo objeto que herda as propriedades \ndo objeto argumento. Note que inherit() não substitui Object.create() totalmente: ela não permite \na criação",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 666,
+    "totalChunks": 10000
+  }
+}

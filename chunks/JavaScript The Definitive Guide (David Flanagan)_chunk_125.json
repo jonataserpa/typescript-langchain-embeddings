@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_125",
+  "content": "chart();         // Sem argumentos, apaga o gráfico\n }\n}\n// Salva a entrada do usuário como propriedades do objeto localStorage. Essas\n// propriedades ainda existirão quando o usuário visitar no futuro\n//  Esse recurso de armazenamento não vai funcionar em alguns navegadores (o Firefox, por\n// exemplo), se você executar o exemplo a partir de um arquivo local:// URL. Contudo, \n// funciona com HTTP.\nfunction save(amount, apr, years, zipcode) {\n    if (window.localStorage) {  // Só faz isso se o navegador suportar\n        localStorage.loan_amount = amount;\n        localStorage.loan_apr",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 125,
+    "totalChunks": 10000
+  }
+}

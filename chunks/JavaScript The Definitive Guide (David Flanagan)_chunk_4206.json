@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4206",
+  "content": "ndo um array de argumen-\ntos especificado.\nbind()\nRetorna uma nova função que chama esta como método do objeto especificado, com os argu-\nmentos especificados opcionalmente.\ncall()\nChama uma função como método de um objeto especificado, passando os argumentos espe-\ncificados.\ntoString()\nRetorna uma representação de string da função.\nDescrição\nUma função é um tipo de dados fundamental em JavaScript. O Capítulo 8 explica como definir \ne usar funções e o Capítulo 9 aborda os assuntos relacionados dos métodos, construtoras e a pro-\npriedade prototype das funções. Consulte esses capítulos para ver",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4206,
+    "totalChunks": 10000
+  }
+}

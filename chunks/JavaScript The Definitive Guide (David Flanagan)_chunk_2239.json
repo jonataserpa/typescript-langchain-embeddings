@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2239",
+  "content": "lect-one é como um conjunto de elementos botão de ação. Contudo, as opções \nexibidas por um elemento Select não são botões de alternância: em vez disso, são definidas por ele-\nmentos \n<option>. Um elemento Select define uma propriedade options que é um objeto semelhante \na um array contendo elementos Option.\nQuando o usuário seleciona ou anula a seleção de uma opção, o elemento Select dispara sua roti-\nna de tratamento de evento \nonchange. Para elementos Select select-one, a propriedade de leitura/\ngravação \nselectedIndex especifica qual das opções está selecionada. Para elementos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2239,
+    "totalChunks": 10000
+  }
+}

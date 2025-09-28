@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4040",
+  "content": "O método every() testa se alguma condição vale para todos os elementos de um array. Ele itera \npelos elementos de array, em ordem crescente, e chama a função predicado especificada em cada \nelemento por sua vez. Se predicado retorna false (ou qualquer valor que seja convertido em false), \nentão every() interrompe o laço e retorna false imediatamente. Se toda chamada de predicado re-\ntorna true, então every() retorna true. Quando chamada em um array vazio, every() retorna true.\nPara cada índice do array \ni, predicado é chamada com três argumentos:\npredicado(array[i], i, array)\nO valor de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4040,
+    "totalChunks": 10000
+  }
+}

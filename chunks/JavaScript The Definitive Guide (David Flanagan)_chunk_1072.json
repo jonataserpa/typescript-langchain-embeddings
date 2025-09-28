@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1072",
+  "content": "nto de argumentos especificado. Dizemos que ele vincula a \nfunção a um objeto e aplica os argumentos parcialmente. O método bind() aplica parcialmente os \nargumentos da esquerda – isto é, os argumentos passados para \nbind() são colocados no início da \nlista de argumentos passada para a função original. Mas também é possível aplicar parcialmente os \nargumentos da direita:\n\n190          Parte     I     JavaScript     básica\n// Uma função utilitária para converter um objeto semelhante a um array (ou um sufixo dele)\n//  em um array verdadeiro. Utilizada a seguir para converter objetos arguments",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1072,
+    "totalChunks": 10000
+  }
+}

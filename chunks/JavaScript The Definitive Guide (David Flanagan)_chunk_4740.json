@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4740",
+  "content": "atributo é especifi-\ncado por uma combinação de URI de namespace e nome local dentro desse espaço de nomes.\nClientRect getBoundingClientRect()\nRetorna um objeto ClientRect que descreve o envelope desse elemento.\nClientRect[] getClientRects()\nRetorna um objeto semelhante a um array de ClientRects que descreve um ou mais retângulos ocu-\npados por esse elemento. (Os elementos em linha que abrangem mais de uma linha, normalmente \nexigem mais de um retângulo para descrever precisamente sua região da janela.)\nNodeList getElementsByClassName(string nomesClasse)\nRetorna um objeto semelhante a um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4740,
+    "totalChunks": 10000
+  }
+}

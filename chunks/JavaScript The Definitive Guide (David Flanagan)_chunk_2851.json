@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2851",
+  "content": "os-limite\nUma requisição HTTP em andamento pode ser cancelada chamando-se o método abort() do objeto \nXMLHttpRequest. O método abort() está disponível em todas as versões de XMLHttpRequest e, \nem XHR2, chamar abort() dispara um evento abort no objeto. (Alguns navegadores suportavam \neventos abort quando este livro estava sendo escrito. A presença de uma propriedade “onabort” pode \nser testada no objeto XMLHttpRequest.)\nA principal razão para se chamar \nabort() é cancelar ou interromper inquisições que demoram mui-\nto para completar ou quando as respostas se tornam irrelevantes. Suponha que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2851,
+    "totalChunks": 10000
+  }
+}

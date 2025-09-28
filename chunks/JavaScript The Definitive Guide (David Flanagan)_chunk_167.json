@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_167",
+  "content": "Float                 SyntaxError\nDate                    eval                    JSON                    parseInt                    TypeError\ndecodeURI               EvalError               Math               RangeError               undefined\ndecodeURIComponent      Function              NaN         ReferenceError      URIError\nLembre-se de que as implementações de JavaScript podem definir outras variáveis e funções globais, \nsendo que cada incorporação de JavaScript específica (lado do cliente, lado do servidor, etc.) terá sua \nprópria lista de propriedades globais. Consulte o objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 167,
+    "totalChunks": 10000
+  }
+}

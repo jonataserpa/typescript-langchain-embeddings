@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2631",
+  "content": "nt, framewidth, frameheight, contentX, contentY) {\n    // Esses argumentos não são apenas os valores iniciais: eles mantêm o\n     // estado atual e são utilizados e modificados pela rotina de tratamento de mousewheel.\n    framewidth = Math.max(framewidth, 50);\n    frameheight = Math.max(frameheight, 50);\n    contentX = Math.min(contentX, 0) || 0;\n    contentY = Math.min(contentY, 0) || 0;\n    // Cria o elemento frame e configura um nome de classe e estilo CSS\n    var frame = document.createElement(\"div\");\n    frame.className = \"enclosure\";     // Para que possamos definir estilos em \n// uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2631,
+    "totalChunks": 10000
+  }
+}

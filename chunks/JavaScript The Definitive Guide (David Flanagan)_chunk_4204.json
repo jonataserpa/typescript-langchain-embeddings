@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4204",
+  "content": "s por pontos e vírgulas, e pode se referir a qualquer um dos nomes de \nargumento especificados pelos argumentos anteriores da construtora.\nRetorna\nUm objeto Function recentemente criado. Chamar a função executa o código JavaScript especifica-\ndo por \ncorpo.\nLança\nSyntaxError\nIndica que houve um erro de sintaxe JavaScript no argumento corpo ou em um dos argumen-\ntos nomes_argumento.\nPropriedades\narguments[]\nUm array de argumentos que foram passados para a função. Desaprovada.\n\n760          Parte III     Referência de JavaScript básica\ncaller\nUma referência ao objeto Function que chamou essa,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4204,
+    "totalChunks": 10000
+  }
+}

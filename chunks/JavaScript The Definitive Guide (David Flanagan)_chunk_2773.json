@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2773",
+  "content": "os aprender sobre o terceiro argumento opcional de \nopen() a seguir. Os argumentos opcionais nome de usuário e senha estão descritos na seção de \nreferência.)\nO último passo para fazer uma requisição HTTP com XMLHttpRequest é especificar o corpo \nda requisição opcional e enviá-lo para o servidor. Faça isso com o método\n send():\nrequest.send(null);\nAs requisições GET nunca têm corpo, de modo que você deve passar null ou omitir o argumento. \nAs requisições POST geralmente têm corpo e ele deve corresponder ao cabeçalho “Content-Type” \nespecificado com setRequestHeader().\nA ordem importa\nAs",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2773,
+    "totalChunks": 10000
+  }
+}

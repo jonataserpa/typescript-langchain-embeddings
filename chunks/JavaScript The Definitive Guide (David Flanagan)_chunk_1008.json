@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1008",
+  "content": "oleta de lixo, junto com o objeto vínculo \nde variável a que se referiam. Mas se a função define uma função aninhada e a retorna ou a armazena \nem uma propriedade em algum lugar, então vai haver uma referência externa à função aninhada. Ela \nnão é removida pela coleta de lixo e o objeto vínculo de variável a que se refere também não é removido \npela coleta de lixo.\n\n178          Parte     I     JavaScript     básica\nusar a variável counter definida na função externa. Quando essa função externa retorna, nenhum \noutro código pode ver a variável counter: a função interna tem acesso exclusivo a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1008,
+    "totalChunks": 10000
+  }
+}

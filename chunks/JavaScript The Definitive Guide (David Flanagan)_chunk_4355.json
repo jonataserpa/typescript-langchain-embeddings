@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4355",
+  "content": "o = new Object();               // Cria um objeto\no.x = 3.14;                         // Define uma propriedade\no.propertyIsEnumerable(\"x\");        // verdadeiro: a propriedade x é local e enumerável\no.propertyIsEnumerable(\"y\");        // falso: o não tem uma propriedade y\no.propertyIsEnumerable(\"toString\");  // falso: a propriedade toString é herdada\nObject.prototype.propertyIsEnumerable(\"toString\");        // falso: não enumerável\nConsulte também\nFunction.prototype, Object.hasOwnProperty(); Capítulo 6\nObject.seal() ECMAScript 5\nimpede a adição ou exclusão de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4355,
+    "totalChunks": 10000
+  }
+}

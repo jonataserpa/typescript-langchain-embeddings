@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3962",
+  "content": "um objeto transação e então o utiliza para pesquisar o(s) objeto(s) \narmazenado(s) que vai usar. Em seguida, você faz qualquer número de chamadas de \nget() e put() no \narmazenamentos de objetos. Elas são assíncronas, de modo que nada acontece imediatamente, mas \nos pedidos gerados por essas chamadas de \nget() e put() são automaticamente associados ao objeto \ntransação. Caso seja necessário, você pode cancelar todas as operações pendentes (e desfazer qualquer \numa que já tenha terminado) na transação, chamando o método \nabort() do objeto transação. Em \nmuitas outras APIs de banco de dados,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3962,
+    "totalChunks": 10000
+  }
+}

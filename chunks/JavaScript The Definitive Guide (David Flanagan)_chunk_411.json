@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_411",
+  "content": "dos inteiros e se comportam como se esses valores fossem \nrepresentados como inteiros de 32 bits, em vez de valores em ponto flutuante de 64 bits. Esses ope-\nradores convertem seus operandos em números, se necessário, e então forçam os valores numéricos \na ser inteiros de 32 bits, eliminando qualquer parte fracionária e quaisquer bits além do 32º. Os \noperadores de deslocamento exigem no lado direito um operando entre 0 e 31. Após converter esse \noperando em um inteiro de 32 bits sem sinal, eles eliminam todos os bits além do 5º, o que gera um \nnúmero no intervalo apropriado.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 411,
+    "totalChunks": 10000
+  }
+}

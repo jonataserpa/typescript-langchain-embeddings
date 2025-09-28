@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5095",
+  "content": "nticos, com tipo, nome de tag, atributos e (recursivamente) \nfilhos iguais. Retorna false se os dois nós não são iguais.\nboolean isSameNode(Node outro)\nRetorna true se esse nó e outro são o mesmo nó e false, caso contrário. Você também pode usar \nsimplesmente o operador ==.\nstring lookupNamespaceURI(string prefixo)\nEsse método retorna o URL do espaço de nomes associado ao prefixo de namespace especificado ou \nnull, caso não exista um. Se prefixo é null, ele retorna o URL do namespace padrão.\n\n      Referência de JavaScript do lado do cliente      963\nReferência de \nJavaScript do lado \ndo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5095,
+    "totalChunks": 10000
+  }
+}

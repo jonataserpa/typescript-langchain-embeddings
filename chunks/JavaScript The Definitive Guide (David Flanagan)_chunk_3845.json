@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3845",
+  "content": "lo 22     APIs de HTML5      673\nJavaScript do\n lado do cliente\nArrays tipados, <canvas> e núcleo de JavaScript\nOs arrays tipados são uma parte essencial da API gráfica 3D WebGL para o elemento <canvas> e os navega-\ndores os têm implementado como parte da WebGL. A WebGL não é abordada neste livro, mas os arrays ti-\npados são úteis de modo geral e são abordados aqui. Você pode lembrar, do Capítulo 21, que a API Canvas \ndefine um método \ngetImageData() que retorna um objeto ImageData. A propriedade data de um Image-\nData é um array de bytes. O padrão HTML chama isso de CanvasPixelArray, mas é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3845,
+    "totalChunks": 10000
+  }
+}

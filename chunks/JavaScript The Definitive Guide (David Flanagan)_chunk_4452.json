@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4452",
+  "content": "ing. Contudo, se \ndelimitador é uma expressão regular \nque contém subexpressões entre parênteses, as substrings que coincidem com essas subexpressões entre \nparênteses (mas não o texto que corresponde à expressão regular como um todo) são incluídas no array \nretornado.\nNote que o método String.split() é o inverso do método Array.join().\nExemplo\nO método split() tem mais utilidade quando se está trabalhando com strings altamente estrutura-\ndas. Por exemplo:\n\"1:2:3:4:5\".split(\":\");  //  Retorna  [\"1\",\"2\",\"3\",\"4\",\"5\"]\n\"|a|b|c|\".split(\"|\");    // Retorna [\"\", \"a\", \"b\", \"c\", \"\"]\nOutro uso comum do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4452,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5361",
+  "content": "tenando strings, 37\nconjuntos, classe Set (exemplo), 209–211\nconjuntos de caractere, 21\nconsole API, 3\nconstante E (Math), 778\nconstante LN10 (Math), 779\nconstante LN2 (Math), 779\nconstante LOG10E (Math), 780\nconstante LOG2E (Math), 780\nconstante PI (Math), 781\nconstante SQRT1_2 (Math), 783–784\nconstante SQRT2 (Math), 784–785\nconstantes\n    campos declarados fi nais em classes Java, 202\n    escopo de bloco e uso da palavra-chave let, 262\nconstantes HAVE, objeto MediaElement, 949\nconstrutora Array( ), 138\nconstrutora Audio( ), 602\nconstrutora Boolean( ), 42\nconstrutora Date( ), 726\nconstrutora",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5361,
+    "totalChunks": 10000
+  }
+}

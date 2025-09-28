@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5120",
+  "content": "omente o que se chama “progress” é um evento Progress do tipo descrito aqui.\nOs eventos Progress são disparados em uma sequência que começa com um evento loadstart e sem-\npre termina com um evento loadend. O evento imediatamente antes de loadend será load, error ou \nabort, dependendo de a operação de transferência de dados ser bem-sucedida e, se não for, como \n\n968          Parte IV     Referência de JavaScript do lado do cliente\nfalhou. Zero ou mais eventos progress (com o nome de evento “progress”) são disparados entre o \nevento loadstart inicial e os dois eventos finais. (O objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5120,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3138",
+  "content": "ção tiver concluído sua operação, deve chamar a função que foi passada a ela. Isso executa \n\n544          Parte II     JavaScript do lado do cliente\na próxima operação da fila e, se você não chamar a função, a fila vai parar e as funções enfileiradas \nnunca serão chamadas.\nVimos que é possível passar uma função callback para métodos de efeito da jQuery, para executar al-\ngum tipo de ação depois que o efeito termina. Você pode obter o mesmo efeito enfileirando sua função:\n// Faz um elemento aparecer gradualmente, espera, configura algum texto nele e anima sua \n//",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3138,
+    "totalChunks": 10000
+  }
+}

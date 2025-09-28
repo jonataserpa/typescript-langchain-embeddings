@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_270",
+  "content": "lquer índice especificado. Na verdade, JavaScript não permite isso e todos os métodos de string \nque parecem retornar uma string modificada estão na verdade retornando um novo valor de string. \nPor exemplo:\nvar s = \"hello\";      // Começa com um texto em letras minúsculas\ns.toUpperCase();      // Retorna \"HELLO\", mas não altera s\ns                    // => \"hello\": a string original não mudou\nOs valores primitivos também são comparados por valor: dois valores são iguais somente se têm o \nmesmo valor. Isso parece recorrente para números, booleanos, null e undefined: não há outra manei-\nra de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 270,
+    "totalChunks": 10000
+  }
+}

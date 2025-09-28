@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4693",
+  "content": "tor CSS ou um grupo de seletores \nseparados por vírgulas). Ao contrário dos NodeLists retornados por getElementsByTagName() e méto-\ndos semelhantes, o NodeList retornado por esse método não é dinâmico: é apenas um instantâneo \nestático dos elementos que corresponderam quando o método foi chamado.\n\n882          Parte IV     Referência de JavaScript do lado do cliente\nvoid write(string texto...)\nEsse método anexa seus argumentos no documento. Esse método pode ser usado enquanto o docu-\nmento está carregando, para inserir conteúdo no local da tag <script>, ou usado após a chamada do \nmétodo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4693,
+    "totalChunks": 10000
+  }
+}

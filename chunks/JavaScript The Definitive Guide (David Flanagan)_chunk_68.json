@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_68",
+  "content": "um objeto com . ou []:\nbook.topic // => \"JavaScript\"\nbook[\"fat\"] // =>  true: outro modo de acessar valores de propriedade.\nbook.author = \"Flanagan\";  //  Crie novas propriedades por meio de atribuição.\nbook.contents = {};        // {} é um objeto vazio sem qualquer propriedade.\n// JavaScript também aceita arrays (listas indexadas numericamente) de valores.\nvar primes = [2, 3, 5, 7]; // Um array de 4 valores, delimitados com [ e ].\nprimes[0] // => 2: o primeiro elemento (índice 0) do array.\nprimes.lenght // => 4: quantidade de elementos no array.\nprimes[primes.lenght-1]    // => 7: o último",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 68,
+    "totalChunks": 10000
+  }
+}

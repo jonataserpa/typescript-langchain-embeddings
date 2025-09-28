@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1752",
+  "content": "lementById(\"button1\").onclick = function() { ... };\n\nCapítulo 13     JavaScript em navegadores Web      313\nJavaScript do\n lado do cliente\nfunction handleResponse() { ... }\nrequest.onreadystatechange = handleResponse;\nObserve que as propriedades da rotina de tratamento de evento têm nomes que, por convenção, \ncomeçam com “on” e são seguidas pelo nome do evento. Note também que não existem chamadas \nde função nos códigos anteriores: estamos atribuindo as próprias funções a essas propriedades. O na-\nvegador vai fazer a chamada quando os eventos ocorrerem. A programação assíncrona com eventos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1752,
+    "totalChunks": 10000
+  }
+}

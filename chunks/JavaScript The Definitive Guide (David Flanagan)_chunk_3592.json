@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3592",
+  "content": "de hardware reais não tem qualquer efeito sobre o código de \ncanvas que você escreve.\nPor padrão, um elemento <canvas> é exibido na tela com o tamanho (em pixels CSS) especificado \npor seus atributos HTML \nwidth e height. No entanto, assim como qualquer elemento HTML, um \nelemento \n<canvas> pode ter seu tamanho na tela especificado por atributos de estilo CSS width e \nheight. Se você especifica um tamanho na tela diferente das dimensões reais do canvas, os pixels do \ncanvas se ajustam conforme o necessário para caber nas dimensões de tela especificadas pelos atribu-\ntos CSS. O tamanho do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3592,
+    "totalChunks": 10000
+  }
+}

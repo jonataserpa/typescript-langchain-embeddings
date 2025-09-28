@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_186",
+  "content": "como \nsubtipos do tipo de objeto. Além das classes Array e Function, JavaScript básica define outras três \nclasses úteis. A classe Date define objetos que representam datas. A classe RegExp define objetos que \nrepresentam expressões regulares (uma poderosa ferramenta de comparação de padrões, descrita no \nCapítulo 10). E a classe Error define objetos que representam erros de sintaxe e de execução que \npodem ocorrer em um programa JavaScript. Você pode estabelecer suas próprias classes de objetos, \ndefinindo funções construtoras apropriadas. Isso está explicado no Capítulo 9.\nO interpretador",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 186,
+    "totalChunks": 10000
+  }
+}

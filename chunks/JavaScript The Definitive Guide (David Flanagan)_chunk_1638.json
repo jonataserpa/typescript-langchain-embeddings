@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1638",
+  "content": "// Lê um arquivo de forma síncrona. Passa uma codificação para obter texto, em vez de\n// bytes.\nvar text = fs.readFileSync(\"config.json\", \"utf8\");\n// Lê um arquivo binário de forma assíncrona. Passa uma função para obter os dados\nfs.readFile(\"image.png\", function(err, buffer) {\n    if (err) throw err;         // Se tudo deu errado\n    process(buffer);  // O conteúdo do arquivo está no buffer\n});\nExistem funções writeFile() e writeFileSync() similares para gravar arquivos:\nfs.writeFile(\"config.json\", JSON.stringify(userprefs));\nAs  funções  mostradas  anteriormente  tratam  o  conteúdo  do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1638,
+    "totalChunks": 10000
+  }
+}

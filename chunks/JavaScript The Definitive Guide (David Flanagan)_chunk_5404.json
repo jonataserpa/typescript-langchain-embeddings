@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5404",
+  "content": "e rotina de tratamento de \nevento, 526\n        objeto    Event,    528\n        registro de rotina de tratamento de evento avan-\nçada, 530\n    tratando de eventos de cache de aplicativo, 590–\n593\n    visão geral, 312\n    WebSocket,    697–698\neventos blur, 391, 437\n    alternativa de borbulha para, 441\n    registro de rotina de tratamento de evento com \njQuery, 527\neventos click, 454\n    propriedade detail, 439\n    registrando rotinas de tratamento no elemento \nbotão para, 446\n    registrando rotinas de tratamento para, 11\neventos contextmenu, 439, 454\neventos de entrada\n    dependentes e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5404,
+    "totalChunks": 10000
+  }
+}

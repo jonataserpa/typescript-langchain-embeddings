@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5400",
+  "content": "representação de documentos HTML, 352\nestrutura Prototype, biblioteca Scriptaculous, 424\nestruturas, do lado do cliente, 320, 330\nestruturas de controle, 6, 85\n (consulte também instruções)\nevento dblclick, 439, 454\nevento DOMContentLoaded, 316, 438, 453\nevento orientationchanged, 444\neventos, 433–477\n    ações padrão associadas aos, 435\n    Ajax na jQuery, 556\n    armazenamento, 578, 972–973\n    arrastar e soltar, 462–469\n    carregamento de documento, 453–454\n    categorias de, 436\n    chamada de rotinas de tratamento de evento, \n448–453\n    createEvent( ), objeto Document, 879\n    defi",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5400,
+    "totalChunks": 10000
+  }
+}

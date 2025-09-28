@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5485",
+  "content": "objeto Node, 962\nmétodo isPrototypeOf( ), 132, 803–804\nmétodo isSameNode( ), objeto Node, 962\nmétodo item( )\n    elemento Select, 971–972\n    objeto DOMTokenList, 885–886\n    objeto HTMLCollection, 358, 921\n    objeto HTMLOptionsCollection, 923\n    objeto NodeList, 358, 964\nmétodo join( ), objeto Array, 145, 712\nmétodo key( ), objeto Storage, 972–973\nmétodo keys( ), ConsoleCommandLine, 868\nmétodo lastIndexOf( )\n    objeto Array, 153, 713\n    objeto String, 825–826\nmétodo live( ), jQuery, 536\nmétodo load( )\n    elementos media, 603\n    jQuery,    527\n    objeto MediaElement, 953\n    utilitário",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5485,
+    "totalChunks": 10000
+  }
+}

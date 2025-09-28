@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2252",
+  "content": "tar, o navegador analisa a \nsaída gerada e a exibe. O código a seguir, por exemplo, usa write() para gerar informações na saída \ndinamicamente em um documento HTML que de outro modo seria estático:\n<script>\n  document.write(\"<p>Document title: \" + document.title);\n  document.write(\"<br>URL: \" + document.URL);\n  document.write(\"<br>Referred by: \" + document.referrer);\n  document.write(\"<br>Modified on: \" + document.lastModified);\n  document.write(\"<br>Accessed on: \" + new Date());\n</script>\nÉ importante entender que é possível usar o método write() para gerar saída HTML no docu-\nmento corrente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2252,
+    "totalChunks": 10000
+  }
+}

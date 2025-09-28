@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3329",
+  "content": "bjeto com uma string e o navegador armazena essa string para você. A diferença \nentre localStorage e sessionStorage tem a ver com vida útil e escopo: por quanto tempo os dados são \nsalvos e a quem estão acessíveis.\nA vida útil e o escopo de Storage são explicados com mais detalhes a seguir. Primeiramente, contu-\ndo, vamos ver alguns exemplos. O código a seguir usa \nlocalStorage, mas também funcionaria com \nsessionStorage:\nvar name = localStorage.username;                // Consulta um valor armazenado.\nname = localStorage[\"username\"];                 // Notação de array equivalente\nif (!name)",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3329,
+    "totalChunks": 10000
+  }
+}

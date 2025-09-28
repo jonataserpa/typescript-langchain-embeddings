@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2170",
+  "content": "o e determinar qual elemento \nexiste em determinada posição na janela de visualização. Isso pode ser determinado com o mé-\ntodo \nelementFromPoint() do objeto Document. Passe as coordenadas X e Y (usando coordenadas \nda janela de visualização e não coordenadas do documento) e esse método vai retornar o objeto \nElement que está na posição especificada. Quando este livro estava sendo escrito, o algoritmo \npara selecionar o elemento não estava especificado, mas o objetivo desse método é retornar o \nelemento mais interno e mais externo (consulte o atributo CSS \nz-index na Seção 16.2.1.1) nesse",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2170,
+    "totalChunks": 10000
+  }
+}

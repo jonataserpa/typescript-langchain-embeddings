@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_409",
+  "content": "o operando, ele decre-\nmenta o operando, mas retorna o valor não decrementado. Quando usado após seu operando, \nnenhuma quebra de linha é permitida entre o operando e o operador.\n4.8.3   Operadores bit a bit\nOs operadores bit a bit fazem manipulação de baixo nível dos bits na representação binária de núme-\nros. Embora não efetuem operações aritméticas tradicionais, eles são classificados como operadores \naritméticos aqui porque atuam sobre operandos numéricos e retornam um valor numérico. Esses \noperadores não são utilizados comumente em programação JavaScript e, caso você não conheça a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 409,
+    "totalChunks": 10000
+  }
+}

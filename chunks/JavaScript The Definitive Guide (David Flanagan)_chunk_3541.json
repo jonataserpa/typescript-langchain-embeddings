@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3541",
+  "content": "pt>\nfunction updateTime() { // Atualiza o elemento gráfico relógio SVG para mostrar a hora atual\n    var now = new Date();                       // Hora atual\n    var min = now.getMinutes();                 // Minutos\n    var hour = (now.getHours() % 12) + min/60;   // Horas fracionárias\n\nCapítulo 21     Mídia e gráficos em scripts      615\nJavaScript do\n lado do cliente\n    var minangle = min*6;                       // 6 graus por minuto\n    var hourangle = hour*30;                    // 30 graus por hora\n    // Obtém elementos SVG para os ponteiros do relógio\n    var minhand =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3541,
+    "totalChunks": 10000
+  }
+}

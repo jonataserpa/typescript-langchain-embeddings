@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2550",
+  "content": "ratamen-\nto de evento de captura temporárias para eventos mousemove e mouseup, para ver se o usuário arrasta o \nmouse. Então, você anularia o registro dessas rotinas de tratamento quando o evento mouseup chegasse. \nNessa situação, o código de remoção da rotina de tratamento de evento poderia ser como segue:\ndocument.removeEventListener(\"mousemove\", handleMouseMove, true);\ndocument.removeEventListener(\"mouseup\", handleMouseUp, true);\n17.2.4   attachEvent()\nO Internet Explorer, antes do IE9, não suporta addEventListener() e removeEventListener(). No IE5 \ne posteriores, ele define métodos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2550,
+    "totalChunks": 10000
+  }
+}

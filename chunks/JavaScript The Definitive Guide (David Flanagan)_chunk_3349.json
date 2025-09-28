@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3349",
+  "content": "pia. O objeto armazenado permanece intacto. Haveria menos chance de confusão \nse usássemos getItem() aqui:\nlocalStorage.getItem(\"o\").x = 2;     // Não esperamos que isso armazene o valor 2\nPor fim, outro motivo para usar a API Storage explícita baseada em métodos é que podemos si-\nmular  essa  API  em  cima  de  outros  mecanismos  de  armazenamento  nos  navegadores  que  ainda  \nnão suportam a especificação Web Storage. As seções a seguir implementam a API Storage usando \ncookies e userData do IE. Se você usa a API baseada em métodos, pode escrever código que utilize \nlocalStorage quando",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3349,
+    "totalChunks": 10000
+  }
+}

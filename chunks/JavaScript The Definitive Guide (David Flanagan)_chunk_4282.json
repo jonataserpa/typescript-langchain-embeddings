@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4282",
+  "content": "primitiva e de objeto, conforme for necessário. Você \npode criar um objeto Number explicitamente com a construtora Number(), embora raramente haja \nnecessidade disso.\nA construtora \nNumber() também pode ser usada sem o operador new, como uma função de conversão. \nQuando chamada dessa maneira, ela tenta converter seu argumento em um número e retorna o \nvalor numérico primitivo (ou \nNaN) resultante da conversão.\nA construtora \nNumber() também é usada como espaço reservado para cinco constantes numéricas \núteis: o maior e o menor números representáveis, infinito positivo e negativo, e o valor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4282,
+    "totalChunks": 10000
+  }
+}

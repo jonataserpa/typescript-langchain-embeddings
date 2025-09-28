@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3145",
+  "content": "lado do cliente\nseguida, abordam a função jQuery.ajax() em detalhes. Para entender completamente o funciona-\nmento dos utilitários de alto nível, você precisa compreender a função \njQuery.ajax(), mesmo que \nnunca precise utilizá-la explicitamente.\n19.6.1   O método load()\nO método load() é o mais simples de todos os utilitários da jQuery: passe um URL e ele carrega o \nconteúdo desse URL de forma assíncrona e depois insere esse conteúdo em cada um dos elementos \nselecionados, substituindo qualquer conteúdo que já esteja lá. Por exemplo:\n// Carrega e exibe o relatório de status mais recente a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3145,
+    "totalChunks": 10000
+  }
+}

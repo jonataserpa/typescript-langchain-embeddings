@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_497",
+  "content": "ada (consulte a Seção 6.7). Fora do modo restrito não ocorre qualquer exceção nesses casos e \ndelete simplesmente retorna false para indicar que o operando não pode ser excluído.\nAqui estão alguns exemplos de uso do operador delete:\nvar o = {x:1, y:2};   // Define uma variável; a inicializa com um objeto\ndelete o.x;           // Exclui uma das propriedades do objeto; retorna true\ntypeof o.x;           // A propriedade não existe; retorna \"indefinido\"\ndelete o.x;           // Exclui uma propriedade inexistente; retorna true\ndelete o;             // Não pode excluir uma variável declarada;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 497,
+    "totalChunks": 10000
+  }
+}

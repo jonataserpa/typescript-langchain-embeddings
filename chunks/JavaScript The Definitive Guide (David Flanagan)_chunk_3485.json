@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3485",
+  "content": ": não há uma construtora \nVideo() correspondente.\nApesar do requisito frustrante de definir mídia em vários formatos de arquivo, a capacidade de \nreproduzir áudio e vídeo de forma nativa no navegador, sem o uso de plug-ins, é um novo recurso \n\nCapítulo 21     Mídia e gráficos em scripts      603\nJavaScript do\n lado do cliente\npoderoso de HTML5. Note que o problema dos codecs de mídia e de compatibilidade de navegador \nestá fora dos objetivos deste livro. As subseções a seguir enfocam apenas a API JavaScript para traba-\nlhar com fluxos de áudio e vídeo.\n21.2.1   Seleção e carregamento de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3485,
+    "totalChunks": 10000
+  }
+}

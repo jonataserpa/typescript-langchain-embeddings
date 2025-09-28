@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1241",
+  "content": "têm métodos from e to que retornam os pontos extremos do intervalo. Esses método from() \ne to() são definidos no objeto Range individual e não são herdados do protótipo. Os outros méto-\ndos de Range são definidos no protótipo, como sempre, mas modificados para chamar os métodos \nfrom() e to(), em vez de ler os pontos extremos diretamente das propriedades.\nExemplo 9-10 Uma classe Range com pontos extremos encapsulados fracamente\nfunction Range(from, to) {\n    // Não armazena os pontos extremos como propriedades desse objeto. Em vez disso\n    // define funções de acesso que retornam os valores",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1241,
+    "totalChunks": 10000
+  }
+}

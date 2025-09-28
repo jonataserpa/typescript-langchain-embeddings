@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4402",
+  "content": "tir que a \nstring retornada seja uma expressão regular literal válida. Considere a expressão regular criada pela \nexpressão \nnew RegExp(\"/\",\"g\"). Uma implementação de RegExp.toString() poderia retornar ///g \npara essa expressão regular; também poderia adicionar uma sequência de escape e retornar /\\//g.\nString\nsuporte para strings Object → String\nConstrutora\nnew String(s)    // Função construtora\nString(s)        // Função de conversão\nArgumentos\ns\nO valor a ser armazenado em um objeto String ou convertido em uma string primitiva.\nRetorna\nQuando \nString() é usada como construtora, com o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4402,
+    "totalChunks": 10000
+  }
+}

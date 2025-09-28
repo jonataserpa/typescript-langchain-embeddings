@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4811",
+  "content": "especifica como o texto foi inserido. O valor será uma \ndestas constantes: DOM_INPUT_METHOD_UNKNOWN, DOM_INPUT_METHOD_KEYBOARD, DOM_INPUT_METHOD_\nPASTE, DOM_INPUT_METHOD_DROP, DOM_INPUT_METHOD_IME, DOM_INPUT_METHOD_OPTION, DOM_INPUT_ME-\nTHOD_HANDWRITING, DOM_INPUT_METHOD_VOICE, DOM_INPUT_METHOD_MULTIMODAL, DOM_INPUT_METHOD_\nSCRIPT.\nreadonly string key\nPara eventos de teclado que geram caracteres, essa propriedade tem o mesmo valor de char. \nSe o evento de teclado não gerou caracteres, essa propriedade contém o nome da tecla (como \n“Tab” ou “Down”) que foi pressionada.\nreadonly string",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4811,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_644",
+  "content": "ras” estáticas das linguagens estatica-\nmente tipadas. Também podem ser usados (ignorando-se a parte referente ao valor do mapeamento \nde string para valor) para representar conjuntos de strings.\nQualquer valor em JavaScript que não seja uma string, um número, \ntrue, false, null ou undefined, é \num objeto. E mesmo que strings, números e valores booleanos não sejam objetos, eles se comportam \ncomo objetos imutáveis (consulte a Seção 3.6).\nLembre-se, da Seção 3.7, de que os objetos são mutáveis e são manipulados por referência e não por \nvalor. Se a variável \nx se refere a um objeto e o código",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 644,
+    "totalChunks": 10000
+  }
+}

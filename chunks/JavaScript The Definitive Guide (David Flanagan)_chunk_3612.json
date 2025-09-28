@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3612",
+  "content": "Desenha um trecho de um floco de neve de Koch de nível n.\n    // Esta função deixa o ponto atual na extremidade do trecho que\n  // desenhou e translada o sistema de coordenadas de modo que o ponto atual seja \n// (0,0).\n    // Isso significa que você pode chamar rotate() facilmente após desenhar um trecho.\n    function leg(n) {\n        c.save();     // Salva a transformação atual\n        if (n == 0) {  // Caso não recursivo:\n            c.lineTo(len, 0);  // Desenha apenas uma linha horizontal\n       }                                             _  _\n        else {            // Caso",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3612,
+    "totalChunks": 10000
+  }
+}

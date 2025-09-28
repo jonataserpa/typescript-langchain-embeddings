@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4377",
+  "content": "ário, parseInt() o analisa como um número decimal.\nExemplo\nparseInt(\"19\", 10);   // Retorna 19 (10 + 9)\nparseInt(\"11\", 2);    // Retorna 3 (2 + 1)\nparseInt(\"17\", 8);    // Retorna 15 (8 + 7)\nparseInt(\"1f\", 16);   // Retorna 31 (16 + 15)\nparseInt(\"10\");       // Retorna 10\nparseInt(\"0x10\");     // Retorna 16\nConsulte também\nisNaN(), parseFloat()\nRangeError\nlançado quando um número está fora de seu intervalo válido Object → Error → RangeError\nConstrutora\nnew RangeError()\nnew RangeError(mensagem)\nArgumentos\nmensagem\nUma mensagem de erro opcional fornecendo detalhes sobre a exceção. Se for",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4377,
+    "totalChunks": 10000
+  }
+}

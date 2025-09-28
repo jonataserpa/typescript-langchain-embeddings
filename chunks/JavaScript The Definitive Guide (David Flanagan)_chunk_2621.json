@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2621",
+  "content": "o do cliente\n17.6   Eventos de roda do mouse\nTodos os navegadores modernos suportam rodas de mouse e disparam eventos quando o usuário \ngira a roda do mouse. Muitas vezes os navegadores usam a roda do mouse para rolar o documento \nou aproximar e afastar, mas é possível cancelar o evento mousewheel para evitar essas ações padrão.\nExistem vários problemas de interoperabilidade que afetam os eventos de roda do mouse, mas é pos-\nsível escrever código que funcione em todas as plataformas. Quando este livro estava sendo escrito, \ntodos os navegadores, menos o Firefox, suportavam um evento chamado",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2621,
+    "totalChunks": 10000
+  }
+}

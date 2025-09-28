@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5029",
+  "content": "adyState.\nunsigned short NETWORK_EMPTY = 0\nO elemento não começou a usar a rede. Esse seria o estado antes de o atributo src ser confi-\ngurado.\nunsigned short NETWORK_IDLE = 1\nO elemento não está carregando dados da rede no momento. Ele pode ter carregado o recurso \ncompleto ou ter colocado no buffer todos os dados de que precisa no momento. Ou então, \n\n950          Parte IV     Referência de JavaScript do lado do cliente\npode ter preload configurado como “none” e ainda não foi solicitado a carregar ou reproduzir \na mídia.\nunsigned short NETWORK_LOADING = 2\nO elemento está usando a rede para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5029,
+    "totalChunks": 10000
+  }
+}

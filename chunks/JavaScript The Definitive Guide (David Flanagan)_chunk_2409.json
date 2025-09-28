@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2409",
+  "content": "os são representados por \num objeto CSSStyleDeclaration. Ao contrário dos estilos em linha, contudo, os estilos computados \nsão somente de leitura. Não é possível configurar esses estilos, mas o objeto CSSStyleDeclaration \ncomputado de um elemento permite determinar exatamente quais valores de propriedade de estilo \no navegador utilizou ao renderizar esse elemento.\nObtenha o estilo computado de um elemento com o método \ngetComputedStyle() do objeto Win-\ndow. O primeiro argumento desse método é o elemento cujo estilo computado é desejado. O se-\ngundo argumento é obrigatório e normalmente é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2409,
+    "totalChunks": 10000
+  }
+}

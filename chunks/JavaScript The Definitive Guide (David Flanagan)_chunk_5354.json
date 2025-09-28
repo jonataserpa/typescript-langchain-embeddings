@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5354",
+  "content": "ndo    e    confi gurando campos estáticos \nno Rhino, 283\n        instanciando,    283\n    obtendo a classe de um objeto, 133\n    obtendo e confi gurando classes CSS, 518\n    operador instanceof, 74\n    programação orientada a objetos com, 209–222\n        classe Set (exemplo), 209–211\n        emprestando    métodos,    218\n        estado    privado,    220\n        métodos de comparação, 215–218\n        métodos de conversão padrão, 213\n        sobrecarga de construtora e métodos fábrica, \n221\n        tipos enumerados (exemplo), 211–213\n    protótipos e, 194\n    script de classes CSS, 426–429",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5354,
+    "totalChunks": 10000
+  }
+}

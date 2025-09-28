@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5297",
+  "content": "bem-sucedida ou falhou após o evento load, abort, error \nou timeout.\nonloadstart\nDisparada quando a requisição começa.\nonprogress\nDisparada repetidamente (aproximadamente a cada 50ms), enquanto o corpo da resposta está \nsendo baixado.\nonreadystatechange\nDisparada quando a propriedade readyState muda, principalmente quando a resposta está \ncompleta.\nontimeout\nDisparada se decorreu o tempo especificado pela propriedade timeout e a resposta não está \ncompleta.\nXMLHttpRequestUpload\n EventTarget\nUm objeto XMLHttpRequestUpload define um conjunto de propriedades de registro de rotinas \nde",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5297,
+    "totalChunks": 10000
+  }
+}

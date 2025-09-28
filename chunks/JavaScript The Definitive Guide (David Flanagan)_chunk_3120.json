@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3120",
+  "content": "método \nshow() quando a animação terminar. E se uma animação usar “hide”, a jQuery vai chamar hide() \nquando a animação terminar.\n\nCapítulo 19     A biblioteca jQuery      541\nJavaScript do\n lado do cliente\nVocê também pode usar o valor “toggle” para exibir ou ocultar, dependendo da configuração atual \ndo atributo. Um efeito “slideRight” (como o método slideUp(), mas animando a largura do elemen-\nto) pode ser produzido como segue:\n$(\"img\").animate({\n    width:    \"hide\",\n    borderLeft:    \"hide\",\n    borderRight:    \"hide\",\n    paddingLeft:    \"hide\",\n    paddingRight:",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3120,
+    "totalChunks": 10000
+  }
+}

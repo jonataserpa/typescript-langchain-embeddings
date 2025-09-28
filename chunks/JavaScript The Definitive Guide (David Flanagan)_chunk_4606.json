@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4606",
+  "content": "e anteriores, essa propriedade não é definida; em vez \ndisso, use bottom-top.\nreadonly float left\nA posição X, em coordenadas da janela de visualização, do lado esquerdo do retângulo.\nreadonly float right\nA posição X, em coordenadas da janela de visualização, do lado direito do retângulo.\n\n      Referência de JavaScript do lado do cliente      865\nReferência de \nJavaScript do lado \ndo cliente\nreadonly float top\nA posição Y, em coordenadas da janela de visualização, do lado superior do retângulo.\nreadonly float width\nA largura, em pixels, do retângulo. No IE8 e anteriores, essa propriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4606,
+    "totalChunks": 10000
+  }
+}

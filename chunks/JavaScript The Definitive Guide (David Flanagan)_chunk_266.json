@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_266",
+  "content": "conhecidos como objetos empacotadores (wrapper) e ocasionalmente pode ser necessário \ndiferenciar um valor de string de um objeto String ou um número ou valor booleano de um objeto \nNumber ou Boolean. Normalmente, contudo, os objetos wrapper podem ser considerados como \n\nCapítulo 3     Tipos, valores e variáveis      43\nJavaScript básica\num detalhe de implementação e não é necessário pensar neles. Basta saber que string, número e valo-\nres booleanos diferem de objetos pois suas propriedades são somente para leitura e que não é possível \ndefinir novas propriedades neles.\nNote que é possível",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 266,
+    "totalChunks": 10000
+  }
+}

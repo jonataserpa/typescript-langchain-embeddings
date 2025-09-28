@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3417",
+  "content": "mas vão ser carregados da rede, quando possível. Se a ten-\ntativa de carregar um URL assim falha, o recurso especificado pelo segundo URL colocado na cache \nserá usado em seu lugar. Imagine um aplicativo Web contendo vários tutoriais em vídeo. Como esses \nvídeos são muito grandes, não são adequados para colocar na cache de forma local. Para uso off-line, \num arquivo de manifesto poderia recorrer, em vez disso, a um arquivo de ajuda baseado em texto.\nAqui está um manifesto de cache mais complicado:\nCACHE",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3417,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4540",
+  "content": "mento é alterado com \nshadowOffsetX e shadowOffsetY. Além disso, a quantidade de suavização aplicada na borda da sombra \npode ser configurada com shadowBlur.\nComposição\nNormalmente, ao se desenhar em um canvas, o elemento gráfico recentemente desenhado aparece \nsobre o conteúdo anterior do canvas, ocultando parcial ou totalmente o conteúdo antigo, dependen-\ndo da opacidade do novo elemento gráfico. O processo de combinar novos pixels com pixels antigos \né chamado de “composição”, sendo que você pode alterar o modo como o canvas compõe pixels, \nespecificando valores diferentes para a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4540,
+    "totalChunks": 10000
+  }
+}

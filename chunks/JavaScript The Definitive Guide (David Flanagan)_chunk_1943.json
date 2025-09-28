@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1943",
+  "content": "dro aninhado do navegador, criado pelo elemento <iframe>. \nVamos falar sobre isso novamente na Seção 14.8.2.\n14.8   Várias janelas e quadros\nUma única janela de navegador Web em sua área de trabalho pode conter várias guias (ou abas). \nCada guia é um contexto de navegação independente. Cada uma tem seu próprio objeto Window e \ncada uma é isolada de todas as outras. Os scripts em execução em uma guia normalmente não têm \nnenhuma maneira nem mesmo de saber que as outras guias existem, muito menos de interagir com \nseus objetos Window ou manipular o conteúdo de seus documentos. Se você usa um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1943,
+    "totalChunks": 10000
+  }
+}

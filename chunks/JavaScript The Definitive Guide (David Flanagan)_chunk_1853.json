@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1853",
+  "content": "os de conexão em rede de baixo nível. A \n“caixa de areia” de segurança de Java impede que os applets se comuniquem com qualquer servidor \nque não seja aquele a partir do qual foram carregados, de modo que isso não abre uma brecha na \nsegurança. Mas isso expõe o problema básico: se é possível fazer scripts de plug-ins, você precisa \nconfiar não apenas na arquitetura de segurança do navegador Web, mas também na arquitetura de \nsegurança do plug-in. Na prática, os plug-ins Java e Flash parecem ter segurança robusta e são ativa-\nmente mantidos e atualizados quando brechas de segurança são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1853,
+    "totalChunks": 10000
+  }
+}

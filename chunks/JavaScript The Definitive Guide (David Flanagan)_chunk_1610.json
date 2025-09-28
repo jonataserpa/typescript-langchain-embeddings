@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1610",
+  "content": "pt básica\n        JOptionPane.showMessageDialog(frame, e.message, \"Exception\",\n                                       JOptionPane.ERROR_MESSAGE);\n }\n});\n// Usa java.net.URL, etc. para baixar o conteúdo do URL e usa\n// java.io.File etc. para salvar esse conteúdo em um arquivo. Exibe o andamento\n// do download em um componente JProgressBar. Isso vai ser chamado em uma nova thread.\nfunction download(url, file) {\n    try    {\n        // Sempre que baixamos um URL, adicionamos uma nova linha na janela\n        // para exibir o url, o nome de arquivo e o andamento do download\n        var row =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1610,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_995",
+  "content": "cia da computação\n4\n.\n4\n  Esse é um termo antigo que se refere ao fato de que as variáveis da função têm vínculos no encadeamento de escopo e que, \nportanto, a função é “fechada em relação” às suas variáveis.\n\n176          Parte     I     JavaScript     básica\nTecnicamente, em JavaScript todas funções são closures: elas são objetos e têm um encadea-\nmento de escopo associado. A maioria das funções é chamada usando o mesmo encadeamento \nde escopo que estava em vigor quando a função foi definida e não importa que exista uma closu-\nre envolvida. As closures se tornam interessantes quando são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 995,
+    "totalChunks": 10000
+  }
+}

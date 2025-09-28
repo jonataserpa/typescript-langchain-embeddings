@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1838",
+  "content": "s restrições de API. \nAlguns navegadores também podem permitir que as restrições sejam reforçadas ou abrandadas por \nmeio de preferências do usuário.\n13.6.2   A política da mesma origem\nA política da mesma origem é uma restrição de segurança que delimita o conteúdo Web com que o \ncódigo JavaScript pode interagir. Normalmente, ela entra em ação quando uma página Web inclui \nelementos \n<iframe> ou abre outras janelas no navegador. Nesse caso, a política da mesma origem \ngoverna as interações do código JavaScript em uma janela ou quadro com o conteúdo de outras \njanelas e quadros.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1838,
+    "totalChunks": 10000
+  }
+}

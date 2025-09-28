@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5672",
+  "content": "ilidade\n    propriedade visibility, 407–408, 415\n    visibilidade parcial com propriedades de estilo \noverfl ow e clip, 417\nvolume\n    confi gurando para reprodução de mídia, 603\n    propriedade volume, MediaElement, 952\nW\nW3C\n    padrão XMLHttpRequest Level 2 (XHR2), 481\nWAI-ARIA (Web Accessibility Initiative–Accessible \nRich Internet Applications), 324\n\n1062          Índice\nwatchPosition( ), objeto Geolocation, 654\nWeb Accessibility Initiative–Accessible Rich Internet \nApplications (WAI-ARIA), 324\nweb workers\n    objeto    Worker,    992\n    objeto    WorkerGlobalScope,    993\n    objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5672,
+    "totalChunks": 10000
+  }
+}

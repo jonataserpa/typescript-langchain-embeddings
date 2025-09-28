@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4246",
+  "content": "Referência de JavaScript básica\nJSON.stringify() ECMAScript 5\nserializa um objeto, array ou valor primitivo\nSinopse\nJSON.stringify(o)\nJSON.stringify(o, filtro)\nJSON.stringify(o, filtro, recuo)\nArgumentos\no\nO objeto, array ou valor primitivo a ser convertido em uma string JSON.\nfiltro\nUma função opcional que pode substituir valores antes da transformação em strings ou um \narray contendo os nomes de propriedades a serem transformadas em strings.\nrecuo\nUm argumento opcional especificando uma string de recuo ou o número de espaços a usar \npara recuo quando for desejada uma saída formatada",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4246,
+    "totalChunks": 10000
+  }
+}

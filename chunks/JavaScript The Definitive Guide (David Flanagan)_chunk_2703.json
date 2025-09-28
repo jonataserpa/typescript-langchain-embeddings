@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2703",
+  "content": "celados e não especificam qual era o novo \ntexto em seus objetos evento, mas fornecem notificação de que o conteúdo textual de um elemento \n\n472          Parte II     JavaScript do lado do cliente\nmudou de algum modo. Se você quisesse garantir que qualquer texto inserido em um campo de \nentrada aparecesse em letras maiúsculas, por exemplo, poderia usar o evento de entrada como segue:\nSURNAME: <input type=\"text\" oninput=\"this.value = this.value.toUpperCase();\">\nHTML 5 padroniza o evento de entrada e é suportado por todos os navegadores modernos, exceto o \nIE. Você pode obter um efeito",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2703,
+    "totalChunks": 10000
+  }
+}

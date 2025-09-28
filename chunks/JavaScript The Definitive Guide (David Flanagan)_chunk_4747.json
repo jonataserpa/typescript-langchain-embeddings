@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4747",
+  "content": "o é dinâmico: é apenas um instantâneo estático dos elementos que \ncorresponderam quando o método foi chamado.\nvoid removeAttribute(string nomeQualificado)\nremoveAttribute() exclui um atributo nomeado desse elemento. Tentativas de remover atributos \ninexistentes são ignoradas silenciosamente. Em documentos HTML, os nomes de atributo não dife-\nrenciam letras maiúsculas e minúsculas.\nvoid removeAttributeNS(string namespace, string nomeLocal)\nremoveAttributeNS() funciona exatamente como removeAttribute(), exceto que o atributo a ser re-\nmovido é especificado pelo URI de namespace e pelo nome",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4747,
+    "totalChunks": 10000
+  }
+}

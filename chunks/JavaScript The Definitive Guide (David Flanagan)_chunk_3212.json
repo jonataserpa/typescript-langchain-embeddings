@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3212",
+  "content": ") tem quatro opções de função callback: beforeSend, \nsuccess, error e complete. Além de chamar essas funções callback especificadas individualmente, as \nfunções Ajax da jQuery também disparam eventos personalizados em cada um dos mesmos estágios \nem uma requisição Ajax. A tabela a seguir mostra as opções de callback e os eventos correspondentes:\nCallbackTipo de eventoMétodo de registro de rotina de tratamento\nbeforeSend“ajaxSend”ajaxSend()\nsuccess“ajaxSuccess”     ajaxSuccess()\nerror“ajaxError”       ajaxError()\ncomplete“ajaxComplete”    ajaxComplete()\n“ajaxStart”",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3212,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3552",
+  "content": "em \num objeto “contexto de desenho” obtido com o método getContext() do canvas. Chame ge-\ntContext() com o argumento “2d” para obter um objeto CanvasRenderingContext2D que você \npode usar para desenhar elementos gráficos bidimensionais no canvas. É importante entender \nque o elemento canvas e seu objeto contexto são dois objetos muito diferentes. Devido ao seu \nnome de classe tão longo, normalmente não me refiro ao objeto CanvasRenderingContext2D \npelo nome; em vez disso, chamo simplesmente de “objeto contexto”. Da mesma forma, quando \nescrevo sobre a “API Canvas”, em geral quero me referir",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3552,
+    "totalChunks": 10000
+  }
+}

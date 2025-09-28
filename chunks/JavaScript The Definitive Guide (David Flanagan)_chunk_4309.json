@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4309",
+  "content": "ou configura uma propriedade de um objeto especificado.\nObject.freeze()\nTorna o objeto especificado imutável.\nObject.getOwnPropertyDescriptor()\nConsulta os atributos da propriedade especificada do objeto especificado.\nObject.getOwnPropertyNames()\nRetorna um array com os nomes de todas as propriedades não herdadas do objeto especifica-\ndo, incluindo as propriedades não enumeráveis.\nObject.getPrototypeOf()\nRetorna o protótipo do objeto especificado.\nObject.isExtensible()\nDetermina se novas propriedades podem ser adicionadas no objeto especificado.\nObject.isFrozen()\nDetermina se o objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4309,
+    "totalChunks": 10000
+  }
+}

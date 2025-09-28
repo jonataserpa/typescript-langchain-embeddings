@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2410",
+  "content": "o é o elemento cujo estilo computado é desejado. O se-\ngundo argumento é obrigatório e normalmente é null ou a string vazia, mas também pode ser uma \nstring que nomeia um pseudoelemento CSS, como “:before”, “:after”, “:first-line” ou “:first-letter”:\nvar title = document.getElementById(\"section1title\");\nvar titlestyles = window.getComputedStyle(element, null);\nO valor de retorno de getComputedStyle() é um objeto CSSStyleDeclaration que representa todos os \nestilos aplicados ao elemento (ou pseudoelemento) especificado. Existem várias diferenças impor-\ntantes entre um objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2410,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1735",
+  "content": "nto onload para ser disparada pelo evento load no início da fase dirigida por eventos da execu-\nção. É essa rotina de tratamento onload que manipula o documento e faz o que quer que seja que \no programa supõe fazer. A fase de carregamento de um programa JavaScript é relativamente breve, \nnormalmente durando apenas um ou dois segundos. Uma vez carregado o documento, a fase dirigi-\nda por eventos dura enquanto o documento for exibido pelo navegador Web. Como essa fase é as-\nsíncrona e dirigida por eventos, pode haver longos períodos de inatividade, quando nenhum código \nJavaScript é executado,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1735,
+    "totalChunks": 10000
+  }
+}

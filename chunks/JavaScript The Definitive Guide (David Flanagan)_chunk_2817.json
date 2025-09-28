@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2817",
+  "content": "cados como XML\nÀs vezes a XML também é usada como codificação para transferência de dados. Em vez de expres-\nsarmos nossa consulta de pizza como uma versão codificada como formulário ou com JSON de \num objeto JavaScript, poderíamos representá-la como um documento XML. Ela poderia ser como \nsegue, por exemplo:\n<query>\n  <find zipcode=\"02134\" radius=\"1km\">\n    pizza\n  </find>\n</query>\nEm todos os exemplos mostrados até aqui, o argumento do método send() de XMLHttpRequest \nfoi uma string ou null. Na verdade, você também pode passar um objeto Document XML aqui. O \nExemplo 18-8 demonstra como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2817,
+    "totalChunks": 10000
+  }
+}

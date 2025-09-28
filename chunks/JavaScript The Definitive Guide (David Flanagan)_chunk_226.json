@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_226",
+  "content": "er\"\nEm ECMAScript 3, as strings literais devem ser escritas em uma única linha. Em ECMAScript 5, \nno entanto, pode-se dividir uma string literal em várias linhas, finalizando cada uma delas, menos \na última, com uma barra invertida (\\). Nem a barra invertida nem a terminação de linha que vem \ndepois dela fazem parte da string literal. Se precisar incluir um caractere de nova linha em uma string \nliteral, use a sequência de caracteres \\n (documentada a seguir):\n\"two\\nlines\" // Uma string representando 2 linhas escritas em uma linha\n\"one\\       // Uma string de uma linha escrita em 3 linhas.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 226,
+    "totalChunks": 10000
+  }
+}

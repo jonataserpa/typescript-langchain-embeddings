@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2679",
+  "content": "list.ondrop = function(e) {\n            e = e || window.event;  // Obtém o evento\n            // Obtém os dados que foram soltos em formato de texto puro.\n            // \"Text\" é um apelido para \"text/plain\".\n            // O IE não suporta \"text/plain\"; portanto, usamos \"Text\" aqui.\n            var dt = e.dataTransfer;        // Objeto dataTransfer\n            var text = dt.getData(\"Text\");  // Obtém os dados soltos como texto puro.\n    // Se obtivemos algum texto, transformamos em um novo item no final da \n// lista.\n            if (text) {\n                var item =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2679,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3017",
+  "content": "lugar, a jQuery fará as cópias necessárias, mas não serão feitas no caso de apenas uma \ninserção. Se quiser copiar elementos em um novo local, em vez de movê-los, você deve primeiro fazer \numa cópia com o método\n clone(). clone() faz e retorna uma cópia de cada elemento selecionado (e \nde todos os descendentes desses elementos). Os elementos do objeto jQuery retornado ainda não \nfazem parte do documento, mas você pode inseri-los com um dos métodos anteriores:\n// Anexa um novo div, com identificação \"linklist\", no final do documento\n$(document.body).append(\"<div id='linklist'><h1>List of",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3017,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5655",
+  "content": "os, 392\n    comparação de padrões com expressões regulares, \n38\n    consultando texto selecionado em documentos, \n397\n    conteúdo de elemento como texto puro, 370\n    conversão para fala em leitores de tela, 324\n    desenhando no canvas, 636, 852–853, 860\n    em elementos <script>, 371\n    incorporando dados textuais arbitrários usando \nelemento de script, 306\n    lendo arquivos de texto com FileReader, 682–683\n    métodos CharacterData para manipulação, 372\n    sequências de escape em strings literais, 36\n    strings literais, 35\n    trabalhando com strings, 37\ntexto selecionado,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5655,
+    "totalChunks": 10000
+  }
+}

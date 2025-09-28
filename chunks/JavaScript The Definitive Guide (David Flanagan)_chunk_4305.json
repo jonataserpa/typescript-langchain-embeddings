@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4305",
+  "content": "utora retorna uma instância de Object re-\ncentemente criada. Se é especificado um argumento de valor primitivo, a construtora cria e retorna \num objeto empacotador Number, Boolean ou String para o valor primitivo. Quando a construtora \nObject() é chamada como função, sem o operador new, se comporta exatamente como quando usada \ncom o operador new.\nPropriedades\nconstructor\nUma referência para a função JavaScript que foi a construtora do objeto.\nMétodos\nhasOwnProperty()\nVerifica se um objeto tem uma propriedade definida de modo local (não herdada) com um \nnome",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4305,
+    "totalChunks": 10000
+  }
+}

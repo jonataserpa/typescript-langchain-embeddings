@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_820",
+  "content": "i]) continue;        // Pula elementos null, undefined e inexistentes\n    // corpo do laço aqui\n}\nSe quiser pular apenas os elementos indefinidos e inexistentes, pode escrever:\nfor(var i = 0; i < a.length; i++) {\n    if (a[i] === undefined) continue;   // Pula elementos indefinidos + inexistentes\n    // corpo do laço aqui\n}\nPor fim, se quiser pular apenas os índices para os quais não existe qualquer elemento no array, mas \nainda quiser manipular os elementos indefinidos existentes, faça isto:\nfor(var i = 0; i < a.length; i++) {\n    if (!(i in a)) continue ;   // Pula os elementos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 820,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_652",
+  "content": "seguir descrevem cada técnica.\n\n114          Parte     I     JavaScript     básica\n6.1.1   Objetos   literais\nA maneira mais fácil de criar um objeto é incluir um objeto literal no código JavaScript. Um objeto \nliteral é uma lista separada com vírgulas de pares nome:valor separados por dois-pontos, colocados \nentre chaves. Um nome de propriedade é um identificador JavaScript ou uma string literal (a string \nvazia é permitida). Um valor de propriedade é qualquer expressão JavaScript; o valor da expressão \n(pode ser um valor primitivo ou um valor de objeto) se torna o valor da propriedade.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 652,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3241",
+  "content": "ção de tipo de tag. Se \nvocê estivesse interessado apenas em elementos <p>, por exemplo, seu seletor simples começaria com \n“p”. Se quiser selecionar elementos sem considerar seus nomes de tag, use o curinga “*”. Se um sele-\ntor não começa com um nome de tag ou com um curinga, o curinga fica implícito.\nO nome de tag ou curinga especifica um conjunto inicial de elementos do documento que são \ncandidatos à seleção. A parte do seletor simples que vem após essa especificação de tipo consiste em \nzero ou mais filtros. Os filtros são aplicados da esquerda para a direita, na ordem em que aparecem,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3241,
+    "totalChunks": 10000
+  }
+}

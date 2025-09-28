@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2642",
+  "content": "var minoffset = Math.min(framewidth-contentwidth, 0);\n                // Soma deltaX a contentX, mas não deixa menor do que minoffset\n                contentX = Math.max(contentX + deltaX, minoffset);\n                contentX = Math.min(contentX, 0);        // nem maior do que 0\n                content.style.left = contentX + \"px\";     // Configura o novo \n// deslocamento\n   }\n            if (deltaY) {\n                var minoffset = Math.min(frameheight – contentheight, 0);\n                // Soma deltaY a contentY, mas não deixa menor do que minoffset",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2642,
+    "totalChunks": 10000
+  }
+}

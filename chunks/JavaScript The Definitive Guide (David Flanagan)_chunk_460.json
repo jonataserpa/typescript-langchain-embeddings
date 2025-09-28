@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_460",
+  "content": "s igualdades valem para qualquer valor de p e q\n!(p && q) === !p || !q\n!(p || q) === !p && !q\n4.11   Expressões de atribuição\nA JavaScript usa o operador = para atribuir um valor a uma variável ou propriedade. Por exemplo:\ni = 0       // Configura a variável i com 0.\no.x = 1      // Configura a propriedade x do objeto o com 1.\nO operador = espera que o operando de seu lado esquerdo seja um lvalue: uma variável ou proprie-\ndade de objeto (ou elemento de array). Ele espera que o operando de seu lado direito seja um valor \narbitrário de qualquer tipo. O valor de uma expressão de atribuição é o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 460,
+    "totalChunks": 10000
+  }
+}

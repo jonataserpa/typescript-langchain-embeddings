@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5592",
+  "content": "Select, 970–971\n    funções,    181\n    nó Comment, 865\n    nó    Text,    977\n    objeto Arguments, 167, 705\n    objeto Array, 714\n    objeto CSSStyleDeclaration, 870\n    objeto DOMTokenList, 885–886\n    objeto Form, 912\n    objeto Function, 764–765\n    objeto History, 920\n    objeto HTMLCollection, 921\n    objeto HTMLOptionsCollection, 922\n    objeto NodeList, 964\n    objeto Storage, 971–972\n    objeto String, 37, 826–827\n    objeto    TimeRanges,    979\n    objeto    TypedArray,    981\n    objeto Window, 348, 986\n    objetos jQuery, 514\npropriedade lineCap, 636\npropriedade lineCap,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5592,
+    "totalChunks": 10000
+  }
+}

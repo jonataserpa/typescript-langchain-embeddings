@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2198",
+  "content": "ulário na Parte IV, sob as entradas Form, Input, Option, Select e TextArea.\nTabela 15-1 Elementos de formulário HTML\nElemento HTML\nPropriedade \nde tipo\nRotina de tratamento \nde eventoDescrição e eventos\n<input type=”button”> ou \n<button type=”button”>\n“button”onclickUm botão de pressão\n<input type=”checkbox”>“checkbox”onchangeUm botão de alternância sem comportamento de \nbotão de opção\n<input type=”file”>“file”onchangeUm campo de entrada para inserir o nome de um \narquivo para carregar no servidor Web; a propriedade \nvalue é somente para leitura\n<input type=”hidden”>“hidden”noneDados enviados",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2198,
+    "totalChunks": 10000
+  }
+}

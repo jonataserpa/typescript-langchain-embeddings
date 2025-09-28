@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_356",
+  "content": "'lowerRight': { x: p.x + side, y: p.y + side}};\nVamos ver os inicializadores de objeto e de array novamente nos capítulos 6 e 7.\n4.3   Expressões de definição de função\nUma expressão de definição de função define uma função JavaScript e o valor de tal expressão é a \nfunção recém-definida. De certo modo, uma expressão de definição de função é uma “função lite-\nral”, da mesma maneira que um inicializador de objeto é um “objeto literal”. Normalmente, uma \nexpressão de definição de função consiste na palavra-chave \nfunction seguida de uma lista separada \ncom vírgulas de zero ou mais",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 356,
+    "totalChunks": 10000
+  }
+}

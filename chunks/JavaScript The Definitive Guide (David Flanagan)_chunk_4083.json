@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4083",
+  "content": "ar um \narray de números em ordem numérica, em vez de alfabética:\n// Uma função de ordenação para uma classificação numérica\nfunction numberorder(a, b) { return a – b; }\na = new Array(33, 4, 1111, 222);\na.sort();             // Classificação alfabética: 1111, 222, 33, 4\na.sort(numberorder);  // Classificação numérica: 4, 33, 222, 1111\nArray.splice()\ninsere, remove ou substitui elementos do array\nSinopse\narray.splice(início, contExcl, valor, ...)\nArgumentos\ninício\nO elemento do array no qual a inserção e/ou exclusão deve começar.\n\n722          Parte III     Referência de JavaScript",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4083,
+    "totalChunks": 10000
+  }
+}

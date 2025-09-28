@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2874",
+  "content": "na Web execute \nqualquer código JavaScript que o servidor remoto opte por enviar. Isso significa que você não deve usar a \ntécnica descrita aqui com servidores não confiáveis. E ao usá-la com servidores confiáveis, tenha em men-\nte que se um invasor puder entrar nesse servidor, poderá assumir o controle de sua página Web, executar \no código que quiser e exibir o conteúdo que desejar, sendo que esse conteúdo parecerá ser proveniente \nde seu site.\nDito isso, note que se tornou comum os sites usarem scripts de terceiros confiáveis, especialmente para \nincorporar anúncios ou “widgets” em uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2874,
+    "totalChunks": 10000
+  }
+}

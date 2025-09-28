@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3299",
+  "content": "o nome de seu plug-in como nome do namespace.\n •   Se seu plug-in usa o método data() para associar dados a elementos, coloque todos os seus \nvalores de dados em um único objeto e armazene esse objeto como um único valor, dando a \nele o mesmo nome de seu plug-in.\n •   Salve o código de seu plug-in em um arquivo com um nome da forma “jquery.plugin.js”, \nsubstituindo “plugin” pelo nome de seu plug-in.\nUm plug-in pode adicionar novas funções utilitárias na jQuery adicionando-as ao próprio objeto \njQuery. Por exemplo:\n// Este método imprime seus argumentos (usando o método de plugin",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3299,
+    "totalChunks": 10000
+  }
+}

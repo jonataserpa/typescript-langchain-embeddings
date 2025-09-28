@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1269",
+  "content": "utora da superclasse (chamando-a como uma \nfunção e não como uma construtora) para que a construtora da superclasse possa inicializar o objeto \nrecém-criado.\nExemplo 9-13 Encadeamento de construtoras e de métodos da subclasse na superclasse\n/*\n * NonNullSet é uma subclasse de Set que não permite null e undefined\n * como membros do conjunto.\n */\nfunction NonNullSet() {\n    // Apenas encadeia em nossa superclasse.\n    // Chama a construtora da superclasse como uma função normal para inicializar\n    // o objeto que foi criado por essa chamada de construtora.\n    Set.apply(this,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1269,
+    "totalChunks": 10000
+  }
+}

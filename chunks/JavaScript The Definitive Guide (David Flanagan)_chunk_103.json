@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_103",
+  "content": "ara o importante evento “load” e também demonstra uma maneira mais \nsofisticada de registrar funções de rotina de tratamento para eventos “click”:\n//  O evento \"load\" ocorre quando um documento está totalmente carregado. Normalmente,\n//  precisamos esperar por esse evento antes de começarmos a executar nosso código \n// JavaScript.\nwindow.onload = function() {    // Executa esta função quando o documento for carregado\n    // Localiza todas as marcas <img> no documento\n    var images = document.getElementsByTagName(\"img\");\n    //        Faz um laço por elas, adicionando uma rotina de tratamento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 103,
+    "totalChunks": 10000
+  }
+}

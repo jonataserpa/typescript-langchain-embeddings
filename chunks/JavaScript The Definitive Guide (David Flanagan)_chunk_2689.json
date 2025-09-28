@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2689",
+  "content": "a propriedade keyCode do objeto evento especifica a posição de código \ndo caractere de entrada. Por motivos históricos, contudo, o Firefox usa a propriedade charCode. A \nmaioria dos navegadores dispara eventos keypress apenas quando é gerado um caractere imprimível. \nContudo, o Firefox também dispara “keypress” para caracteres não imprimíveis. Para detectar esse \ncaso (de modo que possa ignorar os caracteres não imprimíveis), você pode procurar um objeto \nevento com uma propriedade charCode definida, mas configurada como 0.\nOs eventos textinput, textInput e keypress podem ser cancelados para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2689,
+    "totalChunks": 10000
+  }
+}

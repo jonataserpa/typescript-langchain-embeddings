@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2183",
+  "content": "clientLeft      scrollLeft\noffsetTop        clientTop       scrollTop\noffsetParent\nPara entender essas propriedades client e scroll, você precisa saber que o conteúdo de um elemento \nHTML pode ser maior do que a caixa de conteúdo alocada para contê-lo e que, portanto, os elemen-\ntos individuais podem ter barras de rolagem (consulte o atributo CSS overflow na Seção 16.2.6). \nA área de conteúdo é uma janela de visualização, assim como a janela do navegador, e quando o \nconteúdo é maior do que a janela de visualização, precisamos levar em conta a posição da barra de \nrolagem do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2183,
+    "totalChunks": 10000
+  }
+}

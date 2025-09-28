@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3320",
+  "content": "do cliente, projetado para \nuso por scripts do lado do servidor. Uma complicada API JavaScript torna possível escrever \nscripts de cookies no lado do cliente, mas eles são difíceis de usar e só servem para armazenar \npequenos volumes de dados textuais. Além disso, qualquer dado armazenado como cookie \né sempre transmitido para o servidor com toda requisição HTTP, mesmo que o dado só in-\nteresse para o cliente. Os cookies continuam a ter interesse para os programadores do lado \ndo cliente, pois todos os navegadores, antigos e novos, os suportam. Contudo, uma vez que \na Web Storage esteja",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3320,
+    "totalChunks": 10000
+  }
+}

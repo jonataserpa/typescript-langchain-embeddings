@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2144",
+  "content": "sectionNumbers[level-1]++;\n        for(var i = level; i < 6; i++) sectionNumbers[i] = 0;\n  \n        // Agora combina os números de seção de todos os níveis de cabeçalho\n        // para produzir um número de seção como 2.3.1.\n        var sectionNumber = sectionNumbers.slice(0,level).join(\".\")\n        // Adiciona o número de seção no título do cabeçalho de seção.\n        // Colocamos o número em um <span> para que possa ser estilizado.\n        var span = document.createElement(\"span\");\n        span.className = \"TOCSectNum\";\n        span.innerHTML = sectionNumber;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2144,
+    "totalChunks": 10000
+  }
+}

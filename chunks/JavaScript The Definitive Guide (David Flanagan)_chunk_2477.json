@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2477",
+  "content": "temente em elementos de for-\nmulário  HTML  que  definem  uma  interface  com  o  usuário  para  um  aplicativo  Web.  Eles  incluem  o  \nevento focus (quando um campo de entrada de texto recebe o foco do teclado), o evento change, \nquando o usuário altera o valor exibido por um elemento do formulário, e o evento submit, quando o \nusuário clica em um botão Submit em um formulário.\n\nCapítulo 17     Tratando eventos      437\nJavaScript do\n lado do cliente\n17.1.1   Tipos de evento legados\nOs eventos que serão mais utilizados em seus aplicativos Web geralmente são os que já existem há \nmais tempo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2477,
+    "totalChunks": 10000
+  }
+}

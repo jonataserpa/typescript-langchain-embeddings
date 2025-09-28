@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5138",
+  "content": "nte a um array somente para leitura dos elementos Option selecionados. \nEssa é uma propriedade nova, definida por HTML5 e, quando este livro estava sendo escrito, \nainda não era amplamente suportada.\nMétodos\nTodos os métodos listados aqui delegam para os métodos de nome igual da propriedade options; \nconsulte HTMLOptionsCollection para ver os detalhes. Além desses métodos, os elementos Select tam-\nbém implementam os métodos de Element e FormControl.\nvoid add(Element elemento, [any antes])\nEsse método funciona exatamente como options.add() para adicionar um novo elemento Option.\nany",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5138,
+    "totalChunks": 10000
+  }
+}

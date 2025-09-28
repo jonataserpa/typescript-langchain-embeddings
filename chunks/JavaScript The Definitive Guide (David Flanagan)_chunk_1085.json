@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1085",
+  "content": "a >= b\n    while(b != 0) t=b, b = a%b, a=t; // Este é o algoritmo de Euclides para MDC\n    return    a;\n}\nvar gcdmemo = memoize(gcd);\ngcdmemo(85, 187) // => 17\n// Note que, quando escrevemos uma função recursiva que vai ser memoizada,\n// normalmente queremos aplicar recursividade na versão memoizada e não na original.\nvar factorial = memoize(function(n) {\n                           return (n <= 1) ? 1 : n * factorial(n-1);\n                          });\nfactorial(5)     // => 120. Também coloca na cache os valores para 4, 3, 2 e 1.\n\nOs objetos de JavaScript foram abordados no Capítulo 6. O",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1085,
+    "totalChunks": 10000
+  }
+}

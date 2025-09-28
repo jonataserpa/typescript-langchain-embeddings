@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3775",
+  "content": "mais palpites agora\n        ui.heading.innerHTML = document.title = state.guess + \" is correct! \";\n        ui.prompt.innerHTML    =\n            \"You Win! <button onclick='newgame(true)'>Play Again</button>\";\n }\n}\n</script>\n<style> /* estilos CSS para que o jogo tenha boa aparência */\n#prompt { font-size: 16pt; }\ntable { width: 90%; margin:10px; margin-left:5%; }\n#low, #high { background-color: lightgray; height: 1em; }\n#mid { background-color: green; }\n</style>\n</head>\n<body><!-- Os elementos HTML a seguir são a interface com o usuário do jogo -->\n<!-- Título do jogo e representação textual",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3775,
+    "totalChunks": 10000
+  }
+}

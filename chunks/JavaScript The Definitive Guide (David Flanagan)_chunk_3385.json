@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3385",
+  "content": ".\n */\nfunction CookieStorage(maxage, path) {  // Os argumentos especificam vida útil e escopo\n    // Obtém um objeto que contém todos os cookies\n    var cookies = (function() {     // A função getCookies() mostrada anteriormente\n        var cookies = {};           // O objeto que vamos retornar\n        var all = document.cookie;  // Obtém todos os cookies em uma única string enorme\n    if (all === \"\")       // Se a propriedade é a string vazia\n        return cookies;             // retorna um objeto vazio\n\n584          Parte II     JavaScript do lado do cliente\n         var list =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3385,
+    "totalChunks": 10000
+  }
+}

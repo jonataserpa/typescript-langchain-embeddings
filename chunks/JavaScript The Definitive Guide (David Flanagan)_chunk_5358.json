@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5358",
+  "content": "mplo), \n177\nclosures de expressão, 275\ncodifi cando corpo de pedido HTTP, 489–494\ncódigos de status, Ajax na jQuery, 546\ncoleção document.all[ ], 360–361\ncoleta de lixo, 29\ncomandos\n    edição de texto, 400\n    objeto ConsoleCommandLines, 867\n\n1012          Índice\ncomentários, 4\n    código JavaScript em URLs, 307\n    condicionais no IE, 323\n    createComment( ), objeto Document, 372\n    criando nó Comment, 878\n    estilos de, 23\n    nó Comment, 865\n    tratamento da CSS de, 403\nComet, 478\n    mecanismos de transporte do, 480\n    Server-Sent Events com, 502–508\ncomparação de padrões, 38",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5358,
+    "totalChunks": 10000
+  }
+}

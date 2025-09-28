@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3704",
+  "content": "pixel anterior\nvar m = n-1;\nfor(var row = 0; row < height; row++) {  // Para cada linha\n    var i = row*width*4 + 4;           // O deslocamento do segundo pixel da linha\n    for(var col = 1; col < width; col++, i += 4) {        // Para cada coluna\n        data[i] = (data[i] + data[i-4]*m)/n;              // Componente de pixel vermelho\n        data[i+1] = (data[i+1] + data[i-3]*m)/n;          // Verde\n        data[i+2] = (data[i+2] + data[i-2]*m)/n;          // Azul\n        data[i+3] = (data[i+3] + data[i-1]*m)/n;          // Componente alfa\n }\n }\n     // Agora copia os dados da imagem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3704,
+    "totalChunks": 10000
+  }
+}

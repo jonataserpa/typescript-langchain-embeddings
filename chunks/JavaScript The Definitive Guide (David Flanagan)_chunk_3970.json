@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3970",
+  "content": "e passa-o para a função f().\nfunction withDB(f) {\n    var request = indexedDB.open(\"zipcodes\");     // Solicita o banco de dados de códigos \n// postais\n\nCapítulo 22     APIs de HTML5      693\nJavaScript do\n lado do cliente\n    request.onerror = logerr;         // Registra quaisquer erros\n    request.onsuccess = function() {   // Ou chama isto ao terminar\n        var db = request.result;      // O resultado da requisição é o banco de dados\n        // Você sempre pode abrir um banco de dados, mesmo que ele não exista.\n        // Conferimos a versão para saber se o BD já foi criado e\n        //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3970,
+    "totalChunks": 10000
+  }
+}

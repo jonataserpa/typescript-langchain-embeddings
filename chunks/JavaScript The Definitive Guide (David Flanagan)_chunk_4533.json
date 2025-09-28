@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4533",
+  "content": "u createRadialGradient(). Para criar um \npadrão, use createPattern().\nPara especificar uma cor opaca usando notação CSS, use uma string com a forma “#RRGGBB”, \nonde RR, GG e BB são dígitos hexadecimais especificando os componentes vermelho, verde e azul \nda cor como valores entre 00 e FF. Por exemplo, vermelho vivo é “#FF0000”. Para especificar uma \ncor parcialmente transparente, use uma string com a forma “rgba(R,G,B,A)”. Nessa forma, R, G \ne B especificam os componentes vermelho, verde e azul da cor como inteiros decimais entre 0 e \n255, e A especifica o componente alfa (opacidade) como um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4533,
+    "totalChunks": 10000
+  }
+}

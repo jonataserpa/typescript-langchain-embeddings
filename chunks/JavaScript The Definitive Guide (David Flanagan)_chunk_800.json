@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_800",
+  "content": "ma string que não \né um inteiro não negativo, ela se comporta como um índice de array e não como uma propriedade \nde objeto. O mesmo acontece se você usa um número em ponto flutuante que é igual a um inteiro:\na[-1.23] = true;      // Isso cria uma propriedade chamada \"-1.23\"\na[\"1000\"] = 0;        // Esse é o 1001º elemento do array\na[1.000]              // Índice de array 1. O mesmo que a[1]\nO fato de os índices de array serem simplesmente um tipo especial de nome de propriedade de ob-\njeto significa que os arrays em JavaScript não têm a noção de erro de “fora do limite”. Quando você \ntenta",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 800,
+    "totalChunks": 10000
+  }
+}

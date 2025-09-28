@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4549",
+  "content": "de preenchimento padrão é preto uniforme.\nstring font\nA fonte a ser usada por métodos de desenho de texto, especificada como uma string, usando \na mesma sintaxe do atributo CSS font. O padrão é “10px sans-serif ”. Se a string de fonte \nusa unidades de tamanho de fonte como “em” ou “ex” ou usa palavras-chave relativas, como \n“larger”, “smaller”, “bolder” ou “lighter”, esses itens são interpretados como relativos ao estilo \ncalculado da fonte CSS do elemento <canvas>.\ndouble globalAlpha\nEspecifica transparência adicional a ser acrescentada a tudo que é desenhado no canvas. O va-\nlor alfa de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4549,
+    "totalChunks": 10000
+  }
+}

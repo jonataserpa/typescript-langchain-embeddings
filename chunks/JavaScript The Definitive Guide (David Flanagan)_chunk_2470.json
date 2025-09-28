@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2470",
+  "content": "dam:\n •   Eventos de carga e disponibilidade de documento\n •   Eventos de mouse\n •   Eventos de roda do mouse\n •   Eventos arrastar e soltar\n •   Eventos de tecla\n •   Eventos de entrada de texto\n17.1   Tipos de eventos\nNos primórdios da Web, os programadores do lado do cliente tinham apenas um pequeno conjun-\nto de eventos: “load”, “click”, “mouseover” e assemelhados. Esses tipos de evento legados são bem \nsuportados por todos os navegadores e são o tema da Seção 17.1.1. À medida que a plataforma \nWeb cresceu e incluiu APIs mais poderosas, o conjunto de eventos ficou maior. Nenhum padrão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2470,
+    "totalChunks": 10000
+  }
+}

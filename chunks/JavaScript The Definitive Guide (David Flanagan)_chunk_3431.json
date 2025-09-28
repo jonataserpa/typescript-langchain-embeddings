@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3431",
+  "content": "ete é disparado e o aplicativo é removido da cache.\n\n592          Parte II     JavaScript do lado do cliente\n// Os carregamentos subsequentes são feitos a partir da rede, em vez da cache.\nwindow.applicationCache.onobsolete = function() {\n    status(\"This application is no longer cached. \" +\n           \"Reload to get the latest version from the network.\");\n    return    false;\n};\nSempre que um arquivo HTML com um atributo manifest é carregado, o navegador dispara um \nevento checking e carrega o arquivo de manifesto da rede. Os eventos que seguem o evento checking \nsão diferentes em diferentes",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3431,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5391",
+  "content": "com, 492\nelementos <link>, objetos Element representando, \n429\nelementos <object>, 523\n    exibindo imagens SVG, 608\nelementos <option>, 922\nelementos <radio>, 392\nelementos <script>, 301\n    atributo src, 305\n    atributo type, 306\n    atributos async e defer, 311, 316\n    HTTP por, JSONP, 500–502\n    incorporando JavaScript em HTML, 9, 303–304\n    script de HTTP com, 488\n    texto em, 371\n    transporte Ajax com, 479\nelementos <source>, 601\nelementos <style>\n    englobando folha de estilo CSS em, 404\n    objetos Element representando, 429\nelementos <svg:path>, 613\nelementos <textarea>,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5391,
+    "totalChunks": 10000
+  }
+}

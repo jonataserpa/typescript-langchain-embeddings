@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2597",
+  "content": "// Caso contrário, a enfileira para depois.\n }\n}());\n17.5   Eventos de mouse\nExistem muitos eventos relacionados ao mouse. A Tabela 17-1 lista todos eles. Todos os eventos de \nmouse borbulham, exceto “mouseenter” e “mouseleave”. Os eventos click em links e botões Submit \ntêm ações padrão que podem ser evitadas. Você pode cancelar um evento context menu para impe-\ndir a exibição de um menu de contexto, mas alguns navegadores têm opções de configuração que \ntornam os menus de contexto não canceláveis.\n\nCapítulo 17     Tratando eventos      455\nJavaScript do\n lado do cliente\nTabela 17-1 Eventos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2597,
+    "totalChunks": 10000
+  }
+}

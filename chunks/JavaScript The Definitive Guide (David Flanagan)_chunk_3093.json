@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3093",
+  "content": "das as rotinas de tratamento de evento dinâmicas que correspondam ao seletor e ao \ntipo de evento. E com um tipo de evento e um argumento função de tratamento, ele remove apenas \na rotina de tratamento especificada. Alguns exemplos:\n$('a').die('mouseover');                                // Remove todas as rotinas de tratamento \n// dinâmicas para mouseover em elementos <a>\n$('a').die('mouseover', linkHandler);    // Remove apenas uma rotina de tratamento \n// dinâmica específica\nundelegate()\n é como die(), mas separa mais explicitamente o contexto (os elementos nos quais as \nrotinas de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3093,
+    "totalChunks": 10000
+  }
+}

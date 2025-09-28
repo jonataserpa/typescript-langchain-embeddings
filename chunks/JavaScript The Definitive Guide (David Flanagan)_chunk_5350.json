@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5350",
+  "content": "0–801\n    função getPrototypeOf( ), 132, 801–802\n    função isExtensible( ), 134, 802–803\n    função isFrozen( ), 134, 803–804\n    função isSealed( ), 804–805\n    função keys( ), 125, 805–806\n    função preventExtensions( ), 134, 805–806\n    função seal( ), 134, 807–808\n    método hasOwnProperty( ), 122, 801–802\n    método isPrototypeOf( ), 132, 803–804\n    método propertyIsEnumerable( ), 122, 806–807\n    método toLocaleString( ), 135–136, 807–808\n    método toString( ), 135–136, 808–809\n    método valueOf( ), 136, 809–810\n    métodos, 135, 791–792\n    métodos estáticos, 791–792",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5350,
+    "totalChunks": 10000
+  }
+}

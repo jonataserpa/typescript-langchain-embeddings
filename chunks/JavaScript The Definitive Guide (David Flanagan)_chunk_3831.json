@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3831",
+  "content": "// Pixels do worker\n        context.putImageData(smeared_pixels, 0, 0);      // Copia-os no canvas\n        img.src = canvas.toDataURL();                     // E então na img\n        worker.terminate();                              // Para a thread worker\n        canvas.width = canvas.height = 0;                 // Não mantém os pixels\n }\n}\nO Exemplo 22-7 é o código usado pela thread worker criada no Exemplo 22-6. A maior parte desse \nexemplo é a função de processamento de imagem: uma versão modificada do código do Exemplo \n21-10. Note que esse exemplo configura sua infraestrutura de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3831,
+    "totalChunks": 10000
+  }
+}

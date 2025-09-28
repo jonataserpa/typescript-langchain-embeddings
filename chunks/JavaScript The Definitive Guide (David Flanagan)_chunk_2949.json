@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2949",
+  "content": "nos elementos do \nobjeto jQuery no qual foi chamado”. Note que a palavra “selecionado” se refere ao seletor CSS e que \nnada tem a ver com qualquer seleção realizada pelo usuário.\n“uma função jQuery”\nUma função jQuery é uma função como \njQuery.noConflict() definida no espaço de nomes da fun-\nção jQuery. As funções jQuery também poderiam ser descritas como “métodos estáticos”.\n“um método jQuery”\nUm método jQuery é um método de um objeto jQuery retornado pela função jQuery. A parte mais \nimportante da biblioteca jQuery são os métodos poderosos que ela define.\nA distinção entre funções e métodos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2949,
+    "totalChunks": 10000
+  }
+}

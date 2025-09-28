@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3271",
+  "content": "iv> exceto dois especiais\nNa jQuery 1.4, o método has() é outro modo de refinar uma seleção. Se você passa um seletor, ele \nretorna um novo objeto jQuery contendo apenas os elementos selecionados que têm um descen-\ndente correspondente ao seletor. Se você passa um elemento do documento para has(), ele refina a \nseleção para corresponder apenas aos elementos que são ascendentes do elemento especificado:\n$(\"p\").has(\"a[href]\")  // Parágrafos que incluem links\n\n566          Parte II     JavaScript do lado do cliente\nO método add() aumenta uma seleção, em vez de filtrá-la ou refiná-la. Você pode",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3271,
+    "totalChunks": 10000
+  }
+}

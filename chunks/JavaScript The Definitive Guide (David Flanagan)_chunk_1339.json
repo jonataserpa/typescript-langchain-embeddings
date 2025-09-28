@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1339",
+  "content": "representando todas as propriedades próprias do objeto, se\n * for chamado sem argumentos). O objeto retornado define quatro métodos\n * úteis: toString(), descriptors(), hide() e show().\n */\n(function namespace() {         // Empacota tudo em um escopo de função privado\n    // Esta é a função que será um método de todos os objetos\n    function properties() {\n        var names;        // Um array de nomes de propriedade\n        if (arguments.length == 0)  // Todas as propriedade próprias de this\n            names = Object.getOwnPropertyNames(this);\n        else if (arguments.length == 1 &&",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1339,
+    "totalChunks": 10000
+  }
+}

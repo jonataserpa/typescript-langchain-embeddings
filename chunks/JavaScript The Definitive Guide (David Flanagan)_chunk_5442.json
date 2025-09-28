@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5442",
+  "content": "direcionadas ao \nnavegador como um todo, 445\n    troca de mensagens entre origens, 661–665\n    “web workers”, 314\nHTTP, 697–698\n    atributos de elementos HTML, 365\n    módulo de utilitários clientes em Node (exemplo), \n294–296\n    script,    478–508\n        usando Comet com Server-Sent Events, 502–\n508\n        usando elementos <script>, 500–502\n        usando    XMLHttpRequest,    481–500\n    servidor HTTP em Node (exemplo), 292–294\nI\ni (correspondência sem diferenciação de maiúsculas e \nminúsculas) em expressões regulares, 253\niçamento, 53, 160\nidentifi cadores\n    caracteres de controle",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5442,
+    "totalChunks": 10000
+  }
+}

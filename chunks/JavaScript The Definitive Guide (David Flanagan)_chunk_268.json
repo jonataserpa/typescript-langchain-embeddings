@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_268",
+  "content": "wrapper no valor primitivo empacotado, quando necessário; portanto, \nos objetos S, N e B anteriores normalmente (mas nem sempre) se comportam exatamente como os \nvalores s, n e b. O operador de igualdade == trata um valor e seu objeto wrapper como iguais, mas é \npossível diferenciá-los com o operador de igualdade restrito ===. O operador typeof também mostra \na diferença entre um valor primitivo e seu objeto wrapper.\n3.7   Valores primitivos imutáveis e referências de objeto mutáveis\nEm JavaScript existe uma diferença fundamental entre valores primitivos (undefined, null, boolea-\nnos,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 268,
+    "totalChunks": 10000
+  }
+}

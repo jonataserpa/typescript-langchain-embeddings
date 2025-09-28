@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1266",
+  "content": "mber);\n};\nNote que SingletonSet não empresta uma lista de métodos de Set estaticamente: ela herda os méto-\ndos da classe Set dinamicamente. Se adicionamos um novo método em \nSet.prototype, ele se torna \nimediatamente disponível para todas as instâncias de Set e de SingletonSet (supondo que Singleton-\nSet ainda não defina um método com o mesmo nome).\n9.7.2   Encadeamento de construtoras e de métodos\nA classe SingletonSet da última seção definiu uma implementação de conjunto completamente nova \ne substituiu totalmente os métodos básicos que herdou de sua superclasse. Frequentemente, contu-\ndo,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1266,
+    "totalChunks": 10000
+  }
+}

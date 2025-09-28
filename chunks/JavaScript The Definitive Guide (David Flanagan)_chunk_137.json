@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_137",
+  "content": "erior \n// esquerdo\n    for(var p = 1; p <= payments; p++) {\n        // Para cada pagamento, descobre quanto é o juro\n        var thisMonthsInterest = (principal-equity)*interest;\n        equity += (monthly – thisMonthsInterest);      //  O resto vai para o capital\n        g.lineTo(paymentToX(p),amountToY(equity));     // Linha até este ponto\n }\n    g.lineTo(paymentToX(payments), amountToY(0));      //  Linha de volta para o eixo X\n    g.closePath();     // E volta para o ponto inicial\n    g.fillStyle = \"green\";       // Agora usa tinta verde\n    g.fill();                      //        E",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 137,
+    "totalChunks": 10000
+  }
+}

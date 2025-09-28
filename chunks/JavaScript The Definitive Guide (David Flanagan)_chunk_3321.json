@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3321",
+  "content": "pois todos os navegadores, antigos e novos, os suportam. Contudo, uma vez que \na Web Storage esteja universalmente disponível, os cookies vão voltar a sua função original \n\n574          Parte II     JavaScript do lado do cliente\ncomo mecanismo de armazenamento no lado do cliente para scripts do lado do servidor. Os \ncookies são abordados na Seção 20.2.\nuserData do IE\nA Microsoft implementa seu próprio mecanismo patenteado de armazenamento no lado do \ncliente, conhecido como “userData”, no IE5 e posteriores. A API userData permite o armaze-\nnamento de volumes médios de strings de dados e pode",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3321,
+    "totalChunks": 10000
+  }
+}

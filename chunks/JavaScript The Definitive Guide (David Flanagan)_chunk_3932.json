@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3932",
+  "content": "ção é chamada com o FileEntry do arquivo\n\nCapítulo 22     APIs de HTML5      687\nJavaScript do\n lado do cliente\n        // Agora chamamos o método FileEntry.file() para obtermos o objeto File\n        entry.file(function(file) {             // Chama isto com o File\n            var reader = new FileReader();      // Cria um FileReader\n            reader.readAsText(file);            // E lê o arquivo\n            reader.onload = function() {        // Quando a leitura é bem-sucedida\n                callback(reader.result);        // Passa para a função callback\n   }\n            reader.onerror =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3932,
+    "totalChunks": 10000
+  }
+}

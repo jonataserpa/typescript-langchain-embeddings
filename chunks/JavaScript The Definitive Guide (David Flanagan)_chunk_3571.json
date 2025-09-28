@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3571",
+  "content": "o regular com n lados, centralizado em (x,y), com raio r.\n// Os vértices são igualmente espaçados ao longo da circunferência de um círculo.\n// Coloca o primeiro vértice reto ou no ângulo especificado.\n// Gira no sentido horário, a não ser que o último argumento seja true.\nfunction polygon(c,n,x,y,r,angle,counterclockwise) {\n    angle = angle || 0;\n    counterclockwise = counterclockwise || false;\n    c.moveTo(x + r*Math.sin(angle), // Inicia um novo subcaminho no primeiro vértice\n        y – r*Math.cos(angle));     // Usa trigonometria para calcular a posição\n    var delta = 2*Math.PI/n;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3571,
+    "totalChunks": 10000
+  }
+}

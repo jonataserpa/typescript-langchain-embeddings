@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5612",
+  "content": "nt, 902–903\n        na    jQuery,    529\n    objeto Form, 389, 913\n    objeto ProcessingInstruction, 966\npropriedade tBodies, objeto Table, 974–975\npropriedade text\n    objeto HTMLElement, 306\n    objeto Link, 947\n    objeto Option, 394, 965\n    objeto Script, 969\npropriedade textAlign, CanvasRenderingContex-\nt2D, 637, 856\npropriedade textBaseline, CanvasRenderingContex-\nt2D, 637, 857\npropriedade textContent, objeto Node, 370, 961\npropriedade textLength\n    objeto    TextArea,    979\npropriedade text-shadow, 411\npropriedade tFoot, objeto Table, 974–975\npropriedade tHead, objeto Table,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5612,
+    "totalChunks": 10000
+  }
+}

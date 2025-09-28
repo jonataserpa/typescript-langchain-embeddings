@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4604",
+  "content": "use:\ntransform(cos(x),sin(x),-sin(x), cos(x), 0, 0)\nPara um cisalhamento por um fator k paralelo ao eixo X, chame transform(1,0,k,1,0,0). Para um \ncisalhamento paralelo ao eixo Y, chame \ntransform(1,k,0,1,0,0).\nvoid translate(double x, double y)\ntranslate() adiciona deslocamentos horizontal e vertical na matriz de transformação do canvas. Os \nargumentos dx e dy são somados a todos os pontos em quaisquer caminhos definidos subsequente-\nmente.\nClientRect\no envelope de um elemento\nUm objeto ClientRect descreve um retângulo, usando coordenadas de Window ou da janela de vi-\nsualização. O método",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4604,
+    "totalChunks": 10000
+  }
+}

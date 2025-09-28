@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4217",
+  "content": "toString.call(o);\nConsulte também\nFunction.apply()\nFunction.caller desaprovada; não definida no modo restrito\na função que chamou esta\nSinopse\nfunção.caller\n\n764          Parte III     Referência de JavaScript básica\nDescrição\nNas versões anteriores de JavaScript, a propriedade caller de um objeto Function é uma referência \nà função que chamou a atual. Se a função é chamada no nível superior de um programa JavaScript, \ncaller é null. Essa propriedade só pode ser usada dentro da função (isto é, a propriedade caller é \ndefinida para uma função somente enquanto essa função está",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4217,
+    "totalChunks": 10000
+  }
+}

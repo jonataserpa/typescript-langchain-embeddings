@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4853",
+  "content": "kValidity()\nNos navegadores que suportam validação de formulário, esse método verifica a validade de cada \ncontrole de formulário. Retorna \ntrue se todos são válidos. Se algum controle não é válido, ele dispara \num evento invalid nesse controle e então retorna false.\nvoid dispatchFormChange()\nEsse método dispara um evento formchange em cada controle nesse formulário. Normalmente, o \nformulário faz isso automaticamente, quando a entrada do usuário dispara um evento change; por-\ntanto, normalmente você não precisa chamar esse método.\nvoid dispatchFormInput()\nEsse método dispara um evento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4853,
+    "totalChunks": 10000
+  }
+}

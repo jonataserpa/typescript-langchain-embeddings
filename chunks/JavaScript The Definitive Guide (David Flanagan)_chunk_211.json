@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_211",
+  "content": "== NaN \npara determinar se o valor de uma variável x é NaN. Em vez disso, deve escrever x != x. Essa expressão \nserá verdadeira se, e somente se, x for NaN. A função isNaN() é semelhante. Ela retorna true se seu \nargumento for NaN ou se esse argumento for um valor não numérico, como uma string ou um objeto. \nA função relacionada isFinite() retorna true se seu argumento for um número que não seja NaN, \nInfinity ou -Infinity.\nO valor zero negativo também é um pouco incomum. Ele é comparado como igual (mesmo usando-\n-se o teste restrito de igualdade de JavaScript) ao zero positivo, isto é, os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 211,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3956",
+  "content": "ém podem ser usados ao se consultar um object store (ou índice) para um intervalo de chaves \ne a API IndexedDB inclui um objeto para descrever intervalos (com limite superior e/ou inferior, \nlimites inclusivos ou exclusivos) de chaves.\nA IndexedDB fornece garantia de atomicidade: as consultas e atualizações no banco de dados são \nagrupadas dentro de uma transação para que todas sejam bem-sucedidas juntas ou todas falhem \njuntas e nunca deixem o banco de dados em um estado indefinido, parcialmente atualizado. As tran-\nsações na IndexedDB são mais simples do que em muitas APIs de banco de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3956,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_121",
+  "content": "o isso\n    // é válido.\n    // Converte os juros de porcentagem para decimais e converte de taxa\n    // anual para taxa mensal. Converte o período de pagamento em anos\n    // para o número de pagamentos mensais.\n    var principal = parseFloat(amount.value);\n    var interest = parseFloat(apr.value) / 100 / 12;\n    var payments = parseFloat(years.value) * 12;\n    // Agora calcula o valor do pagamento mensal.\n    var x = Math.pow(1 + interest, payments); // Math.pow() calcula potências\n    var monthly = (principal*x*interest)/(x-1);\n    // Se o resultado é um número finito, a entrada do usuário",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 121,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4990",
+  "content": "os seleciona-\ndos. Se limpar for true, limpa também a fila de efeitos de cada elemento. Se pular for true, \npula a animação para seu valor final antes de interrompê-la.\ntoggle([exibir])\ntoggle(duração, [f()])\nSe exibir for true, exibe (com show()) os elementos selecionados imediatamente. Se exibir for \nfalse, oculta (com hide()) os elementos selecionados imediatamente. Se exibir for omitido, \nalterna a visibilidade dos elementos.\nSe \nduração for especificada, alterna a visibilidade dos elementos selecionados com uma anima-\nção de tamanho e opacidade do comprimento especificado. Ao terminar,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4990,
+    "totalChunks": 10000
+  }
+}

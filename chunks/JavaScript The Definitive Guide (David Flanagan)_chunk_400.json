@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_400",
+  "content": "um método valueOf() útil; portanto, também são convertidos via toString().\n •   Após a conversão de objeto para valor primitivo, se um ou outro operando é uma string, o \noutro é convertido em uma string e é feita a concatenação.\n •   Caso contrário, os dois operandos são convertidos em números (ou em \nNaN) e é efetuada a \nadição.\nAqui estão alguns exemplos:\n1 + 2                // => 3: adição\n\"1\" + \"2\"             // => \"12\": concatenação\n\"1\" + 2               // => \"12\": concatenação após número para string\n1 + {}               // => \"1[object Object]\": concatenação após objeto para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 400,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2466",
+  "content": "35\nJavaScript do\n lado do cliente\nEm outra forma de propagação de eventos, conhecida como captura de eventos, rotinas de trata-\nmento especialmente registradas nos elementos contêineres têm a oportunidade de interceptar (ou \n“capturar”) eventos antes que sejam enviados para seu destino. A captura de eventos não é suportada \npelo IE8 e anteriores; portanto, não é muito usada. Contudo, a capacidade de capturar ou “pegar” \neventos de mouse é necessária ao se processar eventos de arrasto de mouse e vamos ver como fazemos \nisso, no Exemplo 17-2.\nAlguns eventos têm ações padrão associadas. Quando",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2466,
+    "totalChunks": 10000
+  }
+}

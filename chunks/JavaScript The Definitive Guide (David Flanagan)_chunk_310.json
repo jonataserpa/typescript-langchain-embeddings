@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_310",
+  "content": "convertido em um número. \nOs arrays herdam o método padrão \nvalueOf() que retorna um objeto, em vez de um valor primitivo, \nde modo que a conversão de array para número conta com o método \ntoString(). Os arrays vazios \nsão convertidos na string vazia. E a string vazia é convertida no número 0. Um array com um único \nelemento é convertido na mesma string em que esse único elemento é convertido. Se um array con-\ntém um único número, esse número é convertido em uma string e, então, de volta para um número.\nEm JavaScript, o operador \n+ efetua adição numérica e concatenação de strings. Se um de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 310,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1990",
+  "content": "documento como uma árvore de nós e como localizar os ascendentes, \nirmãos e descendentes de qualquer elemento do documento.\n •   Como consultar e configurar os atributos dos elementos do documento.\n •   Como consultar, configurar e modificar o conteúdo de um documento.\n •   Como modificar a estrutura de um documento, criando, inserindo e excluindo nós.\n •   Como trabalhar com formulários HTML.\nA  última  seção  do  capítulo  aborda  diversos  recursos  de  documento,  incluindo  a  propriedade  \nreferrer, o método write() e técnicas para consultar o texto do documento selecionado.\n15.1",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1990,
+    "totalChunks": 10000
+  }
+}

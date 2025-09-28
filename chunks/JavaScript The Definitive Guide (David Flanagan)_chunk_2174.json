@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2174",
+  "content": "movê-lo para o mais perto possível do \ncanto superior esquerdo, mas não vai conseguir levá-lo até o fim. O código a seguir rola o navegador \nde modo que a página inferior do documento fique visível:\n// Obtém a altura do documento e da janela de visualização. offsetHeight está explicado a \n// seguir.\nvar documentHeight = document.documentElement.offsetHeight;\nvar viewportHeight = window.innerHeight;          // Ou usa getViewportSize() anterior\n// E rola de modo que a última \"página\" apareça na janela de visualização\nwindow.scrollTo(0, documentHeight – viewportHeight);\nO método scrollBy() do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2174,
+    "totalChunks": 10000
+  }
+}

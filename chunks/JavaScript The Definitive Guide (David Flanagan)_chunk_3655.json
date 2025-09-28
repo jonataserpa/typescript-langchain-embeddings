@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3655",
+  "content": "(ou degradê ou padrão) especificada pela propriedade fillStyle. Para efeitos especiais \nem tamanhos de texto grandes, strokeText() pode ser usado para desenhar o contorno dos caracteres \nde texto individuais (um exemplo de texto com contorno aparece na Figura 21-13). Os dois mé-\ntodos recebem o texto a ser desenhado como primeiro argumento e as coordenadas X e Y do texto \ncomo segundo e terceiro argumentos. Nenhum deles afeta o caminho atual ou o ponto atual. Como \nvocê pode ver na Figura 21-7, o texto é afetado pela transformação atual.\nA propriedade \nfont especifica a fonte a ser usada",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3655,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_198",
+  "content": "hexadecimal é um dos algarismos de 0 a 9 ou as letras a (ou A) até f (ou F), as quais represen-\ntam valores de 10 a 15. Aqui estão exemplos de literais inteiros hexadecimais:\n0xff     // 15*16 + 15 = 255 (base 10)\n0xCAFE911\nEmbora o padrão ECMAScript não ofereça suporte para isso, algumas implementações de Java-\nScript permitem especificar literais inteiros no formato octal (base 8). Um literal em octal começa \ncom o dígito 0 e é seguido por uma sequência de dígitos, cada um entre 0 e 7. Por exemplo:\n0377     // 3*64 + 7*8 + 7 = 255 (base 10)\nComo algumas implementações aceitam literais em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 198,
+    "totalChunks": 10000
+  }
+}

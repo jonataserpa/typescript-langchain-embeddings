@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3848",
+  "content": "bytes[i] = i & 0xFF;               // Configura-o com os 8 bits inferiores do índice\nvar copy = new Uint8Array(bytes);       // Faz uma cópia do array\nvar ints = new Int32Array([0,1,2,3]);   // Um array tipado contendo esses 4 ints\nAs implementações modernas de JavaScript otimizam os arrays para torná-los muito eficientes. Con-\ntudo, os arrays tipados podem ser ainda mais eficientes, tanto em tempo de execução como no uso \nde memória. A função a seguir calcula o maior número primo menor do que o valor especificado. \nEla usa o algoritmo do crivo de Eratóstenes, o qual exige um grande array",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3848,
+    "totalChunks": 10000
+  }
+}

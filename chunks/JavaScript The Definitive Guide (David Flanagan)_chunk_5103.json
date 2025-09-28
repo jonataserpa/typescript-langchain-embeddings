@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5103",
+  "content": "efine uma construtora que pode ser usada para criar e \ninicializar novos elementos Option. (O método \nDocument.createElement() normal também pode ser \nusado, evidentemente.) Uma vez criado um novo objeto Option, ele pode ser anexado no conjunto \noptions de um objeto Select. Consulte HTMLOptionsCollection para ver os detalhes.\nConstrutora\nnew Option([string texto, string valor, boolean padrãoSelecionado, boolean selecionado])\nA  construtora  Option()  cria  um  elemento  <option>.  O  quarto  argumento  opcional  especifica  o  \ntextContent (consulte Node) do elemento e os valores iniciais das",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5103,
+    "totalChunks": 10000
+  }
+}

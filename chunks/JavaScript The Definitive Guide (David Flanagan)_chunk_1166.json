@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1166",
+  "content": "tras \nsuposições sobre os pontos extremos do intervalo. Como a classe não impõe um tipo em especial, \nseu método includes() funciona para qualquer tipo de ponto extremo que possa ser comparado com \nos operadores relacionais:\nvar lowercase = new Range(\"a\", \"z\");\nvar thisYear = new Range(new Date(2009, 0, 1), new Date(2010, 0, 1));\nO método foreach() de nossa classe Range também não testa explicitamente o tipo dos pontos \nextremos do intervalo, mas o uso de Math.ceil() e do operador ++ significa que ela só funciona com \npontos extremos numéricos.\nComo outro exemplo, lembre-se da discussão sobre",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1166,
+    "totalChunks": 10000
+  }
+}

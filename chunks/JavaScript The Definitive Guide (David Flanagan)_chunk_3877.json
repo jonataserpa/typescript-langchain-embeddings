@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3877",
+  "content": "egar arquivos arbitrários do computador do usuário. Mais recentemente, os fornecedores de \nnavegador estenderam esse elemento para permitir acesso do lado do cliente a arquivos selecionados \npelo usuário. Note que permitir a um script do lado do cliente ler o conteúdo de arquivos seleciona-\ndos não é mais nem menos seguro do que permitir que esses arquivos sejam carregados no servidor.\nNos  navegadores  que  suportam  acesso  a  arquivos  locais,  a  propriedade  \nfiles  de  um  elemento  \n<input type=\"file\"> será um objeto FileList. Trata-se de um objeto semelhante a um array cujos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3877,
+    "totalChunks": 10000
+  }
+}

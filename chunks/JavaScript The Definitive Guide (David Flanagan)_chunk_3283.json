@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3283",
+  "content": "ba na árvore de ascendentes além do elemento especificado:\n$(\"a[href]\").closest(\"div\")            // <div>s mais internos que contêm links\n$(\"a[href]\").parentsUntil(\":not(div)\")   // Todos wrappers <div> diretamente em torno de <a>\n19.8.2.2   Revertendo uma seleção anterior\nPara facilitar o encadeamento de métodos, a maioria dos métodos de objeto da jQuery retorna o \nobjeto em que são chamados. Contudo, todos os métodos abordados nesta seção retornam novos \nobjetos jQuery. O encadeamento de métodos funciona, mas você deve ter em mente que os métodos \nchamados posteriormente no encadeamento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3283,
+    "totalChunks": 10000
+  }
+}

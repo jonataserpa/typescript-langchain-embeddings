@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1757",
+  "content": "(), o qual \npermite o registro de vários ouvintes:\nwindow.addEventListener(\"load\", function() {...}, false);\nrequest.addEventListener(\"readystatechange\", function() {...}, false);\nNote que o primeiro argumento dessa função é o nome do evento. Embora addEventListener() \nesteja padronizado há mais de uma década, somente agora a Microsoft o está implementando para o \nIE9. No IE8 e anteriores, você precisa usar um método semelhante, chamado attachEvent():\nwindow.attachEvent(\"onload\", function() {...});\nConsulte o Capítulo 17 para mais informações sobre addEventListener() e attachEvent().\nOs",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1757,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_320",
+  "content": "xar suas variáveis globais sem declaração. No entanto, \nesse é um hábito ruim e uma fonte de erros – você sempre deve declarar suas variáveis com \nvar.\n\n52          Parte     I     JavaScript     básica\n3.10   Escopo de variável\nO escopo de uma variável é a região do código-fonte de seu programa em que ela está definida. Uma \nvariável global tem escopo global; ela está definida em toda parte de seu código JavaScript. Por ou-\ntro lado, as variáveis declaradas dentro de uma função estão definidas somente dentro do corpo da \nfunção. Elas são variáveis locais e têm escopo local. Os parâmetros de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 320,
+    "totalChunks": 10000
+  }
+}

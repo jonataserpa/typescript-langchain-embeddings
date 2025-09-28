@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4769",
+  "content": "ge, disabled, form, keytype, name\n<label>form, for\n<li>value\n<link>href, rel, media, hreflang, type, sizes\n<map>name\n<menu>type, label\n<meta>name, http-equiv, content, charset\n<meter>value, min, max, low, high, optimum, form\n<object>data, type, name, usemap, form, width, height\n<ol>reversed, start\n(continua)\n\n      Referência de JavaScript do lado do cliente      897\nReferência de \nJavaScript do lado \ndo cliente\nElementoAtributos\n<optgroup>disabled, label\n<option>disabled, label, selected, value\n<output>for, form, name\n<param>name, value\n<progress>value, max, form\n<q>cite\n<script>src, async,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4769,
+    "totalChunks": 10000
+  }
+}

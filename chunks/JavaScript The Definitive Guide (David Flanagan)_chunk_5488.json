@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5488",
+  "content": "diaElement, 603, 954\nmétodo play( ), objeto MediaElement, 603, 954\nmétodo pop( ), objeto Array, 147, 715\nmétodo position( ), jQuery, 521\nmétodo POST, 483\n    codifi cando corpo de pedido HTTP com docu-\nmento XML, 491\n    corpo do pedido, 484\n    fazendo pedido HTTP com corpo codifi cado com \nJSON, 491\n    fazendo pedido HTTP com dados codifi cados \ncomo formulário, 490\n    postando texto puro em um servidor, 484\n    upload de arquivo com pedido HTTP, 492\nmétodo postMessage( )\n    objeto MessagePort, 956\n    objeto Window, 328, 662, 990\n        gadget de busca do Twitter controlado pelo,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5488,
+    "totalChunks": 10000
+  }
+}

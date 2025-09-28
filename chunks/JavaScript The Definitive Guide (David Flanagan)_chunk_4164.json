@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4164",
+  "content": "egundos, ms)\nArgumentos\nano\nO ano no formato de quatro dígitos. Se esse argumento está entre 0 e 99, inclusive, 1900 é \nsomado a ele e é tratado como um ano entre 1900 e 1999.\nmês\nO mês, especificado como um inteiro de 0 (janeiro) a 11 (dezembro).\ndia\nO dia do mês, especificado como um inteiro de 1 a 31. Note que esse argumento usa 1 como \nseu menor valor, enquanto outros argumentos usam 0. Esse argumento é opcional.\nhoras\nA hora, especificada como um inteiro de 0 (meia-noite) a 23 (11 p.m.). Esse argumento é \nopcional.\nminutos\nOs minutos na hora, especificados como um inteiro de 0 a 59. Esse",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4164,
+    "totalChunks": 10000
+  }
+}

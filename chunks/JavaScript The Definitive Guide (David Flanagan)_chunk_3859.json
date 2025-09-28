@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3859",
+  "content": "// Visto como bytes\nvar asints = new Int32Array(buf);             //  Visto como inteiro de 32 bits com sinal\nvar lastK = new Uint8Array(buf,1023*1024);   // Último kilobyte como bytes\nvar ints2 = new Int32Array(buf, 1024, 256);  // 2º kilobyte como 256 inteiros\nOs arrays tipados permitem ver a mesma sequência de bytes em trechos de 8, 16, 32 ou 64 bits. Isso \nexpõe a “ordem endian”: a ordem na qual os bytes são organizados em palavras mais longas. Por \neficiência, os arrays tipados utilizam a ordem endian nativa do hardware subjacente. Em sistemas \nlittle-endian, os bytes de um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3859,
+    "totalChunks": 10000
+  }
+}

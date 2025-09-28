@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2154",
+  "content": "ente, a coordenada X do elemento em coordenadas do \ndocumento é 600.\nAs coordenadas do documento são mais fundamentais do que as coordenadas da janela de visua-\nlização e não mudam quando o usuário rola. Contudo, é muito comum utilizar coordenadas da \n\nCapítulo 15     Escrevendo script de documentos      381\nJavaScript do\n lado do cliente\njanela de visualização em programação no lado do cliente. Usamos coordenadas do documento \nquando especificamos a posição de um elemento usando CSS (consulte o Capítulo 16). Porém, o \nmodo mais simples de consultar a posição de um elemento (consulte a Seção",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2154,
+    "totalChunks": 10000
+  }
+}

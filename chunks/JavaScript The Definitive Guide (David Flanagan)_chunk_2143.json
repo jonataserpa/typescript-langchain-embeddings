@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2143",
+  "content": "< headings.length; h++) {\n        var heading = headings[h];\n        // Pula o cabeçalho de seção se estiver dentro do contêiner de TOC.\n        if (heading.parentNode == toc) continue;\n        // Descobre de que nível é o cabeçalho.\n        var level = parseInt(heading.tagName.charAt(1));\n        if (isNaN(level) || level < 1 || level > 6) continue;\n        // Incrementa o número de seção para esse nível de cabeçalho\n        // e zera todos os números de nível de cabeçalho inferiores.\n        sectionNumbers[level-1]++;\n        for(var i = level; i < 6; i++) sectionNumbers[i] = 0;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2143,
+    "totalChunks": 10000
+  }
+}

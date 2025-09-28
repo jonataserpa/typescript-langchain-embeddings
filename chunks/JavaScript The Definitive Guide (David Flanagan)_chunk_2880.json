@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2880",
+  "content": "mplementar. Em vez disso, eles usam o valor de um parâmetro \nde consulta para permitir que o cliente especifique um nome de função e, então, usam esse nome de \nfunção como preenchimento na resposta. O Exemplo 18-14 usa um parâmetro de consulta chamado \n“jsonp” para especificar o nome da função de callback. Muitos serviços que suportam JSONP reconhe-\ncem esse nome de parâmetro. Outro nome comum é “callback”, e talvez você tenha que modificar o \ncódigo mostrado aqui para fazê-lo funcionar com os requisitos específicos do serviço que precise usar.\nO Exemplo 18-14 define uma função getJSONP() que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2880,
+    "totalChunks": 10000
+  }
+}

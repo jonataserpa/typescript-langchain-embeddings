@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_974",
+  "content": "}\n// Aqui está uma função que recebe uma das funções anteriores\n// como argumento e a chama em dois operandos\nfunction operate(operaror, operand1, operand2) {\n    return operator(operand1, operand2);\n}\n// Poderíamos chamar essa função como segue, para calcularmos o valor (2+3) + (4*5):\nvar i = operate(add, operate(add, 2, 3), operate(multiply, 4, 5));\n// Para ajudar no exemplo, implementamos as funções simples novamente,\n// desta vez usando funções literais dentro de um objeto literal;\nvar operators = {\n    add:        function(x,y) { return x+y; },\n    subtract:   function(x,y) { return",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 974,
+    "totalChunks": 10000
+  }
+}

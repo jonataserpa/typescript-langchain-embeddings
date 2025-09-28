@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_900",
+  "content": "ra outras funções, por exemplo. Como as funções são obje-\ntos, é possível definir propriedades e até mesmo chamar métodos a partir delas.\nAs definições de função JavaScript podem ser aninhadas dentro de outras funções e têm acesso \na qualquer variável que esteja no escopo onde são definidas. Isso significa que as funções em \nJavaScript são fechadas em relação às suas variáveis e isso possibilita o uso de técnicas de progra-\nmação importantes e poderosas.\nCapítulo 8\nFunções\n\nCapítulo     8     Funções          159\nJavaScript básica\n8.1   Definindo   funções\nAs funções são definidas com a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 900,
+    "totalChunks": 10000
+  }
+}

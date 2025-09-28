@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3642",
+  "content": "ndo o método \naddColorStop() do CanvasGradient. O \nprimeiro argumento desse método é um número entre 0.0 e 1.0. O segundo argumento é uma \nespecificação de cor CSS. Você deve chamar esse método pelo menos duas vezes para definir um \ngradiente de cor simples, mas pode chamá-lo mais vezes. A cor em 0.0 vai aparecer no início do gra-\ndiente e a cor em 1.0 vai aparecer no fim. Se você especificar mais cores, elas vão aparecer na posição \nfracionária especificada dentro do gradiente. Em outro lugar, as cores serão interpoladas suavemente. \nAqui estão alguns exemplos:\n\n634          Parte II",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3642,
+    "totalChunks": 10000
+  }
+}

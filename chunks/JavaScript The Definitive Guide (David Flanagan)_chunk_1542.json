@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1542",
+  "content": "digo a \nseguir demonstra isso:\n// Uma função geradora que conta a partir de um valor inicial.\n// Usa send() no gerador para especificar um incremento.\n// Usa throw(\"reset\") no gerador para zerar o valor inicial.\n// Este é apenas um exemplo; esse uso de throw() é um estilo ruim.\nfunction counter(initial) {\n    let nextValue = initial;                    // Começa com o valor inicial\n    while(true)    {\n        try    {\n            let increment = yield nextValue;    // Gera um valor e obtém o incremento\n            if (increment)                     // Se enviamos um incremento...",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1542,
+    "totalChunks": 10000
+  }
+}

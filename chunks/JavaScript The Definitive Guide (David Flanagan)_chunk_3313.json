@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3313",
+  "content": "elo widget. Para desabilitar um \nwidget selecionador de datas, por exemplo, você não chama um método \ndisableDatepicker(); em \nvez disso, chama datepicker(\"disable\").\nOs widgets jQuery UI geralmente definem eventos personalizados que disparam em resposta à in-\nteração do usuário. Você pode vincular rotinas de tratamento para esses eventos personalizados ao \nmétodo \nbind() normal e em geral também pode especificar funções de tratamento de evento como \npropriedades no objeto opções passado para o método widget. O primeiro argumento desses méto-\ndos de rotina de tratamento é um objeto Event,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3313,
+    "totalChunks": 10000
+  }
+}

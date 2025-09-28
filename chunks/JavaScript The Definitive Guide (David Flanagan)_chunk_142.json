@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_142",
+  "content": "eixo Y\n    for(var i = 0; i < ticks.length; i++) {      // Para cada um dos 2 pontos\n        var y = amountToY(ticks[i]);    //      Calcula a posição Y da marca\n        g.fillRect(rightEdge-3, y-0.5, 3,1);     // Desenha a marcação\n        g.fillText(String(ticks[i].toFixed(0)),  // E a rotula.\n                  rightEdge-5,    y);\n }\n}\n</script>\n</body>\n</html>\n\nEsta parte do livro, Capítulos 2 a 12, documenta a linguagem JavaScript básica e tem como objetivo \nser uma referência da linguagem. Depois de lê-la do princípio ao fim para aprender a linguagem, \nvocê poderá voltar a ela para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 142,
+    "totalChunks": 10000
+  }
+}

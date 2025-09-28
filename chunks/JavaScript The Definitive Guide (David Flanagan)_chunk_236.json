@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_236",
+  "content": "entado\n\\0O caractere NUL (\\u0000)\n\\bRetrocesso (\\u0008)\n\\tTabulação horizontal (\\u0009)\n\\nNova linha (\\u000A)\n\\vTabulação vertical (\\u000B)\n\\fAvanço de página (\\u000C)\n\\rRetorno de carro (\\u000D)\n\\\"Aspas duplas (\\u0022)\n\\'Apóstrofo ou aspas simples (\\u0027)\n\\\\Barra invertida (\\u005C)\n\\x XXO caractere Latin-1 especificado pelos dois dígitos hexadecimais XX\n\\u XXXXO caractere Unicode especificado pelos quatro dígitos hexadecimais XXXX\n\n38          Parte     I     JavaScript     básica\ns.split(\", \")          // => [\"hello\", \"world\"] divide em substrings\ns.replace(\"h\", \"H\")    // => \"Hello,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 236,
+    "totalChunks": 10000
+  }
+}

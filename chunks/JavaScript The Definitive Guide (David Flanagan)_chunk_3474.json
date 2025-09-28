@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3474",
+  "content": "um \nexemplo perfeito de JavaScript obstrusiva: o volume de código JavaScript é tão grande que torna \na HTML ininteligível. O Exemplo 21-1 mostra uma alternativa não obstrusiva que permite criar \ntrocas de imagens simplesmente especificando um atributo \ndata-rollover (consulte a Seção 15.4.3) \nem qualquer elemento \n<img>. Note que esse exemplo usa a função onLoad() do Exemplo 13-5. Usa \ntambém o array \ndocument.images[] (consulte a Seção 15.2.3) para localizar todos os elementos <img> \nno documento.\n\nCapítulo 21     Mídia e gráficos em scripts      601\nJavaScript do\n lado do cliente\nExemplo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3474,
+    "totalChunks": 10000
+  }
+}

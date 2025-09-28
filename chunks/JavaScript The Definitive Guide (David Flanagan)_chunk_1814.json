@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1814",
+  "content": "navegador está usando o modo Standards. Se o valor é “BackCompat” (ou \nundefined, caso a propriedade não exista), o navegador está usando o modo Quirks. Todos os nave-\ngadores modernos implementam a propriedade\n compatMode e a especificação HTML5 a padroniza.\nMuitas vezes não é necessário testar \ncompatMode. Contudo, o Exemplo 15-8 ilustra um caso onde esse \nteste é necessário.\n13.4.5   Teste de navegador\nO teste de recurso é muito conveniente para verificar o suporte de áreas funcionais grandes. Ele pode \nser usado para determinar se um navegador suporta o modelo de tratamento de evento W3C",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1814,
+    "totalChunks": 10000
+  }
+}

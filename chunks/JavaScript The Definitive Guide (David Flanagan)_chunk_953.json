@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_953",
+  "content": ". Os elementos numerados do objeto Arguments \ne os nomes de parâmetro são como dois nomes diferentes para a mesma variável. Mudar o valor de \num argumento com nome muda o valor recuperado por meio do array\n arguments[]. Inversamente, \nmudar o valor de um argumento por meio do array arguments[] muda o valor recuperado pelo nome \ndo argumento. Aqui está um exemplo que esclarece isso:\nfunction f(x) {\n    console.log(x);   // Exibe o valor inicial do argumento\n    arguments[0] = null;        // Mudar o elemento do array também muda x!\n    console.log(x);   // Agora exibe \"null\"\n}\nCom certeza esse",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 953,
+    "totalChunks": 10000
+  }
+}

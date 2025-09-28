@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3475",
+  "content": "umento.\n\nCapítulo 21     Mídia e gráficos em scripts      601\nJavaScript do\n lado do cliente\nExemplo 21-1 Trocas não obstrusivas de imagens\n/**\n * rollover.js: trocas não obstrusivas de imagens discretas.\n *\n * Para criar trocas de imagens, inclua este módulo em seu arquivo HTML e\n * use o atributo data-rollover em qualquer elemento <img> para especificar o URL da\n * imagem de troca. Por exemplo:\n *\n *    <img src=\"normal_image.png\" data-rollover=\"rollover_image.png\">\n *\n * Note que esse módulo exige onLoad.js\n */\nonLoad(function() {   // Tudo em uma única função anônima: nenhum símbolo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3475,
+    "totalChunks": 10000
+  }
+}

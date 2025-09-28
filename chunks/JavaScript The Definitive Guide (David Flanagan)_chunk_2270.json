@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2270",
+  "content": "tenteditable e designMode. Contudo, eles são menos com-\npatíveis quando se trata do comportamento de edição. Todos os navegadores permitem inserir e \nexcluir texto e mover o cursor usando o mouse e o teclado. Em todos os navegadores, a tecla Enter \ninicia uma nova linha, mas diferentes navegadores produzem marcações diferentes. Alguns iniciam \num novo parágrafo e outros simplesmente inserem um elemento \n<br/>.\nAlguns navegadores permitem que atalhos de teclado, como Ctrl-B, convertam para negrito o texto \natualmente selecionado. Em outros navegadores (como o Firefox), atalhos de processador",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2270,
+    "totalChunks": 10000
+  }
+}

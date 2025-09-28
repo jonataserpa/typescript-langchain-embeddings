@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1075",
+  "content": "ça com os argumentos internos.\n        a = a.concat(array(args,1)); //  Em seguida, adiciona os args externos de 1 em \n                                       //diante.\n        return f.apply(this, a);    // Depois chama f nessa lista de argumentos.\n    };\n}\n// Os argumentos dessa função servem como modelo. Os valores indefinidos\n// na lista de argumentos são preenchidos com valores do conjunto interno.\nfunction partial(f /*, ... */) {\n    var args = arguments;       // Salva o array de argumentos externos\n    return function() {\n        var a = array(args, 1); // Começa com um array de args",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1075,
+    "totalChunks": 10000
+  }
+}

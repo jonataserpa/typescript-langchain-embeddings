@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_63",
+  "content": ".log() para produzir saída simples. Uma maneira semelhante, porém mais invasiva, de \nexibir saída ou mensagens de depuração é passar uma string de texto para a função \nalert(), a qual as \nexibe em uma caixa de diálogo modal.\n\n4          Capítulo     1     Introdução     a     JavaScript\n1.1   JavaScript   básica\nEsta seção faz um giro pela linguagem JavaScript e também pela Parte I deste livro. Após este capítu-\nlo introdutório, entraremos no nível mais baixo de JavaScript: o Capítulo 2, Estrutura léxica, explica \ncoisas como comentários em JavaScript, pontos e vírgulas e o conjunto de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 63,
+    "totalChunks": 10000
+  }
+}

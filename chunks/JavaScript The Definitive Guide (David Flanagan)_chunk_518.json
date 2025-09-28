@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_518",
+  "content": "informações sobre variáveis. E \nconsulte o Capítulo 8 para detalhes completos sobre funções.\n5.3.1   var\nA instrução var declara uma (ou mais) variável. Aqui está a sintaxe:\nvar nome_1 [ = valor_1] [ ,..., nome_n [= valor_n]]\nA palavra-chave var é seguida por uma lista separada com vírgulas de variáveis a declarar; opcional-\nmente, cada variável da lista pode ter uma expressão inicializadora especificando seu valor inicial. \nPor exemplo:\nvar  i;                                // Uma variável simples\nvar  j = 0;                            // Uma var, um valor\nvar  p, q;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 518,
+    "totalChunks": 10000
+  }
+}

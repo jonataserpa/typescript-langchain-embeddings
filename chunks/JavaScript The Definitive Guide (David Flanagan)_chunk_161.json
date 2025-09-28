@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_161",
+  "content": "outros idiomas \ne também usem símbolos matemáticos:\nvar sí = true;\nvar π = 3.14;\nAssim como qualquer linguagem, JavaScript reserva certos identificadores para uso próprio. Essas \n“palavras reservadas” não podem ser usadas como identificadores normais. Elas estão listadas a seguir.\n2.4.1   Palavras   reservadas\nJavaScript reserva vários identificadores como palavras-chave da própria linguagem. Você não pode \nusar essas palavras como identificadores em seus programas:\nbreak              delete              function              return              typeof\ncase               do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 161,
+    "totalChunks": 10000
+  }
+}

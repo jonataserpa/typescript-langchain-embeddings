@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1675",
+  "content": "ocumento são abordadas no Capí-\ntulo 15.\nCada objeto Element tem propriedades \nstyle e className que permitem aos scripts especificar estilos \nCSS para um elemento documento ou alterar os nomes de classe CSS que se aplicam ao elemento. \nConfigurar essas propriedades relacionadas a CSS altera a apresentação do elemento documento:\n// Altera explicitamente a apresentação do elemento cabeçalho\ntimestamp.style.backgroundColor = \"yellow\";\n// Ou apenas muda a classe e deixa a folha de estilo especificar os detalhes:\ntimestamp.className = \"highlight\";\nAs propriedades style e className, assim como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1675,
+    "totalChunks": 10000
+  }
+}

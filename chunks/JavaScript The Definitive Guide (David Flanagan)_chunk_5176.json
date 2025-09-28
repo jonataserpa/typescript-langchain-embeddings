@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5176",
+  "content": "priedade width contém a largura do texto medido, em pixels CSS. Mais métricas podem ser \nadicionadas no futuro.\nPropriedades\nreadonly double width\nA largura, em pixels CSS, do texto medido.\nTimeRanges\num conjunto de intervalos de tempo de mídia\nAs propriedades \nbuffered, played e seekable de um MediaElement representam as partes da linha do \ntempo de uma mídia que têm dados no buffer, que foram reproduzidas e nas quais a reprodução \npode começar. Cada uma dessas partes da linha do tempo pode incluir vários intervalos de tempo \nseparados (isso acontece com a propriedade played, quando o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5176,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2956",
+  "content": "Ele espera uma função callback como único argumento e chama essa fun-\nção callback uma vez para cada elemento do objeto jQuery (na ordem do documento). A callback \né chamada como método do elemento coincidente, de modo que, dentro dela, a palavra-chave \nthis se refere a um objeto Element. each() também passa o índice e o elemento como primeiro e \nsegundo argumentos para a callback. Note que this e o segundo argumento são elementos brutos \ndo documento e não objetos jQuery – se quiser usar um método jQuery para manipular o elemen-\nto, você precisará passá-lo para $() primeiro.\nO método \neach()",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2956,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2709",
+  "content": "Code \nnunca foram padronizados, mas é possível uma compatibilidade razoável entre os navegadores e o \nExemplo 17-8 inclui um mapeamento de valores de keyCode em nomes de tecla de função.\n\nCapítulo 17     Tratando eventos      473\nJavaScript do\n lado do cliente\nAssim  como  os  objetos  evento  de  mouse,  os  objetos  evento  de  tecla  têm  propriedades altKey, \nctrlKey, metaKey e shiftKey que são configuradas como true se a tecla modificadora correspondente \nestá pressionada quando o evento ocorre.\nOs eventos keydown e keyup e a propriedade \nkeyCode estão em uso há mais de uma década, mas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2709,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3697",
+  "content": "a da tela no canvas da tela e compô-los globalmente \ndentro da região de recorte. Não há uma técnica geral para fazer composição local em navegadores \ncomo o Firefox, que implementa composição global, mas muitas vezes é possível fazer uma aproxi-\nmação, definindo uma região de recorte apropriada antes de efetuar a operação de desenho que será \ncomposta de forma local.\n\nCapítulo 21     Mídia e gráficos em scripts      647\nJavaScript do\n lado do cliente\n21.4.14   Manipulação de pixels\nO método getImageData() retorna um objeto ImageData representando os pixels (como componen-\ntes R, G, B e A)",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3697,
+    "totalChunks": 10000
+  }
+}

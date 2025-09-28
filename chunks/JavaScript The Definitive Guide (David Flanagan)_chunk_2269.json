@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2269",
+  "content": "e o documento dentro de um \n<iframe> seja editado, como \nsegue (observe o uso da função \nonLoad() do Exemplo 13-5):\n<iframe id=\"editor\" src=\"about:blank\"></iframe>           // iframe vazio\n<script>\nonLoad(function() {                             // Quando o documento carrega,\n    var editor = document.getElementById(\"editor\");      // obtém o documento de iframe\n    editor.contentDocument.designMode = \"on\";             // e ativa a edição.\n});\n</script>\nTodos os navegadores atuais suportam contenteditable e designMode. Contudo, eles são menos com-\npatíveis quando se trata do comportamento de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2269,
+    "totalChunks": 10000
+  }
+}

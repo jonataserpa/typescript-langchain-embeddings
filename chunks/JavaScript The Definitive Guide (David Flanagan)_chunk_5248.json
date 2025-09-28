@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5248",
+  "content": "sulte PopStateEvent.\nonresize\nQuando o usuário muda o tamanho da janela do navegador\nonscroll\nQuando o usuário rola a janela do navegador\nonstorage\nO conteúdo de localStorage ou sessionStorage muda. Consulte StorageEvent.\nonunload\nO navegador sai de uma página. Note que, se você registrar uma rotina de tratamento de evento \nonunload para uma página, essa página não poderá ser colocada na cache. Para permitir \nque os usuários retornem rapidamente para sua página, sem recarregar, use \nonpagehide, \nem vez disso.\nWorker\numa thread worker EventTarget\nUm Worker representa uma thread de segundo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5248,
+    "totalChunks": 10000
+  }
+}

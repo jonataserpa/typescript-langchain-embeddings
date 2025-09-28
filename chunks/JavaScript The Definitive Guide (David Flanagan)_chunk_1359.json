@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1359",
+  "content": "... }\nÀs vezes o espaço de nomes de nível superior é usado para identificar a pessoa ou empresa que criou \nos módulos e para evitar conflitos entre nomes de namespace. A biblioteca Closure da Google, \npor exemplo, define sua classe Set no espaço de nomes goog.structs. As pessoas podem inverter os \ncomponentes do nome de domínio de Internet para criar um prefixo de namespace globalmente \nexclusivo que seja improvável que esteja sendo usado por qualquer outro autor de módulo. Como \nmeu site está no endereço davidflanagan.com, eu pude publicar meu módulo sets no namespace",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1359,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4677",
+  "content": "useEvent”, “MessageEvent”, etc. Após criar \num objeto Event, você pode inicializar suas propriedades somente para leitura, chamando um méto-\ndo de inicialização de evento apropriado nele, como initEvent(), initUIEvent(), initMouseEvent(), \netc. A maioria desses métodos de inicialização específicos do evento não é abordada neste livro, mas \nconsulte Event.initEvent() para ver o mais simples. Quando você tiver criado e inicializado um \nobjeto evento sintético, pode enviá-lo usando o método dispatchEvent() de EventTarget. Os eventos \nsintéticos sempre terão a propriedade isTrusted",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4677,
+    "totalChunks": 10000
+  }
+}

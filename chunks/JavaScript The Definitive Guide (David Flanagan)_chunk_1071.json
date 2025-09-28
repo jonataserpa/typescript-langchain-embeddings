@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1071",
+  "content": "f.call(this, g.apply(this, arguments));\n    };\n}\nvar square = function(x) { return x*x; };\nvar sum = function(x,y) { return x+y; };\nvar squareofsum = compose(square, sum);\nsquareofsum(2,3)                       // => 25\nAs funções partial() e memoize(), definidas nas seções a seguir, são mais duas importantes funções \nde alta ordem.\n8.8.3   Aplicação parcial de funções\nO método bind() de uma função f (Seção 8.7.4) retorna uma nova função que chama f em um \ncontexto especificado e com um conjunto de argumentos especificado. Dizemos que ele vincula a \nfunção a um objeto e aplica os argumentos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1071,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3686",
+  "content": ", no qual os salvou, de volta para o canvas que está na tela. Lembre-se, contudo, \nque os pixels que você salvou eram translúcidos. Se a composição estiver ativa, eles não vão obs-\ncurecer totalmente e apagar o desenho temporário que você fez. Nesse cenário, você precisa de \num modo de desativar a composição: desenhar os pixels de origem e ignorar os pixels de destino \nindependentemente da transparência da origem.\nPara especificar o tipo de composição a ser feita, configure a propriedade\n globalCompositeOpera-\ntion. O valor padrão é “source-over”, ou seja, os pixels de origem são desenhados",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3686,
+    "totalChunks": 10000
+  }
+}

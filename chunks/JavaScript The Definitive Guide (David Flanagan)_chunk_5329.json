@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5329",
+  "content": "pop( ), 715\n        método push( ), 715\n        método reduce( ), 716\n        método reduceRight( ), 717\n        método reverse( ), 145, 718\n        método shift( ), 718\n        método slice( ), 146, 719\n        método some( ), 151, 720\n        método sort( ), 145, 218, 721\n        método splice( ), 147, 721\n        método toLocaleString( ), 722\n        método toString( ), 723\n        método unshift( ), 723\n        métodos,    706\n        métodos, chamando indiretamente em Node-\nLists ou HTMLCollections, 357\n        métodos push( ) e pop( ), 147\n        métodos unshift( ) e shift( ), 148",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5329,
+    "totalChunks": 10000
+  }
+}

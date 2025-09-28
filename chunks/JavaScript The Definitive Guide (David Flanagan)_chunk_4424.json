@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4424",
+  "content": "stIndexOf() retorna −1.\n\n826          Parte III     Referência de JavaScript básica\nNote que, embora String.lastIndexOf() pesquise string do fim para o início, ainda numera as posi-\nções de caractere dentro de \nstring a partir do início. O primeiro caractere da string tem a posição 0 \ne o último tem a posição \nstring.length−1.\nConsulte também\nString.charAt(), String.indexOf(), String.substring()\nString.length\no comprimento de uma string\nSinopse\nstring.length\nDescrição\nA propriedade String.length é um inteiro somente de leitura que indica o número de caracteres na \nstring especificada. Para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4424,
+    "totalChunks": 10000
+  }
+}

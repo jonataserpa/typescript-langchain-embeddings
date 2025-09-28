@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_544",
+  "content": "o bloco de código #1.\n        break;\n                     // Para aqui\n    case 2:                // Começa aqui se n === 2\n        // Executa o bloco de código #2.\n        break;            // Para aqui\n    case 3:                // Começa aqui se n === 3\n        // Executa o bloco de código #3.\n        break;            // Para aqui\n    default:                  // Se tudo falhar...\n        // Executa o bloco de código #4.\n        break;            // Para aqui\n}\nObserve a palavra-chave break utilizada no final de cada case no código anterior. A instrução bre-\nak, descrita posteriormente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 544,
+    "totalChunks": 10000
+  }
+}

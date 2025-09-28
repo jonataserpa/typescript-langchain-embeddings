@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4330",
+  "content": "de para a propriedade especifica-\nda do objeto especificado. Um descritor de propriedade é um objeto que descreve os atributos e o valor \nde uma propriedade. Consulte a subseção a seguir para ver os detalhes completos. Note que esse não é \num método a ser chamado em um objeto: é uma função global e você deve passar um objeto para ela.\nDescritores de propriedade\nUm descritor de propriedade é um objeto normal de JavaScript que descreve os atributos (e, às vezes, \no valor) de uma propriedade. Existem dois tipos de propriedades JavaScript. Uma propriedade de \ndados tem um valor e três atributos:",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4330,
+    "totalChunks": 10000
+  }
+}

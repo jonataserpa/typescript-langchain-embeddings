@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5547",
+  "content": "tativas de excluir propriedades, \n121\nobjeto Uint8Arrays, 673\nobjeto URIError, 839–840\nobjeto Video, 982\nobjeto WebSocket, 983\nobjeto Window, 41, 985–992\n    confi gurando a propriedade onload com função \nde tratamento de evento, 445\n    construtoras,    988\n    evento load, 453\n    evento storage, 443\n    eventos beforeprint e afterprint, 443\n    eventos    off -line e online, 443\n    método close( ), 347\n    método getComputedStyle( ), 425\n    método getSelection( ), 398\n    método open( ), 345\n        URL javascript: como argumento, 307\n    método postMessage( ), 328, 662\n        gadget de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5547,
+    "totalChunks": 10000
+  }
+}

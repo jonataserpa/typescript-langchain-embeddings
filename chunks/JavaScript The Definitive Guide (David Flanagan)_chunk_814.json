@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_814",
+  "content": "ngth]. O método unshift() \n(descrito na Seção 7.8) pode ser usado para inserir um valor no início de um array, deslocando os \nelementos existentes no array para índices mais altos.\nOs elementos de um array podem ser excluídos com o operador\n delete, exatamente como se exclui \npropriedades de objeto:\na = [1,2,3];\ndelete a[1]; // agora a não tem elemento no índice 1\n1 in a      // => falso: nenhum índice do array 1 está definido\na.length     // => 3: delete não afeta o comprimento do array\nExcluir um elemento de array é semelhante a (mas sutilmente diferente de) atribuir undefined a esse",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 814,
+    "totalChunks": 10000
+  }
+}

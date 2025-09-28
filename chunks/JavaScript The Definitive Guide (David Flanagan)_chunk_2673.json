@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2673",
+  "content": ".\n            // Caso contrário, contamos pares entrada/saída\n\nCapítulo 17     Tratando eventos      467\nJavaScript do\n lado do cliente\n            // Se entramos de fora da lista ou se\n            // essa é a primeira entrada, então precisamos fazer alguma coisa\n            entered++;\n            if ((from && !ischild(from, list)) || entered == 1) {\n                // Todas as informações de DnD estão nesse objeto dataTransfer\n                var dt = e.dataTransfer;\n \n                // O objeto dt.types lista os tipos ou formatos em que os dados\n       // que estão sendo arrastados estão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2673,
+    "totalChunks": 10000
+  }
+}

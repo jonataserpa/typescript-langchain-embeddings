@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3134",
+  "content": "obre elas.\n// Cuidado para não ficarmos enfileirando animações em eventos de mouse!\n$(\"img\").bind({\n    mouseover: function() { $(this).stop().fadeTo(300, 1.0); },\n    mouseout: function() { $(this).stop().fadeTo(300, 0.5); }\n});\nO segundo método relacionado à animação que vamos abordar aqui é delay(). Ele simplesmente \nadiciona um atraso cronometrado na fila de animação: passe uma duração em milissegundos (ou \numa string de duração) como primeiro argumento e um nome de fila como segundo argumento \nopcional (o segundo argumento normalmente não é necessário: vamos falar sobre nomes de fila, a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3134,
+    "totalChunks": 10000
+  }
+}

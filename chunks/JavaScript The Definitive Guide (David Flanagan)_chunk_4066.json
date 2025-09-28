@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4066",
+  "content": "r especifi-\ncado, reduce() vai se comportar como se esse argumento fosse inserido no início de array (contudo, \nnão modifica array). Outro modo de dizer isso é que, se reduce() é chamado com dois argumentos, \n\n      Referência de JavaScript básica      717\nReferência de \nJavaScript básica\nentão inicial é usado como se fosse retornado anteriormente de f. Nesse caso, a primeira chamada \nde f recebe inicial e o primeiro elemento de array. Quando inicial é especificado, existem n+1 \nelementos para reduzir (\nn elementos de array, mais o valor inicial) e f é chamada n vezes.\nSe \narray está vazio e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4066,
+    "totalChunks": 10000
+  }
+}

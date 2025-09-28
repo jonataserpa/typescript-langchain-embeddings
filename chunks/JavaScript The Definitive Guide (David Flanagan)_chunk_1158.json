@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1158",
+  "content": "e funções com o operador typeof. Para objetos, ela retorna o valor do \natributo classe ou o nome da construtora. A função type() usa a função classof() do Exemplo 6-4 e \no método Function.getName() da Seção 9.4. O código dessa função e desse método foram incluídos \naqui por simplicidade.\n\n206          Parte     I     JavaScript     básica\nExemplo 9-4 Uma função type() para determinar o tipo de um valor\n/**\n * Retorna o tipo de o como uma string:\n *    -Se o é null, retorna \"null\", se o é NaN, retorna \"nan\".\n *    -Se typeof retorna um valor diferente de \"object\", retorna esse valor.\n *",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1158,
+    "totalChunks": 10000
+  }
+}

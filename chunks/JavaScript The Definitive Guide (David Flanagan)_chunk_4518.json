@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4518",
+  "content": "ar a string “webgl” para esse método a fim de obter um objeto \nque permite renderização em 3D. Note, entretanto, que o objeto CanvasRenderingContext2D é o \núnico contexto de desenho documentado neste livro.\nstring toDataURL([string tipo], [any args...])\ntoDataURL() retorna o conteúdo do bitmap canvas como um URL data:// que pode ser facilmente \nusado com uma tag <img> ou transmitido pela rede. Por exemplo:\n// Copia o conteúdo de um canvas em um <img> e anexa no documento\nvar canvas = document.getElementById(\"my_canvas\");\n\n850          Parte IV     Referência de JavaScript do lado do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4518,
+    "totalChunks": 10000
+  }
+}

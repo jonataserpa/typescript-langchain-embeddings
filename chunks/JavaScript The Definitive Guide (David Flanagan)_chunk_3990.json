@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3990",
+  "content": "// Agora decompõe o novo trecho de dados em linhas individuais\n                var lines = chunk.split(\"\\n\");\n                  numlines    +=    lines.length;\n                  //        Para inserir dados de código postal no banco de dados, precisamos de um\n                // objeto transação. Todas as inserções no banco de dados que fizermos\n                // usando esse objeto vão ser efetivadas no banco de dados quando esta\n                // função retornar e o navegador voltar ao laço\n                // de eventos. Para criar nosso objeto transação, precisamos especificar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3990,
+    "totalChunks": 10000
+  }
+}

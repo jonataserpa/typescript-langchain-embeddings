@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4415",
+  "content": "ontendo o caractere em si. Se n é negativo ou maior ou igual \nao comprimento da string, charCodeAt() retorna NaN.\nConsulte \nString.fromCharCode() para ver uma maneira de criar uma string a partir de codificações \nUnicode.\nConsulte também\nString.charAt(), String.fromCharCode()\nString.concat()\nconcatena strings\nSinopse\nstring.concat(valor, ...)\nArgumentos\nvalor, ...\nUm ou mais valores a serem concatenados em string.\nRetorna\nUma nova string resultante da concatenação de cada um dos argumentos em \nstring.\nDescrição\nconcat() converte cada um de seus argumentos em uma string (se necessário) e os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4415,
+    "totalChunks": 10000
+  }
+}

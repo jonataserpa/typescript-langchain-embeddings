@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_634",
+  "content": "a cópia está-\ntica dos valores passados para a função. No modo não restrito, o objeto \narguments tem com-\nportamento “mágico”, no qual os elementos do array e os parâmetros de função nomeados se \nreferem ambos ao mesmo valor.\n •   No modo restrito, um SyntaxError é lançada se o operador \ndelete é seguido por um identi-\nficador não qualificado, como uma variável, função ou parâmetro de função. (No modo não \nrestrito, tal expressão \ndelete não faz nada e é avaliada como false.)\n •   No modo restrito, uma tentativa de excluir uma propriedade que não pode ser configurada \nlança um TypeError. (No",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 634,
+    "totalChunks": 10000
+  }
+}

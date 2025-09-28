@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1172",
+  "content": "r útil na tipagem do pato. quacks() testa se um objeto (o primeiro \nargumento) implementa os métodos especificados pelos argumentos restantes. Para cada argumento \nrestante, se o argumento é uma string, ela procura um método com esse nome. Se o argumento é um \nobjeto, ela verifica se o primeiro objeto implementa métodos com os mesmos nomes dos métodos \ndesse objeto. Se o argumento é uma função, ela é aceita como sendo uma construtora e a função \nverifica se o primeiro objeto implementa métodos com os mesmos nomes do objeto protótipo.\nExemplo 9-5 Uma função para verificação do tipagem do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1172,
+    "totalChunks": 10000
+  }
+}

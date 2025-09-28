@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3941",
+  "content": "// ou registra um erro.\n        // Ler diretórios pode ser um processo de várias etapas. Temos de continuar\n        // chamando readEntries() até obtermos um array vazio. Então, terminamos\n        // e podemos passar a lista completa para a função callback do usuário.\n        function handleEntries(entries) {\n            if (entries.length == 0) callback(list); // Terminamos\n            else    {\n                // Caso contrário, adiciona essas entradas na lista e solicita mais\n                // O objeto semelhante a um array contém objetos FileEntry e\n                // precisamos obter",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3941,
+    "totalChunks": 10000
+  }
+}

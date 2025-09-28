@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5434",
+  "content": "999\ngetAttributeNS( ), objeto Element, 890–891\ngetBoundingClientRect( ), objeto Element, 382, \n386, 890–891\n\n1024          Índice\ngetClientRects( ), objeto Element, 383, 890–891\ngetComputedStyle( ), objeto Window, 425, 989\ngetContext( ), objeto Canvas, 849\ngetCurrentPosition( ), objeto Geolocation, 654, 918\ngetData( ), objeto DataTransfer, 466, 882–883\ngetElementById( ), objeto Document, 343, 354, \n880\n    selecionando formulários e elementos de formulá-\nrio, 388\ngetElementsByTagName( ), objeto Document, 155\ngetImageData( ), CanvasRenderingContext2D, 647, \n860\ngetModifi erState( ), objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5434,
+    "totalChunks": 10000
+  }
+}

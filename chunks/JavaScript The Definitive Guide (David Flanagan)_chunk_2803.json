@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2803",
+  "content": "uma string de texto. Frequen-\ntemente, contudo, queremos enviar dados mais complicados junto com uma requisição HTTP. Esta \nseção demonstra diversas maneiras de fazer isso.\n18.1.3.1   Pedidos codificados como formulários\nConsidere os formulários HTML. Quando o usuário envia um formulário, os dados nele presen-\ntes (os nomes e valores de cada um dos elementos do formulário) são codificados em uma string e \nenviados junto com a requisição. Por padrão, os formulários HTML são postados (com POST) no \nservidor e os dados do formulário codificados são usados como corpo da requisição. O esquema \nde",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2803,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2487",
+  "content": "o insere texto (por meio \ndo teclado ou pela operação de recortar e colar) no elemento. Ao contrário do evento change, esses \neventos de entrada são disparados para cada inserção. Infelizmente, o objeto evento de um evento \nde entrada não especifica qual texto foi inserido. (O novo evento textinput, descrito posteriormente, \nserá uma alternativa útil a esse evento.)\n17.1.1.2   Eventos de janela\nOs eventos de janela representam ocorrências relacionadas à própria janela do navegador, em vez de \na qualquer conteúdo específico do documento exibido dentro da janela. (No entanto, para alguns",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2487,
+    "totalChunks": 10000
+  }
+}

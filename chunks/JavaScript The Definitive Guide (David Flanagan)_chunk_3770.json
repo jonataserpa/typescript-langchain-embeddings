@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3770",
+  "content": "nenhum estado. Substitua esse estado nulo por nosso estado real: consulte o\n        // comentário em newgame(). Não há necessidade de chamar display() aqui.\n        history.replaceState(state, \"\", \"#guess\" + state.guessnum);\n }\n};\n// Esta rotina de tratamento de evento é chamada sempre que o usuário adivinha um número.\n// Ela atualiza o estado do jogo, salva-o e o exibe.\nfunction handleGuess() {\n    // Obtém o palpite do usuário a partir do campo de entrada\n    var g = parseInt(this.value);\n    // Se é um número e está no intervalo correto\n    if ((g > state.low) && (g < state.high)) {",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3770,
+    "totalChunks": 10000
+  }
+}

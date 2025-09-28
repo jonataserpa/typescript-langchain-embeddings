@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3836",
+  "content": "registrar saída e interagir com o docu-\nmento; portanto, podem ser difíceis de depurar. Se um worker lançar um erro, a thread principal vai rece-\nber um evento erro no objeto Worker. Mas muitas vezes você precisa de um modo de fazer com que um \nworker produza mensagens de depuração na saída que sejam visíveis na console Web do navegador. Um \nmodo simples de fazer isso é modificar o protocolo de passagem de mensagens utilizado com o worker \npara que, de algum modo, este possa enviar mensagens de depuração. No Exemplo 22-6, por exemplo, \npoderíamos inserir o código a seguir no início da rotina",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3836,
+    "totalChunks": 10000
+  }
+}

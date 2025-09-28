@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1236",
+  "content": "s += this.constructor.name + \": \";\n        // Agora enumera todas as propriedades não herdadas que não são funções\n        var n = 0;\n        for(var name in this) {\n            if (!this.hasOwnProperty(name)) continue;    // pula props herdadas\n            var value = this[name];\n            if (typeof value === \"function\") continue;   // pula métodos\n            if (n++) s += \", \";\n            s += name + '=' + value;\n  }\n        return s + ']';\n    },\n    // Testa a igualdade comparando as construtoras e as propriedades de instância\n    // de this e that. Só funciona para classes",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1236,
+    "totalChunks": 10000
+  }
+}

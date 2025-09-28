@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3230",
+  "content": "nteriores, méto-\ndos de navegador como \nWindow.alert() e Element.attachEvent() não são funções nesse sentido.\njQuery.isPlainObject()\nRetorna true se o argumento é um objeto “puro”, em vez de uma instância de algum tipo mais \nespecializado ou classe de objetos.\njQuery.makeArray()\nSe o argumento é um objeto semelhante a um array, esta função copia os elementos desse objeto \nem um novo array (verdadeiro) e retorna esse array. Se o argumento não é semelhante a um array, \nesta função simplesmente retorna um novo array com o argumento como seu único elemento.\njQuery.map()\nEsta função é como o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3230,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4940",
+  "content": "de estado de elemento\n:animated    :disabled    :hidden        :visible\n:checked     :enabled        :selected\nFiltros de posição de seleção\n:eq(n)        :first        :last        :nth(n)\n:even        :gt(n)        :lt(n)        :odd\nFiltros de posição de documento\n:first-child              :nth-child(n)\n:last-child               :nth-child(even)\n:only-child               :nth-child(odd)\n                           :nth-child(xn+y)\nFiltros diversos\n:contains(text)           :not(selector)\n:empty                  :parent\n:has(selector)\nMétodos e propriedades básicos da jQuery\nEstes são os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4940,
+    "totalChunks": 10000
+  }
+}

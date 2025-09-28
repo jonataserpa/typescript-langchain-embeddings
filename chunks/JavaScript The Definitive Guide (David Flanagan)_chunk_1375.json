@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1375",
+  "content": "óprios recursos de gerenciamento de módulo, você deve escolher o sistema de criação e exportação \nde módulos que funcione melhor com a estrutura ou kit de ferramentas que utiliza.\n\nUma  expressão  regular  é  um  objeto  que  descreve  um  padrão  de  caracteres.  A  classe  RegExp  de  \nJava Script representa as expressões regulares, e tanto String quanto RegExp definem métodos que \nutilizam expressões regulares para executar funções poderosas de comparação de padrões e de loca-\nlização e substituição em texto. A gramática de expressões regulares de JavaScript é um subconjunto \nbastante",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1375,
+    "totalChunks": 10000
+  }
+}

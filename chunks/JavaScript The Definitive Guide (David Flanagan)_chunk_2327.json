@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2327",
+  "content": "ou outro conteúdo em fluxo, muitas vezes é suficiente especificar a largura desejada do \nelemento e permitir que a altura seja determinada automaticamente pelo layout do seu conteúdo.\nCSS exige que as propriedades de posição e dimensão sejam especificadas com uma unidade. Nos \nexemplos anteriores, as propriedades de posição e tamanho foram especificadas com o sufixo “px”, \nque significa pixels. Você também pode usar polegadas (“in”), centímetros (“cm”), pontos (“pt”) e \nemes (“eme”; a medida da altura da linha da fonte corrente).\n\nCapítulo 16     Escrevendo script de CSS      411\nJavaScript",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2327,
+    "totalChunks": 10000
+  }
+}

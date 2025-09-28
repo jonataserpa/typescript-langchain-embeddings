@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4318",
+  "content": "erable:true, configurable: true},\n    y: { value: 2, writable: false, enumerable:true, configurable: true},\n});\nConsulte também\nObject.defineProperty(), Object.defineProperties(), Object.getOwnPropertyDescrip-\ntor()\n, Seção 6.1, Seção 6.7\nObject.defineProperties() ECMAScript 5\ncria ou configura várias propriedades de objeto\nSinopse\nObject.defineProperties(o, descritores)\n\n      Referência de JavaScript básica      797\nReferência de \nJavaScript básica\nArgumentos\no\nO objeto no qual propriedades serão criadas ou configuradas.\ndescritores\nUm objeto que mapeia nomes de propriedade em descritores",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4318,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3493",
+  "content": "ript \npoderia consultar propriedades como muted e currentTime para descobrir como a mídia está sendo \nreproduzida.\nOs atributos HTML \ncontrols, loop, preload e autoplay afetam a reprodução de áudio e vídeo e \ntambém podem ser configurados e consultados como propriedades JavaScript. controls especifica \nse os controles de reprodução aparecem no navegador. Configure essa propriedade como true para \nexibir os controles ou false, para ocultá-los. A propriedade loop é um valor booleano que especifica \nse a mídia deve ser reproduzida repetidamente (true) ou parar ao chegar no final (false). A",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3493,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1395",
+  "content": "aprendeu até aqui, você pode descrever um número de \ndois dígitos como \n/\\d\\d/ e um número de quatro dígitos como /\\d\\d\\d\\d/. Mas não há qualquer \nmaneira de descrever, por exemplo, um número que possa ter qualquer quantidade de dígitos ou \numa string de três letras, seguida de um dígito opcional. Esses padrões mais complexos utilizam \nsintaxe de expressões regulares que especifica quantas vezes um elemento de uma expressão regular \npode ser repetido.\nOs caracteres que especificam repetição sempre seguem o padrão no qual estão sendo aplicados. \nComo certos tipos de repetição são muito",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1395,
+    "totalChunks": 10000
+  }
+}

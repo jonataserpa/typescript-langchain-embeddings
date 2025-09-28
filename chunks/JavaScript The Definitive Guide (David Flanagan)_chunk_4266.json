@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4266",
+  "content": "() arredonda um valor em ponto flutuante para baixo, até o inteiro mais próximo. Esse \ncomportamento é diferente do de Math.round(), que arredonda para cima ou para baixo, até o inteiro \nmais próximo. Note também que Math.floor() arredonda números negativos para baixo (isto é, para \nserem mais negativos) e não para cima (isto é, mais próximos de zero).\nExemplo\na = Math.floor(1.99);    // O resultado é 1.0\nb = Math.floor(1.01);    // O resultado é 1.0\nc = Math.floor(1.0);     // O resultado é 1.0\nd = Math.floor(-1.01);   // O resultado é -2.0\nMath.LN10\na constante matemática log\ne",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4266,
+    "totalChunks": 10000
+  }
+}

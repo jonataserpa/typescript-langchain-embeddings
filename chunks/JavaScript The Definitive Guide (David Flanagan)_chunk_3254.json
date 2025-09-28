@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3254",
+  "content": "empty (extensão da jQuery).\n:password\nCorresponde aos elementos <input type=\"password\"> (extensão da jQuery).\n:radio\nCorresponde aos elementos <input type=\"radio\"> (extensão da jQuery).\n:reset\nCorresponde aos elementos <input type=\"reset\"> e <button type=\"reset\"> \n(extensão da jQuery).\n:selected\nCorresponde aos elementos <option> que estão selecionados. Use :checked para caixas de \nseleção e botões de opção\n (extensão da jQuery).\n:submit\nCorresponde aos elementos <input type=\"submit\"> e <button type=\"submit\"> \n(extensão da jQuery).\n:text\nCorresponde aos elementos <input type=\"text\"> (extensão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3254,
+    "totalChunks": 10000
+  }
+}

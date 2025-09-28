@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1545",
+  "content": "s é baseada na notação ma-\ntemática de definição dos elementos de um conjunto, ou seja, expressões e cláusulas ficam em \nlugares diferentes do que os programadores JavaScript esperariam que estivessem. Esteja certo, no \nentanto, que não é difícil para se acostumar com a sintaxe incomum e apreciar o poder dos array \ncomprehensions.\nAqui está uma inclusão de array que utiliza a função range() desenvolvida anteriormente, para ini-\ncializar um array para conter o quadrado dos números pares até 100:\nlet evensquares = [x*x for (x in range(0,10)) if (x % 2 === 0)]\n\n274          Parte     I",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1545,
+    "totalChunks": 10000
+  }
+}

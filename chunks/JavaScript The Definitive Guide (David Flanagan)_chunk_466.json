@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_466",
+  "content": "as vezes. Os dois \ncasos vão diferir somente se a incluir efeitos colaterais, como em uma chamada de função ou um \noperador de incremento. As duas atribuições a seguir, por exemplo, não são iguais:\ndata[i++] *= 2;\ndata[i++] = data[i++] * 2;\n4.12   Expressões de avaliação\nAssim como muitas linguagens interpretadas, JavaScript tem a capacidade de interpretar strings de \ncódigo-fonte, avaliando-as para produzir um valor. JavaScript faz isso com a função global eval():\neval(\"3+2\")  // => 5\nA avaliação dinâmica de strings de código-fonte é um recurso poderoso da linguagem que quase \nnunca é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 466,
+    "totalChunks": 10000
+  }
+}

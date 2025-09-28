@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_791",
+  "content": "I     JavaScript     básica\nOs valores de um array literal não precisam ser constantes. Podem ser expressões arbitrárias:\nvar base = 1024;\nvar table = [base, base+1, base+2, base+3];\nOs array literais podem conter objetos literais ou outros array literais:\nvar b = [[1,{x:1, y:2}], [2, {x:3, y:4}]];\nSe um array contém várias vírgulas seguidas sem qualquer valor entre elas, o array é esparso (veja \n7.3). Os elementos de array para os quais os valores são omitidos não existem, mas aparecem como \nundefined se você os consulta:\nvar count = [1,,3];   // Elementos nos índices 0 e 2. count[1] =>",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 791,
+    "totalChunks": 10000
+  }
+}

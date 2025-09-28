@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3588",
+  "content": "OffsetY: this.shadowOffsetY,\n        strokeStyle:    this.strokeStyle\n    };\n};\n21.4.3   Dimensões e coordenadas do canvas\nOs atributos width e height do elemento <canvas> e as propriedades correspondentes width e height \ndo objeto Canvas especificam as dimensões do canvas. O sistema de coordenadas padrão coloca a \norigem (0,0) no canto superior esquerdo da tela de desenho. As coordenadas X aumentam para a \ndireita e as coordenadas Y aumentam à medida que você desce na tela. Os pontos na tela de desenho \npodem ser especificados usando-se valores em ponto flutuante e esses valores não são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3588,
+    "totalChunks": 10000
+  }
+}

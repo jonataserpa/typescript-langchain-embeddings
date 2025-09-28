@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4989",
+  "content": "do.\nshow()\nshow(duração, [f()])\nSem argumentos, mostra imediatamente cada elemento selecionado. Caso contrário, anima o \ntamanho e a opacidade de cada elemento selecionado de modo que fiquem totalmente visíveis \napós duração ms. Ao terminar, chama f, se especificada, como um método de cada elemento \nselecionado.\n\n942          Parte IV     Referência de JavaScript do lado do cliente\nstop([limpar=false], [pular=false])\nInterrompe a animação atual (se houver uma em execução) em todos os elementos seleciona-\ndos. Se limpar for true, limpa também a fila de efeitos de cada elemento. Se pular for",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4989,
+    "totalChunks": 10000
+  }
+}

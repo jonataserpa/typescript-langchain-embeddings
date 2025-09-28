@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_99",
+  "content": "da classe HTML.\n    // Isso presume que uma folha de estilos CSS já define a classe \"hilite\"\n    if (!e.className) e.className = \"hilite\";\n    else e.className += \" hilite\";\n}\nJavaScript nos permite fazer scripts do conteúdo HTML e da apresentação CSS de documentos em \nnavegadores Web, mas também nos permite definir o comportamento desses documentos com roti-\nnas de tratamento de evento. Uma rotina de tratamento de evento é uma função JavaScript que regis-\ntramos no navegador e que este chama quando ocorre algum tipo de evento especificado. O evento \nde interesse pode ser um clique de mouse",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 99,
+    "totalChunks": 10000
+  }
+}

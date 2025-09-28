@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_175",
+  "content": "nar corretamente mesmo que a \ninstrução anterior seja modificada e um ponto e vírgula, anteriormente de término, removido:\nvar x = 0                     //Ponto e vírgula omitido aqui\n;[x,x+1,x+2].forEach(console.log)      // O ; protetor mantém esta instrução          \n                                    //separada\nExistem duas exceções à regra geral de que JavaScript interpreta quebras de linha como pontos e \nvírgulas quando não consegue analisar a segunda linha como uma continuação da instrução da pri-\nmeira linha. A primeira exceção envolve as instruções return, break e continue (consulte",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 175,
+    "totalChunks": 10000
+  }
+}

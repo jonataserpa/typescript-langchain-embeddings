@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_713",
+  "content": "o[prop] = p[prop];          // Adiciona a propriedade em o.\n }\n    return    o;\n}\n/*\n * Copia as propriedades enumeráveis de p em o e retorna o.\n * Se o e p têm uma propriedade de mesmo nome, a propriedade de o é deixada intacta.\n * Esta função não manipula métodos getter e setter nem copia atributos.\n */\nfunction merge(o, p) {\n    for(prop in p) {                   // Para todas as props em p.\n        if (o.hasOwnProperty[prop]) continue;    // Exceto as que já estão em o.\n        o[prop] = p[prop];                      // Adiciona a propriedade em o.\n }\n    return    o;\n}\n/*\n * Remove",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 713,
+    "totalChunks": 10000
+  }
+}

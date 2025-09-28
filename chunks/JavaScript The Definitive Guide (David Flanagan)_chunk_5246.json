@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5246",
+  "content": "ssage\nQuando um script em outra janela envia uma mensagem chamando o método \npostMessage(). Consulte MessageEvent.\nonoffline\nQuando o navegador perde sua conexão com a Internet\nononline\nQuando o navegador volta a ter uma conexão com a Internet\nonpagehide\nQuando a página está para ser colocada na cache e substituída por outra\nonpageshow\nQuando uma página é carregada pela primeira vez, um evento pageshow é disparado \nimediatamente após o evento load e o objeto evento tem uma propriedade \npersisted igual \na \nfalse. No entanto, quando uma página carregada anteriormente é restaurada da cache na",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5246,
+    "totalChunks": 10000
+  }
+}

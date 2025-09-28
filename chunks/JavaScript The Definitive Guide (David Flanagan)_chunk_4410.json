@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4410",
+  "content": "ring em um <sub>.\nsup()\nRetorna uma cópia da string em um ambiente <sup>.\n\n822          Parte III     Referência de JavaScript básica\nDescrição\nAs strings são um tipo de dados primitivo em JavaScript. O tipo de classe String existe para fornecer \nmétodos para operar em valores de string primitivos. A propriedade length de um objeto String espe-\ncifica o número de caracteres na string. A classe String define vários métodos para operar em strings; \npor exemplo, existem métodos para extrair um caractere ou uma substring da string ou para procurar \num caractere ou uma substring. Note que as",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4410,
+    "totalChunks": 10000
+  }
+}

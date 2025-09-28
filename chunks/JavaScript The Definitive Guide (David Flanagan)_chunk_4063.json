@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4063",
+  "content": "funciona-\nlidade de uma pilha first-in, last-out. Consulte Array.pop() para ver um exemplo.\nConsulte também\nArray.pop()\nArray.reduce() ECMAScript 5\ncalcula um valor a partir dos elementos de um array\nSinopse\narray.reduce(f)\narray.reduce(f, inicial)\nArgumentos\nf\nUma função que combina dois valores (como dois elementos do array) e retorna um novo \nvalor “reduzido”.\ninicial\nUm valor inicial opcional para servir de base para a redução do array. Se esse argumento é \nespecificado, reduce() se comporta como se fosse inserido no início de array.\nRetorna\nO valor reduzido do array, que é o valor de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4063,
+    "totalChunks": 10000
+  }
+}

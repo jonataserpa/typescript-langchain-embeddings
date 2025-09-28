@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3748",
+  "content": "nerHTML = msg;    // Exibe todas as informações de posição\n }\n}\n22.2   Gerenciamento de histórico\nOs navegadores Web monitoram os documentos carregados em uma janela e exibem botões Back e \nForward (Voltar e Avançar) que permitem ao usuário navegar por esses documentos. Esse modelo \nde histórico de navegador é do tempo em que os documentos eram passivos e todo cálculo era feito \nno servidor. Hoje, os aplicativos Web frequentemente geram ou carregam conteúdo dinamicamente \ne exibem novos estados sem carregar novos documentos. Aplicativos como esses precisam fazer seu \npróprio gerenciamento de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3748,
+    "totalChunks": 10000
+  }
+}

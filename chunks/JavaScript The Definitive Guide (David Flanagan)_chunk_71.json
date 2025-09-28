@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_71",
+  "content": "a \nfrase em JavaScript que pode ser avaliada para produzir um valor. O uso de . e [] para se referir ao va-\nlor de uma propriedade de objeto ou a um elemento de array é uma expressão, por exemplo. Talvez \nvocê tenha notado no código anterior que, quando uma expressão aparece sozinha em uma linha, o \ncomentário que se segue começa com uma seta (=>) e o valor da expressão. Essa é uma convenção \nque você vai ver por todo o livro.\nUma das maneiras mais comuns de formar expressões em JavaScript é usar operadores, como segue:\n// Os operadores atuam sobre os valores (operandos) para produzir um novo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 71,
+    "totalChunks": 10000
+  }
+}

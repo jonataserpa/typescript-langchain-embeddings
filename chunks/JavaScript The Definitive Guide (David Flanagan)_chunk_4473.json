@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4473",
+  "content": "ed\no valor undefined\nSinopse\nundefined\n\n      Referência de JavaScript básica      839\nReferência de \nJavaScript básica\nDescrição\nundefined é uma propriedade global que contém o valor undefined de JavaScript. Esse é o mesmo \nvalor retornado quando se tenta ler o valor de uma propriedade de objeto inexistente. A propriedade \nundefined não é enumerada por laços for/in e não pode ser excluída com o operador delete. Note \nque undefined não é uma constante e pode ser configurada com qualquer outro valor, algo que você \ndeve tomar o cuidado de não fazer.\nQuando testar um valor para ver se é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4473,
+    "totalChunks": 10000
+  }
+}

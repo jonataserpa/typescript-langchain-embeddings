@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_60",
+  "content": "avegadores  Web  atuais  contêm  ferramentas  para  \ndesenvolvedores Web que são indispensáveis para depuração, experimentação e aprendizado. Normal-\nmente, essas ferramentas podem ser encontradas no menu Ferramentas do navegador, sob nomes como \n“Desenvolvedor Web” ou “Console da Web”. (O Firefox contém um “Console da Web” interno, mas quando \neste livro estava sendo produzido, a extensão Firebug era melhor.) Frequentemente, é possível ativar um \nconsole com um toque de tecla, como F12 ou Ctrl-Shift-J. Muitas vezes, essas ferramentas de console apa-\nrecem como painéis na parte superior ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 60,
+    "totalChunks": 10000
+  }
+}

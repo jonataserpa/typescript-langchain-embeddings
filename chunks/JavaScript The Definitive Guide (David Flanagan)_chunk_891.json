@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_891",
+  "content": "Array.prototype.join.call(a, \"+\")       // => \"a+b+c\"\nArray.prototype.slice.call(a, 0)        // => [\"a\",\"b\",\"c\"]: cópia do array verdadeiro\nArray.prototype.map.call(a, function(x) {\n    return    x.toUpperCase();\n})                                          //    =>    [\"A\",\"B\",\"C\"]:\nVimos essa técnica de call() anteriormente, no método isArray() da Seção 7.10. O método call() \nde objetos Function é abordado com mais detalhes na Seção 8.7.3.\nOs métodos de array de ECMAScript 5 foram introduzidos no Firefox 1.5. Como eram escritos \ngenericamente, o Firefox também introduziu versões desses",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 891,
+    "totalChunks": 10000
+  }
+}

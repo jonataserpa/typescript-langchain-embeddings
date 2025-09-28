@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4631",
+  "content": "e contêm hifens, como “font-family”, são escritos sem hifens em JavaScript, \ncom cada palavra após a primeira com inicial maiúscula: \nfontFamily. Além disso, o atributo “float” \nentra em conflito com a palavra reservada float; portanto, se transforma na propriedade cssFloat. \nNote que você pode usar nomes de atributo CSS não modificados, se usar strings e colchetes para \nacessar as propriedades.\nPropriedades\nAlém das propriedades descritas anteriormente, um objeto CSSStyleDeclaration tem mais duas:\nstring cssText\nA representação textual de um conjunto de atributos de estilo e seus valores. O",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4631,
+    "totalChunks": 10000
+  }
+}

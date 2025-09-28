@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4391",
+  "content": "ado em um objeto RegExp não global.\nQuando \nexec() é chamado em um padrão não global, faz a pesquisa e retorna o resultado descrito \nanteriormente. Entretanto, quando expreg é uma expressão regular global, exec() se comporta de \nmaneira um pouco mais complexa. Ele começa a pesquisar string na posição de caractere especifi-\ncada pela propriedade lastIndex de expreg. Quando encontra uma correspondência, ele configura \nlastIndex com a posição do primeiro caractere após a correspondência. Isso significa que você pode \nchamar exec() repetidamente para iterar por todas as correspondências em uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4391,
+    "totalChunks": 10000
+  }
+}

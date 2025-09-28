@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3772",
+  "content": "válido: não coloca um novo estado de histórico\n        alert(\"Please enter a number greater than \" + state.low +\n              \" and less than \" + state.high);\n }\n}\n// Modifica o documento para exibir o estado atual do jogo.\nfunction display(state) {\n    // Exibe o cabeçalho e o título do documento\n    ui.heading.innerHTML = document.title =\n        \"I'm thinking of a number between \" +\n        state.low + \" and \" + state.high + \".\";\n    // Exibe uma representação visual do intervalo de números usando uma tabela\n    ui.low.style.width = state.low + \"%\";\n\nCapítulo 22     APIs de HTML5",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3772,
+    "totalChunks": 10000
+  }
+}

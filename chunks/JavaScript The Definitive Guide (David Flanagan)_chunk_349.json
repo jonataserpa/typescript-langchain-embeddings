@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_349",
+  "content": "o de expressão primária é a referência à variável simples:\ni           // É avaliada como o valor da variável i.\nsum          // É avaliada como o valor da variável sum.\nundefined    // undefined é uma variável global e não uma palavra-chave como null.\nQuando qualquer identificador aparece sozinho em um programa, JavaScript presume que se trata \nde uma variável e procura seu valor. Se não existe variável alguma com esse nome, a expressão é \navaliada com o valor undefined. No modo restrito de ECMAScript 5, entretanto, uma tentativa de \navaliar com uma variável inexistente lança um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 349,
+    "totalChunks": 10000
+  }
+}

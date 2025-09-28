@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4597",
+  "content": "a do estado atual da imagem gráfica em uma pilha de estados gráficos salvos. \nIsso permite alterar o estado gráfico temporariamente e depois restaurar os valores anteriores com \numa chamada a restore().\nO estado gráfico de um canvas inclui todas as propriedades do objeto CanvasRenderingContext2D \n(exceto a propriedade somente de leitura \ncanvas). Inclui também a matriz de transformação resul-\ntante de chamadas a rotate(), scale() e translate(). Além disso, inclui o caminho de recorte, que \né especificado com o método clip(). Note, entretanto, que o caminho atual e a posição atual não \nfazem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4597,
+    "totalChunks": 10000
+  }
+}

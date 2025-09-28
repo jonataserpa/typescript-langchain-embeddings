@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4418",
+  "content": "String() e não um método de strings ou objetos String.\nString.charCodeAt() é um método de instância acompanhante que oferece um modo de obter as \ncodificações dos caracteres individuais de uma string.\nExemplo\n// Cria a string \"hello\"\nvar s = String.fromCharCode(104, 101, 108, 108, 111);\nConsulte também\nString.charCodeAt()\nString.indexOf()\npesquisa uma string\nSinopse\nstring.indexOf(substring)\nstring.indexOf(substring, início)\nArgumentos\nsubstring\nA substring a ser pesquisada dentro de string.\ninício\nUm argumento inteiro opcional especificando a posição dentro de string na qual a busca \ndeve",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4418,
+    "totalChunks": 10000
+  }
+}

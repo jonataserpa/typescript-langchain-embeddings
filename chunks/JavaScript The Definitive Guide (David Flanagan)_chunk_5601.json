@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5601",
+  "content": "ownerRule, objeto CSSStyleSheet, 871\npropriedade padding, 405\npropriedade parent, 347\n    objeto    Window,    987\npropriedade parentNode, objeto Node, 360–361, \n961\npropriedade parentRule, objeto CSSRule, 869\npropriedade parentStyleSheet\n    objeto CSSRule, 870\n    objeto CSSStyleSheet, 871\npropriedade pathname\n    objeto Link, 947\n    objeto Location, 334, 949\n    objeto    WorkerLocation,    996\npropriedade pattern, objeto Input, 928\npropriedade patternMatch, objeto FormValidity, 916\npropriedade paused, objeto MediaElement, 951\npropriedade persisted, objeto PageTransitionEvent,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5601,
+    "totalChunks": 10000
+  }
+}

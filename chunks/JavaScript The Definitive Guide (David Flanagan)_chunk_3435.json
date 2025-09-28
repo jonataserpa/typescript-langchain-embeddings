@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3435",
+  "content": "ra cancelar a ação padrão associada aos eventos. Isso evita que os navegadores \nexibam suas próprias mensagens de status da cache. (Quando este livro estava sendo escrito, os nave-\ngadores não exibiam tais mensagens.)\nComo uma alternativa às rotinas de tratamento de evento, um aplicativo também pode usar a pro-\npriedade \napplicationCache.status para determinar o status da cache. Existem seis valores possíveis \npara essa propriedade:\nApplicationCache.UNCACHED (0)\nEsse aplicativo não tem um atributo manifest: ele não está na cache.\nApplicationCache.IDLE (1)\nO manifesto foi verificado e esse",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3435,
+    "totalChunks": 10000
+  }
+}

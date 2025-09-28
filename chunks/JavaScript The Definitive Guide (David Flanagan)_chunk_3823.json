@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3823",
+  "content": "L5 descritas posteriormente neste capítulo definem recursos que estão \ndisponíveis por intermédio de um objeto Window normal e também em workers, por meio de \nWorkerGlobalScope. Frequentemente, o objeto Window vai definir uma API assíncrona e Worker-\nGlobalScope vai adicionar uma versão síncrona da mesma API básica. Essas APIs “habilitadas para \nworkers” serão descritas quando chegarmos a elas, posteriormente no capítulo.\nRecursos avançados de worker\nAs threads worker descritas nesta seção são workers dedicados: eles são associados (ou dedicados) a uma \núnica  thread  pai.  A  especificação",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3823,
+    "totalChunks": 10000
+  }
+}

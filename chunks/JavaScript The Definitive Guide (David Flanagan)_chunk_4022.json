@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4022",
+  "content": "os como argumentos \nse tornam elementos de array do objeto Arguments, recebam esses argumentos nomes ou não na \ndeclaração da função.\nReferência de JavaScript básica\n\n704          Parte III     Referência de JavaScript básica\nPropriedades\ncallee\nUma referência à função que está sendo executada.\nlength\nO número de argumentos passados para a função e o número de elementos do array no objeto \nArguments.\nDescrição\nQuando uma função é chamada, um objeto Arguments é criado para ela e a variável local arguments \né inicializada automaticamente para se referir a esse objeto Arguments. O principal",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4022,
+    "totalChunks": 10000
+  }
+}

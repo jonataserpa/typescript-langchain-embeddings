@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4962",
+  "content": "arra de rolagem horizontal do primeiro elemento selecionado ou a con-\nfigura para todos os elementos selecionados.\nscrollTop():int\nscrollTop(int)\nRetorna a posição da barra de rolagem vertical do primeiro elemento selecionado ou a confi-\ngura para todos os elementos selecionados.\ntoggleClass(nomes, [adicionar])\ntoggleClass(f(ind\n,atual):names, [adicionar])\nAlterna o nome (ou nomes) de classe especificado na propriedade class de cada elemento \nselecionado. Se f for especificada, a chama como método de cada elemento selecionado para \ncalcular o nome (ou nomes) a ser alternado. Se adicionar for",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4962,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1910",
+  "content": "am que, para exibir os sites existentes \ncorretamente, tinham que definir a propriedade appName como “Netscape”. Um processo semelhante \nfez o número no início de appVersion perder o significado, sendo que hoje um código de farejamento \nde navegador deve contar com a string navigator.userAgent e é mais complicado do que antes. O \nExemplo 14-3 mostra como usar expressões regulares (da jQuery) para extrair o nome e o número \nde versão do navegador a partir de navigator.userAgent.\nExemplo 14-3 Farejamento de navegador usando navigator.userAgent\n// Define browser.name e browser.version para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1910,
+    "totalChunks": 10000
+  }
+}

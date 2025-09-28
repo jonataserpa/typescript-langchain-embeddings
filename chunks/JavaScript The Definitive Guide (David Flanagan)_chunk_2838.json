@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2838",
+  "content": "o acontece, o evento error é disparado.\nUm navegador vai disparar apenas um dos eventos load, abort, timeout ou error para qualquer \nrequisição feita. A versão preliminar da XHR2 diz que os navegadores devem disparar um evento \nloadend quando um desses eventos tiver ocorrido. Entretanto, quando este livro estava sendo escrito, \nos navegadores não implementavam loadend.\n\nCapítulo 18     Scripts HTTP      495\nJavaScript do\n lado do cliente\nVocê pode chamar o método addEventListener() do objeto XMLHttpRequest a fim de registrar \nrotinas de tratamento para cada um desses eventos progress. Se você",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2838,
+    "totalChunks": 10000
+  }
+}

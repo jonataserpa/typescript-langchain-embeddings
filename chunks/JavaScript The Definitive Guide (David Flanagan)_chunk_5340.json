@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5340",
+  "content": "obtendo, métodos para, 676\n    URLs,    680–682\n        exibindo arquivos de imagem soltos, 680\n    usando,    676–677\nblocos de instrução, 86\nbloqueando execução de script, 311\nbookmarklets\n    para texto atualmente selecionado, 398\n    usando URLs javascript: para, 308\nbooleanos, 28\n    conversões,    44\n    conversões de objeto para booleano, 48\n    objetos wrapper, 42\n    valores booleanos, 39\nborbulha, 313, 434\n    eventos de mouse, 441\n    eventos de teclado em documento e janela, 440\n    eventos dinâmicos, 536\n    eventos disparados manualmente, 533\n    local na propagação de eventos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5340,
+    "totalChunks": 10000
+  }
+}

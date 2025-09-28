@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2896",
+  "content": "emplo 18-16 mostra como isso pode ser feito. Com esse módulo de \nsimulação, o Exemplo 18-15 funciona no Chrome, no Safari e no Firefox. (O Exemplo 18-16 não \nfunciona no IE nem no Opera, pois suas implementações de XMLHttpRequest não geram eventos \ndurante um download.)\nExemplo 18-16 Simulando EventSource com XMLHttpRequest\n// Simula a API EventSource para navegadores que não a suportam.\n// Exige um objeto XMLHttpRequest que envie eventos readystatechange quando\n// há novos dados escritos em uma conexão HTTP de longa duração. Note que\n// esta não é uma implementação completa da API: ela não",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2896,
+    "totalChunks": 10000
+  }
+}

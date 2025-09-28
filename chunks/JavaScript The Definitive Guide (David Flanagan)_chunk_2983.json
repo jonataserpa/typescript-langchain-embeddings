@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2983",
+  "content": "// Marca qualquer caixa de seleção\n                                      // com esses nomes ou valores\n$(\"input:text\").val(function() { // Redefine todos os campos de texto com seus padrões\n    return    this.defaultValue;\n})\n\n520          Parte II     JavaScript do lado do cliente\n19.2.5   Obtendo e configurando conteúdo de elementos\nOs métodos text() e html() consultam e configuram o conteúdo de texto puro ou HTML de um \nou mais elementos. Quando chamado sem argumentos, text() retorna o conteúdo de texto puro de \ntodos os nós de texto descendentes de todos os elementos coincidentes.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2983,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5646",
+  "content": "18–420\nsombras, desenhando no canvas, 639, 852–853\nsoquetes Web, 697–700\n    criando cliente de chat baseado em WebSocket, \n698–699\n    criando soquete e registrando rotinas de tratamen-\nto de evento, 697–698\n    servidor de bate-papo usando WebSockets e \nNode, 699–700\nsparklines, 367\n    desenhando no canvas (exemplo), 649–651\nSpidermonkey\n    atribuição de desestruturação, 265\n    suporte para E4X, 276\n    suporte para extensões de JavaScript, 258\n    versões de JavaScript, 262\nstartOff setTime, objeto MediaElement, 952\nstatusText, objeto XMLHttpRequest, 999\nstopImmediatePropagation( ),",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5646,
+    "totalChunks": 10000
+  }
+}

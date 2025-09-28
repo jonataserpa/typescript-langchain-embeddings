@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_267",
+  "content": "são somente para leitura e que não é possível \ndefinir novas propriedades neles.\nNote que é possível (mas quase nunca necessário ou útil) criar objetos wrapper explicitamente, cha-\nmando as construtoras \nString(), Number() ou Boolean():\nvar s = \"test\", n = 1, b = true;     // Uma string, um número e um valor booleano.\nvar S = new String(s);     // Um objeto String\nvar N = new Number(n);     // Um objeto Number\nvar B = new Boolean(b);     // Um objeto Boolean\nJavaScript converte objetos wrapper no valor primitivo empacotado, quando necessário; portanto, \nos objetos S, N e B anteriores",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 267,
+    "totalChunks": 10000
+  }
+}

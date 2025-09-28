@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3293",
+  "content": "rintln(\"x = \", x, \"; y = \", y);\nÉ uma prática comum adicionar novos métodos em jQuery.fn. Se você se encontrar usando o mé-\ntodo \neach() para iterar “manualmente” pelos elementos de um objeto jQuery e efetuar algum tipo \nde operação neles, pergunte-se se não faria sentido refatorar seu código de modo que a chamada de\n \neach() seja colocada em um método de extensão. Se você seguir as práticas básicas de codificação \nmodular ao escrever sua extensão e obedecer a algumas convenções específicas da jQuery, poderá \nchamar sua extensão de plug-in e compartilhá-la com outros. As convenções para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3293,
+    "totalChunks": 10000
+  }
+}

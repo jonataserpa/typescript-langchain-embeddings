@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5304",
+  "content": "condicionais, 323\n\\ (barra invertida)\n    fazendo o escape de caracteres especiais em expres-\nsões regulares, 247\n    quebrando strings literais de várias linhas, 36\n    sequências de escape em strings literais, 36\n^ (acento circunfl exo)\n    correspondência de início de string em expressões \nregulares, 252\n    negando classes de caractere em expressões regula-\nres, 247\n    operador ^= (XOR bit a bit e atribuição), 61, \n76–77\n    operador XOR bit a bit, 61, 69\noperador, (vírgula), 83–84\n{ } (chaves)\n    caracteres de escape em sintaxe de literal XML da \nE4X, 277\n    em    defi nições de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5304,
+    "totalChunks": 10000
+  }
+}

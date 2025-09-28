@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5040",
+  "content": "nteriormente.\nreadonly TimeRanges seekable\nO intervalo (ou intervalos) de tempos com que currentTime pode ser configurado. Ao se repro-\nduzir arquivos de mídia simples, normalmente esse é qualquer tempo entre 0 e duration. Mas \npara streaming de mídia, os tempos no passado não podem mais ser colocados no buffer e os \ntempos no futuro podem ainda não estar disponíveis.\nreadonly boolean seeking\nEssa propriedade é true enquanto o elemento de mídia está trocando para uma nova posição \nde reprodução currentTime. Se uma nova posição de reprodução já estiver no buffer, essa pro-\npriedade só vai ser",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5040,
+    "totalChunks": 10000
+  }
+}

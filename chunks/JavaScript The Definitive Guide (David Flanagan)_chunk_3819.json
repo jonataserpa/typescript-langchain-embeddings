@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3819",
+  "content": "WorkerGlobalScope não \ntem a propriedade sinônima window que os objetos Window têm.\n •   Os métodos de timer \nsetTimeout(), clearTimeout(), setInterval() e clearInterval().\n •   Uma propriedade \nlocation que descreve o URL passado para a construtora Worker(). Essa \npropriedade se refere a um objeto Location, exatamente como a propriedade location de um \nobjeto Window faz. O objeto Location tem propriedades href, protocol, host, hostname, port, \npathname, search e hash. Em um worker, essas propriedades são somente de leitura.\n •   Uma propriedade \nnavigator que se refere a um objeto com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3819,
+    "totalChunks": 10000
+  }
+}

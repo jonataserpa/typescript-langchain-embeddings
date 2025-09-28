@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1053",
+  "content": "ado em uma expres-\nsão de invocação de função. Todas as funções podem ser chamadas, mas nem todos os objetos que \npodem ser chamados são funções.\nOs objetos que podem ser chamados e que não são funções são encontrados em duas situações nas \nimplementações atuais de JavaScript . Primeiramente, o navegador Web IE (versão 8 e anteriores) \nimplementa métodos do lado do cliente, como \nWindow.alert() e Document.getElementsById(), usan-\ndo objetos hospedeiros que podem ser chamados, em vez de objetos Function nativos. Esses méto-\ndos funcionam da mesma maneira no IE e em outros navegadores, mas não",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1053,
+    "totalChunks": 10000
+  }
+}

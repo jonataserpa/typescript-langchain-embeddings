@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5302",
+  "content": "to à esquerda bit a bit e \natribuição), 61, 76–77\n    operador <= (menor ou igual a), 61, 72\n        substituindo o método compareTo( ), 217\n    operador > (maior que), 61, 72\n        substituindo o método compareTo( ), 217\n    operador >= (maior ou igual a), 61, 72\n        substituindo o método compareTo( ), 217\n    operador >> (deslocamento à direita bit a bit com \nextensão de sinal), 61, 69\n    operador >>= (deslocamento à direita bit a bit \ncom extensão de sinal e atribuição), 61, 76–77\n    operador >>> (deslocamento à direita bit a bit \ncom preenchimento zero), 61, 69\n    operador >>>=",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5302,
+    "totalChunks": 10000
+  }
+}

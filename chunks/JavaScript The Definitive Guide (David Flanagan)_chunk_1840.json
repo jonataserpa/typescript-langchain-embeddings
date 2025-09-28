@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1840",
+  "content": "entes servidores Web \ntêm origens diferentes. Documentos carregados por meio de portas diferentes do mesmo hospedeiro \ntêm origens diferentes. E um documento carregado com o protocolo \nhttp: tem uma origem diferen-\nte de um carregado com o protocolo\n https:, mesmo sendo provenientes do mesmo servidor Web.\nÉ importante entender que a origem do script em si é irrelevante para a política da mesma origem: \no que importa é a origem do documento no qual o script está incorporado. Suponha, por exemplo, \nque um script hospedado pelo host A seja incluído (usando-se a propriedade \nsrc de um elemento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1840,
+    "totalChunks": 10000
+  }
+}

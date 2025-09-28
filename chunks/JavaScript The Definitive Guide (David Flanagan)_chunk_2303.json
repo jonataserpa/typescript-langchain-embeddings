@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2303",
+  "content": "ta sem prefixo, mas o IE8 \nnão suportava, nem com prefixo.)\n\n406          Parte II     JavaScript do lado do cliente\nAo trabalhar com propriedades CSS que têm nomes diferentes nos diferentes navegadores, talvez \nvocê ache útil definir uma classe para elas:\n.radius10 {\n  border-radius: 10px; /* para navegadores atuais */\n   -moz-border-radius: 10px;    /* para o Firefox 3.x */\n   -webkit-border-radius: 10px;  /* Para o Safari 3.2 e 4 */\n}\nCom uma classe como essa definida, você pode adicionar “radius10” no atributo class de qualquer \nelemento para que ele tenha uma borda com raio de 10",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2303,
+    "totalChunks": 10000
+  }
+}

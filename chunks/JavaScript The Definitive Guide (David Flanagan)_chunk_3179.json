@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3179",
+  "content": "ing de dados contém \n\"=?\", o tipo é convertido para “jsonp”.\n\"jsonp\"\nÉ suposto que o URL se refere a um script no lado do servidor que suporta o protocolo JSONP, para \npassar dados formatados como JSON como argumento para uma função especificada pelo cliente. \n(Consulte a Seção 18.2 para mais informações sobre JSONP.) Esse tipo passa o objeto analisado para \na função callback. Como as requisições JSONP podem ser feitas com elementos \n<script>, esse tipo \npode ser usado para fazer requisições entre domínios, assim como acontece com o tipo “script”. Quan-\ndo você usa esse tipo, seu URL ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3179,
+    "totalChunks": 10000
+  }
+}

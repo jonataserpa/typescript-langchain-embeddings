@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3060",
+  "content": "m addEventListener() (Seção 17.2.3). O IE (até o IE9) não suporta rotinas de \ncaptura e a jQuery não tenta simular esse recurso.\n19.4.5   Anulando o registro de rotinas de tratamento de eventos\nDepois de registrar uma rotina de tratamento de evento com bind() (ou com qualquer um dos mé-\ntodos mais simples de registro de evento), você pode anular seu registro com unbind() para evitar \nque seja disparada por futuros eventos. (Note que unbind() só anula o registro de rotinas de trata-\n\n532          Parte II     JavaScript do lado do cliente\nmento de evento registradas com bind() e métodos jQuery",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3060,
+    "totalChunks": 10000
+  }
+}

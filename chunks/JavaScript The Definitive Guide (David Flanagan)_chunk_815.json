@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_815",
+  "content": "Excluir um elemento de array é semelhante a (mas sutilmente diferente de) atribuir undefined a esse \nelemento. Note que usar delete em um elemento de array não altera a propriedade length e não \ndesloca para baixo os elementos com índices mais altos, a fim de preencher a lacuna deixada pela \npropriedade excluída. Se um elemento de um array é excluído, o array se torna esparso.\nComo vimos, também é possível excluir elementos do final de um array, simplesmente configuran-\ndo a propriedade \nlength com o novo comprimento desejado. Os arrays têm um método pop() (ele \nfunciona com push()) que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 815,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4745",
+  "content": "ativa a esse \nelemento. O argumento \nposição deve ser uma das quatro strings a seguir:\n\n892          Parte IV     Referência de JavaScript do lado do cliente\nPosiçãoSignificado\nbeforebeginInsere o texto antes da tag de abertura\nafterendInsere o texto após a tag de fechamento\nafterbeginInsere o texto imediatamente após a tag de abertura\nbeforeendInsere o texto imediatamente antes da tag de fechamento\nElement querySelector(string seletores)\nRetorna o primeiro descendente desse elemento que corresponda aos seletores CSS especificados \n(pode ser um único seletor CSS ou um grupo de seletores",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4745,
+    "totalChunks": 10000
+  }
+}

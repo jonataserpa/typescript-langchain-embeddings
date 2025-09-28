@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_489",
+  "content": "como o operador instanceof (consulte a Seção \n4.9.4), o atributo class (consulte a Seção 6.8.2) ou a propriedade constructor (consulte a Seção 6.8.1 \ne a Seção 9.2.2).\nEmbora em JavaScript as funções sejam um tipo de objeto, o operador typeof as considera suficien-\ntemente diferentes para que tenham seus próprios valores de retorno. JavaScript faz uma distinção \nsutil entre funções e “objetos que podem ser chamados”. Todas as funções podem ser chamadas, mas \né possível ter um objeto que pode ser chamado – exatamente como uma função – que não seja uma \nfunção verdadeira. A especificação",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 489,
+    "totalChunks": 10000
+  }
+}

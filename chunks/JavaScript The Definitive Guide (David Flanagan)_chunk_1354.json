@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1354",
+  "content": "sidere a classe \nSet do Exemplo 9-6. Ela define uma única função construtora global \nSet. Ela define vários métodos \nde instância para a classe, mas os armazena como propriedades de \nSet.prototype, de modo que não \nsão globais. Esse exemplo também define uma função utilitária \n_v2s(), mas em vez de faze-la uma \nfunção global, ele a armazena como uma propriedade de \nSet.\nEm seguida, considere o Exemplo 9-16. Esse exemplo definiu várias classes de conjunto abstratas e \nconcretas. Cada classe tinha apenas um símbolo global, mas o módulo inteiro (o único arquivo de \n\nCapítulo 9     Classes e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1354,
+    "totalChunks": 10000
+  }
+}

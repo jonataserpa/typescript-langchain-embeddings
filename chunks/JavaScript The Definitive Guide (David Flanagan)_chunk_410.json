@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_410",
+  "content": "Esses \noperadores não são utilizados comumente em programação JavaScript e, caso você não conheça a \nrepresentação binária de inteiros decimais, provavelmente pode pular esta seção. Quatro desses ope-\nradores efetuam álgebra booleana nos bits individuais dos operandos, comportando-se como se cada \nbit de cada operando fosse um valor booleano (1=verdadeiro, 0=falso). Os outros três operadores bit \na bit são usados para deslocar bits à esquerda e à direita.\nOs operadores bit a bit esperam operandos inteiros e se comportam como se esses valores fossem \nrepresentados como inteiros de 32 bits, em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 410,
+    "totalChunks": 10000
+  }
+}

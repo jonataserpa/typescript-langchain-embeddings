@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1717",
+  "content": "código \ntem um valor de retorno\n undefined, o recurso não tem conteúdo.\nUm URL \njavascript: pode ser usado em qualquer lugar em que se usaria um URL normal: no \natributo \nhref de uma marcação <a>, no atributo action de um <form>, por exemplo, ou mesmo como \num argumento de um método como \nwindow.open(). Um URL JavaScript em um hiperlink poderia \nser como segue:\n<a href=\"javascript:new Date().toLocaleTimeString();\">\nWhat time is it?\n</a>\nAlguns navegadores (como o Firefox) executam o código do URL e utilizam a string retornada como \nconteúdo de um novo documento a exibir. Assim como acontece",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1717,
+    "totalChunks": 10000
+  }
+}

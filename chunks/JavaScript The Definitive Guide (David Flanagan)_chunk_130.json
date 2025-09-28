@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_130",
+  "content": "est();  // Inicia um novo pedido\n    req.open(\"GET\", url);           // Um pedido GET da HTTP para o url\n    req.send(null);       // Envia o pedido sem corpo\n    //        Antes de retornar, registra uma função de rotina de tratamento de evento que será\n  // chamada em um momento posterior, quando a resposta do servidor de HTTP chegar. \n // Esse tipo de programação assíncrona é muito comum em JavaScript do lado do \n// cliente.\n    req.onreadystatechange = function() {\n        if (req.readyState == 4 && req.status == 200) {\n            //        Se chegamos até aqui, obtivemos uma resposta",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 130,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3532",
+  "content": "icon.setAttribute(\"x\", lx);             // Posiciona o quadrado\n        icon.setAttribute(\"y\", ly + 30*i);\n        icon.setAttribute(\"width\", 20);          // Dimensiona o quadrado\n        icon.setAttribute(\"height\",    20);\n        icon.setAttribute(\"fill\", colors[i]);    // Mesma cor de preenchimento da fatia\n        icon.setAttribute(\"stroke\", \"black\");    // Mesmo contorno também.\n        icon.setAttribute(\"stroke-width\",    \"2\");\n        chart.appendChild(icon);                // Adiciona no gráfico\n        // E adiciona um rótulo à direita do retângulo\n        var label =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3532,
+    "totalChunks": 10000
+  }
+}

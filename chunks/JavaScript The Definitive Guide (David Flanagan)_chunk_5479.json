@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5479",
+  "content": "0\n    sem corpo de pedido, 484\nmétodo getAttribute( ), objeto Element, 889–890\nmétodo getContext( ), objeto Canvas, 616, 622\nmétodo getDate( ), objeto Date, 730\nmétodo getDay( ), objeto Date, 731\nmétodo getElementsByClassName( )\n    objeto Document, 358, 880\n    objeto Element, 890–891\nmétodo getElementsByName( ), objeto HTMLDo-\ncument, 355\nmétodo getElementsByTagName( )\n    objeto Document, 356, 880\n        selecionando formulários e elementos de for-\nmulário, 388\n    objeto Element, 890–891\nmétodo getElementsByTagNameNS( )\n    objeto Document, 880\n    objeto Element, 890–891\nmétodo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5479,
+    "totalChunks": 10000
+  }
+}

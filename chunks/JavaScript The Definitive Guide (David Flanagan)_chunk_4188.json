@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4188",
+  "content": "ca\nRetorna\nUma cópia codificada de \ns na qual certos caracteres foram substituídos por sequências de escape \nhexadecimais.\nDescrição\nescape() é uma função global. Ela retorna uma nova string contendo uma versão codificada de s. A \nstring s em si não é modificada.\nescape() retorna uma string na qual todos os caracteres de s que não sejam letras, dígitos e os carac-\nteres de pontuação @, *, _, +, -, . e / ASCII tenham sido substituídos por sequências de escape da \nforma % xx ou %u xxxx (onde x representa um dígito hexadecimal). Os caracteres Unicode \\u0000 a \\\nu00ff\n são substituídos pela",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4188,
+    "totalChunks": 10000
+  }
+}

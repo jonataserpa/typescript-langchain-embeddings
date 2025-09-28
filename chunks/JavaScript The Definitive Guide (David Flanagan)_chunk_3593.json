@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3593",
+  "content": "orme o necessário para caber nas dimensões de tela especificadas pelos atribu-\ntos CSS. O tamanho do elemento canvas na tela não afeta o número de pixels CSS ou de hardware \nreservados no mapa de bits do canvas e o ajuste feito em uma operação de mudança de escala de uma \nimagem. Se as dimensões na tela são significativamente maiores do que as dimensões reais do canvas, \nisso resulta em elementos gráficos pixelizados. Isso é um problema para designers gráficos e não afeta \na programação do canvas.\n21.4.4   Transformações de sistema de coordenadas\nConforme mencionado anteriormente, o sistema",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3593,
+    "totalChunks": 10000
+  }
+}

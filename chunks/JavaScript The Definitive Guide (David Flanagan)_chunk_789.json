@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_789",
+  "content": "to mais rápido \ndo que o acesso às propriedades de objetos normais.\nOs arrays herdam propriedades de \nArray.prototype, que define um conjunto rico de métodos de \nmanipulação de array, abordados na Seção 7.8 e na Seção 7.9. A maioria desses métodos é genérica, \nou seja, funcionam corretamente não apenas para verdadeiros arrays, mas para qualquer “objeto \nsemelhante a um array”. Vamos discutir os objetos semelhantes a um array na Seção 7.11. Em EC-\nMAScript 5, as strings se comportam como arrays de caracteres. Vamos discutir isso na Seção 7.12.\n7.1   Criando   arrays\nA maneira mais fácil de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 789,
+    "totalChunks": 10000
+  }
+}

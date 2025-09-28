@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1486",
+  "content": "áveis declaradas com let são definidas \nsomente dentro do bloco circundante mais próximo (e qualquer bloco aninhado dentro dele, é cla-\nro). Se você declara uma variável com let dentro do corpo de um laço, por exemplo, ela não existe \nfora do laço:\nfunction oddsums(n) {\n    let total = 0, result=[];       // Definida por toda a função\n    for(let x = 1; x <= n; x++) {    // x é definida apenas no laço\n        let odd = 2*x-1;            // odd definida apenas neste laço\n        total += odd;\n        result.push(total);\n }\n    // Usar x ou odd aqui causaria um ReferenceError\n    return",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1486,
+    "totalChunks": 10000
+  }
+}

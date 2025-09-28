@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4957",
+  "content": "s argumentos, \nconfigura a propriedade nomeada do objeto data de todos os elementos selecionados com o \nvalor especificado. Com um argumento objeto, substitui o objeto data de todos os elementos \nselecionados.\nhasClass(nome):boolean\nRetorna true se qualquer um dos elementos selecionados inclui nome em seu atributo class.\nheight():int\nheight(h)\nheight(f(ind,atual):int)\nRetorna a altura (não incluindo preenchimento, borda ou margem) do primeiro elemento \nselecionado ou configura a altura de todos os elementos selecionados como \nh ou com o valor \ncalculado pela chamada de \nf como método de cada",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4957,
+    "totalChunks": 10000
+  }
+}

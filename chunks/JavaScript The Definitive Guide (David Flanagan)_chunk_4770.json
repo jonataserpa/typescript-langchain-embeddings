@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4770",
+  "content": "ue\n<output>for, form, name\n<param>name, value\n<progress>value, max, form\n<q>cite\n<script>src, async, defer, type, charset\n<select>autofocus, disabled, form, multiple, name, required, size\n<source>src, type, media\n<style>media, type, scoped\n<table>summary\n<td>colspan, rowspan, headers\n<textarea>autofocus, cols, disabled, form, maxlength, name, placeholder, readonly, required, rows, wrap\n<th>colspan, rowspan, headers, scope\n<time>datetime, pubdate\n<track>default, kind, label, src, srclang\n<video>src, poster, preload, autoplay, loop, controls, width, height\nErrorEvent\numa exceção não capturada",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4770,
+    "totalChunks": 10000
+  }
+}

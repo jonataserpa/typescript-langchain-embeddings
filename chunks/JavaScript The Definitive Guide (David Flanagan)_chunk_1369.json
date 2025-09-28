@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1369",
+  "content": "u código \npode ser adicionado no prefixo. No Exemplo 9-24, usamos o nome “invocation” (chamada) para en-\nfatizar que a função seria chamada imediatamente após ser definida. O nome “namespace” também \npoderia ser usado para enfatizar que a função estava servindo como um espaço de nomes.\nUma vez que o código do módulo tenha sido selado dentro de uma função, ele precisa de uma forma \nde exportar sua API pública, para que ela possa ser usada fora da função módulo. No Exemplo 9-24, \na função módulo retornou a construtora, a qual atribuímos então a uma variável global. O fato de \no valor ser",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1369,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_860",
+  "content": "3 });     // [2, 1]\neveryother = a.filter(function(x,i) { return i%2==0 });   // [5, 3, 1]\nNote que filter() pula elementos ausentes em arrays esparsos e que seu valor de retorno é sempre \ndenso. Para fechar as lacunas de um array esparso, você pode fazer o seguinte:\nvar dense = sparse.filter(function() { return true; });\nE para fechar as lacunas e remover elementos indefinidos e nulos, você pode usar filter como segue:\na = a.filter(function(x) { return x !== undefined && x != null; });\n7.9.4   every() e some()\nOs métodos every() e some() são predicados de array: eles aplicam uma função de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 860,
+    "totalChunks": 10000
+  }
+}

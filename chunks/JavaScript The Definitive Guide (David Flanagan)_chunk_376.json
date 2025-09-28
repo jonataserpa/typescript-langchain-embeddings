@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_376",
+  "content": "2\nstr,str→str\n<<Desloca para a esquerdaE    2\nint,int→int\n>>Desloca para a direita com \nextensão de sinal\nE2\nint,int→int\n>>>Desloca para a direita com \nextensão zero\nE2\nint,int→int\n<, <=,>, >=        Compara em ordem numérica       E    2\nnum,num→bool\n<, <=,>, >=        Compara em ordem alfabética     E    2\nstr,str→bool\ninstanceofTesta classe de objetoE    2\nobj,fun→bool\ninTesta se a propriedade existe   E    2\nstr,obj→bool\n==Testa a igualdadeE    2\nqualquer,qualquer→bool\n!=Testa a desigualdadeE    2\nqualquer,qualquer→bool\n===Testa a igualdade restrita      E",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 376,
+    "totalChunks": 10000
+  }
+}

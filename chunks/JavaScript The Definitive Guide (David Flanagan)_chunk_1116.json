@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1116",
+  "content": "verdadeiro: a propriedade constructor especifica a classe\nA Figura 9-1 ilustra essa relação entre a função construtora, seu objeto protótipo, a referência de \nvolta do protótipo para a construtora e as instâncias criadas com a construtora.\nConstrutoraProtótipoInstâncias\nRange()\nnew Range(1,2)\nnew Range(3,4)\nprototype\nconstructor\nincludes: ...\nforeach: ...\ntoString: ...\nherda\nherda\nFigura 9-1 Uma função construtora, seu protótipo e instâncias.\nObserve que a Figura 9-1 usa nossa construtora Range() como exemplo. Na verdade, contudo, a \nclasse Range definida no Exemplo 9-2 sobrescreve com um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1116,
+    "totalChunks": 10000
+  }
+}

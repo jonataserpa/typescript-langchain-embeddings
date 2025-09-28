@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1167",
+  "content": "que ela só funciona com \npontos extremos numéricos.\nComo outro exemplo, lembre-se da discussão sobre objetos semelhantes a um array na Seção 7.11. \nEm muitas circunstâncias, não precisamos saber se um objeto é uma instância verdadeira da classe \nArray: é suficiente saber que ele tem uma propriedade inteira não negativa \nlength. A existência de \nlength com valor inteiro mostra como os arrays caminham, poderíamos dizer, e qualquer objeto que \ncaminhe dessa maneira pode (em muitas circunstâncias) ser tratado como um array.\nLembre-se,  contudo,  de  que  a  propriedade  \nlength de  arrays  reais",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1167,
+    "totalChunks": 10000
+  }
+}

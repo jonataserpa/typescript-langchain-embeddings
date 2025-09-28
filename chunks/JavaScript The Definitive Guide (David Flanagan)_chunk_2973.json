@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2973",
+  "content": "res de estilo, css() retorna valores numéricos como strings, com sufixos de unida-\ndes incluídos. No entanto, ao configurar, ele converte números em strings e adiciona nelas um sufixo \n“px” (pixels), quando necessário:\n$(\"h1\").css(\"font-weight\");            // Obtém a espessura da fonte do primeiro <h1>\n$(\"h1\").css(\"fontWeight\");             // Letras maiúsculas no meio também funcionam\n$(\"h1\").css(\"font\");          // Erro: não pode consultar estilos compostos\n$(\"h1\").css(\"font-variant\",            // Configura um estilo em todos os elementos <h1>",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2973,
+    "totalChunks": 10000
+  }
+}

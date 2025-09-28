@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1556",
+  "content": "anto, essa sintaxe abreviada é espe-\ncialmente conveniente ao se passar funções para outras funções. Por exemplo:\n// Classifica um array em ordem numérica inversa\ndata.sort(function(a,b) b-a);\n// Define uma função que retorna a soma dos quadrados de um array de dados\nlet sumOfSquares = function(data)\n    Array.reduce(Array.map(data, function(x) x*x), function(x,y) x+y);\n3\n  O Rhino não implementava esse recurso quando este livro estava sendo produzido.\n\n276          Parte     I     JavaScript     básica\n11.6   Cláusulas catch múltiplas\nEm JavaScript 1.5, a instrução try/catch foi estendida",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1556,
+    "totalChunks": 10000
+  }
+}

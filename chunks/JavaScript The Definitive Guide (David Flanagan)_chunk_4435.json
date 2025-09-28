@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4435",
+  "content": "var protocol = result[1];          // Contém \"http\"\n    var host = result[2];              // Contém \"www.isp.com\"\n    var path = result[3];              // Contém \"~david\"\n}\nConsulte também\nRegExp, RegExp.exec(), RegExp.test(), String.replace(), String.search(); Capítulo 10\nString.replace()\nsubstitui substring(s) correspondente(s) a uma expressão regular\nSinopse\nstring.replace(expreg, substituição)\nArgumentos\nexpreg\nO objeto RegExp especificando o padrão a ser substituído. Se esse argumento é uma string, \nele é usado como um padrão de texto literal a ser procurado; não é primeiramente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4435,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_330",
+  "content": "inida em toda parte, \nela não é inicializada até que a instrução var seja executada. Assim, a função anterior é equivalente à \nseguinte, na qual a declaração da variável é “içada” para o topo e a inicialização da variável é deixada \nonde está:\nfunction f() {\n    var scope;        // A variável local é declarada no topo da função\n    console.log(scope);         // Ela existe aqui, mas ainda tem valor \"indefinido\"\n    scope = \"local\";   // Agora a inicializamos e fornecemos a ela um valor\n    console.log(scope);         // E aqui ela tem o valor que esperamos\n}\nNas linguagens de programação com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 330,
+    "totalChunks": 10000
+  }
+}

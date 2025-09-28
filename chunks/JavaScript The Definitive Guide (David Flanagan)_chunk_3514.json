@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3514",
+  "content": "oi atingido.\ndurationchange\nA propriedade duration mudou.\nvolumechange\nA propriedade volume ou muted mudou.\nratechange\nplaybackRate\n ou defaultPlaybackRate mudou.\nabort\nO elemento parou de carregar dados, normalmente a pedido do usuário. error.code é \nMEDIA_ERR_ABORTED.\nerror\nUm erro da rede ou outro erro impediu que os dados da mídia fossem carregados. error.\ncode é um valor diferente de MEDIA_ERR_ABORTED.\nemptied\nUm erro ou cancelamento fez networkState voltar a NETWORK_EMPTY.\n\n608          Parte II     JavaScript do lado do cliente\n21.3    SVG: Scalable Vector Graphics (Gráficos Vetoriais",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3514,
+    "totalChunks": 10000
+  }
+}

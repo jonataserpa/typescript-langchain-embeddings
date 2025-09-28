@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5495",
+  "content": "TextArea,    979\nmétodo send( )\n    geradores,    273\n    objeto    WebSocket,    984\n    objeto XMLHttpRequest, 484, 1000\nmétodo serialize( ), 548\nmétodo set( ), objeto TypedArray, 674, 981\nmétodo setAttribute( ), objeto Element, 891–892\nmétodo setAttributeNS( ), objeto Element, 892–893\nmétodo setCapture( ) (IE), 456\nmétodo setDate( ), objeto Date, 737\nmétodo setFloat32( ), objeto DataView, 874\nmétodo setFloat64( ), objeto DataView, 875\nmétodo setFullYear( ), objeto Date, 737\nmétodo setHours( ), objeto Date, 738\nmétodo setInt16( ), objeto DataView, 875\n\n1034          Índice\nmétodo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5495,
+    "totalChunks": 10000
+  }
+}

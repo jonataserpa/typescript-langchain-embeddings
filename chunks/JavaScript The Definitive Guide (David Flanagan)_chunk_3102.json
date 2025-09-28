@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3102",
+  "content": "ing” na página, o usuário poderá clicar \nnele para desabilitar as animações.\n\n538          Parte II     JavaScript do lado do cliente\nOs efeitos da jQuery são assíncronos. Quando você chama um método de animação como fadeIn(), \nele retorna imediatamente e a animação é feita “em segundo plano”. Como os métodos de animação \nretornam antes que a animação esteja terminada, o segundo argumento (também opcional) de mui-\ntos métodos de efeito da jQuery é uma função que será chamada quando o efeito estiver concluído. \nA função não recebe argumento algum, mas o valor de\n this é configurado como o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3102,
+    "totalChunks": 10000
+  }
+}

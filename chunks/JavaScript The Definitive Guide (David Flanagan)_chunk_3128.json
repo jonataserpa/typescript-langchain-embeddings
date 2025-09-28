@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3128",
+  "content": "// enquanto a opacidade está sendo animada com a função de abrandamento padrão \"swing\"\n// Um modo de fazer isso:\n// Usar a opção specialEasing para especificar funções de abrandamento personalizadas\n$(\"img\").animate({ width:\"hide\", height:\"hide\", opacity:\"hide\" },\n                { specialEasing: { width: \"linear\", height: \"linear\" }});\n// Outro modo de fazer isso:\n// Passar arrays [target value, easing function] no primeiro argumento objeto.\n$(\"img\").animate({\n    width: [\"hide\", \"linear\"], height: [\"hide\", \"linear\"], opacity:\"hide\"\n});\n“função de abrandamento” que faz o mapeamento de uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3128,
+    "totalChunks": 10000
+  }
+}

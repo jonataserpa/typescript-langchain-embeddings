@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1741",
+  "content": "para scripts em linha, mas se o \ncódigo-fonte do script está em um arquivo externo especificado com um atributo src, isso significa \nque as partes do documento que vêm após o script não vão aparecer no navegador até que o script \ntenha sido baixado e executado.\nEssa execução de script síncrona ou com bloqueio é apenas o padrão. A marcação \n<script> pode ter \natributos defer e async, os quais (nos navegadores que os suportam) fazem os scripts serem executa-\ndos de forma diferente. Esses atributos são booleanos – eles não têm um valor; apenas precisam estar \npresentes na marcação <script>.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1741,
+    "totalChunks": 10000
+  }
+}

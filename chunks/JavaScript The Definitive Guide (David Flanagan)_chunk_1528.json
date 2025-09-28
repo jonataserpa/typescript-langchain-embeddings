@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1528",
+  "content": "-chave \nyield (mesmo que yield não possa ser alcançada) é \numa função geradora. As funções geradoras retornam valores com yield. Elas podem usar a instru-\nção return sem valor algum, para terminar antes de chegarem no fim do corpo da função, mas não \npodem usar return com um valor. A não ser pelo uso de yield e por essa restrição a respeito do uso \nde return, não dá para distinguir as funções geradoras das funções normais: elas são declaradas com \na palavra-chave \nfunction, o operador typeof retorna “função” e elas herdam de Function.prototype, \nexatamente como as funções normais. Entretanto,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1528,
+    "totalChunks": 10000
+  }
+}

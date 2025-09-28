@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_199",
+  "content": "exemplo:\n0377     // 3*64 + 7*8 + 7 = 255 (base 10)\nComo algumas implementações aceitam literais em octal e algumas não, você nunca deve escrever \num literal inteiro com um zero à esquerda; nesse caso, não dá para saber se uma implementação vai \ninterpretá-la como um valor octal ou decimal. No modo restrito de ECMAScript 5 (Seção 5.7.3), os \nliterais em octal são proibidos explicitamente.\n3.1.2   Literais em ponto flutuante\nOs literais em ponto flutuante podem ter um ponto decimal; eles usam a sintaxe tradicional dos \nnúmeros reais. Um valor real é representado como a parte inteira do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 199,
+    "totalChunks": 10000
+  }
+}

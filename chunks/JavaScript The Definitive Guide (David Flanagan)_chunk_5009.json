@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5009",
+  "content": "ay\nRetorna um novo array de JavaScript contendo os mesmos elementos do objeto semelhante a \num array a.\njQuery.map(a, f(elt, ind)):array\nRetorna um novo array contendo os valores retornados por f quando chamada para cada ele-\nmento do array (ou objeto semelhante a um array) a. Valores de retorno null são ignorados e \nos arrays retornados são achatados.\njQuery.merge(a,b):array\nAnexa os elementos do array b em a e retorna a. Os argumentos podem ser objetos semelhantes \na um array ou arrays verdadeiros.\njQuery.noConflict([radical=false])\nRestaura o símbolo $ ao seu valor antes que a biblioteca",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5009,
+    "totalChunks": 10000
+  }
+}

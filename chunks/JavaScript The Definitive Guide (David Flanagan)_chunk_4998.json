@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4998",
+  "content": "s jQuery e o objeto XMLHttpRequest usado no pedido. Esse \nobjeto XMLHttpRequest, se houver, também é o valor de retorno de jQuery.get().\njQuery.post(url, [dados], [f(dados,status,xhr)], [tipo]):XMLHttpRequest\nÉ como jQuery.get(), mas faz uma requisição HTTP POST, em vez de um pedido GET.\njQuery.param(o, [antigo=false]):string\nSerializa os nomes e valores das propriedades de o na forma www-form-urlencoded, convenien-\nte para adição em um URL ou para passar como corpo de uma requisição HTTP POST. A \nmaioria das funções Ajax da jQuery vai fazer isso automaticamente, se você passar um objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4998,
+    "totalChunks": 10000
+  }
+}

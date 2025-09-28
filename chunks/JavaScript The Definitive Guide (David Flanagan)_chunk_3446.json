@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3446",
+  "content": "entação de PermaNote consiste em três \narquivos. O Exemplo 20-5 é o manifesto da cache. Ele lista os outros dois arquivos e especifica que \no URL “note” não deve ser colocado na cache: esse é o URL que usamos para ler e gravar a anotação \nno servidor.\nExemplo 20-5 permanote.appcache\nCACHE MANIFEST\n# PermaNote v8\npermanote.html\npermanote.js\nNETWORK:\nnote\nO Exemplo 20-6 é o segundo arquivo de PermaNote: trata-se de um arquivo HTML que define \numa interface com o usuário para um editor muito simples. Ela exibe um elemento <textarea> com \numa fileira de botões na parte superior e uma linha de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3446,
+    "totalChunks": 10000
+  }
+}

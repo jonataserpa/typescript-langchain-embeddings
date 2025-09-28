@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4439",
+  "content": "pecifica que o argumento substituição de replace() pode ser uma função, em vez \nde uma string. Nesse caso, a função é chamada para cada coincidência e a string retornada é usada \ncomo texto substituto. O primeiro argumento da função é a string que coincide com o padrão. Os \nargumentos seguintes são as strings que coincidem com quaisquer subexpressões entre parênteses \ndentro do padrão – pode haver zero ou mais desses argumentos. O argumento seguinte é um inteiro \nespecificando a posição dentro de string onde a coincidência ocorreu e o último argumento da fun-\nção substituição é a própria",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4439,
+    "totalChunks": 10000
+  }
+}

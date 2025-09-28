@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1970",
+  "content": "entWindow;\nwin.frameElement === elt        // Sempre true para quadros\nwindow.frameElement === null    // Para janelas de nível superior\nContudo, em geral não é necessário usar o método getElementById() e a propriedade contentWindow \npara obter referências para os quadros filhos de uma janela. Todo objeto Window tem uma proprie-\ndade frames que se refere aos quadros filhos contidos dentro da janela ou quadro. A propriedade \nframes se refere a um objeto semelhante a um array que pode ser indexado numericamente ou pelo \nnome do quadro. Para se referir ao primeiro quadro filho de uma janela,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1970,
+    "totalChunks": 10000
+  }
+}

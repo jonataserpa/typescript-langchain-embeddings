@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1011",
+  "content": "interno. A primeira coisa a entender é que os dois métodos \ncompartilham o acesso à variável privada n. A segunda é entender que cada chamada de counter() cria \num novo encadeamento de escopo e uma nova variável privada. Portanto, se você chama counter() \nduas vezes, obtém dois objetos contadores com diferentes variáveis privadas. Chamar count() ou \nreset() em um objeto contador não tem efeito algum no outro.\nVale notar aqui que é possível combinar essa técnica de closure com propriedades getters e setters. A \nversão da função \ncounter() a seguir é uma variação do código que apareceu na Seção",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1011,
+    "totalChunks": 10000
+  }
+}

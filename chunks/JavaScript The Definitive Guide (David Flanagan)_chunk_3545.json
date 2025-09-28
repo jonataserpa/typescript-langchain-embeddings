@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3545",
+  "content": "00\">\n    <defs>  <!-- Define um filtro para sombras projetadas -->\n     <filter id=\"shadow\" x=\"-50%\" y=\"-50%\" width=\"200%\" height=\"200%\">\n        <feGaussianBlur in=\"SourceAlpha\" stdDeviation=\"1\" result=\"blur\" />\n        <feOffset in=”blur” dx=”1” dy=”1” result=”shadow” />\n        <feMerge>\n         <feMergeNode in=”SourceGraphic”/><feMergeNode in=”shadow”/>\n        </feMerge>\n        </filter>\n    </defs>\n    <circle id=\"face\" cx=\"50\" cy=\"50\" r=\"45\"/> <!-- o mostrador do relógio -->\n    <g id=\"ticks\">         <!-- marcas de tique de 12 horas -->\n      <line x1='50' y1='5.000' x2='50.00'",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3545,
+    "totalChunks": 10000
+  }
+}

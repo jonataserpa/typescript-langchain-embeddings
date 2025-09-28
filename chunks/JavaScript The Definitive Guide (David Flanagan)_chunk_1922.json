@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1922",
+  "content": "egador. O primeiro argu-\nmento é o URL que especifica o conteúdo HTML da caixa de diálogo. O segundo argumento é \num valor arbitrário (arrays e objetos são permitidos) que vai se tornar disponível para scripts na \ncaixa de diálogo como o valor da propriedade window.dialogArguments. O terceiro argumento é \numa lista não padronizada de pares nome=valor separados com pontos e vírgulas que, se supor-\ntado, podem configurar o tamanho ou outros atributos da caixa de diálogo. Use “dialogwidth” e \n“dialogheight” para configurar o tamanho da janela de diálogo e use “resizable=yes” para permi-\ntir que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1922,
+    "totalChunks": 10000
+  }
+}

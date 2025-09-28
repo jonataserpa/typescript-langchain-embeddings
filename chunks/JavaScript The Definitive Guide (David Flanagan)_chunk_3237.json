@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3237",
+  "content": "do trim() acrescido de strings em ES5. Ela espera uma string como \nseu único argumento e retorna uma cópia dessa string com espaços em branco à direita e à \nesquerda removidos.\n19.8   Seletores jQuery e métodos de seleção\nAo longo deste capítulo, estivemos usando a função de seleção da jQuery, $(), com seletores CSS \nsimples. Agora é hora de estudarmos a gramática de seletor da jQuery em profundidade, junto com \nvários métodos para refinar e aumentar o conjunto de elementos selecionados.\n19.8.1   Seletores   jQuery\nA jQuery suporta um subconjunto bastante completo da gramática de seletor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3237,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5094",
+  "content": "na árvore de documentos, é removido dela e então reinserido em sua nova posi-\nção. Se novoFilho é um nó DocumentFragment, ele próprio não é inserido; em vez disso, cada um de \nseus filhos é inserido, em ordem, no local especificado.\nboolean isDefaultNamespace(string namespace)\nRetorna true se o URL do namespace especificado é o mesmo URL do namespace padrão retornado \npor lookupNamespaceURI(null) e false, caso contrário.\nboolean isEqualNode(Node outro)\nRetorna true se esse nó e outro são idênticos, com tipo, nome de tag, atributos e (recursivamente) \nfilhos iguais. Retorna false se os dois",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5094,
+    "totalChunks": 10000
+  }
+}

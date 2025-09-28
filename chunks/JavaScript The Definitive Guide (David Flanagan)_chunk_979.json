@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_979",
+  "content": "propriedade da função, em vez de \ncongestionar o espaço de nomes definindo uma variável global. Por exemplo, suponha que se queira \nescrever uma função que ao ser chamada, retorne um inteiro único. A função nunca deve retornar o \nmesmo valor duas vezes. Para conseguir isso, a função precisa monitorar os valores que já retornou \ne essa informação deve persistir entre as chamadas de função. Você poderia armazenar essa informa-\nção em uma variável global, mas isso é desnecessário, pois a informação é usada apenas pela própria \nfunção. É melhor armazená-la em uma propriedade do objeto Function.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 979,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_95",
+  "content": "icas básicas de pesquisa e modificação de documentos:\n// Exibe uma mensagem em uma seção de saída de depuração especial do documento.\n// Se o documento não contém esta seção, cria uma.\nfunction debug(msg) {\n    //        Localiza a seção de depuração do documento, examinando os atributos de\n    // identificação HTML\n    var log = document.getElementById(\"debuglog\");\n\n10          Capítulo     1     Introdução     a     JavaScript\n    // Se não existe elemento algum com a identificação \"debuglog\", cria um.\n    if (!log) {\n        log = document.createElement(\"div\"); // Cria um novo elemento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 95,
+    "totalChunks": 10000
+  }
+}

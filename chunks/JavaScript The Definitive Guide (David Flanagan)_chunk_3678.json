@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3678",
+  "content": "e não no sistema de coordenadas padrão.\nO Exemplo 21-9 é uma demonstração simples de \ndrawImage(). Ele usa a versão de nove argumentos \npara copiar pixels de uma parte de um canvas e desenhá-los, ampliados e rotacionados, de volta no \n2\n  Quando este livro estava sendo escrito, a versão 5 do navegador Chrome da Google fazia isso errado e transformava os \ndeslocamentos de sombra.\n\n642          Parte II     JavaScript do lado do cliente\nmesmo canvas. Como você pode ver na Figura 21-15, a imagem é ampliada o suficiente para ser \npixelizada. Você pode ver os pixels translúcidos usados para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3678,
+    "totalChunks": 10000
+  }
+}

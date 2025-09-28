@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_248",
+  "content": "qualquer valor falso \n(como \nnull ou undefined). A instrução if apropriada para seu programa depende de quais valores \nvocê espera atribuir para \no. Se você precisa diferenciar null de 0 e \"\", então deve utilizar uma com-\nparação explícita.\nOs valores booleanos têm um método \ntoString() que pode ser usado para convertê-los nas strings \n“true” ou “false”, mas não possuem qualquer outro método útil. Apesar da API trivial, existem três \noperadores booleanos importantes.\nO operador \n&& executa a operação booleana E. Ele é avaliado como um valor verdadeiro se, e so-\nmente se, seus dois operandos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 248,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1521",
+  "content": "throw    StopIteration;\n                  return val++;            // Caso contrário, retorna o próximo e incrementa.\n   }\n            };\n  }\n    };\n}\n// Aqui está como podemos iterar em um intervalo:\nfor(let i in range(1,10)) console.log(i);        // Imprime números de 1 a 10\nNote  que,  embora  seja  necessário  escrever  um  método  __iterator__() e  lançar  uma  exceção  \nStopIteration para criar objetos iteráveis e seus iteradores, não é preciso (no uso normal) chamar o \nmétodo __iterator__() nem tratar da exceção StopIteration – o laço for/in faz isso para você. Se, \n\n270",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1521,
+    "totalChunks": 10000
+  }
+}

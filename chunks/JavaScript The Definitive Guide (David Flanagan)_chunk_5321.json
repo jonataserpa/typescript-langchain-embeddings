@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5321",
+  "content": "360\nAPI userData (IE), 574\nAPI Web Storage, 443, 573, 690\nAPI XMLHttpRequest, 480\n    Partes básicas e versão preliminar Level 2 (XHR2), \n481\nAPIs de armazenamento de dados para aplicativos \nWeb, 303\nAPIs gráfi cas para aplicativos Web, 303\naplicação parcial de funções, 183, 189–191\naplicativos Web, 12\n    calculadora de empréstimos (exemplo), 12–18\n    JavaScript em, 302\n    off -line, 594–598\naplicativos Web off -line, 574, 594–598\n    armazenamento de aplicativos e, 587\n    eventos,    443\napóstrofos, 36\n (consulte também ‘ ’ (aspas, simples), sob Símbo-\nlos)\n    fazendo o em strings com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5321,
+    "totalChunks": 10000
+  }
+}

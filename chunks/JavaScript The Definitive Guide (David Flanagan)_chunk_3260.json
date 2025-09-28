@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3260",
+  "content": "dentro de um <div class=\"note\">\nNote que as combinações de seletor não estão limitadas a dois deles: três ou mais seletores também \nsão permitidos. As combinações de seletor são processadas da esquerda para a direita.\n19.8.1.3   Grupos de seletores\nUm grupo de seletores, que é o tipo de seletor que passamos para $() (ou usamos em uma folha de \nestilo), é simplesmente uma lista de um ou mais seletores simples ou combinações de seletor sepa-\nradas com vírgulas. Um grupo de seletores corresponde a todos os elementos que coincidem com \nqualquer uma das combinações de seletor do grupo. Para nossos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3260,
+    "totalChunks": 10000
+  }
+}

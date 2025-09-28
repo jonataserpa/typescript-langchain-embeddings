@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1439",
+  "content": "sos. Consulte a entrada String.split() na Parte III para ver os \ndetalhes completos.\n10.3   O objeto RegExp\nConforme mencionado no início deste capítulo, as expressões regulares são representadas como \nobjetos RegExp. Além da construtora\n RegExp(), os objetos RegExp suportam três métodos e várias \npropriedades. Os métodos e propriedades de comparação de padrões de RegExp estão descritos nas \nduas próximas seções.\nA construtora RegExp() recebe um ou dois argumentos de string e cria um novo objeto RegExp. O \nprimeiro argumento dessa construtora é uma string que contém o corpo da expressão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1439,
+    "totalChunks": 10000
+  }
+}

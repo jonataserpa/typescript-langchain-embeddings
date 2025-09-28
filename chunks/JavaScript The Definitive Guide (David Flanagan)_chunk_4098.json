@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4098",
+  "content": "oordinated Universal Time) – que é similar a GMT [Greenwich Mean Time]). \nConsulte o método estático Date.UTC() para ver uma alternativa.\nDate() também pode ser chamado como uma função, sem o operador new. Quando chamado dessa \nmaneira, Date() ignora qualquer argumento passado a ele e retorna uma representação de string da \ndata e hora atuais.\nArgumentos\nmilissegundos\nO número de milissegundos entre a data desejada e a meia-noite de 1º de janeiro de 1970 \n(UTC). Por exemplo, passar o argumento 5000 cria uma data que representa cinco segundos \napós a meia-noite de 1/1/70.\nstringdata\nUm único",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4098,
+    "totalChunks": 10000
+  }
+}

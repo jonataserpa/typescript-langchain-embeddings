@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1215",
+  "content": "vezes você pode simplesmente comparar as propriedades constructor para \ncertificar-se de que os dois objetos são do mesmo tipo e, então, comparar as propriedades de ins-\ntância dos dois objetos para certificar-se de que elas têm os mesmos valores. A classe Complex no \nExemplo 9-3 tem um método equals() desse tipo, sendo que podemos escrever um semelhante \npara a classe Range facilmente:\n\n216          Parte     I     JavaScript     básica\n// A classe Range sobrescreveu sua propriedade constructor. Portanto, a adiciona agora.\nRange.prototype.constructor = Range;\n// Um Range não é igual a nada",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1215,
+    "totalChunks": 10000
+  }
+}

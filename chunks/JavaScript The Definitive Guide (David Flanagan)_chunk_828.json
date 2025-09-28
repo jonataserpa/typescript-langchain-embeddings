@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_828",
+  "content": "sa o array multidimensional para calcular 5*7\nvar product = table[5][7];      // 35\n7.8   Métodos de array\nECMAScript 3 define várias funções de manipulação de array úteis em Array.prototype, isso quer \ndizer que elas estão disponíveis como método de qualquer array. Esses métodos de ECMAScript 3 \nsão apresentados nas subseções a seguir. Como sempre, os detalhes completos podem ser encontra-\ndos em Array na seção de referência do lado do cliente. ECMAScript 5 acrescenta novos métodos de \niteração em arrays; esses métodos são abordados na Seção 7.9.\n\nCapítulo     7     Arrays",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 828,
+    "totalChunks": 10000
+  }
+}

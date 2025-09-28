@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_500",
+  "content": "javascript: no lado do cliente, onde ele permite \navaliar os efeitos colaterais de uma expressão sem que o navegador mostre o valor da expressão ava-\nliada. Por exemplo, você poderia usar o operador void em uma marca <a> de HTML, como segue:\n<a href=\"javascript:void window.open();\">Open New Window</a>\n\n84          Parte     I     JavaScript     básica\nEvidentemente, esse código HTML poderia ser escrito de forma mais limpa usando-se uma rotina \nde tratamento de evento onclick, em vez de um URL javascript:, sendo que, nesse caso, o operador \nvoid não seria necessário.\n4.13.5   O operador",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 500,
+    "totalChunks": 10000
+  }
+}

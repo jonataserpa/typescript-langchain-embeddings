@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_220",
+  "content": "//    (PST)\"\nlater.toUTCString()          // => \"Sábado, 02 de janeiro de 2010, 01:10:30 GMT\"\nlater.toLocaleDateString()   // => \"01/01/2010\"\nlater.toLocaleTimeString()   // => \"05:10:30 PM\"\nlater.toISOString()          // => \"2010-01-02T01:10:30.000Z\"; somente ES5\n3.2   Texto\nUma string é uma sequência ordenada imutável de valores de 16 bits, cada um dos quais normal-\nmente representa um caractere Unicode – as strings são um tipo de JavaScript usado para representar \ntexto. O comprimento de uma string é o número de valores de 16 bits que ela contém. As strings (e \nseus",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 220,
+    "totalChunks": 10000
+  }
+}

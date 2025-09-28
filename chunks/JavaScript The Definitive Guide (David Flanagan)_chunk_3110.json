@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3110",
+  "content": "se estão visíveis, chama hide(). Assim como em show() e hide(), você deve \npassar uma duração ou um objeto opções para \ntoggle() a fim de obter um efeito animado. \nPassar \ntrue para toggle() é o mesmo que chamar show() sem argumentos e passar false é o \nmesmo que chamar \nhide() sem argumentos. Note também que, se você passa dois ou mais \nargumentos de função para \ntoggle(), ele registra rotinas de tratamento de evento, conforme \ndescrito na Seção 19.4.1.\nslideDown(), slideUp(), slideToggle()\nslideUp() oculta os elementos do objeto jQuery, animando suas alturas para 0 e depois con-\nfigurando",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3110,
+    "totalChunks": 10000
+  }
+}

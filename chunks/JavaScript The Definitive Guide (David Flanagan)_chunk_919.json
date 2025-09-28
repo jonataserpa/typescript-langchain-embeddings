@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_919",
+  "content": "ão de método. Esse caso vai ser explicado em seguida. O código \na seguir contém várias expressões de chamada de função normais:\nprintprops({x:1});\nvar total = distance(0,0,2,1) + distance(2,1,3,5);\nvar probability = factorial(5)/factorial(13);\nEm uma chamada, cada expressão de argumento (aquelas entre os parênteses) é avaliada e os valores \nresultantes se tornam os argumentos da função. Esses valores são atribuídos aos parâmetros nomea-\ndos na definição da função. No corpo da função, uma referência a um parâmetro é avaliada com o \nvalor do argumento correspondente.\nPara uma chamada de função",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 919,
+    "totalChunks": 10000
+  }
+}

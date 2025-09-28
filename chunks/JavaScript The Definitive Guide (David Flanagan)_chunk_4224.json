@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4224",
+  "content": ". Por exemplo, você \nvai encontrar detalhes sobre a função parseInt() debaixo de parseInt() e não de Global.parseInt():\ndecodeURI()\nDecodifica uma string cujo escape foi feito com encodeURI().\ndecodeURIComponent()\nDecodifica uma string cujo escape foi feito com encodeURIComponent().\nencodeURI\nCodifica um URI fazendo o escape de certos caracteres.\nencodeURIComponent\nCodifica um componente de URI fazendo o escape de certos caracteres.\nescape()\nCodifica uma string substituindo certos caracteres por sequências de escape.\neval()\nAvalia uma string de código JavaScript e retorna o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4224,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_688",
+  "content": "então esse método setter é chamado, em vez \nde criar uma nova propriedade x em o. Note, entretanto, que o método setter é chamado no objeto \no e não no objeto protótipo que define a propriedade; portanto, se o método setter define qualquer \npropriedade, ele vai fazer isso em o e, novamente, vai deixar o encadeamento de protótipos intacto.\n\n120          Parte     I     JavaScript     básica\n6.2.3   Erros de acesso à propriedade\nAs expressões de acesso à propriedade nem sempre retornam ou configuram um valor. Esta seção \nexplica o que pode dar errado ao se consultar ou configurar uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 688,
+    "totalChunks": 10000
+  }
+}

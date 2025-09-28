@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3617",
+  "content": "te de um \ncírculo, deixando a extremidade do arco como o novo ponto atual. O arco a ser desenhado \né especificado com seis parâmetros: as coordenadas X e Y do centro de um círculo, o raio do \ncírculo, os ângulos inicial e final do arco e a direção (sentido horário ou anti-horário) do arco \nentre esses dois ângulos.\narcTo()\nEste método desenha uma linha reta e um arco circular exatamente como o método arc(), mas \nespecifica o arco a ser desenhado usando parâmetros diferentes. Os argumentos de arcTo() \nespecificam pontos P1 e P2 e um raio. O arco adicionado ao caminho tem o raio especificado \ne",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3617,
+    "totalChunks": 10000
+  }
+}

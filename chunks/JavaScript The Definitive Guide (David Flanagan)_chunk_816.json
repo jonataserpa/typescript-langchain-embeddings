@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_816",
+  "content": "length com o novo comprimento desejado. Os arrays têm um método pop() (ele \nfunciona com push()) que reduz o comprimento de um array de 1, mas também retorna o valor do \nelemento excluído. Existe ainda um método shift() (que faz par com unshift()) para remover um \nelemento do início de um array. Ao contrário de delete, o método shift() desloca todos os elemen-\ntos para um índice uma unidade menor do que seu índice atual. pop() e shift() são abordados na \nSeção 7.8 e na seção de referência.\nPor fim, \nsplice() é o método de uso geral para inserir, excluir ou substituir elementos de um array.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 816,
+    "totalChunks": 10000
+  }
+}

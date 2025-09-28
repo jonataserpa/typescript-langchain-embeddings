@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3987",
+  "content": "//\n        // Surpreendentemente, o Serviço Postal dos EUA não torna esses dados\n   // disponíveis gratuitamente, de modo que utilizamos dados de código postal \n// desatualizados de:\n        //    http://mappinghacks.com/2008/04/28/civicspace-zip-code-database/\n        // Usamos XMLHttpRequest para baixar os dados. Mas use os novos eventos\n        // onload e onprogress da XHR2 para processá-los, quando isso chegar\n\n696          Parte II     JavaScript do lado do cliente\n        var xhr = new XMLHttpRequest();          // Um XHR para baixar os dados\n        xhr.open(\"GET\", \"zipcodes.csv\");",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3987,
+    "totalChunks": 10000
+  }
+}

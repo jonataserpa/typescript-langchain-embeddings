@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1462",
+  "content": "a impor a obediência ao subconjunto The Good Parts. Além de garantir \nque seu código utilize somente os recursos permitidos, a ferramenta JSLint também impõe regras de \nestilo de codificação, como o recuo correto.\nO livro de Crockford foi escrito antes que o modo restrito de ECMAScript 5 fosse definido, mas \nmuitas das “partes ruins” de JavaScript que o autor procura desencorajar em seu livro são proibidas \npelo uso do modo restrito. Com a adoção do padrão ECMAScript 5, a ferramenta JSLint agora exige \nque os programas incluam uma diretiva “use strict” quando a opção “The Good Parts” é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1462,
+    "totalChunks": 10000
+  }
+}

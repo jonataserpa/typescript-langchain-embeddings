@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_884",
+  "content": "ível chamar métodos de array diretamente neles, nem esperar comportamento especial da proprie-\ndade\n length, você ainda pode iterar por eles com o mesmo código que usaria para um array verdadei-\nro. Constata-se que muitos algoritmos de array funcionam tão bem com objetos semelhantes a um \n\nCapítulo     7     Arrays          155\nJavaScript básica\narray como funcionariam com arrays reais. Isso é especialmente verdade se seus algoritmos tratam \no array como somente para leitura ou se pelo menos deixam o comprimento do array inalterado.\nO código a seguir pega um objeto normal, adiciona",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 884,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5223",
+  "content": "ao objeto global.\nConstrutoras\nComo objeto global de JavaScript do lado do cliente, o objeto Window deve definir todas as cons-\ntrutoras globais do ambiente do lado do cliente. Embora não sejam listadas aqui, todas as constru-\ntoras globais documentadas nesta seção de referência são propriedades do objeto Window. O fato de \nJavaScript do lado do cliente definir construtoras Image() e XMLHttpRequest(), por exemplo, significa \nque todo objeto Window tem propriedades chamadas Image e XMLHttpRequest.\nMétodos\nO objeto Window define os métodos a seguir e também herda todas as funções globais",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5223,
+    "totalChunks": 10000
+  }
+}

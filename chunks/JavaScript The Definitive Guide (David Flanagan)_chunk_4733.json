@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4733",
+  "content": "xels, de um elemento. Quando um elemento tem barras \nde rolagem (por causa do atributo CSS overflow, por exemplo), essas propriedades diferem \nde offsetHeight e offsetWidth, que simplesmente informam o tamanho da parte visível do \nelemento.\nlong scrollLeft\nlong scrollTop\nO número de pixels que rolaram para fora da margem esquerda ou da margem superior do \nelemento. Essas propriedades são úteis apenas para elementos com barras de rolagem, como os \n\n890          Parte IV     Referência de JavaScript do lado do cliente\nelementos com o atributo CSS overflow configurado como auto. Quando essas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4733,
+    "totalChunks": 10000
+  }
+}

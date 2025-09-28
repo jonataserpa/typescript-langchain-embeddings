@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3344",
+  "content": "meros de 0 a length-1 para o método key(). Aqui estão alguns exemplos \nusando \nlocalStorage. O mesmo código funcionaria usando sessionStorage em seu lugar:\nlocalStorage.setItem(\"x\", 1);   // Armazena um número com o nome \"x\"\nlocalStorage.getItem(\"x\");      // Recupera um valor\n// Enumera todos os pares nome/valor armazenados\nfor(var i = 0; i < localStorage.length; i++) {   // O comprimento fornece o nº de pares\n    var name = localStorage.key(i);              // Obtém o nome do par i\n    var value = localStorage.getItem(name);      // Obtém o valor desse par\n}\nlocalStorage.removeItem(\"x\");",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3344,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5226",
+  "content": "o como resultado. Em alguns \nnavegadores e/ou plataformas, esse método pode não ter efeito algum.\n\n      Referência de JavaScript do lado do cliente      989\nReferência de \nJavaScript do lado \ndo cliente\nstring btoa(string bparaa)\nEssa função utilitária aceita uma string binária de JavaScript (na qual cada caractere representa um \nbyte) como argumento e retorna sua codificação base64. Use String.fromChar Code() para criar uma \nstring binária a partir de uma sequência arbitrária de valores de byte. Consulte também atob().\nvoid clearInterval(long alça)\nclearInterval() interrompe a execução",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5226,
+    "totalChunks": 10000
+  }
+}

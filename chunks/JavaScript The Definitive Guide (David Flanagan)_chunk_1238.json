@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1238",
+  "content": "ontinue;     // pula prop especial.\n            if (!this.hasOwnProperty(name)) continue;    // pula herdadas\n            if (this[name] !== that[name]) return false; // compara valores\n  }\n        return true;  // Se todas as propriedades coincidiram, os objetos são iguais.\n }\n};\n\n220          Parte     I     JavaScript     básica\n9.6.6   Estado   privado\nNa programação orientada a objetos clássica, frequentemente é um objetivo encapsular ou ocultar o \nestado de um objeto dentro do objeto, permitindo o acesso a esse estado somente por meio dos mé-\ntodos do objeto, possibilitando assim que as",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1238,
+    "totalChunks": 10000
+  }
+}

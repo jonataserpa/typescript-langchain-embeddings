@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_221",
+  "content": "to. O comprimento de uma string é o número de valores de 16 bits que ela contém. As strings (e \nseus arrays) de JavaScript utilizam indexação com base em zero: o primeiro valor de 16 bits está na \nposição 0, o segundo na posição 1 e assim por diante. A string vazia é a string de comprimento 0. \nJavaScript não tem um tipo especial que represente um único elemento de uma string. Para repre-\nsentar um único valor de 16 bits, basta usar uma string que tenha comprimento 1.\nCaracteres, posições de código e strings em JavaScript\nJavaScript  usa  a  codificação  UTF-16  do  conjunto  de  caracteres",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 221,
+    "totalChunks": 10000
+  }
+}

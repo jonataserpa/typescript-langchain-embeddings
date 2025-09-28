@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_545",
+  "content": "eak utilizada no final de cada case no código anterior. A instrução bre-\nak, descrita posteriormente neste capítulo, faz o interpretador pular para o final (ou “escapar”) da \ninstrução switch e continuar na instrução seguinte. As cláusulas case em uma instrução switch espe-\ncificam apenas o ponto de partida do código desejado; elas não especificam ponto final algum. Na \nausência de instruções break, uma instrução switch começa a executar seu bloco de código no rótulo \ncase correspondente ao valor de sua expressão e continua a executar as instruções até atingir o final \n\n94          Parte",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 545,
+    "totalChunks": 10000
+  }
+}

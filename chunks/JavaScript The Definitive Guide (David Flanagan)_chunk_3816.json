@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3816",
+  "content": "ódigo (e todos os scripts importados) de forma síncrona, de cima para \nbaixo,  e  então  entram  em  uma  fase  assíncrona,  na  qual  respondem  a  eventos  e  timers.  Se  um  worker  \nregistrar uma rotina de tratamento de evento \nonmessage, não será encerrado enquanto houver uma pos-\nsibilidade de que ainda possam chegar eventos mensagem. Mas se um worker não capta mensagens, \nserá executado até que não existam mais tarefas pendentes (como download e timers) e todas as funções \ncallback relacionadas a tarefas sejam chamadas. Uma vez que todas as funções callback registradas se-\njam",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3816,
+    "totalChunks": 10000
+  }
+}

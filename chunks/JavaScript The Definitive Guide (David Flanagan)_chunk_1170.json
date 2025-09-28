@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1170",
+  "content": "a ser projetada para aceitar qualquer \nobjeto que tivesse métodos corrida(), natação() e ciclismo(). Outra opção seria refazer nossa classe \nRange de modo que, em vez de usar os operadores < e ++, ela usasse os métodos compareTo() e succ() \n(sucessor) de seus objetos ponto das extremidades.\nUma estratégia para a tipagem do pato é laissez-faire: simplesmente supomos que nossos objetos de \nentrada implementam os métodos necessários e não fazemos verificação alguma. Se a suposição for \ninválida, vai ocorrer um erro quando nosso código tentar chamar um método inexistente. Outra \nestratégia faz a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1170,
+    "totalChunks": 10000
+  }
+}

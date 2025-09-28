@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5545",
+  "content": "rors, 55, 813–814\nobjeto RegExp, 38, 245, 255, 813–820\n    como objeto que pode ser chamado, 186\n    método exec( ), 256, 571, 815–816\n    método test( ), 257, 818–819\n    método toString( ), 818–819\n    propriedade lastIndex, 817–818\n    propriedade source, 817–818\n    propriedades,    256\n    propriedades de instância, 814–815\nobjeto Screen, 339, 968\nobjeto Selection, 398\nobjeto Storage, 971–972\nobjeto StorageEvent, 972–973\nobjeto Style, 973–974\nobjeto SyntaxError, 836–837\n    lançado no modo restrito ao se excluir proprieda-\ndes, 122\nobjeto Table, 974–975\n\n1042          Índice\nobjeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5545,
+    "totalChunks": 10000
+  }
+}

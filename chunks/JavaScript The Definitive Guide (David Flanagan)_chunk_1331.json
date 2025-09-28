@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1331",
+  "content": "ect.freeze(enumeration.values);\nObject.freeze(enumeration);\nObserve que, chamando Object.freeze() no tipo enumeração, impedimos o futuro uso da pro-\npriedade objectId definida no Exemplo 9-17. Uma solução para esse problema é ler a propriedade \nobjectId (chamando o método de acesso subjacente e configurando a propriedade interna) do tipo \nenumeração uma vez, antes de congelá-la.\n9.8.5   Subclasses e ECMAScript 5\nO Exemplo 9-22 demonstra como fazer subclasses usando recursos de ECMAScript 5. Ele define \numa classe StringSet como uma subclasse da classe AbstractWritableSet do Exemplo 9-16. A",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1331,
+    "totalChunks": 10000
+  }
+}

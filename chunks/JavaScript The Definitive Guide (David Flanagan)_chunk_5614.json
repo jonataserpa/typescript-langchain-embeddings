@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5614",
+  "content": "idity, 916\npropriedade top\n    objeto ClientRect, 864\n    objeto Window, 347, 988\npropriedade total, ProgressEvent, 495, 968\npropriedade type\n    elemento Select, 393\n    elementos de formulário, 387, 390\n    eventos,    434\n    objeto Blob, 847\n    objeto CSSRule, 870\n    objeto CSSStyleSheet, 871\n    objeto Event, 902–903\n    objeto FormControl, 914\n    objeto Script, 969\n    objeto Style, 973–974\n\nÍndice          1053\npropriedade typeMismatch, objeto FormValidity, \n916\npropriedade types, objeto DataTransfer, 465, \n882–883\npropriedade upload, objeto XMLHttpRequest, 495, \n999\npropriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5614,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4644",
+  "content": "s que especificam duas operações, os nomes de operação sempre aparecem em \nordem alfabética.)\n\n      Referência de JavaScript do lado do cliente      873\nReferência de \nJavaScript do lado \ndo cliente\nreadonly File[] files\nSe os dados que estão sendo arrastados correspondem a um ou mais arquivos, essa propriedade \nserá configurada como um array ou um objeto semelhante a um array de objetos File.\nreadonly string[] types\nEsse é um objeto semelhante a um array de strings que especificam os tipos MIME dos dados \nque foram armazenados nesse objeto DataTransfer (com setData(), caso a origem do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4644,
+    "totalChunks": 10000
+  }
+}

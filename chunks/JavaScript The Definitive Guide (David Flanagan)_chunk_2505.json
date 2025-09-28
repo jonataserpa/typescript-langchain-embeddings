@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2505",
+  "content": "nível: eles são disparados quando uma tecla \n(mesmo uma tecla modificadora) é pressionada ou solta. Quando um evento keydown gera um \ncaractere imprimível, um evento keypress adicional é disparado após keydown, mas antes de keyup. \n(No caso de uma tecla mantida pressionada até que ele se repita, pode haver muitos eventos keypress \nantes do evento keyup.) keypress é um evento de texto de nível mais alto e seu objeto evento especi-\nfica o caractere gerado e não a tecla pressionada.\nOs eventos keydown, keyup e keypress são suportados por todos os navegadores, mas existem alguns \nproblemas de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2505,
+    "totalChunks": 10000
+  }
+}

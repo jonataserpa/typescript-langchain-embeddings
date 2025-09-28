@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2528",
+  "content": "ados como eventos de mouse. Esta seção explica de forma sucinta \nos eventos de gesto e toque gerados pelo Safari ao ser executado em dispositivos iPhone e iPad da \nApple e também aborda o evento orientationchange gerado quando o usuário gira o dispositivo. \nQuando este livro estava sendo escrito não havia padrões para esses eventos, mas o W3C tinha \ncomeçado a trabalhar em uma “Especificação de Eventos de Toque” que utilizava o evento de \ntoque da Apple como ponto de partida. Esses eventos não estão documentados na seção de refe-\nrência deste livro, mas é possível encontrar mais informações",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2528,
+    "totalChunks": 10000
+  }
+}

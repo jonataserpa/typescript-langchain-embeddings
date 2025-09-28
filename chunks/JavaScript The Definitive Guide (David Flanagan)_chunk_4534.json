@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4534",
+  "content": "l da cor como inteiros decimais entre 0 e \n255, e A especifica o componente alfa (opacidade) como um valor em ponto flutuante entre 0,0 \n(totalmente transparente) e 1,0 (totalmente opaco). Por exemplo, vermelho vivo meio transparente \né “rgba(255,0,0,0.5)”.\nLargura, terminações e junções de linha\nCanvas define várias propriedades que especificam como as linhas são traçadas. Você pode especifi-\ncar a largura da linha com a propriedade lineWidth, como os pontos finais das linhas são desenhados, \ncom a propriedade lineCap, e como as linhas são unidas, usando a propriedade lineJoin.\nDesenhando",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4534,
+    "totalChunks": 10000
+  }
+}

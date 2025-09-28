@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5393",
+  "content": "73\nelementos Text e Textarea, formulários, 390\nelementos<img>, 599\n    exibindo imagens SVG, 608\n    transporte Ajax e, 479\nemprestando métodos, 218\nencadeamento de construtoras, 222\n    de subclasse para superclasse, 225–227\nencadeamento de métodos, 164\n    de subclasse para superclasse, 225–227\nencadeamento de protótipos, 115\nencadeando, construtora e método, de subclasse na \nsuperclasse, 225–227\nencadeando métodos, 164\nencapsulamento\n    estado de objeto, em ECMAScript 5, 235\n    variáveis de estado, 220\nentrada do usuário\n    eventos de texto, 469\n fi ltrando, 469–471\nenumerando",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5393,
+    "totalChunks": 10000
+  }
+}

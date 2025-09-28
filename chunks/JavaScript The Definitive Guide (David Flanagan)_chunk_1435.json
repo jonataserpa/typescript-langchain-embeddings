@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1435",
+  "content": "match() retorna um array mesmo quando não faz \numa pesquisa global. Nesse caso, o primeiro elemento do array é a string coincidente e quaisquer \n\nCapítulo 10     Comparação de padrões com expressões regulares      255\nJavaScript básica\nelementos restantes são as subexpressões da expressão regular colocadas entre parênteses. Assim, se \nmatch() retorna um array a, a[0] contém a correspondência completa, a[1] contém a substring que \ncorrespondeu à primeira expressão colocada entre parênteses e assim por diante. Traçando um para-\nlelo com o método\n replace(), a[ n ] possui o conteúdo de $ n.\nPor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1435,
+    "totalChunks": 10000
+  }
+}

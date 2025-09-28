@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2370",
+  "content": "elemento. \nA palavra-chave \nauto também pode ser usada para qualquer um dos quatro valores, a fim de especi-\nficar que a margem da região de corte é igual à margem correspondente da caixa do elemento. Por \nexemplo, é possível exibir apenas os 100 pixels mais à esquerda de um elemento com o seguinte \natributo style:\nstyle=\"clip: rect(auto 100px auto auto);\"\nNote que não existem vírgulas entre os valores e que as margens da região de corte são especificadas \nno sentido horário a partir da margem superior. Para desativar o corte, configure a propriedade clip \ncomo auto.\n16.2.7   Exemplo: janelas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2370,
+    "totalChunks": 10000
+  }
+}

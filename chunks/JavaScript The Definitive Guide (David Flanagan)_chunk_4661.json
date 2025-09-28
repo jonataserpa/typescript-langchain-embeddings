@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4661",
+  "content": "MLDocu-\nment() de DOMImplementation:\ndocument.implementation.createHTMLDocument(\"New Doc\");\nTambém é possível carregar um arquivo HTML ou XML da rede e analisá-lo em um objeto Docu-\nment. Consulte a propriedade \nresponseXML do objeto XMLHttpRequest.\nA entrada de referência de HTMLDocument, que aparecia nas versões anteriores deste livro, foi \nmesclada nesta página. Note que algumas das propriedades, métodos e rotinas de tratamento de \nevento descritos aqui são específicos de HTML e não vão funcionar em documentos XML.\nPropriedades\nAlém das propriedades listadas aqui, você também pode usar o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4661,
+    "totalChunks": 10000
+  }
+}

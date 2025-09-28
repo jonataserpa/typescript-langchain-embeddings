@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_568",
+  "content": "a avaliada \ncomo lvalue (Seção 4.7.3) ou uma instrução var que declare uma única variável – deve ser algo \napropriado para o lado esquerdo de uma expressão de atribuição. objeto é uma expressão avaliada \ncomo um objeto. Como sempre, instrução é a instrução ou bloco de instruções que serve como \ncorpo do laço.\nÉ fácil usar um laço \nfor normal para iterar pelos elementos de um array:\nfor(var i = 0; i < a.length; i++)    // Atribui índices do array à variável i\n    console.log(a[i]);     // Imprime o valor de cada elemento do array\nO laço for/in torna fácil fazer o mesmo para as propriedades de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 568,
+    "totalChunks": 10000
+  }
+}

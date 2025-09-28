@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2811",
+  "content": "back) // Quando a resposta está completa\n              callback(request);          // chama a função callback.\n     };\n     request.setRequestHeader(\"Content-Type\",      // Configura Content-Type\n                              \"application/x-www-form-urlencoded\");\n     request.send(encodeFormData(data));           // Envia dados codificados como formulário\n}\nDados de formulário também podem ser submetidos usando GET, e quando o propósito do \nformulário de submissão é fazer uma consulta apenas de leitura, GET é mais apropriado que \nPOST. Os pedidos GET nunca têm corpo, de modo que a “carga",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2811,
+    "totalChunks": 10000
+  }
+}

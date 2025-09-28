@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4936",
+  "content": "o jQuery representando os elementos do documento que são descen-\ndentes de contexto e correspondem à string seletora sel.\njQuery(elts)\nRetorna um novo objeto jQuery representando os elementos especificados. elts pode ser um \núnico elemento do documento ou um array ou objeto semelhante a um array (como um No-\ndeList ou outro objeto jQuery) de elementos do documento.\njQuery(html, [props])\nAnalisa html  como  uma  string  de  texto  formatado  em  HTML  e  retorna  um  novo  objeto  \njQuery contendo um ou mais elementos de nível superior da string. Se html descreve uma \núnica tag HTML, props",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4936,
+    "totalChunks": 10000
+  }
+}

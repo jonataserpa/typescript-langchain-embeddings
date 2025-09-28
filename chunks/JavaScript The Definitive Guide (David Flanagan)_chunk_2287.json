@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2287",
+  "content": "o, alinhamento de texto, \ntamanho do elemento e posição do elemento. Para definir a aparência visual de elementos HTML, \nespecificamos o valor das propriedades CSS. Para fazer isso, coloque dois-pontos e um valor após o \nnome da propriedade:\nfont-weight: bold\nPara descrever completamente a apresentação visual de um elemento, em geral precisamos especi-\nficar o valor de mais de uma propriedade. Quando vários pares nome:valor são exigidos, eles são \nseparados por pontos e vírgulas:\nmargin-left: 10%;     /* a margem esquerda tem 10% da largura da página */\ntext-indent: .5in;    /* recua por 1/2",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2287,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4571",
+  "content": "1, y1)\nEsse método cria e retorna um novo objeto CanvasGradient que interpola as cores entre o ponto ini-\ncial (x0,y0) e o ponto final (x1,y1) linearmente. Note que esse método não especifica qualquer cor \npara o gradiente. Para isso, use o método addColorStop() do objeto retornado. Para traçar linhas ou \npreencher áreas usando um degradê, atribua a um objeto CanvasGradient as propriedades strokeS-\ntyle ou fillStyle.\nCanvasPattern createPattern(Element imagem, string repetição)\nEsse método cria e retorna um objeto CanvasPattern representando o padrão definido por uma \nimagem disposta lado a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4571,
+    "totalChunks": 10000
+  }
+}

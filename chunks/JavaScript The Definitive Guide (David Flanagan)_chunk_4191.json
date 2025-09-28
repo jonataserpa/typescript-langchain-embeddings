@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4191",
+  "content": "código não é código JavaScript válido. Se a avaliação de código lança \num erro, eval() propaga esse erro.\n\n      Referência de JavaScript básica      757\nReferência de \nJavaScript básica\nDescrição\neval() é um método global que avalia uma string de código JavaScript. Se código contém uma \nexpressão, eval avalia a expressão e retorna seu valor. (Algumas expressões, como objetos e funções \nliterais, parecem instruções e devem ser colocadas entre parênteses quando passadas para eval() a \nfim de solucionar a ambiguidade.) Se código contém uma ou mais instruções JavaScript, eval() \nexecuta essas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4191,
+    "totalChunks": 10000
+  }
+}

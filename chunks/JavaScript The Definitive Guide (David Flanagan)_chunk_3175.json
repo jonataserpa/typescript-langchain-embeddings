@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3175",
+  "content": "para jQuery.get() ou jQuery.\npost()\n. Além disso, conforme vamos ver a seguir, pode passar um desses tipos para jQuery.ajax() usan-\ndo a opção\n dataType:\n\"text\"\nRetorna a resposta do servidor como texto puro, sem processamento.\n\"html\"\nEsse tipo funciona exatamente como “text”: a resposta é texto puro. O método load() usa esse tipo e \ninsere o texto retornado no próprio documento.\n\n550          Parte II     JavaScript do lado do cliente\n19.6.3   A função jQuery.ajax()\nTodos os utilitários Ajax da jQuery acabam chamando jQuery.ajax() – a função mais complicada de \ntoda a biblioteca.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3175,
+    "totalChunks": 10000
+  }
+}

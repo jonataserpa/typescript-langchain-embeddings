@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4817",
+  "content": "viados.\nunsigned short CLOSED = 2\nA conexão foi fechada porque close() foi chamado ou porque ocorreu um erro fatal e não é \npossível conectar novamente.\nPropriedades\nreadonly unsigned short readyState\nO estado da conexão. As constantes anteriores definem os valores possíveis.\nreadonly string url\nO URL absoluto no qual EventSource está conectado.\nMétodos\nvoid close()\nEsse método fecha a conexão. Uma vez que esse método seja chamado, o objeto EventSource não \npode mais ser usado. Caso precise conectar novamente, crie um novo objeto EventSource.\nRotinas de tratamento de evento\nA comunicação pela",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4817,
+    "totalChunks": 10000
+  }
+}

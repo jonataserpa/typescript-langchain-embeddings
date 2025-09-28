@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_676",
+  "content": "JavaScript     básica\nPor outro lado, ao se acessar uma propriedade de um objeto com a notação de array [], o nome da \npropriedade é expresso como uma string. As strings são tipos de dados de JavaScript, de modo que \npodem ser manipuladas e criadas enquanto um programa está em execução. Assim, por exemplo, \nvocê pode escrever o seguinte código em JavaScript:\nvar addr = \"\";\nfor(i = 0; i < 4; i++)\n    addr += customer[\"address\" + i] + '\\n';\nEsse código lê e concatena as propriedades address0, address1, address2 e address3 do objeto customer.\nEsse breve exemplo demonstra a flexibilidade do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 676,
+    "totalChunks": 10000
+  }
+}

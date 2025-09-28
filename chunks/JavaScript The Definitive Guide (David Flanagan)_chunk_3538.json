@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3538",
+  "content": "pieChart([12, 23, 34, 45], 640, 400, 200, 200, 150,\n                                ['red','blue','yellow','green'],\n                     ['North','South', 'East', 'West'], 400, 100));\n      \">\n</body>\n</html>\nO Exemplo 21-3 é outra amostra de script SVG: ele usa SVG para exibir um relógio analógico. (Veja \na Figura 21-4.) Contudo, em vez de construir dinamicamente a árvore de elementos SVG a partir do \nzero, ele começa com uma imagem SVG estática de um relógio, incorporada na página HTML. Esse \nelemento gráfico estático contém dois elementos SVG <line> que representam o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3538,
+    "totalChunks": 10000
+  }
+}

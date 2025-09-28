@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5037",
+  "content": "u não. Os valores válidos estão listados na seção \nConstantes anterior.\nreadonly boolean paused\ntrue se a reprodução está em pausa no momento.\ndouble playbackRate\nA velocidade de reprodução atual. 1,0 é a reprodução normal. Valores maiores do que 1.0 são \navanço rápido. Valores entre 0 e 1,0 são movimento lento. Valores menores do que 0 reprodu-\nzem a mídia para trás. (A mídia fica sempre muda quando reproduzida para trás e também vai \nficará quando reproduzida de forma especialmente rápida ou lenta.)\nreadonly TimeRanges played\nOs intervalos de tempo que foram reproduzidos.\nstring",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5037,
+    "totalChunks": 10000
+  }
+}

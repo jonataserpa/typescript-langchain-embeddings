@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4966",
+  "content": "nd(conteúdo)\nappend(f(ind,html):content)\nAnexa conteúdo em cada elemento selecionado ou chama f como método de (e anexa seu valor \nde retorno em) cada elemento selecionado.\nappendTo(alvo):jQuery\nAnexa os elementos selecionados no fim de cada elemento alvo especificado, clonando-os \nconforme for necessário, se houver mais de um alvo.\nbefore(conteúdo)\nbefore(f(ind):content)\nÉ como after(), mas faz as inserções antes dos elementos selecionados, em vez de depois deles.\nclone([dados=false]):jQuery\nFaz uma cópia profunda de cada um dos elementos selecionados e retorna um novo objeto \njQuery",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4966,
+    "totalChunks": 10000
+  }
+}

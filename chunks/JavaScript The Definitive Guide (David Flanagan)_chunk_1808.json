@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1808",
+  "content": "/ Testa esse método W3C antes de usá-lo\n    element.addEventListener(\"keydown\", handler, false);\n    element.addEventListener(\"keypress\", handler, false);\n}\nelse if (element.attachEvent) {  // Testa esse método IE antes de usá-lo\n    element.attachEvent(\"onkeydown\",    handler);\n    element.attachEvent(\"onkeypress\",    handler);\n}\nelse {  // Caso contrário, recorre a uma técnica suportada universalmente\n    element.onkeydown = element.onkeypress = handler;\n}\nO importante a respeito da técnica de teste de recurso é que resulta em código não vinculado a uma \nlista específica de fornecedores ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1808,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_351",
+  "content": "e propriedade e elemento. Os inicializadores de array têm uma \nsintaxe um pouco mais simples e vamos começar com eles.\nUm inicializador de array é uma lista de expressões separadas com vírgulas e contidas em colchetes. \nO valor de um inicializador de array é um array recém-criado. Os elementos desse novo array são \ninicializados com os valores das expressões separadas com vírgulas:\n[]         // Um array vazio: nenhuma expressão dentro dos colchetes significa nenhum\n                  //      elemento\n[1+2,3+4]  // Um array de 2 elementos. O primeiro elemento é 3, o segundo é 7\n\n58",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 351,
+    "totalChunks": 10000
+  }
+}

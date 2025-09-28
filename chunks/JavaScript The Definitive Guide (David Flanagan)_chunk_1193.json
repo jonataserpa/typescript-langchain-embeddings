@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1193",
+  "content": "lores enumerados herdam deste objeto.\n    var proto = enumeration.prototype = {\n        constructor: enumeration,                        // Identifica o tipo\n        toString: function() { return this.name; },       // Retorna o nome\n        valueOf: function() { return this.value; },       // Retorna o valor\n\n212          Parte     I     JavaScript     básica\n        toJSON: function() { return this.name; } // Para serialização\n    };\n    enumeration.values = [];    // Um array dos objetos value enumerados\n    // Agora cria as instâncias desse novo tipo.\n    for(name in namesToValues) {",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1193,
+    "totalChunks": 10000
+  }
+}

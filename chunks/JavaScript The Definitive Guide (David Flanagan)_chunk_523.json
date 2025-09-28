@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_523",
+  "content": "o 4.3. Ela também pode ser usada em forma de instrução. Considere as duas funções \na seguir:\nvar f = function(x) { return x+1; }  // Expressão atribuída a uma variável\nfunction f(x) { return x+1; }       // A instrução inclui nome de variável\nUma instrução de declaração de função tem a seguinte sintaxe:\nfunction nomefun([arg1 [, arg2 [..., argn]]]) {\n    instruções\n}\nnomefun é um identificador que dá nome à função que está sendo declarada. O nome da função é \nseguido por uma lista separada com vírgulas de nomes de parâmetro entre parênteses. Esses iden-\ntificadores podem ser usados dentro do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 523,
+    "totalChunks": 10000
+  }
+}

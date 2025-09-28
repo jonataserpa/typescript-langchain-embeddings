@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_832",
+  "content": "é chamado sem argumentos, ele classifica os elementos do array em ordem alfabética (conver-\ntendo-os temporariamente em strings para fazer a comparação, se necessário):\nvar a = new Array(\"banana\", \"cherry\", \"apple\");\na.sort();\nvar s = a.join(\", \"); // s == \"apple, banana, cherry\"\nSe um array contém elementos indefinidos, eles são classificados no final do array.\nPara classificar um array em alguma ordem diferente da alfabética, deve-se passar uma função de \ncomparação como argumento para \nsort(). Essa função decide qual de seus dois argumentos deve \naparecer primeiro no array classificado. Se",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 832,
+    "totalChunks": 10000
+  }
+}

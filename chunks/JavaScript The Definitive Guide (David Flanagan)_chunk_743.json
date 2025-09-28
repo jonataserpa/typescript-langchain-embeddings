@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_743",
+  "content": "neProperties() \nretorna o objeto modificado (como acontece com Object.defineProperty()).\n\n130          Parte     I     JavaScript     básica\nVimos o método Object.create() de ECMAScript 5 na Seção 6.1. Aprendemos ali que o primeiro \nargumento desse método é o objeto protótipo do objeto recém-criado. Esse método também aceita \num segundo argumento opcional, que é o mesmo segundo argumento de \nObject.defineProper-\nties()\n. Se você passa um conjunto de descritores de propriedade para Object.create(), eles são \nusados para adicionar propriedades no objeto recém-criado.\nObject.defineProperty() e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 743,
+    "totalChunks": 10000
+  }
+}

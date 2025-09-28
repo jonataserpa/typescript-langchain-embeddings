@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_526",
+  "content": "s instruções de declaração de função podem aparecer em código JavaScript de nível superior ou \nestar aninhadas dentro de outras funções. Quando aninhadas, contudo, as declarações de função só \npodem aparecer no nível superior da função dentro da qual estão aninhadas. Isto é, definições de \nfunção não podem aparecer dentro de instruções if, laços while ou qualquer outra instrução. Por \ncausa dessa restrição sobre onde as declarações de função podem aparecer, a especificação ECMAS-\ncript não classifica as declarações de função como verdadeiras instruções. Algumas implementações \nde JavaScript",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 526,
+    "totalChunks": 10000
+  }
+}

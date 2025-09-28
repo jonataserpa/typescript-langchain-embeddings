@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_519",
+  "content": "imples\nvar  j = 0;                            // Uma var, um valor\nvar  p, q;                             // Duas variáveis\nvar  greeting = \"hello\" + name;                  // Um inicializador complexo\nvar  x = 2.34, y = Math.cos(0.75), r, theta;     // Muitas variáveis\nvar  x = 2, y = x*x;                   // A segunda variável usa a primeira\nvar  x = 2,                            // Diversas variáveis...\n    f = function(x) { return x*x },              // cada uma em sua própria linha\n    y = f(x);\nSe uma instrução var aparece dentro do corpo de uma função, ela define variáveis locais com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 519,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5139",
+  "content": "tes])\nEsse método funciona exatamente como options.add() para adicionar um novo elemento Option.\nany item(unsigned long índice)\nEsse método funciona exatamente como options.item() para retornar um elemento Option. Tam-\nbém é chamado quando o usuário indexa o objeto Select diretamente.\nany namedItem(string nome)\nEsse método é exatamente como options.namedItem(). Consulte HTMLOptionsCollection.\nvoid remove(long índice)\nEsse método funciona exatamente como options.remove() para remover um elemento Option. Con-\nsulte HTMLOptionsCollection.\nStorage\narmazenamento de pares nome/valor do lado do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5139,
+    "totalChunks": 10000
+  }
+}

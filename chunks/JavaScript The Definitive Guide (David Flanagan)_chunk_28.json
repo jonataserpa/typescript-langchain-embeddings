@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_28",
+  "content": "wrapper   42\n3.7   Valores primitivos imutáveis e referências de objeto mutáveis 43\n3.8   Conversões de tipo 44\n3.9   Declaração de variável 51\n3.10   Escopo de variável 52\n    4 Expressões e operadores ................................................................................................ 56\n4.1   Expressões   primárias   56\n4.2   Inicializadores de objeto e array 57\n4.3   Expressões de definição de função 58\n4.4   Expressões de acesso à propriedade 59\n4.5   Expressões de invocação 60\n\nxiv          Sumário\n4.6   Expressões de criação de objeto 60\n4.7   Visão geral dos operadores",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 28,
+    "totalChunks": 10000
+  }
+}

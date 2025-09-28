@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_862",
+  "content": "os os valores < 10.\na.every(function(x) { return x % 2 === 0; })   // => falso: nem todos os valores são par.\nO método some() é como o quantificador matemático “existe” ∃: ele retorna true se existe pelo me-\nnos um elemento no array para o qual o predicado retorna true, e retorna false se, e somente se, o \npredicado retorna false para todos os elementos do array:\na = [1,2,3,4,5];\na.some(function(x) { return x%2===0; }) // => verdadeiro: a tem alguns números pares.\na.some(isNaN)                 // => falso: a não tem não números.\nNote que tanto every() como some() param de iterar pelos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 862,
+    "totalChunks": 10000
+  }
+}

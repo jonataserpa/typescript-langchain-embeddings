@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_599",
+  "content": "adora quando uma instrução return é executada, mesmo que ainda restem outras instruções \nno corpo da função.\nA instrução \nreturn também pode ser usada sem uma expressão, para fazer a função retornar unde-\nfined para sua chamadora. Por exemplo:\nfunction display_objeto(o) {\n    // Retorna imediatamente se o argumento for null ou undefined.\n    if (!o) return;\n    // O restante da função fica aqui...\n}\nPor causa da inserção automática de ponto e vírgula em JavaScript (Seção 2.5), não se pode incluir \numa quebra de linha entre a palavra-chave return e a expressão que a segue.\n5.6.5   throw\nUma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 599,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5424",
+  "content": "ção fl oor( ), objeto Math, 779\nfunção freeze( ), 134, 798–799\nfunção get( ), 549\nfunção getJSON( ), 547\nfunção getOwnPropertyDescriptor( ), 128, 131, \n799–800\nfunção getOwnPropertyNames( ), 125, 800–801\nfunção getPrototypeOf( ), 132, 801–802\nfunção getScript( ), 547\nfunção globalEval( ), 558\nfunção grep( ), 558\nfunção isArray( ), 559\nfunção isEmptyObject( ), 559\nfunção isExtensible( ), 134, 802–803\nfunção isFinite( ), 33, 768\nfunção isFrozen( ), 134, 803–804\nfunção isFunction( ), 186, 559\nfunção isNaN( ), 33\nfunção isPlainObject( ), 559\nfunção isSealed( ), 804–805\nfunção Iterator ( ),",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5424,
+    "totalChunks": 10000
+  }
+}

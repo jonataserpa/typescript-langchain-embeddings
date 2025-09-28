@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4960",
+  "content": "Script do lado do cliente\nouterWidth([margens=false]):int\nRetorna a largura mais o preenchimento e a borda. E se margens é true, as margens do primeiro \nelemento selecionado.\nposition():coords\nRetorna a posição do primeiro elemento selecionado em relação ao ascendente posicionado \nmais próximo. O valor de retorno é um objeto com propriedades top e left.\nremoveAttr(nome)\nRemove o atributo nomeado de todos os elementos selecionados.\nremoveClass(nomes)\nremoveClass(f(ind,atual):names)\nRemove o nome (ou nomes) especificado do atributo class de todos os elementos seleciona-\ndos. Se é passada uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4960,
+    "totalChunks": 10000
+  }
+}

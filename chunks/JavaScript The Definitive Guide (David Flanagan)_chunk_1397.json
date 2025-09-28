@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1397",
+  "content": "terior pelo menos n vezes, mas não mais do que m vezes.\n{ n ,}Corresponde ao item anterior n ou mais vezes.\n{ n }Corresponde a exatamente n ocorrências do item anterior.\n?Corresponde a zero ou a uma ocorrência do item anterior. Isto é, o item anterior é opcional. Equivalente a \n{0,1}.\n+Corresponde a uma ou mais ocorrências do item anterior. Equivalente a \n{1,}.\n*Corresponde a zero ou mais ocorrências do item anterior. Equivalente a \n{0,}.\nAs linhas a seguir mostram alguns exemplos:\n/\\d{2,4}/    // Corresponde a um valor entre dois e quatro dígitos\n/\\w{3}\\d?/   // Corresponde a exatamente três",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1397,
+    "totalChunks": 10000
+  }
+}

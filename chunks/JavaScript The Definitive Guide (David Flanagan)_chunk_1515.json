@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1515",
+  "content": "etorna um iterador de um intervalo de inteiros\nfunction rangeIter(first, last) {\n    let nextValue = Math.ceil(first);\n    return    {\n        next: function() {\n            if (nextValue > last) throw StopIteration;\n            return    nextValue++;\n  }\n    };\n}\n// Uma iteração estranha usando o iterador de intervalo.\nlet r = rangeIter(1,5);                // Obtém um objeto iterador\nwhile(true) {                 // Agora o utiliza em um laço\n    try    {\n        console.log(r.next());         // Tenta chamar seu método next()\n }\n\nCapítulo 11     Subconjuntos e extensões de JavaScript",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1515,
+    "totalChunks": 10000
+  }
+}

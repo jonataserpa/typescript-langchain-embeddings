@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5212",
+  "content": "iedade é null.\nreadonly Window frames\nEssa propriedade, assim como as propriedades self e window, se refere ao próprio objeto Win-\ndow. Todo objeto Window é um objeto semelhante a um array dos quadros contidos nele. Em \nvez de escrever w[0] para se referir ao primeiro quadro dentro de uma janela w, essa propriedade \npermite escrever mais claramente w.frames[0].\nreadonly History history\nO objeto History dessa janela. Consulte History.\nreadonly long innerHeight\nreadonly long innerWidth\nA altura e a largura, em pixels, da área de exibição de documento dessa janela. Essas proprie-\ndades não são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5212,
+    "totalChunks": 10000
+  }
+}

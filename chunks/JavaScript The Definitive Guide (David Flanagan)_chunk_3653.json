@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3653",
+  "content": "ecifica como os vértices entre segmentos de subcaminho são conectados. \nO valor padrão é “miter”, ou seja, as bordas externas dos dois segmentos de caminho são estendidas \naté se encontrarem em um ponto. O valor “round” significa que o vértice é arredondado e o valor \n“bevel” significa que o vértice é cortado com uma linha reta.\nA última propriedade de desenho de linha é \nmiterLimit, que só se aplica quando lineJoin é “miter”. \nQuando duas linhas se encontram em um ângulo agudo, a junção entre elas pode se tornar muito \nlonga e essas junções chanfradas longas atrapalham visualmente. A",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3653,
+    "totalChunks": 10000
+  }
+}

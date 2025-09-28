@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2870",
+  "content": "// Se for bem-sucedida\n                var type = req.getResponseHeader(\"Content-Type\");          // Obtém\n                var size = req.getResponseHeader(\"Content-Length\");        // detalhes\n                var date = req.getResponseHeader(\"Last-Modified\");         // do link\n                // Exibe os detalhes em uma dica de ferramenta.\n                link.title = \"Type: \" + type + \" \\n\" +\n                     \"Size: \" + size + \" \\n\" + \"Date: \" + date;\n   }\n            else    {\n                // Se a requisição falhou e o link ainda não tem uma\n                // dica de ferramenta",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2870,
+    "totalChunks": 10000
+  }
+}

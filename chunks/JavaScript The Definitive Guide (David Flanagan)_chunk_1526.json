@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1526",
+  "content": "// Agora todos os objetos herdam z\nfor(p in o) console.log(p);                     // Imprime \"x\", \"y\" e \"z\"\nfor(p in Iterator(o, true)) console.log(p);      // Imprime somente \"x\" e \"y\"\n11.4.3   Geradores\nOs geradores são um recurso em JavaScript 1.7 (emprestado de Python) que usa a nova palavra-cha-\nve yield, isso significa que o código que os utiliza deve optar explicitamente pela versão 1.7, confor-\nme descrito na Seção 11.2. A palavra-chave yield é usada em uma função e, de modo semelhante a \nreturn, retorna um valor da função. No entanto, a diferença entre yield e return",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1526,
+    "totalChunks": 10000
+  }
+}

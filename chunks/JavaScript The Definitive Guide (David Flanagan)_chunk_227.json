@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_227",
+  "content": "esentando 2 linhas escritas em uma linha\n\"one\\       // Uma string de uma linha escrita em 3 linhas. Somente ECMAScript 5.\nlong\\\nline\"\nNote que, ao usar aspas simples para delimitar suas strings, você deve tomar cuidado com as contra-\nções e os possessivos do idioma inglês, como can’t e O’Reilly’s. Como o apóstrofo é igual ao caractere \nde aspas simples, deve-se usar o caractere de barra invertida (\\) para fazer o “escape” de qualquer \napóstrofo que apareça em strings com aspas simples (os escapes estão explicados na próxima seção).\nNa programação JavaScript do lado do cliente, o código",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 227,
+    "totalChunks": 10000
+  }
+}

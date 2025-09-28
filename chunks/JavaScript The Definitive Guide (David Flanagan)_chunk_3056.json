@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3056",
+  "content": "amente as roti-\nnas de tratamento em um espaço de nomes específico. Os espaços de nomes de rotina de tratamento \nsão especialmente úteis para programadores que estão escrevendo bibliotecas ou módulos de código \njQuery reutilizáveis. Os espaços de nomes de evento são parecidos com os seletores de classe CSS. \nPara vincular uma rotina de tratamento de evento a um espaço de nomes, acrescente um ponto-final \ne o nome do espaço de nomes na string de tipo de evento:\n// Vincula f como rotina de tratamento de mouseover no espaço de nomes \"myMod\" a todos os \n// elementos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3056,
+    "totalChunks": 10000
+  }
+}

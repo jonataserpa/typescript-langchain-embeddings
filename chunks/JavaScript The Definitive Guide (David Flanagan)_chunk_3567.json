@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3567",
+  "content": "se uma linha reta \nconectasse o último ponto do subcaminho ao primeiro ponto dele. É por isso que o código anterior \npreenche um triângulo, mas traça apenas dois lados dele.\nSe quisesse traçar todos os três lados do triângulo anterior, você chamaria o método \nclosePath() \npara  conectar  a  extremidade  do  subcaminho  ao  ponto  inicial.  (Você  também  poderia  chamar  \nlineTo(100,100), mas então acabaria com três segmentos de linha compartilhando um ponto inicial \ne um final, porém não realmente fechados. Quando se desenha com linhas grossas, os resultados \nvisuais são melhores se o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3567,
+    "totalChunks": 10000
+  }
+}

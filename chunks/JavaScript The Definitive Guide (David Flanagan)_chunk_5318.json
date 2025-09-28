@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5318",
+  "content": "nfi leirando efeitos, \n543\n        efeitos    simples,    538\n    criando, usando script em linha de CSS, 422–424\n    CSS Transitions e Animations, 407–408\n    métodos da jQuery para, 940\nAPI Canvas, 616–651\n    array de bytes em CanvasPixelArray, 673\n    atributos de desenho de linha, 634\n    atributos    gráfi cos defi nidos no objeto contexto, \n621–623\n    caminho,    617\n    compondo,    643\n    cores, transparência, degradê (gradientes) e pa-\ndrões, 631–634\n    cortando,    638\n    desenhando e preenchendo curvas, 629–631\n    desenhando linhas e preenchendo polígonos, 618\n    desenhando",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5318,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5186",
+  "content": "comprimento do novo TypedArray de-\npende da região de ArrayBuffer e do tamanho do elemento do array tipado.\nConstantes\nlong BYTES_PER_ELEMENT\nO número de bytes ocupado por cada elemento desse array no ArrayBuffer subjacente. Essa \nconstante terá o valor 1, 2, 4 ou 8, dependendo do tipo de TypedArray utilizado.\nPropriedades\nreadonly unsigned long length\nO número de elementos no array. TypedArrays têm tamanho fixo e o valor dessa propriedade \nnunca muda. Note que essa propriedade em geral não é igual à propriedade byteLength herda-\nda de ArrayBufferView.\nMétodos\nvoid set(ArrayTipado array,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5186,
+    "totalChunks": 10000
+  }
+}

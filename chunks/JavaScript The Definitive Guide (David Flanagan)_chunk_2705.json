@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2705",
+  "content": "if (typeof element === \"string\") element = document.getElementById(element);\n    element.oninput = upcase;\n    element.onpropertychange = upcaseOnPropertyChange;\n    // Caso fácil: a rotina de tratamento do evento de entrada\n    function upcase(event) { this.value = this.value.toUpperCase(); }\n    // Caso difícil: a rotina de tratamento do evento propertychange\n    function upcaseOnPropertyChange(event) {\n        var e = event || window.event;\n        // Se a propriedade value mudou\n        if (e.propertyName === \"value\") {\n              // Remove a rotina de tratamento de onpropertychange",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2705,
+    "totalChunks": 10000
+  }
+}

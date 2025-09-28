@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_389",
+  "content": "cer são \nestas: multiplicação e divisão são efetuadas antes de adição e subtração e a atribuição tem precedên-\ncia muito baixa, sendo quase sempre realizada por último.\n4.7.6   Associatividade de operadores\nNa Tabela 4-1, a coluna A especifica a associatividade do operador. Um valor E especifica associativi-\ndade da esquerda para a direita e um valor D especifica associatividade da direita para a esquerda. A \nassociatividade de um operador define a ordem em que operações de mesma precedência são efetua-\ndas. Associatividade da esquerda para a direita significa que as operações são efetuadas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 389,
+    "totalChunks": 10000
+  }
+}

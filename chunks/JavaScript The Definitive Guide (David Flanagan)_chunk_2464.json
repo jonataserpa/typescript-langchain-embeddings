@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2464",
+  "content": "e rotinas de tratamento nos elementos contêineres. As ro-\ntinas de tratamento fazem isso chamando um método ou configurando uma propriedade do objeto \nevento. A propagação de eventos é abordada em detalhes na Seção 17.3.6.\n1\n  Algumas fontes, incluindo a especificação HTML5, fazem uma distinção técnica entre rotinas de tratamento e ouvintes, \ncom base no modo como são registradas. Neste livro, tratamos os dois termos como sinônimos.\n2\n  Os padrões definem uma hierarquia de interfaces de objeto evento para diferentes tipos de eventos. A interface Event \ndescreve eventos “puros”, sem detalhes",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2464,
+    "totalChunks": 10000
+  }
+}

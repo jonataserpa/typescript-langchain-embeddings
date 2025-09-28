@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2261",
+  "content": "tos Range. Selection e Range definem uma API bastante \ncomplexa que não costuma ser usada e não está documentada neste livro. A característica mais im-\nportante e amplamente implementada (exceto no IE) do objeto Selection é que ele tem um método \ntoString() que retorna o conteúdo de texto puro da seleção.\nO IE define uma API diferente, também não documentada neste livro. \ndocument.selection retorna \num objeto representando a seleção. O método \ncreateRange() desse objeto retorna um objeto Tex-\ntRange específico do IE e a propriedade \ntext desse objeto contém o texto selecionado.\nUm código como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2261,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2367",
+  "content": "ho do ele-\nmento, em vez de serem exibidas permanentemente.\nEnquanto a propriedade \noverflow permite especificar o que acontece quando o conteúdo de um ele-\nmento é maior do que sua caixa, a propriedade clip permite especificar exatamente qual parte de um \nelemento deve ser exibida, havendo ou não transbordamento do elemento. Essa propriedade é espe-\ncialmente útil para efeitos em scripts nos quais um elemento é exibido ou revelado progressivamente.\nO valor da propriedade \nclip especifica a região de corte do elemento. Em CSS2, as regiões de corte são \nretangulares, mas a sintaxe da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2367,
+    "totalChunks": 10000
+  }
+}

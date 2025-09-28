@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_325",
+  "content": "ção e içamento\nEm algumas linguagens de programação semelhantes ao C, cada bloco de código dentro de chaves \ntem seu escopo próprio e as variáveis não são visíveis fora do bloco em que são declaradas. Isso é \nchamado de escopo de bloco e JavaScript não tem esse conceito. Em vez disso, JavaScript utiliza escopo \n\nCapítulo 3     Tipos, valores e variáveis      53\nJavaScript básica\nde função: as variáveis são visíveis dentro da função em que são definidas e dentro de qualquer função \nque esteja aninhada dentro dessa função.\nNo código a seguir, as variáveis \ni, j e k são declaradas em diferentes",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 325,
+    "totalChunks": 10000
+  }
+}

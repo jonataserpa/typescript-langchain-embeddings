@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2395",
+  "content": "lo 16-3 Animações com CSS\n// Converte o elemento e para posicionamento relativo e o \"chacoalha\" para a esquerda e \n// para a direita.\n// O primeiro argumento pode ser um objeto elemento ou a identificação de um elemento.\n// Se uma função for passada como segundo argumento, ela será chamada\n// com e como argumento quando a animação terminar.\n// O 3º argumento especifica quanto e vai ser chacoalhado. O padrão é 5 pixels.\n// O 4º argumento especifica por quanto tempo se vai chacoalhar. O padrão é 500 ms.\n\nCapítulo 16     Escrevendo script de CSS      423\nJavaScript do\n lado do cliente\nfunction",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2395,
+    "totalChunks": 10000
+  }
+}

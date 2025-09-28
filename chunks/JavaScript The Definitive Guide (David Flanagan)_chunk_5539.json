@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5539",
+  "content": "tionsCollection, 922\nobjeto IDBRange, 690–691\nobjeto IFrame, 923\nobjeto ImageData, 647\nobjeto Input, 926\n    métodos,    929\n    propriedades,    926\nobjeto jQuery.easing, 542\nobjeto jqXHR, 551\nobjeto KeyboardEvents, 441\nobjeto Label, 946\nobjeto Location, 334, 948\n    método reload( ), 335\n    métodos assign( ) e replace( ), 335\n    propriedade hash, 657\n    propriedade href, 334\n    propriedades de decomposição de URL, 334\nobjeto Math, 773–785\n    constantes,    773–774\n    função abs( ), 775–776\n    função acos( ), 775–776\n    função asin( ), 776\n    função atan( ), 776\n    função atan2( ),",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5539,
+    "totalChunks": 10000
+  }
+}

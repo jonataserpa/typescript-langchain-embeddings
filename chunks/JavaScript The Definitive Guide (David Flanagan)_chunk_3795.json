@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3795",
+  "content": "adget para fazer a pesquisa do gadget no URL \ndo link. Isso permite que o usuário veja se as pessoas estão tuitando sobre um site antes de visitá-lo.\nExemplo 22-5 Usando o gadget de pesquisa no Twitter com postMessage()\n// Este arquivo de código JS insere o Gadget de Pesquisa no Twitter no documento\n// e adiciona uma rotina de tratamento de evento em todos os links do documento para que, \n// quando o usuário colocar o mouse sobre eles, o gadget pesquise o URL do link.\n// Isso permite ao usuário ver o que as pessoas estão tuitando sobre o destino do link,\n// antes de clicar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3795,
+    "totalChunks": 10000
+  }
+}

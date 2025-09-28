@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2931",
+  "content": "e da jQuery, os visitantes de seu site provavelmente já vão ter uma cópia da biblioteca na \ncache de seus navegadores e nenhum download vai ser necessário.\n19.1.1   A função jQuery()\nA função jQuery() (também conhecida como $()) é a mais importante da biblioteca jQuery. Contu-\ndo, ela é bastante sobrecarregada e existem quatro maneiras diferentes de chamá-la.\nA primeira de chamar \n$() e mais comum maneira  é passar um seletor CSS (uma string) para ela. \nQuando chamada desse modo, ela retorna o conjunto de elementos do documento atual que coin-\ncidem com o seletor. A jQuery suporta a maior",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2931,
+    "totalChunks": 10000
+  }
+}

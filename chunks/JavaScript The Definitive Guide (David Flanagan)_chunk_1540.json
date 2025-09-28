@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1540",
+  "content": "recursos, em uma fila de memória, para serem executadas em sequência. É seme-\nlhante à uma linha de produção em uma fábrica.\n\nCapítulo 11     Subconjuntos e extensões de JavaScript      273\nJavaScript básica\nNormalmente, os geradores são inicializados ao serem criados: os valores passados para a função \ngeradora são a única entrada recebida pelo gerador. Entretanto, é possível fornecer entrada adicional \nem um gerador em execução. Todo gerador tem um método send(), o qual funciona para reiniciar o \ngerador como faz o método next(). A diferença é que um valor pode ser passado para send() e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1540,
+    "totalChunks": 10000
+  }
+}

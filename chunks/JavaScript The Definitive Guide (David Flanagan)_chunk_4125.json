@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4125",
+  "content": "entre 0 (domingo) e 6 (sábado).\nDate.getUTCFullYear()\nretorna o campo de ano de um objeto Date (hora universal)\nSinopse\ndata.getUTCFullYear()\nRetorna\nO ano resultante quando \ndata é expressa em hora universal. O valor de retorno é um ano completo \nde quatro dígitos e não uma abreviação de dois dígitos.\nDate.getUTCHours()\nretorna o campo de horas de um objeto Date (hora universal)\nSinopse\ndata.getUTCHours()\nRetorna\nO campo de horas de \ndata, expresso em hora universal. O valor de retorno é um inteiro entre 0 \n(meia-noite) e 23 (11 p.m.).\nDate.getUTCMilliseconds()\nretorna o campo de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4125,
+    "totalChunks": 10000
+  }
+}

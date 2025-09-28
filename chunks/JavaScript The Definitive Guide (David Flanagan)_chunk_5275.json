@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5275",
+  "content": "ovo objeto XMLHttpRequest.\nConstantes\nEstas constantes definem os valores da propriedade readyState. Antes da XHR2, essas constantes \nnão eram amplamente definidas e a maior parte do código utiliza inteiros literais, em vez desses \nvalores simbólicos.\nunsigned short UNSENT = 0\nEsse é o estado inicial. O objeto XMLHttpRequest acabou de ser criado ou foi redefinido com \no método abort().\nunsigned short OPENED = 1\nO método open() foi chamado, mas send() não. A requisição ainda não foi enviada.\nunsigned short HEADERS_RECEIVED = 2\nO método send() foi chamado e os cabeçalhos de resposta foram",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5275,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3382",
+  "content": "o valor\n        cookies[name] = value;              // Armazena nome e valor no objeto\n }\n    return    cookies;\n}\n20.2.4   Limitações dos cookies\nOs cookies se destinam a armazenar pequenos volumes de dados por meio de scripts do lado do \nservidor e esses dados são transferidos para o servidor sempre que um URL relevante é solicitado. O \npadrão que define os cookies estimula os fabricantes de navegador a permitir números ilimitados de \ncookies de tamanho irrestrito, mas não exige que os navegadores mantenham mais de 300 cookies \nno total, 20 cookies por servidor Web ou 4 KB de dados por",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3382,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2472",
+  "content": "ícios do W3C. Os eventos DOM são abordados na Seção \n17.1.2.\n •   Muitas APIs novas na especificação HTML5 (e especificações subsidiárias relacionadas) de-\nfinem novos eventos para coisas como gerenciamento de histórico, arrastar e soltar, troca de \nmensagens entre documentos e reprodução de áudio e vídeo. A Seção 17.1.3 fornece uma \nvisão geral desses eventos.\n •   O advento de dispositivos móveis baseados em toque e habilitados para JavaScript, como o \niPhone, exigiu a definição de novos tipos de evento de toque e gesto. Consulte a Seção 17.1.4 \npara ver alguns exemplos específicos da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2472,
+    "totalChunks": 10000
+  }
+}

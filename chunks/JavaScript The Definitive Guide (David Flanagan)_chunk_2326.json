@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2326",
+  "content": "eft e \nright. Da mesma forma, é possível definir a altura de um elemento especificando top e bottom. Con-\ntudo, se você especifica um valor para \nleft, right e width, a propriedade width anula a propriedade \nright; se a altura de um elemento é limitada, height tem prioridade em relação a bottom.\nLembre-se de que não é necessário especificar o tamanho de cada elemento dinâmico. Alguns ele-\nmentos, como as imagens, têm um tamanho intrínseco. Além disso, para elementos dinâmicos que \ncontêm texto ou outro conteúdo em fluxo, muitas vezes é suficiente especificar a largura desejada do \nelemento e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2326,
+    "totalChunks": 10000
+  }
+}

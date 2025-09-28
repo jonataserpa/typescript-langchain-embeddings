@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5620",
+  "content": "tratamento de evento, 445\n        convenção de atribuição de nomes, 313\n        espelhando atributos HTML, 307\n    testando,    122\n    tornando não enumeráveis, 232\n    usando como argumentos de função, 169\n    variáveis como, 54\npropriedades bottom, top, right e left, 382\npropriedades callee e caller\n    objeto Arguments, 168\n    restrição em subconjuntos seguros, 260\npropriedades child, objeto Element, 361–362\npropriedades client, elementos de documento, 385\npropriedades clientHeight e clientWidth, objeto Ele-\nment, 382, 887–888\npropriedades clientLeft e clientTop, objeto Element,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5620,
+    "totalChunks": 10000
+  }
+}

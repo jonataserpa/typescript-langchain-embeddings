@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1455",
+  "content": "m não padronizados. Espera-se \nque as futuras versões de ECMAScript padronizem pelo menos alguns dos recursos restantes não \npadronizados.\nO navegador Firefox suporta essas extensões, bem como o interpretador JavaScript Spidermonkey \nem  que  o  Firefox  é  baseado.  O  interpretador  JavaScript  baseado  em  Java  do  Mozilla,  o  Rhino,  \n(consulte a Seção 12.1) também suporta a maioria das extensões. Contudo, como essas extensões \nda linguagem não são padronizadas, não vão ser úteis para desenvolvedores da Web que necessitam \nde compatibilidade da linguagem entre todos os navegadores.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1455,
+    "totalChunks": 10000
+  }
+}

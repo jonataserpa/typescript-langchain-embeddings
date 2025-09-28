@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3838",
+  "content": "cliente. A Seção 18.1.2.1 mostrou como fazer requisições \nHTTP síncronos com XMLHttpRequest, mas foi avisado que fazer isso na thread principal do \nnavegador era uma prática muito ruim. Contudo, em um thread worker é perfeitamente razoável \nfazer pedidos síncronos e o Exemplo 22-8 demonstra código de worker que faz exatamente isso. Sua \nrotina de tratamento de evento onmessage espera um array de URLs a serem buscados. Ela usa a API \nXMLHttpRequest síncrona para buscá-los e, então, posta o conteúdo textual dos URLs como um \narray de strings de volta na thread principal. Ou então, se qualquer",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3838,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2568",
+  "content": "Valor de retorno de rotina de tratamento\nO valor de retorno de uma rotina de tratamento de evento registrada pela configuração de uma pro-\npriedade de objeto ou de um atributo HTML às vezes tem significado. Em geral, o valor de retorno \nfalse diz ao navegador que não deve executar a ação padrão associada ao evento. A rotina de trata-\nmento onclick de um botão Submit em um formulário, por exemplo, pode retornar false para evitar \nque o navegador envie o formulário. (Isso é útil se a entrada do usuário não passa na validação no \nlado do cliente.) Da mesma forma, uma rotina de tratamento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2568,
+    "totalChunks": 10000
+  }
+}

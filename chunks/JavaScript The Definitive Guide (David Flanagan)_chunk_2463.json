@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2463",
+  "content": "ne esse link. Em seguida, é ativado nos elementos contêineres: tal-\nvez um elemento <p>, um elemento <div> e o próprio objeto Document. Às vezes é mais conveniente \nregistrar uma única rotina de tratamento de evento em um objeto Document ou em outro elemento \ncontêiner, do que registrar rotinas de tratamento em cada elemento individual em que você esteja \ninteressado. Uma rotina de tratamento de evento pode interromper a propagação de um evento para \nque não continue a borbulhar e não dispare rotinas de tratamento nos elementos contêineres. As ro-\ntinas de tratamento fazem isso chamando um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2463,
+    "totalChunks": 10000
+  }
+}

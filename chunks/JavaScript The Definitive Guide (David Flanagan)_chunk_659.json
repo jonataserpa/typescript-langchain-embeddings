@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_659",
+  "content": "podemos nos referir \na esse objeto protótipo em código JavaScript como \nObject.prototype. Os objetos criados com a \npalavra-chave new e uma chamada de construtora utilizam o valor da propriedade prototype da fun-\nção construtora como protótipo. Assim, o objeto criado por new Object() herda de Object.prototype, \nexatamente como acontece com o objeto criado por {}. Da mesma forma, o objeto criado por new \nArray()\n usa Array.prototype como protótipo e o objeto criado por new Date() usa Date.prototype \ncomo protótipo.\nObject.prototype é um dos raros objetos que não têm protótipo: ele não herda",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 659,
+    "totalChunks": 10000
+  }
+}

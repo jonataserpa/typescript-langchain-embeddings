@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2615",
+  "content": "move quando um elemento\n     * está sendo arrastado. Ela é responsável por mover o elemento.\n        **/\n    function moveHandler(e) {\n        if (!e) e = window.event;     // Modelo de evento do IE\n        // Move o elemento para a posição atual do mouse, ajustada pela\n        // posição das barras de rolagem e do deslocamento do clique inicial.\n        var scroll = getScrollOffsets();\n        elementToDrag.style.left = (e.clientX + scroll.x – deltaX) + \"px\";\n        elementToDrag.style.top = (e.clientY + scroll.y – deltaY) + \"px\";\n\n458          Parte II     JavaScript do lado do cliente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2615,
+    "totalChunks": 10000
+  }
+}

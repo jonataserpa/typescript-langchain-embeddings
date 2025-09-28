@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2794",
+  "content": "t para JSON.parse(). O Exemplo 18-3 é uma generalização do \nExemplo 18-2: ele faz uma requisição GET solicitando o URL especificado e passa o conteúdo \ndesse URL para a função de callback especificada quando o conteúdo está pronto. Mas, em vez \nde sempre passar texto, ele passa um objeto Document ou um objeto decodificado com \nJSON.\nparse() ou uma string.\nExemplo 18-3 Analisando a resposta HTTP\n// Faz uma requisição HTTP GET solicitando o conteúdo do URL especificado.\n// Quando a resposta chega, a passa para a função callback como um\n// objeto Document XML analisado, um objeto analisado com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2794,
+    "totalChunks": 10000
+  }
+}

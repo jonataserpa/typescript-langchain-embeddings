@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3239",
+  "content": "bém podem ser \nusados em folhas de estilos CSS.\nA gramática de seletor tem três camadas. Sem dúvida, você já viu o tipo de seletores mais simples. \n“#test” seleciona um elemento com atributo \nid “test”. “blockquote” seleciona todos os elementos \n<blockquote> do documento e “div.note” seleciona todos os elementos <div> com atributo class \n“note”. Seletores simples podem ser agrupados em “combinações de seletor”, como “div.note>p” e \n“blockquote i”, separando-os com um caractere de combinação. E seletores simples e combinações \nde seletores podem ser agrupados em listas separadas com vírgulas.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3239,
+    "totalChunks": 10000
+  }
+}

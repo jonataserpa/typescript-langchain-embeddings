@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3599",
+  "content": "late() \nfoi usado para mover a origem para o canto inferior esquerdo do canvas e, então, scale() foi usado \npara rebater o eixo Y de modo que as coordenadas Y aumentassem à medida que subimos na página. \nUm sistema de coordenadas rebatido como esse é conhecido nos cursos de álgebra e pode ser útil para \nrepresentar pontos de dados em gráficos. Note, entretanto, que ele torna o texto difícil de ler!\n21.4.4.1   Entendendo as transformações matematicamente\nAcho mais fácil entender as transformações geometricamente, considerando translate(), rotate() e \nscale() como uma transformação dos eixos do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3599,
+    "totalChunks": 10000
+  }
+}

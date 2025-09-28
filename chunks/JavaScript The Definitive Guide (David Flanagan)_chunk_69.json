@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_69",
+  "content": "rimes.lenght // => 4: quantidade de elementos no array.\nprimes[primes.lenght-1]    // => 7: o último elemento do array.\nprimes[4] = 9; // Adiciona um novo elemento por meio de atribuição.\nprimes[4] = 11; // Ou altera um elemento existente por meio de atribuição.\nvar empty = []; // [] é um array vazio, sem qualquer elemento.\nempty.lenght // => 0\n// Os arrays e objetos podem conter outros arrays e objetos:\nvar points = [ // Um array com 2 elementos.\n    {x:0, y:0}, // Cada elemento é um objeto.\n    {x:1, y:1}\n];\nvar data = { // Um objeto com 2 propriedades\n  trial1: [[1,2], [3,4]],  // O valor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 69,
+    "totalChunks": 10000
+  }
+}

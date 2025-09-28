@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_451",
+  "content": "os descrever && no terceiro e último \nnível. Esse operador começa avaliando seu primeiro operando, a expressão à sua esquerda. Se o valor \nà esquerda é falso, o valor da expressão inteira também deve ser falso; portanto, && simplesmente \nretorna o valor da esquerda e nem mesmo avalia a expressão da direita.\nPor outro lado, se o valor à esquerda é verdadeiro, então o valor global da expressão depende do \nvalor do lado direito. Se o valor da direita é verdadeiro, então o valor global deve ser verdadeiro; e \nse o valor da direita é falso, então o valor global deve ser falso. Assim, quando o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 451,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5213",
+  "content": "e a largura, em pixels, da área de exibição de documento dessa janela. Essas proprie-\ndades não são suportadas no IE8 e anteriores. Consulte o Exemplo 15-9 para um exemplo.\nreadonly unsigned long length\nO número de quadros contidos nessa janela. Consulte frames.\nreadonly Storage localStorage\nEssa propriedade se refere a um objeto Storage que fornece armazenamento do lado do cliente \npara pares nome/valor. Os dados armazenados por meio de localStorage são visíveis e com-\npartilhados com quaisquer documentos de mesma origem e persistem até serem excluídos pelo \nusuário ou por um script.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5213,
+    "totalChunks": 10000
+  }
+}

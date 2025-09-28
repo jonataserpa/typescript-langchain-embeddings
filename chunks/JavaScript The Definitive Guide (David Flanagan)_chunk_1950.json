@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1950",
+  "content": "ificando um nome de janela. Se já existe uma \njanela com esse nome (e se o script pode navegar nessa janela), essa janela existente é usada. Caso \ncontrário, uma nova janela é criada e recebe o nome especificado. Se esse argumento for omitido, \nserá usado o nome especial “_blank”: ele abre uma nova janela sem nome.\nNote que os scripts não podem simplesmente supor nomes de janela e assumir o controle das janelas \nque estão sendo usadas por outros aplicativos Web: eles só podem nomear janelas existentes em que \n“podem navegar” (o termo vem da especificação HTML5). Imprecisamente, um script só",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1950,
+    "totalChunks": 10000
+  }
+}

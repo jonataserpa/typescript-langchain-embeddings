@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_589",
+  "content": "s de JavaScript: se um terminador de linha é \ncolocado entre a palavra-chave break e o rótulo que se segue, JavaScript presume que se quis usar a \nforma simples, não rotulada, da instrução e trata o terminador de linha como um ponto e vírgula. \n(Consulte a Seção 2.5.)\nA forma rotulada da instrução \nbreak é necessária quando se quer sair de uma instrução que não é o \nlaço ou uma instrução switch circundante mais próxima. O código a seguir demonstra isso:\nvar matrix = getData();         // Obtém um array 2D de números de algum lugar\n// Agora soma todos os números da matriz.\nvar sum = 0, success",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 589,
+    "totalChunks": 10000
+  }
+}

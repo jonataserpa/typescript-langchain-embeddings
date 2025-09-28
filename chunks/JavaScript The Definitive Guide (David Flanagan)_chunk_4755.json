@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4755",
+  "content": "a de tratamento de eventoChamada quando...\nonabort\no carregamento do recurso é cancelado a pedido do usuário\nonblur*\no\n elemento perde o foco de entrada\nonchange\no usuário muda o conteúdo ou o estado do controle formulário (disparado por edições \ncompletas e não por toques de tecla individuais)\nonclick\no\n elemento foi ativado por clique de mouse ou outros meios\noncontextmenu\no menu de contexto está para ser exibido, normalmente devido a um clique com o botão \ndireito do mouse\nondblclick\nocorrem dois cliques rápidos de mouse\nondrag\no arrasto continua (disparado na origem do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4755,
+    "totalChunks": 10000
+  }
+}

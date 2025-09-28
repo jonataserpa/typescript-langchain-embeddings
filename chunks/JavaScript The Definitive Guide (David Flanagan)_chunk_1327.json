@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1327",
+  "content": "ch”) mé-\ntodos de um objeto:\nvar original_sort_method = Array.prototype.sort;\nArray.prototype.sort = function() {\n    var start = new Date();\n    original_sort_method.apply(this,    arguments);\n    var end = new Date();\n    console.log(\"Array sort took \" + (end – start) + \" milliseconds.\");\n};\nEsse tipo de alteração pode ser evitado transformando-se os métodos de instância em somente para \nleitura. A função utilitária freezeProps() definida anteriormente é uma maneira de fazer isso. Outra \né com Object.freeze(), que faz tudo que Object.seal() faz, mas também transforma todas as pro-\npriedades",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1327,
+    "totalChunks": 10000
+  }
+}

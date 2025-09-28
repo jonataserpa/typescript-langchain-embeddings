@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1224",
+  "content": "sse Range, a fim de ordenar os intervalos pelos seus limites inferiores:\nRange.prototype.compareTo = function(that) {\n    return this.from – that.from;\n};\nObserve que a subtração feita por esse método retorna corretamente um valor menor do que zero, \nigual a zero ou maior do que zero, de acordo com a ordem relativa dos dois Ranges. Como a enu-\nmeração Card.Rank no Exemplo 9-8 tem um método valueOf(), poderíamos ter usado esse mesmo \ntruque idiomático no método compareTo() da classe Card.\nOs métodos \nequals() anteriores fazem verificação de tipo em seus argumentos e retornam false \npara",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1224,
+    "totalChunks": 10000
+  }
+}

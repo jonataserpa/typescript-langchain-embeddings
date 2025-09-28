@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3826",
+  "content": "ssagePort (por meio de um argumento especial postMessage()) \npara outras janelas ou outros workers e utilizá-los como canais de comunicação dedicados. MessagePorts \ne MessageChannels são uma API avançada ainda não suportada por muitos navegadores e que não é \nabordada aqui.\n22.4.3   Exemplos de Web Worker\nVamos concluir esta seção com dois exemplos de Web Worker. O primeiro demonstra como efetuar \ncálculos longos em uma thread worker de modo que não afetem a rapidez de resposta da interface \ncom o usuário da thread principal. O segundo exemplo demonstra como as threads worker podem \nusar APIs",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3826,
+    "totalChunks": 10000
+  }
+}

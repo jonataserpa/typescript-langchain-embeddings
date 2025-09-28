@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1286",
+  "content": "ticos válidos, mas ainda teria sido ótimo fazer composição de \nconjunto sem fazer a subclasse de uma implementação concreta como a classe Set. Pode-se dizer algo \nsemelhante a respeito de nossa classe SingletonSet do Exemplo 9-12 – essa classe é uma subclasse \nde Set, de modo que poderia herdar os métodos auxiliares, mas sua implementação seria completa-\nmente diferente de sua superclasse. SingletonSet não é uma versão especializada da classe Set, mas \num tipo de Set completamente diferente. SingletonSet deve ser irmã de Set na hierarquia de classes, \nnão uma descendente.\nNas linguagens OO",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1286,
+    "totalChunks": 10000
+  }
+}

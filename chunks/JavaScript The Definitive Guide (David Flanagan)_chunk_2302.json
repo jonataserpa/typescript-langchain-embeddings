@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2302",
+  "content": "fazem isso mesmo ao implementarem proprie-\ndades que estão destinadas a uma futura padronização. Um exemplo é a propriedade border-radius, \nque especifica cantos arredondados para elementos. Isso foi implementado de forma experimental \nno Firefox 3 e no Safari 4 usando prefixos. Quando o padrão amadureceu o suficiente, o Firefox 4 \ne o Safari 5 removeram o prefixo e suportaram border-radius diretamente. (O Chrome e o Opera a \nsuportam há muito tempo, sem qualquer prefixo. O IE9 também a suporta sem prefixo, mas o IE8 \nnão suportava, nem com prefixo.)\n\n406          Parte II     JavaScript do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2302,
+    "totalChunks": 10000
+  }
+}

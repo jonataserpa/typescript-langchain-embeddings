@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2141",
+  "content": "eadings;\n    if (document.querySelectorAll)  // Podemos fazer isso do modo fácil?\n        headings = document.querySelectorAll(\"h1,h2,h3,h4,h5,h6\");\n    else  // Caso contrário, localiza os cabeçalhos da maneira difícil\n        headings = findHeadings(document.body, []);\n    // Percorre o corpo do documento recursivamente, procurando cabeçalhos\n    function findHeadings(root, sects) {\n        for(var c = root.firstChild; c != null; c = c.nextSibling) {\n            if (c.nodeType !== 1) continue;\n            if (c.tagName.length == 2 && c.tagName.charAt(0) == \"H\")",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2141,
+    "totalChunks": 10000
+  }
+}

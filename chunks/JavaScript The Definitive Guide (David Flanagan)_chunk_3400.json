@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3400",
+  "content": ";                       // Nunca o exibe\n    memory.style.behavior = \"url('#default#userData')\";  // Anexa comportamento mágico\n    document.body.appendChild(memory);                    // Adiciona no documento\n    // Se maxage é especificado, expira userData em maxage segundos\n    if (maxage) {\n        var now = new Date().getTime();          // A hora atual\n        var expires = now + maxage * 1000;       // maxage segundos a partir de agora\n        memory.expires = new Date(expires).toUTCString();\n }\n    // Inicializa memory carregando valores salvos.\n    // O argumento é arbitrário, mas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3400,
+    "totalChunks": 10000
+  }
+}

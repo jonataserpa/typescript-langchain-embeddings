@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2399",
+  "content": "fraction*4*Math.PI);\n            e.style.left = x + \"px\";\n            // Tenta executar novamente em 25ms ou no final do tempo total.\n            // Temos como objetivo uma animação suave de 40 quadros/segundo.\n            setTimeout(animate, Math.min(25, time-elapsed));\n  }\n         else    {                                         // Caso contrário, a animação está \n// terminada\n            e.style.cssText = originalStyle     // Restaura o estilo original\n            if (oncomplete) oncomplete(e);      // Ativa callback na conclusão\n  }\n }\n}\n// Faz e desaparecer gradualmente, desde",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2399,
+    "totalChunks": 10000
+  }
+}

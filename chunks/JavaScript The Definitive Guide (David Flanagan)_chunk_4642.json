@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4642",
+  "content": "lmente) funcionam nos navegadores atuais. Con-\nsulte a Seção 17.7 para uma discussão adicional sobre essa API peculiar.\nPropriedades\nstring dropEffect\nEssa propriedade especifica o tipo de transferência de dados que esse objeto representa. Deve \nter um dos valores “none”, “copy”, “move” ou “link”. Normalmente, o alvo da soltura vai con-\nfigurar essa propriedade a partir de um evento dragenter ou dragover. O valor dessa proprie-\ndade também pode ser afetado pelas teclas modificadoras que o usuário mantém pressionadas \nenquanto realiza o arrastamento, mas isso depende da plataforma.\nstring",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4642,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4820",
+  "content": "et\num objeto que recebe eventos\nOs objetos que têm eventos disparados neles ou objetos para os quais eventos borbulham, precisam \nter uma maneira de definir rotinas de tratamento para esses eventos. Esses objetos normalmente de-\nfinem propriedades de registro de rotina de tratamento de evento cujos nomes começam com “on” \ne normalmente também definem os métodos descritos aqui. O registro de rotina de tratamento é \num assunto surpreendentemente complexo. Consulte a Seção 17.2 para ver os detalhes e note, em \nespecial, que o IE8 e anteriores usam métodos diferentes (descritos em uma seção",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4820,
+    "totalChunks": 10000
+  }
+}

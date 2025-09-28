@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2726",
+  "content": "er \n// implementada:\n    if (event.key) keyname = event.key;\n    // Usa keyIdentifier no Safari e no Chrome para nomes de tecla de função\n    else if (event.keyIdentifier && event.keyIdentifier.substring(0,2) !== \"U+\")\n        keyname = event.keyIdentifier;\n  // Caso contrário, usa a propriedade keyCode e o mapa de relacionamento código-nome \n// abaixo\n    else keyname = Keymap.keyCodeToKeyName[event.keyCode];\n    // Se não conseguimos encontrar um nome de tecla, apenas retorna e ignora o evento.\n    if (!keyname) return;\n\n476          Parte II     JavaScript do lado do cliente\n    // A",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2726,
+    "totalChunks": 10000
+  }
+}

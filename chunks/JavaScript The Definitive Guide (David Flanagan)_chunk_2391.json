@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2391",
+  "content": "ha de estilo que configure a margem esquerda de \ntodos os parágrafos como 30 pixels, mas se você ler a propriedade marginLeft de um de seus elemen-\ntos parágrafo, vai obter a string vazia, a não ser que esse parágrafo tenha um atributo style que anule \na configuração da folha de estilo.\nLer o estilo em linha de um elemento é especialmente difícil para propriedades de estilo que exigem \nunidades e para propriedades de atalho: seu código precisa incluir recursos de análise de CSS com-\nplicados para realmente utilizar esses valores. Em geral, o estilo em linha de um elemento só serve \npara",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2391,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3708",
+  "content": "caminho atual.\nExemplo 21-11 Testando se um evento de mouse ocorreu sobre o caminho atual\n// Retorna true se o evento de mouse especificado ocorreu sobre o caminho atual,\n// no objeto CanvasRenderingContext2D especificado.\nfunction hitpath(context, event) {\n    // Obtém o elemento <canvas> do objeto contexto\n    var canvas = context.canvas;\n    // Obtém o tamanho e a posição do canvas\n    var bb = canvas.getBoundingClientRect();\n     //          Translada e muda a escala das coordenadas do evento de mouse em coordenadas do canvas\n    var x = (event.clientX-bb.left)*(canvas.width/bb.width);",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3708,
+    "totalChunks": 10000
+  }
+}

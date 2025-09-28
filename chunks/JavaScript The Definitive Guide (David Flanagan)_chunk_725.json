@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_725",
+  "content": ".\n    x:    1.0,\n    y:    1.0,\n    // r é uma propriedade de acesso de leitura-gravação com métodos getter e setter.\n    // Não se esqueça de colocar uma vírgula após os métodos de acesso.\n    get r() { return Math.sqrt(this.x*this.x + this.y*this.y); },\n    set r(newvalue) {\n      var oldvalue = Math.sqrt(this.x*this.x + this.y*this.y);\n      var ratio = newvalue/oldvalue;\n      this.x *= ratio;\n      this.y *= ratio;\n    },\n\nCapítulo     6     Objetos          127\nJavaScript básica\n     // theta é uma propriedade de acesso somente para leitura, apenas com o método getter.\n    get theta() {",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 725,
+    "totalChunks": 10000
+  }
+}

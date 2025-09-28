@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5148",
+  "content": "ntigo valor da chave que foi alterada ou null, se essa chave foi adicionada recentemente na \nárea de armazenamento. Quando este livro estava sendo escrito, as implementações de navega-\ndor só permitiam armazenar valores de string.\nreadonly Storage storageArea\nEssa propriedade será igual à propriedade localStorage ou sessionStorage do objeto Window \nque recebe esse evento e indica qual área de armazenamento foi alterada.\nreadonly string url\nÉ o URL do documento cujo script alterou a área de armazenamento.\nStyle\num elemento <style> HTML Node, Element\nUm objeto Style representa uma tag HTML",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5148,
+    "totalChunks": 10000
+  }
+}

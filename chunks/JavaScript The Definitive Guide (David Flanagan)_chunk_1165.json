@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1165",
+  "content": "rasna como um Pato, então podemos tratá-lo como um Pato, mesmo que não herde do \nobjeto protótipo da classe Pato”.\nA classe Range do Exemplo 9-2 serve como exemplo. Essa classe foi projetada com intervalos nu-\nméricos em mente. Note, entretanto, que a construtora \nRange() não verifica seus argumentos para \ncertificar-se de que sejam números. No entanto, ela usa o operador > neles; portanto, presume que \nsejam comparáveis. Da mesma forma, o método includes() usa o operador <=, mas não faz outras \nsuposições sobre os pontos extremos do intervalo. Como a classe não impõe um tipo em especial,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1165,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1229",
+  "content": "utiliza as mesmas convenções de valor de retorno do método compareTo(). Dado \no método \ncompareTo() mostrado anteriormente, é fácil classificar um array de objetos Range com um \ncódigo como o seguinte:\nranges.sort(function(a,b) { return a.compareTo(b); });\nA classificação é suficientemente importante para que se deva considerar a definição desse tipo de \nfunção de comparação de dois argumentos como um método de classe para qualquer classe em que \nseja definido um método de instância compareTo(). Um pode ser facilmente definido em termos do \noutro. Por exemplo:\nRange.byLowerBound =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1229,
+    "totalChunks": 10000
+  }
+}

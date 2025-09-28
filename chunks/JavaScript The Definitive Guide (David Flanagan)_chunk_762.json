@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_762",
+  "content": "dade de alterar \no protótipo de objetos não extensíveis.\n6.8.2   O atributo classe\nO atributo classe de um objeto é uma string que fornece informações sobre o tipo do objeto. Nem \nECMAScript 3 nem ECMAScript 5 fornecem um modo de configurar esse atributo, sendo que há \napenas uma técnica indireta para consultá-lo. O método padrão toString() (herdado de Object.pro-\ntotype) retorna uma string da forma:\n[objeto classe]\nAssim, para obter a classe de um objeto, você pode chamar esse método toString() nele e extrair do \noitavo ao penúltimo caracteres da string retornada. A parte complicada é que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 762,
+    "totalChunks": 10000
+  }
+}

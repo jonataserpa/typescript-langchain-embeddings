@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2530",
+  "content": "esses eventos tem propriedades numéricas \nscale e rotation. A \npropriedade scale é a relação entre a distância atual entre os dois dedos e a distância inicial entre \neles. Um gesto de “empurrar para fechar” tem um valor de scale menor do que 1.0 e um gesto de \n“empurrar para abrir” tem um valor de scale maior do que 1.0. A propriedade rotation é o ângulo \nde rotação do dedo desde o início do evento. Ela é informada em graus, com valores positivos indi-\ncando rotação no sentido horário.\nOs eventos de gesto são de alto nível e notificam sobre um gesto que já foi interpretado. Se qui-\nser",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2530,
+    "totalChunks": 10000
+  }
+}

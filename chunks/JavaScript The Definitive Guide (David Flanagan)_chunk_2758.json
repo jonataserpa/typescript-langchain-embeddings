@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2758",
+  "content": "ActiveX. A construtora \nXMLHttpRequest(), agora padrão, não tem suporte \nantes do IE7, mas pode ser simulada como segue:\n// Simula a construtora XMLHttpRequest() no IE5 e IE6\nif (window.XMLHttpRequest === undefined) {\n    window.XMLHttpRequest = function() {\n        try    {\n            // Usa a versão mais recente do objeto ActiveX, se estiver disponível\n            return new ActiveXObject(“Msxml2.XMLHTTP.6.0”);\n  }\n        catch (e1) {\n            try    {\n                // Caso contrário, recorre a uma versão mais antiga\n                  return    new",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2758,
+    "totalChunks": 10000
+  }
+}

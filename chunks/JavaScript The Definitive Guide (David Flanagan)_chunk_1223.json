@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1223",
+  "content": "e o valor de retorno são importantes e permitem substituir as seguintes expres-\nsões para operadores relacionais e de igualdade:\nSubstitua isto   Por isto\na < b           a.compareTo(b) < 0\na <= b          a.compareTo(b) <= 0\na > b           a.compareTo(b) > 0\na >= b          a.compareTo(b) >= 0\na == b          a.compareTo(b) == 0\na != b          a.compareTo(b) != 0\nA classe Card do Exemplo 9-8 define um método compareTo() desse tipo e podemos escrever um \nmétodo semelhante para a classe Range, a fim de ordenar os intervalos pelos seus limites inferiores:\nRange.prototype.compareTo =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1223,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5205",
+  "content": "para se referir à janela atual e você pode usar as propriedades desse objeto \njanela como se fossem variáveis globais. Por exemplo, você pode escrever \ndocument, em vez de window.\ndocument. Do mesmo modo, você pode usar os métodos do objeto janela atual como se fossem fun-\nções: por exemplo, alert(), em vez de window.alert().\nAlgumas das propriedades e métodos desse objeto consultam ou manipulam a janela do navegador \nde alguma maneira. Outras estão definidas aqui simplesmente porque esse é o objeto global. Além \ndas propriedades e métodos listados aqui, o objeto Window também implementa",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5205,
+    "totalChunks": 10000
+  }
+}

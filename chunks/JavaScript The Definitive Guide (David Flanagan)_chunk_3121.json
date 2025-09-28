@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3121",
+  "content": "borderLeft:    \"hide\",\n    borderRight:    \"hide\",\n    paddingLeft:    \"hide\",\n    paddingRight:    \"hide\"\n});\nSubstitua os valores da propriedade por “show” ou “toggle” para produzir efeitos de deslizamento \nlateral análogos a slideDown() e slideToggle().\n19.5.2.2   O objeto opções de animação\nO segundo argumento de animate() é um objeto opcional contendo opções que especificam como \na animação é feita. Você já viu duas das opções mais importantes. A propriedade duration especifica \na duração da animação em milissegundos ou como a string “fast” ou “slow” ou qualquer nome que \nvocê tenha",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3121,
+    "totalChunks": 10000
+  }
+}

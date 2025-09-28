@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4812",
+  "content": "essa propriedade contém o nome da tecla (como \n“Tab” ou “Down”) que foi pressionada.\nreadonly string locale\nPara eventos de teclado e eventos textinput, essa propriedade especifica um código de idioma \n(como “en-GB”) identificando a localidade para a qual o teclado foi configurado, caso essa \ninformação seja conhecida.\nreadonly unsigned long location\nPara eventos de teclado, essa propriedade especifica o local da tecla que foi pressionada no \nteclado. O valor vai ser uma destas constantes: DOM_KEY_LOCATION_STANDARD, DOM_KEY_LOCATION_\nLEFT, DOM_KEY_LOCATION_RIGHT, DOM_KEY_LOCATION_NUMPAD,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4812,
+    "totalChunks": 10000
+  }
+}

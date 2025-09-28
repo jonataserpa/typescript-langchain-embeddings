@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1217",
+  "content": "om == that.from && this.to == that.to;\n}\nDefinir um método equals() para nossa classe Set é um pouco mais complicado. Não podemos \napenas comparar a propriedade values de dois conjuntos; precisamos fazer uma comparação mais \nprofunda:\nSet.prototype.equals = function(that) {\n    // Atalho para caso trivial\n    if (this === that) return true;\n    // Se o objeto that não é um conjunto, não é igual a this.\n    // Usamos instanceof para permitir qualquer subclasse de Set.\n    // Poderíamos moderar esse teste se quiséssemos uma verdadeira tipagem do pato.\n  // Ou poderíamos torná-lo mais forte para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1217,
+    "totalChunks": 10000
+  }
+}

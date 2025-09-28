@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_803",
+  "content": "ray esparso é aquele no qual os elementos não têm índices contíguos começando em 0. Nor-\nmalmente, a propriedade length de um array especifica o número de elementos no array. Se o array \né esparso, o valor da propriedade length é maior do que o número de elementos. Os arrays esparsos \npodem ser criados com a construtora Array() ou simplesmente pela atribuição de um índice de array \nmaior do que a propriedade length atual do array.\na = new Array(5);     // Nenhum elemento, mas a.length é 5.\na = [];               // Cria um array sem elementos e comprimento = 0.\na[1000] = 0;          // A",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 803,
+    "totalChunks": 10000
+  }
+}

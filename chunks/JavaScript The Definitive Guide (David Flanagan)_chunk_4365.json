@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4365",
+  "content": "istema, existem \nocasiões em que você mesmo pode chamá-lo. Por exemplo, talvez você queira fazer uma conversão \nexplícita de um objeto em uma string, em uma situação onde JavaScript não faz isso automaticamente:\ny = Math.sqrt(x);     // Calcula um número\nystr = y.toString();  // Converte-o em uma string\nNote nesse exemplo que os números têm um método toString() interno que pode ser usado para \nforçar uma conversão.\nEm outras circunstâncias, você pode optar por usar uma chamada de \ntoString() mesmo em um \ncontexto onde JavaScript faz a conversão automaticamente. Usar \ntoString() explicitamente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4365,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5637",
+  "content": "to XMLHttpRequest, 1001\n        eventos    readystatechange,    486\n    objetos Element, 892–893\n    objetos Form, 913\n    propriedade onerror, objeto Window, 342\n    propriedades de objetos Window, Document e \nElement, 301, 991\n    propriedades    defi nidas por HTMLElements, 365\n    registrando    (consulte registrando rotinas de trata-\nmento de evento)\n    registro de rotina de tratamento de evento avança-\ndo com jQuery, 530\n    WebSocket,    984\n    WorkerGlobalScope,    995\n    XMLHttpRequestUpload,    1002\nrotinas de tratamento de evento de captura, 446, \n451, 531\n    eventos de mouse",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5637,
+    "totalChunks": 10000
+  }
+}

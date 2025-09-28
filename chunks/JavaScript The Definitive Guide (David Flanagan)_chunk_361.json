@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_361",
+  "content": "imeiro. Se o valor é \nnull ou undefined, a expressão lança uma exceção TypeError, pois esses \nsão os dois valores de JavaScript que não podem ter propriedades. Se o valor não é um objeto (ou ar-\nray), ele é convertido em um (consulte a Seção 3.6). Se a expressão do objeto é seguida por um ponto \ne um identificador, o valor da propriedade nomeada por esse identificador é pesquisada e se torna \no valor global da expressão. Se a expressão do objeto é seguida por outra expressão entre colchetes, \nessa segunda expressão é avaliada e convertida em uma string. Então, o valor global da expressão é o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 361,
+    "totalChunks": 10000
+  }
+}

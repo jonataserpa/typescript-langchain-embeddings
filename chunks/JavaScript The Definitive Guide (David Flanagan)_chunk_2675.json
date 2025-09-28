@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2675",
+  "content": "formato de texto puro, então realça a\n                // lista para permitir que o usuário saiba que estamos recebendo drop\n                // e retorna false para permitir que o navegador saiba.\n                if (!types ||   // IE\n                     (types.contains && types.contains(\"text/plain\")) ||   //HTML5\n                       (types.indexOf    &&    types.indexOf(\"text/plain\")!=-1))    //Webkit\n      {\n                     list.className = original_class + \" droppable\";\n                       return    false;\n      }\n                // Se não reconhecemos o tipo de dados, não",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2675,
+    "totalChunks": 10000
+  }
+}

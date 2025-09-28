@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4323",
+  "content": "alterações feitas em \numa propriedade já existente.\nRetorna\nO objeto o.\nLança\nTypeError\nSe \no não é um objeto ou se a propriedade não pode ser criada (porque o não pode ser esten-\ndido) ou configurada (porque já existe e não pode ser configurada, por exemplo). Consulte a \nSeção 6.7 para ver uma lista dos erros de configuração de propriedade que podem fazer essa \nfunção lançar TypeError.\nDescrição\nObject.defineProperty() cria ou configura a propriedade chamada nome do objeto o, usando o descri-\ntor de propriedade desc. Consulte Object.getOwnPropertyDescriptor() para ver uma explicação sobre",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4323,
+    "totalChunks": 10000
+  }
+}

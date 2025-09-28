@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3374",
+  "content": "nt() para codificar o valor antes de armazená-lo no cookie. Se fizer isso, vai ter de \nusar a função \ndecodeURIComponent() correspondente quando ler o valor do cookie.\nUm cookie escrito com um par nome/valor simples dura pela sessão de navegação na Web atual, mas \né perdido quando o usuário encerra o navegador. Para criar um cookie que possa durar entre sessões \n\n582          Parte II     JavaScript do lado do cliente\nde navegador, especifique sua vida útil (em segundos) com um atributo max-age. Isso pode ser feito \nconfigurando-se a propriedade cookie com uma string da forma:\nnome=valor;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3374,
+    "totalChunks": 10000
+  }
+}

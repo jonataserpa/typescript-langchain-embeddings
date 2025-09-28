@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3980",
+  "content": "es(city, function(o) {\n        var div = document.createElement(\"div\");\n        var text = o.zipcode + \": \" + o.city + \", \" + o.state;\n        div.appendChild(document.createTextNode(text));\n        output.appendChild(div);\n    });\n}\n// Configura a estrutura do banco de dados e o preenche com dados; em seguida, passa\n// o banco de dados para a função f(). withDB() chama essa função, caso o\n// banco de dados ainda não esteja inicializado. Esta é a parte mais complicada do\n// programa; portanto, a deixamos por último.\nfunction initdb(db, f) {\n    // Baixar dados de código postal e armazená-los",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3980,
+    "totalChunks": 10000
+  }
+}

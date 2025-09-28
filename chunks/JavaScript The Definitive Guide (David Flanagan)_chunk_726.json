@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_726",
+  "content": "heta é uma propriedade de acesso somente para leitura, apenas com o método getter.\n    get theta() { return Math.atan2(this.y, this.x); }\n};\nObserve o uso da palavra-chave this nos métodos getter e setter anteriores. JavaScript chama essas \nfunções como métodos do objeto no qual são definidas, ou seja, dentro do corpo da função, this \nse refere ao objeto ponto. Assim, o método getter da propriedade r pode se referir às propriedades x \ne y como this.x e this.y. Os métodos e a palavra-chave this são abordados com mais detalhes na \nSeção 8.2.2.\nAs propriedades de acesso são herdadas, assim como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 726,
+    "totalChunks": 10000
+  }
+}

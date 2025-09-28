@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2562",
+  "content": "// passando o objeto evento\n                                return    handler.call(target,    event);\n                             });\n}\nNote que as rotinas de tratamento de evento registradas com o uso desse método não podem ser \nremovidas, pois a função empacotadora passada para attachEvent() não é mantida em lugar algum \npara ser passada a detachEvent().\n17.3.3   Escopo de rotina de tratamento de evento\nAssim como todas as funções de JavaScript, as rotinas de tratamento de evento têm escopo léxico. \nElas são executadas no escopo em que são definidas, não no",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2562,
+    "totalChunks": 10000
+  }
+}

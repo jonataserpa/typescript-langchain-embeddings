@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2250",
+  "content": "ef.indexOf(\"?\")+1).split(\"&\");\n    for(var i = 0; i < args.length; i++) {\n\n396          Parte II     JavaScript do lado do cliente\n        if (args[i].substring(0,2) == \"q=\") {\n            document.write(\"<p>Welcome Google User. \");\n            document.write(\"You searched for: \" +\n                             unescape(args[i].substring(2)).replace('+',    '    ');\n            break;\n  }\n }\n}\nO método document.write() usado no código anterior é o tema da próxima seção.\n15.10.2   O método document.write()\nO método document.write() foi uma das primeiras APIs de script implementadas pelo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2250,
+    "totalChunks": 10000
+  }
+}

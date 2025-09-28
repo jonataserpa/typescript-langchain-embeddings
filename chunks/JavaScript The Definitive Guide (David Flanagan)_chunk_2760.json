@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2760",
+  "content": "m conjunto opcional de cabeçalhos de pedido, que podem incluir informações de autenti-\ncação\n •   um corpo de requisição opcional\nA resposta HTTP enviada por um servidor tem três partes:\n •   um código de status numérico e textual indicando o sucesso ou a falha da requisição\n •   um conjunto de cabeçalhos de resposta\n •   o corpo da resposta\nAs duas primeiras subseções a seguir demonstram como configurar cada uma das partes de uma \nrequisição HTTP e como consultar cada uma das partes de uma resposta HTTP. Essas seções chave \nsão seguidas pela abordagem de tópicos mais especializados.\nA",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2760,
+    "totalChunks": 10000
+  }
+}

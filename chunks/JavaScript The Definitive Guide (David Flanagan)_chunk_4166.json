@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4166",
+  "content": "ntre meia-noite GMT de 1º de janeiro de 1970 e a hora especificada.\nDescrição\nDate.UTC() é um método estático; ele é chamado por meio da construtora Date() e não de um objeto \nDate individual.\nOs argumentos de \nDate.UTC() especificam uma data e hora e são entendidos em UTC; estão no fuso \nhorário GMT. A hora UTC especificada é convertida no formato de milissegundos, o qual pode ser \nusado pelo método da construtora Date() e pelo método Date.setTime().\nO método da construtora \nDate() pode aceitar argumentos de data e hora idênticos aos aceitos por \nDate.UTC(). A diferença é que a construtora",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4166,
+    "totalChunks": 10000
+  }
+}

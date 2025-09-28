@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4707",
+  "content": "etorna um novo nó DocumentType para representar uma declaração <!DOCTYPE> \nque pode ser passada para createDocument().\nDocument createHTMLDocument(string título)\nEsse método cria um novo objeto HTMLDocument com um esqueleto de árvore de documentos \nque inclui o título especificado. A propriedade documentElement do objeto retornado é um elemento \n\n      Referência de JavaScript do lado do cliente      885\nReferência de \nJavaScript do lado \ndo cliente\n<html> e esse elemento raiz tem tags <head> e <body> como filhos. O elemento <head>, por sua vez, \ntem um filho <title>, o qual tem como filho a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4707,
+    "totalChunks": 10000
+  }
+}

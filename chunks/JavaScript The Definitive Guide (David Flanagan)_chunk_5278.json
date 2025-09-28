@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5278",
+  "content": "ntido somente quando readyState \nmuda para 4. (Os eventos progress da XHR2 fornecem uma maneira mais confiável de moni-\ntorar o andamento de uma requisição.)\nreadonly any response\nNa XHR2, essa propriedade contém a resposta do servidor. Seu tipo depende da propriedade \nresponseType. Se responseType for a string vazia ou “text”, a propriedade vai conter o corpo da \nresposta como uma string. Se responseType for “document”, essa propriedade será uma repre-\nsentação analisada do corpo da resposta como um Document XML ou HTTP. Se responseType \nfor “arraybuffer”, essa propriedade será um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5278,
+    "totalChunks": 10000
+  }
+}

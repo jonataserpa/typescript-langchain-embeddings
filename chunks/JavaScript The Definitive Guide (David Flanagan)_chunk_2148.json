@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2148",
+  "content": "r em como esses elementos são renderizados na tela. Às vezes, no entanto, é necessário \ndeterminar a geometria precisa de um elemento. Vamos ver no Capítulo 16, por exemplo, que a CSS \npode ser usada para especificar a posição de um elemento. Se você quer usar CSS para posicionar \ndinamicamente um elemento (como uma dica de tela ou uma citação) ao lado de algum elemento \nnormal posicionado pelo navegador, precisa determinar a localização desse elemento.\nEsta seção explica como você pode ir e voltar entre o modelo abstrato baseado em árvore de um \ndocumento e o modo de exibição geométrico",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2148,
+    "totalChunks": 10000
+  }
+}

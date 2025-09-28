@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4499",
+  "content": "bytes de comprimento fixo na memória, mas não \ndefine um modo de obter ou configurar esses bytes. Os \nArrayBufferView, assim como as classes Type-\ndArray, fornecem uma maneira de acessar e interpretar os bytes.\nConstrutora\nnew ArrayBuffer(unsigned long comprimento)\nCria um novo ArrayBuffer com o número de bytes especificado. Todos os bytes no novo ArrayBuffer \nsão inicializados com 0.\nPropriedades\nreadonly unsigned long byteLength\no comprimento, em bytes, do ArrayBuffer.\nArrayBufferView\npropriedades comuns de tipos baseados em ArrayBuffers\nArrayBufferView serve como superclasse de tipos que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4499,
+    "totalChunks": 10000
+  }
+}

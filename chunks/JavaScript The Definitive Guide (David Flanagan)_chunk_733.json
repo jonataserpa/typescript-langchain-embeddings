@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_733",
+  "content": "os propósitos desta seção, vamos considerar os métodos getter e setter de uma propriedade de \nacesso como atributos da propriedade. Seguindo essa lógica, vamos até dizer que o valor de uma \npropriedade de dados também é um atributo. Assim, podemos dizer que uma propriedade tem \num nome e quatro atributos. Os quatro atributos de uma propriedade de dados são: valor, gravá-\nvel, enumerável e configurável. As propriedades de acesso não têm os atributos valor e gravável: sua \ncapacidade de gravação é determinada pela presença ou ausência de um método setter. Assim, os \nquatro atributos de uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 733,
+    "totalChunks": 10000
+  }
+}

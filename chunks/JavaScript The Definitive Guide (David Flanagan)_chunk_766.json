@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_766",
+  "content": "classof(null)         // => \"Null\"\nclassof(1)            // => \"Number\"\nclassof(\"\")           // => \"String\"\nclassof(false)        // => \"Boolean\"\nclassof({})           // => \"Object\"\nclassof([])           // => \"Array\"\nclassof(/./)          // => \"Regexp\"\nclassof(new Date())   // => \"Date\"\nclassof(window)       // => \"Window\" (um objeto hospedeiro do lado do cliente)\nfunction f() {};      // Define uma construtora personalizada\nclassof(new f());     // => \"Object\"\n\n134          Parte     I     JavaScript     básica\n6.8.3   O atributo extensível\nO atributo extensível de um objeto especifica",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 766,
+    "totalChunks": 10000
+  }
+}

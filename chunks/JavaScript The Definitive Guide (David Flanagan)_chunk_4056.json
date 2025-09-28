@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4056",
+  "content": "e length especifica o número de elementos no array.\nA propriedade \nlength de um array é inicializada quando o array é criado com o método construtor \nArray(). Adicionar novos elementos em um array atualiza a propriedade length, se necessário:\na = new Array();                       // a.length inicializada com 0\nb = new Array(10);                     // b.length inicializada com 10\nc = new Array(\"one\", \"two\", \"three\");   // c.length inicializada com 3\nc[3] = \"four\";                         // c.length atualizada para 4\nc[10] = \"blastoff\";                    // c.length se torna 11\nO valor da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4056,
+    "totalChunks": 10000
+  }
+}

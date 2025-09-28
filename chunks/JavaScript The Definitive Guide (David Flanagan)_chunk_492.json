@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_492",
+  "content": "m operador unário que tenta excluir a propriedade do objeto ou elemento do array es-\npecificado como operando\n1\n. Assim como os operadores de atribuição, incremento e decremento, \ndelete é normalmente usado por seu efeito colateral de exclusão de propriedade e não pelo valor que \nretorna. Alguns exemplos:\nvar o = { x: 1, y: 2}; // Começa com um objeto\ndelete o.x;            // Exclui uma de suas propriedades\n\"x\" in o               // => falso: a propriedade não existe mais\n1\n  Se você é programador de C++, note que a palavra-chave delete em JavaScript não tem nada a ver com a palavra-chave",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 492,
+    "totalChunks": 10000
+  }
+}

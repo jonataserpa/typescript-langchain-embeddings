@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_781",
+  "content": "var s = { x:1, y:1 }.toString();\nComo esse método padrão não exibe muitas informações úteis, muitas classes definem suas próprias \nversões de toString(). Por exemplo, quando um array é convertido em uma string, você obtém uma \nlista dos elementos do array, cada um deles convertido em uma string, e quando uma função é con-\nvertida em uma string, se obtém o código-fonte da função. Essas versões personalizadas do método \ntoString() estão documentadas na seção de referência. Consulte Array.toString(), Date.toString() \ne Function.toString(), por exemplo.\nA Seção 9.6.3 descreve como definir um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 781,
+    "totalChunks": 10000
+  }
+}

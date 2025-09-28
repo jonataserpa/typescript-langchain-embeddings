@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3050",
+  "content": "pecíficas da biblioteca que \nem alguns momentos você pode considerar úteis:\ndata\nSe dados adicionais foram especificados quando a rotina de tratamento de evento foi registrada \n(consulte a Seção 19.4.4), eles se tornaram disponíveis para a rotina de tratamento como o \nvalor desse campo\nhandler\nUma referência à função de tratamento de evento que está sendo chamada no momento\nresult\nO valor de retorno da rotina de tratamento mais recentemente chamada para esse evento, \nignorando as rotinas de tratamento que não retornam valor\noriginalEvent\nUma referência ao objeto Event nativo gerado pelo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3050,
+    "totalChunks": 10000
+  }
+}

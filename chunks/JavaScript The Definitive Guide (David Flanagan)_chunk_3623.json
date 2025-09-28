@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3623",
+  "content": "// false significa sentido horário\nc.closePath();         // Adiciona raio de volta até o centro do círculo\n// Mesma cunha, direção oposta\nc.moveTo(325, 100);\nc.arc(325, 100, 50, rads(-60), rads(0), true);   // sentido anti-horário\nc.closePath();\n// Usa arcTo() para cantos arredondados. Aqui, desenhamos um quadrado com\n// o canto superior esquerdo em (400,50) e cantos de raios variados.\n\nCapítulo 21     Mídia e gráficos em scripts      631\nJavaScript do\n lado do cliente\nc.moveTo(450, 50);           // Começa no meio da borda superior.\nc.arcTo(500,50,500,150,30);    // Adiciona parte da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3623,
+    "totalChunks": 10000
+  }
+}

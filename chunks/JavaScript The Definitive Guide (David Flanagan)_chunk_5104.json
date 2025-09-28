@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5104",
+  "content": "gumento  opcional  especifica  o  \ntextContent (consulte Node) do elemento e os valores iniciais das propriedades value, defaultSelected \ne selected.\nPropriedades\nboolean defaultSelected\nEssa propriedade espelha o atributo HTML selected. Ela define o estado inicial da seleção da \nopção e também o valor usado quando o formulário é redefinido.\nboolean disabled\ntrue se essa opção estiver desabilitada. As opções são desabilitadas se elas ou um <optgroup> \ncontêiner tem o atributo HTML disabled.\nreadonly Form form\nO elemento <form>, se houver, do qual esse elemento Option faz parte.\nreadonly long",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5104,
+    "totalChunks": 10000
+  }
+}

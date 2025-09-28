@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1475",
+  "content": "ure/) é uma extensão do kit de ferramentas Dojo (http://dojotoolkit.org) e foi inspirado no \nADsafe. Assim como o ADsafe, é baseado na verificação estática de um subconjunto restritivo \nda linguagem. Ao contrário do ADsafe, ele permite o uso da API DOM padrão. Além disso, \ninclui um verificador escrito em JavaScript, de modo que um código não confiável pode ser \nverificado dinamicamente antes de ser avaliado.\nCaja\nCaja (http://code.google.com/p/google-caja/) é o subconjunto seguro de código-fonte aberto do \nGoogle. O Caja (palavra espanhola que significa “caixa”) define dois subconjuntos da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1475,
+    "totalChunks": 10000
+  }
+}

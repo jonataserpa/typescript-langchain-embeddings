@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1991",
+  "content": "dade  \nreferrer, o método write() e técnicas para consultar o texto do documento selecionado.\n15.1   Visão geral do DOM\nDocument Object Model, ou DOM, é a API fundamental para representar e manipular o conteúdo \nde documentos HTML e XML. A API não é especialmente complicada, mas existem vários detalhes \nde arquitetura que precisam ser entendidos.\n\n352          Parte II     JavaScript do lado do cliente\nPrimeiramente, você deve entender que os elementos aninhados de um documento HTML ou XML \nsão representados na DOM como uma árvore de objetos. A representação em árvore de um docu-\nmento HTML",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1991,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5325",
+  "content": "PI de arrastar e soltar de HTML5, 442\n    arrastando elementos do documento, 456–458\n    destinos de soltura, 465\n    eventos de origem de arrastamento, 463\n    exibindo arquivos de imagem soltos com URLs de \nBlob, 680\n    função drag( ) chamada a partir de rotina de trata-\nmento de evento mousedown, 455\n    lista como destino de soltura e origem de arrasta-\nmento (exemplo), 466–469\n    objeto DataTransfers, 872\n    obtendo arquivos da API DnD e carregando via \npedido HTTP, 495\n    origem de arrastamento personalizada, 464\n\nÍndice          1007\n    soltando arquivos locais no navegador para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5325,
+    "totalChunks": 10000
+  }
+}

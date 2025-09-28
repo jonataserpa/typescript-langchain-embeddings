@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_292",
+  "content": "ary_string = n.toString(2);      // É avaliado como\"10001\"\noctal_string = \"0\" + n.toString(8);  // É avaliado como\"021\"\nhex_string = \"0x\" + n.toString(16);  // É avaliado como\"0x11\"\nAo trabalhar com dados financeiros ou científicos, talvez você queira converter números em strings \nde maneiras que ofereçam controle sobre o número de casas decimais ou sobre o número de dígi-\ntos significativos na saída; ou então, talvez queira controlar o uso de notação exponencial. A classe \nNumber define três métodos para esses tipos de conversões de número para string. toFixed() con-\nverte um número em uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 292,
+    "totalChunks": 10000
+  }
+}

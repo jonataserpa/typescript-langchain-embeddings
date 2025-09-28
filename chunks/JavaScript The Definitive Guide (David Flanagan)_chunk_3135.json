@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3135",
+  "content": "ento \nopcional (o segundo argumento normalmente não é necessário: vamos falar sobre nomes de fila, a \nseguir). \ndelay() pode ser usado em animações compostas como a seguinte:\n// Desaparece gradual e rapidamente até a metade, espera, em seguida desliza para cima\n$(\"img\").fadeTo(100, 0.5).delay(200).slideUp();\nNo exemplo de método stop() anterior, usamos eventos mouseover e mouseout para animar a opa-\ncidade das imagens. Podemos refinar esse exemplo adicionando um pequeno atraso antes do início \nda animação. Desse modo, se o mouse se mover rapidamente sobre uma imagem, sem parar, não vai",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3135,
+    "totalChunks": 10000
+  }
+}

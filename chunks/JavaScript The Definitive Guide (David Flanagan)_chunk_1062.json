@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1062",
+  "content": "se estiver definido.\nvar map = Array.prototype.map\n    ? function(a, f) { return a.map(f); }        // Use o método map se existir\n    : function(a,f) {                  // Caso contrário, implementa o nosso \n                                                    //próprio\n        var results = [];\n        for(var i = 0, len = a.length; i < len; i++) {\n            if (i in a) results[i] = f.call(null, a[i], i, a);\n  }\n        return    results;\n    };\n \n// Reduz o array a a um único valor usando a função f e\n// o valor inicial opcional. Usa Array.prototype.reduce se estiver definido.\nvar reduce",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1062,
+    "totalChunks": 10000
+  }
+}

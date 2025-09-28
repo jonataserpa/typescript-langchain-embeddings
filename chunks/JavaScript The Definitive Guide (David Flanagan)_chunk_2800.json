@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2800",
+  "content": "reta de uma resposta do servidor presume que ele envia um cabeçalho “Con-\ntent-Type” com o tipo MIME correto para a resposta. Se um servidor enviar um documento \nXML sem configurar o tipo MIME apropriado, por exemplo, o objeto XMLHttpRequest não \nvai analisá-lo e vai configurar a propriedade responseXML. Ou então, se um servidor incluir \num parâmetro “charset” incorreto no cabeçalho content-type, o objeto XMLHttpRequest vai \ndecodificar a resposta usando a codificação errada e os caracteres de responseText poderão estar \nerrados. A XHR2 define um método overrideMimeType() para tratar desse",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2800,
+    "totalChunks": 10000
+  }
+}

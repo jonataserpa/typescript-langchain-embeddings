@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1189",
+  "content": "o nativos. Até \nentão, o Exemplo 9-7 mostra como você pode definir seus próprios tipos enumeração em JavaScript. \nNote que ele usa a função inherit() do Exemplo 6-1.\nO Exemplo 9-7 consiste em uma única função \nenumeration(). Contudo, essa não é uma função \nconstrutora: ela não define uma classe chamada “enumeration”. Em vez disso, essa é uma função \nfábrica: cada chamada cria e retorna uma nova classe. Utilize-a como segue:\n// Cria uma nova classe Coin com quatro valores: Coin.Penny, Coin.Nickel, etc.\nvar Coin = enumeration ({Penny: 1, Nickel:5, Dime:10, Quarter:25});\nvar c = Coin.Dime;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1189,
+    "totalChunks": 10000
+  }
+}

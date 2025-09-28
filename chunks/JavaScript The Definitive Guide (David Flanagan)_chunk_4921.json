@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4921",
+  "content": "specifica o estado da \nmarcação inicial do elemento. Quando o formulário é redefinido, a propriedade checked é \nrestaurada ao valor dessa propriedade. Espelha o atributo checked.\nstring defaultValue\nPara elementos com um valor textual, essa propriedade contém o valor inicial exibido pelo \nelemento. Quando o formulário é redefinido, o elemento é restaurado a esse valor. Espelha o \natributo \nvalue.\nreadonly File[] files\nPara elementos cujo valor de type é “file”, essa propriedade é um objeto semelhante a um array \ndo objeto (ou objetos) File selecionado pelo usuário.\nstring formAction*\nPara",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4921,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4596",
+  "content": "ormações.\nvoid rotate(double ângulo)\nEsse método altera a matriz de transformação atual, de modo que qualquer desenho subsequente \naparece rotacionado pelo ângulo especificado dentro do canvas. Ele não gira o elemento <canvas> em \nsi. Note que o ângulo é especificado em radianos. Para converter graus em radianos, multiplique por \nMath.PI e divida por 180.\n\n      Referência de JavaScript do lado do cliente      863\nReferência de \nJavaScript do lado \ndo cliente\nvoid save()\nsave() coloca uma cópia do estado atual da imagem gráfica em uma pilha de estados gráficos salvos. \nIsso permite alterar o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4596,
+    "totalChunks": 10000
+  }
+}

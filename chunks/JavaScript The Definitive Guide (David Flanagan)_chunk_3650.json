@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3650",
+  "content": "dia e gráficos em scripts      635\nJavaScript do\n lado do cliente\nintacta, as linhas verticais serão duas vezes mais largas que as horizontais desenhadas com a mes-\nma configuração de \nlineWidth. É importante entender que a largura da linha é determinada por \nlineWidth e pela transformação atual no momento em que stroke() é chamado e não no momento \nem que \nlineTo() ou outro método de construção de caminho é chamado.\nOs outros três atributos de desenho de linhas afetam a aparência das extremidades não conectadas de \ncaminhos e dos vértices onde dois segmentos de caminho se encontram. Eles têm",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3650,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4321",
+  "content": "ito parecida com Object.defineProperty() – con-\nsulte essa função para obter mais detalhes. Consulte Object.getOwnPropertyDescriptor() para mais \ninformações sobre objetos descritores de propriedade.\nExemplo\n// Adiciona propriedades somente de leitura x e y em um objeto recentemente criado\nvar p = Object.defineProperties({}, {\n    x: { value: 0, writable: false, enumerable:true, configurable: true},\n    y: { value: 1, writable: false, enumerable:true, configurable: true},\n});\nConsulte também\nObject.create(), Object.defineProperty(), Object.getOwnPropertyDescriptor(), Seção",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4321,
+    "totalChunks": 10000
+  }
+}

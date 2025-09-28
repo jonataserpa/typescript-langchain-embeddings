@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1332",
+  "content": "Ele define \numa classe StringSet como uma subclasse da classe AbstractWritableSet do Exemplo 9-16. A princi-\npal característica desse exemplo é o uso de Object.create() para criar um objeto protótipo que herda \ndo protótipo da superclasse e também define as propriedades do objeto recém-criado. A dificuldade \n\nCapítulo 9     Classes e módulos      237\nJavaScript básica\ndessa estratégia, conforme mencionado anteriormente, é que ela exige o uso de descritores de pro-\npriedade complicados.\nOutro ponto interessante a respeito desse exemplo é que ele passa \nnull para Object.create() a fim de \ncriar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1332,
+    "totalChunks": 10000
+  }
+}

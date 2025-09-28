@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4183",
+  "content": "m objeto Error em uma string significativa, legível para seres humanos. Para \nexibir uma mensagem de erro ao usuário, você deve usar explicitamente as propriedades name e mes-\nsage do objeto Error.\nExemplos\nUma exceção poderia ser sinalizada com código como o seguinte:\nfunction factorial(x) {\n    if (x < 0) throw new Error(\"factorial: x must be >= 0\");\n    if (x <= 1) return 1; else return x * factorial(x-1);\n}\nE, se capturar uma exceção, você pode exibi-la para o usuário com código como o seguinte (que \nutiliza o método do lado do cliente Window.alert()):\ntry { &*(&/* um erro é lançado aqui",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4183,
+    "totalChunks": 10000
+  }
+}

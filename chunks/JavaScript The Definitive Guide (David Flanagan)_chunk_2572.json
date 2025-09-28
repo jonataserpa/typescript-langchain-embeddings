@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2572",
+  "content": "amento registradas com \naddEventListener() são chamadas na ordem em que \nforam registradas\n4\n.\n4\n  O padrão Level 2 do DOM deixa a ordem de chamada indefinida, mas todos os navegadores atuais chamam as rotinas de \ntratamento na ordem do registro e a versão draft atual Level 3 do DOM padroniza esse comportamento.\n\nCapítulo 17     Tratando eventos      451\nJavaScript do\n lado do cliente\n •   As rotinas de tratamento registradas com attachEvent() podem ser chamadas em qualquer \nordem e seu código não deve depender de chamada sequencial.\n17.3.6   Propagação de eventos\nQuando o alvo de um evento é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2572,
+    "totalChunks": 10000
+  }
+}

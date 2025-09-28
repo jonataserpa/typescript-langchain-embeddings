@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2353",
+  "content": "anto, quando \ndisplay é configurada como none, o elemento afetado não é exibido ou \nmesmo traçado.\nA diferença entre as propriedades de estilo \nvisibility e display está relacionada ao efeito sobre ele-\nmentos que utilizam posicionamento estático ou relativo. Para um elemento que aparece no fluxo \nnormal do layout, configurar \nvisibility como hidden torna o elemento invisível mas reserva espaço \npara ele no layout do documento. Tal elemento pode ser repetidamente ocultado e exibido sem al-\nterar o layout do documento. No entanto, se a propriedade \ndisplay de um elemento é configurada \ncomo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2353,
+    "totalChunks": 10000
+  }
+}

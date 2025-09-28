@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3322",
+  "content": "e posteriores. A API userData permite o armaze-\nnamento de volumes médios de strings de dados e pode ser usada como uma alternativa a Web \nStorage nas versões do IE antes do IE8. A API userData é abordada na Seção 20.3.\nAplicativos Web off-line\nHTML5 define uma API “Offline Web Applications” que permite colocar na cache as páginas \nWeb e seus recursos associados (scripts, arquivos CSS, imagens, etc.). Esse armazenamento no \nlado do cliente é para os próprios aplicativos Web e não apenas para seus dados, e permite que \nesses aplicativos instalem a si mesmos para que estejam disponíveis mesmo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3322,
+    "totalChunks": 10000
+  }
+}

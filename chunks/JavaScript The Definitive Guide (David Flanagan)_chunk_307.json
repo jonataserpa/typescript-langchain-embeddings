@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_307",
+  "content": "m objeto em uma string, JavaScript executa estas etapas:\n •   Se o objeto tem um método \ntoString(), JavaScript o chama. Se ele retorna um valor primitivo, \nJavaScript converte esse valor em uma string (se já não for uma string) e retorna o resultado \ndessa conversão. Note que as conversões de valor primitivo para string estão todas bem defi-\nnidas na Tabela 3-2.\n •   Se o objeto não tem método \ntoString() ou se esse método não retorna um valor primitivo, \nentão JavaScript procura um método valueOf(). Se o método existe, JavaScript o chama. Se o \nvalor de retorno é primitivo, a JavaScript",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 307,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5051",
+  "content": "r load() explicitamente.\n\n954          Parte IV     Referência de JavaScript do lado do cliente\nvoid pause()\nFaz uma pausa na reprodução da mídia.\nvoid play()\nInicia a reprodução da mídia.\nMediaError\num erro de <audio> ou <video>\nQuando ocorre um erro em uma tag \n<audio> ou <video>, um evento error é disparado e a proprie-\ndade error é configurada com um objeto MediaError. A propriedade code especifica o tipo de erro \nocorrido. As constantes a seguir definem os valores dessa propriedade.\nConstantes\nunsigned short MEDIA_ERR_ABORTED = 1\nO usuário pediu para o navegador parar de carregar a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5051,
+    "totalChunks": 10000
+  }
+}

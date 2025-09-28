@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1608",
+  "content": "argumento name\n        java.lang.System.exit(0);\n});\n// Quando o usuário clica no botão, chama esta função\nbutton.addActionListener(function() {\n    try    {\n        // Cria um java.net.URL para representar o URL de origem.\n        // (Isso verifica se a entrada do usuário está bem formada)\n        var url = new URL(urlfield.text);\n        // Pede ao usuário para selecionar um arquivo onde vai salvar o conteúdo do URL.\n        var response = filechooser.showSaveDialog(frame);\n        // Sai agora, se ele clicou em Cancel\n        if (response != JFileChooser.APPROVE_OPTION) return;\n        //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1608,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3817",
+  "content": "ack relacionadas a tarefas sejam chamadas. Uma vez que todas as funções callback registradas se-\njam chamadas, não há uma maneira de um worker iniciar uma nova tarefa; portanto, o encerramento da \nthread é seguro. Imagine um worker sem rotina de tratamento de evento \nonmessage que baixe um arquivo \nusando XMLHttpRequest. Se a rotina de tratamento de \nonload desse download inicia um novo download \nou registra um tempo-limite com \nsetTimeout(), a thread tem novas tarefas e continua a executar. Caso \ncontrário, a thread é encerrada.\nComo WorkerGlobalScope é o objeto global para workers, ele tem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3817,
+    "totalChunks": 10000
+  }
+}

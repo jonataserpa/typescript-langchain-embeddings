@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5415",
+  "content": "agrupamento e referências, 250\n        caracteres    literais,    246\n        classes de caractere, 247\n        especifi cando posição correspondente, 251\n  fl ags, 253\n        repetição,    248\n    métodos de string usando, 253–255\n    objetos RegExp, 255–257\n\nÍndice          1021\nexpressões relacionais, 70\n    operador in, 73\n    operador instanceof, 74\n    operadores de comparação, 72\n    operadores de igualdade e desigualdade, 70\nexpressões yield, 273\nextensão Firebug (Firefox), 3\nextensões, 262–280\n    atribuição de desestruturação, 265\n    constantes e variáveis com escopo, 262\n    E4X",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5415,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4772",
+  "content": "da rotina \nde tratamento de evento) vai impedir que o erro se propague para as threads contêineres e também \npode evitar que seja exibido em uma console de erro.\nPropriedades\nreadonly string filename\nO URL do arquivo JavaScript no qual a exceção foi lançada originalmente.\nreadonly unsigned long lineno\nO número da linha dentro desse arquivo na qual a exceção foi lançada.\nreadonly string message\nUma mensagem descrevendo a exceção.\n\n898          Parte IV     Referência de JavaScript do lado do cliente\nEvent\ndetalhes de eventos padrão, eventos do IE e eventos da jQuery\nQuando uma rotina de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4772,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3945",
+  "content": "irectoryEntry raiz\n    var writer = filesystem.root.getFile(name, {create:true}).createWriter();\n    writer.seek(writer.length); // Começa no final do arquivo\n    var bb = new BlobBuilder()  // Constrói o conteúdo do arquivo em um Blob\n    bb.append(contents);\n    writer.write(bb.getBlob()); // Agora grava o blob no arquivo\n}\nfunction deleteFile(name) {\n    filesystem.root.getFile(name).remove();\n}\nfunction makeDirectory(name) {\n    filesystem.root.getDirectory(name, { create: true, exclusive:true });\n}\nfunction listFiles(path) {\n    var dir = filesystem.root;\n    if (path) dir =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3945,
+    "totalChunks": 10000
+  }
+}

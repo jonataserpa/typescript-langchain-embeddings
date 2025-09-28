@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_992",
+  "content": "o especial\n    for(var j = 0; j < protoprops.length; j++) {\n        prop = protoprops[j];\n        if (source.hasOwnProperty(prop)) o[prop] = source[prop];\n    return function patched_extend(o) {\n        for(var i = 1; i < arguments.length; i++) {\n            var source = arguments[i];\n            // Copia todas as propriedades enumeráveis\n            for(var prop in source) o[prop] = source[prop];\n   }\n  }\n        return    o;\n    };\n    // Esta é a lista de propriedades do caso especial que verificamos\n    var protoprops = [ \"toString\", \"valueOf\", \"constructor\", \"hasOwnProperty\",",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 992,
+    "totalChunks": 10000
+  }
+}

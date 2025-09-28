@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3869",
+  "content": "igura 22-2 \nilustra como os Blobs podem ser lidos e gravados na Web, no sistema de arquivo local, em bancos de \ndados locais e também em outras janelas e workers. Mostra também como o conteúdo do Blob pode \nser acessado como texto, como arrays tipados ou como URLs.\nAntes de poder trabalhar com um Blob, você deve obter um de algum modo. Existem várias manei-\nras de fazer isso, algumas envolvendo APIs que já abordamos e algumas envolvendo APIs descritas \nposteriormente neste capítulo:\n •   Os Blobs são suportados pelo algoritmo de clone estruturado (consulte “Clones estruturados”, \nna página",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3869,
+    "totalChunks": 10000
+  }
+}

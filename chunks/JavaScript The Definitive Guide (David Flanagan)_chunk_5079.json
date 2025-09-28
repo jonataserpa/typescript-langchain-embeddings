@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5079",
+  "content": "ais \nespecializada, como Element ou Text. A propriedade \nnodeType especifica qual subinterface um nó \nimplementa. Você pode usar essa propriedade para testar o tipo de um nó antes de usar propriedades \nou métodos da interface mais especializada. Por exemplo:\nvar n;                         // Contém o nó com que estamos trabalhando\nif (n.nodeType == 1) {          // Ou usa a constante Node.ELEMENT_NODE\n    var tagname = n.tagName;    // Se o nó é um Element, este é o nome da tag\n}\n\n960          Parte IV     Referência de JavaScript do lado do cliente\nConstantes\nunsigned short ELEMENT_NODE =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5079,
+    "totalChunks": 10000
+  }
+}

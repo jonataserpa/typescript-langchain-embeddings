@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_968",
+  "content": "8     Funções          171\nJavaScript básica\n        if (isArray(element))                   // Se o argumento é um array\n            n = flexisum.apply(this, element);  // calcula sua soma recursivamente\n        else if (typeof element === \"function\")  // Ou, se for uma função...\n            n = Number(element());              // chama-a e converte.\n        else n = Number(element);               // Senão tenta convertê-la\n        if    (isNaN(n))    // Se não conseguimos converter em um número, lança um erro\n            throw Error(\"flexisum(): can't convert \" + element + \" to number\");",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 968,
+    "totalChunks": 10000
+  }
+}

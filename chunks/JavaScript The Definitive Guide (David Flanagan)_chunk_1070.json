@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1070",
+  "content": "a uma nova função que calcula f(g(...)).\n// A função retornada h passa todos os seus argumentos para g, então passa\n// o valor de retorno de g para f e, em seguida, retorna o valor de retorno de f.\n// Tanto f como g são chamadas com o mesmo valor de this com que h foi chamada.\nfunction compose(f,g) {\n    return function() {\n        // Usamos a chamada de f porque estamos passando um único valor e\n        // aplicamos em g porque estamos passando um array de valores.\n        return f.call(this, g.apply(this, arguments));\n    };\n}\nvar square = function(x) { return x*x; };\nvar sum =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1070,
+    "totalChunks": 10000
+  }
+}

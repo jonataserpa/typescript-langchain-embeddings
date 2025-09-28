@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5527",
+  "content": "ent, 865\nobjeto Console, 866\n    métodos,    866\nobjeto ConsoleCommandLine, 867\nobjeto CSSRule, 430, 869\nobjeto CSSStyleDeclaration, 870\n    descrevendo estilos associados ao seletor, 430\n    estilos calculados, 425\n    propriedades correspondentes a propriedades de \natalho, 421\n    usando em script de estilos em linha, 420\nobjeto CSSStyleSheet, 429, 871\n    consultando, inserindo e excluindo regras de folha \nde estilo, 430\n\nÍndice          1039\n    criando,    431\n    inserindo e excluindo regras, 430\n    propriedade disabled, 429\nobjeto DataTransfer, 442, 463–469, 872\n    propriedade    fi",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5527,
+    "totalChunks": 10000
+  }
+}

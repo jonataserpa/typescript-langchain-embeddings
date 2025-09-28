@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3457",
+  "content": "Offline\"); }\n// Quando voltamos a estar online novamente, sincroniza.\nwindow.ononline = function() { sync(); };\n\nCapítulo 20     Armazenamento no lado do cliente      597\nJavaScript do\n lado do cliente\n// Notifica o usuário se existir uma nova versão desse aplicativo disponível.\n// Também poderíamos forçar uma recarga aqui, com location.reload()\nwindow.applicationCache.onupdateready = function() {\n    status(\"A new version of this application is available. Reload to run it\");\n};\n// Além disso, permite que o usuário saiba que não há uma nova versão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3457,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4121",
+  "content": "é, o número de milisse-\ngundos entre meia-noite (GMT) de 1/1/1970 e a data e hora especificadas por data.\n\n      Referência de JavaScript básica      733\nReferência de \nJavaScript básica\nDescrição\ngetTime() converte uma data e hora em um único inteiro. Isso é útil quando se quer comparar \ndois objetos Date ou determinar o tempo decorrido entre duas datas. Note que a representação \nem milissegundos de uma data é independente do fuso horário, de modo que não há um método \ngetUTCTime() além desse. Não confunda esse método getTime() com os métodos getDay() e getDa-\nte(), que retornam o dia da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4121,
+    "totalChunks": 10000
+  }
+}

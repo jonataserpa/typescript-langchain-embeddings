@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5285",
+  "content": "demais e a resposta não fosse mais necessária.\nstring getAllResponseHeaders()\nEsse método retorna os cabeçalhos de resposta HTTP (com cabeçalhos de cookie e CORS filtrados) \nenviados pelo servidor ou null, se os cabeçalhos ainda não foram recebidos. Os cabeçalhos são retor-\nnados como uma única string, com um cabeçalho por linha.\nstring getResponseHeader(string cabeçalho)\nRetorna o valor de um cabeçalho de resposta HTTP ou null, se os cabeçalhos ainda não foram re-\ncebidos ou se a resposta não inclui o \ncabeçalho especificado. Os cabeçalhos relacionados a cookie e \nCORS são filtrados e não",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5285,
+    "totalChunks": 10000
+  }
+}

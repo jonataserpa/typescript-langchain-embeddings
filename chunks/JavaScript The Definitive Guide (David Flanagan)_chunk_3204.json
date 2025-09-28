@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3204",
+  "content": "XMLHttpRequest oferece a opção de bloquear até que a resposta seja recebida. Configure \nessa opção como \nfalse se quiser que a jQuery bloqueie. Configurar essa opção não altera o \nvalor de retorno de \njQuery.ajax(): a função sempre retorna o objeto XMLHttpRequest, caso \ntenha utilizado um. Para requisições síncronas, você pode extrair a resposta do servidor e o có-\ndigo de status HTTP do objeto XMLHttpRequest ou pode especificar uma callback \ncomplete \n(como faria para uma requisição assíncrona), caso queira a resposta analisada e o código de \nstatus da jQuery.\ndataFilter\nEsta opção",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3204,
+    "totalChunks": 10000
+  }
+}

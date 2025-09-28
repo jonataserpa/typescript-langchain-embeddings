@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3876",
+  "content": "dados do lado do cliente, são abordadas \nposteriormente, em suas próprias seções.\n22.6.1   Arquivos como Blobs\nO elemento <input type=\"file\"> se destinava originalmente a habilitar uploads de arquivo em for-\nmulários HTML. Os navegadores sempre tiveram o cuidado de implementar esse elemento de modo \na permitir apenas o upload de arquivos explicitamente selecionados pelo usuário. Scripts não podem \nconfigurar a propriedade value desse elemento com um nome de arquivo, de modo que não podem \ncarregar arquivos arbitrários do computador do usuário. Mais recentemente, os fornecedores de \nnavegador",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3876,
+    "totalChunks": 10000
+  }
+}

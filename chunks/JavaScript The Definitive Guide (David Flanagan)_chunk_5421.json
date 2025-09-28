@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5421",
+  "content": "e rotina de tratamento, impe-\ndindo entrada inválida, 450\nfrações decimais, representação de binário em ponto \nfl utuante, 34\nfunção abs( ), objeto Math, 775–776\nfunção acos( ), objeto Math, 775–776\nfunção ajax( ), 550–555\n    opções comuns, 551\n    opções incomuns e ganchos, 554\n    retornos de chamada, 553\nfunção ajaxSetup( ), 551\nfunção asin( ), objeto Math, 776\nfunção atan( ), objeto Math, 776\nfunção atan2( ), objeto Math, 776\nfunção Boolean( ), conversões de tipo com, 46\n\n1022          Índice\nfunção ceil( ), objeto Math, 777\nfunção clearInterval( ), 289\nfunção clearTimeout( ), 289\nfunção",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5421,
+    "totalChunks": 10000
+  }
+}

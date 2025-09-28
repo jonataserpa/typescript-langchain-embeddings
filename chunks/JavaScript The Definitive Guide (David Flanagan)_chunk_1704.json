@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1704",
+  "content": "nos  permite  levar  as  vantagens  do  uso  da  \ncache um passo adiante: o Google está promovendo o uso de URLs padrão bem conhecidos \npara as bibliotecas do lado do cliente mais comumente usadas, permitindo que o navegador \ncoloque na cache uma única cópia para uso compartilhado por qualquer site. Vincular código \nJavaScript aos servidores do Google pode diminuir o tempo de inicialização de suas páginas \nWeb, pois é provável que a biblioteca já exista na cache do navegador do usuário; porém, você \nprecisa estar disposto a confiar em terceiros para fornecer código fundamental para seu site.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1704,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1396",
+  "content": "ição sempre seguem o padrão no qual estão sendo aplicados. \nComo certos tipos de repetição são muito utilizados, existem caracteres especiais para representar \nesses casos. Por exemplo, \n+ corresponde a uma ou mais ocorrências do padrão anterior. A Tabela 10-3 \nresume a sintaxe da repetição.\n\nCapítulo 10     Comparação de padrões com expressões regulares      249\nJavaScript básica\nTabela 10-3 Caracteres de repetição de expressões regulares\nCaractereSignificado\n{ n , m }Corresponde ao item anterior pelo menos n vezes, mas não mais do que m vezes.\n{ n ,}Corresponde ao item anterior n ou mais",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1396,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4403",
+  "content": "ring ou convertido em uma string primitiva.\nRetorna\nQuando \nString() é usada como construtora, com o operador new, retorna um objeto String conten-\ndo a string s ou a representação de string de s. Quando a construtora String() é usada sem o opera-\ndor new, simplesmente converte s em uma string primitiva e retorna o valor convertido.\nPropriedades\nlength\nO número de caracteres na string.\n\n820          Parte III     Referência de JavaScript básica\nMétodos\ncharAt()\nExtrai o caractere de determinada posição de uma string.\ncharCodeAt()\nRetorna a codificação do caractere em determinada posição de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4403,
+    "totalChunks": 10000
+  }
+}

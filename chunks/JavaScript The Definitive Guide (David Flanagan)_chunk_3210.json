@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3210",
+  "content": "emento. Ela não tem efeito algum para \nrequisições baseadas em XMLHttpRequest normais.\ntraditional\nA jQuery 1.4 alterou ligeiramente o modo como os objetos dados eram serializados em strin-\ngs “application/ x-www-form-urlencoded” (consulte o quadro na Seção 19.6.2.2 para ver os \ndetalhes). Configure esta opção como true caso precise que a jQuery reverta para seu antigo \ncomportamento.\nusername, password\nSe uma requisição exige autenticação baseada em senha, especifique o nome de usuário e a \nsenha usando essas duas opções.\nxhr\nEsta opção especifica uma função fábrica para obter um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3210,
+    "totalChunks": 10000
+  }
+}

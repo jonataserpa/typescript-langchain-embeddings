@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4342",
+  "content": "le e nenhuma propriedade já existente (não herdada) pode ser \nexcluída dele. Object.isFrozen() testa se seu argumento está congelado ou não. Uma vez congelado, \num objeto não pode ser descongelado.\nO modo normal de congelar um objeto é passá-lo para \nObject.freeze(). Também é possível congelar \num objeto passando-o para Object.preventExtensions() e depois usando Object.defineProperty() \npara tornar todas as suas propriedades somente para leitura e impossíveis de excluir.\nNote que esse não é um método a ser chamado em um objeto: é uma função global e você deve \npassar um objeto para ela.\n\n804",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4342,
+    "totalChunks": 10000
+  }
+}

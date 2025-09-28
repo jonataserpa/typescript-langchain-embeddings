@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1200",
+  "content": "étodo shuffle: embaralha as cartas no local e retorna o maço\nDeck.prototype.shuffle = function() {\n    //        Para cada elemento no array, troca por um elemento mais baixo escolhido \n    //aleatoriamente\n    var deck = this.cards, len = deck.length;\n    for(var i = len-1; i > 0; i--) {\n        var r = Math.floor(Math.random()*(i+1)), temp;             // Número aleatório\n        temp = deck[i], deck[i] = deck[r], deck[r] = temp;         // Troca\n }\n    return    this;\n};\n// Método deal: retorna um array de cartas\nDeck.prototype.deal = function(n) {\n    if (this.cards.length < n) throw \"Out",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1200,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4102",
+  "content": "o hora \nuniversal. Esses pares de métodos estão listados juntos a seguir. Por exemplo, a listagem de get[UTC]\nDay()\n se refere aos métodos getDay() e getUTCDay().\nOs métodos Date só podem ser chamados em objetos Date e lançam um TypeError se você tenta \nchamá-los em qualquer outro tipo de objeto:\nget[UTC]Date()\nRetorna o dia do mês de um objeto Date, em hora local ou universal.\nget[UTC]Day()\nRetorna o dia da semana de um objeto Date, em hora local ou universal.\nget[UTC]FullYear()\nRetorna o ano da data na forma de quatro dígitos completa, em hora local ou universal.\nget[UTC]Hours()\nRetorna o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4102,
+    "totalChunks": 10000
+  }
+}

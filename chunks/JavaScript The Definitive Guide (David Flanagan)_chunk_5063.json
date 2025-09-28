@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5063",
+  "content": "pode ser qualquer valor compatível com o algoritmo de clone \nestruturado (“Clones estruturados”, na página 672).\nvoid start()\nEsse método faz MessagePort começar a disparar eventos message. Antes que esse método seja cha-\nmado, quaisquer dados enviados pela porta são colocados em um buffer. Atrasar mensagens dessa \nmaneira permite que um script registre todas as suas rotinas de tratamento de evento antes que \nquaisquer mensagens sejam enviadas. Note, entretanto, que você só precisa chamar esse método se \nusar o método addEventListener() de EventTarget. Se você simplesmente configurar a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5063,
+    "totalChunks": 10000
+  }
+}

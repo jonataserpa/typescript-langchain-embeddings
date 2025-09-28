@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3865",
+  "content": "cente. \nO primeiro argumento é o deslocamento em que o valor começa. O segundo argumento é o valor a \ngravar. Cada um dos métodos, exceto setInt8() e setUint8(), aceita um terceiro argumento opcio-\nnal. Se o argumento é omitido ou é false, o valor é gravado no formato big-endian, com o byte mais \nsignificativo primeiro. Se o argumento é true, o valor é gravado no formato little-endian, com o byte \nmenos significativo primeiro.\n\n676          Parte II     JavaScript do lado do cliente\n22.6   Blobs\nUm Blob é uma referência opaca para (ou alça para) um trecho de dados. O nome vem dos bancos \nde",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3865,
+    "totalChunks": 10000
+  }
+}

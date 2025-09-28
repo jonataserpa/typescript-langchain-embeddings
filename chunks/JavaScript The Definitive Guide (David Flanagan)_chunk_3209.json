@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3209",
+  "content": "y.get() e métodos relacionados), normalmente a jQuery converte \nesse objeto em uma string no formato padrão HTML “application/x-www-form-urlencoded” \n(consulte o quadro na Seção 19.6.2.2). Se quiser evitar essa etapa (como quando você quer \npassar um objeto Document como corpo de uma requisição POST), configure essa opção \ncomo false.\nscriptCharset\nPara requisições “script” e “jsonp” de várias origens que usam um elemento <script>, esta \nopção especifica o valor do atributo charset desse elemento. Ela não tem efeito algum para \nrequisições baseadas em XMLHttpRequest normais.\ntraditional\nA",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3209,
+    "totalChunks": 10000
+  }
+}

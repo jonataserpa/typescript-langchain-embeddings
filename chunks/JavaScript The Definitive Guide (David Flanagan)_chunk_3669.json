@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3669",
+  "content": ", o qual produz sombras nítidas. Valores maiores produzem mais indistinção, até um limite supe-\nrior definido pela implementação. Essa propriedade é um parâmetro para uma função de indistinção \ngaussiana e não um tamanho ou comprimento em pixels.\nO Exemplo 21-8 mostra o código usado para produzir a Figura 21-14 e demonstra cada uma dessas \nquatro propriedades de sombra.\n\n640          Parte II     JavaScript do lado do cliente\nFigura 21-14 Sombras geradas automaticamente.\nExemplo 21-8 Configurando atributos de sombra\n// Define uma sombra sutil\nc.shadowColor = \"rgba(100,100,100,.4)\"; // Cinza",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3669,
+    "totalChunks": 10000
+  }
+}

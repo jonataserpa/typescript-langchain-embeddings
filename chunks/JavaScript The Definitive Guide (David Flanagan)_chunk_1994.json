@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1994",
+  "content": "nós um nível imediatamente abaixo de outro nó são os filhos desse nó. Os nós no \nmesmo nível e com o mesmo pai são irmãos. O conjunto de nós a qualquer número de níveis abaixo \nde outro nó são os descendentes desse nó. E o pai, avô e todos os outros nós acima de um nó são os \nascendentes desse nó.\nCada caixa na Figura 15-1 é um nó do documento e é representado por um objeto Node. Vamos \nfalar sobre as propriedades e métodos de Node em algumas das seções a seguir e você pode pesquisar \n\nCapítulo 15     Escrevendo script de documentos      353\nJavaScript do\n lado do cliente\nessas propriedades e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1994,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4736",
+  "content": "propriedade tagName “P”. Os documentos XML diferenciam letras maiúsculas e mi-\nnúsculas e o nome de tag é retornado exatamente como está gravado na origem do documen-\nto. Essa propriedade tem o mesmo valor da propriedade herdada nodeName da interface Node.\nstring title\nO valor do atributo title do elemento. Muitos navegadores exibem o valor desse atributo em \numa dica de ferramenta, quando o mouse é deixado sobre o elemento.\nMétodos\nvoid blur()\nEsse método transfere o foco do teclado para o elemento body do objeto Document contêiner.\nvoid click()\nEsse método simula um clique nesse elemento.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4736,
+    "totalChunks": 10000
+  }
+}

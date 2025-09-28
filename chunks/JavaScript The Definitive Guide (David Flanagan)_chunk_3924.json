@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3924",
+  "content": "ivo. Trata-se de um objeto DirectoryEntry e ele pode ter \ndiretórios aninhados que são eles próprios representados por objetos DirectoryEntry. Cada dire-\ntório no sistema de arquivos pode conter arquivos representados por objetos FileEntry. O objeto \nDirectoryEntry define métodos para obter objetos DirectoryEntry e FileEntry pelo nome de ca-\nminho (opcionalmente, eles criam novos diretórios ou arquivos, caso você especifique um nome \ninexistente). DirectoryEntry também define um método de fábrica \ncreateReader() que retorna um \nDirectoryReader para listar o conteúdo de um diretório.\nA classe",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3924,
+    "totalChunks": 10000
+  }
+}

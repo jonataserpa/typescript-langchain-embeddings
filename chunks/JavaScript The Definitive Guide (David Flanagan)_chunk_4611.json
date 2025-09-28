@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4611",
+  "content": "console que se refere a um objeto Console. Os métodos \ndesse objeto definem uma API para tarefas de depuração simples, como registrar mensagens em uma \njanela de console (a console pode ter um nome como “Developer Tools” ou “Web Inspector”).\nNão há um padrão formal que defina a API Console, mas a extensão para depuração Firebug do \nFirefox foi estabelecida como padrão de fato e os fornecedores de navegador parecem estar imple-\nmentando a API Firebug, que está documentada aqui. O suporte para a função \nconsole.log() básica \né praticamente universal, mas as outras funções podem não ser tão bem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4611,
+    "totalChunks": 10000
+  }
+}

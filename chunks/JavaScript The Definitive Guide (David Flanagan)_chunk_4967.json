@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4967",
+  "content": "jQuery\nFaz uma cópia profunda de cada um dos elementos selecionados e retorna um novo objeto \njQuery representando os elementos clonados. Se dados é true, clona também os dados (in-\ncluindo as rotinas de tratamento de evento) associados aos elementos selecionados.\ndetach([sel])\nÉ como remove(), mas não exclui quaisquer dados associados aos elementos desanexados.\nempty()\nExclui o conteúdo de todos os elementos selecionados.\nhtml():string\nhtml(textoHtml)\nhtml(f(ind,atual):htmlText)\nSem argumentos, retorna o conteúdo do primeiro elemento selecionado como uma string \nformatada em HTML. Com um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4967,
+    "totalChunks": 10000
+  }
+}

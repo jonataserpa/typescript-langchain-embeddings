@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_437",
+  "content": "da string “aardvark”.\n\nCapítulo 4     Expressões e operadores      73\nJavaScript básica\nPara ver um algoritmo de comparação de strings mais robusto, consulte o método String.locale-\nCompare(), que também leva em conta as definições de ordem alfabética específicas da localidade. \nPara comparações que não diferenciam letras maiúsculas e minúsculas, você deve primeiro converter \ntodas as strings para minúsculas ou todas para maiúsculas, usando String.toLowerCase() ou String.\ntoUpperCase().\nTanto o operador \n+ como os operadores de comparação se comportam diferentemente para operan-\ndos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 437,
+    "totalChunks": 10000
+  }
+}

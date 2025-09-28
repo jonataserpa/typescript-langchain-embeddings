@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3360",
+  "content": "cados \nindividualmente com atributos do cookie. Esses atributos também são especificados com strings \nespecialmente formatadas, configuradas na mesma propriedade cookie.\n\n580          Parte II     JavaScript do lado do cliente\nAs subseções a seguir explicam os atributos de cookie que especificam vida útil e escopo e, em segui-\nda, demonstram como configurar e consultar valores de cookie em JavaScript. A seção termina com \num exemplo que implementa a API Storage em cima de cookies.\nDeterminando se os cookies estão habilitados\nOs cookies ficaram com uma reputação ruim para muitos usuários da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3360,
+    "totalChunks": 10000
+  }
+}

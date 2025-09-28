@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5629",
+  "content": "347\n    porta de visualização, 380–381\n    várias janelas e quadros, 344–350\n        relações entre quadros, 347\nquebras de linha\n    em código JavaScript, 22\n    interpretadas como ponto e vírgula, exceções, 26\n    tratamento como pontos e vírgulas em JavaScript, \n25\nqueryCommandEnabled( ), objeto Document, 400, \n881\nqueryCommandIndeterminate( ), objeto Document, \n881\nqueryCommandState( ), objeto Document, 400, \n881\nqueryCommandSupported( ), objeto Document, \n400, 881\nqueryCommandValue( ), objeto Document, 881\nR\nradianos, especifi cando para ângulos na API Canvas, \n624\nreceptores de evento,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5629,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1425",
+  "content": ", etc.), você pode usar a expressão regular \n/\\bjava\\b/i. E para encontrar todas as ocor-\nrências da palavra em uma string, pode adicionar o flag g: /\\bjava\\b/gi.\nA Tabela 10-6 resume esses flags de expressão regular. Note que vamos ver mais sobre o flag \ng ainda \nneste capítulo, quando os métodos String e RegExp forem usados para fazer correspondências.\nTabela 10-6 Flags de expressões regulares\nCaractereSignificado\ni\nFaz correspondência sem diferenciar letras maiúsculas e minúsculas.\ng\nFaz uma correspondência global – isto é, localiza todas as correspondências, em vez de parar depois da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1425,
+    "totalChunks": 10000
+  }
+}

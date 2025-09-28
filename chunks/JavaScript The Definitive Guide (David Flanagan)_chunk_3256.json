@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3256",
+  "content": "o subse-\nquente de seus pais, desde que contenham a palavra “JavaScript” e não contenham um elemento <a>.\np:nth-child(3n+1):text(JavaScript):not(:has(a))\nNormalmente, os filtros funcionam mais eficientemente se prefixados com um tipo de tag. Em \nvez de simplesmente usar “:radio” para selecionar botões de opção, por exemplo, é melhor usar \n“input:radio”. A exceção são os filtros de identificação, que são mais eficientes quando atuam sozi-\nnhos. O seletor “#address” normalmente é mais eficiente do que o mais explícito “form#address”, \npor exemplo.\n19.8.1.2   Combinações de seletor\nSeletores",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3256,
+    "totalChunks": 10000
+  }
+}

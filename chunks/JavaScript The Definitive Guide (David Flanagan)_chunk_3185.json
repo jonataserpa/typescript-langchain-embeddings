@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3185",
+  "content": "agora \njQuery.ajax() e todas \nas funções utilitárias Ajax descritas anteriormente retornam um objeto jqXHR. Esse objeto simula a API \nXMLHttpRequest, mesmo para requisições (como aquelas feitas com \n$.getScript()) que não utilizam um \nobjeto XMLHttpRequest. Além disso, o objeto jqXHR define os métodos \nsuccess(), error() que podem \nser usados para registrar funções callback para serem chamadas quando a requisição for bem-sucedida ou \nfalhar. Assim, em vez de passar uma callback para \njQuery.get(), por exemplo, você poderia em vez disso \npassá-la para o método \nsuccess() do objeto jqXHR",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3185,
+    "totalChunks": 10000
+  }
+}

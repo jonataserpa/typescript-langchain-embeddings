@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1911",
+  "content": "-3 Farejamento de navegador usando navigator.userAgent\n// Define browser.name e browser.version para farejamento de cliente, usando código\n// extraído da jQuery 1.4.1. Tanto o nome como o número são strings e ambos\n// podem diferir do nome e versão públicos do navegador. Os nomes detectados são:\n//\n//  \"webkit\": Safari ou Chrome; a versão é o número da construção do WebKit\n//  \"opera\": o navegador Opera; a versão é o número da versão pública\n//  \"mozilla\": Firefox ou outros navegadores baseados em gecko; a versão é Gecko\n//  \"msie\": IE; a versão é o número da versão pública\n//\n// Firefox 3.6,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1911,
+    "totalChunks": 10000
+  }
+}

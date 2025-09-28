@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_496",
+  "content": "a instrução func-\ntion e os parâmetros de função declarados também não podem ser excluídos.\nNo modo restrito de ECMAScript 5, \ndelete lança um SyntaxError se seu operando é um identifica-\ndor não qualificado, como uma variável, função ou parâmetro de função – ele só funciona quando o \noperando é uma expressão de acesso à propriedade (Seção 4.4). O modo restrito também especifica \nque delete lança um TypeError se solicitado a excluir qualquer propriedade que não possa ser con-\nfigurada (consulte a Seção 6.7). Fora do modo restrito não ocorre qualquer exceção nesses casos e \ndelete",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 496,
+    "totalChunks": 10000
+  }
+}

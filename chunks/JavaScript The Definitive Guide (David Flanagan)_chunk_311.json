@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_311",
+  "content": "a um número.\nEm JavaScript, o operador \n+ efetua adição numérica e concatenação de strings. Se um de seus ope-\nrandos é um objeto, JavaScript converte o objeto usando uma conversão de objeto para valor primi-\ntivo especial, em vez da conversão de objeto para número utilizada pelos outros operadores aritmé-\nticos. O operador de igualdade \n== é semelhante. Se solicitado a comparar um objeto com um valor \nprimitivo, ele converte o objeto usando a conversão de objeto para valor primitivo.\nA conversão de objeto para valor primitivo utilizada por \n+ e == inclui um caso especial para objetos \nDate.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 311,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5369",
+  "content": "a objeto Element, 300\n    exibição e visibilidade de elemento, 415\n    modelo de caixa e detalhes do posicionamento, \n413\n    novos recursos revolucionários da, 407–408\n    obtendo e confi gurando atributos CSS, 518\n    obtendo e confi gurando classes CSS, 518\n    página Web estilizada com CSS (exemplo), 406\n    posicionando elementos, 409–412, 460–462\n    propriedades de estilo importantes, 407–408\n    script de classes CSS, 426–429\n    script de estilos em linha, 420–424\n        animações,    422–424\n    script de folhas de estilo, 429–432\n    seletores,    359\n    sobreposição de janelas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5369,
+    "totalChunks": 10000
+  }
+}

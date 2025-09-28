@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1151",
+  "content": "isPrototypeOf() é que eles não nos permitem \nconsultar a classe de um objeto, mas somente testar um objeto em relação a uma classe que especifi-\ncamos. Uma deficiência mais séria surge em JavaScript do lado do cliente onde um aplicativo Web \nutiliza mais de uma janela ou quadro. Cada janela ou quadro é um contexto de execução distinto e \ncada um tem seu próprio objeto global e seu próprio conjunto de funções construtoras. Dois arrays \ncriados em dois quadros diferentes herdam de dois objetos protótipos idênticos, porém distintos, e \num array criado em um quadro não é uma instância",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1151,
+    "totalChunks": 10000
+  }
+}

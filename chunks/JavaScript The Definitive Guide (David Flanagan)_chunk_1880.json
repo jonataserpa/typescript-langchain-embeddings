@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1880",
+  "content": "setTimeout(f, start);                   // Chamada única após start ms.\n    else {                            // Caso de várias chamadas\n        setTimeout(repeat, start);              // As repetições começam em start ms\n        function repeat() {                     // Chamada pelo tempo-limite acima\n            var h = setInterval(f, interval);   // Chama f a cada interval ms.\n            // E para de chamar após end ms, se end for definido\n            if (end) setTimeout(function() { clearInterval(h); }, end);\n  }\n }\n}\nPor motivos históricos, você pode passar uma string como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1880,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1748",
+  "content": "tram funções de tratamento de eventos. \nEntão, essas funções são chamadas de forma assíncrona quando ocorrem os eventos para os quais \nforam registradas. Um aplicativo Web que quisesse habilitar atalhos de teclado para ações comuns \nregistraria uma rotina de tratamento para eventos de tecla, por exemplo. Até os programas não inte-\nrativos utilizam eventos. Suponha que você quisesse escrever um programa que analisasse a estrutura \nde seu documento e gerasse automaticamente um sumário para o documento. Nenhuma rotina de \ntratamento seria necessária para eventos de entrada de usuário, mas o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1748,
+    "totalChunks": 10000
+  }
+}

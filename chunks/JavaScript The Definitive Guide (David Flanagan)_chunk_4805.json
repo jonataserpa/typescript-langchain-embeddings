@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4805",
+  "content": "om uma função de inicialização específica para o tipo, como \ninitMouseEvent() (não documentada neste livro).\nvoid preventDefault()\nDiz ao navegador Web para que não execute a ação padrão associada a esse evento, se houver uma. Se \no evento não é de um tipo que pode ser cancelado, esse método não tem efeito algum. Esse método \nnão é definido em objetos evento do IE, mas é simulado pela jQuery. No modelo de evento do IE, \nconfigure a propriedade returnValue como false, em vez disso.\nvoid stopImmediatePropagation()\nÉ como stopPropagation(), mas também impede a chamada de quaisquer outras rotinas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4805,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_213",
+  "content": "quantidade finita deles (18437736874454810627, \npara ser exato) pode ser representada de forma exata pelo formato de ponto flutuante de JavaScript. \nIsso significa que, quando se está trabalhando com números reais em JavaScript, a representação do \nnúmero frequentemente será uma aproximação dele.\n\n34          Parte     I     JavaScript     básica\nA representação em ponto flutuante IEEE-754 utilizada em JavaScript (e por praticamente todas \nas outras linguagens de programação modernas) é uma representação binária que pode descrever \nfrações como\n 1/2, 1/8 e 1/1024 com exatidão. Infelizmente,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 213,
+    "totalChunks": 10000
+  }
+}

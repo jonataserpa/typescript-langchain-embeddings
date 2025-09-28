@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1481",
+  "content": "/ Qualquer atribuição futura a ela é ignorada silenciosamente.\nconst pi = 4;    // É erro redeclarar uma constante.\nvar pi = 4;      // Isto também é erro.\nA palavra-chave const se comporta de forma muito parecida com a palavra-chave var: não há escopo \nde bloco e as constantes são içadas para o início da definição de função circundante. (Consulte a \nSeção 3.10.1.)\nVersões de JavaScript\nNeste capítulo, quando nos referimos a um determinado número de versão de JavaScript, estamos nos re-\nferindo especificamente à versão do Mozilla da linguagem, conforme implementada nos interpretadores",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1481,
+    "totalChunks": 10000
+  }
+}

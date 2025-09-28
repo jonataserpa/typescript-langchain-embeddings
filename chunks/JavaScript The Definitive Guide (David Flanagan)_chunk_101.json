@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_101",
+  "content": "mo se define e registra rotinas de tratamento \nde eventos e como o navegador as chama quando ocorrem eventos.\nO modo mais simples de definir rotinas de tratamento de evento é com atributos HTML que co-\nmeçam com “on”. A rotina de tratamento “onclick” é especialmente útil quando se está escrevendo \nprogramas de teste simples. Suponha que você tenha digitado as funções \ndebug() e hide() anteriores \ne salvo em arquivos chamados debug.js e hide.js. Você poderia escrever um arquivo de teste simples \nem HTML usando elementos <button> com atributos da rotina de tratamento de evento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 101,
+    "totalChunks": 10000
+  }
+}

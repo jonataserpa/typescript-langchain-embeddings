@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5394",
+  "content": "ariáveis de estado, 220\nentrada do usuário\n    eventos de texto, 469\n fi ltrando, 469–471\nenumerando propriedades, 123–125\n    ordem, em laços for/in, 99\nequipamentos iPhone e iPad da Apple, eventos de \ngesto e toque, 444\nerros\n    classe Error, 29, 104\n    objeto Error, 753–755\n        método toString( ), 755\n        propriedade    javaException,    285\n        propriedade    message,    755\n        propriedade    name,    755\n    propriedade access, 120\n    rotinas de tratamento de erro, semelhança com \neventos, 437\n    tratando em objetos Window, 342\nerros de arredondamento, números",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5394,
+    "totalChunks": 10000
+  }
+}

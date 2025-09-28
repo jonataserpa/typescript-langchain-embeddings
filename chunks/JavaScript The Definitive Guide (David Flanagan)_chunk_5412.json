@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5412",
+  "content": "lógico (&&), 74\n        operador NÃO lógico (!), 76\n        operador OU lógico (||), 75\n    objeto e inicializadores de array, 57\n    operador condicional (?:), 80–81\n    operador delete, 82–83\n    operador typeof, 80–81\n    operador vírgula (,), 83–84\n    operador void, 83–84\n    primárias,    56\n    propriedade access, 59, 163\n    relacionais,    70\n        operador    in,    73\n        operador    instanceof,    74\n        operadores de comparação, 72\n        operadores de igualdade e desigualdade, 70\n    visão geral dos operadores, 61–65\nexpressões aritméticas, 65–69\n    operador +, 66",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5412,
+    "totalChunks": 10000
+  }
+}

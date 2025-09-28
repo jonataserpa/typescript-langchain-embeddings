@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4002",
+  "content": "ket é muito fácil de usar. Primeiro, crie um soquete com a construtora WebSocket():\nvar socket = new WebSocket(\"ws://ws.example.com:1234/resource\");\nO argumento da construtora WebSocket() é um URL que utiliza o protocolo ws:// (ou wss:// para \numa conexão segura, como aquela utilizada por https://). O URL especifica o host a ser conectado \ne também pode especificar uma porta (os WebSockets usam as mesmas portas padrão de HTTP e \nHTTPS) e um caminho ou recurso.\nUma vez criado um soquete, geralmente você registra rotinas de tratamento de evento nele:\nsocket.onopen = function(e) {   /* Agora o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4002,
+    "totalChunks": 10000
+  }
+}

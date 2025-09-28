@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4092",
+  "content": "r\nO valor a ser mantido pelo objeto Boolean ou a ser convertido em um valor booleano.\nRetorna\nQuando chamado como construtora com o operador \nnew, Boolean() converte seu argumento em um \nvalor booleano e retorna um objeto Boolean contendo esse valor. Quando chamado como função, \nsem o operador \nnew, Boolean() simplesmente converte seu argumento em um valor booleano primi-\ntivo e retorna esse valor.\nOs valores 0, \nNaN, null, a string vazia \"\" e o valor undefined são todos convertidos em false. Todos \nos outros valores primitivos, exceto false (mas incluindo a string “false”), e todos os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4092,
+    "totalChunks": 10000
+  }
+}

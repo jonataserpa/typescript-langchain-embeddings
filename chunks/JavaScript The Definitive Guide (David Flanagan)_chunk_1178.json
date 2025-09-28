@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1178",
+  "content": "o \noperador instanceof, etc. Nesta seção, trocamos de marcha e demonstramos várias técnicas práticas \n(embora não fundamentais) para programar com classes em JavaScript. Começamos com dois exem-\nplos de classes não triviais que por si sós são interessantes, mas que também servem como pontos de \npartida para as discussões que se seguem.\n9.6.1   Exemplo: uma classe Set\nUm conjunto é uma estrutura de dados que representa um grupo não ordenado de valores, sem du-\nplicatas. As operações fundamentais em conjuntos são: somar valores e testar se um valor é membro \ndo conjunto, sendo que os conjuntos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1178,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1505",
+  "content": "Note que atribuições de desestruturação aninhadas como essa podem tornar seu código mais difícil \nde ler, em vez de simplificá-lo. Contudo, há uma regularidade interessante que pode ajudá-lo a en-\ntender os casos complexos. Pense primeiramente em uma atribuição normal (valor único). Depois \n\nCapítulo 11     Subconjuntos e extensões de JavaScript      267\nJavaScript básica\nque a atribuição é feita, pode-se pegar o nome da variável do lado esquerdo da atribuição e utilizá-lo \ncomo uma expressão em seu código, que será avaliada com o valor atribuído a ela. Na atribuição de \ndesestruturação,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1505,
+    "totalChunks": 10000
+  }
+}

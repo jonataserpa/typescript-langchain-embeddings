@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4370",
+  "content": "nstâncias, talvez você queira definir um método valueOf() personalizado para seus \npróprios objetos. Por exemplo, você poderia definir um tipo de objeto JavaScript para representar nú-\nmeros complexos (um número real, mais um número imaginário). Como parte desse tipo de objeto, \nvocê provavelmente definiria métodos para efetuar adição de números complexos, multiplicação, etc. \n(consulte o Exemplo 9-3). Mas talvez também quisesse tratar seus números complexos como núme-\nros reais normais, descartando a parte imaginária. Para isso, você poderia fazer algo como o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4370,
+    "totalChunks": 10000
+  }
+}

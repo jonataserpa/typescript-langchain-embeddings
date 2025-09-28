@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2820",
+  "content": "/ O elemento <query>\n    var find = doc.createElement(\"find\");        // Cria um elemento <find>\n    query.appendChild(find);                    // E o adiciona em <query>\n    find.setAttribute(\"zipcode\", where);        // Configura atributos em <find>\n    find.setAttribute(\"radius\",    radius);\n    find.appendChild(doc.createTextNode(what));  // E configura o conteúdo de <find>\n    // Agora envia os dados codificados como XML para o servidor.\n    // Note que Content-Type será configurado automaticamente.\n    request.send(doc);\n}\nNote que o Exemplo 18-8 jamais configura o cabeçalho",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2820,
+    "totalChunks": 10000
+  }
+}

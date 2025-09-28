@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2189",
+  "content": "ente não funciona corretamente, pois não leva \nem conta a posição da barra de rolagem. Aqui está uma versão modificada que subtrai posições da \nbarra de rolagem dos deslocamentos acumulados e, ao fazer isso, converte a posição retornada de \ncoordenadas do documento para coordenadas da janela de visualização:\nfunction getElementPos(elt) {\n    var x = 0, y = 0;\n    // Laço para somar deslocamentos\n    for(var e = elt; e != null; e = e.offsetParent) {\n        x += e.offsetLeft;\n        y += e.offsetTop;\n }\n  // Itera novamente, por todos os elementos ascendentes para subtrair deslocamentos de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2189,
+    "totalChunks": 10000
+  }
+}

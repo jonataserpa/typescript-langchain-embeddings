@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_493",
+  "content": "ramador de C++, note que a palavra-chave delete em JavaScript não tem nada a ver com a palavra-chave \ndelete da C++. Em JavaScript, a desalocação de memória é manipulada automaticamente pela coleta de lixo e nunca é \npreciso se preocupar em liberar memória explicitamente. Assim, não há necessidade de um delete estilo C++ para excluir \nobjetos inteiros.\n\nCapítulo 4     Expressões e operadores      83\nJavaScript básica\nvar a = [1,2,3];      // Começa com um array\ndelete a[2];          // Exclui o último elemento do array\n2 in a               // => falso: o elemento array 2 não existe",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 493,
+    "totalChunks": 10000
+  }
+}

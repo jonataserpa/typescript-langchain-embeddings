@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1143",
+  "content": "\\s+$/g, \"\");       // Mágica de expressão regular\n};\n// Retorna o nome de uma função. Se ela tem uma propriedade name (não padronizado), a \n//utiliza. Caso contrário, converte a função em uma string e extrai o nome desta string.\n// Retorna uma string vazia para funções não nomeadas como ela mesma.\nFunction.prototype.getName = function() {\n    return this.name || this.toString().match(/function\\s*([^(]*)\\(/)[1];\n};\nÉ possível adicionar métodos em Object.prototype, tornando-os disponíveis em todos os objetos. \nContudo, isso não é recomendado, pois antes de ECMAScript 5 não há uma maneira de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1143,
+    "totalChunks": 10000
+  }
+}

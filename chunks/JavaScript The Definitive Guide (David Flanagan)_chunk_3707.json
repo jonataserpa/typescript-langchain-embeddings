@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3707",
+  "content": "pos \nclientX e clientY de um objeto MouseEvent diretamen-\nte para isPointInPath(). Primeiramente, as coordenadas do evento de mouse devem ser transladadas \npara que sejam relativas ao elemento canvas, em vez do objeto Window. Segundo, se o tamanho do \ncanvas na tela é diferente de suas dimensões reais, as coordenadas do evento de mouse devem mudar \nde escala adequadamente. O Exemplo 21-11 mostra uma função utilitária que pode ser usada para \ndeterminar se um dado MouseEvent ocorreu sobre o caminho atual.\nExemplo 21-11 Testando se um evento de mouse ocorreu sobre o caminho atual\n// Retorna",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3707,
+    "totalChunks": 10000
+  }
+}

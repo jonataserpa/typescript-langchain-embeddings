@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4789",
+  "content": "lean defaultPrevented*\ntrue se defaultPrevented() foi chamado nesse evento ou false, caso contrário. Essa é uma no-\nvidade no modelo de evento padrão e pode não estar implementada em todos os navegadores. \n(Os eventos da jQuery definem um método isDefaultPrevented() que funciona como essa \npropriedade.)\nreadonly long detail\nUm detalhe numérico sobre o evento. Para eventos click, mousedown e mouseup, esse campo \né a contagem de cliques: 1 para um clique simples, 2 para um clique duplo, 3 para um clique \ntriplo e assim por diante. No Firefox, os eventos DOMMouseScroll usam essa propriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4789,
+    "totalChunks": 10000
+  }
+}

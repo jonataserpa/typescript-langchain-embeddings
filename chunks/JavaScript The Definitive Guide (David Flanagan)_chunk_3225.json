@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3225",
+  "content": "enumera elementos de array em ordem numérica pelo índice e não pula as propriedades inde-\nfinidas de arrays esparsos.\njQuery.extend()\nEsta função espera objetos como seus argumentos. Ela copia as propriedades do segundo \nobjeto e dos objetos subsequentes no primeiro objeto, sobrepondo todas as propriedades de \nmesmo nome no primeiro argumento. Esta função pula qualquer propriedade cujo valor seja \nundefined ou null. Se é passado apenas um objeto, as propriedades desse objeto são copia-\ndas no próprio objeto jQuery. O valor de retorno é o objeto no qual as propriedades foram \ncopiadas. Se o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3225,
+    "totalChunks": 10000
+  }
+}

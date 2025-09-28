@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1711",
+  "content": "nterativo, um programa JavaScript precisa definir meca-\nnismos de tratamento de eventos – funções de JavaScript registradas no navegador Web e depois \nchamadas por ele em resposta a eventos (como entrada de usuário). Como mostrado no início deste \ncapítulo, o código JavaScript pode registrar um mecanismo de tratamento de evento atribuindo uma \nfunção a uma propriedade (como onclick ou onmouseover) de um objeto Element que represente um \nelemento HTML no documento. (Também existem outras maneiras de registrar rotinas de trata-\nmento de evento – consulte o Capítulo 17.)\n\nCapítulo 13",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1711,
+    "totalChunks": 10000
+  }
+}

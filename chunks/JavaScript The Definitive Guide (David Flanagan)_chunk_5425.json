@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5425",
+  "content": "59\nfunção isNaN( ), 33\nfunção isPlainObject( ), 559\nfunção isSealed( ), 804–805\nfunção Iterator ( ), 269–270\nfunção JSON.parse( ), 135, 770\nfunção JSON.stringify( ), 135, 657, 772–773\nfunção keys( ), 805–806\n    enumerando nomes de propriedade, 125\nfunção load( ) (Rhino), 282\nfunção log( ), objeto Math, 780\nfunção makeArray( ), 559\nfunção map( ), 559\nfunção max( ), objeto Math, 181–182, 781\nfunção merge( ), 559\nfunção min( ), objeto Math, 781\nfunção noConfl ict( ), 513, 569\nfunção Number( ), conversões de tipo com, 46\nfunção Object( ), conversões de tipo com, 46\nfunção onload( ), defi nindo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5425,
+    "totalChunks": 10000
+  }
+}

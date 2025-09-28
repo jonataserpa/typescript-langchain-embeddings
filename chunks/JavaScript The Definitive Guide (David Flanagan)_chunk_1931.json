@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1931",
+  "content": "nerror é uma mensagem descrevendo o erro. O segundo argumento é uma \nstring contendo o URL do código JavaScript que causou o erro. O terceiro argumento é o número \nda linha dentro do documento onde o erro ocorreu.\nAlém desses três argumentos, o valor de retorno da rotina de tratamento \nonerror tem significado. \nSe a rotina de tratamento onerror retorna false, isso diz ao navegador que a rotina de tratamento \ntratou do erro e que mais nenhuma ação é necessária – em outras palavras, o navegador não deve \nexibir sua própria mensagem de erro. Infelizmente, por motivos históricos, no Firefox, uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1931,
+    "totalChunks": 10000
+  }
+}

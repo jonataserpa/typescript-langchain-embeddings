@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2569",
+  "content": "ada do usuário não passa na validação no \nlado do cliente.) Da mesma forma, uma rotina de tratamento onkeypress em um campo de entrada \npode filtrar entrada de teclado retornando false, caso o usuário digite um caractere inadequado. (O \nExemplo 17-6 filtra entrada de teclado dessa maneira.)\nO valor de retorno da rotina de tratamento \nonbeforeunload do objeto Window também tem signifi-\ncado. Esse evento é disparado quando o navegador está prestes a navegar para uma nova página. Se \nessa rotina de tratamento de evento retornar uma string, ela vai ser exibida em uma caixa de diálogo \nmodal que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2569,
+    "totalChunks": 10000
+  }
+}

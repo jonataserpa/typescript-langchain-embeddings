@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2223",
+  "content": "ntêiner, as rotinas de tratamento de evento \ndesses elementos sempre podem se referir ao objeto Form como \nthis.form. Indo um passo adiante, \nisso significa que uma rotina de tratamento de evento de um elemento de formulário pode se referir \na um elemento de formulário irmão chamado \nx como this.form.x.\n15.9.4   Botões de pressão\nOs botões são um dos elementos de formulário mais comumente usados, pois fornecem uma ma-\nneira visual clara de permitir que o usuário dispare alguma ação com script. Um elemento botão \nnão tem um comportamento padrão próprio e não tem utilidade a não ser que possua",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2223,
+    "totalChunks": 10000
+  }
+}

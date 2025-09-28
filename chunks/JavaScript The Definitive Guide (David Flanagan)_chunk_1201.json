@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1201",
+  "content": "rna um array de cartas\nDeck.prototype.deal = function(n) {\n    if (this.cards.length < n) throw \"Out of cards\";\n    return this.cards.splice(this.cards.length-n, n);\n};\n// Cria um novo maço de cartas, embaralha e distribui uma mão de bridge\nvar deck = (new Deck()).shuffle();\nvar hand = deck.deal(13).sort(Card.orderBySuit);\n9.6.3   Métodos de conversão padrão\nA Seção 3.8.3 e a Seção 6.10 descreveram importantes métodos usados para conversão de tipo de \nobjetos, alguns dos quais são chamados automaticamente pelo interpretador JavaScript quando a \nconversão é necessária. Não é preciso",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1201,
+    "totalChunks": 10000
+  }
+}

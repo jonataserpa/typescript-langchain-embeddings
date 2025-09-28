@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3479",
+  "content": "s suportassem, de modo que você \nnormalmente acaba usando elementos <source> para especificar várias fontes de mídia em diferentes \nformatos:\n<audio id=\"music\">\n<source src=\"music.mp3\" type=\"audio/mpeg\">\n<source src=”music.ogg” type=’audio/ogg; codec=”vorbis”’>\n</audio>\n\n602          Parte II     JavaScript do lado do cliente\nNote que os elementos <source> não têm conteúdo: não há tag </source> de fechamento e não é \npreciso terminá-los com />\nOs navegadores que suportam elementos <audio> e <video> não vão renderizar o conteúdo desse ele-\nmento. Mas os navegadores que não os suportam",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3479,
+    "totalChunks": 10000
+  }
+}

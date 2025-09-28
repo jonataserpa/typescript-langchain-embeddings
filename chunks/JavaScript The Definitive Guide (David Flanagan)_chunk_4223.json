@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4223",
+  "content": "b Global.undefined. Note que todas as variáveis de \nnível superior também são propriedades do objeto global:\nInfinity\nUm valor numérico representando o infinito positivo.\nNaN\nO valor not-a-number (não é número).\nundefined\nO valor undefined.\n\n766          Parte III     Referência de JavaScript básica\nFunções globais\nO objeto global é um objeto, não uma classe. As funções globais listadas aqui não são métodos de \nnenhum objeto e suas entradas de referência aparecem sob o nome da função. Por exemplo, você \nvai encontrar detalhes sobre a função parseInt() debaixo de parseInt() e não de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4223,
+    "totalChunks": 10000
+  }
+}

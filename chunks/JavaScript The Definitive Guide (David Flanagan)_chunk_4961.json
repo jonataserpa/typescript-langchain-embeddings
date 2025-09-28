@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4961",
+  "content": "ome (ou nomes) especificado do atributo class de todos os elementos seleciona-\ndos. Se é passada uma função, em vez de uma string, a chama como método de cada elemento \npara calcular o nome (ou nomes) a ser removido.\nremoveData([chave])\nRemove a propriedade nomeada do objeto data de cada elemento selecionado. Se não for espe-\ncificado nenhum nome de propriedade, remove o próprio objeto data inteiro.\nscrollLeft():int\nscrollLeft(int)\nRetorna a posição da barra de rolagem horizontal do primeiro elemento selecionado ou a con-\nfigura para todos os elementos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4961,
+    "totalChunks": 10000
+  }
+}

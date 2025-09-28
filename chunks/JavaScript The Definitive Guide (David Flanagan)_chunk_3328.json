@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3328",
+  "content": "ente      575\nJavaScript do\n lado do cliente\n20.1   localStorage e sessionStorage\nOs navegadores que implementam a versão draft da especificação “Web Storage” definem duas pro-\npriedades no objeto Window: localStorage e sessionStorage. Ambas se referem a um objeto Storage \n– um array associativo persistente que mapeia chaves de string em valores de string. O funcionamen-\nto dos objetos Storage é muito parecido com o dos objetos JavaScript normais: basta configurar uma \npropriedade do objeto com uma string e o navegador armazena essa string para você. A diferença \nentre localStorage e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3328,
+    "totalChunks": 10000
+  }
+}

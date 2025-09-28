@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4009",
+  "content": "// servidor websocket e usa os mesmos nome de host e porta, mas muda\n    // do protocolo http:// para ws://\n    var socket = new WebSocket(\"ws://\" + location.host + \"/\");\n \n    // É assim que recebemos mensagens do servidor por meio do soquete web\n    socket.onmessage = function(event) {         // Quando chega uma nova mensagem\n        var msg = event.data;                   // Obtém o texto do objeto evento\n        var node = document.createTextNode(msg); // O transforma em um nó de texto\n        var div = document.createElement(\"div\"); // Cria um <div>\n        div.appendChild(node);",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4009,
+    "totalChunks": 10000
+  }
+}

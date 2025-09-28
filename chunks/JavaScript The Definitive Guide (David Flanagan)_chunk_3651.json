@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3651",
+  "content": "des não conectadas de \ncaminhos e dos vértices onde dois segmentos de caminho se encontram. Eles têm pouco impacto vi-\nsual em linhas estreitas, mas fazem uma enorme diferença quando você está desenhando com linhas \ngrossas. Duas dessas propriedades estão ilustradas na Figura 21-11. A figura mostra o caminho como \numa linha preta fina e o traço como a área cinza que a circunda.\nFigura 21-10 Preenchimentos de padrão e gradiente.\n\n636          Parte II     JavaScript do lado do cliente\nFigura 21-11 Os atributos lineCap e lineJoin.\nA propriedade lineCap especifica como as extremidades de um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3651,
+    "totalChunks": 10000
+  }
+}

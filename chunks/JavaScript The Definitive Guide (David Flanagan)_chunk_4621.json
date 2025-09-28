@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4621",
+  "content": "e executar os comandos subsequentes no escopo do quadro especificado.\nvoid clear()\nLimpa a janela da console.\nvoid dir(object o)\nExibe as propriedades ou os elementos de o. É como Console.dir().\nvoid dirxml(Element elt)\nExibe uma representação de elt baseada em XML ou HTML. É como Console.dirxml().\nElement $(string id)\nUm atalho para document.getElementById().\nNodeList $$(string seletor)\nRetorna um objeto semelhante a um array com todos os elementos correspondentes ao seletor CSS \nespecificado. É um atalho para document.querySelectorAll(). Em algumas consoles, retorna um ar-\nray verdadeiro em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4621,
+    "totalChunks": 10000
+  }
+}

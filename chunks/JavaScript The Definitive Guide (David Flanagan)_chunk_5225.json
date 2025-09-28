@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5225",
+  "content": "a caixa de diálogo seja fechada.\nstring atob(string aparab)\nEssa função utilitária aceita uma string codificada em base64 e a decodifica em uma string binária de \nJavaScript na qual cada caractere representa um byte. Use o método \ncharCodeAt() da string retornada \npara extrair os valores de byte. Consulte também btoa().\nvoid blur()\nO método blur() retira o foco do teclado da janela de nível superior do navegador especificada pelo \nobjeto Window. Não é definido qual janela ganha o foco do teclado como resultado. Em alguns \nnavegadores e/ou plataformas, esse método pode não ter efeito algum.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5225,
+    "totalChunks": 10000
+  }
+}

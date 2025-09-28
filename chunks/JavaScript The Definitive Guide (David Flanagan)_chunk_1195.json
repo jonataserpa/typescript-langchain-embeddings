@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1195",
+  "content": "r entre as instâncias da classe\n    enumeration.foreach = function(f,c) {\n        for(var i = 0; i < this.values.length; i++) f.call(c,this.values[i]);\n    };\n    // Retorna a construtora que identifica o novo tipo\n    return    enumeration;\n}\nO “hello world” dos tipos enumeração é usar um tipo enumeração para representar os naipes de \num baralho. O Exemplo 9-8 usa a função enumeration() dessa maneira e também define classes para \nrepresentar cartas e baralhos\n1\n.\nExemplo 9-8 Representando cartas com tipos enumeração\n// Define uma classe para representar cartas de baralho\nfunction Card(suit,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1195,
+    "totalChunks": 10000
+  }
+}

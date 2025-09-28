@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4038",
+  "content": "ray. Ela não modifica array. Se qualquer um dos argumentos de concat() for ele \npróprio um array, os elementos desse array são concatenados, em vez do array em si.\nExemplo\nvar a = [1,2,3];\na.concat(4, 5)           // Retorna [1,2,3,4,5]\na.concat([4,5]);         // Retorna [1,2,3,4,5]\na.concat([4,5],[6,7])    // Retorna [1,2,3,4,5,6,7]\na.concat(4, [5,[6,7]])   // Retorna [1,2,3,4,5,[6,7]]\nConsulte também\nArray.join(), Array.push(), Array.splice()\nArray.every() ECMAScript 5\ntesta se um predicado é verdadeiro para cada elemento\nSinopse\narray.every(predicado)\narray.every(predicado, o)",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4038,
+    "totalChunks": 10000
+  }
+}

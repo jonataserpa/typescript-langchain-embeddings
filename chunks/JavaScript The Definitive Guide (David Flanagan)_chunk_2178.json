@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2178",
+  "content": "a-\ntion.hash é configurado com o nome de uma âncora nomeada (um elemento <a name=\"\">).\n15.8.5   Mais informações sobre tamanho, posição e overflow de elemento\nO método getBoundingClientRect() é definido em todos os navegadores atuais, mas se você precisa \ndar suporte a uma geração mais antiga de navegadores, não pode contar com esse método e deve \nusar técnicas mais antigas para determinar o tamanho e a posição do elemento. O tamanho do ele-\nmento é fácil: as propriedades somente para leitura \noffsetWidth e offsetHeight de qualquer elemento \nHTML retornam seu tamanho na tela, em pixels CSS.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2178,
+    "totalChunks": 10000
+  }
+}

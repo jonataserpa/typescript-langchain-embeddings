@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_249",
+  "content": "operação booleana E. Ele é avaliado como um valor verdadeiro se, e so-\nmente se, seus dois operandos são verdadeiros; caso contrário, é avaliado como um valor falso. O \noperador \n|| é a operação booleana OU: ele é avaliado como um valor verdadeiro se um ou outro (ou \nambos) de seus operandos é verdadeiro e é avaliado como um valor falso se os dois operandos são \nfalsos. Por fim, o operador unário \n! executa a operação booleana NÃO: ele é avaliado como true se \nseu operando é falso e é avaliado como \nfalse se seu operando é verdadeiro. Por exemplo:\nif ((x == 0 && y == 0) || !(z == 0)) {\n    //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 249,
+    "totalChunks": 10000
+  }
+}

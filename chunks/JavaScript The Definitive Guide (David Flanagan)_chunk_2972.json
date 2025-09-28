@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2972",
+  "content": "tyle ou de uma folha de estilo. Note que não é possível consultar estilos compostos, \ncomo “font” ou “margin”. Em vez disso, você deve consultar estilos individuais, como “font-weight”, \n“font-family”, “margin-top” ou “margin-left”. Ao configurar estilos, o método css() simplesmente \nadiciona o estilo no atributo style do elemento. css() permite usar nomes de estilo CSS com hífen \n(“background-color”) ou nomes de estilo JavaScript com maiúsculas no meio (“backgroundColor”). \nAo consultar valores de estilo, css() retorna valores numéricos como strings, com sufixos de unida-\ndes incluídos. No",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2972,
+    "totalChunks": 10000
+  }
+}

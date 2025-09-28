@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5155",
+  "content": "ós o último <tbody> na tabela ou no fim da tabela.\nTableSection createTFoot()\nEsse método retorna um TableSection representando o primeiro elemento <tfoot> dessa tabela. Se a \ntabela já tem um rodapé, esse método simplesmente o retorna. Se a tabela ainda não tem um rodapé, \nesse método cria um novo elemento <tfoot> (vazio) e o insere na tabela, antes de retorná-lo.\n\n      Referência de JavaScript do lado do cliente      975\nReferência de \nJavaScript do lado \ndo cliente\nTableSection createTHead()\nEsse método retorna um TableSection representando o primeiro elemento <thead> dessa tabela. Se a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5155,
+    "totalChunks": 10000
+  }
+}

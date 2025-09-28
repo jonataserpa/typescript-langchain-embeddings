@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1088",
+  "content": "tipos da linguagem. \nSe dois objetos herdam propriedades do mesmo objeto protótipo, dizemos que eles são instâncias da \nmesma classe. Os protótipos e a herança de JavaScript foram abordados na Seção 6.1.3 e na Seção \n6.2.2, sendo que para compreender este capítulo é preciso estar familiarizado com o material dessas \nseções. Este capítulo aborda os protótipos na Seção 9.1.\nSe dois objetos herdam do mesmo protótipo, normalmente (mas não necessariamente) isso signi-\nfica que eles foram criados e inicializados pela mesma função construtora. As construtoras foram \nabordadas na Seção 4.6, na Seção",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1088,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_482",
+  "content": "ivamente em uma palavra reservada. Não é permitido sobrescrever a função \neval() com \num novo valor. E não é permitido declarar uma variável, função, parâmetro de função ou parâmetro \nde bloco de captura com o nome “eval”.\n4.13   Operadores   diversos\nJavaScript aceita diversos outros operadores, descritos nas seções a seguir.\n4.13.1   O operador condicional (?:)\nO operador condicional é o único operador ternário (três operandos) de JavaScript e às vezes é \nchamado de operador ternário. Esse operador às vezes é escrito como ?:, embora não apareça dessa \n\nCapítulo 4     Expressões e operadores",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 482,
+    "totalChunks": 10000
+  }
+}

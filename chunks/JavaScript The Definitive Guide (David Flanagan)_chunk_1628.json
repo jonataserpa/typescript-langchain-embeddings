@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1628",
+  "content": "NT, SIGHUP e SIGTERM, geram eventos\nprocess.on(\"SIGINT\", function() { console.log(\"Ignored Ctrl-C\"); });\nComo o Node é projetado para E/S de alto desempenho, sua API de fluxo é comumente utilizada. \nFluxos que podem ser lidos disparam eventos quando os dados estão prontos. No código a seguir, \npresuma que s é um fluxo de que pode ser lido, obtido em algum lugar. Vamos ver como obtemos \nobjetos (stream) fluxo para arquivos e soquetes de rede a seguir:\n// Fluxo de entrada s:\ns.on(\"data\", f);  // Quando os dados estão disponíveis, passa-os como argumento para f()\ns.on(\"end\", f);   // Evento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1628,
+    "totalChunks": 10000
+  }
+}

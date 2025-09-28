@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5480",
+  "content": "890–891\nmétodo getElementsByTagNameNS( )\n    objeto Document, 880\n    objeto Element, 890–891\nmétodo getFloat32( ), objeto DataView, 874\nmétodo getFloat64( ), objeto DataView, 874\nmétodo getFullYear( ), objeto Date, 731\nmétodo getHours( ), objeto Date, 731\nmétodo getInt16( ), objeto DataView, 874\nmétodo getInt32( ), objeto DataView, 874\nmétodo getInt8( ), objeto DataView, 874\nmétodo getItem( ), objeto Storage, 972–973\nmétodo getMilliseconds( ), objeto Date, 731\nmétodo getMinutes( ), objeto Date, 732\nmétodo getMonth( ), objeto Date, 732\nmétodo getSeconds( ), objeto Date, 732\nmétodo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5480,
+    "totalChunks": 10000
+  }
+}

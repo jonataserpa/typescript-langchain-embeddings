@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5081",
+  "content": "dades de objetos Node indivi-\nduais. Note também que elas não são definidas no IE8 e anteriores. Por compatibilidade, você \npode codificar os valores ou definir suas próprias constantes.\nunsigned short DOCUMENT_POSITION_DISCONNECTED = 0x01\nunsigned short DOCUMENT_POSITION_PRECEDING = 0x02\nunsigned short DOCUMENT_POSITION_FOLLOWING = 0x04\nunsigned short DOCUMENT_POSITION_CONTAINS = 0x08\nunsigned short DOCUMENT_POSITION_CONTAINED_BY = 0x10\nEssas constantes especificam bits que podem ser ativados ou desativados no valor de retorno \nde compareDocumentPosition().\nPropriedades\nreadonly string",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5081,
+    "totalChunks": 10000
+  }
+}

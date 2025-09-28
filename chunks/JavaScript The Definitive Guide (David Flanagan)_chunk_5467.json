@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5467",
+  "content": "rimento variável, 167\nlistas de símbolos, DOM, 884–885\nliterais, 57\n    defi nidas, 23\n    expressão regular, 245\n    literais XML incluídas em código JavaScript, 277\n    numéricas,    30\n    objeto,    114\n    string,    35\nliterais de objeto, 114\nliterais em ponto fl utuante, 31\nliterais inteiras, 31\nliterais numéricas, 30\nlookupNamespaceURI( ), objeto Node, 963\n    instruções continue em, 102\nlvalues, 63, 98\nM\nm (modo de várias linhas) na comparação de padrões \nem expressão regular, 253\nmapa, exibindo com geolocalização, 654\nmargens\n    especifi cando para elementos com CSS, 412\n    no",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5467,
+    "totalChunks": 10000
+  }
+}

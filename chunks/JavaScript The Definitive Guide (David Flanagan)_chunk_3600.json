@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3600",
+  "content": "s geometricamente, considerando translate(), rotate() e \nscale() como uma transformação dos eixos do sistema de coordenadas conforme ilustrado na Figura \n\n626          Parte II     JavaScript do lado do cliente\n21-7. Também é possível entender as transformações algebricamente, como equações que mapeiam \nas coordenadas de um ponto (x,y) no sistema de coordenadas, transformado de volta para as coor-\ndenadas do mesmo ponto (x',y') no sistema de coordenadas anterior.\nA chamada de método \nc.translate(dx,dy) pode ser descrita com as seguintes equações:\nx' = x + dx; // Uma coordenada X igual a 0 no",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3600,
+    "totalChunks": 10000
+  }
+}

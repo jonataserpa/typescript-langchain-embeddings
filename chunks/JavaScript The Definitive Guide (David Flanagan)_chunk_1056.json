@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1056",
+  "content": "iro objeto função (e tem métodos de função), pode \ntestar seu atributo classe (Seção 6.8.2) usando a técnica mostrada no Exemplo 6-4:\nfunction isFunction(x) {\n    return Object.prototype.toString.call(x) === \"[object Function]\";\n}\nNote que essa função isFunction() é muito parecida com a função isArray() mostrada na Seção \n7.10.\n8.8   Programação   funcional\nJavaScript não é uma linguagem de programação funcional como Lisp ou Haskell, mas o fato de ela \npoder manipular funções como objetos significa que podemos usar técnicas de programação fun-\ncional em JavaScript. Os métodos de array de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1056,
+    "totalChunks": 10000
+  }
+}

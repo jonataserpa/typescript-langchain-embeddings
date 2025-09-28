@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1186",
+  "content": "os recebem o prefixo #.\n            case 'string': return '\"' + val;    // Strings recebem o prefixo \".\n            default: return '@' + objectId(val); // Objetos e funções recebem @\n  }\n }\n    // Para qualquer objeto, retorna uma string. Esta função vai retornar uma\n    // string diferente para diferentes objetos e sempre vai retornar a mesma string\n    // se for chamada várias vezes para o mesmo objeto. Para fazer isso, ela cria uma\n     // propriedade em o. Em ES5, a propriedade seria não enumerável e somente para leitura.\n\nCapítulo 9     Classes e módulos      211\nJavaScript básica",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1186,
+    "totalChunks": 10000
+  }
+}

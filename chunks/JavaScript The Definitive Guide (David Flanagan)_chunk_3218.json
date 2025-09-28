@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3218",
+  "content": "do cliente\natividade de rede. Esse par de eventos pode ser útil para mostrar e ocultar algum tipo de animação \n“Carregando...”. ou ícone de atividade de rede. Por exemplo:\n$(\"#loading_animation\").bind({\n    ajaxStart: function() { $(this).show(); },\n    ajaxStop: function() { $(this).hide(); }\n});\nEssas rotinas de tratamento de evento ajaxStart e ajaxStop podem ser vinculadas a qualquer elemen-\nto do documento: a jQuery as dispara globalmente (Seção 19.4.6) e não em um elemento específico. \nOs outros quatro eventos Ajax, ajaxSend, ajaxSuccess, ajaxError e ajaxComplete, em geral também \nsão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3218,
+    "totalChunks": 10000
+  }
+}

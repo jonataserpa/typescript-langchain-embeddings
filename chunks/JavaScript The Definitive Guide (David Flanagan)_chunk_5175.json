@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5175",
+  "content": "ores, isso significa que o texto é realçado e que novo texto digitado pelo usuário substitui o texto \nrealçado, em vez de ser anexado a ele.\nvoid setSelectionRange(unsigned long início, unsigned long fim)\nSeleciona texto exibido no elemento <textarea>, começando com o caractere na posição início e \ncontinuando até (mas não incluindo) o caractere em fim.\nTextMetrics\nmedidas de uma string de texto\nUm objeto TextMetrics é retornado pelo método \nmeasureText() de CanvasRenderingContext2D. \nSua propriedade width contém a largura do texto medido, em pixels CSS. Mais métricas podem ser \nadicionadas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5175,
+    "totalChunks": 10000
+  }
+}

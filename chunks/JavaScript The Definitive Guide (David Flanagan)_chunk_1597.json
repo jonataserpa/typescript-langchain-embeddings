@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1597",
+  "content": "java.awt.event.FocusListener({\n    focusGained: function(e) { print(\"got focus\"); },\n    focusLost: function(e) { print(\"lost focus\"); }\n});\n// Estende classes abstratas da mesma maneira\nvar handler = new java.awt.event.WindowAdapter({\n    windowClosing: function(e) { java.lang.System.exit(0); }\n});\n//  Quando uma interface tem apenas um método, você pode simplesmente usar uma função em\n// seu lugar\nbutton.addActionListener(function(e) { print(\"button clicked\"); });\n// Se todos os métodos de uma interface ou classe abstrata têm a mesma assinatura,\n// então você pode usar uma única função",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1597,
+    "totalChunks": 10000
+  }
+}

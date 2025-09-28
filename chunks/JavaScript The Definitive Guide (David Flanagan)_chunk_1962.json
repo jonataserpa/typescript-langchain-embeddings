@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1962",
+  "content": "open() abre uma nova janela, o método close() fecha. Se você cria um objeto \nWindow w, pode fechá-lo com:\nw.close();\nO próprio código JavaScript em execução dentro dessa janela pode fechá-la com:\nwindow.close();\nObserve o uso explícito do identificador window para distinguir o método close() do objeto Window \ndo método close() do objeto Document – isso é importante se você está chamando close() a partir \nde uma rotina de tratamento de evento.\nA maioria dos navegadores permite fechar automaticamente somente as janelas criadas por seu pró-\nprio código JavaScript. Se você tenta fechar qualquer",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1962,
+    "totalChunks": 10000
+  }
+}

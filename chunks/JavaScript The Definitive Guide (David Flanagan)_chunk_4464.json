@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4464",
+  "content": "la convertida em sua equivalente minúscula, caso tenha uma.\nString.toString()\nretorna a string Anula Object.toString()\nSinopse\nstring.toString()\nRetorna\nO valor de string primitivo de \nstring. Raramente é necessário chamar esse método.\n\n836          Parte III     Referência de JavaScript básica\nLança\nTypeError\nSe esse método é chamado em um objeto que não é String.\nConsulte também\nString.valueOf()\nString.toUpperCase()\nconverte uma string para letras maiúsculas\nSinopse\nstring.toUpperCase()\nRetorna\nUma cópia de \nstring com cada letra minúscula convertida em sua equivalente maiúscula, caso tenha",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4464,
+    "totalChunks": 10000
+  }
+}

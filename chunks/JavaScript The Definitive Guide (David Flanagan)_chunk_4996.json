@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4996",
+  "content": "cebida, a analisa como JSON e passa o objeto resultante para a função \ncallback \nf. Retorna o objeto XMLHttpRequest, se houver, usado para o pedido.\njQuery.getScript(url, [f(texto,status)]):XMLHttpRequest\nSolicita o url especificado de forma assíncrona. Quando a resposta chega, a executa como um \nscript e então passa o texto da resposta para f. Retorna o objeto XMLHttpRequest, se houver, \nusado para o pedido. São permitidos vários domínios, mas não passa o texto do script para f e \nnão retorna um objeto XMLHttpRequest.\njQuery.get(url, [dados], [f(dados,status,xhr)], [tipo]):XMLHttpRequest\nFaz",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4996,
+    "totalChunks": 10000
+  }
+}

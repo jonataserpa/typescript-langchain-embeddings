@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2948",
+  "content": "otação de array com colchetes padrão:\n$(\"body\").length // => 1: os documentos têm apenas um elemento body\n$(\"body\")[0] // Isto é o mesmo que document.body\nSe preferir não utilizar notação de array com objetos jQuery, você pode usar o método size() em vez \nda propriedade \nlength e o método get() em vez da indexação com colchetes. Se precisar converter \num objeto jQuery em um array verdadeiro, chame o método toArray().\nmais precisa, porém complicada, como “o método attr() define atributos HTML nos elementos do \nobjeto jQuery no qual foi chamado”. Note que a palavra “selecionado” se refere ao",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2948,
+    "totalChunks": 10000
+  }
+}

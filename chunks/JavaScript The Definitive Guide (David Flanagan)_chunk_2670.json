@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2670",
+  "content": "código não tenta\n * soluções específicas para os navegadores.\n */\nwhenReady(function() {  // Executa esta função quando o documento está pronto\n    // Localiza todos os elementos <ul class='dnd'> e chama a função dnd() neles\n    var lists = document.getElementsByTagName(\"ul\");\n    var regexp = /\\bdnd\\b/;\n    for(var i = 0; i < lists.length; i++)\n        if (regexp.test(lists[i].className)) dnd(lists[i]);\n    // Adiciona rotinas de tratamento de arrastar e soltar em um elemento da lista\n    function dnd(list) {\n        var original_class = list.className;     // Lembra a classe CSS original",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2670,
+    "totalChunks": 10000
+  }
+}

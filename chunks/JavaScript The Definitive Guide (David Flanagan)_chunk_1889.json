@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1889",
+  "content": "= args.n ? parseInt(args.n) : 10;\n */\nfunction urlArgs() {\n    var args = {};                    // Começa com um objeto vazio\n    var query = location.search.substring(1);    // Obtém a string de consulta, menos '?'\n    var pairs = query.split(\"&\");               // Divide nos E comerciais\n    for(var i = 0; i < pairs.length; i++) {      // Para cada fragmento\n        var pos = pairs[i].indexOf('=');         // Procura \"nome=valor\"\n        if (pos == -1) continue;                // Se não for encontrado, pula\n        var name = pairs[i].substring(0,pos);    // Extrai o nome\n        var",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1889,
+    "totalChunks": 10000
+  }
+}

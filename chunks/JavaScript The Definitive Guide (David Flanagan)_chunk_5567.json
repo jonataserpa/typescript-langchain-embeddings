@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5567",
+  "content": "260\n    uso em métodos getter e setter de propriedade, \n127\npalavra-chave var, 51\n    substituindo por let, 263\npalavra-chave yield, 270–271\npalavras reservadas, 24\n    expressões primárias, 57\n    nomes de atributo HTML, 366\n    propriedades CSS tem palavra reservada no nome, \n421\n    usando como nomes de propriedade, 114\n        consultando e acessando as propriedades, 117\npalavras-chave, diferenciação de maiúsculas e minús-\nculas, 21\nparadas de cor, 633\nparâmetros (função), 158, 166\n    opcionais,    166\npedidos e respostas (HTTP), 482\n    cancelamento de pedidos e tempos-limite, 497",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5567,
+    "totalChunks": 10000
+  }
+}

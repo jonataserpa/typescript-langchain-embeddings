@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2318",
+  "content": "ção de um elemento com relação à janela do navegador. \nElementos com posicionamento fixed são sempre visíveis e não rolam com o restante do do-\ncumento. Assim como os elementos posicionados de forma absoluta, os elementos de posição \nfixa são independentes de todos os outros e não fazem parte do fluxo do documento. O posi-\ncionamento fixo é suportado na maioria dos navegadores modernos, mas não está disponível \nno IE6.\nrelative\nQuando a propriedade position é configurada como relative, um elemento é disposto de \nacordo com o fluxo normal e sua posição é então ajustada em relação ao fluxo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2318,
+    "totalChunks": 10000
+  }
+}

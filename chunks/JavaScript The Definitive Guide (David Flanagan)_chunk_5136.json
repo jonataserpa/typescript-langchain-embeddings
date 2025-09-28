@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5136",
+  "content": "ay de elementos Option contidos nesse elemento Select. Con-\nsulte HTMLOptionsCollection para ver uma descrição sobre o comportamento histórico des-\nse conjunto.\n\n      Referência de JavaScript do lado do cliente      971\nReferência de \nJavaScript do lado \ndo cliente\nlong selectedIndex\nA posição da opção selecionada no array options. Se nenhuma opção estiver selecionada, essa \npropriedade é −1. Se várias opções estão selecionadas, essa propriedade contém o índice da \nprimeira opção selecionada.\nConfigurar o valor dessa propriedade seleciona a opção especificada e anula a seleção de todas \nas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5136,
+    "totalChunks": 10000
+  }
+}

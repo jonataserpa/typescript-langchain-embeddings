@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5573",
+  "content": "no modelo de caixa CSS, 413\npreenchimentos\n    cortados,    638\n    cores, degradês e padrões em Canvas, 631–634, \n851–852\npreviousElementSibling, objeto Element, 363, \n888–889\nprocedimentos, 161\nprogramação orientada a objetos\n    favorecendo a composição em detrimento da he-\nrança, 227\n    linguagens fortemente tipadas, 193\n    separando interface da implementação, 228\nprogramas, JavaScript, 309\nprojeto ExplorerCanvas, 616\npropagação de eventos (consulte eventos, propagação \nde eventos)\npropagação de eventos, 451\n    cancelando,    452\n    defi nição, 434\n    interrompendo,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5573,
+    "totalChunks": 10000
+  }
+}

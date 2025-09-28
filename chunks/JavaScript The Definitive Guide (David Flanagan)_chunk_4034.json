@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4034",
+  "content": "o novidades de ECMAScript 5, mas foram implementados pelos navegadores (fora o IE) \nantes de ES5 ser padronizada.\nconcat()\nConcatena elementos em um array.\nevery()\nTesta se um predicado é verdadeiro para cada elemento do array.\n\n      Referência de JavaScript básica      707\nReferência de \nJavaScript básica\nfilter()\nRetorna elementos do array que satisfazem uma função predicado.\nforEach()\nChama uma função para cada elemento do array.\nindexOf()\nPesquisa um array em busca de um elemento coincidente.\njoin()\nConverte todos os elementos do array em strings e as concatena.\nlastIndexOf()\nPesquisa",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4034,
+    "totalChunks": 10000
+  }
+}

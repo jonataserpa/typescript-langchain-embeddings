@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_434",
+  "content": "tivo, esse valor é usado. Caso contrário, é usado o valor de retorno de seu método \ntoString().\n •   Se, após qualquer conversão de objeto para valor primitivo exigida, os dois operandos são \nstrings, as duas strings são comparadas usando a ordem alfabética, onde a “ordem alfabética” é \ndefinida pela ordem numérica dos valores Unicode de 16 bits que compõem as strings.\n •   Se, após a conversão de objeto para valor primitivo, pelo menos um operando não é uma \nstring, os dois operandos são convertidos em números e comparados numericamente. \n0 e -0 \nsão considerados iguais. Infinity é maior do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 434,
+    "totalChunks": 10000
+  }
+}

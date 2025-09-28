@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4290",
+  "content": "se tornam menores do que Number.MIN_VALUE, JavaScript os converte em zero.\nJavaScript exibe o valor \nPOSITIVE_INFINITY como Infinity. Esse valor se comporta matematicamente \ncomo infinito; por exemplo, qualquer coisa multiplicada por infinito é infinito e qualquer coisa di-\nvidida por infinito é zero. Em ECMAScript v1 e posteriores, você também pode usar a propriedade \nglobal predefinida Infinity, em vez de Number.POSITIVE_INFINITY.\n\n      Referência de JavaScript básica      789\nReferência de \nJavaScript básica\nConsulte também\nInfinity, isFinite()\nNumber.toExponential()\nformata um número",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4290,
+    "totalChunks": 10000
+  }
+}

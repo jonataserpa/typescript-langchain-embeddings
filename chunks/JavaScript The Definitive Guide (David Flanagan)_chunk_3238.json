@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3238",
+  "content": "9.8.1   Seletores   jQuery\nA jQuery suporta um subconjunto bastante completo da gramática de seletor definida pela versão \npreliminar do padrão CSS3 Selectors, com a inclusão de algumas pseudoclasses não padronizadas, \nmas muito úteis. Os seletores CSS básicos foram descritos na Seção 15.2.5. Repetimos esse material \naqui e também acrescentamos explicações sobre os seletores mais avançados. Lembre-se de que esta \nseção documenta seletores da jQuery. Muitos desses seletores (mas não todos) também podem ser \nusados em folhas de estilos CSS.\nA gramática de seletor tem três camadas. Sem dúvida,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3238,
+    "totalChunks": 10000
+  }
+}

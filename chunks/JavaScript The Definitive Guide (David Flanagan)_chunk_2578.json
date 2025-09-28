@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2578",
+  "content": "gumento é true. Isso significa que a captura de eventos \nnão está disponível no IE antes do IE9 – e, quando este livro estava sendo escrito, não era uma téc-\nnica usada normalmente.\nA fase de captura da propagação de eventos é como a fase de borbulha ao contrário. As rotinas de \ncaptura do objeto Window são chamadas primeiro, em seguida as rotinas de captura do objeto Do-\ncument, depois do objeto corpo e assim por diante, descendo a árvore DOM, até serem chamadas \nas rotinas de captura de evento do pai do alvo do evento. As rotinas de captura de evento registradas \nno alvo do evento em si não",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2578,
+    "totalChunks": 10000
+  }
+}

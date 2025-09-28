@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2782",
+  "content": "e vê código contendo \no valor 4, em vez de XMLHttpRequest.DONE.\nTabela 18-1 Valores de readyState de XMLHttpRequest\nConstanteValorSignificado\nUNSENT0\nopen() ainda não foi chamado\nOPENED1\nopen() foi chamado\nHEADERS_RECEIVED2Os cabeçalhos foram recebidos\nLOADING3O corpo da resposta está sendo recebido\nDONE4A resposta está completa\nTeoricamente, o evento readystatechange é disparado sempre que a propriedade readyState muda. \nNa prática, o evento pode não ser disparado quando readyState muda para 0 ou 1. Frequentemente, \nele é disparado quando send() é chamado, mesmo que readyState permaneça em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2782,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5628",
+  "content": "método Object.getPrototypeOf( ), 801–802\n    método Object.isPrototypeOf( ), 803–804\n\nÍndice          1055\n    propriedade constructor e, 198\n    testando o encadeamento de protótipos de um \nobjeto, 204\n    tipagem de pato e, 207\n    tornando não extensível, 236\npseudoclasse :hover, 600\npseudoelementos :fi rst-line e :fi rst-letter (CSS), 360\nputImageData( ), CanvasRenderingContext2D, \n647, 862\nQ\nquadraticCurveTo( ), CanvasRenderingContext2D, \n629, 862\nquadros\n    incapacidade de fechar, 347\n    porta de visualização, 380–381\n    várias janelas e quadros, 344–350\n        relações entre",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5628,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_446",
+  "content": "é uma instância de f (ou de uma superclasse de \nf ) e o operador retorna true. Se f.prototype não é um dos valores no encadeamento de protótipos \nde o, então o não é uma instância de f e instanceof retorna false.\n4.10   Expressões   lógicas\nOs operadores lógicos &&, || e ! efetuam álgebra booleana e são frequentemente usados em conjunto \ncom os operadores relacionais para combinar duas expressões relacionais em outra mais complexa. \nEsses operadores estão descritos nas subseções a seguir. Para entendê-los completamente, talvez você \nqueira rever a noção de valores “verdadeiros” e “falsos”",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 446,
+    "totalChunks": 10000
+  }
+}

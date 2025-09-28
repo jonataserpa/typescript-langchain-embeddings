@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1964",
+  "content": "to Window continua a existir depois que a janela que representa foi fechada. Uma janela \nfechada vai ter a propriedade \nclosed configurada como true, document vai ser null e seus métodos \nnormalmente não vão mais funcionar.\n14.8.2   Relacionamentos entre quadros\nComo vimos, o método open() de um objeto Window retorna um novo objeto Window que tem \numa propriedade opener se referindo à janela original. Desse modo, as duas janelas podem se refe-\nrir uma à outra e cada uma pode ler propriedades e chamar métodos da outra. Algo semelhante é \npossível com quadros. Um código em execução em uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1964,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1096",
+  "content": "final (estado) desse novo objeto range.\n    // Essas são propriedades não herdadas exclusivas desse objeto.\n    r.from = from;\n    r.to = to;\n    // Finalmente retorna o novo objeto\n    return    r;\n}\n// Este objeto protótipo define métodos herdados por todos os objetos range.\nrange.methods = {\n    // Retorna true se x está no intervalo; caso contrário, false\n    // Este método funciona tanto para intervalos textuais e Date como para numéricos.\n    includes: function(x) { return this.from <= x && x <= this.to; },\n    // Chama f uma vez para cada inteiro no intervalo.\n\nCapítulo 9     Classes",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1096,
+    "totalChunks": 10000
+  }
+}

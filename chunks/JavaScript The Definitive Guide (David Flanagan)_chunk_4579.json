@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4579",
+  "content": "ao caminho do círculo, o interior do \nquadrado vai estar fora do caminho e não será preenchido.\nvoid fillRect(double x, y, largura, altura)\nfillRect() preenche o retângulo especificado com a cor, gradiente ou padrão definido pela proprie-\ndade fillStyle.\nAo contrário do método \nrect(), fillRect() não tem qualquer efeito sobre o ponto atual ou sobre o \ncaminho atual.\nvoid fillText(string texto, double x, y, [double largMax])\nfillText() desenha texto usando as propriedades font e fillStyle atuais. Os argumentos x e y espe-\ncificam onde o texto deve ser desenhado no canvas, mas a interpretação",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4579,
+    "totalChunks": 10000
+  }
+}

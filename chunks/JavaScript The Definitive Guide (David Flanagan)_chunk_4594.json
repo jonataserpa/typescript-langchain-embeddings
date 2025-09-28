@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4594",
+  "content": "e curva Bezier quadrática no subcaminho atual. A curva co-\nmeça no ponto atual e termina em (x,y). O ponto de controle (cpX, cpY) especifica a forma da \ncurva entre esses dois pontos. (Entretanto, os cálculos matemáticos das curvas Bezier estão fora dos \nobjetivos deste livro.) Quando esse método retorna, a posição atual é (x,y). Consulte também o \nmétodo bezierCurveTo().\nvoid rect(double x, y, w, h)\nEsse método adiciona um retângulo no caminho. Esse retângulo é ele próprio um subcaminho e \nnão está conectado a outro subcaminho do caminho. Quando esse método retorna, a posição atual é \n(x,y).",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4594,
+    "totalChunks": 10000
+  }
+}

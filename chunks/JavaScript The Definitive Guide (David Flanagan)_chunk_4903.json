@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4903",
+  "content": "> HTML Node, Element\nUm objeto IFrame representa um elemento\n <iframe> em um documento HTML. Se você pesqui-\nsar um <iframe> usando getElementById() ou uma função de consulta semelhante, vai obter um \nobjeto IFrame. Contudo, se acessar o <iframe> por meio da propriedade frames do objeto Window \nou usando o nome do <iframe> como propriedade da janela contêiner, vai obter o objeto Window \nrepresentado pelo <iframe>.\nPropriedades\nreadonly Document contentDocument\nO documento contido nesse elemento <iframe>. Se o documento exibido no <iframe> é de \numa origem diferente, a política da mesma origem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4903,
+    "totalChunks": 10000
+  }
+}

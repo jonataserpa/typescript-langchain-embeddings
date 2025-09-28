@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5493",
+  "content": "eEventListener( )\n    objeto Document, 447\n    objeto EventTarget, 906\n    objeto    Worker,    666\n    objeto    WorkerGlobalScope,    668\nmétodo removeItem( ), objeto Storage, 972–973\nmétodo replace( )\n    objeto Location, 335, 949\n    objeto String, 254, 828–829\nmétodo replaceAll( ), jQuery, 524\nmétodo replaceChild( ), objeto Node, 374, 963\nmétodo replaceData( )\n    nó Comment, 865\n    nó    Text,    977\nmétodo replaceState( ), objeto History, 658, 921\nmétodo replaceWith( ), jQuery, 523\nmétodo reset( ), objeto Form, 390, 913\nmétodo resize( ), jQuery, 527\nmétodo reverse( ), objeto Array,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5493,
+    "totalChunks": 10000
+  }
+}

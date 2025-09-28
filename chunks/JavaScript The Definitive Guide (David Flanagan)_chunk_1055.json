@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1055",
+  "content": "padronizado de JavaScript que foi introdu-\nzido pela Netscape e copiado por outros fornecedores por questão de compatibilidade. Não escreva \ncódigo que conte com a possibilidade de chamar objetos RegExp: esse recurso provavelmente vai ser \ndesaprovado e removido no futuro. O operador typeof não é capaz de funcionar em conjunto com \nobjetos RegExp que podem ser chamados. Em alguns navegadores, ele retorna “função” e em outros, \nretorna “objeto”.\nSe quiser determinar se um objeto é um verdadeiro objeto função (e tem métodos de função), pode \ntestar seu atributo classe (Seção 6.8.2) usando a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1055,
+    "totalChunks": 10000
+  }
+}

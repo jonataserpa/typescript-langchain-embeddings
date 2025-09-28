@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4806",
+  "content": "diatePropagation()\nÉ como stopPropagation(), mas também impede a chamada de quaisquer outras rotinas de trata-\nmento registradas no mesmo elemento do documento. Esse método é uma novidade no modelo de \nevento padrão e pode não estar implementado em todos os navegadores. Não é suportado no mode-\nlo de evento do IE, mas é simulado pela jQuery.\nvoid stopPropagation()\nImpede o evento de se propagar mais nas fases de captura, destino ou borbulha da propagação de \neventos. Depois que esse método é chamado, todas as outras rotinas de tratamento para o mesmo \nevento no mesmo nó são chamadas, mas o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4806,
+    "totalChunks": 10000
+  }
+}

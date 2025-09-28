@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5385",
+  "content": ") e, 541\n    fadeTo( ), 538\n    métodos fadeIn( ) e fadeOut( ), 537, 538\nefeitos de indistinção\n    indistinção de movimento com ImageData, 647\n    propriedade shadowBlur no canvas, 639\nefeitos visuais\n    indistinção de movimento de elementos gráfi cos \ndo canvas com ImageData, 647\n    métodos da jQuery para, 537, 940\n    métodos da jQuery para efeitos simples, 538\n    trocas de imagem, 600\neff ectAllowed, objeto DataTransfer, 463, 465, 872\nelementFromPoint( ), Document, 383, 879\nelemento Select, 393, 970–971\nelementos\n    array,    137\n        atributos como nós Attr, 368\n        atributos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5385,
+    "totalChunks": 10000
+  }
+}

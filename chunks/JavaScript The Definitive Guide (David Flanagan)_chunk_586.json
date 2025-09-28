@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_586",
+  "content": "Em laços, ela é normalmente \nutilizada para sair prematuramente, quando, por qualquer motivo, não há mais qualquer necessida-\nde de completar o laço. Quando um laço tem condições de término complexas, frequentemente é \nmais fácil implementar algumas dessas condições com instruções break do que tentar expressar todas \nelas em uma única expressão de laço. O código a seguir procura um valor específico nos elementos \nde um array. O laço termina normalmente ao chegar no fim do array; ele termina com uma instru-\nção \nbreak se encontra o que está procurando no array:\nfor(var i = 0; i < a.length;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 586,
+    "totalChunks": 10000
+  }
+}

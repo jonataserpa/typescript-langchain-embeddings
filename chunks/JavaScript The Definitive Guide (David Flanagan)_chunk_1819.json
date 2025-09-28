@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1819",
+  "content": "de comentários HTML:\n<!--[if IE 6]>\nEste conteúdo está na verdade dentro de um comentário HTML.\nEle só será exibido no IE 6.\n<![endif]-->\n<!--[if lte IE 7]>\nEste conteúdo só será exibido pelo IE 5, 6, 7 e anteriores.\nlte significa \"menor ou igual a\". Você também pode usar \"lt\", \"gt\" e \"gte\".\n<![endif]-->\n<!--[if !IE]> <-->\nEste é um conteúdo HTML normal, mas o IE não vai exibi-lo\npor causa do comentário acima e do comentário abaixo.\n<!--> <![endif]-->\nEste é um conteúdo normal, exibido por todos os navegadores.\nComo um exemplo concreto, considere a biblioteca excanvas.js descrita",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1819,
+    "totalChunks": 10000
+  }
+}

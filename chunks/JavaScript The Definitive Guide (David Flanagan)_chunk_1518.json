@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1518",
+  "content": "ida, ele chama o método next() do iterador, atribui o valor \nresultante à variável de laço e executa o corpo do laço. O laço for/in trata da exceção StopIteration em \nsi e nunca é visível em seu código. O código a seguir define uma função range() que retorna um objeto \niterável (não um iterador) que representa um intervalo de inteiros. Observe como é muito mais fácil \nusar um laço for/in com um intervalo iterável do que usar um laço while com um iterador de intervalo.\n// Retorna um objeto iterável que representa um intervalo inclusivo de números\nfunction range(min,max) {\n    return    {",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1518,
+    "totalChunks": 10000
+  }
+}

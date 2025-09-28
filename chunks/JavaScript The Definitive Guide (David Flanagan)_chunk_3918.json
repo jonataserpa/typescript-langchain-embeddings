@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3918",
+  "content": "demonstra todos os recursos \nda API. Como a API é nova e instável, não está documentada na seção de referência deste livro.\nTrabalhar com arquivos no sistema de arquivos local é um processo de várias etapas. Primeiramente, \nvocê precisa obter um objeto que represente o sistema de arquivos em si. Existe uma API síncrona \npara fazer isso em threads worker e uma API assíncrona para usar na thread principal:\n\nCapítulo 22     APIs de HTML5      685\nJavaScript do\n lado do cliente\n// Obtendo um sistema de arquivo de forma síncrona. Passa a vida útil e o tamanho do \n// sistema de arquivos.\n//",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3918,
+    "totalChunks": 10000
+  }
+}

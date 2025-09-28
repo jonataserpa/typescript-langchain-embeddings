@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1949",
+  "content": "ração do na-\nvegador) de navegador Web com o método open() do objeto Window. Window.open() carrega o URL \nespecificado em uma janela nova ou já existente e retorna o objeto Window que representa essa \njanela. Ele recebe quatro argumentos opcionais:\nO primeiro argumento de \nopen() é o URL do documento a ser exibido na nova janela. Se esse \nargumento for omitido (ou for uma string vazia), será usado o URL de página em branco especial \nabout:blank.\nO segundo argumento de \nopen() é uma string especificando um nome de janela. Se já existe uma \njanela com esse nome (e se o script pode navegar nessa",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1949,
+    "totalChunks": 10000
+  }
+}

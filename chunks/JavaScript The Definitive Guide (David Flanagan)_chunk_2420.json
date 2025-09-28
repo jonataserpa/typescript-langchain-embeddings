@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2420",
+  "content": "um elemento não é a maneira escolhida para deter-\nminar o tamanho e a posição do elemento. Consulte a Seção 15.8.2 para ver uma alternativa mais \nsimples e portável.\n16.5   Escrevendo scripts de classes CSS\nUma alternativa ao script de estilos CSS individuais por meio da propriedade em linha style é es-\ncrever o script do valor do atributo HTML \nclass. Alterar o atributo class de um elemento altera o \nconjunto de seletores de folha de estilo aplicados ao elemento e pode fazer com que várias proprieda-\ndes CSS mudem ao mesmo tempo. Suponha, por exemplo, que você queira uma maneira de chamar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2420,
+    "totalChunks": 10000
+  }
+}

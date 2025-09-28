@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_717",
+  "content": "on keys(o) {\n    if (typeof o !== \"object\") throw TypeError();         // Argumento object exigido\n    var result = [];          // O array que retornaremos\n    for(var prop in o) {               // Para todas as propriedades enumeráveis\n        if (o.hasOwnProperty(prop))    // Se for uma propriedade própria\n            result.push(prop);         // a adiciona no array.\n }\n    return result;           // Retorna o array.\n}\nAlém do laço for/in, ECMAScript 5 define duas funções que enumeram nomes de propriedade. A \nprimeira é Object.keys(), que retorna um array com os nomes das propriedades",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 717,
+    "totalChunks": 10000
+  }
+}

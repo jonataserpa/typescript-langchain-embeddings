@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1010",
+  "content": "0; }\n    };\n}\nvar c = counter(), d = counter();    // Cria duas contadoras\nc.count()                  // => 0\nd.count()                  // => 0: elas contam independentemente\nc.reset()                  // os métodos reset() e count() compartilham estado\nc.count()                  // => 0: pois zeramos c\nd.count()                  // => 1: d não foi zerada\nA função counter() retorna um objeto “contador”. Esse objeto tem dois métodos: count() retorna o \npróximo inteiro e reset() zera o estado interno. A primeira coisa a entender é que os dois métodos \ncompartilham o acesso à variável privada",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1010,
+    "totalChunks": 10000
+  }
+}

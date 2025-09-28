@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_368",
+  "content": "à pro-\npriedade se torna o valor do parâmetro \nthis enquanto o corpo da função está sendo executado. Isso \npermite um paradigma de programação orientada a objetos no qual as funções (conhecidas por seus \nnomes na OO, “métodos”) operam sobre o objeto do qual fazem parte. Consulte o Capítulo 9 para \nver os detalhes.\nAs expressões de invocações que não são invocações de método normalmente utilizam o objeto glo-\nbal como valor da palavra-chave \nthis. Em ECMAScript 5, contudo, as funções definidas no modo \nrestrito são invocadas com undefined como valor de this, em vez do objeto global. Consulte a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 368,
+    "totalChunks": 10000
+  }
+}

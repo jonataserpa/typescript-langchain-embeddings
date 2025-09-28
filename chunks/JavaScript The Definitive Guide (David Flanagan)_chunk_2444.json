@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2444",
+  "content": "uma folha de estilo, também é possível adicionar \ne remover regras. A interface da API padrão define os métodos \ninsertRule() e deleteRule() para \nadicionar e remover regras:\ndocument.styleSheets[0].insertRule(\"H1 { text-weight: bold; }\", 0);\nO IE não suporta insertRule() e deleteRule(), mas define as funções equivalentes addRule() e remo-\nveRule(). A única diferença real (fora os nomes diferentes) é que addRule() espera o texto do seletor \ne o texto dos estilos como dois argumentos separados.\n\nCapítulo 16     Escrevendo script de CSS      431\nJavaScript do\n lado do cliente\nO código a seguir",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2444,
+    "totalChunks": 10000
+  }
+}

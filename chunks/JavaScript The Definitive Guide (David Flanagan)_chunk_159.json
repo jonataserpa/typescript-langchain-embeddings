@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_159",
+  "content": "riáveis e funções e para fornecer rótulos para certos laços no código JavaScript. Um iden-\ntificador JavaScript deve começar com uma letra, um sublinhado (_) ou um cifrão ($). Os caracteres \nsubsequentes podem ser letras, dígitos, sublinhados ou cifrões. (Os dígitos não são permitidos como \nprimeiro caractere, para que JavaScript possa distinguir identificadores de números facilmente.) To-\ndos estes são identificadores válidos:\ni\nmy_variable_name\nv13\n\n24          Parte     I     JavaScript     básica\n_dummy\n$str\nPor portabilidade e facilidade de edição, é comum usar apenas letras e dígitos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 159,
+    "totalChunks": 10000
+  }
+}

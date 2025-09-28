@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4219",
+  "content": "ero \nde argumentos. Não confunda essa propriedade de um objeto Function com a propriedade length \ndo objeto Arguments, a qual especifica o número de argumentos realmente passados para a função. \nConsulte Arguments.length para ver um exemplo.\nConsulte também\nArguments.length\nFunction.prototype\no protótipo de uma classe de objetos\nSinopse\nfunção.prototype\nDescrição\nA propriedade prototype é usada quando uma função atua como construtora. Ela se refere a um \nobjeto que serve como protótipo para uma classe de objetos inteira. Qualquer objeto criado pela \nconstrutora herda todas as propriedades do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4219,
+    "totalChunks": 10000
+  }
+}

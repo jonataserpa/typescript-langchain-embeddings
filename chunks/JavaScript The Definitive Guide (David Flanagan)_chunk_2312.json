@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2312",
+  "content": "box-shadow e column-count. \nOutro novo recurso revolucionário de CSS são as fontes Web: a capacidade de baixar e usar fontes personaliza-\ndas com uma regra \nCSS @font-face. (Consulte http://code.google.com/webfonts para ver uma seleção de \nfontes gratuitas para uso na Web e um mecanismo fácil para baixá-las dos servidores do Google.)\nOutro desenvolvimento revolucionário em CSS é CSS Transitions. Trata-se de uma versão preliminar de \nespecificação que pode transformar automaticamente qualquer alteração com script feita em um estilo \nCSS em uma transição suavemente animada. (Quando for",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2312,
+    "totalChunks": 10000
+  }
+}

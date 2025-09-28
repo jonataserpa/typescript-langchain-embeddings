@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2859",
+  "content": "r não vai permitir que o script original inspecione o \nconteúdo do documento com várias origens. Com XMLHttpRequest, o conteúdo do documento é \nsempre exposto por meio da propriedade responseText; portanto a política da mesma origem não per-\nmite que XMLHttpRequest faça requisições com várias origens. (Note que o elemento <script> nun-\nca esteve sujeito à política da mesma origem: ele vai baixar e executar qualquer script, independente \nda origem. Conforme vamos ver na Seção 18.2, essa liberdade de fazer requisições com várias origens \ntorna o elemento <script> uma alternativa de transporte",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2859,
+    "totalChunks": 10000
+  }
+}

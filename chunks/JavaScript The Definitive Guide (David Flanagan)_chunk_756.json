@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_756",
+  "content": "geral dizemos simplesmente “o protótipo de o”, \nem vez de “o atributo protótipo de o”. Além disso, é importante entender que, quando prototype \naparece no código-fonte, isso se refere a uma propriedade de objeto normal e não ao atributo \nprotótipo.\nO atributo protótipo é configurado quando um objeto é criado. Lembre-se, da Seção 6.1.3, que \nos objetos criados a partir de objetos literais usam \nObject.prototype como protótipo. Os objetos \ncriados com new utilizam como protótipo o valor da propriedade prototype de sua função cons-\ntrutora. E os objetos criados com Object.create() usam o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 756,
+    "totalChunks": 10000
+  }
+}

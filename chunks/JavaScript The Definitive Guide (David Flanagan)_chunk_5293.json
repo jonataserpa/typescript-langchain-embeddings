@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5293",
+  "content": "lor \ndefinido anteriormente, mais uma vírgula, um espaço e o \nvalor especificado nessa chamada.\nSe a chamada para \nopen() especifica credenciais de autorização, XMLHttpRequest envia automatica-\nmente um cabeçalho de requisição \nAuthorization apropriado. Entretanto, você também pode anexar \nnesse cabeçalho com \nsetRequestHeader().\nXMLHttpRequest configura “Content-Length”, “Date”, “Referer” e “User-Agent” automaticamen-\nte e não permite que você os falsifique. Existem vários outros cabeçalhos, incluindo cabeçalhos \nrelacionados a cookies, que não podem ser configurados com esse método. A lista",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5293,
+    "totalChunks": 10000
+  }
+}

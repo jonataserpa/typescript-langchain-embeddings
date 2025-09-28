@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2636",
+  "content": "// propriedades de um objeto evento wheel, de um objeto evento mousewheel\n        // (tanto na forma 2D como 1D) e do evento DOMMouseScroll do Firefox.\n   // Muda a escala dos deltas de modo que um \"clique\" em direção à tela tenha 30 \n// pixels.\n        // Se futuros navegadores dispararem \"wheel\" e \"mousewheel\" para o mesmo\n        // evento, acabaremos contando duplamente aqui. Esperamos, contudo,\n        // que cancelar o evento wheel evite a geração de roda do mouse.\n        var deltaX = e.deltaX*-30 ||    // evento wheel\n                  e.wheelDeltaX/4    ||        //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2636,
+    "totalChunks": 10000
+  }
+}

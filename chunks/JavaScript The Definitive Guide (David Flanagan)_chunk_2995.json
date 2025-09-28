@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2995",
+  "content": "CSS width ou height e, portanto, pode \nutilizar qualquer unidade CSS. Por fim, assim como nos outros métodos setter, você pode passar \numa função que será chamada para calcular a largura ou altura.\nExiste uma pequena assimetria entre o comportamento getter e setter de \nwidth() e height(). Quando \nusados como getter, esses métodos retornam as dimensões da caixa de conteúdo de um elemento, \nexcluindo preenchimento, bordas e margens. No entanto, quando utilizados como setter, eles sim-\nplesmente configuram os atributos CSS width e height. Por padrão, esses atributos também especifi-\ncam o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2995,
+    "totalChunks": 10000
+  }
+}

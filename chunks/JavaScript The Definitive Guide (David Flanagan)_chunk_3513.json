@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3513",
+  "content": "ivelmente dependendo da carga do sistema e de quanto \ntempo as rotinas de tratamento de evento estão demorando para terminar.\npause\nO método pause() foi chamado e a reprodução está em pausa.\nseeking\nO script ou o usuário solicitou que a reprodução pulasse para uma parte da mídia que não está \nno buffer e a reprodução parou enquanto os dados são carregados. A propriedade \nseeking \né true.\nseeked\nA propriedade seeking mudou de volta para false.\nended\nA reprodução parou porque o fim da mídia foi atingido.\ndurationchange\nA propriedade duration mudou.\nvolumechange\nA propriedade volume ou muted",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3513,
+    "totalChunks": 10000
+  }
+}

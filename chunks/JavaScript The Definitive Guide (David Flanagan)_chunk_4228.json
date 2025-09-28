@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4228",
+  "content": "globais de JavaScript. Todos os outros objetos, funções e propriedades predefinidos são aces-\nsíveis por intermédio do objeto global. O objeto global não é uma propriedade de nenhum outro \nobjeto; portanto, não tem nome. (O título desta referência foi escolhido simplesmente por conveni-\nência organizacional e não indica que o objeto global se chama “Global”.) Em código JavaScript de \nnível superior, você pode se referir ao objeto global com a palavra-chave this. Contudo, raramente \né necessário se referir ao objeto global dessa maneira, pois o objeto global serve como topo do en-\ncadeamento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4228,
+    "totalChunks": 10000
+  }
+}

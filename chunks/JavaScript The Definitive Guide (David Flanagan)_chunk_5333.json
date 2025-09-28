@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5333",
+  "content": "teste propertyIsEnumerable( ), 122\natributo extensible, 113, 134\natributo href, elementos <a>, 307, 357\natributo id, elementos HTML, 342\natributo max-age, cookies, 582\natributo name, elementos HTML, 343, 389\n    confi gurando, criando propriedades no objeto \nDocument, 356\n    selecionando elementos pelo nome, 355\natributo onchange, 307\natributo onmousedown, elemento <div>, 458\natributo path, cookies, 580\n    confi gurando, 582\natributo placeholder, campos de texto, 392\natributo prototype, 132\natributo sandbox, elemento <iframe>, 329\natributo secure, cookies, 581, 582\natributo src, elemento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5333,
+    "totalChunks": 10000
+  }
+}

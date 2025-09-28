@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2072",
+  "content": "atributo não defi-\nne nenhuma maneira de remover um atributo de um elemento. Em especial, o operador \ndelete \nnão pode ser usado para esse propósito. A seção a seguir descreve um método que pode ser usado \npara isso.\n15.4.2   Obtendo e configurando atributos que não são HTML\nConforme descrito anteriormente, HTMLElement e seus subtipos definem propriedades que \ncorrespondem aos atributos padrão de elementos HTML. O tipo Element também define méto-\ndos getAttribute() e setAttribute() que podem ser usados para consultar e configurar atributos \nHTML não padronizados e para consultar e configurar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2072,
+    "totalChunks": 10000
+  }
+}

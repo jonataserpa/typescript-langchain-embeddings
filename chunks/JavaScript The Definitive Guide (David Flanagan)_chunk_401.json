@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_401",
+  "content": "após número para string\n1 + {}               // => \"1[object Object]\": concatenação após objeto para string\ntrue + true           // => 2: adição após booleano para número\n2 + null              // => 2: adição após null converte em 0\n2 + undefined         // => NaN: adição após undefined converte em NaN\n\nCapítulo 4     Expressões e operadores      67\nJavaScript básica\nPor fim, é importante notar que, quando o operador + é usado com strings e números, pode não \nser associativo. Isto é, o resultado pode depender da ordem em que as operações são efetuadas. Por \nexemplo:\n1 + 2 + \" blind mice\"; //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 401,
+    "totalChunks": 10000
+  }
+}

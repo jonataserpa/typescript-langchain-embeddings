@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2852",
+  "content": "sições que demoram mui-\nto para completar ou quando as respostas se tornam irrelevantes. Suponha que você esteja usando \nXMLHttpRequest para solicitar sugestões de preenchimento automático para um campo de entrada \nde texto. Se o usuário digita um novo caractere no campo antes que as sugestões do servidor possam \nchegar, então a requisição pendente não tem mais interesse e pode ser cancelada.\nXHR2 define uma propriedade \ntimeout que especifica um tempo, em milissegundos, após o qual \numa requisição será cancelada automaticamente e também define um evento timeout, que deve ser \ndisparado (em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2852,
+    "totalChunks": 10000
+  }
+}

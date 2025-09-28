@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2662",
+  "content": "emento. Seu alvo de soltura deve usar a proprieda-\nde dataTransfer.types para determinar se o objeto arrastado tem dados disponíveis em um formato \nque ele possa entender. (Talvez você também queira verificar dataTransfer.effectAllowed para ga-\nrantir que a origem de arrasto e seu alvo de soltura possam estar de acordo com uma das operações \nmover, copiar e vincular.) Se essas verificações forem bem-sucedidas, seu destino de soltura deve \npermitir que o usuário e o navegador saibam que ele está interessado em uma soltura. Você pode dar \nesse retorno para o usuário mudando a borda ou a cor de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2662,
+    "totalChunks": 10000
+  }
+}

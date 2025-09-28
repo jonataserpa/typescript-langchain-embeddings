@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1975",
+  "content": ". Um \nnome especificado dessa maneira pode ser usado como atributo target de um link e isso pode ser \nusado como segundo argumento de window.open().\n\nCapítulo 14     O objeto Window      349\nJavaScript do\n lado do cliente\n14.8.3   JavaScript em janelas que interagem\nCada janela ou quadro é seu próprio contexto de execução JavaScript, com um objeto Window \ncomo seu objeto global. Mas se o código de uma janela ou quadro pode se referir a outra janela ou \nquadro (e se a política da mesma origem não impedir isso), os scripts de uma janela ou quadro po-\ndem interagir com os scripts da outra (ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1975,
+    "totalChunks": 10000
+  }
+}

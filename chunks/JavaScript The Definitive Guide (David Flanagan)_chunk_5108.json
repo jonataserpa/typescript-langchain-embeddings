@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5108",
+  "content": "exibido não será alterado.\nreadonly DOMSettableTokenList htmlFor\nO atributo HTML for de um elemento <output> é uma lista das identificações dos elementos \ncujos valores contribuíram para o conteúdo calculado exibido pelo elemento <output> sepa-\nradas por espaços. for é uma palavra reservada em JavaScript; portanto, essa propriedade cor-\nrespondente de JavaScript é chamada htmlFor. Você pode obter e configurar essa propriedade \ncomo se fosse um valor de string normal ou pode usar os métodos de DOMTokenList para con-\nsultar e configurar identificações de elemento individuais a partir da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5108,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5322",
+  "content": "apóstrofos, 36\n (consulte também ‘ ’ (aspas, simples), sob Símbo-\nlos)\n    fazendo o em strings com aspas simples, 36\nappendChild( ), objeto Node, 373, 961\napply( ) e call( ), objeto Function, 165, 181–182\n    restrições em subconjuntos seguros, 260\narc( ), CanvasRenderingContext2D, 617, 629, 857\narcTo( ), CanvasRenderingContext2D, 629, 857\nargumentos (função), 166\n    listas de argumento de comprimento variável, 167\n    propriedades de objeto como, 169\naridade (funções), 168, 181\narmazenamento, 573\n (consulte também armazenamento do lado do \ncliente)\narmazenamento do lado do cliente,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5322,
+    "totalChunks": 10000
+  }
+}

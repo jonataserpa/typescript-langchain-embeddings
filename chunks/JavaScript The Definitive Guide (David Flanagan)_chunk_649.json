@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_649",
+  "content": "extensível de um objeto especifica (em ECMAScript 5) se novas propriedades podem \nser adicionadas no objeto.\nVamos aprender mais sobre protótipos e herança de propriedade na Seção 6.1.3 e na Seção 6.2.2, e \nvamos abordar todos os três atributos com mais detalhes na Seção 6.8.\nPor fim, aqui estão alguns termos que vamos usar para diferenciar entre três categorias amplas de \nobjetos de JavaScript e dois tipos de propriedades:\n •Um objeto nativo é um objeto ou uma classe de objetos definida pela especificação ECMAScript. \nArrays, funções, datas e expressões regulares (por exemplo) são objetos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 649,
+    "totalChunks": 10000
+  }
+}

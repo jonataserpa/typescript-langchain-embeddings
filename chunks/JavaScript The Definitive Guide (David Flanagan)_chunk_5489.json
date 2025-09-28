@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5489",
+  "content": "essagePort, 956\n    objeto Window, 328, 662, 990\n        gadget de busca do Twitter controlado pelo, \n663–665\n    objeto Worker, 666, 992\n    objeto    WorkerGlobalScope,    994\nmétodo prepend( ), jQuery, 524\nmétodo prependTo( ), jQuery, 524\nmétodo prev( ), jQuery, 567\nmétodo prevAll( ), jQuery, 567\nmétodo preventDefault( ), objeto Event, 452, 534, \n903–904\nmétodo prevUntil( ), 567\nmétodo print( ), objeto Window, 990\n\nÍndice          1033\nmétodo profi le( )\n    objeto Console, 867\n    objeto ConsoleCommandLine, 868\nmétodo profi leEnd( )\n    objeto Console, 867\n    objeto ConsoleCommandLine,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5489,
+    "totalChunks": 10000
+  }
+}

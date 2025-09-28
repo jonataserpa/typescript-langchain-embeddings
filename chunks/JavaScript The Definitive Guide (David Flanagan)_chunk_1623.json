@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1623",
+  "content": "s.getuid() // Retorna a identificação do usuário\nprocess.cwd()    // Retorna o diretório corrente de trabalho\nprocess.chdir()  // Muda de diretório\nprocess.exit()   // Sai (após executar ganchos de desligamento)\nComo as funções e métodos do Node são assíncronos, eles não são bloqueados enquanto esperam o \ntérmino de operações. O valor de retorno de um método sem bloqueio não pode retornar o resul-\ntado de uma operação assíncrona. Se você precisa obter resultados ou precisa apenas saber quando \numa operação está concluída, tem de fornecer uma função que o Node possa chamar quando os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1623,
+    "totalChunks": 10000
+  }
+}

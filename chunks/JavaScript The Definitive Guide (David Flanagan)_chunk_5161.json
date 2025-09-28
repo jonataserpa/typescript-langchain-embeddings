@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5161",
+  "content": "os\nvoid deleteCell(long índice)\nEsse método exclui a célula no índice especificado na linha.\nElement insertCell([long índice])\nEsse método cria um novo elemento <td>, o insere na linha na posição especificada e então o retorna. \nA nova célula é inserida imediatamente antes da célula que está atualmente na posição especificada \npor índice. Se índice é omitido, é -1 ou é igual ao número de células na linha, a nova célula é ane-\nxada no fim da linha.\nNote que esse método de conveniência insere apenas células de dados \n<td>. Se precisar adicionar \numa célula de cabeçalho em uma linha, você deve",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5161,
+    "totalChunks": 10000
+  }
+}

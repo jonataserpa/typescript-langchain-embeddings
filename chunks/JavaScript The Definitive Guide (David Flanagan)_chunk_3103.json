@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3103",
+  "content": "o estiver concluído. \nA função não recebe argumento algum, mas o valor de\n this é configurado como o elemento do do-\ncumento que foi animado. A função callback uma vez para cada elemento selecionado:\n// Faz um elemento aparecer gradualmente de forma rápida e, quando estiver visível, exibe \n// algum texto nele.\n$(\"#message\").fadeIn(\"fast\", function() { $(this).text(\"Hello World\"); });\nPassar uma função callback para um método de efeito permite executar ações no final de um efei-\nto. Note, entretanto, que isso não é necessário quando se quer simplesmente executar vários efeitos \nem sequência.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3103,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1350",
+  "content": "e seguir certas convenções de codificação.\nMuitas bibliotecas JavaScript e estruturas de programação no lado do cliente contêm algum tipo \nde sistema modular. Mas o kit de ferramentas Dojo e a biblioteca Closure da Google, por exemplo, \ndefinem as funções \nprovide() e require() para declarar e carregar módulos. E a iniciativa de padroni-\nzação de JavaScript no lado do servidor CommonJS (consulte o endereço http://commonjs.org) criou \numa especificação de módulos que também usa uma função \nrequire(). Sistemas de módulo como \nesses frequentemente fazem o carregamento de módulos e o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1350,
+    "totalChunks": 10000
+  }
+}

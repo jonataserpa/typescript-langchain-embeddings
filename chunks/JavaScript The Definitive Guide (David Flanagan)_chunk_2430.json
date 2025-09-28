@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2430",
+  "content": "throw new Error(\"Invalid class name: '\" + c + \"'\");\n    // Verifica primeiro os casos comuns\n    var classes = this.e.className;\n     (!classes) return false;       // e não tem uma classe\n    if (classes === c) return true;  // e tem uma classe que coincide exatamente\n    // Caso contrário, usa uma RegExp para procurar c como palavra\n    // \\b em uma expressão regular exige uma correspondência em um limite de palavra.\n    return classes.search(\"\\\\b\" + c + \"\\\\b\") != -1;\n};\n// Adiciona c em e.className se ainda não estiver presente\nCSSClassList.prototype.add = function(c) {\n    if",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2430,
+    "totalChunks": 10000
+  }
+}

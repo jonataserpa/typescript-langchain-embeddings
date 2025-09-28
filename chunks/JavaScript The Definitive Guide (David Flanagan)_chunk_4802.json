@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4802",
+  "content": "ões X e Y. Consulte a Seção \n17.6 para ver uma explicação sobre como interpretar essas propriedades. Se \nwheelDeltaY for \ndefinida, terá o mesmo valor da propriedade wheelDelta.\nreadonly integer which\nEssa propriedade legada, não padronizada, é suportada por navegadores que não são o IE e é \nsimulada na jQuery. Para eventos de mouse, ela é uma unidade a mais do que a propriedade \nbutton: 1 significa o botão esquerdo, 2 significa o botão do meio e 3 significa o botão direito. \nPara eventos de tecla, ela tem o mesmo valor de keyCode.\n\n      Referência de JavaScript do lado do cliente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4802,
+    "totalChunks": 10000
+  }
+}

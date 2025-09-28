@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2462",
+  "content": "ção de evento é o processo por meio do qual o navegador decide em quais objetos disparam \nrotinas de tratamento de evento. Para eventos específicos de um objeto (como o evento load no \nobjeto Window), não é exigida propagação alguma. Entretanto, quando certos tipos de eventos \nocorrem nos elementos do documento, eles se propagam ou “borbulham” para cima na árvore do \ndocumento. Se o usuário coloca o mouse sobre um hiperlink, o evento mousemove é primeiramente \nativado no elemento \n<a> que define esse link. Em seguida, é ativado nos elementos contêineres: tal-\nvez um elemento <p>, um elemento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2462,
+    "totalChunks": 10000
+  }
+}

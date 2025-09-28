@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4658",
+  "content": "Byte.\nvoid setUint8(unsigned long deslocamentoByte, octet valor)\nConverte valor em uma representação de inteiro sem sinal de 1 byte e grava esse byte em desloca-\nmentoByte.\nDocument\num documento HTML ou XML Node\nUm objeto Document é um Node que serve como raiz de uma árvore de documentos. A proprie-\ndade \ndocumentElement é o Element raiz do documento. Um nó Document pode ter outros filhos \n(como nós Comment e DocumentType), mas tem apenas um filho Element com todo o conteúdo \ndo documento.\nNormalmente, um objeto Document é obtido por meio da propriedade \ndocument de um objeto \nWindow. Os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4658,
+    "totalChunks": 10000
+  }
+}

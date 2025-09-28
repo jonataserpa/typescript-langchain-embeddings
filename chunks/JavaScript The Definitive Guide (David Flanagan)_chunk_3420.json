@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3420",
+  "content": "ão:\n\n590          Parte II     JavaScript do lado do cliente\nCACHE MANIFEST\n# MyApp versão 1 (altere este número para fazer os navegadores baixarem os arquivos \n# novamente)\nMyApp.html\nMyApp.js\nDa mesma forma, se quiser que um aplicativo Web se desinstale sozinho da cache de aplicativo, \nvocê deve excluir o arquivo de manifesto no servidor para que pedidos feitos a ele retornem um erro \nHTTP 404 Not Found e deve modificar seu arquivo (ou arquivos) HTML para que não esteja mais \nvinculado ao manifesto.\nNote que o navegador verifica o manifesto e atualiza a cache de forma assíncrona, após (ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3420,
+    "totalChunks": 10000
+  }
+}

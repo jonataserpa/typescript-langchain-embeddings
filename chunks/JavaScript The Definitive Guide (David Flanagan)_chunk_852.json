@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_852",
+  "content": "ento e chama essa função uma vez para cada elemento (ou para \nalguns elementos) do array. Se o array é esparso, a função passada não é chamada para os elementos \ninexistentes. Na maioria dos casos, a função fornecida é chamada com três argumentos: o valor do \nelemento do array, o índice do elemento e o array em si. Frequentemente, apenas o primeiro desses \nvalores de argumento é necessário e o segundo e terceiro valores podem ser ignorados. A maioria dos \nmétodos de array de ECMAScript 5 que aceita uma função como primeiro argumento, aceita um \nsegundo argumento opcional. Se ele for",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 852,
+    "totalChunks": 10000
+  }
+}

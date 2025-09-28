@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3603",
+  "content": "a mapear desse ponto intermediário até (x'',y''). \nO resultado é este:\nx'' = sx*x + dx;\ny'' = sy*y + dy;\nSe, por outro lado, chamássemos scale() antes de chamar translate(), as equações resultantes se-\nriam diferentes:\nx'' = sx*(x + dx);\ny'' = sy*(y + dy);\nO importante a lembrar ao se pensar algebricamente sobre as sequências de transformações é que \nvocê deve ir da última transformação (a mais recente) para a primeira. Contudo, ao pensar geometri-\ncamente sobre eixos transformados, você vai da primeira transformação para a última.\nAs transformações suportadas pelo canvas são conhecidas como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3603,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1683",
+  "content": "pts de estilos e classes CSS. E pode definir o comportamento de elementos do documento, \nregistrando mecanismos de tratamento de evento apropriados. A combinação de conteúdo de script, \napresentação e comportamento é chamada de HTML Dinâmico ou DHTML. As técnicas para criar \ndocumentos DHTML são explicadas nos capítulos 15, 16 e 17.\nO uso de JavaScript em documentos Web normalmente deve ser controlado e moderado. O papel \napropriado de JavaScript é melhorar a experiência de navegação do usuário, tornando mais fácil \nobter ou transmitir informações. A experiência do usuário não deve depender",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1683,
+    "totalChunks": 10000
+  }
+}

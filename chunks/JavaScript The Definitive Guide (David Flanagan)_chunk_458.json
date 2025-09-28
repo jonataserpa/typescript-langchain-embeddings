@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_458",
+  "content": "o para p, usa um objeto recém-criado.\n    // o corpo da função fica aqui\n}\n4.10.3   NÃO lógico (!)\nO operador ! é um operador unário – ele é colocado antes de um único operando. Seu objetivo é \ninverter o valor booleano de seu operando. Por exemplo, se x é verdadeiro !x é avaliado como false. \nSe x é falso, então !x é true.\nAo contrário dos operadores \n&& e ||, o operador ! converte seu operando em um valor booleano \n(usando as regras descritas no Capítulo 3) antes de inverter o valor convertido. Isso significa que \n! sempre retorna true ou false e que é possível converter qualquer valor x em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 458,
+    "totalChunks": 10000
+  }
+}

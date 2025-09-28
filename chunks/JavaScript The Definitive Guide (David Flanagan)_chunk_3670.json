@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3670",
+  "content": "ando atributos de sombra\n// Define uma sombra sutil\nc.shadowColor = \"rgba(100,100,100,.4)\"; // Cinza translúcido\nc.shadowOffsetX = c.shadowOffsetY = 3;   // Deslocamento de sombra para o lado inferior \n// direito\nc.shadowBlur = 5;             // Suaviza as bordas da sombra\n// Desenha algum texto em uma caixa azul, usando essa sombra\nc.lineWidth = 10;\nc.strokeStyle = \"blue\";\nc.strokeRect(100, 100, 300, 200);    // Desenha um retângulo\nc.font = \"Bold 36pt Helvetica\";\nc.fillText(\"Hello World\", 115, 225); // Desenha algum texto\n// Define uma sombra menos sutil. Um deslocamento maior faz os itens",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3670,
+    "totalChunks": 10000
+  }
+}

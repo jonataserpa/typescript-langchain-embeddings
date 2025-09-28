@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4221",
+  "content": "rna\nUma string representando a função.\nLança\nTypeError\nSe esse método é chamado em um objeto que não é Function.\nDescrição\nO método toString() do objeto Function converte uma função em uma string de maneira depen-\ndente da implementação. Na maioria das implementações, como no Firefox e no IE, esse método \nretorna uma string de código JavaScript válido – código que inclui a palavra-chave \nfunction, lista \nde argumentos, o corpo completo da função, etc. Nessas implementações, a saída desse método \ntoString() é entrada válida para a função global eval(). Contudo, esse comportamento não é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4221,
+    "totalChunks": 10000
+  }
+}

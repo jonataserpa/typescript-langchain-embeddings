@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3416",
+  "content": "ite um curinga URL “*”. Se você usar esse \ncuringa, o navegador vai tentar carregar da rede qualquer recurso não mencionado no manifesto. \nIsso anula efetivamente a regra que diz que os aplicativos colocados na cache devem listar todos os \nseus recursos no manifesto.\nAs entradas de manifesto na seção “FALLBACK:” incluem dois URLs em cada linha. O segundo \nURL é carregado e armazenado na cache. O primeiro URL é um prefixo. Os URLs correspondentes \na esse prefixo não serão colocados na cache, mas vão ser carregados da rede, quando possível. Se a ten-\ntativa de carregar um URL assim falha, o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3416,
+    "totalChunks": 10000
+  }
+}

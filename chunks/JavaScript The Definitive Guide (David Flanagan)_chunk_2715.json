@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2715",
+  "content": "resenta um\n * mapeamento de identificadores de tecla (definido abaixo) em funções de tratamento. \n * Keymap pode ser instalada em um elemento HTML para tratar de eventos keydown. Quando \n * esse evento ocorre, Keymap utiliza seu mapeamento para chamar a rotina de tratamento \n * apropriada.\n *\n * Quando você cria uma Keymap, pode passar um objeto JavaScript representando\n * o conjunto inicial de vínculos para Keymap. Os nomes de propriedade desse objeto\n * são identificadores de tecla e os valores de propriedade são as funções de tratamento.\n * Após uma Keymap ser criada, você pode adicionar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2715,
+    "totalChunks": 10000
+  }
+}

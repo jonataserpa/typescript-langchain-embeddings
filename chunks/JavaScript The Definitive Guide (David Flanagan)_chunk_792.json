@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_792",
+  "content": "mo \nundefined se você os consulta:\nvar count = [1,,3];   // Elementos nos índices 0 e 2. count[1] => undefined\nvar undefs = [,,];    // Array sem elementos mas com comprimento 2\nA sintaxe de array literal permite uma vírgula opcional à direita; portanto, [,,] tem apenas dois \nelementos, não três.\nOutro modo de criar um array é com a construtora\n Array(). Essa construtora pode ser chamada de \ntrês maneiras distintas:\n •   Chamada sem argumentos:\n    var a = new Array();\nEsse método cria um array vazio sem elementos e é equivalente ao array literal [].\n •   Chamada com um único argumento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 792,
+    "totalChunks": 10000
+  }
+}

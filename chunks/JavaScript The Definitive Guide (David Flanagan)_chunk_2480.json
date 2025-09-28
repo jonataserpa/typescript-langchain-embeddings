@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2480",
+  "content": "eles, \ninserindo texto, selecionando um item ou marcando uma caixa. Para campos de entrada de texto, \num evento change só é disparado depois que o usuário terminou de interagir com um elemento do \nformulário e pressionou a tecla Tab ou deu um clique para mover o foco para outro elemento. Os \nEventos de mudança de estado\nAlguns eventos não são disparados diretamente pela atividade do usuário, mas por atividade da rede \nou do navegador, e indicam algum tipo de ciclo de vida ou mudança relacionada a estado. O evento \nload, disparado no objeto Window quando o documento está totalmente carregado,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2480,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5177",
+  "content": "pode incluir vários intervalos de tempo \nseparados (isso acontece com a propriedade played, quando o usuário pula para o meio de um ar-\nquivo de vídeo, por exemplo). Um objeto TimeRanges representa zero ou mais intervalos de tempo \nseparados. A propriedade length especifica o número de intervalos e os métodos start() e end() \nretornam os limites de cada intervalo.\nOs objetos \nTimeRanges retornados por MediaElements são sempre normalizados, ou seja, os intervalos \nque eles contêm estão em ordem, não são vazios e não se tocam nem se sobrepõem.\nPropriedades\nreadonly unsigned long length\nO número",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5177,
+    "totalChunks": 10000
+  }
+}

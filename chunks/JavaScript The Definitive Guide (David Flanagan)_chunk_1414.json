@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1414",
+  "content": "são regular correspondem a um \núnico caractere em uma string. Por exemplo, \\s corresponde a um único caractere de espaço em \nbranco. Outros elementos de expressões regulares correspondem às posições entre os caracteres, em \nvez dos caracteres em si. \\b, por exemplo, corresponde a um limite de palavra – o limite entre um \\w \n(caractere alfabético em ASCII) e um \\W (caractere não alfabético), ou o limite entre um caractere \nde palavra ASCII e o início ou final de uma string\n2\n. Elementos como \\b não especificam qualquer \ncaractere a ser usado em uma string coincidente; o que eles especificam,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1414,
+    "totalChunks": 10000
+  }
+}

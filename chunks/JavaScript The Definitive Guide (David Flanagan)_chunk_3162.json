@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3162",
+  "content": "passado como primeiro argumento para a função callback. Assim como acontece com \njQuery.getScript(), o segundo e o terceiro argumentos da callback são o código de status “success” \ne o objeto XMLHttpRequest:\n// Supõe que data.json contém o texto: '{\"x\":1,\"y\":2}'\njQuery.getJSON(\"data.json\", function(data) {\n    // Agora data é o objeto {x:1, y:2}\n});\nAo contrário de jQuery.getScript(), jQuery.getJSON() aceita um argumento de dados opcional, \ncomo aquele passado para o método load(). Se você passa dados para jQuery.getJSON(), eles devem \nser o segundo argumento e a função callback deve ser o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3162,
+    "totalChunks": 10000
+  }
+}

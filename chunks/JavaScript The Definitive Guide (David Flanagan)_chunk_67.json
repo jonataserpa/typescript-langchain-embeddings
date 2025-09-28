@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_67",
+  "content": "ays, mas são tão importantes \nque você vai vê-los muitas vezes antes de chegar a esses capítulos.\n// O tipo de dados mais importante de JavaScript é o objeto.\n// Um objeto é uma coleção de pares nome/valor ou uma string para mapa de valores.\nvar book = { // Objetos são colocados entre chaves.\n    topic: \"JavaScript\",   // A propriedade \"topic\" tem o valor \"JavaScript\".\n    fat: true // A propriedade \"fat\" tem o valor true.\n}; // A chave marca o fim do objeto.\n// Acesse as propriedades de um objeto com . ou []:\nbook.topic // => \"JavaScript\"\nbook[\"fat\"] // =>  true: outro modo de acessar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 67,
+    "totalChunks": 10000
+  }
+}

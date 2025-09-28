@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1817",
+  "content": "eram incompatíveis \ne divergentes. Agora a técnica perdeu a popularidade e só deve ser usada quando absolutamente \nnecessária.\nNote que o farejamento de cliente também pode ser feito no lado do servidor, com o servidor Web \nescolhendo o código JavaScript a ser enviado, com base em como o navegador se identifica em seu \ncabeçalho \nUser-Agent.\n13.4.6   Comentários condicionais no Internet Explorer\nNa prática, você vai ver que muitas das incompatibilidades na programação JavaScript do lado do \ncliente são específicas do IE. Isto é, deve-se escrever código de uma maneira para o IE e de outra",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1817,
+    "totalChunks": 10000
+  }
+}

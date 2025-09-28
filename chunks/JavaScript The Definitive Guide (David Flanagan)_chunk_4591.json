@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4591",
+  "content": "esse subcaminho \nvazio é removido do caminho.\n\n862          Parte IV     Referência de JavaScript do lado do cliente\nvoid putImageData(ImageData dadosimagem, double dx, dy, [sx, sy, sw, sh])\nputImageData() copia um bloco retangular de pixels de um objeto ImageData no canvas. Essa é uma \noperação de cópia de pixel de baixo nível: os atributos globalCompositeOperation e globalAlpha são \nignorados, assim como os atributos de região de recorte, matriz de transformação e desenho de \nsombra.\nOs argumentos \ndx e dy especificam o ponto de destino no canvas. Os pixels de dados serão copiados \nno",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4591,
+    "totalChunks": 10000
+  }
+}

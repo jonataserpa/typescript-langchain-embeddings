@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1016",
+  "content": "armazenado no\n// objeto o. Em vez disso, o valor é armazenado apenas em uma variável local\n// nessa função. Os métodos getter e setter também são definidos\n// localmente nessa função e, portanto, têm acesso a essa variável local.\n// Isso significa que o valor é privado para os dois métodos de acesso e\n// não pode ser configurado nem modificado, a não ser por meio do método setter.\nfunction addPrivateProperty(o, name, predicate) {\n    var value;  // Essa é a propriedade value\n    // O método getter simplesmente retorna o valor.\n    o[\"get\" + name] = function() { return value; };\n    // O",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1016,
+    "totalChunks": 10000
+  }
+}

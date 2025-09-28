@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3472",
+  "content": "não se tor-\nna visível, mas o navegador carrega os dados da imagem e os coloca na cache. Em seguida, quando \no mesmo URL for usado para uma imagem na tela, ela poderá ser carregada rapidamente a partir da \ncache do navegador, em vez de ser carregada lentamente pela rede.\nO trecho de código de troca de imagem mostrado na seção anterior não buscava previamente a ima-\ngem de troca que utilizava, de modo que o usuário poderia notar um atraso no efeito na primeira vez \nque colocasse o mouse sobre a imagem. Para corrigir esse problema, modifique o código como segue:\n<script>(new Image()).src =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3472,
+    "totalChunks": 10000
+  }
+}

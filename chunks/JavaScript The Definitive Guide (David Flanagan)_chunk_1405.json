@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1405",
+  "content": "” ou a uma ou mais repetições das strings “ab” ou “cd”.\nOutro objetivo dos parênteses nas expressões regulares é definir subpadrões dentro do padrão com-\npleto. Quando uma expressão regular coincide com uma string procurada, é possível extrair as partes \nda string que corresponderam a qualquer subpadrão em particular colocado nos parênteses. (Vamos \nver ainda neste capítulo como essas correspondências de substrings são obtidas.) Por exemplo, su-\nponha que você esteja procurando uma ou mais letras minúsculas, seguidas de um ou mais dígitos. \nVocê poderia usar o padrão \n/[a-z]+\\d +/. Mas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1405,
+    "totalChunks": 10000
+  }
+}

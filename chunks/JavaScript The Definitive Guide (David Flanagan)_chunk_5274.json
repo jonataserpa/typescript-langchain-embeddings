@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5274",
+  "content": "adores modernos. Quando este livro estava sendo escrito, um padrão XMLHttpRequest Level 2 \nestava em desenvolvimento e os navegadores estavam começando a implementá-lo. As propriedades, \nmétodos e rotinas de tratamento de evento listadas a seguir incluem recursos XMLHttpRequest Le-\nvel 2, os quais podem ainda não estar implementados por todos os navegadores. Esses recursos mais \nrecentes estão marcados com “XHR2”.\nConstrutora\nnew XMLHttpRequest()\nEssa construtora sem argumentos retorna um novo objeto XMLHttpRequest.\nConstantes\nEstas constantes definem os valores da propriedade readyState.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5274,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1447",
+  "content": "com a posição do caractere imediatamente após a substring coincidente. Quando exec() é chamado \numa segunda vez para a mesma expressão regular, ele inicia sua busca na posição de caractere indica-\nda pela propriedade lastIndex. Se exec() não encontra uma correspondência, ele configura lastIn-\ndex como 0. (Você também pode configurar lastIndex como 0 a qualquer momento, o que deve ser \nfeito ao se sair de uma pesquisa, antes de encontrar a última correspondência em uma string e iniciar \na pesquisa de outra string com o mesmo objeto RegExp.) Esse comportamento especial permite \n\nCapítulo 10",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1447,
+    "totalChunks": 10000
+  }
+}

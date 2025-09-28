@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3129",
+  "content": "height: [\"hide\", \"linear\"], opacity:\"hide\"\n});\n“função de abrandamento” que faz o mapeamento de uma porcentagem de conclusão baseada no tempo \naté a porcentagem de efeito desejada. A jQuery chama a função de abrandamento com um valor baseado \nno tempo entre 0 e 1. Ela retorna outro valor entre 0 e 1 e a jQuery calcula o valor da propriedade CSS com \nbase nesse valor calculado. De modo geral, se espera que as funções de abrandamento retornem 0 quan-\ndo o valor 0 é passado e 1 quando é passado o valor 1, é claro, mas eles podem ser não lineares entre esses \ndois valores e essa não linearidade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3129,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_216",
+  "content": "2 e .1. É importante entender que esse problema não é \nespecífico da linguagem JavaScript: ele afeta qualquer linguagem de programação que utilize núme-\nros binários em ponto flutuante. Além disso, note que os valores \nx e y no código anterior são muito \npróximos entre si e do valor correto. Os valores calculados são adequados para quase todas as finali-\ndades – o problema surge quando tentamos comparar a igualdade de valores.\nUma futura versão de JavaScript poderá suportar um tipo numérico decimal que evite esses pro-\nblemas de arredondamento. Até então, talvez você queira efetuar cálculos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 216,
+    "totalChunks": 10000
+  }
+}

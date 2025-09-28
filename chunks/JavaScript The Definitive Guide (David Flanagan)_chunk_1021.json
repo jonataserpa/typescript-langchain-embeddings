@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1021",
+  "content": "ar funcs = constfuncs();\nfuncs[5]()   // O que isso retorna?\nO  código  anterior  cria  10  closures  e  as  armazena  em  um  array.  Todas  as  closures  são  definidas  \ndentro da mesma chamada da função; portanto, elas compartilham o acesso à variável i. Quando \nconstfuncs() retorna, o valor da variável i é 10 e todas as 10 closures compartilham esse valor. Por-\ntanto, todas as funções no array de funções retornado retornam o mesmo valor, e isso não é o que \nqueríamos. É importante lembrar que o encadeamento de escopo associado a uma closure é “vivo”. \nAs funções aninhadas não fazem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1021,
+    "totalChunks": 10000
+  }
+}

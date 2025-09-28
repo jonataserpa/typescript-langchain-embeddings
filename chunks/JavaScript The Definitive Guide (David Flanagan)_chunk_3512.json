@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3512",
+  "content": "alente. Se foram \ncarregados dados suficientes, este evento será seguido por um evento de play. Caso contrário, \nvai se seguir um evento de wait.\nwaiting\nA reprodução não pode começar ou parou porque não há dados suficientes no buffer. Um \nevento de play vai se seguir quando dados suficientes estiverem prontos.\nplaying\nA mídia começou a ser reproduzida.\ntimeupdate\nA propriedade currentTime mudou. Durante a reprodução normal, este evento é disparado \nentre 4 e 60 vezes por segundo, possivelmente dependendo da carga do sistema e de quanto \ntempo as rotinas de tratamento de evento estão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3512,
+    "totalChunks": 10000
+  }
+}

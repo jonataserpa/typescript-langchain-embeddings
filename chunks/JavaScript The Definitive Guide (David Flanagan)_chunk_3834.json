@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3834",
+  "content": "o 2º pixel\n        for(var col = 1; col < width; col++, i += 4) {    // Para cada coluna\n            data[i] = (data[i] + data[i-4]*m)/n;          // Componente de pixel vermelho\n            data[i+1] = (data[i+1] + data[i-3]*m)/n;     // Verde\n            data[i+2] = (data[i+2] + data[i-2]*m)/n;     // Azul\n            data[i+3] = (data[i+3] + data[i-1]*m)/n;     // Componente alfa\n  }\n }\n    return    pixels;\n}\n\nCapítulo 22     APIs de HTML5      671\nJavaScript do\n lado do cliente\nNote que o código do Exemplo 22-7 pode processar qualquer quantidade de imagens enviadas a \nele. Por",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3834,
+    "totalChunks": 10000
+  }
+}

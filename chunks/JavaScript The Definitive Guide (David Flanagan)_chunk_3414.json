@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3414",
+  "content": "Script do\n lado do cliente\nmais complicada do que esse exemplo mostra e existem duas outras maneiras de listar recursos em \num arquivo de manifesto. Linhas especiais de cabeçalho de seção são usadas para identificar o tipo \nde entrada de manifesto que vem após o cabeçalho. Entradas de cache simples como aquelas mos-\ntradas anteriormente ficam em uma seção “CACHE:”, que é a seção padrão. As outras duas seções \ncomeçam com os cabeçalhos “NETWORK:” e “FALLBACK:”. (Um manifesto pode ter qualquer \nnúmero de seções e alternar entre elas conforme for necessário.)\nA seção “NETWORK:” especifica URLs",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3414,
+    "totalChunks": 10000
+  }
+}

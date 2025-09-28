@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1650",
+  "content": "// Se o pedido foi por \"/test/mirror\", envia o pedido de volta literalmente.\n    // Útil quando é preciso ver os cabeçalhos e o corpo do pedido.\n    else if (url.pathname === \"/test/mirror\") {\n        // Status e cabeçalhos da resposta\n        response.writeHead(200, {\"Content-Type\": \"text/plain; charset=UTF-8\"});\n        // Inicia o corpo da resposta com o pedido\n        response.write(request.method + \" \" + request.url +\n                       \" HTTP/\" + request.httpVersion + \"\\r\\n\");\n        // E os cabeçalhos do pedido\n        for(var h in request.headers) {",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1650,
+    "totalChunks": 10000
+  }
+}

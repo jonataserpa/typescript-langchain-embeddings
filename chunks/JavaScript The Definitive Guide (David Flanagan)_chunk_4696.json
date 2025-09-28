@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4696",
+  "content": "mbém dispara um evento DOMContentLoaded (consulte a Seção 17.4) quando a árvore de docu-\nmentos está pronta (mas antes que os recursos externos tenham terminado de carregar). Entretanto, \nvocê deve usar um método EventTarget para registrar uma rotina de tratamento para esses eventos, \npois existe uma propriedade onDOMContentLoaded.\nDocumentFragment\nnós adjacentes e suas subárvores Node\nA interface DocumentFragment representa uma parte – ou fragmento – de um documento. Mais es-\npecificamente, é uma lista de nós adjacentes e todos os descendentes de cada um, mas sem qualquer \nnó pai comum. Os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4696,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_581",
+  "content": "o interpretador pula para a rotina de tratamento de exceção cir-\ncundante mais próxima, a qual pode estar na mesma função ou acima na pilha de chamada, em \numa função invocadora.\nOs detalhes de cada uma dessas instruções de salto estão nas seções a seguir.\n5.6.1   Instruções   rotuladas\nQualquer instrução pode ser rotulada por ser precedida por um identificador e dois-pontos:\nidentificador: instrução\nRotulando uma instrução, você dá a ela um nome que pode ser usado para se referir a ela em qual-\nquer parte de seu programa. É possível rotular qualquer instrução, embora só seja útil rotular",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 581,
+    "totalChunks": 10000
+  }
+}

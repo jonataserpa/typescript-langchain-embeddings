@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3164",
+  "content": "y aceita um argumento (ou uma opção) que especifica dados para \nenviar ao servidor, junto com o URL. Normalmente, esses dados assumem a forma de pares \nnome=valor \ncodificados no URL, separados uns dos outros por símbolos de E comercial. (Esse formato de dados é co-\nnhecido como tipo MIME “application/x-www-form-urlencoded”. Pode considerá-lo análogo ao JSON: um \nformato para converter objetos JavaScript simples em strings e vice-versa.) Para requisições HTTP GET, \nessa string de dados é anexada ao URL. Para requisições POST, ela é enviada como corpo da requisição, \napós o envio de todos os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3164,
+    "totalChunks": 10000
+  }
+}

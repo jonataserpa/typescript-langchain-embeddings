@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2657",
+  "content": "k-icon.png\";                         // URL da imagem\n    // Exibe a hora a cada minuto\n    function displayTime() {\n        var now = new Date();                   // Obtém a hora atual\n        var hrs = now.getHours(), mins = now.getMinutes();\n        if (mins < 10) mins = \"0\" + mins;\n        clock.innerHTML = hrs + \":\" + mins;      // Exibe a hora atual\n        setTimeout(displayTime, 60000);          // Executa novamente em 1 minuto\n }\n    displayTime();\n    // Torna possível arrastar o relógio\n    // Também podemos fazer isso com um atributo HTML: <span draggable=\"true\">...",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2657,
+    "totalChunks": 10000
+  }
+}

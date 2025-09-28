@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4065",
+  "content": "ração de redução de array de outras \nlinguagens de programação, onde às vezes é chamada de “fold” ou “inject”.)\nA primeira chamada de \nf recebe os dois primeiros elementos de array. Cada chamada subsequente \nde f recebe o valor de retorno da chamada anterior e o próximo elemento (em ordem crescente) de \narray. O valor de retorno da última chamada de f se torna o valor de retorno do método reduce() \nem si.\nreduce() pode ser chamado com um segundo argumento opcional, inicial. Se inicial for especifi-\ncado, reduce() vai se comportar como se esse argumento fosse inserido no início de array",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4065,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2525",
+  "content": "oadstart, seguido de eventos progress e um evento loadend. Além \ndisso, cada operação termina com um evento load, error ou abort imediatamente antes do evento \nloadend final. Consulte a Seção 18.1.4 e a Seção 22.6.5 para ver os detalhes.\nPor fim, HTML5 e padrões relacionados definem alguns tipos diversos de evento. A API Web Sto-\nrage (Seção 20.1) define um evento storage (no objeto Window) que fornece notificação sobre al-\nterações em dados armazenados. HTML5 também padroniza os eventos beforeprint e afterprint, \noriginalmente introduzidos pela Microsoft no IE. Conforme seus nomes implicam,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2525,
+    "totalChunks": 10000
+  }
+}

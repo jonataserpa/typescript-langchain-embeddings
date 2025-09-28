@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3577",
+  "content": "er direção, até o infinito (ou, de forma mais \nprática, até algum ponto fora da caixa de contorno do caminho). Agora, inicialize um contador com \nzero e enumere todos os lugares onde o caminho cruza a linha reta. Sempre que o caminho cruzar a \nlinha reta no sentido horário, some um na contagem. Sempre que o caminho cruzar a linha reta no \nsentido anti-horário, subtraia um. Se, após todos os cruzamentos serem enumerados, a contagem for \ndiferente de zero, o ponto P está dentro do caminho. Por outro lado, se a contagem for zero, P está fora \ndo caminho.\n21.4.2   Atributos   gráficos\nO Exemplo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3577,
+    "totalChunks": 10000
+  }
+}

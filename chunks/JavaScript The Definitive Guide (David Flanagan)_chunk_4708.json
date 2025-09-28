@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4708",
+  "content": "e <body> como filhos. O elemento <head>, por sua vez, \ntem um filho <title>, o qual tem como filho a string título especificada.\nDOMSettableTokenList\numa lista de símbolos com um valor de string que pode ser configurado DOMTokenList\nUm DOMSettableTokenList é um \nDOMTokenList que também tem uma propriedade value que pode \nser configurada para especificar o conjunto inteiro de símbolos de uma só vez.\nA propriedade classList de Element é um DOMTokenList que representa o conjunto de sím-\nbolos na propriedade \nclassName, que é uma string. Se quiser configurar todos os símbolos de \nclassList de uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4708,
+    "totalChunks": 10000
+  }
+}

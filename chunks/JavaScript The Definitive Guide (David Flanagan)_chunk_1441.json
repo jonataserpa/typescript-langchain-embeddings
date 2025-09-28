@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1441",
+  "content": "e indica os flags \nda expressão regular. Deve ser g, i, m ou uma combinação dessas letras.\n\n256          Parte     I     JavaScript     básica\nPor exemplo:\n// Encontra todos os números de cinco dígitos em uma string. Observe o duplo \\\\ nesse caso.\nvar zipcode = new RegExp(\"\\\\d{5}\", \"g\");\nA construtora RegExp() é útil quando uma expressão regular está sendo criada dinamicamente e, as-\nsim, não pode ser representada com a sintaxe de expressão regular literal. Por exemplo, para procurar \numa string inserida pelo usuário, uma expressão regular deve ser criada em tempo de execução com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1441,
+    "totalChunks": 10000
+  }
+}

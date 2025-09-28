@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4115",
+  "content": "// Configura o mês como dezembro...\nchristmas.setDate(25);          // e o dia como o 25º\n// Se o Natal ainda não passou, calcula o número de\n// milissegundos entre agora e o Natal, converte isso\n// em um número de dias e imprime uma mensagem\nif (today.getTime() < christmas.getTime()) {\n    difference = christmas.getTime() – today.getTime();\n    difference = Math.floor(difference / (1000 * 60 * 60 * 24));\n    document.write('Only ' + difference + ' days until Christmas!<p>');\n}\n</script>\n// ... restante do documento HTML aqui ...\n<script language=\"JavaScript\">\n// Aqui, usamos objetos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4115,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4271",
+  "content": "tos\nargs...\nQualquer quantidade de argumentos.\nRetorna\nO menor dos argumentos especificados. Retorna \nInfinity caso não haja argumentos. Retorna NaN se \nqualquer argumento é NaN ou é um valor não numérico que não pode ser convertido em um número.\nMath.PI\na constante matemática π\nSinopse\nMath.PI\n\n782          Parte III     Referência de JavaScript básica\nDescrição\nMath.PI é a constante π (ou pi), a relação da circunferência de um círculo por seu diâmetro. O valor \naproximado dessa constante é 3,14159265358979.\nMath.pow()\ncalcula x\ny\nSinopse\nMath.pow(x, y)\nArgumentos\nx\nO número a ser elevado a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4271,
+    "totalChunks": 10000
+  }
+}

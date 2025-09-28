@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_967",
+  "content": "número de ar-\ngumentos, mas processa recursivamente todos os argumentos que são arrays. Desse modo, pode ser \nusado como um método varargs ou com um argumento de array. Além disso, ele faz o que pode para \nconverter valores não numéricos em números, antes de lançar um erro:\nfunction flexisum(a) {\n    var total = 0;\n    for(var i = 0; i < arguments.length; i++) {\n        var element = arguments[i], n;\n        if (element == null) continue;  // Ignora argumentos null e undefined\n\nCapítulo     8     Funções          171\nJavaScript básica\n        if (isArray(element))                   // Se o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 967,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3026",
+  "content": "nta uma API de evento diferente da de todos os outros navegadores. Para tratar dessa \ndificuldade, a jQuery define uma API de evento uniforme que funciona em todos os navegadores. \nEm sua forma simples, a API jQuery é mais fácil de usar do que as APIs de evento padrão ou do IE. \nE em sua forma completa, mais complexa, a API jQuery é mais poderosa do que a API padrão. As \nsubseções a seguir têm todos os detalhes.\n19.4.1   Registro simples de rotina de tratamento de evento\nA jQuery define métodos de registro de evento simples para cada um dos eventos de navegador \nnormalmente usados e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3026,
+    "totalChunks": 10000
+  }
+}

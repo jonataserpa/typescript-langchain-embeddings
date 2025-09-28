@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5192",
+  "content": "“muted”) e você pode tratar essa \npropriedade como uma string.\nunsigned long height\nA altura na tela do elemento <video>, em pixels CSS. Espelha o atributo HTML height.\n\n      Referência de JavaScript do lado do cliente      983\nReferência de \nJavaScript do lado \ndo cliente\nstring poster\nO URL de uma imagem a ser exibida como “quadro de anúncio” antes que o vídeo comece a \nser reproduzido. Espelha o atributo HTML poster.\nreadonly unsigned long videoHeight\nreadonly unsigned long videoWidth\nEssas propriedades retornam a largura e altura intrínsecas do vídeo (isto é, o tamanho de \nseus quadros)",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5192,
+    "totalChunks": 10000
+  }
+}

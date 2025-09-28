@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3079",
+  "content": "então chamar tri-\ngger() no resultado, mas isso seria muito ineficiente. Em vez disso, para disparar um evento \nglobalmente, chame a função utilitária jQuery.event.trigger(). Essa função recebe os mesmos \nargumentos que o método trigger() e dispara rotinas de tratamento de evento eficientemente \npor todo o documento, para o tipo de evento especificado. Note que os “eventos globais” dispa-\nrados dessa forma não borbulham e que, com essa técnica, são disparadas apenas as rotinas de \ntratamento registradas com métodos jQuery (e não rotinas de tratamento de evento registradas \ncom propriedades",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3079,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3095",
+  "content": "'a', 'mouseover', linkHandler); //  Uma rotina de tratamento específica\nPor fim, undelegate() também pode ser chamado sem um argumento. Nesse caso, ele anula o registro \nde todas as rotinas de tratamento de evento dinâmicas que são delegadas dos elementos selecionados.\n\nCapítulo 19     A biblioteca jQuery      537\nJavaScript do\n lado do cliente\n19.5   Efeitos   animados\nO Capítulo 16 mostrou como escrever scripts de estilos CSS de elementos do documento. Con-\nfigurando a propriedade CSS visibility, por exemplo, você pode fazer elementos aparecerem e \ndesaparecerem. A Seção 16.3.1 demonstrou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3095,
+    "totalChunks": 10000
+  }
+}

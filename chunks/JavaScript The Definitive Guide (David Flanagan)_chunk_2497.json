@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2497",
+  "content": "Os eventos mousedown e mouseup \nsão disparados quando o usuário pressiona e solta um botão do mouse. Registrando uma rotina \nde tratamento de mousedown que registre uma rotina de tratamento de mousemove, você pode \ndetectar e responder a arrastos do mouse. Fazer isso corretamente envolve a capacidade de cap-\nturar eventos de mouse para que se continue a receber eventos mousemove mesmo quando o \nmouse tiver sido retirado do elemento em que começou. A Seção 17.5 contém um exemplo de \ntratamento de arrastos.\nApós uma sequência de eventos mousedown e mouseup, o navegador também dispara um evento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2497,
+    "totalChunks": 10000
+  }
+}

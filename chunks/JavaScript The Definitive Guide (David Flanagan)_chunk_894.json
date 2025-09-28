@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_894",
+  "content": "to);\n};\nArray.map = Array.map || function(a, f, thisArg) {\n    return Array.prototype.map.call(a, f, thisArg);\n}\n7.12   Strings como arrays\nEm ECMAScript 5 (e em muitas implementações recentes de navegadores – incluindo o IE8 – antes \nde ECMAScript 5), as strings se comportam como arrays somente para leitura. Em vez de acessar \ncaracteres individuais com o método charAt(), pode-se usar colchetes:\nvar s = test;\ns.charAt(0)  //  =>  \"t\"\ns[1]         // => \"e\"\nO operador typeof ainda retorna “string” para strings, é claro, e o método Array.isArray() retorna \nfalse se uma string é passada para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 894,
+    "totalChunks": 10000
+  }
+}

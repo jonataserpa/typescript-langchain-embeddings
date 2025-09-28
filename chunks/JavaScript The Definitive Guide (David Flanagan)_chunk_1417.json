@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1417",
+  "content": "onde a \n“Java” no início ou no final de uma string, mas somente se aparece com espaço em um ou outro \nlado. Segundo, quando esse padrão encontra uma correspondência, a string coincidente que retorna \ntem espaços à esquerda e à direita, que não é exatamente o desejado. Assim, em vez de corresponder \naos caracteres de espaço reais com \n\\s, corresponda (ou ancore em) aos limites da palavra com \\b. A \nexpressão resultante é \n/\\bJava\\b/. O elemento \\B ancora a correspondência em um local que não é \num limite de palavra. Assim, o padrão \n/\\B[Ss]cript/ corresponde a “JavaScript” e a “postscript”,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1417,
+    "totalChunks": 10000
+  }
+}

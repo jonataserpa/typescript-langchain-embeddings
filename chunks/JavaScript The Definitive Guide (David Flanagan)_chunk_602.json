@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_602",
+  "content": "próprio interpretador JavaScript lança um erro, e \nvocê também pode usá-las. Um objeto Error tem uma propriedade name que especifica o tipo de erro \ne uma propriedade \nmessage que contém a string passada para a função construtora (consulte a classe \nError na seção de referência). Aqui está um exemplo de função que lança um objeto Error quando \nchamada com um argumento inválido:\nfunction factorial(x) {\n    // Se o argumento de entrada é inválido, dispara uma exceção!\n    if (x < 0) throw new Error(\"x must not be negative\");\n    // Caso contrário, calcula um valor e retorna normalmente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 602,
+    "totalChunks": 10000
+  }
+}

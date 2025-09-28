@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2735",
+  "content": ";\", 61:\"=\", 186:\";\", 187:\"=\",   // O Firefox e o Opera retornam 59,61\n    188:\",\", 190:\".\", 191:\"/\", 192:\"`\", 219:\"[\", 220:\"\\\\\", 221:\"]\", 222:\"'\"\n};\n\nCapítulo 18\nScripts HTTP\nO protocolo HTTP (Hypertext Transfer Protocol) especifica como os navegadores Web recebem \ndocumentos e postam conteúdo de formulários nos servidores Web e como estes respondem a essas \nrequisições e postagens. Os navegadores Web obviamente manipulam muito HTTP. Normalmente, \no HTTP não está sob o controle de scripts; em vez disso, ocorre quando o usuário clica em um link, \nenvia um formulário ou digita um URL.\nContudo,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2735,
+    "totalChunks": 10000
+  }
+}

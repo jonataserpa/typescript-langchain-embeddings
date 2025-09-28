@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2310",
+  "content": "nho de um elemento\nz-index\nEspecifica a “ordem de empilhamento” de um elemento em relação a qualquer elemento sobreposto; \ndefine uma terceira dimensão de posicionamento de elemento\ndisplay\nEspecifica como (e se) um elemento é exibido\nvisibility\nEspecifica se um elemento é visível\nclip\nDefine uma “região de corte” para um elemento; somente partes do elemento dentro dessa região são \nexibidas\noverflow\nEspecifica o que fazer se um elemento for maior do que o espaço designado para ele\nmargin, border, padding\nEspecificam o espaçamento e as bordas de um elemento.\nbackground\nEspecifica a cor ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2310,
+    "totalChunks": 10000
+  }
+}

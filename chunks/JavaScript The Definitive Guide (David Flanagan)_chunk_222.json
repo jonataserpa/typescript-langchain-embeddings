@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_222",
+  "content": "ódigo e strings em JavaScript\nJavaScript  usa  a  codificação  UTF-16  do  conjunto  de  caracteres  Unicode  e  as  strings  em  JavaScript  são  \nsequências de valores de 16 bits sem sinal. Os caracteres Unicode mais comumente usados (os do “plano \nbásico multilíngue\") têm posições de código que cabem em 16 bits e podem ser representados por um \núnico elemento de uma string. Os caracteres Unicode cujas posições de código não cabem em 16 bits são \ncodificados de acordo com as regras da UTF-16 como uma sequência (conhecida como “par substituto”) de \ndois valores de 16 bits. Isso significa que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 222,
+    "totalChunks": 10000
+  }
+}

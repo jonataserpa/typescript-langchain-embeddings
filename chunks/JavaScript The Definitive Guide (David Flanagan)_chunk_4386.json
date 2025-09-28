@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4386",
+  "content": "Lança\nSyntaxError\nSe padrão não é uma expressão regular válida ou se atributos contém caracteres que não sejam \n“g”, “i” e “m”.\nTypeError\nSe padrão é um objeto RegExp e o argumento atributos não é omitido.\n\n      Referência de JavaScript básica      815\nReferência de \nJavaScript básica\nPropriedades de instância\nglobal\nSe RegExp tem o atributo “g”.\nignoreCase\nSe RegExp tem o atributo “i”.\nlastIndex\nA posição de caractere da última correspondência; usada para localizar várias correspondências \nem uma string.\nmultiline\nSe RegExp tem o atributo “m”.\nsource\nO texto de origem da expressão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4386,
+    "totalChunks": 10000
+  }
+}

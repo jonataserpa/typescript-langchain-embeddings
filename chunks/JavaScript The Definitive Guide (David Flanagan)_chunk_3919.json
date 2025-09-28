@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3919",
+  "content": "m sistema de arquivo de forma síncrona. Passa a vida útil e o tamanho do \n// sistema de arquivos.\n// Retorna um objeto sistema de arquivo ou lança uma exceção.\nvar fs = requestFileSystemSync(PERSISTENT, 1024*1024);\n// A versão assíncrona usa funções callback para sucesso e erro\nrequestFileSystem(TEMPORARY,           // vida útil\n                          50*1024*1024,           // tamanho: 50Mb\n                  function(fs) {       // chamada com o objeto filesystem\n                     // Usa fs aqui\n        },\n                  function(e) {        // chamada com um objeto de erro onerror",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3919,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1951",
+  "content": "xistentes em que \n“podem navegar” (o termo vem da especificação HTML5). Imprecisamente, um script só pode espe-\ncificar uma janela existente pelo nome se essa janela contém um documento da mesma origem ou se \no script abriu essa janela (ou abriu uma janela que abriu essa janela recursivamente). Além disso, se \numa janela é um quadro aninhado dentro de outro, um script de um quadro pode navegar no outro. \nNesse caso, os nomes reservados “_top” (a janela ascendente de nível superior) e “_parent” (a janela \npai imediata) podem ser úteis.\nNomes de janela\nO nome de uma janela é importante, pois",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1951,
+    "totalChunks": 10000
+  }
+}

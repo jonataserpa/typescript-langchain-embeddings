@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3966",
+  "content": "aliza o número de versão sempre que altera a estrutura do \nbanco de dados. Mais importante, contudo, \nsetVersion() inicia implicitamente um tipo especial de \ntransação que permite chamar o método createObject Store() do objeto banco de dados e o método \ncreateIndex() de um objeto armazenado.\nTendo em mente essa visão geral de alto nível da IndexedDB, agora você deve ser capaz de entender o \nExemplo 22-15. Esse exemplo usa IndexedDB para criar e consultar um banco de dados que mapeia \ncódigos postais dos EUA (zipcodes) nas cidades norte-americanas. Ele demonstra muitos (mas não \ntodos) dos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3966,
+    "totalChunks": 10000
+  }
+}

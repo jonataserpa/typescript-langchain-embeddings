@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5064",
+  "content": "r esse método se \nusar o método addEventListener() de EventTarget. Se você simplesmente configurar a propriedade \nonmessage, start() será chamado implicitamente.\nRotinas de tratamento de evento\nonmessage\nEssa propriedade define uma rotina de tratamento para eventos message. Os eventos mes-\nsage são disparados no objeto MessagePort. Eles não borbulham e não têm qualquer ação \n\n      Referência de JavaScript do lado do cliente      957\nReferência de \nJavaScript do lado \ndo cliente\npadrão. Note que configurar essa propriedade chama o método start() para começar o \nenvio de eventos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5064,
+    "totalChunks": 10000
+  }
+}

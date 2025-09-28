@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4165",
+  "content": "sse argumento é \nopcional.\nminutos\nOs minutos na hora, especificados como um inteiro de 0 a 59. Esse argumento é opcional.\nsegundos\nOs segundos no minuto, especificados como um inteiro de 0 a 59. Esse argumento é opcional.\nms\nO número de milissegundos, especificado como um inteiro de 0 a 999. Esse argumento é \nopcional e é ignorado antes da padronização ECMAScript.\nRetorna\nA representação em milissegundos da hora universal especificada. Isto é, esse método retorna o nú-\nmero de milissegundos entre meia-noite GMT de 1º de janeiro de 1970 e a hora especificada.\nDescrição\nDate.UTC() é um método",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4165,
+    "totalChunks": 10000
+  }
+}

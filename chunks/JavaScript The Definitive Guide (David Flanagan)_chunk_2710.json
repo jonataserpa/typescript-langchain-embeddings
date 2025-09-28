@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2710",
+  "content": "ocorre.\nOs eventos keydown e keyup e a propriedade \nkeyCode estão em uso há mais de uma década, mas \nnunca foram padronizados. A versão draft Level 3 Events do DOM padroniza os tipos de evento \nkeydown e keyup, mas não tenta padronizar keyCode. Em vez disso, define uma nova propriedade key \nque contém o nome da tecla como uma string. Se a tecla corresponder a um caractere imprimível, a \npropriedade key será apenas esse caractere imprimível. Se for uma tecla de função, a propriedade key \nserá um valor como “F2”, “Home” ou “Left”.\nA propriedade \nkey do Level 3 do DOM ainda não estava",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2710,
+    "totalChunks": 10000
+  }
+}

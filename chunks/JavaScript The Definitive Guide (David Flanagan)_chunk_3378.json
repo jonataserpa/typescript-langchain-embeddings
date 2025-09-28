@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3378",
+  "content": "aScript, o valor que ela retorna é uma string \ncontendo todos os cookies que se aplicam ao documento atual. A string é uma lista de pares nome = \nvalor separados uns dos outros por um ponto e vírgula e um espaço. O valor do cookie não inclui os \natributos que podem estar configurados para o cookie. Para usar a propriedade document.cookie, nor-\nmalmente você deve chamar o método split() a fim de decompô-la nos pares nome=valor individuais.\nUma vez que tenha extraído o valor de um cookie da propriedade\n cookie, você deve interpretar esse \nvalor com base no formato ou na codificação utilizada",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3378,
+    "totalChunks": 10000
+  }
+}

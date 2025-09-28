@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2914",
+  "content": "mite a mensagem para todos os clientes que estiverem recebendo.\n        request.on(“end”, function() {\n           response.writeHead(200); // Responde à requisição\n            response.end();\n            // Formata a mensagem no formato fluxo de texto/eventos\n            // Certifica-se de que cada linha seja prefixada com \"data:\" e que seja\n            // terminada com duas novas linhas.\n            message = 'data: ' + body.replace('\\n', '\\ndata: ') + \"\\r\\n\\r\\n\";\n            // Agora envia essa mensagem para todos os clientes que estiverem recebendo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2914,
+    "totalChunks": 10000
+  }
+}

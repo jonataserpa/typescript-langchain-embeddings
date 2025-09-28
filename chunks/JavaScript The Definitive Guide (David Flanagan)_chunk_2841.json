@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2841",
+  "content": "ntrário, é false. Obviamente, as propriedades total e loaded são especialmente \núteis nas rotinas de tratamento de evento progress:\nrequest.onprogress = function(e) {\n    if    (e.lengthComputable)\n        progress.innerHTML = Math.round(100*e.loaded/e.total) + \"% Complete\";\n}\n18.1.4.1   Eventos progress de upload\nAlém de definir esses eventos úteis para monitorar o download de uma resposta HTTP, XHR2 tam-\nbém permite que os eventos sejam usados para monitorar o upload de uma requisição HTTP. Nos \nnavegadores que implementaram esse recurso, o objeto XMLHttpRequest terá uma propriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2841,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1268",
+  "content": "le define uma subclasse de Set chamada NonNullSet: um conjun-\nto que não permite \nnull nem undefined como membros. Para restringir a participação de membros \ndessa maneira, NonNullSet precisa testar valores nulos e indefinidos em seu método add(). Mas ela \nnão quer reimplementar o método add() completamente, de modo que encadeia na versão da super-\nclasse do método. Observe também que a construtora NonNullSet() não executa uma ação própria: \nela simplesmente passa seus argumentos para a construtora da superclasse (chamando-a como uma \nfunção e não como uma construtora) para que a construtora",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1268,
+    "totalChunks": 10000
+  }
+}

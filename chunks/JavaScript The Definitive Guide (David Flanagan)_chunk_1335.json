@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1335",
+  "content": "eturn x in this.set; } },\n    size: { value: function(x) { return this.n; } },\n    foreach: { value: function(f,c) { Object.keys(this.set).forEach(f,c); } },\n    add:    {\n        value: function() {\n            for(var i = 0; i < arguments.length; i++) {\n                if (!(arguments[i] in this.set)) {\n                       this.set[arguments[i]]    =    true;\n                       this.n++;\n      }\n   }\n            return    this;\n  }\n    },\n    remove:    {\n        value: function() {\n            for(var i = 0; i < arguments.length; i++) {\n                if (arguments[i] in this.set)",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1335,
+    "totalChunks": 10000
+  }
+}

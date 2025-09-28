@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3473",
+  "content": "re a imagem. Para corrigir esse problema, modifique o código como segue:\n<script>(new Image()).src = \"images/help_rollover.gif\";</script>\n<img src=\"images/help.gif\"\n    onmouseover=\"this.src='images/help_rollover.gif'\"\n    onmouseout=\"this.src='images/help.gif'\">\n21.1.1   Trocas não obstrusivas de imagens\nO código de troca de imagens que acabamos de mostrar exibe um elemento <script> e dois atributos \nde rotina de tratamento de evento JavaScript para implementar um único efeito de troca. Esse é um \nexemplo perfeito de JavaScript obstrusiva: o volume de código JavaScript é tão grande que torna",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3473,
+    "totalChunks": 10000
+  }
+}

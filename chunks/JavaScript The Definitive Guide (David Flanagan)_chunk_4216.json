@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4216",
+  "content": "ista de argumentos. O valor de retorno de call() é o valor \nretornado pela chamada da função. Dentro do corpo da função, a palavra-chave this se refere ao \nobjeto objthis ou ao objeto global, caso objthis seja null.\nUse \nFunction.apply(), em vez disso, se quiser especificar os argumentos a serem passados para a \nfunção em um array.\nExemplo\n// Chama o método padrão Object.toString() em um objeto que\n// o anula com sua própria versão. Observe que não existem argumentos.\nObject.prototype.toString.call(o);\nConsulte também\nFunction.apply()\nFunction.caller desaprovada; não definida no modo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4216,
+    "totalChunks": 10000
+  }
+}

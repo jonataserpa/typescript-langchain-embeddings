@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2087",
+  "content": "seguir ex-\nplicam como trabalhar com a representação HTML, com a representação em texto puro e com a \nrepresentação em árvore de conteúdo de elemento.\n15.5.1   Conteúdo de elemento como HTML\nA leitura da propriedade innerHTML de um Element retorna o conteúdo desse elemento como uma \nstring de marcação. Configurar essa propriedade em um elemento invoca o parser do navegador \nWeb e substitui o conteúdo atual do elemento por uma representação analisada da nova string. (Ape-\nsar de seu nome, innerHTML pode ser usada com elementos XML e com elementos HTML.)\nOs navegadores Web são muito bons na",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2087,
+    "totalChunks": 10000
+  }
+}

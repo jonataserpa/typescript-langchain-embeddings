@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5162",
+  "content": "penas células de dados \n<td>. Se precisar adicionar \numa célula de cabeçalho em uma linha, você deve criar e inserir o elemento <th> usando Document.\ncreateElement() e Node.insertBefore() ou métodos relacionados.\nTableSection\numa seção de cabeçalho, rodapé ou corpo de uma tabela Node, Element\nUm  objeto  TableSection  representa  um  elemento  \n<tbody>, <thead>  ou  <tfoot>  em  uma  tabela  \nHTML. As propriedades tHead e tFoot de Table são objetos TableSection e a propriedade tBodies é \num HTMLCollection de objetos TableSection.\nTableSection contém objetos \nTableRow e está contido em um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5162,
+    "totalChunks": 10000
+  }
+}

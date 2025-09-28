@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4636",
+  "content": "sa \npropriedade é um objeto MediaList, mas esse tipo não é abordado nesta referência.)\nreadonly Node ownerNode\nO elemento do documento que “possui” essa folha de estilo ou null, caso não haja nenhum. \nConsulte Link e Style.\nreadonly CSSRule ownerRule\nO objeto CSSRule (de uma folha de estilo pai) que fez essa folha de estilo ser incluída ou null, \nse essa folha de estilo foi incluída de alguma outra maneira. (Note que a entrada de CSSRule \nnesta referência documenta apenas regras de estilo e não regras @import.)\nreadonly CSSStyleSheet parentStyleSheet\nA folha de estilo que incluiu essa ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4636,
+    "totalChunks": 10000
+  }
+}

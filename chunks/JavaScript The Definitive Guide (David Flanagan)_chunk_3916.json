@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3916",
+  "content": "em necessidade de rotinas de \ntratamento de evento. O Exemplo 22-14 usa FileReaderSync.\n22.7   A API Filesystem\nNa Seção 22.6.5, vimos a classe FileReader usada para ler o conteúdo de arquivos selecionados pelo \nusuário ou de qualquer Blob. Os tipos File e Blob são definidos por uma versão preliminar da espe-\ncificação conhecida como API File. Outra versão draft de especificação, ainda mais recente do que a \nAPI File, fornece aos aplicativos Web acesso controlado a uma “caixa de areia” do sistema de arquivo \nlocal privativo, na qual podem gravar arquivos, ler arquivos, criar diretórios,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3916,
+    "totalChunks": 10000
+  }
+}

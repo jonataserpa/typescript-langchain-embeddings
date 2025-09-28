@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2725",
+  "content": "teclas.\nKeymap.prototype.dispatch = function(event, element) {\n    // Começamos sem modificadoras e sem nome de tecla\n    var modifiers = \"\"\n    var keyname = null;\n    // Constrói a string modificadora em ordem alfabética minúscula canônica.\n    if (event.altKey) modifiers += \"alt_\";\n    if (event.ctrlKey) modifiers += \"ctrl_\";\n    if (event.metaKey) modifiers += \"meta_\";\n    if (event.shiftKey) modifiers += \"shift_\";\n  // O nome da tecla é fácil, se a propriedade key do Level 3 do DOM estiver \n// implementada:\n    if (event.key) keyname = event.key;\n    // Usa keyIdentifier no Safari e no",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2725,
+    "totalChunks": 10000
+  }
+}

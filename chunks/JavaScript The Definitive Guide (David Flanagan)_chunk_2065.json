@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2065",
+  "content": "você \npode usar a propriedade src do objeto HTMLElement que representa o elemento <img>:\nvar image = document.getElementById(\"myimage\");\nvar imgurl = image.src;         // O atributo src é o URL da imagem\nimage.id === \"myimage\" // Visto que pesquisamos a imagem pela identificação\nDa mesma forma, você poderia configurar os atributos de envio de formulário de um elemento \n<form> com código como o seguinte:\nvar f = document.forms[0];                      // Primeiro <form> no documento\nf.action = \"http://www.example.com/submit.php\";  // Configura o URL para envio.\nf.method = \"POST\";",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2065,
+    "totalChunks": 10000
+  }
+}

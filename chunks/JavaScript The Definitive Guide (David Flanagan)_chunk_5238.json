@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5238",
+  "content": "campo de entrada.\nO argumento \npadrão especifica o valor inicial do campo de entrada de texto.\nvoid scroll(long x, long y)\nEsse método é um sinônimo de scrollTo().\nvoid scrollBy(long x, long y)\nscrollBy() rola o documento exibido em window pelas quantidades relativas especificadas por dx e dy.\nvoid scrollTo(long x, long y)\nscrollTo() rola o documento exibido dentro de window de modo que o ponto no documento especi-\nficado pelas coordenadas x e y seja exibido no canto superior esquerdo, se possível.\n\n      Referência de JavaScript do lado do cliente      991\nReferência de \nJavaScript do lado",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5238,
+    "totalChunks": 10000
+  }
+}

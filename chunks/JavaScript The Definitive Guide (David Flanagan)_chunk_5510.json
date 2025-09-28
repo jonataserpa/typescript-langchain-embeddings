@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5510",
+  "content": "8\nmodelo content-box, 414\nmodelo de caixa (CSS), 413\n    modelo border-box e propriedade box-sizing, 414\n    propriedade jQuery.support.boxModel, 560\nmodelo de execução, threads Worker, 668\nmodo de exibição geométrica de documentos ba-\nseado na coordenada, 380–381\nmodo Quirks, 322, 414\n    exibição de documento HTML, 359\nmodo restrito, 109\n    palavras reservadas, 24\nmodo Standards, 322\n    exibição de documento HTML, 359\nmódulo fs (arquivo e sistema de arquivo), Node, 291\nmódulo Transitions (CSS), 407–408, 424\nmódulos, 240–244\n    avaliação de, 294\n    escopo de função como namespace",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5510,
+    "totalChunks": 10000
+  }
+}

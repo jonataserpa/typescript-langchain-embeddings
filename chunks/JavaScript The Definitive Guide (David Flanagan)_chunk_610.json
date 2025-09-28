@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_610",
+  "content": "o das variáveis normais, o \nidentificador associado a uma cláusula catch tem escopo de bloco – ele é definido apenas dentro do \nbloco catch.\nAqui está um exemplo realista da instrução \ntry/catch. Ele usa o método factorial() definido na \nseção anterior e os métodos JavaScript do lado do cliente prompt() e alert() para entrada e saída:\ntry {\n    // Pede para o usuário inserir um número\n    var n = Number(prompt(\"Please enter a positive integer\", \"\"));\n    // Calcula o fatorial do número, supondo que a entrada seja válida\n    var f = factorial(n);\n    // Mostra o resultado\n    alert(n + \"! = \"",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 610,
+    "totalChunks": 10000
+  }
+}

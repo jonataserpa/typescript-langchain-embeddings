@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3142",
+  "content": "ue()\nPor fim, note que queue(), dequeue() e clearQueue() recebem todas um nome de fila opcional como \nprimeiro argumento. Os métodos de efeitos e animação da jQuery usam uma fila chamada “fx” e \nessa é a fila usada se você não especifica um nome de fila. O mecanismo de fila da jQuery é útil \nquando você precisa executar operações assíncronas sequencialmente: em vez de passar uma função \ncallback para cada operação assíncrona, para que ela possa disparar a próxima função na sequência, \nvocê pode usar uma fila para gerenciar a sequência. Basta passar um nome de fila que não seja “fx”. \nE",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3142,
+    "totalChunks": 10000
+  }
+}

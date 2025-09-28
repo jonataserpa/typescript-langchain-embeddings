@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3909",
+  "content": "dados estiverem disponíveis e para 2 \nquando a leitura tiver terminado. A propriedade result contém um resultado parcial ou completo \ncomo uma string ou como um ArrayBuffer. Normalmente, você não sonda as propriedades state e \nresult, mas as utiliza a partir de sua rotina de tratamento de evento onprogress ou onload.\nO Exemplo 22-11 demonstra como usar o método \nreadAsText() para ler arquivos de texto locais \nselecionados pelo usuário.\nExemplo 22-11 Lendo arquivos de texto com FileReader\n<script>\n// Lê o arquivo de texto especificado e o exibe no elemento <pre> a seguir\nfunction readfile(f)",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3909,
+    "totalChunks": 10000
+  }
+}

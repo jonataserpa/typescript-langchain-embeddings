@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5235",
+  "content": "a entrada no histórico de navegação de Window. Esse argumento fornece \nfuncionalidade muito parecida com a do método \nLocation.replace().\nvoid postMessage(any mensagem, string origemAlvo, [MessagePort[] portas])\nEnvia para essa janela uma cópia da mensagem especificada e as portas especificadas opcionalmente, \nmas somente se o documento exibido nessa janela tem a origemAlvo especificada.\nmensagem pode ser qualquer objeto que possa ser clonado com o algoritmo de clone estruturado (con-\nsulte “Clones estruturados”, na página 672). origemAlvo deve ser um URL absoluto especificando o \nesquema,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5235,
+    "totalChunks": 10000
+  }
+}

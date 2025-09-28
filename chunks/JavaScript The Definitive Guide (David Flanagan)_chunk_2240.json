@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2240",
+  "content": "dade de leitura/\ngravação \nselectedIndex especifica qual das opções está selecionada. Para elementos select-multi-\nple, a propriedade \nselectedIndex única não é suficiente para representar o conjunto completo de \nopções selecionadas. Nesse caso, para determinar quais opções estão selecionadas, deve-se iterar \npelos elementos do array \noptions[] e verificar o valor da propriedade selected de cada objeto \nOption.\nAlém da propriedade \nselected, cada objeto Option tem uma propriedade text que especifica a \nstring de texto puro que aparece no elemento Select para essa opção. Essa propriedade pode",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2240,
+    "totalChunks": 10000
+  }
+}

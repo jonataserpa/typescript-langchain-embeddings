@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5375",
+  "content": "UTC( ), 749\n        método valueOf( ), 49, 750\n        métodos,    727\n        métodos    estáticos,    729\n        propriedade    prototype,    115\n        setYear( ) (desaprovado), 744\n    serializando objetos Date em strings de data com \nformato ISO, 135\n    tutorial rápido sobre, 34\ndeclarações de leitura antecipada em expressões re-\ngulares, 252\ndeclarações de leitura antecipada negativa em expres-\nsões regulares, 252\ndeclarações de leitura antecipada positiva em expres-\nsões regulares, 252\ndeclarações doctype\n    modo Quirks e modo Standards, 322\n    rigor das, 359\ndefaultCharset,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5375,
+    "totalChunks": 10000
+  }
+}

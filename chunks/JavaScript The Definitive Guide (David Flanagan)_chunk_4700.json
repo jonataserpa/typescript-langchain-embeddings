@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4700",
+  "content": "os Document com \nDOMImplementation.\ncreateDocument(). Você pode criar novos objetos DocumentType com DOMImplementation.createDo-\ncumentType().\nPropriedades\nreadonly string name\nO nome do tipo de documento. Esse identificador vem imediatamente após <!DOCTYPE> no \ninício de um documento e é o mesmo nome de tag do elemento raiz do documento. Para \ndocumentos HTML, isso será “html”.\nreadonly string publicId\nO identificador público da DTD ou a string vazia, se nenhum foi especificado.\nreadonly string systemId\nO identificador de sistema da DTD ou a string vazia, se nenhum foi",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4700,
+    "totalChunks": 10000
+  }
+}

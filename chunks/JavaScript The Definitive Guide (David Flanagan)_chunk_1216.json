@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1216",
+  "content": "tor. Portanto, a adiciona agora.\nRange.prototype.constructor = Range;\n// Um Range não é igual a nada que não seja um intervalo.\n// Dois intervalos são iguais se, e somente se, seus pontos extremos são iguais.\nRange.prototype.equals = function(that) {\n    if (that == null) return false;  // Rejeita null e undefined\n    if (that.constructor !== Range) return false;  // Rejeita o que não é intervalo\n    // Agora retorna true se, e somente se, os dois pontos extremos são iguais.\n    return this.from == that.from && this.to == that.to;\n}\nDefinir um método equals() para nossa classe Set é um pouco",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1216,
+    "totalChunks": 10000
+  }
+}

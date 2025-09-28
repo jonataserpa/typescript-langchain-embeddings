@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_533",
+  "content": "Doe\";\nNote que os parênteses em torno da expressão são uma parte obrigatória da sintaxe da instrução if.\nA sintaxe de JavaScript exige uma instrução após a palavra-chave \nif e a expressão entre parênteses, \nmas pode-se usar um bloco de instruções para combinar várias instruções em uma só. Portanto, a \ninstrução if também poderia ser como segue:\n\nCapítulo     5     Instruções          91\nJavaScript básica\nif (!address) {\n    address = \"\";\n    message = \"Please specify a mailing address.\";\n}\nA segunda forma da instrução if introduz uma cláusula else, que é executada quando a expressão é \nfalse.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 533,
+    "totalChunks": 10000
+  }
+}

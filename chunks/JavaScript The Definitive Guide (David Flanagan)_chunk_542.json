@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_542",
+  "content": "tulados com a palavra-chave case, seguida de uma expressão e dois-pontos. \ncase é como uma instrução rotulada, exceto que, em vez de dar um nome à instrução rotulada, ela \nassocia uma expressão à instrução. Quando uma instrução switch é executada, ela calcula o valor da \nexpressão e, então, procura um rótulo case cuja expressão seja avaliada com o mesmo valor (onde \na semelhança é determinada pelo operador ===). Se encontra um, ela começa a executar o bloco de \ncódigo da instrução rotulada por case. Se não encontra um case com um valor correspondente, ela \nprocura uma instrução rotulada com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 542,
+    "totalChunks": 10000
+  }
+}

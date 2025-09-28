@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_698",
+  "content": "delete o.x;           // Não faz nada (x não existe) e retorna true\ndelete o.toString;    // Não faz nada (toString não é uma propriedade própria), retorna true\ndelete 1;             // Não tem sentido, mas é avaliada como true\ndelete não remove propriedades que tenham o atributo configurável false. (Embora remova pro-\npriedades configuráveis de objetos não extensíveis.) Certas propriedades de objetos internos não \nsão configuráveis, como as propriedades do objeto global criado pela declaração de variável e pela \ndeclaração de função. No modo restrito, a tentativa de excluir uma propriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 698,
+    "totalChunks": 10000
+  }
+}

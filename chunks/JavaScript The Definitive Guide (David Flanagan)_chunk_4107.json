@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4107",
+  "content": "mato de milissegundos.\nsetYear()\nConfigura o campo de ano de um objeto Date. Desaprovado em favor de setFullYear().\ntoDateString()\nRetorna uma string representando a parte da data da data, expressa no fuso horário local.\ntoGMTString()\nConverte um objeto Date em uma string, usando o fuso horário GMT. Desaprovado em favor \nde toUTCString().\ntoISOString()\nConverte um objeto Date em uma string, usando o formato de data/hora ISO-8601 combi-\nnado e UTC.\ntoJSON()\nJSON serializa um objeto Date, usando toISOString().\ntoLocaleDateString()\nRetorna uma string representando a parte da data, expressa no",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4107,
+    "totalChunks": 10000
+  }
+}

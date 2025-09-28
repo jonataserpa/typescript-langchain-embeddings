@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3245",
+  "content": "om val e opcionalmente \né seguido por um hífen e qualquer outro caractere.\n:animated\nCorresponde aos elementos que estão correntemente sendo animados pela jQuery.\n:button\nCorresponde a elementos <button type=\"button\"> e <input type=\"button\"> \n(extensão da jQuery).\n:checkbox\nCorresponde a elementos <input type=\"checkbox\"> (extensão da jQuery). Esse filtro é mais \neficiente quando explicitamente prefixado com a tag input: “input:checkbox”.\n:checked\nCorresponde aos elementos de entrada que estão marcados.\n:contains(texto)\nCorresponde aos elementos que contêm o texto especificado (extensão da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3245,
+    "totalChunks": 10000
+  }
+}

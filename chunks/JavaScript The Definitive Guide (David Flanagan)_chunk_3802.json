@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3802",
+  "content": "o longas que não interrompem o laço de eventos e não \ntravam o navegador. Criar um novo worker não é uma operação peso-pesado, como abrir uma \nnova janela do navegador, mas os workers também não são threads peso-mosca, sendo que não \nfaz sentido criar novos workers para executar operações triviais. Pode se útil criar dezenas de \nworkers para aplicativos Web complexos, mas é improvável que um aplicativo com centenas ou \nmilhares de workers seja viável.\n1\n  Originalmente, os Web workers faziam parte da especificação HTML5, mas foram isolados em uma especificação inde-\npendente, porém",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3802,
+    "totalChunks": 10000
+  }
+}

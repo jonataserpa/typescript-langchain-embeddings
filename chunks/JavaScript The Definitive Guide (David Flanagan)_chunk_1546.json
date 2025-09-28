@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1546",
+  "content": "é 100:\nlet evensquares = [x*x for (x in range(0,10)) if (x % 2 === 0)]\n\n274          Parte     I     JavaScript     básica\nIsso é aproximadamente equivalente às cinco linhas a seguir:\nlet evensquares = [];\nfor(x in range(0,10)) {\n    if (x % 2 === 0)\n        evensquares.push(x*x);\n}\nEm geral, um array comprehension é como segue:\n[ expressão for ( variável in objeto ) if ( condição ) ]\nObserve que existem três partes principais dentro dos colchetes:\n •   Um laço \nfor/in ou for/each sem corpo. Essa parte de um comprehension compreende uma \nvariável (ou, com atribuição de desestruturação, várias",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1546,
+    "totalChunks": 10000
+  }
+}

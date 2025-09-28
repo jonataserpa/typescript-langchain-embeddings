@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4420",
+  "content": "posição início, se \nhouver; ou −1, se essa ocorrência não for encontrada.\nDescrição\nString.indexOf() pesquisa string do início ao fim da string para ver se contém uma ocorrência de \nsubstring. A busca começa na posição início dentro de string ou no início de string, caso início \nnão seja especificado. Se é encontrada uma ocorrência de substring, String.indexOf() retorna a \nposição do primeiro caractere da primeira ocorrência de substring dentro de string. As posições de \ncaractere dentro de string são numeradas a partir de zero.\nSe nenhuma ocorrência de \nsubstring é encontrada dentro de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4420,
+    "totalChunks": 10000
+  }
+}

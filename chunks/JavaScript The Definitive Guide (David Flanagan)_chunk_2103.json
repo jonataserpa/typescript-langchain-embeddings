@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2103",
+  "content": "or(var i = 0; i < n.childNodes.length; i++)\n            upcase(n.childNodes[i]);\n}\n-data”) que torne claro que o script não é código JavaScript executável. Se você fizer isso, o interpretador \nJavaScript vai ignorar o script, mas o elemento vai existir na árvore de documentos e sua propriedade \ntext \nvai retornar os dados.\n\n372          Parte II     JavaScript do lado do cliente\nCharacterData também define métodos pouco usados para anexar, excluir, inserir e substituir texto \ndentro de um nó Text ou CDATASection. Em vez de alterar o conteúdo de nós Text existentes, \ntambém é possível inserir",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2103,
+    "totalChunks": 10000
+  }
+}

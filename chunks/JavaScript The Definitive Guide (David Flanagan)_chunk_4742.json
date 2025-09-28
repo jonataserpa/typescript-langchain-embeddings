@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4742",
+  "content": "se método também é definido em \nDocument.\nNodeList getElementsByTagName(string nomeQualificado)\nEsse método percorre todos os descendentes desse elemento e retorna um NodeList dinâmico seme-\nlhante a um array de nós Element, representando todos os elementos do documento com o nome \nde tag especificado. Os elementos no array retornado aparecem na mesma ordem que aparecem no \ndocumento de origem.\nNote que os objetos Document também têm um método \ngetElementsByTagName() que funciona \nexatamente como este, mas que percorre o documento inteiro, em vez de apenas os descendentes de \num único",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4742,
+    "totalChunks": 10000
+  }
+}

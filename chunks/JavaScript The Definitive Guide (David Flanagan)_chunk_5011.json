@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5011",
+  "content": "O \nmesmo que $(elt).queue(qname, f).\n\n946          Parte IV     Referência de JavaScript do lado do cliente\njQuery.removeData(elt, [nome]):void\nRemove a propriedade nomeada do objeto dados de elt ou remove o próprio objeto dados.\njQuery.support\nUm objeto contendo várias propriedades descrevendo os recursos e erros do navegador atual. \nA maior parte só interesa aos escritores de plug-ins. jQuery.support.boxModel é false nos nave-\ngadores IE executando no modo Quirks.\njQuery.trim(s):string\nRetorna uma cópia da string s, com espaço em branco à esquerda e à direita eliminados.\nKeyEvent\nconsulte",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5011,
+    "totalChunks": 10000
+  }
+}

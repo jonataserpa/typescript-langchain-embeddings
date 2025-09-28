@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1477",
+  "content": "que podem ser hospedados com segurança em uma página \nWeb sem afetar a página como um todo ou outros módulos dela.\nO Caja faz parte da API OpenSocial (http://code.google.com/apis/opensocial/) e foi adotado pelo \nYahoo! para uso em seus sites. O conteúdo disponível no portal http://my.yahoo.com, por exem-\nplo, é organizado em módulos Caja.\n\n262          Parte     I     JavaScript     básica\nFBJS\nFBJS é a variante de JavaScript usada pelo Facebook (http://facebook.com) para permitir con-\nteúdo não confiável nas páginas de perfil dos usuários. O FBJS conta com transformação de \ncódigo para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1477,
+    "totalChunks": 10000
+  }
+}

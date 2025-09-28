@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4797",
+  "content": "only EventTarget srcElement\nPara eventos do IE, essa propriedade especifica o objeto em que o evento foi disparado. Para \neventos padrão, use target, em vez disso.\n\n902          Parte IV     Referência de JavaScript do lado do cliente\nreadonly EventTarget target*\nO objeto de alvo desse evento – isto é, o objeto no qual o evento foi disparado. (Todos os \nobjetos que podem ser alvos de evento implementam os métodos de EventTarget.) Essa pro-\npriedade não é definida para eventos do IE, mas é simulada por eventos da jQuery. Consulte \nsrcElement.\nreadonly unsigned long timeStamp*\nUm número",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4797,
+    "totalChunks": 10000
+  }
+}

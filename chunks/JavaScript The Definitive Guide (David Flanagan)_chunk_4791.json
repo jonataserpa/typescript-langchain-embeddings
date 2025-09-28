@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4791",
+  "content": "uma adição relativamente nova no modelo de \nevento padrão e pode não estar implementada por todos os navegadores.\nreadonly Element fromElement\nPara eventos mouseover e mouseout no IE, fromElement se refere ao objeto a partir do qual o \ncursor do mouse está se movendo. Para eventos padrão, use a propriedade relatedTarget.\n\n      Referência de JavaScript do lado do cliente      901\nReferência de \nJavaScript do lado \ndo cliente\nreadonly integer keyCode\nO código de tecla virtual da tecla pressionada. Essa propriedade é usada por todos os tipos \nde eventos de teclado. Os códigos de tecla podem ser",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4791,
+    "totalChunks": 10000
+  }
+}

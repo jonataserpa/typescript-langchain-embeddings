@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5237",
+  "content": "te, isso apresenta uma caixa de diálogo que permite ao usuário cancelar \nou personalizar o pedido de impressão.\nstring prompt(string mensagem, [string padrão])\nO método prompt() exibe a mensagem especificada em uma caixa de diálogo modal que também con-\ntém um campo de entrada de texto e botões OK e Cancel, e bloqueia até que o usuário clique em \num dos botões.\nSe o usuário clica no botão Cancel, \nprompt() retorna null. Se clica no botão OK, prompt() retorna o \ntexto atualmente exibido no campo de entrada.\nO argumento \npadrão especifica o valor inicial do campo de entrada de texto.\nvoid",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5237,
+    "totalChunks": 10000
+  }
+}

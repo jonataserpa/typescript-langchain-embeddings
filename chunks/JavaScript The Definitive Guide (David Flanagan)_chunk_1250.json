@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1250",
+  "content": "t a partir de um array:\nSet.fromArray = function(a) {\n    s = new Set();    // Cria um novo conjunto vazio\n    s.add.apply(s, a); // Passa elementos do array a para o método add\n\n222          Parte     I     JavaScript     básica\n    return s;        // Retorna o novo conjunto\n};\nA vantagem dos métodos de fábrica aqui é que você pode dar a eles o nome que quiser, e métodos \ncom nomes diferentes podem fazer diferentes tipos de inicialização. No entanto, como as constru-\ntoras servem como identidade pública de uma classe, normalmente existe apenas uma construtora \npor classe. Entretanto, essa",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1250,
+    "totalChunks": 10000
+  }
+}

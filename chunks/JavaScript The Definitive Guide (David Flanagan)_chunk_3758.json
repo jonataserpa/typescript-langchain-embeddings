@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3758",
+  "content": "pedeiros, como janelas, documentos, elementos, etc.\n\n658          Parte II     JavaScript do lado do cliente\nAlém do método pushState(), o objeto History também define replaceState(), que recebe os mes-\nmos argumentos, mas substitui o estado do histórico atual, em vez de adicionar um novo estado no \nhistórico de navegação.\nQuando o usuário navega para estados de histórico salvos usando os botões Back ou Forward, o \nnavegador dispara um evento popstate no objeto Window. O objeto evento associado ao evento \ntem uma propriedade chamada \nstate, a qual contém uma cópia (outro clone estruturado) do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3758,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1883",
+  "content": "tion, o qual representa o URL \ncorrente do documento exibido na janela, e também define métodos para fazer a janela carregar um \nnovo documento.\nA propriedade \nlocation do objeto Document também se refere ao objeto Location:\nwindow.location === document.location   // sempre true\nO objeto Document também tem uma propriedade URL que é uma string estática que contém o \nURL do documento quando foi carregado pela primeira vez. Se você navega para identificadores de \nfragmento (como “#table-of-contents”) dentro do documento, o objeto Location é atualizado para \nrefletir isso, mas a propriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1883,
+    "totalChunks": 10000
+  }
+}

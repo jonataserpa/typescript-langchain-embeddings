@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4838",
+  "content": "os como uma string binária de JavaScript e configu-\nra a propriedade result com a string resultante. Cada “caractere” de uma string binária de JavaScript \ntem um código de caractere entre 0 e 255. Use String.charCodeAt() para extrair esses valores de byte. \nNote que strings binárias são uma representação ineficiente de dados binários: quando possível, você \ndeve usar ArrayBuffers, em vez disso.\nvoid readAsDataURL(Blob blob)\nLê os bytes de blob de forma assíncrona, codifica-os (junto com o tipo do Blob) em um URL data:// \ne configura a propriedade result com a string resultante.\nvoid",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4838,
+    "totalChunks": 10000
+  }
+}

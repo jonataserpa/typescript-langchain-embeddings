@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3516",
+  "content": "co \ndesejado. Aqui está um arquivo SVG simples:\n<!-- Inicia uma figura SVG e declara nosso espaço de nomes -->\n<svg xmlns=\"http://www.w3.org/2000/svg\"\n    viewBox=\"0 0 1000 1000\"> <!-- Sistema de coordenadas da figura -->\n  <defs> <!-- Configura algumas definições que vamos usar -->\n    <linearGradient id=\"fade\"> <!-- um gradiente colorido chamado \"fade\" -->\n      <stop offset=\"0%\" stop-color=\"#008\"/> <!-- Inicia um azul-escuro -->\n      <stop offset=\"100%\" stop-color=\"#ccf\"/> <!-- Desbota para azul-claro -->\n    </linearGradient>\n  </defs>\n  <!-- Desenha um retângulo com borda preta grossa e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3516,
+    "totalChunks": 10000
+  }
+}

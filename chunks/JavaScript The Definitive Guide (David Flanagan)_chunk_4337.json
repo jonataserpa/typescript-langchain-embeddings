@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4337",
+  "content": "étodo hasOwnProperty() fornece \numa maneira de distinguir entre propriedades herdadas e propriedades locais não herdadas.\nExemplo\nvar o = new Object();           // Cria um objeto\no.x = 3.14;                     // Define uma propriedade local não herdada\no.hasOwnProperty(\"x\");          // Retorna true: x é uma propriedade local de o\no.hasOwnProperty(\"y\");          // Retorna false: o não tem uma propriedade y\no.hasOwnProperty(\"toString\");   // Retorna false: a propriedade toString é herdada\nConsulte também\nFunction.prototype, Object.propertyIsEnumerable(); Capítulo 9\nObject.isExtensible()",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4337,
+    "totalChunks": 10000
+  }
+}

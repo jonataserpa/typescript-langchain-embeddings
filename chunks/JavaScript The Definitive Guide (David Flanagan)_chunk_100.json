@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_100",
+  "content": "quando ocorre algum tipo de evento especificado. O evento \nde interesse pode ser um clique de mouse ou um pressionamento de tecla (ou, em um smartphone, \npode ser um gesto de algum tipo, feito com dois dedos). Ou então, uma rotina de tratamento de \nevento pode ser ativada quando o navegador termina de carregar um documento, quando o usuário \nredimensiona a janela do navegador ou quando o usuário insere dados em um elemento de formulá-\nrio HTML. O Capítulo 17, Tratando eventos, explica como se define e registra rotinas de tratamento \nde eventos e como o navegador as chama quando ocorrem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 100,
+    "totalChunks": 10000
+  }
+}

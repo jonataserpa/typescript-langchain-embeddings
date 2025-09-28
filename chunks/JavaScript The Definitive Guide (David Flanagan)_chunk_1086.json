@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1086",
+  "content": "oca na cache os valores para 4, 3, 2 e 1.\n\nOs objetos de JavaScript foram abordados no Capítulo 6. O capítulo tratou cada objeto como um \nconjunto de propriedades único, diferente de cada outro objeto. Contudo, muitas vezes é útil definir \numa classe de objetos que compartilham certas propriedades. Os membros ou instâncias da classe têm \nsuas propriedades próprias para conter ou definir seu estado, mas também têm propriedades (nor-\nmalmente métodos) que definem seu comportamento. Esse comportamento é definido pela classe \ne compartilhado por todas as instâncias. Imagine uma classe chamada",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1086,
+    "totalChunks": 10000
+  }
+}

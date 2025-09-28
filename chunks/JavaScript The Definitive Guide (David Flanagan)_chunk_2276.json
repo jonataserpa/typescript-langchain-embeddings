@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2276",
+  "content": "do atual de tal comando. Por fim, alguns comandos, como “fontname”, têm um \nvalor associado (um nome de família de fonte). Consulte esse valor com document.queryCommand Va-\nlue(). Se a seleção atual incluir texto usando duas famílias de fonte diferentes, o valor de “fontname” \nvai ser indeterminado. Use document.queryCommandIndeterm() para verificar esse caso.\nDiferentes navegadores implementam diferentes conjuntos de comandos de edição. Alguns, como \n“bold”, “italic”, “createlink”, “undo” e “redo”, são bem suportados\n6\n. A versão draft de HTML5 da \népoca em que este livro estava sendo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2276,
+    "totalChunks": 10000
+  }
+}

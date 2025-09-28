@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2294",
+  "content": "ssim que CSS funciona. Contudo, existem alguns outros pontos sobre CSS \nque vale a pena entender. As subseções a seguir os explicam.\n16.1.1   A   cascata\nLembre-se de que o C em CSS significa “cascata”. Esse termo indica que as regras de estilo aplicadas \nem determinado elemento de um documento podem ser provenientes de uma “cascata” de fontes \ndiferentes:\n •   A folha de estilo padrão do navegador Web\n •   As folhas de estilo do documento\n •   O atributo \nstyle de elementos HTML individuais\nOs estilos do atributo \nstyle anulam os estilos das folhas de estilo. E os estilos das folhas de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2294,
+    "totalChunks": 10000
+  }
+}

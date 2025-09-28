@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5414",
+  "content": "e função, 162\n    precedência,    64\nexpressões de criação de objeto, 60\nexpressões de defi nição de função, 160\n    instruções de declaração de função versus, 90\nexpressões de elemento em inicializadores de array, \n57\nexpressões geradoras, 274\nexpressões inicializadoras, 5, 57\nexpressões lógicas, 74\n    operador E lógico (&&), 74\n    operador NÃO lógico (!), 76\n    operador OU lógico (||), 75\nexpressões primárias, 56\nexpressões regulares, 38, 245–257\n    defi nição, 245\n        alternação, agrupamento e referências, 250\n        caracteres    literais,    246\n        classes de caractere,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5414,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_643",
+  "content": "simples mapeamento de \nstrings para valores. Além de manter seu próprio conjunto de propriedades, um objeto JavaScript \ntambém herda as propriedades de outro objeto, conhecido como seu “protótipo”. Os métodos de \num objeto normalmente são propriedades herdadas e essa “herança de protótipos” é um recurso \nimportante de JavaScript.\nOs objetos JavaScript são dinâmicos – normalmente propriedades podem ser adicionadas e excluídas \n–, mas podem ser usados para simular os objetos e as “estruturas” estáticas das linguagens estatica-\nmente tipadas. Também podem ser usados (ignorando-se a parte",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 643,
+    "totalChunks": 10000
+  }
+}

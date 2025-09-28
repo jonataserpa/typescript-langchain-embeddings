@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1257",
+  "content": "mportantes que serão tratadas posteriormente na seção.\n9.7.1   Definindo uma subclasse\nOs objetos de JavaScript herdam propriedades (normalmente métodos) do objeto protótipo de suas \nclasses. Se um objeto O é uma instância de uma classe B e B é uma subclasse de A, então O também \ndeve herdar propriedades de A. Providenciamos isso garantindo que o objeto protótipo de B herde \ndo objeto protótipo de A. Usando nossa função \ninherit() (Exemplo 6-1), escrevemos:\nB.prototype = inherit(A.prototype);  // A subclasse herda da superclasse\nB.prototype.constructor = B;        // Sobrescreve a prop.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1257,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_949",
+  "content": "na maioria dos casos: os argumentos ausentes são undefined e os \nargumentos extras são simplesmente ignorados.\nUm uso importante do objeto Arguments é na escrita de funções que operam sobre qualquer núme-\nro de argumentos. A função a seguir aceita qualquer número de argumentos numéricos e retorna o \nvalor do maior argumento passado (consulte também a função interna \nMath.max(), que se comporta \nda mesma maneira):\nfunction max(/* ... */) {\n    var max = Number.NEGATIVE_INFINITY;\n    // Itera através de argumentos, procurando (e lembrando) o maior.\n    for(var i = 0; i < arguments.length;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 949,
+    "totalChunks": 10000
+  }
+}

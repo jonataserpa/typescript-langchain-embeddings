@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1137",
+  "content": "ia podem ser usados como se fossem va-\nriáveis locais – não há necessidade de prefixá-los com \nthis. JavaScript não faz isso, mas você poderia \nobter um efeito semelhante usando uma instrução with (contudo, isso não é recomendado):\nComplex.prototype.toString = function() {\n    with(this)    {\n        return \"{\" + r + \",\" + i + \"}\";\n }\n};\nA linguagem Java permite que os campos sejam declarados com final para indicar que são constan-\ntes, e permite que campos e métodos sejam declarados com private para especificar que são priva-\ntivos da implementação da classe e não devem ser visíveis para os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1137,
+    "totalChunks": 10000
+  }
+}

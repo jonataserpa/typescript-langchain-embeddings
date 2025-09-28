@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4407",
+  "content": "string usando os códigos de caractere passados como argumentos.\nMétodos HTML\nDesde os primórdios de JavaScript, a classe String tem definido vários métodos que retornam uma \nstring modificada, colocando-a dentro de tags HTML. Esses métodos nunca foram padronizados \npor ECMAScript, mas podem ser úteis em código JavaScript do lado do cliente e do servidor que \ngera HTML dinamicamente. Se quiser usar métodos não padronizados, pode criar o código-fonte \nHTML para um hyperlink em negrito vermelho, com código como segue:\nvar s = \"click here!\";\nvar html =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4407,
+    "totalChunks": 10000
+  }
+}

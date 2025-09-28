@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1261",
+  "content": "type.extend = function(constructor, methods, statics) {\n    return defineSubclass(this, constructor, methods, statics);\n};\nO Exemplo 9-12 demonstra como se escreve uma subclasse “manualmente”, sem usar a função \ndefineSubclass(). Ele define uma subclasse SingletonSet de Set. Um SingletonSet é um conjunto \nespecializado que é somente para leitura e tem um único membro constante.\n\n224          Parte     I     JavaScript     básica\nExemplo 9-12 SingletonSet: uma subclasse de conjunto simples\n// A função construtora\nfunction SingletonSet(member) {\n    this.member = member;       // Lembra o único",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1261,
+    "totalChunks": 10000
+  }
+}

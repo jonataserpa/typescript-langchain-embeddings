@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4690",
+  "content": "ndo”, por exemplo, não é habilitado se não há nada para desfazer. Consulte a Seção \n15.10.4.\nboolean queryCommandIndeterm(string idComando)\nRetorna true se idComando está em um estado indeterminado para o qual queryCommandState() não \npode retornar um valor significativo. Os comandos definidos por HTML5 nunca são indetermina-\ndos, mas os comandos específicos dos navegadores podem ser. Consulte a Seção 15.10.4.\nboolean queryCommandState(string idComando)\nRetorna o estado da idComando especificada. Alguns comandos de edição, como “negrito” e “itáli-\nco,” têm um estado true se o cursor ou a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4690,
+    "totalChunks": 10000
+  }
+}

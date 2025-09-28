@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2832",
+  "content": "ata is not implemented\");\n\n494          Parte II     JavaScript do lado do cliente\n    var request = new XMLHttpRequest();     // Nova requisição HTTP\n    request.open(\"POST\", url);              // Posta (com POST) no url especificado\n     request.onreadystatechange = function() { // Uma rotina de tratamento de evento simples.\n        if (request.readyState === 4 && callback)  // Quando a resposta está completa\n            callback(request);       // ...chama a função callback.\n    };\n    var formdata = new FormData();\n    for(var name in data) {\n        if (!data.hasOwnProperty(name))",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2832,
+    "totalChunks": 10000
+  }
+}

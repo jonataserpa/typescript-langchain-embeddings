@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4860",
+  "content": "ng name\nO valor do atributo HTML name para esse controle. O nome de um controle pode ser usado \ncomo propriedade do elemento Form: o valor dessa propriedade é o elemento do controle. Os \nnomes de controle também são usados ao se enviar um formulário.\nstring type\nPara elementos <input>, a propriedade type tem o valor do atributo type ou o valor “text”, \ncaso não seja especificado um atributo type na tag <input>. Para elementos <button>, <select> \ne textarea, a propriedade type é “button”, “select-one” (ou “select-multiple”, se o atributo \nmultiple estiver configurado) e “textarea”. Para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4860,
+    "totalChunks": 10000
+  }
+}

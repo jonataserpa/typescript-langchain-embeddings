@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_846",
+  "content": ",5]]        Retorna 2\nstack.pop()           // stack: [1]              Retorna [4,5]\nstack.pop();          // stack: []               Retorna 1\n7.8.8   unshift() e shift()\nOs métodos unshift() e shift() se comportam quase como push() e pop(), exceto que inserem e \nremovem elementos do início de um array e não do final. unshift() adiciona um ou mais elemen-\ntos no início do array, desloca os elementos existentes no array para cima, para índices mais altos, \na fim de dar espaço, e retorna o novo comprimento do array. shift() remove e retorna o primeiro \nelemento do array, deslocando todos os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 846,
+    "totalChunks": 10000
+  }
+}

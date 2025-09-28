@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5053",
+  "content": "iedades\nreadonly unsigned short code\nEssa propriedade descreve o tipo de erro de mídia ocorrido. Seu valor será uma das constantes \nanteriores.\nMessageChannel\num par de MessagePorts conectados\nMessageChannel é simplesmente um par de objetos MessagePort conectados. Chamar \npostMessage() \nem um deles dispara um evento message no outro. Se quiser estabelecer um canal de comunicação \nprivativo com um Window ou thread Worker, crie um MessageChannel e então passe um membro do \npar MessagePort para o Window ou Worker (usando o argumento portas de postMessage()).\nOs tipos MessageChannel e MessagePort",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5053,
+    "totalChunks": 10000
+  }
+}

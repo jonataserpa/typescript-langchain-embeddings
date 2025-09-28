@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4563",
+  "content": "inho é parte de um círculo com o raio especificado. O arco tem um ponto \ntangente à linha da posição atual até P1 e um ponto tangente à linha de P1 a P2. O arco começa e \ntermina nesses dois pontos tangentes e é desenhado na direção que os conecta com o arco mais cur-\nto. Antes de adicionar o arco no caminho, esse método adiciona uma linha reta do ponto atual até \no ponto inicial do arco. Após a chamada desse método, o ponto atual está no ponto final do arco, o \nqual fica na linha entre P1 e P2.\nDado um objeto contexto \nc, você pode desenhar um quadrado de 100x100 com cantos arredonda-\ndos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4563,
+    "totalChunks": 10000
+  }
+}

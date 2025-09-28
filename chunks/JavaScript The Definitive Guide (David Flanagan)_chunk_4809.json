@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4809",
+  "content": "contém a string de caracteres (que pode ter mais de \num caractere) gerada pelo evento.\n\n904          Parte IV     Referência de JavaScript do lado do cliente\nreadonly string data\nPara eventos textinput, essa propriedade especifica o texto que foi inserido.\nreadonly unsigned long deltaMode\nPara eventos da roda do mouse, essa propriedade especifica a interpretação apropriada das \npropriedades deltaX, deltaY e deltaZ. O valor dessa propriedade será uma destas constantes: \nDOM_DELTA_PIXEL, DOM_DELTA_LINE, DOM_DELTA_PAGE. O valor dessa propriedade é determinado \nde acordo com a plataforma. Pode",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4809,
+    "totalChunks": 10000
+  }
+}

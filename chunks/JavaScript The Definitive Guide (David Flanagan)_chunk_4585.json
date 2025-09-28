@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4585",
+  "content": "magem desenhada (diretamente por meio de drawImage() ou indireta-\n\n      Referência de JavaScript do lado do cliente      861\nReferência de \nJavaScript do lado \ndo cliente\nmente, por meio de um CanvasPattern) de origem diferente da do documento que contém o canvas. \nAlém disso, um canvas não tem origem limpa se já teve texto desenhado usando uma fonte Web de \norigem diferente.\nboolean isPointInPath(double x, y)\nisPointInPath() retorna true se o ponto especificado cai dentro ou sobre o caminho atual; caso con-\ntrário, retorna false. O ponto especificado não é transformado pela matriz de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4585,
+    "totalChunks": 10000
+  }
+}

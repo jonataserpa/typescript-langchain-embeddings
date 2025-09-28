@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_663",
+  "content": "o objeto protótipo desejado:\nvar o1 = Object.create({x:1, y:2});     // o1 herda as propriedades x e y.\nPode-se passar null para criar um novo objeto que não tem protótipo, mas se você fizer isso, o objeto \nrecém-criado não vai herdar nada, nem mesmo métodos básicos, como toString() (isso significa que \ntambém não funcionaria com o operador +):\nvar o2 = Object.create(null);       // o2 não herda propriedades nem métodos.\n\n116          Parte     I     JavaScript     básica\nSe quiser criar um objeto vazio normal (como o objeto retornado por {} ou por new Object()), passe \nObject.prototype:\nvar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 663,
+    "totalChunks": 10000
+  }
+}

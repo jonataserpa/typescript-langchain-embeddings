@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3170",
+  "content": "ulo 19     A biblioteca jQuery      549\nJavaScript do\n lado do cliente\nSe o URL ou a string de dados passada para jQuery.getJSON() contém a “=?” no final da string ou \nantes de um E comercial, isso é aceito como especificando uma requisição JSONP. (Consulte a Seção \n18.2 para uma explicação sobre JSONP.) A jQuery vai substituir o ponto de interrogação pelo nome \nde uma função callback que ela cria e, então, \njQuery.getJSON() vai se comportar como se estivesse \nsendo solicitado um script, em vez de um objeto JSON. Isso não funciona para arquivos de dados \nJSON estáticos: só funciona com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3170,
+    "totalChunks": 10000
+  }
+}

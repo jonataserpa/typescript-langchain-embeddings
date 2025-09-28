@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3875",
+  "content": "rAr\nrrayBuffer\nBlobBuilder.append()\nFileReader.readAsArrayBuffer()\npostMessage()\nevento mensagem\nAPI IndexedDB\nFigura 22-2 Blobs e as APIs que os utilizam.\n\n678          Parte II     JavaScript do lado do cliente\n •   A API Filesystem e o objeto FileWriter, descritos na Seção 22.7, podem ser usados para gravar \num Blob em um arquivo local.\nAs subseções a seguir demonstram maneiras simples de obter e usar Blobs. As técnicas mais compli-\ncadas, envolvendo o sistema de arquivo local e bancos de dados do lado do cliente, são abordadas \nposteriormente, em suas próprias seções.\n22.6.1   Arquivos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3875,
+    "totalChunks": 10000
+  }
+}

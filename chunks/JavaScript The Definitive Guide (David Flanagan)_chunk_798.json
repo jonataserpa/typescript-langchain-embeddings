@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_798",
+  "content": "y a com um único elemento. Então, atribuímos valo-\nres nos índices 1, 2 e 3. A propriedade length do array mudou quando fizemos isso:\na.length     // => 4\nÉ útil distinguir claramente um índice de array de um nome de propriedade de objeto. Todos os índices \nsão nomes de propriedade, mas somente nomes de propriedade que são inteiros entre 0 e 2\n32\n–2 são \níndices. Todos os arrays são objetos e pode-se criar propriedades de qualquer nome neles. Contudo, \nse forem usadas propriedades que são índices de array, os arrays vão ter o comportamento especial de \natualizar suas propriedades length",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 798,
+    "totalChunks": 10000
+  }
+}

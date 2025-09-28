@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1677",
+  "content": "1\nJavaScript do\n lado do cliente\nmecanismos de tratamento de evento permitem que o código JavaScript altere o comportamento \nde janelas, de documentos e dos elementos que compõem esses documentos. As propriedades de \ntratamento de evento têm nomes que começam com a palavra “on” e você pode usá-las como segue:\n// Atualiza o conteúdo do elemento timestamp quando o usuário clica nele\ntimestamp.onclick = function() { this.innerHTML = new Date().toString(); }\nUm dos mecanismos de tratamento de evento mais importantes é o handler onload do objeto Win-\ndow. Ela é disparada quando o conteúdo do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1677,
+    "totalChunks": 10000
+  }
+}

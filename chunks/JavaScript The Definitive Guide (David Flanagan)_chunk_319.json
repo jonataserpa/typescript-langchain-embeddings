@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_319",
+  "content": "eclarada, JavaScript gera um erro. No modo restrito \nde ECMAScript 5 (Seção 5.7.3), também é um erro atribuir um valor a uma variável não declarada. \nHistoricamente, contudo, e no modo não restrito, se você atribui um valor a uma variável não de-\nclarada, JavaScript cria essa variável como uma propriedade do objeto global e ela funciona de forma \nmuito parecida (mas não exatamente igual, consulte a Seção 3.10.2) a uma variável global declarada \ncorretamente. Isso significa que você pode deixar suas variáveis globais sem declaração. No entanto, \nesse é um hábito ruim e uma fonte de erros –",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 319,
+    "totalChunks": 10000
+  }
+}

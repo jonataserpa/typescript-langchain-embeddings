@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2473",
+  "content": "s tipos de evento de toque e gesto. Consulte a Seção 17.1.4 \npara ver alguns exemplos específicos da Apple.\nNote que muitos desses novos tipos de evento ainda não são amplamente implementados e são \ndefinidos por padrões que ainda estão em fase de projeto. As subseções a seguir fornecem uma visão \ngeral dos eventos, mas não documentam cada um em detalhes. O restante deste capítulo aborda o \nmodelo de tratamento de eventos de forma abrangente e contém muitos exemplos de trabalho com \neventos que são bem suportados. Se você entender como trabalha com eventos de modo geral, vai \nconseguir",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2473,
+    "totalChunks": 10000
+  }
+}

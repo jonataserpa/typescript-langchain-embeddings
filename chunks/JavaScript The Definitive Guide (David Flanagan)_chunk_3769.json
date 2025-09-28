@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3769",
+  "content": "opState(event) {\n    if (event.state) { // Se o evento tem um objeto estado, restaura esse estado\n        // Note que event.state é uma cópia profunda do objeto estado salvo;\n        // portanto, podemos modificá-la sem alterar o valor salvo.\n        state = event.state;    // Restaura o estado do histórico\n        display(state);         // Exibe o estado restaurado\n }\n    else    {\n        // Quando carregarmos a página pela primeira vez, vamos obter um evento popstate\n         // sem nenhum estado. Substitua esse estado nulo por nosso estado real: consulte o\n        // comentário em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3769,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4914",
+  "content": "Data contém as componentes vermelho, verde, azul e alfa (transparência) de uma \nregião retangular de pixels. Obtém um objeto ImageData com os métodos \ncreateImageData() ou \ngetImageData() do objeto CanvasRenderingContext2D de uma tag <canvas>.\nAs propriedades \nwidth e height especificam as dimensões do retângulo de pixels. A propriedade data \né um array que contém os dados de pixel. Os pixels aparecem no array data[] da esquerda para a \ndireita e de cima para baixo. Cada pixel consiste em quatro valores de byte representando os compo-\nnentes R, G, B e A, nessa ordem. Assim, os componentes de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4914,
+    "totalChunks": 10000
+  }
+}

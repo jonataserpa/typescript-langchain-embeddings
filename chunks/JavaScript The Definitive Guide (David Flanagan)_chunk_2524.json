@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2524",
+  "content": "comunicação em rede via Server-Sent \nEvents (Seção 18.3) e WebSockets (Seção 22.9).\nHTML5 e padrões relacionados definem alguns eventos que são disparados em objetos que não são \njanelas, documentos e elementos do documento. A versão 2 da especificação XMLHttpRequest, as-\nsim como a especificação File API, define uma série de eventos que monitoram o andamento de E/S \nassíncrona. Elas disparam eventos em um objeto XMLHttpRequest ou FileReader. Cada operação \nde leitura começa com um evento loadstart, seguido de eventos progress e um evento loadend. Além \ndisso, cada operação termina com um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2524,
+    "totalChunks": 10000
+  }
+}

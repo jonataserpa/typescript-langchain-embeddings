@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2439",
+  "content": "ectorAll(ss);\n        for(var i = 0; i < sheets.length; i++)\n            sheets[i].disabled = true;\n }\n}\n\n430          Parte II     JavaScript do lado do cliente\n16.6.2   Consultando, inserindo e excluindo regras de folha de estilo\nAlém de desabilitar e habilitar folhas de estilo, o objeto CSSStyleSheet também define uma API para \nconsultar, inserir e excluir as regras de estilo de uma folha de estilo. O IE8 e anteriores implementam \numa API ligeiramente diferente da API padrão implementada pelos outros navegadores.\nManipular diretamente as folhas de estilo não costuma ser algo útil. Em vez",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2439,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3396",
+  "content": "do lado do cliente\n    name = prompt(\"What is your name?);          // Obtém entrada do usuário\n    memory.setAtttribute(\"username\", name);     // A configura como um atributo\n    memory.save(\"myStoredData\");                // E a salva para a próxima vez\n}\nPor default, dados salvos com userData têm vida útil indefinida e duram até que sejam excluídos. \nMas você pode especificar uma data de expiração configurando a propriedade expires. Por exemplo, \nvocê poderia adicionar as linhas a seguir no código anterior, para especificar uma data de expiração \nde 100 dias no futuro:\nvar now = (new",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3396,
+    "totalChunks": 10000
+  }
+}

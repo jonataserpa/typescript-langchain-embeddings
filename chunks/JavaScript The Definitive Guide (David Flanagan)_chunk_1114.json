@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1114",
+  "content": "adas pelo método Func-\ntion.bind() de ECMAScript 5) tem automaticamente uma propriedade prototype. O valor dessa \npropriedade é um objeto que tem uma única propriedade constructor não enumerável. O valor da \npropriedade constructor é o objeto função:\nvar F = function() {};    // Este é um objeto função.\nvar p = F.prototype;     // Este é o objeto protótipo associado a ele.\nvar c = p.constructor;    // Esta é a função associada ao protótipo.\nc === F                   // => verdadeiro: F.prototype.constructor === F para qualquer função\n\n198          Parte     I     JavaScript     básica\nA",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1114,
+    "totalChunks": 10000
+  }
+}

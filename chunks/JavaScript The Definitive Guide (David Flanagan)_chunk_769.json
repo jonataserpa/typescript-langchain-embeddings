@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_769",
+  "content": "ote \ntambém que chamar \npreventExtensions() afeta apenas a capacidade de extensão do próprio objeto. \nSe novas propriedades forem adicionadas no protótipo de um objeto não extensível, o objeto não \nextensível vai herdar essas novas propriedades.\nO objetivo do atributo extensível é “bloquear” os objetos em um estado conhecido e evitar falsifica-\nção externa. O atributo de objeto extensível é frequentemente usado em conjunto com os atributos \nde propriedade configurável e gravável. ECMAScript 5 define funções que tornam fácil configurar \nesses atributos juntos.\nObject.seal() funciona como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 769,
+    "totalChunks": 10000
+  }
+}

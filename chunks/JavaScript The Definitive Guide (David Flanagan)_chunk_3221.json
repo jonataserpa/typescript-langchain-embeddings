@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3221",
+  "content": "s navegadores. Em ordem alfabética, as funções utilitárias são:\njQuery.browser\nA propriedade browser não é uma função, mas um objeto que você pode usar para farejar clientes \n(Seção 13.4.5). Esse objeto terá a propriedade \nmsie configurada como true se o navegador for o IE. \nA propriedade \nmozilla será true se o navegador for o Firefox ou outro relacionado. A propriedade \nwebkit será true para Safari e Chrome, e a propriedade opera será true para o Opera. Além dessa pro-\npriedade específica do navegador, a propriedade \nversion contém o número da versão do navegador. \nÉ melhor evitar farejar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3221,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1918",
+  "content": "string\n    var correct = confirm(\"You entered '\" + name + \"'.\\n\" +   // Obtém um valor booleano\n                          \"Click Okay to proceed or Cancel to re-enter.\");\n} while(!correct)\nalert(\"Hello, \" + name);        // Exibe uma mensagem simples\nEmbora os métodos alert(), confirm() e prompt() sejam muito fáceis de usar, o bom projeto impõe \nutilizá-los moderadamente, se é que devem ser usados. Caixas de diálogo como essas não são um \nrecurso comum na Web e a maioria dos usuários vai achar que as caixas de diálogo produzidas por \nesses métodos atrapalham a experiência de navegação.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1918,
+    "totalChunks": 10000
+  }
+}

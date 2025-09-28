@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_583",
+  "content": "mplo \nde laço while rotulado e de uma instrução continue que utiliza o rótulo.\nmainloop: while(token != null) {\n    // Código omitido...\n    continue mainloop; // Pula para a próxima iteração do laço nomeado\n    // Mais código omitido...\n}\nO identificador utilizado para rotular uma instrução pode ser qualquer identificador JavaScript \nválido, que não seja uma palavra reservada. O espaço de nomes para rótulos é diferente do espa-\nço de nomes para variáveis e funções; portanto, pode-se usar o mesmo identificador como rótulo \nde instrução e como nome de variável ou função. Os rótulos de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 583,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3301",
+  "content": "pend(elt);\n }\n    elt.println.apply(elt, arguments);  // Gera a saída dos argumentos nele\n};\nAlém de definir novos métodos, também é possível estender outras partes da biblioteca jQuery. Na \nSeção 19.5, por exemplo, vimos que é possível adicionar novos nomes de duração de efeito (além \nde “fast” e “slow”) pelo acréscimo de propriedades em \njQuery.fx.speeds e que é possível acrescen-\ntar novas funções de abrandamento adicionando-as em \njQuery.easing. Os plug-ins podem esten-\nder até o mecanismo de seletor CSS da jQuery! Você pode adicionar novos filtros de pseudoclasse \n(como \n:first e :input)",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3301,
+    "totalChunks": 10000
+  }
+}

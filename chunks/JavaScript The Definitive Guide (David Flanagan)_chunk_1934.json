@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1934",
+  "content": "ropriedade com esse nome, o objeto Window recebe uma propriedade não \nenumerável cujo nome é o valor do atributo id e cujo valor é o objeto HTMLElement que represen-\nta esse elemento do documento.\nConforme já mencionamos, o objeto Window serve como objeto global no topo do encadea-\nmento de escopo em JavaScript do lado do cliente; portanto, isso significa que os atributos id \nutilizados em seus documentos HTML se tornam variáveis globais acessíveis para seus scripts. \nSe seu documento inclui o elemento <button id=\"okay\"/>, você pode se referir a esse elemento \nusando a variável global",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1934,
+    "totalChunks": 10000
+  }
+}

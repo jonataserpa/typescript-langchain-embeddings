@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5494",
+  "content": "étodo reset( ), objeto Form, 390, 913\nmétodo resize( ), jQuery, 527\nmétodo reverse( ), objeto Array, 145, 718\nmétodo scroll( )\n    jQuery,    527\n    objeto Window, 384, 990\nmétodo scrollBy( ), objeto Window, 384, 990\nmétodo scrollIntoView( ), objeto Element, 384, \n891–892\nmétodo scrollLeft( ), jQuery, 522\nmétodo scrollTo( ), objeto Window, 384, 990\nmétodo scrollTop( ), jQuery, 522\nmétodo search( ), objeto String, 253, 829–830\nmétodo select( )\n    jQuery,    527\n    objeto Input, 929\n    objeto    TextArea,    979\nmétodo send( )\n    geradores,    273\n    objeto    WebSocket,    984\n    objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5494,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_395",
+  "content": "a diferença entre \nos valores. Operandos não numéricos que não podem ser convertidos em números são convertidos \nno valor NaN. Se um dos operandos é (ou é convertido em) NaN, o resultado da operação também é \nNaN.\nO operador \n/ divide seu primeiro operando pelo segundo. Caso você esteja acostumado com lingua-\ngens de programação que fazem diferenciação entre números inteiros e de ponto flutuante, talvez \n\n66          Parte     I     JavaScript     básica\nespere obter um resultado inteiro ao dividir um inteiro por outro. Em JavaScript, contudo, todos \nos números são em ponto flutuante, de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 395,
+    "totalChunks": 10000
+  }
+}

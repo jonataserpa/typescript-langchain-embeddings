@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_468",
+  "content": "ria ser um \noperador. As primeiras versões da linguagem definiam uma função \neval() e desde então os projetistas \nda linguagem e os escritores de interpretador vêm impondo restrições a ela que a tornam cada vez mais \nparecida com um operador. Os interpretadores de JavaScript modernos fazem muita análise e otimização \nde código. O problema de \neval() é que o código avaliado por ela geralmente não pode ser decomposto. \nDe modo geral, se uma função chama \neval(), o interpretador não pode otimizar essa função. O problema \nde definir \neval() como uma função é que ela pode receber outros nomes:\nvar",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 468,
+    "totalChunks": 10000
+  }
+}

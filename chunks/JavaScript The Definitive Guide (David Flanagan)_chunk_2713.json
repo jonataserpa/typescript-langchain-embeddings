@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2713",
+  "content": "alores de propriedade \nsão funções de tratamento. Adicione e remova vínculos com os métodos bind() e unbind(). Instale \nKeymap em um elemento HTML (frequentemente o objeto Document) com o método install(). \nInstalar um mapa de teclas em um elemento registra uma rotina de tratamento de evento keydown \nnesse elemento. Sempre que uma tecla é pressionada, a rotina de tratamento verifica se existe uma \nfunção associada a esse toque de tecla. Se houver, ela a chama. A rotina de tratamento de keydown \nusa a propriedade key do Level 3 do DOM, caso esteja definida. Se não estiver, procura a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2713,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3355",
+  "content": "namento podem servir como mecanismo de \ntransmissão por meio do qual um navegador envia uma mensagem para todas as janelas que estão vi-\nsitando o mesmo site. Se um usuário pede para que um site pare de fazer animações, por exemplo, o \nsite pode armazenar essa preferência em localStorage para que possa respeitar isso em visitas futuras. \nE por armazenar a preferência, ele gera um evento que permite às outras janelas que estão exibindo o \nmesmo site também respeitem o pedido. Como outro exemplo, imagine um aplicativo de edição de \nimagens baseado na Web que permite ao usuário exibir paletas de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3355,
+    "totalChunks": 10000
+  }
+}

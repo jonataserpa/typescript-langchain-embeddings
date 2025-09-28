@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5631",
+  "content": "444–448\n    anulando o registro rotinas de tratamento de even-\nto com jQuery, 532\n    confi gurando atributos de rotina de tratamento de \nevento, 445\n    confi gurando propriedades de rotina de tratamen-\nto de evento, 445\n    para eventos load e click, 11\n    para eventos progress HTTP, 494\n    registro de rotina de tratamento de evento avança-\nda com jQuery, 530\n    registro de rotina de tratamento de evento simples \ncom jQuery, 526\n    usando addEventListener( ), 446\nregra de contorno diferente de zero, 621\nregras, estilo, 403, 869\n    consultando, inserindo e excluindo em folhas de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5631,
+    "totalChunks": 10000
+  }
+}

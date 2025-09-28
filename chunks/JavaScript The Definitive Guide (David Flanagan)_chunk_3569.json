@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3569",
+  "content": "até (300,200);\nSe então chamássemos stroke(), desenharíamos dois cantos conectados de um triângulo e uma linha \nvertical desconectada.\nO segundo detalhe a notar sobre \nstroke() e fill() é que nenhum deles altera o caminho atual: você \npode chamar fill() e o caminho ainda vai estar lá quando chamar stroke(). Quando terminar um \ncaminho e quiser iniciar outro, deve lembrar-se de chamar beginPath(). Se não fizer isso, vai acabar \nadicionando novos subcaminhos no caminho existente e pode acabar desenhando esses subcaminhos \nantigos repetidamente.\nO  Exemplo  21-4  define  uma  função  para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3569,
+    "totalChunks": 10000
+  }
+}

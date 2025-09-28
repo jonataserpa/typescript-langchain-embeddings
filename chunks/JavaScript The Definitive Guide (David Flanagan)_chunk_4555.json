@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4555",
+  "content": "mprimento de uma cunha. Se uma cunha exceder esse limite, é con-\nvertida em chanfro.\nO valor “round” especifica que as bordas externas do vértice devem ser unidas com um arco \npreenchido, cujo diâmetro é igual à largura da linha. O valor “bevel” especifica que as bordas \nexternas do vértice devem ser unidas com um triângulo preenchido.\ndouble lineWidth\nEspecifica a largura da linha para operações de traçado (desenho de linha). O padrão é 1. As \nlinhas são centralizadas pelo caminho, com metade da largura da linha em cada lado.\ndouble miterLimit\nQuando linhas são desenhadas com a propriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4555,
+    "totalChunks": 10000
+  }
+}

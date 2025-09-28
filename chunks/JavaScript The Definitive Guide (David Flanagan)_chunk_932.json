@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_932",
+  "content": "m uma série (ou “encadeamento” ou “cascata”) de cha-\nmadas de método como uma única expressão. Ao se trabalhar com a biblioteca jQuery (Capítulo 19), por \nexemplo, é comum escrever código como o seguinte:\n// Localiza todos os cabeçalhos, mapeia para suas identificações, converte em um \n//array e os classifica\n$(\":header\").map(function() { return this.id }).get().sort();\nQuando você escrever um método que não tem seu próprio valor de retorno, pense em fazê-lo retornar \nthis. Se você fizer isso sistematicamente em toda sua API, permitirá um estilo de programação conhecido \ncomo encadeamento de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 932,
+    "totalChunks": 10000
+  }
+}

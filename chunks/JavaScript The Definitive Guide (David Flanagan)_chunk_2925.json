@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2925",
+  "content": "global com dois nomes é a principal função de consulta da jQuery. Aqui, por exem-\nplo, você pode ver como solicitamos o conjunto de todos os elementos \n<div> em um documento:\nvar divs = $(\"div\");\nO valor retornado por essa função representa um conjunto de zero ou mais elementos DOM e é \nconhecido como objeto jQuery. Note que jQuery() é uma função fábrica e não uma construtora: ela \nretorna um objeto recém-criado, mas não é usada com a palavra-chave new. Os objetos jQuery defi-\nnem muitos métodos para operar nos conjuntos de elementos que representam, sendo que a maior \nparte do capítulo é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2925,
+    "totalChunks": 10000
+  }
+}

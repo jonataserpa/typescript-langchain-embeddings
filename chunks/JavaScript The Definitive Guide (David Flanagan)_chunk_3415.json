@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3415",
+  "content": "número de seções e alternar entre elas conforme for necessário.)\nA seção “NETWORK:” especifica URLs que nunca devem ser colocados na cache e sempre devem \nser recuperados da rede. Você poderia listar scripts do lado do servidor aqui, por exemplo. Os URLs \nem uma seção “NETWORK:” são na verdade prefixos de URL. Um recurso cujo URL comece com \nqualquer um desses prefixos será carregado da rede. Se o navegador estiver off-line, essa tentativa \nvai falhar, evidentemente. A seção “NETWORK:” permite um curinga URL “*”. Se você usar esse \ncuringa, o navegador vai tentar carregar da rede qualquer",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3415,
+    "totalChunks": 10000
+  }
+}

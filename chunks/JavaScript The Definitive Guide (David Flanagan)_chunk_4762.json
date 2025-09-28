@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4762",
+  "content": "e são origens do arrasto da API Drag-and-Drop.\ndropzone\nUm atributo configurado em elementos que são alvos de soltura da API Drag-and-Drop.\nhidden\nUm atributo booleano configurado em elementos que não devem ser exibidos.\nid\nUm identificador exclusivo para o elemento.\nlang\nO idioma principal do texto no elemento.\nspellcheck\nSe a ortografia do texto do elemento deve ser verificada.\nstyle\nEstilos CSS em linha do elemento. Consulte a propriedade style anterior.\ntabIndex\nEspecifica a ordem do foco do elemento.\ntitle\nTexto de dica de ferramenta para o elemento.\nOs elementos HTML a seguir não",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4762,
+    "totalChunks": 10000
+  }
+}

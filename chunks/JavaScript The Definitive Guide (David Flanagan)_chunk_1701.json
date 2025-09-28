@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1701",
+  "content": "ntre as marcações \n<script> e </script>. Em XHTML, pode-se usar a marcação de atalho <script/> nesse caso.\nQuando o atributo\n src é usado, qualquer conteúdo entre as marcações <script> de abertura e fecha-\nmento é ignorado. Se quiser, você pode usar o conteúdo da marcação <script> para incluir docu-\nmentação ou informações de direitos de cópia do código incluído. Note, entretanto, que os valida-\ndores de HTML5 vão reclamar se qualquer texto que não seja espaço em branco ou um comentário \nde JavaScript aparecer entre <script src=\"\"> e </script>.\nExistem várias vantagens no uso do atributo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1701,
+    "totalChunks": 10000
+  }
+}

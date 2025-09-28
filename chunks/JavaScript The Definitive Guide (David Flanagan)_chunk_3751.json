@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3751",
+  "content": "ma seção do documento para a qual se vai rolar. Mas location.hash \nnão precisa ser uma identificação de elemento: você pode configurá-la com qualquer string. Se você \npode codificar o estado de seu aplicativo como uma string, pode utilizar essa string como identifi-\ncador de fragmento.\nEntão, configurando a propriedade \nlocation.hash, você permite que o usuário utilize os botões \nBack e Forward para navegar entre estados do documento. Para que isso funcione, seu aplicativo \ndeve ter algum modo de detectar essas mudanças de estado para que possa ler o estado armazenado \nno identificador de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3751,
+    "totalChunks": 10000
+  }
+}

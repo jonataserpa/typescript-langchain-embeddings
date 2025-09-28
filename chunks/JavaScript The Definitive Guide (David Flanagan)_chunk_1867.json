@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1867",
+  "content": "te fazer mais com menos \ncódigo. Uma estrutura bem escrita também vai tratar de muitos dos problemas de compatibilidade, \nsegurança e acessibilidade descritos anteriormente.\nEste livro documenta a jQuery, uma das estruturas mais populares, no Capítulo 19. Se você decidir \nadotar a jQuery em seus projetos, deve ler também os capítulos que preparam o terreno para o Ca-\npítulo 19 – entender as APIs de baixo nível vai torná-lo um desenvolvedor Web melhor, mesmo que \nvocê raramente precise utilizá-las diretamente.\nExistem muitas estruturas em JavaScript além da jQuery – muito mais do que posso",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1867,
+    "totalChunks": 10000
+  }
+}

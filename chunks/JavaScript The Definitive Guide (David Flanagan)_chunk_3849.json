@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3849",
+  "content": "que o valor especificado. \nEla usa o algoritmo do crivo de Eratóstenes, o qual exige um grande array para monitorar quais \nnúmeros são primos e quais são compostos. Como apenas um bit de informação é exigido para \ncada elemento do array, um Int8Array pode ser usado mais eficientemente do que um array normal \nJavaScript:\n// Retorna o maior número primo menor do que n, usando o crivo de Eratóstenes\nfunction sieve(n) {\n    var a = new Int8Array(n+1);           // a[x] será 1 se x for composto\n    var max = Math.floor(Math.sqrt(n));   // Não faz fatores mais altos do que isso\n    var p = 2;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3849,
+    "totalChunks": 10000
+  }
+}

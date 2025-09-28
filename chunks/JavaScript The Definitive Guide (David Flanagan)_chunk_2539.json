@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2539",
+  "content": "2   Configurando atributos de rotina de tratamento de evento\nAs propriedades de rotina de tratamento de evento de um elemento do documento também podem \nser configuradas como atributos na marcação HTML correspondente. Se isso é feito, o valor do atri-\nbuto deve ser uma string de código JavaScript. Esse código deve ser o corpo da função de tratamento \nde evento e não uma declaração de função completa. Isto é, seu código de tratamento de evento \nHTML não deve ser circundado por chaves e prefixado com a palavra-chave \nfunction. Por exemplo:\n<button onclick=\"alert('Thank you');\">Click",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2539,
+    "totalChunks": 10000
+  }
+}

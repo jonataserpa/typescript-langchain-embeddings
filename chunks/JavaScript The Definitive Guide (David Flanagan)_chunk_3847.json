@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3847",
+  "content": "criaria uma nova API.\nAo criar um array tipado, você passa o tamanho do array para a construtora ou passa um array ou \num array tipado para inicializar os elementos de array. Uma vez criado um array tipado, você pode \nler e gravar seus elementos com a notação normal de colchetes, exatamente como faria com qualquer \noutro objeto semelhante a um array:\nvar bytes = new Uint8Array(1024);       // Um kilobyte de bytes\nfor(var i = 0; i < bytes.length; i++)   // Para cada elemento do array\n    bytes[i] = i & 0xFF;               // Configura-o com os 8 bits inferiores do índice\nvar copy = new",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3847,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2920",
+  "content": "para trabalhar com objetos e arrays.\nConforme seu nome implica, a biblioteca jQuery se concentra em consultas (query, em inglês). \nUma consulta típica utiliza um seletor CSS para identificar um conjunto de elementos do docu-\nmento e retorna um objeto representando esses elementos. Esse objeto retornado fornece muitos \nmétodos úteis para operar como um grupo nos elementos coincidentes. Quando possível, esses \nmétodos retornam o objeto no qual são chamados, o que permite usar um idioma de encadea-\nmento de métodos sucinto. As seguintes características são a base do poder e da utilidade da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2920,
+    "totalChunks": 10000
+  }
+}

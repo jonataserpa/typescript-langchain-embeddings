@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3850",
+  "content": "var max = Math.floor(Math.sqrt(n));   // Não faz fatores mais altos do que isso\n    var p = 2;                  // 2 é o primeiro primo\n    while(p <= max) {            // Para primos menores do que max\n        for(var i = 2*p; i <= n; i += p)   // Marca múltiplos de p como compostos\n            a[i] = 1;\n        while(a[++p]) /* vazio */;        // O próximo índice não marcado é primo\n }\n    while(a[n])    n--;                           // Itera para trás para encontrar o último \n// primo\n    return n;                   // E o retorna\n}\nA função sieve() continua a funcionar se você substitui",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3850,
+    "totalChunks": 10000
+  }
+}

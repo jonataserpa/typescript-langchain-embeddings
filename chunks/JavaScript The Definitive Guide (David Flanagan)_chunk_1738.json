@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1738",
+  "content": "o método document.\nwrite(). O Exemplo 13-3 mostra como era o estado da arte do código JavaScript em 1996.\nExemplo 13-3 Gerando conteúdo de documento no momento do carregamento\n<h1>Table of Factorials</h1>\n<script>\n\nCapítulo 13     JavaScript em navegadores Web      311\nJavaScript do\n lado do cliente\nfunction factorial(n) {         // Uma função para calcular fatoriais\n    if (n <= 1) return n;\n    else return n*factorial(n-1);\n}\ndocument.write(\"<table>\");                               // Inicia uma nova tabela HTML\ndocument.write(\"<tr><th>n</th><th>n!</th></tr>\");         // Saída do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1738,
+    "totalChunks": 10000
+  }
+}

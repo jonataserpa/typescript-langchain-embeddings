@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1569",
+  "content": "m até um operador curinga:\n// Obtém todos os descendentes de todas as marcações <element>.\n// Esta é ainda outra maneira de obter uma lista de todas as marcações <name>. var\nnames3 = pt.element.*;\nOs nomes de atributo são diferenciados dos nomes de marcação em E4X com o uso do caractere @ \n(uma sintaxe emprestada da XPath). Por exemplo, o valor de um atributo pode ser consultado como \nsegue:\n// Qual é o número atômico do Hélio?\nvar atomicNumber = pt.element[1].@id;\nO operador curinga para nomes de atributo é @*:\n// Uma lista de todos os atributos de todas as marcações <element>\nvar atomicNums",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1569,
+    "totalChunks": 10000
+  }
+}

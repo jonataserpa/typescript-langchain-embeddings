@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1307",
+  "content": "da\n    function idGetter() {           // Uma função getter para retornar a identificação\n        if (!(idprop in this)) {       // Se o objeto ainda não tem uma identificação\n            if (!Object.isExtensible(this)) // E se podemos adicionar uma propriedade\n                throw Error(\"Can't define id for nonextensible objects\");\n            Object.defineProperty(this, idprop, {        // Fornece uma a ele agora.\n                          value: nextid++,     // Este é o valor\n                          writable: false,     // Somente para leitura\n                          enumerable:",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1307,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2414",
+  "content": "o funcionam no IE8 e anteriores: conforme vamos discutir \na seguir, essas versões do IE não suportam \ngetComputedStyle().)\nExemplo 16-4 Consultando estilos computados e configurando estilos em linha\n// Muda a escala do tamanho do texto do elemento e pelo fator especificado\nfunction scale(e, factor) {\n    // Usa o estilo computado para consultar o tamanho atual do texto\n    var size = parseInt(window.getComputedStyle(e,\"\").fontSize);\n    // E usa o estilo em linha para aumentar esse tamanho\n    e.style.fontSize = factor*size + \"px\";\n}\n\n426          Parte II     JavaScript do lado do cliente\n//",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2414,
+    "totalChunks": 10000
+  }
+}

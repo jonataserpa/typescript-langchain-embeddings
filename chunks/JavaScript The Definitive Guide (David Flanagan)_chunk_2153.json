@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2153",
+  "content": "as de coordenadas devemos adicionar ou subtrair os deslocamentos de rolagem. Se um \nelemento tem uma coordenada Y de 200 pixels em coordenadas do documento, por exemplo, e se \no usuário rolou o navegador para baixo por 75 pixels, então esse elemento tem uma coordenada \nY de 125 pixels em coordenadas da janela de visualização. Da mesma forma, se um elemento tem \numa coordenada X de 400 em coordenadas da janela de visualização e o usuário rolou a janela de \nvisualização por 200 pixels horizontalmente, a coordenada X do elemento em coordenadas do \ndocumento é 600.\nAs coordenadas do documento são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2153,
+    "totalChunks": 10000
+  }
+}

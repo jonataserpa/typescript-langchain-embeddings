@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_507",
+  "content": "escrever programas em JavaScript.\nCapítulo 5\nInstruções\n\n86          Parte     I     JavaScript     básica\n5.1   Instruções   de   expressão\nOs tipos mais simples de instruções em JavaScript são as expressões que têm efeitos colaterais. (Mas \nconsulte a Seção 5.7.3 para ver uma importante instrução de expressão sem efeitos colaterais.) Esse \ntipo de instrução foi mostrado no Capítulo 4. As instruções de atribuição são uma categoria impor-\ntante de instrução de expressão. Por exemplo:\ngreeting = \"Hello \" + name;\ni *= 3;\nOs operadores de incremento e decremento, ++ e --, são relacionados às",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 507,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_994",
+  "content": "do interno de um objeto função em JavaScript deve incluir não apenas o código da \nfunção, mas também uma referência ao encadeamento de escopo corrente. (Antes de ler o restante \ndesta seção, talvez você queira rever o material sobre escopo de variável e sobre o encadeamento de \nescopo na Seção 3.10 e na Seção 3.10.3.) Essa combinação de objeto função e um escopo (um con-\njunto de vínculos de variável) no qual as variáveis da função são solucionadas, é chamado de closure \nna literatura da ciência da computação\n4\n.\n4\n  Esse é um termo antigo que se refere ao fato de que as variáveis da função",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 994,
+    "totalChunks": 10000
+  }
+}

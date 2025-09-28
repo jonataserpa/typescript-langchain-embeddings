@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4446",
+  "content": "g. slice() é mais flexível do que substring(), pois permite valores de argumento negativos. \nslice() é diferente de substr() porque especifica uma substring com duas posições de caractere, \nenquanto substr() utiliza uma posição e um comprimento. Note também que String.slice() é \nanáloga de \nArray.slice().\nExemplo\nvar s = \"abcdefg\";\ns.slice(0,4)     // Retorna \"abcd\"\ns.slice(2,4)     // Retorna \"cd\"\ns.slice(4)       // Retorna \"efg\"\ns.slice(3,-1)    //    Retorna    \"def\"\ns.slice(3,-2)    //    Retorna    \"de\"\ns.slice(-3,-1)   // Deve retornar \"ef\"; retorna \"abcdef\" no IE 4\nErros\nValores",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4446,
+    "totalChunks": 10000
+  }
+}

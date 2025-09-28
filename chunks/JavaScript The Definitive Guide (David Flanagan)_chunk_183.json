@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_183",
+  "content": ", mas uma abordagem mais geral \ne detalhada sobre objetos aparece no Capítulo 6.\nUm objeto normal em JavaScript é um conjunto não ordenado de valores nomeados. A linguagem \ntambém define um tipo especial de objeto, conhecido como array, que representa um conjunto \nordenado de valores numerados. A linguagem JavaScript contém sintaxe especial para trabalhar com \narrays, sendo que os arrays têm um comportamento especial que os diferencia dos objetos normais. \nOs arrays são o tema do Capítulo 7.\nCapítulo 3\nTipos, valores e variáveis\n\nCapítulo 3     Tipos, valores e variáveis      29\nJavaScript",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 183,
+    "totalChunks": 10000
+  }
+}

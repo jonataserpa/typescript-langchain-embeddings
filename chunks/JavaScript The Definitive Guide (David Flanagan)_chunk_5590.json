@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5590",
+  "content": "I de fl uxo da, 397\n    usando para implementar outerHTML, 374\n    uso na jQuery para obter conteúdo de elemento, \n520\npropriedade innerText, objeto Element, 370\npropriedade isTrusted, objeto Event, 900\n\nÍndice          1049\npropriedade items, objeto DataTransfer, 466, 872\npropriedade javaException, objeto Error, 285\npropriedade jquery, 515\npropriedade key, 473\n    objeto Event, 442, 904\n    objeto StorageEvent, 972–973\npropriedade keyCode, 469, 472\n    objeto Event, 901\npropriedade keyIdentifi er, 473\npropriedade label, objeto Option, 964\npropriedade labels\n    objeto FormControl, 914",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5590,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_675",
+  "content": "padamente. Como \nJavaScript é uma linguagem pouco tipada, essa regra não se aplica: um programa pode criar qualquer \nnúmero de propriedades em qualquer objeto. No entanto, quando se usa o operador \n. para acessar \numa propriedade de um objeto, o nome da propriedade é expresso como um identificador. Os iden-\ntificadores devem ser digitados literalmente em seu programa JavaScript – eles não são um tipo de \ndados, de modo que não podem ser manipulados pelo programa.\n\n118          Parte     I     JavaScript     básica\nPor outro lado, ao se acessar uma propriedade de um objeto com a notação de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 675,
+    "totalChunks": 10000
+  }
+}

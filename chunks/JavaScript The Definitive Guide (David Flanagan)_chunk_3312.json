@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3312",
+  "content": "imação passado para \nanimate()) para o método widget.\nNormalmente, os widgets jQuery UI definem pelo menos alguns “métodos” para interagir com \no widget. Contudo, para evitar a proliferação de métodos jQuery, os widgets jQuery UI não de-\nfinem seu “métodos” como métodos reais. Cada widget tem apenas um método (como o método \ndatepicker() no exemplo anterior). Quando quer chamar um “método” do widget, você passa o \nnome do “método” desejado para o único método real definido pelo widget. Para desabilitar um \nwidget selecionador de datas, por exemplo, você não chama um método",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3312,
+    "totalChunks": 10000
+  }
+}

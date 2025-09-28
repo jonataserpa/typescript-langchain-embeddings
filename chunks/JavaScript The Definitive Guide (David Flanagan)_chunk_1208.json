@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1208",
+  "content": "herdam os métodos Range e Complex.\nEsse tipo de serialização é apropriado para classes como Range e Complex, mas para outras classes \ntalvez você queira escrever um método \ntoJSON() para definir algum outro formato de serialização. Se \num objeto tem um método toJSON(), JSON.stringify() não serializa o objeto, mas em vez disso cha-\nma toJSON() e serializa o valor (primitivo ou objeto) que ele retorna. Os objetos Date, por exemplo, \ntêm um método \ntoJSON() que retorna uma representação de string da data. Os tipos enumeração \ndo Exemplo 9-7 fazem o mesmo: seus métodos toJSON() são iguais aos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1208,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3288",
+  "content": "entsByTagName(\"p\"));    // Modifica isso para todos os \n// elementos <p>\nsel.end();                  // Restaura elementos <div>\nAgora que abordamos o método end() e a pilha de seleção que ele utiliza, há um último método \nque podemos abordar. \nandSelf() retorna um novo objeto jQuery que inclui todos os elementos da \nseleção atual, mais todos os elementos (menos os duplicados) da seleção anterior. \nandSelf() funciona \ncomo o método \nadd() e “addPrev” poderia ser um nome mais descritivo para ele. Como exemplo, \nconsidere a seguinte variante do código anterior: ela realça elementos \n<p> e os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3288,
+    "totalChunks": 10000
+  }
+}

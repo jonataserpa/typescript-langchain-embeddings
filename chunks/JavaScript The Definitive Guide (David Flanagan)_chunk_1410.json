@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1410",
+  "content": "de strings com aspas duplas ou vice-versa. \nNão é válido usar uma referência dentro de uma classe de caracteres; portanto, você não pode escre-\nver:\n/(['\"])[^\\1]*\\1/\nAinda neste capítulo, você vai ver que esse tipo de referência a uma subexpressão entre parênteses é \num recurso poderoso das operações de busca e substituição de expressões regulares.\nTambém é possível agrupar itens em uma expressão regular sem criar uma referência numerada para \nesses itens. Em vez de simplesmente agrupar os itens dentro de \n( e ), inicie o grupo com (?: e finalize \ncom ). Considere o padrão a seguir, por",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1410,
+    "totalChunks": 10000
+  }
+}

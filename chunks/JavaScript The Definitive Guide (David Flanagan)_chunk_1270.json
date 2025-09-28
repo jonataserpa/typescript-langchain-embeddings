@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1270",
+  "content": "a inicializar\n    // o objeto que foi criado por essa chamada de construtora.\n    Set.apply(this,    arguments);\n}\n// Torna NonNullSet uma subclasse de Set:\nNonNullSet.prototype = inherit(Set.prototype);\nNonNullSet.prototype.constructor = NonNullSet;\n// Para excluir null e undefined, precisamos apenas anular o método add()\nNonNullSet.prototype.add = function() {\n    // Procura argumentos null ou undefined\n    for(var i = 0; i < arguments.length; i++)\n        if (arguments[i] == null)\n            throw new Error(\"Can't add null or undefined to a NonNullSet\");\n    // Encadeia para a superclasse",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1270,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2638",
+  "content": "ouseScroll do Firefox\n                              0;       // propriedade não definida\n         // A maioria dos navegadores gera um evento com delta 120 por clique de mousewheel.\n        // Nos Macs, entretanto, os mousewheels parecem ser sensíveis à velocidade e\n        // os valores de delta são frequentemente múltiplos de 120, pelo menos com o \n        // mouse da Apple. Usa teste de navegador para anular isso.\n        if (isMacWebkit) {\n            deltaX /= 30;\n            deltaY /= 30;\n  }\n        // Se obtivermos um evento mousewheel ou wheel no (em uma futura versão do)\n        //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2638,
+    "totalChunks": 10000
+  }
+}

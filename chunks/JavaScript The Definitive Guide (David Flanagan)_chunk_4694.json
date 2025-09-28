@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4694",
+  "content": "está carregando, para inserir conteúdo no local da tag <script>, ou usado após a chamada do \nmétodo open(). Consulte a Seção 15.10.2 para ver os detalhes.\nvoid writeln(string texto...)\nEsse método é como HTMLDocument.write(), exceto que coloca um novo caractere de nova linha após \no texto anexado, o que pode ser útil ao se gravar o conteúdo de uma tag <pre>, por exemplo.\nEventos\nOs navegadores não disparam muitos eventos diretamente em objetos Document, mas os eventos \nElement borbulham para o Document que os contêm. Portanto, os objetos Document suportam \ntodas as propriedades de tratamento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4694,
+    "totalChunks": 10000
+  }
+}

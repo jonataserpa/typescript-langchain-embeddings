@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2496",
+  "content": ") As propriedades \naltKey, ctrlKey, metaKey e shiftKey são \nconfiguradas como \ntrue quando as teclas modificadoras correspondentes do teclado estão pres-\nsionadas. E para eventos click, a propriedade \ndetail especifica se é um clique simples, duplo ou \ntriplo.\nO evento mousemove é disparado sempre que o usuário move ou arrasta o mouse. Esses even-\ntos ocorrem frequentemente, de modo que as rotinas de tratamento de mousemove não devem \ndisparar tarefas que utilizam muito poder de computação. Os eventos mousedown e mouseup \nsão disparados quando o usuário pressiona e solta um botão do mouse.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2496,
+    "totalChunks": 10000
+  }
+}

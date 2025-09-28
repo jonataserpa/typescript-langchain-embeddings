@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2742",
+  "content": "<img>, por exemplo, tem uma propriedade src. \nQuando  um  script  configura  essa  propriedade  em  um  URL,  uma  requisição  HTTP  GET  é  \niniciado  para  baixar  uma  imagem  desse  URL.  Portanto,  um  script  pode  passar  informações  \npara um servidor Web codificando-as na parte da string de consulta do URL de uma imagem e \nconfigurando a propriedade src de um elemento <img>. O servidor Web deve retornar alguma \nimagem como resultado dessa requisição, mas ela pode ser invisível: uma imagem transparente \nde 1 pixel por 1 pixel, por exemplo\n3\n.\nUm elemento \n<img> não é um bom",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2742,
+    "totalChunks": 10000
+  }
+}

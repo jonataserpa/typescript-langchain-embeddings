@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4362",
+  "content": "útil, a string \nretornada deve de algum modo ter por base o valor do objeto para o qual o método foi chamado.\nAo se definir uma classe personalizada em JavaScript, é considerada uma boa prática definir um mé-\ntodo \ntoString() para a classe. Se você não fizer isso, o objeto vai herdar o método toString() padrão \nda classe Object. Esse método padrão retorna uma string da forma:\n[objectclasse]\nonde classe é a classe do objeto – um valor como “Object”, “String”, “Number”, “Function”, “Win-\ndow”, “Document”, etc. Ocasionalmente, esse comportamento do método toString() padrão é útil \npara",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4362,
+    "totalChunks": 10000
+  }
+}

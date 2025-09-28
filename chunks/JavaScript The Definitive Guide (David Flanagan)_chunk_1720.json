@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1720",
+  "content": "documento atualmente exibido. (Nesse caso, o URL javascript: tem o mesmo objetivo de um \nhandler de evento onclick. O link anterior seria mais bem expresso como um handler onclick em um \nelemento <button> – geralmente, o elemento <a> deve ser reservado para hiperlinks que carregam no-\nvos documentos.) Se quiser garantir que um URL javascript: não sobrescreva o documento, pode \nusar o operador void para obrigar uma chamada ou expressão de atribuição a ser undefined:\n<a href=\"javascript:void window.open('about:blank');\">Open Window</a>\nSem o operador void nesse URL, o valor de retorno da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1720,
+    "totalChunks": 10000
+  }
+}

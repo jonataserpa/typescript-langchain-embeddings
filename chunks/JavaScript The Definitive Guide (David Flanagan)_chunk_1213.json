@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1213",
+  "content": "rência, e não por valor. Isto é, \ndadas duas referências do objeto, eles verificam se ambas são para o mesmo objeto. Esses operadores \nnão verificam se dois objetos diferentes têm os mesmos nomes de propriedade e valores. Frequente-\nmente é útil comparar dois objetos distintos quanto à igualdade ou mesmo quanto à ordem relativa \n(como fazem os operadores < e >). Se você define uma classe e quer comparar instâncias dessa classe, \ndeve definir métodos apropriados para fazer essas comparações.\nA linguagem de programação Java utiliza métodos para comparação de objetos e adotar as con-\nvenções",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1213,
+    "totalChunks": 10000
+  }
+}

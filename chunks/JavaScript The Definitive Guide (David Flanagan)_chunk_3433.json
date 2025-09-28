@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3433",
+  "content": "e download ocorre, ele dispara eventos progress. E quando o download \ntermina, ele dispara um evento updateready.\nPrimeiro carregamento de um novo aplicativo\nSe o aplicativo ainda não está na cache, eventos downloading e progress são disparados, como \nacontece no caso da atualização da cache anterior. Contudo, quando esse download inicial \ntermina, o navegador dispara um evento cached, em vez de um evento updateready.\nO navegador está off-line\nSe o navegador está off-line, ele não pode verificar o manifesto e dispara um evento error. \nIsso também acontece quando um aplicativo que ainda não",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3433,
+    "totalChunks": 10000
+  }
+}

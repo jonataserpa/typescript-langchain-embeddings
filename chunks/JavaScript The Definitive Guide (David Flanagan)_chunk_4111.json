@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4111",
+  "content": "Date são criados \ncom a sintaxe de newDate() mostrada anteriormente.\nUma vez criado um objeto Date, vários métodos permitem operar nele. A maioria dos métodos \nsimplesmente permite obter e configurar os campos de ano, mês, dia, hora, minuto, segundo e milis-\nsegundos do objeto, usando hora local ou UTC (universal, ou GMT). O método \ntoString() e suas \nvariantes convertem datas em strings legíveis por seres humanos. getTime() e setTime() convertem \npara (e da) representação interna do objeto Date – o número de milissegundos desde a meia-noite \n(GMT) de 1º de janeiro de 1970. Nesse formato de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4111,
+    "totalChunks": 10000
+  }
+}

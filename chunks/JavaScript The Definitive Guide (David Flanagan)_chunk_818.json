@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_818",
+  "content": "lues = []       // Armazena os valores de propriedade correspondentes nesse array\nfor(var i = 0; i < keys.length; i++) {  // Para cada índice no array\n    var key = keys[i];        // Obtém a chave nesse índice\n    values[i] = o[key];                // Armazena o valor no array values\n}\nEm laços aninhados ou em outros contextos em que o desempenho é fundamental, às vezes você \npoderá ver esse laço de iteração básico de array otimizado, de modo que o comprimento do array é \npesquisado apenas uma vez, em vez de a cada iteração:\nfor(var i = 0, len = keys.length; i < len; i++) {\n    // o corpo do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 818,
+    "totalChunks": 10000
+  }
+}

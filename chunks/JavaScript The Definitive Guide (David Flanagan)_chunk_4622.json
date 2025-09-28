@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4622",
+  "content": "É um atalho para document.querySelectorAll(). Em algumas consoles, retorna um ar-\nray verdadeiro em vez de um NodeList.\nvoid inspect(any objeto, [string nomeguia])\nExibe o objeto, possivelmente trocando da console para uma guia diferente do depurador. O segun-\ndo argumento é uma dica opcional sobre como você gostaria de exibir o objeto. Os valores suporta-\ndos podem incluir “html”, “css”, “script” e “dom”.\nstring[] keys(any objeto)\nRetorna um array com os nomes de propriedade de objeto.\nvoid monitorEvents(Element objeto, [string tipo])\nRegistra eventos do tipo especificado, enviados para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4622,
+    "totalChunks": 10000
+  }
+}

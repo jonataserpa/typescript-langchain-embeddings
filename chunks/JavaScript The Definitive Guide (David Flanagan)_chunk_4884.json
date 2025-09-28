@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4884",
+  "content": "a alteração com script feita na propriedade hash do objeto Location ou porque o usuário utilizou \nos botões Back ou Forward para navegar pelo histórico do navegador. Em um ou outro caso, um evento \nhashchange é disparado. O objeto evento associado é um HashChangeEvent. Consulte a Seção 22.2 para \nmais informações sobre gerenciamento de histórico com location.hash e sobre o evento hashchange.\nPropriedades\nreadonly string newURL\nEssa propriedade contém o novo valor de location.href. Note que esse é o URL completo e \nnão apenas a parte hash dele.\nreadonly string oldURL\nEssa propriedade contém o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4884,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1988",
+  "content": ".\n\nCapítulo 15\nEscrevendo script de documentos\nJavaScript do lado do cliente existe para transformar documentos HTML estáticos em aplicativos \nWeb interativos. Fazer scripts do conteúdo de páginas Web é o principal objetivo de JavaScript. Este \ncapítulo – um dos mais importantes do livro – explica como fazer isso.\nOs capítulos 13 e 14 explicaram que cada janela, guia e quadro do navegador Web é representado \npor um objeto Window. Todo objeto Window tem uma propriedade \ndocument que se refere a um ob-\njeto Document. O objeto Document representa o conteúdo da janela e esse é o tema deste",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1988,
+    "totalChunks": 10000
+  }
+}

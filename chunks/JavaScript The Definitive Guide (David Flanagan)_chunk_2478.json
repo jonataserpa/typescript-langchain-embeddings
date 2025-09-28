@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2478",
+  "content": "os que serão mais utilizados em seus aplicativos Web geralmente são os que já existem há \nmais tempo e são universalmente suportados: eventos para lidar com mouse, teclado, formulários \nHTML e o objeto Window. As seções a seguir explicam muitos detalhes importantes sobre esses \ntipos de eventos.\n17.1.1.1   Eventos de formulário\nOs formulários e hiperlinks foram os primeiros elementos de uma página Web a aceitar scripts, re-\nmontando aos primórdios da Web e de JavaScript. Isso significa que os eventos de formulário são um \ndos mais estáveis e bem suportados entre todos os tipos de evento. Os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2478,
+    "totalChunks": 10000
+  }
+}

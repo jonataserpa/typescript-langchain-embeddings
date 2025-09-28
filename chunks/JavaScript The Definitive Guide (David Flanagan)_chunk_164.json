@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_164",
+  "content": "static\nO modo restrito também impõe restrições sobre o uso dos identificadores a seguir. Eles não são to-\ntalmente reservados, mas não são permitidos como nomes de variável, função ou parâmetro:\narguments          eval\nECMAScript 3 reservou todas as palavras-chave da linguagem Java e, embora tenham sido consen-\ntidos em ECMAScript 5, você ainda deve evitar todos esses identificadores, caso pretenda executar \nseu código em uma implementação ECMAScript 3 de JavaScript:\nabstract           double           goto              native           static\nboolean            enum",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 164,
+    "totalChunks": 10000
+  }
+}

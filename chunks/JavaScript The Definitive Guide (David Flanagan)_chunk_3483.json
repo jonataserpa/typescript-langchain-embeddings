@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3483",
+  "content": "os para som e vídeo. Embora suas aparências visuais sejam muito diferentes, os ele-\nmentos <audio> e <video> compartilham basicamente a mesma API (a única diferença real entre \neles é que o elemento <video> tem propriedades width e height) e quase tudo que vem após esta \nseção se aplica aos dois elementos.\nA construtora Audio()\nOs elementos <audio> não têm uma aparência visual no documento, a não ser que você configure o atri-\nbuto \ncontrols. E assim como você pode criar uma imagem fora da tela com a construtora Image(), a API \nde mídia de HTML5 permite criar um elemento áudio fora da tela",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3483,
+    "totalChunks": 10000
+  }
+}

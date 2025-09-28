@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_858",
+  "content": ";\nb = a.map(function(x) { return x*x; });  // b é [1, 4, 9]\nA função passada para map() é chamada da mesma maneira que uma função passada para forEach(). \nContudo, para o método map() a função passada deve retornar um valor. Note que map() retorna \num novo array: ele não modifica o array em que é chamado. Se esse array for esparso, o array retor-\nnado vai ser esparso da mesma maneira – ele terá o mesmo comprimento e os mesmos elementos \nausentes.\n7.9.3   filter()\nO método filter() retorna um array contendo um subconjunto dos elementos do array em que é \nchamado. A função passada para ele deve",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 858,
+    "totalChunks": 10000
+  }
+}

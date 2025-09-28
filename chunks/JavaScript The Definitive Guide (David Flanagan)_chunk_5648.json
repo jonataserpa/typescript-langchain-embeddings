@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5648",
+  "content": "o para, do Ajax, 545\n    conversões, 44, 46\n        entre JavaScript e Java, 285\n        objeto para string, 49\n    convertendo arrays em, 148\n    imutabilidade das, 30\n    métodos para comparação de padrões, 253–255\n        método match( ), 254\n        método replace ( ), 254\n        método search ( ), 253\n    objeto String, 819–837\n        método charAt( ), 822–823\n        método charCodeAt( ), 822–823\n        método concat( ), 823–824\n        método estático, fromCharCode( ), 820–821\n        método fromCharCode( ), 469, 823–824\n        método indexOf( ), 824–825\n        método lastIndexOf(",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5648,
+    "totalChunks": 10000
+  }
+}

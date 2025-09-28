@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_406",
+  "content": "valor incrementado desse operando. Quando usado após o \noperando, onde é conhecido como operador de pós-incremento, ele incrementa seu operando, \nmas é avaliado com o valor não incrementado desse operando. Considere a diferença entre as \nduas linhas de código a seguir:\n    var i = 1, j = ++i;         // i e j são ambos 2\n    var i = 1, j = i++;         // i é 2, j é 1\n\n68          Parte     I     JavaScript     básica\nNote que a expressão ++x nem sempre é igual a x=x+1. O operador ++ nunca faz concatenação \nde strings: ele sempre converte seu operando em um número e o incrementa. Se x é a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 406,
+    "totalChunks": 10000
+  }
+}

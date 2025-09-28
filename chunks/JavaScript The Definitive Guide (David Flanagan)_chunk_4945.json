@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4945",
+  "content": "s selecionados, filtrando-os, adi-\ncionando novos elementos ou usando os elementos selecionados como pontos de partida para novas \nseleções. Na jQuery 1.4 e posteriores, as seleções são sempre classificadas na ordem do documento e \nnão contêm duplicatas. Consulte a Seção 19.8.2.\nadd(sel, [contexto])\nadd(elts)\nadd(html)\nOs argumentos de add() são passados para $() e a seleção resultante é mesclada na seleção \natual.\nandSelf()\nAdiciona na seleção o conjunto de elementos selecionados anteriormente (da pilha).\nchildren([sel])\nSeleciona filhos dos elementos selecionados. Sem argumentos, seleciona",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4945,
+    "totalChunks": 10000
+  }
+}

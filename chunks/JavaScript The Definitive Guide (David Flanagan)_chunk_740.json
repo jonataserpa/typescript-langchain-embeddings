@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_740",
+  "content": "ue: 2 });\no.x          // => 2\n// Agora altera x de uma propriedade de dados para uma propriedade de acesso\nObject.defineProperty(o, \"x\", { get: function() { return 0; } });\no.x          // => 0\nO descritor de propriedade passado para Object.defineProperty() não precisa incluir todos os qua-\ntro atributos. Se você estiver criando uma nova propriedade, os atributos omitidos são considerados \nfalse ou undefined. Se você estiver modificando uma propriedade já existente, os atributos omitidos \nsão simplesmente deixados intactos. Note que esse método altera uma propriedade própria já exis-\ntente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 740,
+    "totalChunks": 10000
+  }
+}

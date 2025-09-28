@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_540",
+  "content": "co de código #1\n}\nelse {\n    if (n == 2) {\n        // Executa o bloco de código #2\n }\n    else    {\n        if (n == 3) {\n            // Executa o bloco de código #3\n  }\n        else    {\n            // Se tudo falhar, executa o bloco #4\n  }\n }\n}\n\nCapítulo     5     Instruções          93\nJavaScript básica\n5.4.3   switch\nUma instrução if causa uma ramificação no fluxo de execução de um programa e é possível usar o \nidioma else if para fazer uma ramificação de vários caminhos. Contudo, essa não é a melhor solução \nquando todas as ramificações dependem do valor da mesma expressão. Nesse caso, é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 540,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_196",
+  "content": "grama JavaScript, ele é chamado de literal \nnumérico. JavaScript aceita literais numéricos em vários formatos, conforme descrito nas seções a \nseguir. Note que qualquer literal numérico pode ser precedido por um sinal de subtração (\n-) para \ntornar o número negativo. Tecnicamente, contudo, - é o operador de negação unário (consulte o \nCapítulo 4) e não faz parte da sintaxe de literal numérico.\n1\n  Esse formato deve ser conhecido dos programadores Java como formato do tipo double. Também é o formato double \nusado em quase todas as implementações modernas de C e C++.\n\nCapítulo 3     Tipos,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 196,
+    "totalChunks": 10000
+  }
+}

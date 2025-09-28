@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5522",
+  "content": "ponto fl utuante, 31\n    literais inteiras, 31\n    objetos wrapper, 42\nnúmeros binários em ponto fl utuante, 34\nnúmeros de Fibonacci, função geradora de, 271–272\nnúmeros fi nitos, 768\nO\nobjeto ApplicationCache, 843\n    constantes, valores da propriedade status, 843\n    método swapCache( ), 844\n    método update( ), 844\n    propriedade status, 592\n    rotinas de tratamento de evento, 844\nobjeto Arguments, 167, 703\n    propriedade callee, 704\n    propriedade length, 181, 705\n    propriedades callee e caller, 168\n    restrição em subconjuntos seguros, 260\nobjeto ArrayBuff er, 674, 845\n    ordem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5522,
+    "totalChunks": 10000
+  }
+}

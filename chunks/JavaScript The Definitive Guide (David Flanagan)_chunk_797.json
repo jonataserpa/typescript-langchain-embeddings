@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_797",
+  "content": "ão, usa essa string como um nome de propriedade. Não há nada de especial \nna conversão do índice, de número para string: isso também pode ser feito com objetos normais:\no = {};          // Cria um objeto comum\no[1] = \"one\";    // O indexa com um inteiro\nO que há de especial com os arrays é que, quando se utiliza nomes de propriedade que são inteiros \nnão negativos menores do que 2\n32\n, o array mantém automaticamente o valor da propriedade length. \nAnteriormente, por exemplo, criamos um array a com um único elemento. Então, atribuímos valo-\nres nos índices 1, 2 e 3. A propriedade length do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 797,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2013",
+  "content": "ade de Document:\n// Obtém o objeto Element para o elemento <form name=\"shipping_address\">\nvar form = document.shipping_address;\nOs motivos dados na Seção 14.7 para não se usar as propriedades de janela criadas automaticamente \nse aplicam igualmente a essas propriedades de documento criadas automaticamente. Se você pre-\ncisa pesquisar elementos nomeados, é melhor pesquisá-los explicitamente com uma chamada para \ngetElementsByName().\n15.2.3   Selecionando elementos pelo tipo\nTodos os elementos HTML ou XML de um tipo (ou nome de marcação) especificado podem ser \nselecionados usando-se o método",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2013,
+    "totalChunks": 10000
+  }
+}

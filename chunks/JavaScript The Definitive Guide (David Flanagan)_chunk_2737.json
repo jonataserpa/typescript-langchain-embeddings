@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2737",
+  "content": "bordar aqui. Em vez disso, este capítulo explica como os scripts podem se \ncomunicar com um servidor Web sem fazer o navegador recarregar o conteúdo de qualquer janela \nou quadro.\nO termo Ajax descreve uma arquitetura para aplicativos Web que apresentam scripts HTTP de \nforma destacada\n1\n. A principal característica de um aplicativo Ajax é que ele usa scripts HTTP para \niniciar uma troca de dados com um servidor Web sem fazer as páginas serem recarregadas. A capaci-\ndade de evitar a recarga da página (que era a norma nos primórdios da Web) resulta em aplicativos \nWeb responsivos, mais",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2737,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1733",
+  "content": "posta à entrada do usuário (cliques de mouse, pressionamentos de tecla, etc.), mas também \npodem ser disparadas por atividade da rede, tempo decorrido ou erros no código JavaScript. Os \neventos e as rotinas de tratamento de evento estão descritos em detalhes no Capítulo 17. Tam-\nbém vamos ter mais a dizer sobre eles na Seção 13.3.2. Note que os URLs \njavascript: incorpo-\nrados em uma página Web podem ser considerados um tipo de rotina de tratamento de evento, \npois não têm efeito algum até serem ativados por um evento de entrada do usuário, como o \nclique em um link ou o envio de um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1733,
+    "totalChunks": 10000
+  }
+}

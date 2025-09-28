@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3268",
+  "content": "os dois objetos jQuery. Você também pode passar um array de elementos ou \nmesmo um único elemento do documento para filter().\n •   Se você passa uma função predicado para \nfilter(), essa função é chamada para cada elemento \ncoincidente e filter() retorna um objeto jQuery contendo apenas os elementos para os quais \no predicado retornou true (ou qualquer valor verdadeiro). A função predicado é chamada com \no elemento como seu valor de this e o índice do elemento como argumento. (Consulte tam-\nbém jQuery.grep() na Seção 19.7.)\n$(\"div\").filter(\".note\")                                 // O mesmo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3268,
+    "totalChunks": 10000
+  }
+}

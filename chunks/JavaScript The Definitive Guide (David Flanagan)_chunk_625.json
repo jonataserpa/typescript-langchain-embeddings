@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_625",
+  "content": "á estiver em execução, essa instrução vai causar um ponto de interrupção. Se você \nusa a extensão de depuração Firebug para Firefox, por exemplo, deve ter o Firebug habilitado para a \npágina Web que deseja depurar para que a instrução \ndebugger funcione.\n5.7.3   \"use   strict\"\n\"use strict\" é uma diretiva introduzida em ECMAScript 5. As diretivas não são instruções (mas são \nparecidas o suficiente para que \n\"use strict\" seja documentada aqui). Existem duas diferenças impor-\ntantes entre a diretiva \n\"use strict\" e as instruções normais:\n •   Ela não inclui qualquer palavra-chave da linguagem: a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 625,
+    "totalChunks": 10000
+  }
+}

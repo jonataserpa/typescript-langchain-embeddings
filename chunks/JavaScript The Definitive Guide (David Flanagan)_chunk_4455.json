@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4455",
+  "content": "ags no array retornado:\nvar text = \"hello <b>world</b>\";\ntext.split(/(<[^>]*>)/); // Retorna [\"hello \",\"<b>\",\"world\",\"</b>\",\"\"]\nConsulte também\nArray.join(), RegExp; Capítulo 10\nString.substr() desaprovado\nextrai uma substring\nSinopse\nstring.substr(início, comprimento)\nArgumentos\ninício\nA posição inicial da substring. Se esse argumento é negativo, especifica uma posição medida a \npartir do fim da string: −1 especifica o último caractere, −2 especifica o penúltimo caractere e \nassim por diante.\ncomprimento\nO número de caracteres na substring. Se esse argumento é omitido, a substring retornada",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4455,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1287",
+  "content": "SingletonSet deve ser irmã de Set na hierarquia de classes, \nnão uma descendente.\nNas linguagens OO clássicas bem como em JavaScript, a solução é separar a interface da imple-\nmentação. Suponha que definamos uma classe AbstractSet que implementa os métodos auxilia-\nres, como toString(), mas não implementa os métodos básicos, como foreach(). Então, nossas \nimplementações de conjunto, Set, SingletonSet e FilteredSet, podem ser todas subclasses de \nAbstractSet. FilteredSet e SingletonSet não serão mais subclasses de uma implementação não \nrelacionada.\nO Exemplo 9-16 leva essa estratégia adiante",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1287,
+    "totalChunks": 10000
+  }
+}

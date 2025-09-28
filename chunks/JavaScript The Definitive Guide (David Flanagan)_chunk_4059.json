@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4059",
+  "content": "p() itera pelos índices de array, em ordem \ncrescente, e chama f uma vez para cada elemento. Para um índice i, f é chamada com três argumen-\ntos e seu valor de retorno é armazenado no índice i do array recentemente criado:\na[i] = f(array[i], i, array)\nQuando map() tiver passado cada elemento de array para f e armazenado o resultado no novo array, \nretorna esse novo array.\nConsulte \nArray.forEach() para ver mais detalhes.\n\n      Referência de JavaScript básica      715\nReferência de \nJavaScript básica\nExemplo\n[1,2,3].map(function(x) { return x*x; });        // => [1,4,9]\nConsulte",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4059,
+    "totalChunks": 10000
+  }
+}

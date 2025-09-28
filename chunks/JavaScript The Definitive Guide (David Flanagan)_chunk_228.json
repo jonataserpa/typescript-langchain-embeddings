@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_228",
+  "content": "s escapes estão explicados na próxima seção).\nNa programação JavaScript do lado do cliente, o código JavaScript pode conter strings de códi-\ngo HTML e o código HTML pode conter strings de código JavaScript. Assim como JavaScript, \nHTML utiliza aspas simples ou duplas para delimitar suas strings. Assim, ao se combinar JavaScript \ne HTML, é uma boa ideia usar um estilo de aspas para JavaScript e outro para HTML. No exemplo \na seguir, a string “Thank you” está entre aspas simples dentro de uma expressão JavaScript, a qual é \ncolocada entre aspas duplas dentro de um atributo de rotina de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 228,
+    "totalChunks": 10000
+  }
+}

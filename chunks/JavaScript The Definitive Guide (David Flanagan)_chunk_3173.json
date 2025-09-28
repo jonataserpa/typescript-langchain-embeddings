@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3173",
+  "content": "o XMLHttpRequest (se \nhouve um) como terceiro:\n// Solicita texto do servidor e o exibe em um diálogo de alerta\njQuery.get(\"debug.txt\", alert);\nAlém dos três argumentos descritos anteriormente, esses dois métodos aceitam um quarto argu-\nmento opcional (passado como terceiro argumento, caso os dados sejam omitidos) especificando o \ntipo de dados que estão sendo solicitados. Esse quarto argumento afeta o modo como os dados são \nprocessados antes de serem passados para sua callback. O método load() usa o tipo “html”, jQuery.\ngetScript() usa o tipo “script” e jQuery.getJSON() usa o tipo “json”. No",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3173,
+    "totalChunks": 10000
+  }
+}

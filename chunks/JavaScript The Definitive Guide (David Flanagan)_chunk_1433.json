@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1433",
+  "content": "as,\n// deixando o texto da citação (armazenado em $1) intacto.\ntext.replace(quote, '\"$1\"');\nO método replace() tem outros recursos importantes, os quais estão descritos na página de referên-\ncia de String.replace() na Parte III. Mais notadamente, o segundo argumento de replace() pode ser \numa função que calcula dinamicamente a string para substituição.\nO método \nmatch() é o mais geral dos métodos de expressões regulares de String. Ele recebe uma ex-\npressão regular como único argumento (ou converte seu argumento em uma expressão regular, pas-\nsando-o para a construtora RegExp()) e retorna um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1433,
+    "totalChunks": 10000
+  }
+}

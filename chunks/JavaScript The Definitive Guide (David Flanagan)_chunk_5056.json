@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5056",
+  "content": "nados. Os objetos \nWindow, Worker, WebSocket, EventSource e MessagePort definem todos pro-\npriedades onmessage para tratar de eventos message. A mensagem associada a um evento message é \nqualquer valor de JavaScript que possa ser clonado, conforme descrito em “Clones estruturados”, \nna página 672. A mensagem é empacotada em um objeto MessageEvent e está disponível na pro-\npriedade data. As várias APIs que contam com eventos message também definem mais algumas \npropriedades no objeto MessageEvent. Os eventos message não borbulham e não têm qualquer ação \npadrão para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5056,
+    "totalChunks": 10000
+  }
+}

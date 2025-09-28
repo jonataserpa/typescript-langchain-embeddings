@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1403",
+  "content": "essões regulares inclui caracteres especiais para especificar alternativas, agrupar \nsubexpressões e fazer referência a subexpressões anteriores. O caractere | separa alternativas. Por \nexemplo, /ab|cd|ef/ corresponde à string “ab” ou à string “cd” ou à string “ef ”. E /\\d{3}|[a-z]{4}/ \ncorresponde a três dígitos ou a quatro letras minúsculas.\nNote que as alternativas são consideradas da esquerda para a direita até que uma correspondência \nseja encontrada. Se a alternativa da esquerda corresponder, a da direita é ignorada, mesmo que pro-\nduza uma correspondência “melhor”. Assim, quando o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1403,
+    "totalChunks": 10000
+  }
+}

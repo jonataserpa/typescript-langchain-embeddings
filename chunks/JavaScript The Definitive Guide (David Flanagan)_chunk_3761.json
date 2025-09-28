@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3761",
+  "content": "eros.\nExemplo 22-3 Gerenciamento de histórico com pushState()\n<!DOCTYPE html>\n<html><head><title>I'm thinking of a number...</title>\nTalvez você não tenha motivo para armazenar arquivos ou dados de imagem como parte de seu estado de \nhistórico, mas os clones estruturados também são usados por vários outros padrões relacionados a HTML5 \ne vamos vê-los novamente ao longo deste capítulo.\n\nCapítulo 22     APIs de HTML5      659\nJavaScript do\n lado do cliente\n<script>\nwindow.onload = newgame;        // Começa um novo jogo quando carregamos\nwindow.onpopstate = popState;   // Trata de eventos de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3761,
+    "totalChunks": 10000
+  }
+}

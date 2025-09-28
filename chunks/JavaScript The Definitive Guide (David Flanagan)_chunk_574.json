@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_574",
+  "content": "pelo laço\n for/in.\nSe o corpo de um laço \nfor/in exclui uma propriedade que ainda não foi enumerada, essa proprie-\ndade não vai ser enumerada. Se o corpo do laço define novas propriedades no objeto, essas proprie-\ndades geralmente não vão ser enumeradas. (No entanto, algumas implementações podem enumerar \npropriedades herdadas, adicionadas depois que o laço começa.)\n5.5.4.1   Ordem de enumeração de propriedades\nA especificação ECMAScript não define a ordem na qual o laço for/in enumera as propriedades de \num objeto. Na prática, contudo, as implementações de JavaScript de todos os principais",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 574,
+    "totalChunks": 10000
+  }
+}

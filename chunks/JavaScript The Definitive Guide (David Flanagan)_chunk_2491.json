@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2491",
+  "content": "evento, sen-\ndo disparada em resposta a erros de JavaScript. Contudo, não é uma verdadeira rotina de tratamento \nde evento, pois é chamada com argumentos diferentes. Consulte a Seção 14.6 para ver os detalhes.\nElementos individuais do documento, como os elementos \n<img>, também podem registrar rotinas \nde tratamento para eventos load e error. Eles são disparados quando um recurso externo (a imagem, \npor exemplo) está totalmente carregado ou quando ocorre um erro que impede seu carregamento. \nAlguns navegadores também suportam (e HTML5 padroniza) um evento abort, o qual é disparado \nquando uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2491,
+    "totalChunks": 10000
+  }
+}

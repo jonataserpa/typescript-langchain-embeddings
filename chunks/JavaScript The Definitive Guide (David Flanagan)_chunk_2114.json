@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2114",
+  "content": "e(\"tr\"); // Todas as linhas no tbody\n    rows = Array.prototype.slice.call(rows,0);   // Instantâneo em um array real\n    // Agora classifica as linhas com base no texto do n-ésimo elemento <td>\n    rows.sort(function(row1,row2)    {\n        var cell1 = row1.getElementsByTagName(\"td\")[n];  // Obtém a n-ésima célula\n        var cell2 = row2.getElementsByTagName(\"td\")[n];  // das duas linhas\n        var val1 = cell1.textContent || cell1.innerText;  // Obtém conteúdo do texto\n        var val2 = cell2.textContent || cell2.innerText;  // das duas células\n        if (comparator) return",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2114,
+    "totalChunks": 10000
+  }
+}

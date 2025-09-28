@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_563",
+  "content": "ão de declaração de variável var, de modo que é possível \ndeclarar e inicializar um contador de laço ao mesmo tempo. A expressão teste é avaliada antes de \ncada iteração e controla se o corpo do laço é executado. Se teste é avaliada como um valor ver-\ndadeiro, a \ninstrução que é o corpo do laço é executada. Por fim, a expressão incremento é avaliada. \nNovamente, para ser útil ela deve ser uma expressão com efeitos colaterais. De modo geral, ou ela é \numa expressão de atribuição, ou ela utiliza os operadores ++ ou --.\nPodemos imprimir os números de 0 a 9 com um laço \nfor, como segue. Compare",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 563,
+    "totalChunks": 10000
+  }
+}

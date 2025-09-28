@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_212",
+  "content": "o igual (mesmo usando-\n-se o teste restrito de igualdade de JavaScript) ao zero positivo, isto é, os dois valores são quase indis-\ntinguíveis, exceto quando usados como divisores:\nvar zero = 0;       // Zero normal\nvar negz = -0;      // Zero negativo\nzero === negz       // => verdadeiro: zero e zero negativo são iguais\n1/zero === 1/negz   // => falso: infinito e -infinito não são iguais\n3.1.4   Ponto flutuante binário e erros de arredondamento\nExistem infinitos números reais, mas apenas uma quantidade finita deles (18437736874454810627, \npara ser exato) pode ser representada de forma exata",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 212,
+    "totalChunks": 10000
+  }
+}

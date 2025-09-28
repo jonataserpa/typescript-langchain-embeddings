@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5512",
+  "content": "mespaces\n    documentos XML incluindo atributos de outros \nnamespaces, 367\n    escopo de função como namespace privado, em \nmódulos, 242–244\n    especifi cando para rotinas de tratamento de even-\nto com jQuery, 531\n    funções como, 173–175\n    getAttributeNS( ), objeto Element, 890–891\n    isDefaultNamespace( ), objeto Node, 962\n    jQuery,    513\n    lookupPrefi x( ), objeto Node, 963\n    método createElementNS( ), 372\n    método createElementNS( ), Document, 879\n    método getElementsByTagNameNS( ), 880\n    namespace process, Node, 289\n    objetos como, 240\n    plug-in jQuery vinculando",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5512,
+    "totalChunks": 10000
+  }
+}

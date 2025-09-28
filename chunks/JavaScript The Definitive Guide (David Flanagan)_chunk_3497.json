@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3497",
+  "content": "dos, ela retorna NaN. Para streaming de mídia \n(como rádio na Internet) com duração indefinida, essa propriedade retorna Infinity.\nA propriedade \ninitialTime especifica o tempo inicial da mídia, em segundos. Para clipes de mídia de \nduração fixa, isso normalmente é 0. Para streaming de mídia, essa propriedade fornece o instante de \ntempo mais cedo no qual os dados ainda estão no buffer e que é possível buscar novamente. current-\nTime nunca pode ser configurada menor do que initialTime.\nTrês outras propriedades fornecem uma visão mais minuciosa da linha do tempo da mídia e seu \nstatus de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3497,
+    "totalChunks": 10000
+  }
+}

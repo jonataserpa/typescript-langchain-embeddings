@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3340",
+  "content": "as recentemente \ne restaurar a última sessão de navegação, de modo que a vida útil dessas guias e da \nsessionStorage \nassociada pode ser mais longa do que parece.)\nAssim como \nlocalStorage, o escopo de sessionStorage é a origem do documento, de modo que \ndocumentos  com  origens  diferentes  nunca  vão  compartilhar  \nsessionStorage.  Mas  o  escopo  de  \nsessionStorage também é definido de acordo com a janela. Se um usuário tem duas guias do na-\nvegador exibindo documentos da mesma origem, essas duas guias têm dados de \nsessionStorage \nseparados: os scripts em execução em uma guia não podem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3340,
+    "totalChunks": 10000
+  }
+}

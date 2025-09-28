@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1253",
+  "content": "ses\nNa programação orientada a objetos, uma classe B pode estender ou fazer uma subclasse de ou-\ntra classe A. Dizemos que A é a superclasse e B é a subclasse. As instâncias de B herdam todos os \nmétodos de instância de A. A classe B pode definir seus próprios métodos de instância, alguns \ndos quais podem anular métodos de mesmo nome definidos pela classe A. Se um método de \nB anula um método de A, o método de B às vezes pode chamar o método anulado de A: isso é \nchamado de encadeamento de métodos. Da mesma forma, a construtora da subclasse \nB() às vezes \npode chamar a construtora da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1253,
+    "totalChunks": 10000
+  }
+}

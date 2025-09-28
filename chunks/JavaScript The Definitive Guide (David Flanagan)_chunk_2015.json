@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2015",
+  "content": "mais informações sobre a classe NodeList.) Os elementos do objeto \nNodeList retornado estão na ordem do documento; portanto, o primeiro elemento <p> de um docu-\nmento pode ser selecionado como segue:\nvar firstpara = document.getElementsByTagName(\"p\")[0];\nAs marcações HTML não diferenciam letras maiúsculas e minúsculas, e quando getElementsByTag-\nName() é usado em um documento HTML, faz uma comparação de nomes de marcações que não \ndiferencia letras maiúsculas e minúsculas. A variável spans anterior, por exemplo, vai incluir todos os \nelementos <span> que foram escritos como <SPAN>.\nUm objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2015,
+    "totalChunks": 10000
+  }
+}

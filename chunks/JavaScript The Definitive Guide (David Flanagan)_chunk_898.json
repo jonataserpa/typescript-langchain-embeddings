@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_898",
+  "content": "cadores, conhecidos como parâmetros, que funcionam \ncomo variáveis locais para o corpo da função. As chamadas de função fornecem valores (ou \nargumentos) para os parâmetros da função. Frequentemente, as funções utilizam seus valores de \nargumento para calcular um valor de retorno, que se torna o valor da expressão da chamada de \nfunção. Além dos argumentos, cada chamada tem outro valor – o contexto da chamada –, que é \no valor da palavra-chave this.\nSe uma função é atribuída à propriedade de um objeto, ela é conhecida como método desse objeto. \nQuando uma função é chamada em ou por meio de um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 898,
+    "totalChunks": 10000
+  }
+}

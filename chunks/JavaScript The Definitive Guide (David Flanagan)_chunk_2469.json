@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2469",
+  "content": "tipos de evento, as duas seções seguintes explicam como registrar \nrotinas de tratamento de evento e como o navegador chama essas rotinas. Por causa da evolução \nhistórica do modelo de evento de JavaScript e por causa da falta de suporte aos padrões do IE antes \ndo IE9, esses dois assuntos são mais complicados do que se poderia esperar.\nO capítulo termina com uma série de exemplos que demonstram como trabalhar com tipos de even-\ntos específicos. Essas seções específicas de tipo de evento abordam:\n •   Eventos de carga e disponibilidade de documento\n •   Eventos de mouse\n •   Eventos de roda",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2469,
+    "totalChunks": 10000
+  }
+}

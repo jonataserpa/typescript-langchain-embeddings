@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5310",
+  "content": ", 58, 159\n    em expressões de criação de objeto, 60\n    em expressões geradoras, 275\n    englobando expressões em instruções if, 90\n    instruções começando com (, 26\n% (sinal de porcentagem)\n    %= (módulo e atribuição) operador, 61, 76–77\n    operador módulo, 32, 61\n. (ponto-fi nal) (consulte . (ponto))\n+ (sinal de adição)\n    correspondendo a uma ou mais ocorrências em \nexpressões regulares, 248\n    instruções começando com, 26\n    operador ++ (incremento), 61, 67\n        efeitos colaterais, 63, 86\n        quebras de linha em instruções e, 27\n    operador += (adição e atribuição), 61,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5310,
+    "totalChunks": 10000
+  }
+}

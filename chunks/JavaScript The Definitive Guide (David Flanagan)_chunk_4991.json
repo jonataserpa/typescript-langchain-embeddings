@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4991",
+  "content": "tos selecionados com uma anima-\nção de tamanho e opacidade do comprimento especificado. Ao terminar, chama f, se especifi-\ncada, como um método de cada elemento selecionado.\nqueue([nomef=\"fx\"]):array\nqueue([nomef=\"fx\"], f(next))\nqueue([nomef=\"fx\"], novaf)\nSem argumentos ou apenas com um nome de fila, retorna a fila nomeada do primeiro ele-\nmento selecionado. Com um argumento de função, adiciona f na fila nomeada de todos os \nelementos selecionados. Com um argumento de array, substitui a fila nomeada de todos os \nelementos selecionados pelo array de funções novaf.\nFunções Ajax da jQuery\nA",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4991,
+    "totalChunks": 10000
+  }
+}

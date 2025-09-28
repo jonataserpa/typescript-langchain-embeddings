@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4511",
+  "content": "oram anexados nesse BlobBuilder desde que \nele foi criado. Cada chamada desse método retorna um novo Blob. Se tipoConteúdo for especificado, \nserá o valor da propriedade type do Blob retornado. Se não for especificado, o Blob retornado type \nserá a string vazia.\nButton\num <button> HTML Node, Element, FormControl\nUm objeto Button representa um elemento HTML \n<button>. A maioria das propriedades e mé-\ntodos de Buttons está descrita em FormControl e Element. Contudo, quando um Button tem uma \npropriedade type (consulte FormControl) “submit”, as outras propriedades listadas aqui especificam",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4511,
+    "totalChunks": 10000
+  }
+}

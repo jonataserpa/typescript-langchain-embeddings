@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4024",
+  "content": "om a adição da \npropriedade \ncallee. Contudo, não se trata de uma instância de Array e a propriedade Arguments.\nlength não tem nenhum dos comportamentos especiais da propriedade Array.length e não pode ser \nusada para mudar o tamanho do array.\nNo modo não restrito, o objeto Arguments tem uma característica muito incomum. Quando uma \nfunção tem argumentos nomeados, os elementos do array do objeto Arguments são sinônimos das \nvariáveis locais que contêm os argumentos da função. O objeto Arguments e os nomes de argumento \noferecem duas maneiras diferentes de fazer referência à mesma variável.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4024,
+    "totalChunks": 10000
+  }
+}

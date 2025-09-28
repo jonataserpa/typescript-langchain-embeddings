@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2233",
+  "content": "-\ntarea são criados com uma tag \n<textarea>, usando uma sintaxe significativamente diferente da \ntag <input> que cria um campo de texto. (Consulte TextArea na Parte IV.) Contudo, os dois tipos \nde elementos se comportam de modo bastante parecido. Você pode usar a propriedade value e a \nrotina de tratamento de evento onchange de um elemento Textarea exatamente como faz para um \nelemento Text.\nUm elemento \n<input type=\"password\"> é um campo de entrada modificado que exibe asteriscos \nquando o usuário digita nele. Conforme o nome indica, isso é útil para permitir que um usuário \ndigite senhas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2233,
+    "totalChunks": 10000
+  }
+}

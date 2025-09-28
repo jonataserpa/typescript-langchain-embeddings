@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4581",
+  "content": "m torno da coordenada X especificada. Caso contrário (se textAlign é “right”, é “end” \npara texto da esquerda para a direita ou é “start” para texto da direita para a esquerda), o texto é \ndesenhado à esquerda da coordenada X especificada.\nSe \ntextBaseline é “alphabetic” (o padrão), “bottom” ou “ideographic”, a maioria dos caracteres vai \naparecer acima da coordenada Y especificada. Se textBaseline for “center”, o texto será centralizado \naproximadamente na vertical, na coordenada Y especificada. E se textBaseline for “top” ou “han-\nging”, a maioria dos caracteres vai aparecer abaixo da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4581,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5280",
+  "content": "ontém o corpo da resposta completo.\nSe a resposta inclui cabeçalhos especificando uma codificação de caractere para o corpo, essa \ncodificação é usada. Caso contrário, é suposta a codificação Unicode UTF-8.\nstring responseType\nNa XHR2, essa propriedade especifica o tipo de resposta desejado e determina o tipo da pro-\npriedade response. Os valores válidos são “text”, “document”, “arraybuffer” e “blob”. O padrão \né a string vazia, que é sinônimo de “text”. Se essa propriedade for configurada, as propriedades \nresponseText e responseXML vão lançar exceções e você deverá usar a propriedade da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5280,
+    "totalChunks": 10000
+  }
+}

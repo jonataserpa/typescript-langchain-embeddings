@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4413",
+  "content": "ção\nString.charAt() retorna o n-ésimo caractere da string string. O primeiro caractere da string tem nu-\nmeração 0. Se n não está entre 0 e string.length−1, esse método retorna uma string vazia. Note que \nJavaScript não tem um tipo de dados caractere que seja distinto do tipo string; portanto, o caractere \nretornado é uma string de comprimento 1.\nConsulte também\nString.charCodeAt(), String.indexOf(), String.lastIndexOf()\nString.charCodeAt()\nobtém o n-ésimo código de caractere de uma string\n\n      Referência de JavaScript básica      823\nReferência de \nJavaScript",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4413,
+    "totalChunks": 10000
+  }
+}

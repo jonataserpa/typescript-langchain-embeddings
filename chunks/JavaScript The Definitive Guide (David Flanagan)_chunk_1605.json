@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1605",
+  "content": "er);\nimportClass(java.net.URL);\nimportClass(java.io.FileOutputStream);\nimportClass(java.lang.Thread);\n// Cria alguns widgets de GUI\nvar frame = new JFrame(\"Rhino URL Fetcher\");     // A janela do aplicativo\nvar urlfield = new JTextField(30);               // Campo de entrada de URL\nvar button = new JButton(\"Download\");            // Botão para iniciar o download\nvar filechooser = new JFileChooser();            // Um diálogo de seleção de arquivo\nvar row = Box.createHorizontalBox();             // Uma caixa para campo e botão\nvar col = Box.createVerticalBox();                // Para as linhas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1605,
+    "totalChunks": 10000
+  }
+}

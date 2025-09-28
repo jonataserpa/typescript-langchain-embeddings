@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_140",
+  "content": "enter\";        // Centraliza o texto nas \n                                  //    marcas\n    var y = amountToY(0);        // Coordenada Y do eixo X\n    for(var year=1; year*12 <= payments; year++) {         // Para cada ano\n        var x = paymentToX(year*12); // Calcula a posição da marca\n        g.fillRect(x-0.5,y-3,1,3); // Desenha a marca\n        if (year == 1) g.fillText(\"Year\", x, y-5);         // Rotula o eixo\n\n18          Capítulo     1     Introdução     a     JavaScript\n        if (year % 5 == 0 && year*12 !== payments)         // Numera cada 5 anos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 140,
+    "totalChunks": 10000
+  }
+}

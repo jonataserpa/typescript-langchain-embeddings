@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4727",
+  "content": "-\nto, não incluindo as tags de abertura e fechamento do elemento em si. Consultar essa proprie-\ndade retorna o conteúdo do elemento como uma string de texto HTML ou XML. Configurar \nessa propriedade com uma string de texto HTML ou XML substitui o conteúdo do elemento \npela representação analisada desse texto.\nreadonly boolean isContentEditable\nEssa propriedade é true se o elemento pode ser editado ou false, caso contrário. Um elemento \npode ser editado por causa da propriedade \ncontenteditable nele ou em um ascendente ou por \ncausa da propriedade designMode do Document contêiner.\nstring",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4727,
+    "totalChunks": 10000
+  }
+}

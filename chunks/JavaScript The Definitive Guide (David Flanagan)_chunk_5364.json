@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5364",
+  "content": "conteúdo que pode ser editado em documentos, \n398–401\ncontexto de chamada, 158\ncontexto de execução, 344\n    rotinas de tratamento de evento, 448\ncontextos de navegação, 344\ncontrações e possessivos em strings no idioma inglês, \n36\ncontroles ActiveX, scripts, 328\n\nÍndice          1013\nconversões explícitas de tipos, 46–48\ncookies, 574, 579–585\n    armazenamento com, 583–585\n    armazenando,    581\n    atributos, duração e escopo, 580\n    determinando se estão habilitados, 580\n    lendo,    582\n    limitações no tamanho e número de, 583\ncookiesEnabled( ), objeto Navigator, 339\ncoordenadas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5364,
+    "totalChunks": 10000
+  }
+}

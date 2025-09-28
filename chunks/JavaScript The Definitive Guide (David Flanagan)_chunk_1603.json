@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1603",
+  "content": "():\nvar version = String(java.lang.System.getProperty(\"java.version\"));\n12.1.1   Exemplo de Rhino\nO  Exemplo  12-1  é  um  aplicativo  Rhino  simples  que  demonstra  muitos  dos  recursos  e  técnicas  \ndescritos anteriormente. O exemplo usa o pacote de GUI javax.swing, o pacote de ligação em rede \njava.net, o pacote de E/S de streaming java.io e recursos de multithreading da linguagem Java para \nimplementar um aplicativo gerenciador de downloads simples que baixa URLs em arquivos locais e \nexibe o andamento do download. A Figura 12-1 mostra o aplicativo com dois downloads pendentes.\nFigura",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1603,
+    "totalChunks": 10000
+  }
+}

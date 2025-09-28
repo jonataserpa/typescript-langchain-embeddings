@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3101",
+  "content": "ente. A jQuery torna fácil desabilitar todos os efeitos globalmente: basta configurar \njQuery.fx.off \ncomo true. Isso tem o efeito de mudar a duração de cada animação para 0ms, fazendo-as se comportar \ncomo alterações instantâneas e inanimadas.\nPara  permitir  que  os  usuários  finais  desabilitem  os  efeitos,  você  pode  usar  código  como  este  em  seus  \nscripts:\n$(\".stopmoving\").click(function() { jQuery.fx.off = true; });\nEntão, se o web designer incluir um elemento com classe “stopmoving” na página, o usuário poderá clicar \nnele para desabilitar as animações.\n\n538          Parte II",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3101,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4568",
+  "content": "rte original. A região de recorte padrão de \num canvas é o próprio retângulo do canvas.\nAssim como o método \nfill(), clip() trata todos os subcaminhos como fechados e usa a regra de \ncontorno diferente de zero para distinguir o interior do caminho do seu exterior.\nvoid closePath()\nSe o subcaminho atual do canvas é aberto, closePath() o fecha, adicionando uma linha que conecta \no ponto atual ao primeiro ponto do subcaminho. Então, inicia um novo subcaminho (como se esti-\nvesse chamando \nmoveTo()) nesse mesmo ponto.\nfill() e clip() tratam todos os subcaminhos como se tivessem sido fechados, de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4568,
+    "totalChunks": 10000
+  }
+}

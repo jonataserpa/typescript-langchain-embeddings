@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2376",
+  "content": "ght:     165px;                            /* total de 200px – 25px da barra de título – 10px de \n/* preenchimento*/\n    width: 290px;                  /* largura de 300px – 10px de preenchimento */\n    padding: 5px;                  /* Permite espaço em todos os quatro lados */\n    overflow: auto;                /* Fornece barras de rolagem se precisarmos */\n    background-color: #fff;         /* Fundo branco por padrão */\n}\ndiv.translucent {  /* esta classe torna uma janela parcialmente transparente */\n    opacity: .75;         /* Estilo padrão para transparência */\n    filter:",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2376,
+    "totalChunks": 10000
+  }
+}

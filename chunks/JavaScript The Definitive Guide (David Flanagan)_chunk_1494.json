@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1494",
+  "content": "a em uma futura versão do padrão ECMAScript.\n11.3   Atribuição de desestruturação\nO Spidermonkey 1.7 implementa um tipo de atribuição composta conhecida como atribuição de \ndesestruturação. (Talvez você tenha visto a atribuição de desestruturação anteriormente, em Python \nou na Ruby, por exemplo.) Em uma atribuição de desestruturação, o valor do lado direito do sinal \nde igualdade é um array ou objeto (um valor “estruturado”) e o lado esquerdo especifica um ou mais \nnomes de variável usando uma sintaxe que imita a sintaxe de array e objeto literal.\n\nCapítulo 11     Subconjuntos e extensões de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1494,
+    "totalChunks": 10000
+  }
+}

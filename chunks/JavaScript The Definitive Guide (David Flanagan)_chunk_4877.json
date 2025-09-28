@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4877",
+  "content": "scobrir que \na posição mudou significativamente. O valor de retorno é um número que pode ser passado para \nclearWatch() a fim de interromper o monitoramento da localização do usuário.\nOpções\nO argumento opções de getCurrentPosition() e watchPosition() é um objeto JavaScript normal, \ncom zero ou mais das seguintes propriedades:\nboolean enableHighAccuracy\nEsta opção é uma dica de que uma posição de alta precisão é desejada, mesmo que demore \nmais para ser determinada ou use mais energia da bateria, por exemplo. O padrão é false. Em \nequipamentos que podem determinar a posição via sinais WiFi ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4877,
+    "totalChunks": 10000
+  }
+}

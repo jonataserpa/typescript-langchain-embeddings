@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2901",
+  "content": "efaz a conexão após um erro\n            setTimeout(connect, retrydelay); // Espera um pouco e depois refaz a conexão\n        };\n \n        // É assim que estabelecemos uma conexão\n        function connect() {\n            charsReceived = 0;\n            type = null;\n            xhr.open(\"GET\",    url);\n            xhr.setRequestHeader(\"Cache-Control\",    \"no-cache\");\n            if (lastEventId) xhr.setRequestHeader(\"Last-Event-ID\", lastEventId);\n            xhr.send();\n  }\n   // Cada vez que dados chegam, processa-os e dispara a rotina de tratamento de \n// onmessage\n        // Esta função trata",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2901,
+    "totalChunks": 10000
+  }
+}

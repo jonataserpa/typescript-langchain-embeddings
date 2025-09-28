@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5577",
+  "content": "ayBuff er, 845\npropriedade buff ered, MediaElement, 605, 950\npropriedade buff eredAmount, WebSocket, 984\npropriedade button, objeto Event, 439, 455, 899\npropriedade buttons, objeto Event, 903–904\npropriedade byteLength, objeto ArrayBuff er, 845\npropriedade callee, objeto Arguments, 704\npropriedade caller, objeto Function, 763–764\npropriedade cancelable, objeto Event, 899\n\nÍndice          1047\npropriedade cancelBubble, objeto Event, 899\npropriedade canvas, 855\npropriedade caption, objeto Table, 974–975\npropriedade cellIndex, objeto TableCell, 975\npropriedade cells, objeto TableRow,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5577,
+    "totalChunks": 10000
+  }
+}

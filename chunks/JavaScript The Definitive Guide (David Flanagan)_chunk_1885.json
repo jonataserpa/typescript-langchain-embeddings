@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1885",
+  "content": "o, nos contextos que chamam toString() implicitamente, pode-\n-se escrever apenas location, em vez de location.href.\nOutras propriedades desse objeto – protocol, host, hostname, port, pathname, search e hash – es-\npecificam as diversas partes individuais do URL. Elas são conhecidas como propriedades de \n“decomposição de URL” e também são suportadas por objetos Link (criados por elementos <a> \ne <area> em documentos HTML). Consulte as entradas Location e Link na Parte IV para ver mais \ndetalhes.\nAs propriedades \nhash e search do objeto Location são interessantes. A propriedade hash retorna \na",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1885,
+    "totalChunks": 10000
+  }
+}

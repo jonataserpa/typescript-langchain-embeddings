@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1231",
+  "content": "os em JavaScript: eles são simplesmente funções atribuídas \na propriedades de objeto e chamadas “por meio de” ou “em” um objeto. Uma única função pode \nser atribuída a duas propriedades e, então, servir como dois métodos. Fizemos isso em nossa classe \nSet, por exemplo, quando copiamos o método toArray() e o fizemos funcionar também como um \nmétodo toJSON().\nUma única função pode até ser usada como método de mais de uma classe. A maioria dos méto-\ndos internos da classe Array, por exemplo, é definida genericamente e se você define uma classe \ncujas instâncias são objetos semelhantes a um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1231,
+    "totalChunks": 10000
+  }
+}

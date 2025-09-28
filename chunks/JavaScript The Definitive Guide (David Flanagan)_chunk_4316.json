@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4316",
+  "content": "ificado e faz Object.defineProper-\nties() lançar TypeError.\nDescrição\nObject.create() cria e retorna um novo objeto com proto como protótipo. Isso significa que o novo \nobjeto herda propriedades de proto.\nSe o argumento opcional \ndescritores é especificado, Object.create() adiciona propriedades no novo \nobjeto como se estivesse chamando Object.defineProperties(). Isto é, a chamada de dois argumen-\ntos de Object.create(p,d) é equivalente a:\nObject.defineProperties(Object.create(p), d);\nConsulte Object.defineProperties() para mais informações sobre o argumento descritores e consulte",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4316,
+    "totalChunks": 10000
+  }
+}

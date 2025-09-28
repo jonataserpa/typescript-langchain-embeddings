@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2313",
+  "content": "alquer alteração com script feita em um estilo \nCSS em uma transição suavemente animada. (Quando for amplamente implementada, vai evitar a neces-\nsidade de código de animação CSS como o que aparece na Seção 16.3.1.) CSS Transitions é implementada \nnos navegadores atuais, menos o IE, mas suas propriedades de estilo ainda são prefixadas com strings \nespecíficas do fornecedor. CSS Animations é uma proposta relacionada que utiliza CSS Transitions como \nponto de partida para definir sequências de animação mais complexas. Atualmente, CSS Animations só \né implementada pelos navegadores Webkit. Nem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2313,
+    "totalChunks": 10000
+  }
+}

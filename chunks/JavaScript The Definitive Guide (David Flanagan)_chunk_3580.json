@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3580",
+  "content": "dades de atributo gráfico no objeto CanvasRenderingContext-\n2D. Essas propriedades estão listadas na Tabela 21-1 e explicadas em detalhes nas seções relevan-\ntes a seguir.\n\n622          Parte II     JavaScript do lado do cliente\nTabela 21-1 Atributos gráficos da API Canvas\nPropriedadeSignificado\nfillStyle\na\n cor, gradiente ou padrão de preenchimento\nfont\na\n fonte CSS para comandos de desenho de texto\nglobalAlpha\ntransparência a ser adicionada em todos os pixels desenhados\nglobalCompositeOperation\ncomo\n combinar novos pixels com os que estão embaixo\nlineCap\ncomo as extremidades das linhas são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3580,
+    "totalChunks": 10000
+  }
+}

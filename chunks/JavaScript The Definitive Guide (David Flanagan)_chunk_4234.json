@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4234",
+  "content": "n é NaN (não é um número) \nou infinito positivo ou negativo.\nConsulte também\nInfinity, isNaN(), NaN, Number.NaN, Number.NEGATIVE_INFINITY, Number.POSITIVE_INFINITY\nisNaN()\nverifica se é not-a-number\nSinopse\nisNaN(x)\nArgumentos\nx\nO valor a ser testado.\nRetorna\ntrue se x não é um número ou se é o valor numérico especial NaN. Retorna false se x é qualquer \noutro número.\nDescrição\n“NaN” é o acrônimo de “not-a-number” (não é número). A variável global NaN contém um valor \nnumérico especial (também conhecido como NaN) que representa um número inválido (como o \nresultado de zero dividido por zero).",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4234,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4702",
+  "content": "ception não é uma subclasse do tipo Error do núcleo de JavaScript, mas funciona como \numa, sendo que alguns navegadores incluem uma propriedade \nmessage para compatibilidade com \nError.\nConstantes\nunsigned short INDEX_SIZE_ERR = 1\nunsigned short HIERARCHY_REQUEST_ERR = 3\nunsigned short WRONG_DOCUMENT_ERR = 4\nunsigned short INVALID_CHARACTER_ERR = 5\nunsigned short NO_MODIFICATION_ALLOWED_ERR = 7\nunsigned short NOT_FOUND_ERR = 8\nunsigned short NOT_SUPPORTED_ERR = 9\nunsigned short INVALID_STATE_ERR = 11\nunsigned short SYNTAX_ERR = 12\nunsigned short INVALID_MODIFICATION_ERR = 13\nunsigned short",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4702,
+    "totalChunks": 10000
+  }
+}

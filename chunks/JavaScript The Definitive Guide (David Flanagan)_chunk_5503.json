@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5503",
+  "content": "do toUTCString( ), objeto Date, 748\nmétodo trace( ), objeto Console, 867\nmétodo transform( ), objeto CanvasRenderingCon-\ntext2Ds, 627, 864\nmétodo translate( ), CanvasRenderingContext2D, \n624, 864\nmétodo trigger( ), jQuery, 528, 533\nmétodo triggerHandler( ), jQuery, 534\nmétodo trim( ), objeto String, 836–837\nmétodo unbind( ), jQuery, 532\nmétodo undelegate( ), jQuery, 535\n    anulando o registro rotinas de tratamento de even-\nto para eventos dinâmicos, 536\nmétodo unshift( ), objeto Array, 142, 148, 723\nmétodo unwrap( ), jQuery, 526\nmétodo update( ), objeto ApplicationCache, 593, \n844\nmétodo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5503,
+    "totalChunks": 10000
+  }
+}

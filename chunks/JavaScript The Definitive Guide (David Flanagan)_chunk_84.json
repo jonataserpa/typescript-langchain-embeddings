@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_84",
+  "content": "t;    // Retorna o produto\n}\nfactorial(4)           // => 24: 1*4*3*2\n\n8          Capítulo     1     Introdução     a     JavaScript\nfunction factorial2(n) { // Outra versão, usando um laço diferente\n    var i, product = 1; // Começa com 1\n    for(i=2; i <= n; i++)         // Incrementa i automaticamente, de 2 até n\n        product *= i;             //                        Faz isso a cada vez. {} não é necessário para laços\n                      // de 1 linha\n    return product;    // Retorna o fatorial\n}\nfactorial2(5)                    // => 120: 1*2*3*4*5\nJavaScript é uma linguagem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 84,
+    "totalChunks": 10000
+  }
+}

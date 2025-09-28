@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1787",
+  "content": "primeiro passo para tratar de problemas de compatibilidade em JavaScript do lado do cliente é \nsaber quais são esses problemas. O ciclo de lançamento de navegadores Web é cerca de três vezes \nmais rápido do que o ciclo de lançamento deste livro, ou seja, este livro não pode indicar com se-\ngurança quais versões de qual navegador implementam quais recursos e muito menos descrever os \nerros existentes ou a qualidade da implementação dos recursos nos diversos navegadores. É melhor \nver detalhes como esses na Web. A tentativa de padronização HTML5 tem como objetivo produzir \num conjunto de teste.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1787,
+    "totalChunks": 10000
+  }
+}

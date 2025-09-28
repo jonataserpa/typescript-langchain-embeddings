@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3899",
+  "content": "dentro de um aplicativo Web. Um URL de Blob é válido apenas em documentos da mesma origem. \nSe, por exemplo, você passasse um URL Blob via postMessage() para uma janela com uma origem \ndiferente, o URL não teria significado para essa janela.\nOs URLs de Blob não são permanentes. Um URL de Blob não será mais válido quando o usuário \ntiver fechado ou saído do documento cujo script criou o URL. Não é possível, por exemplo, salvar \num URL de Blob no armazenamento local e então reutilizá-lo quando o usuário iniciar uma nova \nsessão com um aplicativo Web.\nTambém é possível “revogar” manualmente a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3899,
+    "totalChunks": 10000
+  }
+}

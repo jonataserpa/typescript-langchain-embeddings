@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_807",
+  "content": "e trabalhar com um array esparso, seu código provavelmen-\nte vai tratá-lo como trataria um array não esparso com elementos\n undefined.\n7.4   Comprimento do array\nTodo array tem uma propriedade length e é essa propriedade que torna os arrays diferentes dos obje-\ntos normais de JavaScript. Para arrays densos (isto é, não esparsos), a propriedade length especifica o \nnúmero de elementos no array. Seu valor é um a mais do que o índice mais alto no array:\n[].length             // => 0: o array não tem elementos\n['a','b','c'].length  // => 3: o índice mais alto é 2, o comprimento é 3\n\nCapítulo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 807,
+    "totalChunks": 10000
+  }
+}

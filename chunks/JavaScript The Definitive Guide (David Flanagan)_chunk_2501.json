@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2501",
+  "content": "Muitas vezes isso é in-\nconveniente, pois quando uma rotina de tratamento de mouseout é disparada, é preciso verificar \nse o mouse realmente saiu do elemento em que você está interessado ou se apenas mudou de um \nfilho do elemento para outro. Por isso, o IE suporta versões desses eventos que não borbulham, \nconhecidas como mouseenter e mouseleave. A jQuery simula o suporte para esses eventos em \nnavegadores que não são o IE (consulte o Capítulo 19) e a especificação Level 3 Events do DOM \nos padroniza.\nQuando o usuário gira a roda do mouse, os navegadores disparam um evento mousewheel (ou,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2501,
+    "totalChunks": 10000
+  }
+}

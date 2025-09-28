@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1602",
+  "content": "mo uma string JavaScript, mas existem diferenças importantes. Primeiramente, \numa string Java tem um método length(), em vez de uma propriedade length. Segundo, o operador \ntypeof retorna “objeto” para uma string Java. Não é possível converter uma string Java em uma string \nJavaScript chamando seu método toString(), pois todos os objetos Java têm seu próprio método \ntoString() Java que retorna java.lang.String. Para converter um valor Java em uma string, passe-o \npara a função JavaScript String():\nvar version = String(java.lang.System.getProperty(\"java.version\"));\n12.1.1   Exemplo de Rhino\nO",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1602,
+    "totalChunks": 10000
+  }
+}

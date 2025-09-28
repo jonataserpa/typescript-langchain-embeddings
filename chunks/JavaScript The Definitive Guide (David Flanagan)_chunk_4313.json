@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4313",
+  "content": "m objeto Array:\na = new Array(1,2,3);    // Cria um objeto\na.constructor == Array   // Avaliado como verdadeiro\nUm uso comum da propriedade constructor é na determinação do tipo de objetos desconhecidos. \nDado um valor desconhecido, você pode usar o operador typeof para determinar se é um valor pri-\nmitivo ou um objeto. Se for um objeto, você pode usar a propriedade constructor para determinar \nseu tipo. Por exemplo, a função a seguir determina se um valor dado é um array:\nfunction isArray(x) {\n    return ((typeof x == \"object\") && (x.constructor == Array));\n}\nNote, entretanto, que embora",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4313,
+    "totalChunks": 10000
+  }
+}

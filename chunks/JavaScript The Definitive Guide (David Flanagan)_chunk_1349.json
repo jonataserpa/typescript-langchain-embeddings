@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1349",
+  "content": "ma definição de classe, um conjunto de classes relacionadas, uma biblioteca de fun-\nções utilitárias ou apenas um script de código para executar. Qualquer trecho de código JavaScript \npode ser um módulo, desde que seja escrito de forma modular. JavaScript não define nenhuma \nconstrução da linguagem para trabalhar com módulos (no entanto, reserva as palavras-chave \nimports \ne exports para versões futuras), isso quer dizer que escrever código JavaScript modular é, em grande \nparte, uma questão de seguir certas convenções de codificação.\nMuitas bibliotecas JavaScript e estruturas de programação",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1349,
+    "totalChunks": 10000
+  }
+}

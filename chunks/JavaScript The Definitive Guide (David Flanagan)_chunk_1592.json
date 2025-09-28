@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1592",
+  "content": "r stdout = java.lang.System.out;\n// O Rhino mapeia métodos getter e setter em propriedades únicas de JavaScript\nf.name      // => \"/tmp/test\": chama f.getName()\nf.directory  // => falso: chama f.isDirectory()\nA linguagem Java permite métodos sobrecarregados que tenham o mesmo nome, mas assinaturas \ndiferentes. Normalmente, o Rhino consegue descobrir qual versão de um método se quer chamar, \ncom base no tipo dos argumentos passados. Em alguns momentos, é preciso identificar um método \nespecificamente pelo nome e pela assinatura:\n// Supõe que o objeto Java o tem um método chamado f que espera",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1592,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_453",
+  "content": "ll e a expressão p.x, se fosse avaliada, lançaria uma exceção \nTypeError. Mas o código utiliza && de maneira idiomática, de modo que p.x é avaliado somente se p \né verdadeiro – não null ou undefined.\nÀs vezes o comportamento de \n&& é chamado de “curto-circuito” e às vezes você pode ver código que \nexplora esse comportamento propositalmente, para executar código condicionalmente. Por exem-\nplo, as duas linhas de código JavaScript a seguir têm efeitos equivalentes:\nif (a == b) stop();   // Chama stop() somente se a == b\n(a == b) && stop();   // Isto faz a mesma coisa\nDe modo geral, você deve",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 453,
+    "totalChunks": 10000
+  }
+}

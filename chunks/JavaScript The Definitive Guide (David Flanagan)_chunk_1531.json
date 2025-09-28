@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1531",
+  "content": "claro \nque eles são objetos iteradores\n1\n. Na verdade, eles são iteradores iteráveis, ou seja, podem ser usados \ncom laços for/in. O código a seguir demonstra como é fácil escrever funções geradoras e iterar pelos \nvalores que elas geram:\n// Define uma função geradora para iterar por um intervalo de inteiros\nfunction range(min, max) {\n    for(let i = Math.ceil(min); i <= max; i++) yield i;\n}\n// Chama a função geradora para obter um gerador e, então, o itera.\nfor(let n in range(3,8)) console.log(n); // Imprime números 3 a 8.\nAs funções geradoras nunca precisam retornar. Na verdade, um exemplo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1531,
+    "totalChunks": 10000
+  }
+}

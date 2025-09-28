@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4959",
+  "content": "o \ncoords ou com o valor cal-\nculado pela chamada de \nf como método de cada elemento. As coordenadas são especificadas \ncomo objetos com propriedades \ntop e left.\noffsetParent():jQuery\nSeleciona o ascendente posicionado mais próximo de cada elemento selecionado e o retorna \nem um novo objeto jQuery.\nouterHeight([margens=false]):int\nRetorna a altura mais o preenchimento e a borda. E se margens é true, as margens do primeiro \nelemento selecionado.\n\n936          Parte IV     Referência de JavaScript do lado do cliente\nouterWidth([margens=false]):int\nRetorna a largura mais o preenchimento e a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4959,
+    "totalChunks": 10000
+  }
+}

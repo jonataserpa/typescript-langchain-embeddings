@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3092",
+  "content": "ntext e selector (consulte a Seção 19.1.2). \nNormalmente, você chama $() com apenas um argumento e o contexto é o documento corrente. \nAssim, para um objeto jQuery x, as duas linhas de código a seguir fazem a mesma coisa:\nx.live(type,handler);\n$(x.context).delegate(x.selector, type, handler);\nPara anular o registro de rotinas de tratamento de evento dinâmicas, use die() ou undelegate(). \ndie() pode ser chamado com um ou dois argumentos. Com apenas um argumento de tipo de even-\nto, ele remove todas as rotinas de tratamento de evento dinâmicas que correspondam ao seletor e ao \ntipo de evento. E",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3092,
+    "totalChunks": 10000
+  }
+}

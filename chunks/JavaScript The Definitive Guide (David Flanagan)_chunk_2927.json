@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2927",
+  "content": "o seu valor original.\n\nCapítulo 19     A biblioteca jQuery      511\nJavaScript do\n lado do cliente\nO método css() opera no objeto jQuery retornado por $() e retorna esse mesmo objeto, de modo \nque o método show() pode ser chamado em seguida, em um “encadeamento de métodos” com-\npacto. Esse idioma de encadeamento de métodos é comum na programação com jQuery. Como \noutro exemplo, o código a seguir localiza todos os elementos do documento que têm a classe CSS \n“clicktohide” e registra uma rotina de tratamento de evento em cada um. Essa rotina de tratamento \nde evento é chamada quando o usuário",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2927,
+    "totalChunks": 10000
+  }
+}

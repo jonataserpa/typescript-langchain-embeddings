@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4177",
+  "content": "retorna uma cópia codificada de seu argumento s. \nLetras e dígitos ASCII não são codificados, nem os seguintes caracteres de pontuação ASCII:\n- _ . ! ~ * ' ( )\nTodos os outros caracteres, incluindo caracteres de pontuação como /, : e #, que servem para separar \nos vários componentes de um URI, são substituídos por uma ou mais sequências de escape hexade-\ncimais. Consulte encodeURI() para ver uma descrição do esquema de codificação usado.\nNote a diferença entre \nencodeURIComponent() e encodeURI(): encodeURIComponent() presume que seu \nargumento é uma parte (como o protocolo, nome de host,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4177,
+    "totalChunks": 10000
+  }
+}

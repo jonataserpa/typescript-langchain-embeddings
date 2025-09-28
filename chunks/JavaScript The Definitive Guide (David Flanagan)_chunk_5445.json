@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5445",
+  "content": "7\n    scripts em arquivos externos, 305\n    tipo de script, 306\nindexação baseada em zero (strings e arrays), 35, 137\níndices\n    array,    137\n        métodos indexOf ( ) e lastIndexOf ( ), 153\n        nomes de propriedade de objeto versus, 139\n    baseados em zero, string e array, 35\nindistinção de movimento ou efeito de mancha em \nelementos gráfi cos no canvas, 647\ninfi nito negativo, 32, 788–789\ninfi nito positivo, 32, 788–789\ninitialTime, objeto MediaElement, 603, 951\ninputMethod, objeto Event, 441, 469, 904\ninsertAdjacentHTML( ), objeto Element, 369, \n891–892\n    implementando com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5445,
+    "totalChunks": 10000
+  }
+}

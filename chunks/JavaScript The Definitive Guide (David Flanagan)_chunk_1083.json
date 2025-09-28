@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1083",
+  "content": "che) return cache[key];\n        else return cache[key] = f.apply(this, arguments);\n    };\n}\nA função memoize() cria um novo objeto para usar como cache e atribui esse objeto a uma variável \nlocal, de modo que é privado (na closure da) da função retornada. A função retornada converte seu \narray de argumentos em uma string e usa essa string como nome de propriedade do objeto cache. Se \num valor existe na cache, ela o retorna diretamente.\n\n192          Parte     I     JavaScript     básica\nCaso contrário, ela chama a função especificada para calcular o valor para esses argumentos, coloca \nesse",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1083,
+    "totalChunks": 10000
+  }
+}

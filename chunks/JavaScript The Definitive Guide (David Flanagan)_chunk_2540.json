@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2540",
+  "content": "e prefixado com a palavra-chave \nfunction. Por exemplo:\n<button onclick=\"alert('Thank you');\">Click Here</button>\nSe um atributo de rotina de tratamento de evento HTML contém várias instruções JavaScript, você \ndeve lembrar-se de separar essas instruções com pontos e vírgulas ou decompor o valor do atributo \nem várias linhas.\nAlguns tipos de evento são direcionados ao navegador como um todo, em vez de a qualquer ele-\nmento em especial do documento. Em JavaScript, as rotinas de tratamento para esses eventos são \nregistradas no objeto Window. Em HTML, as colocamos na marcação \n<body>, mas o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2540,
+    "totalChunks": 10000
+  }
+}

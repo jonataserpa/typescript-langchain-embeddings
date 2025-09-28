@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3928",
+  "content": "tém File\n            var reader = new FileReader();\n            reader.readAsText(file);\n            reader.onload = function() {  // Obtém o conteúdo do \n// arquivo\n                  console.log(reader.result);\n            };\n        });\n    });\n});\nO Exemplo 22-13 é mais completo. Ele demonstra como usar a API assíncrona para ler arquivos, \ngravar arquivos, excluir arquivos, criar diretórios e listar diretórios.\nExemplo 22-13 Usando a API de sistema de arquivo assíncrona\n/*\n * Estas funções foram testadas no Google Chrome 10.0 dev.\n * Talvez seja preciso lançar o Chrome com as seguintes",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3928,
+    "totalChunks": 10000
+  }
+}

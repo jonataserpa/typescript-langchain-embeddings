@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4367",
+  "content": "rna \no próprio objeto.\nDescrição\nO método valueOf() de um objeto retorna o valor primitivo associado a esse objeto, se houver um. \nPara objetos de tipo Object, não há qualquer valor primitivo e esse método simplesmente retorna o \nobjeto em si.\nContudo, para objetos do tipo Number, valueOf() retorna o valor numérico primitivo representado \npelo objeto. Do mesmo modo, ele retorna o valor primitivo booleano associado a um objeto Boole-\nan e a string associada a um objeto String.\nRaramente é necessário você mesmo chamar o método \nvalueOf(). JavaScript faz isso automaticamen-\nte, quando um objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4367,
+    "totalChunks": 10000
+  }
+}

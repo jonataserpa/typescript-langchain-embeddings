@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4474",
+  "content": "outro valor, algo que você \ndeve tomar o cuidado de não fazer.\nQuando testar um valor para ver se é indefinido, use o operador \n===, pois o operador == trata o valor \nundefined como igual a null.\nunescape() desaprovado\ndecodifica uma string com escape\nSinopse\nunescape(s)\nArgumentos\ns\nA string que será decodificada ou da qual se vai “retirar o escape”.\nRetorna\nUma cópia decodificada de \ns.\nDescrição\nunescape() é uma função global que decodifica uma string codificada com escape(). Ela decodifica \ns localizando e substituindo sequências de caractere da forma % xx e %u xxxx (onde x representa um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4474,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2954",
+  "content": "em um seletor CSS como argumento e retornam um objeto semelhante a um array que \ncontém os elementos correspondentes ao seletor. A implementação da jQuery usa \nquerySelectorAll() \nnos navegadores que o suportam, mas há bons motivos para usar $() em vez de querySelectorAll() \nem seu código:\n •\nquerySelectorAll() foi implementado apenas recentemente pelos fornecedores de navegador. $() \nfunciona tanto nos navegadores mais antigos quanto nos novos.\n •Como a jQuery pode fazer seleções “manuais”, os seletores CSS3 suportados por \n$() funcionam em \ntodos os navegadores e não apenas nos que suportam",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2954,
+    "totalChunks": 10000
+  }
+}

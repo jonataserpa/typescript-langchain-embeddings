@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3156",
+  "content": "o \nobjeto resultante para a callback especificada. Essas duas funções chamam jQuery.get(), que é uma \nfunção de busca de URL de uso mais geral. Por fim, jQuery.post() funciona como jQuery.get(), \nmas faz uma requisição HTTP POST, em vez de GET. Assim como o método load(), todas essas \nfunções são assíncronas: elas retornam para suas chamadoras antes que qualquer coisa seja carregada \ne notificam sobre os resultados chamando uma função callback especificada.\n\nCapítulo 19     A biblioteca jQuery      547\nJavaScript do\n lado do cliente\n19.6.2.1   jQuery.getScript()\nA função jQuery.getScript()",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3156,
+    "totalChunks": 10000
+  }
+}

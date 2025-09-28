@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3652",
+  "content": "a 21-11 Os atributos lineCap e lineJoin.\nA propriedade lineCap especifica como as extremidades de um subcaminho aberto são “arremata-\ndas”. O valor “butt” (o padrão) significa que a linha termina abruptamente no ponto extremo. O \nvalor “square” significa que a linha se estende por metade da sua largura além do ponto extremo. E \no valor “round” significa que a linha é estendida com um meio-círculo (de raio igual à metade da \nlargura da linha) além do ponto extremo.\nA propriedade \nlineJoin especifica como os vértices entre segmentos de subcaminho são conectados. \nO valor padrão é “miter”, ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3652,
+    "totalChunks": 10000
+  }
+}

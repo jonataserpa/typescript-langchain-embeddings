@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3044",
+  "content": "ropagationStopped()\nstopImmediatePropagation()      isImmediatePropagationStopped()\nA maioria dessas propriedades e métodos de evento foi apresentada no Capítulo 17 e está documen-\ntada na Parte IV, sob ref-Event. Alguns desses campos são tratados de forma especial pela jQuery, \npara que tenham um comportamento uniforme nos vários navegadores. Eles estão descritos a seguir:\nmetaKey\nSe o objeto evento nativo não tem uma propriedade metaKey, a jQuery configura isso com o \nmesmo valor da propriedade ctrlKey. No MacOS, a tecla Command configura a propriedade \nmetaKey.\npageX, pageY\nSe o objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3044,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_794",
+  "content": "mesmo são definidas para o array.\n •   Especificação explícita de dois ou mais elementos de array ou de apenas um elemento não \nnumérico para o array:\n    var a = new Array(5, 4, 3, 2, 1, \"testing, testing\");\nNesta forma, os argumentos da construtora se tornam o elementos do novo array. Usar um \narray literal é quase sempre mais simples do que essa utilização da construtora Array().\n7.2   Lendo e gravando elementos de array\nUm elemento de um array pode ser acessado com o operador []. Uma referência ao array deve apare-\ncer à esquerda dos colchetes. Uma expressão arbitrária que tenha um valor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 794,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4790",
+  "content": "ra um clique \ntriplo e assim por diante. No Firefox, os eventos DOMMouseScroll usam essa propriedade \npara informar quantidades de rolagem da roda do mouse.\nreadonly unsigned short eventPhase*\nA fase atual da propagação de evento. O valor é uma das três constantes definidas anterior-\nmente. Não é suportada por eventos do IE.\nreadonly boolean isTrusted*\ntrue se esse evento foi criado e enviado pelo navegador ou false, caso seja um evento sintético \ncriado e enviado por código JavaScript. Essa é uma adição relativamente nova no modelo de \nevento padrão e pode não estar implementada por todos os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4790,
+    "totalChunks": 10000
+  }
+}

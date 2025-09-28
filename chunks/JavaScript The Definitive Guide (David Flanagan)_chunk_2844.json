@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2844",
+  "content": "o XMLHttpRequest \ncom a API FormData. Esses recursos ainda estavam em versão draft quando este livro estava sendo \nescrito e o exemplo não funciona em todos os navegadores.\nExemplo 18-11 Monitorando andamento de upload HTTP\n// Localiza todos os elementos da classe \"fileDropTarget\" e registra rotinas de \n// tratamento de evento DnD \npara fazê-las responder as solturas (drop) de arquivo. Quando \n// os arquivos são soltos, carrega-os no URL especificado no atributo data-uploadto.\nwhenReady(function() {\n\n496          Parte II     JavaScript do lado do cliente\n    var elts =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2844,
+    "totalChunks": 10000
+  }
+}

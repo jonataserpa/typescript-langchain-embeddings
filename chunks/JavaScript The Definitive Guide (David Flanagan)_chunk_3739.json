@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3739",
+  "content": "us N do equador\n        var longitude = pos.coords.longitude;    // Graus E de Greenwich\n        var accuracy = pos.coords.accuracy;      // Metros\n        // Constrói um URL para uma imagem estática de mapa do Google dessa localização\n        var url = \"http://maps.google.com/maps/api/staticmap\" +\n        \"?center=\" + latitude + \",\" + longitude +\n        \"&size=640x640&sensor=true\";\n\nCapítulo 22     APIs de HTML5      655\nJavaScript do\n lado do cliente\n    // Configura o nível de zoom do mapa usando uma heurística aproximada\n    var    zoomlevel=20;         // Começa com zoom durante quase",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3739,
+    "totalChunks": 10000
+  }
+}

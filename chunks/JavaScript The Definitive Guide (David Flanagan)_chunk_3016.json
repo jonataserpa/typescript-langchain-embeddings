@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3016",
+  "content": "aScript do\n lado do cliente\n$(\"<hr/>\").insertBefore(\"h1\");                  // Insere regra antes de <h1>s\n$(\"<hr/>\").insertAfter(\"h1\");                   // Insere regra após <h1>s\n$(\"<br/>\").replaceAll(\"hr\");                    // Substitui <hr/> por <br/>\n19.3.2   Copiando   elementos\nConforme mencionado, se você inserir elementos que já fazem parte do documento, eles serão sim-\nplesmente movidos (e não copiados) para seu novo local. Se você estiver inserindo os elementos em \nmais de um lugar, a jQuery fará as cópias necessárias, mas não serão feitas no caso de apenas uma \ninserção. Se",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3016,
+    "totalChunks": 10000
+  }
+}

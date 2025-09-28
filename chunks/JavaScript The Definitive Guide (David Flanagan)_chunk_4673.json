@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4673",
+  "content": "eets\nUm conjunto de objetos representando todas as folhas de estilo incorporadas ou vinculadas \na um documento. Em documentos HTML, isso inclui as folhas de estilo definidas com tags \n<link> e <style>.\nstring title\nO conteúdo de texto puro da tag <title> desse documento.\nreadonly string URL\nO URL a partir do qual o documento foi carregado. Esse valor é frequentemente o mesmo \nda propriedade location.href, mas se um script mudar o identificador de fragmento (a pro-\npriedade location.hash), a propriedade location e a propriedade URL não vão mais se referir ao \nmesmo URL. Não confunda",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4673,
+    "totalChunks": 10000
+  }
+}

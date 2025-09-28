@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2202",
+  "content": "s de formulário\nOs formulários e os elementos que eles contêm podem ser selecionados em um documento usando-\n-se métodos padrão, como \ngetElementById() e getElementsByTagName():\nvar fields = document.getElementById(\"address\").getElementsByTagName(\"input\");\nNos navegadores que suportam querySelectorAll(), você poderia selecionar todos os botões de op-\nção ou todos os elementos com o mesmo nome de um formulário com código como o seguinte:\n// Todos os botões de opção do formulário com identificação \"shipping\"\ndocument.querySelectorAll('#shipping input[type=\"radio\"]');\n// Todos os botões de opção",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2202,
+    "totalChunks": 10000
+  }
+}

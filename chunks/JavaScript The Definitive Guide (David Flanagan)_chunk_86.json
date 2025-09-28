@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_86",
+  "content": "nstâncias dessa classe têm um único método chamado r() que calcula a \ndistância do ponto a partir da origem:\n// Define uma função construtora para inicializar um novo objeto Point\nfunction Point(x,y) {        //  Por convenção, as construtoras começam com letras \n                           //    maiúsculas\n    this.x = x;             //  A palavra-chave this é o novo objeto que está sendo \n                           //    inicializado\n    this.y = y;             //  Armazena os argumentos da função como propriedades do \n                           //    objeto\n}                           //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 86,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4269",
+  "content": "unções JavaScript:\nfunction log10(x) { return Math.LOG10E * Math.log(x); }\nfunction log2(x) { return Math.LOG2E * Math.log(x); }\nMath.LOG10E\na constante matemática log\n10\ne\nSinopse\nMath.LOG10E\nDescrição\nMath.LOG10E é log\n10\ne\n, o logaritmo de base 10 da constante e. O valor aproximado dessa constante é \n0,43429448190325181667.\nMath.LOG2E\na constante matemática log\n2\ne\n\n      Referência de JavaScript básica      781\nReferência de \nJavaScript básica\nSinopse\nMath.LOG2E\nDescrição\nMath.LOG2E é log\n2\ne\n, o logaritmo de base 2 da constante e. O valor aproximado dessa constante é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4269,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_573",
+  "content": "os os objetos têm um método toString(), por exemplo, mas o laço for/in não enumera \nessa propriedade toString. Além dos métodos internos, muitas outras propriedades dos objetos in-\nternos não são enumeráveis. Contudo, todas as propriedades e métodos definidos pelo seu código \nsão enumeráveis. (Mas, em ECMAScript 5, é possível torná-los não enumeráveis usando as técnicas \nexplicadas na Seção 6.7.) As propriedades herdadas definidas pelo usuário (consulte a Seção 6.2.2) \ntambém são enumeradas pelo laço\n for/in.\nSe o corpo de um laço \nfor/in exclui uma propriedade que ainda não foi enumerada,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 573,
+    "totalChunks": 10000
+  }
+}

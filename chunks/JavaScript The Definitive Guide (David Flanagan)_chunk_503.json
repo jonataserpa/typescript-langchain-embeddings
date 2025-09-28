@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_503",
+  "content": "console.log(i+j);\n\nO Capítulo 4 descreveu as expressões em JavaScript como frases. De acordo com essa analogia, ins-\ntruções são sentenças ou comandos em JavaScript. Assim como as sentenças nos idiomas humanos \nsão terminadas e separadas por pontos-finais, as instruções em JavaScript são terminadas com ponto \ne vírgula (Seção 2.5). As expressões são avaliadas para produzir um valor, mas as instruções são exe-\ncutadas para fazer algo acontecer.\nUma  maneira  de  “fazer  algo  acontecer”  é  avaliar  uma  expressão  que  tenha  efeitos  colaterais.  As  \nexpressões com efeitos colaterais,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 503,
+    "totalChunks": 10000
+  }
+}

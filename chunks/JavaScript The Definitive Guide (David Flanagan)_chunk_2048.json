@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2048",
+  "content": "d, lastChild\nO primeiro e o último nós filhos de um nó, ou null se o nó não tem filhos.\nnextSibling, previousSibling\nO nó irmão próximo e anterior de um nó. Dois nós com o mesmo pai são irmãos. Sua ordem \nreflete a ordem na qual aparecem no documento. Essas propriedades conectam nós em uma \nlista duplamente encadeada.\nnodeType\nO tipo do nó. Os nós Document têm o valor 9. Os nós Element têm o valor 1. Os nós Text \ntêm o valor 3. Os nós Comments são 8 e os nós DocumentFragment são 11.\nnodeValue\nO conteúdo textual de um nó Text ou Comment.\n\n362          Parte II     JavaScript do lado do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2048,
+    "totalChunks": 10000
+  }
+}

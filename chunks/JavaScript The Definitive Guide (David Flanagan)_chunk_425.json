@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_425",
+  "content": "s valores são NaN, eles não são iguais. O valor NaN nunca é igual a qualquer \noutro valor, incluindo ele mesmo! Para verificar se um valor x é NaN, use x !== x. NaN é o único \nvalor de x para o qual essa expressão será verdadeira.\n •   Se os dois valores são números e têm o mesmo valor, eles são iguais. Se um valor é \n0 e o outro \né -0, eles também são iguais.\n •   Se os dois valores são strings e contêm exatamente os mesmos valores de 16 bits (consulte o \nquadro na Seção 3.2) nas mesmas posições, eles são iguais. Se as strings diferem no compri-\nmento ou no conteúdo, eles não são iguais.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 425,
+    "totalChunks": 10000
+  }
+}

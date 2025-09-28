@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4926",
+  "content": "onder para ser considerada vá-\nlida. Essa propriedade usa sintaxe de expressão regular de JavaScript (sem as barras à esquerda \ne à direita), mas note que a propriedade é uma string e não um objeto RegExp. Note também \nque, para ser considerada válida, a string de entrada inteira deve corresponder ao padrão e não \napenas uma substring. (É como se o padrão começasse com ^ e terminasse com $.) Essa pro-\npriedade espelha o atributo pattern.\nstring placeholder\nUma string de texto curta que vai aparecer dentro do elemento Input como um prompt para o \nusuário. Quando o usuário focalizar o elemento,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4926,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1171",
+  "content": "vai ocorrer um erro quando nosso código tentar chamar um método inexistente. Outra \nestratégia faz a verificação dos objetos de entrada. Entretanto, em vez de verificar suas classes, ela \nverifica se eles implementam métodos com os nomes apropriados. Isso nos permite rejeitar más en-\ntradas mais cedo e pode resultar em mensagens de erro mais informativas.\nO Exemplo 9-5 define uma função \nquacks() (“implements” seria um nome melhor, mas implements é \numa palavra reservada) que pode ser útil na tipagem do pato. quacks() testa se um objeto (o primeiro \nargumento) implementa os métodos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1171,
+    "totalChunks": 10000
+  }
+}

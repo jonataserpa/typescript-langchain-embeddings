@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2060",
+  "content": "== 1; e = e.nextSibling)\n                  /*    vazio    */;\n  }\n        return sibling(e, n);   // Retorna o n-ésimo irmão do primeiro filho\n }\n     else {             // n é negativo; portanto, conta para trás a partir do fim\n        if (e.lastElementChild) e = e.lastElementChild;\n        else    {\n            for(e = e.lastChild; e && e.nodeType !== 1; e=e.previousSibling)\n                  /*    vazio    */;\n  }\n        return sibling(e, n+1); // +1 para converter filho -1 para irmão 0 do último\n }\n}\n5\n  O IE8 suporta protótipos que podem ser estendidos para Element, HTMLDocument e Text,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2060,
+    "totalChunks": 10000
+  }
+}

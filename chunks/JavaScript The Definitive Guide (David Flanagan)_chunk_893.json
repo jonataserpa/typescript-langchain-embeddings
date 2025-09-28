@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_893",
+  "content": "muito úteis ao se trabalhar com objetos \nsemelhantes a um array, mas como não são padronizadas, não se pode contar com o fato de estarem \ndefinidas em todos os navegadores. Você pode escrever código como o seguinte para garantir que as \nfunções necessárias existam, antes de utilizá-las:\nArray.join = Array.join || function(a,sep) {\n    return    Array.prototype.join.call(a,sep);\n};\nArray.slice = Array.slice || function(a,from,to) {\n    return    Array.prototype.slice.call(a,from,to);\n};\nArray.map = Array.map || function(a, f, thisArg) {\n    return Array.prototype.map.call(a, f,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 893,
+    "totalChunks": 10000
+  }
+}

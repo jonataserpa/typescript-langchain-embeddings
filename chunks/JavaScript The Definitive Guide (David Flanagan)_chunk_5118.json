@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5118",
+  "content": "opriedade espelha o atributo value. \nSe o atributo existe, o elemento Progress é determinado. Se não existe, o elemento Progress \né indeterminado. Para trocar do modo determinado para indeterminado (por causa de um \nevento em impasse de um MediaElement, por exemplo), você pode usar o método removeAt-\ntribute() de Element.\nProgressEvent\nprogresso de download, upload ou leitura de arquivo Event\nApplicationCache, FileReader e o objeto (nível 2) XMLHttpRequest disparam eventos Progress para \ninformar aos aplicativos interessados do progresso do processo de transferência de dados, como um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5118,
+    "totalChunks": 10000
+  }
+}

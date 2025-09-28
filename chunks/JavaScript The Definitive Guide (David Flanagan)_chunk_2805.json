@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2805",
+  "content": "ria ser como a seguinte:\nfind=pizza&zipcode=02134&radius=1km\nEste formato de codificação de dados de formulário tem um tipo MIME formal:\napplication/x-www-form-urlencoded\nVocê deve configurar o cabeçalho de requisição “Content-Type” com esse valor ao postar (com \nPOST) dados de formulário desse tipo.\nNote que esse tipo de codificação não exige um formulário HTML e, na verdade, não vamos tra-\nbalhar diretamente com formulários neste capítulo. Nos aplicativos Ajax, é provável que exista um \nobjeto JavaScript que você queira enviar para o servidor. (Esse objeto pode ser extraído da entrada \ndo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2805,
+    "totalChunks": 10000
+  }
+}

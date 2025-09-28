@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4457",
+  "content": "bstring desejada com uma posição de caractere e um comprimento. \nIsso fornece uma alternativa útil a String.substring() e String.splice(), que especificam uma subs-\ntring com duas posições de caractere. Note, entretanto, que esse método não foi padronizado por \nECMAScript e, portanto, é desaprovado.\nExemplo\nvar s = \"abcdefg\";\ns.substr(2,2);   //   Retorna   \"cd\"\ns.substr(3);     // Retorna \"defg\"\ns.substr(-3,2);  // Deve retornar \"ef\"; retorna \"ab\" no IE 4\nErros\nValores negativos para início não funcionam no IE. Em vez de especificar uma posição de caractere \nmedida a partir do fim da string,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4457,
+    "totalChunks": 10000
+  }
+}

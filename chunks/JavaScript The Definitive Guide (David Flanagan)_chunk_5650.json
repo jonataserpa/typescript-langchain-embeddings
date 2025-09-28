@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5650",
+  "content": "odo toLocaleUpperCase( ), 835–836\n        método toLowerCase( ), 73, 835–836\n        método toSting( ), 835–836\n        método toUpperCase( ), 73, 836–837\n        método trim( ), 836–837\n        método valueOf( ), 836–837\n        métodos,    listados,    819–820\n        métodos    HTML,    820–821\n        propriedade    length,    826–827\n    objetos wrapper, 42\n    propriedades acessadas com notação [ ], 118\n    trabalhando com, 37\n    valores em folha de estilo ou atributo de estilo, \n421\nstrings literais, 35\n    sequências de escape em, 36\nstrings vazias, 35\nstroke( ),",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5650,
+    "totalChunks": 10000
+  }
+}

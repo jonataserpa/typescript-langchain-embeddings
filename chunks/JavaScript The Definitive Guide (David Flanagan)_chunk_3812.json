@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3812",
+  "content": "close(), por ser uma boa ideia postar primeiro algum tipo de mensagem \n“fechando”.\nA função global mais interessante definida por WorkerGlobalScope é \nimportScripts(): os workers \nutilizam essa função para carregar qualquer código de biblioteca que exijam. Por exemplo:\n// Antes de começarmos a trabalhar, carregamos as classes e os utilitários de que \n// precisaremos\nimportScripts(\"collections/Set.js\", \"collections/Map.js\", \"utils/base64.js\");\nimportScripts()\n recebe um ou mais argumentos de URL, cada um dos quais deve se referir a um \narquivo de código JavaScript. Os URLs relativos são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3812,
+    "totalChunks": 10000
+  }
+}

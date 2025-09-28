@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_510",
+  "content": "Mas poderia calcular o valor e atribuí-lo a uma variável para uso futuro:\ncx = Math.cos(x);\nNote que cada linha de código de cada um desses exemplos é terminada com um ponto e vírgula.\n5.2   Instruções compostas e vazias\nAssim como o operador vírgula (Seção 4.13.5) combina várias expressões em uma, um bloco de \ninstruções combina várias instruções em uma única instrução composta. Um bloco de instruções é \nsimplesmente uma sequência de instruções colocadas dentro de chaves. Assim, as linhas a seguir \natuam como uma única instrução e podem ser usadas em qualquer lugar em que JavaScript espere",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 510,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5119",
+  "content": "a \ninformar aos aplicativos interessados do progresso do processo de transferência de dados, como um \ndownload ou upload da rede ou uma leitura de arquivo. Eventos desse tipo são conhecidos generi-\ncamente como eventos Progress, mas apenas um deles realmente se chama “progress”. Outros eventos \nProgress disparados por FileReader e XMLHttpRequest são loadstart, load, loadend, error e abort. \nXMLHttpRequest também dispara um evento Progress timeout. ApplicationCache dispara vários \neventos, mas somente o que se chama “progress” é um evento Progress do tipo descrito aqui.\nOs eventos Progress são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5119,
+    "totalChunks": 10000
+  }
+}

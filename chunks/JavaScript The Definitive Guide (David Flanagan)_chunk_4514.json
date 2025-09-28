@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4514",
+  "content": "rência de \nJavaScript do lado \ndo cliente\nstring formTarget\nEssa propriedade espelha o atributo HTML formtarget. Para botões de envio, anula a proprie-\ndade target do formulário.\nCanvas\num elemento HTML para scripts de desenho Node, Element\nO objeto Canvas representa um elemento HTML canvas. Não tem comportamento próprio, mas \ndefine uma API que suporta operações de desenho em scripts do lado do cliente. Você pode especifi-\ncar \nwidth e height diretamente nesse objeto e pode extrair uma imagem do canvas com toDataURL(), \nmas a API real de desenho é implementada por um objeto “contexto”",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4514,
+    "totalChunks": 10000
+  }
+}

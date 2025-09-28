@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3938",
+  "content": "},\n                           logerr);  // Registra um erro de getFile()\n}\n\n688          Parte II     JavaScript do lado do cliente\n// Cria um novo diretório com o nome especificado\nfunction makeDirectory(name, callback) {\n    filesystem.root.getDirectory(name,                    // Nome do diretório a criar\n                                      {                          //    Opções\n                          create: true,        // Cria, caso não exista\n                          exclusive:true       // Erro se não existir\n                 },\n                       callback,       //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3938,
+    "totalChunks": 10000
+  }
+}

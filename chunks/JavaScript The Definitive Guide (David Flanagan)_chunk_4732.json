@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4732",
+  "content": "ltado da \nanálise do novo valor como um fragmento de documento HTML ou XML.\nreadonly string prefix\nO prefixo de namespace para esse elemento. Normalmente é null, a não ser que você esteja \ntrabalhando com um documento XML que utilize espaço de nomes.\nreadonly Element previousElementSibling\nEssa propriedade é como a propriedade previousSibling de Node, mas ignora nós Text e Com-\nment e retorna apenas Elements.\nreadonly long scrollHeight\nreadonly long scrollWidth\nA altura e largura globais, em pixels, de um elemento. Quando um elemento tem barras \nde rolagem (por causa do atributo CSS overflow,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4732,
+    "totalChunks": 10000
+  }
+}

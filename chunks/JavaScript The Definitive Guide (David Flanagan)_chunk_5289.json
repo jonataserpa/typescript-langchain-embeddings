@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5289",
+  "content": "is \nusuário e pass especificam um nome de usuário e uma senha para usar \ncom a requisição HTTP.\nvoid overrideMimeType(string mime)\nEsse método especifica se a resposta do servidor deve ser interpretada de acordo com o tipo mime \ndesignado (e parâmetro de conjunto de caracteres, se isso for incluído), em vez de usar o cabeçalho \nContent-Type da resposta.\nvoid send(any corpo)\nEsse método faz uma requisição HTTP ser emitida. Se não havia uma chamada anterior para open() \nou, de forma mais geral, se \nreadyState não é 1, send() lança uma exceção. Caso contrário, faz uma \nrequisição HTTP",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5289,
+    "totalChunks": 10000
+  }
+}

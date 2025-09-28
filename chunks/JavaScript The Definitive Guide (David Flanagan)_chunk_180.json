@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_180",
+  "content": "para um valor e permite que o valor seja referido pelo nome. O funciona-\nmento das variáveis é outra característica fundamental de qualquer linguagem de programação. Este \ncapítulo explica os tipos, valores e variáveis em JavaScript. Os parágrafos introdutórios fornecem \numa visão geral, sendo que talvez você ache útil consultar a Seção 1.1 enquanto os lê. As seções a \nseguir abordam esses temas em profundidade.\nOs tipos de JavaScript podem ser divididos em duas categorias: tipos primitivos e tipos de objeto. Os \ntipos primitivos de JavaScript incluem números, sequências de texto (conhecidas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 180,
+    "totalChunks": 10000
+  }
+}

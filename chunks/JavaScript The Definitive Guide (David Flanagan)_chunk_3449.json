@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3449",
+  "content": "id=\"statusline\"></div>\n </body>\n</html>\nPor fim, o Exemplo 20-7 lista o código JavaScript que faz o aplicativo Web PermaNote funcionar. \nEle define uma função \nstatus() para exibir mensagens na linha de status, uma função save() para \nsalvar a versão atual da anotação no servidor e uma função \nsync() para garantir que a cópia do ser-\nvidor e a cópia local estejam sincronizadas. As funções \nsave() e sync() utilizam técnicas de scripts \nHTTP do Capítulo 18. (Curiosamente, a função \nsave() usa o método HTTP “PUT”, em vez do \nmétodo POST, muito mais comum.)\nAlém dessas três funções básicas, o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3449,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2729",
+  "content": "rotina de tratamento retornou\n        return    retval;\n }\n};\n// Função utilitária para converter um identificador de tecla para a forma canônica.\n// Em hardware não Macintosh, poderíamos mapear \"meta\" em \"ctrl\" aqui, para que\n// Meta-C fosse \"Command-C\" no Mac e \"Ctrl-C\" em outros lugares.\nKeymap.normalize = function(keyid) {\n    keyid = keyid.toLowerCase();                // Tudo em minúsculas\n    var words = keyid.split(/\\s+|[\\-+_]/);       // Separa as modificadoras do nome\n    var keyname = words.pop();                  // keyname é a última palavra\n     keyname = Keymap.aliases[keyname]",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2729,
+    "totalChunks": 10000
+  }
+}

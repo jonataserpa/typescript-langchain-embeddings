@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_531",
+  "content": "mais caminhos e o interpretador deve escolher qual caminho seguir.\nAs subseções a seguir explicam a condicional básica de JavaScript, a instrução \nif/else e também \nabordam switch, uma instrução de ramificação em múltiplos caminhos, mais complicada.\n5.4.1   if\nA instrução if é a instrução de controle fundamental que permite à linguagem JavaScript tomar \ndecisões ou, mais precisamente, executar instruções condicionalmente. Essa instrução tem duas for-\nmas. A primeira é:\nif (expressão)\n    instrução\nNessa forma, a expressão é avaliada. Se o valor resultante é verdadeiro, a instrução é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 531,
+    "totalChunks": 10000
+  }
+}

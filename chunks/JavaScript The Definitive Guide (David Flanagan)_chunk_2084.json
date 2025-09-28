@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2084",
+  "content": "de attributes. Essa propriedade é null para todos os nós que não são objetos Ele-\nment. Para objetos Element, attributes é um objeto semelhante a um array somente para leitura que \nrepresenta todos os atributos do elemento. O objeto attributes é dinâmico como os NodeLists. Ele \npode ser indexado numericamente, ou seja, é possível enumerar todos os atributos de um elemento. \nE também pode ser indexado por nome de atributo:\ndocument.body.attributes[0]         // O primeiro atributo do elemento <body>\ndocument.body.attributes.bgcolor     // O atributo bgcolor do elemento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2084,
+    "totalChunks": 10000
+  }
+}

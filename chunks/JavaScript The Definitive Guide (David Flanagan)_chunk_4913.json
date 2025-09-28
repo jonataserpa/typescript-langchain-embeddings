@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4913",
+  "content": "ura intrínseca da imagem.\nreadonly unsigned long naturalWidth\nA largura intrínseca da imagem.\nstring src\nO URL da imagem. Configurar essa propriedade faz a imagem especificada ser carregada. Se o \nobjeto Image foi inserido no documento, a nova imagem será exibida.\nunsigned long width\nA largura, em pixels CSS, com que a imagem é realmente exibida na tela. Você pode configu-\nrar isso para mudar o tamanho da imagem na tela.\nImageData\num array de dados de pixel de um <canvas>\nUm objeto ImageData contém as componentes vermelho, verde, azul e alfa (transparência) de uma \nregião retangular de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4913,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_734",
+  "content": "ação é determinada pela presença ou ausência de um método setter. Assim, os \nquatro atributos de uma propriedade de acesso são: get, set, enumerável e configurável.\nOs métodos de ECMAScript 5 para consultar e configurar os atributos de uma propriedade utili-\nzam um objeto chamado descritor de propriedade para representar o conjunto de quatro atributos. \nUm objeto descritor de propriedade tem propriedades com os mesmos nomes dos atributos da \npropriedade que descreve. Assim, o objeto descritor de uma propriedade de dados tem proprie-\ndades chamadas \nvalue, writable, enumerable e configurable.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 734,
+    "totalChunks": 10000
+  }
+}

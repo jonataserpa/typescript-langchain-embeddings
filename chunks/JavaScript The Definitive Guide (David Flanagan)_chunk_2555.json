@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2555",
+  "content": "gadores.\nAlém de descrever como as rotinas de tratamento individuais são chamadas, esta seção também \nexplica como os eventos se propagam: como um único evento pode disparar a chamada de várias \nrotinas de tratamento no alvo do evento original e também nos elementos contêineres do docu-\nmento.\n17.3.1   Argumento de rotina de tratamento de evento\nAs rotinas de tratamento de evento normalmente (existe uma exceção, descrita a seguir) são cha-\nmadas com um objeto evento como único argumento. As propriedades do objeto evento fornecem \ndetalhes sobre o evento. A propriedade type, por exemplo,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2555,
+    "totalChunks": 10000
+  }
+}

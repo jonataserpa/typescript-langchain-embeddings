@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1353",
+  "content": "escrevem maneiras simples de fazer isso. Você vai ver \nque escrever código modular em JavaScript não é nada difícil: ao longo deste livro, vimos exemplos \ndas técnicas descritas aqui.\n9.9.1   Objetos como namespaces\nUma maneira de um módulo evitar a criação de variáveis globais é usar um objeto como seu espaço \nde nome. Em vez de definir funções e variáveis globais, ele armazena as funções e os valores como \npropriedades de um objeto (o qual pode ser referenciado por uma variável global). Considere a classe \nSet do Exemplo 9-6. Ela define uma única função construtora global \nSet. Ela define",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1353,
+    "totalChunks": 10000
+  }
+}

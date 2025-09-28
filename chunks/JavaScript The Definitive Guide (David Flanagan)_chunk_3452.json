@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3452",
+  "content": ".\nononline\nQuando o navegador volta a ficar online, sincroniza com o servidor, procurando uma versão \nmais recente e salvando a versão atual.\nonupdateready\nSe uma nova versão do aplicativo colocado na cache está pronta, exibe uma mensagem na \nlinha de status para permitir que o usuário saiba disso.\n\n596          Parte II     JavaScript do lado do cliente\nonnoupdate\nSe a cache de aplicativo não mudou, permite que o usuário saiba que está executando a versão \natual.\nCom essa visão geral da lógica dirigida por eventos de PermaNote, aqui está o Exemplo 20-7.\nExemplo 20-7 permanote.js\n// Algumas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3452,
+    "totalChunks": 10000
+  }
+}

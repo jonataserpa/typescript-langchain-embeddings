@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2433",
+  "content": "io, remove todas as ocorrências de c de e.className e retorna false.\nCSSClassList.prototype.toggle = function(c) {\n    if (this.contains(c)) {     // Se e.className contém c\n        this.remove(c);         // então o remove.\n        return    false;\n }\n    else {            // Caso contrário:\n        this.add(c);  // o adiciona.\n        return    true;\n }\n\nCapítulo 16     Escrevendo script de CSS      429\nJavaScript do\n lado do cliente\n};\n// Retorna e.className em si\nCSSClassList.prototype.toString = function() { return this.e.className; };\n// Retorno dos nomes em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2433,
+    "totalChunks": 10000
+  }
+}

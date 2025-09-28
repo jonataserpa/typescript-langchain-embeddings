@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1159",
+  "content": "N, retorna \"nan\".\n *    -Se typeof retorna um valor diferente de \"object\", retorna esse valor.\n *    (Note que algumas implementações identificam regexps como funções.)\n *    -Se a classe de o é qualquer coisa diferente de \"Object\", retorna isso.\n *    -Se o tem uma construtora e essa construtora tem um nome, retorna-o.\n *    -Caso contrário, apenas retorna \"Object\".\n**/\nfunction type(o) {\n    var t, c, n; // tipo, classe, nome\n    // Caso especial para o valor null:\n    if (o === null) return \"null\";\n    // Outro caso especial: NaN é o único valor que não é igual a si mesmo:\n    if (o !== o)",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1159,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3547",
+  "content": "2='30.00' y2='84.64'/>\n      <line x1='11.03' y1='72.50' x2='15.36' y2='70.00'/>\n\n616          Parte II     JavaScript do lado do cliente\n      <line x1='5.000' y1='50.00' x2='10.00' y2='50.00'/>\n      <line x1='11.03' y1='27.50' x2='15.36' y2='30.00'/>\n      <line x1='27.50' y1='11.03' x2='30.00' y2='15.36'/>\n    </g>\n    <g id=\"numbers\">      <!-- Numera os pontos cardeais -->\n      <text x=\"50\" y=\"18\">12</text><text x=\"85\" y=\"53\">3</text>\n      <text x=\"50\" y=\"88\">6</text><text x=\"15\" y=\"53\">9</text>\n    </g>\n    <!-- Desenha os ponteiros apontando para cima. Os giramos no código. -->",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3547,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3350",
+  "content": "a do IE. Se você usa a API baseada em métodos, pode escrever código que utilize \nlocalStorage quando estiver disponível e recorrer a um dos outros mecanismos de armazenamento \nnos outros navegadores. Seu código poderia começar como segue:\n// Descobre que memória estou usando\nvar memory = window.localStorage ||\n            (window.UserDataStorage && new UserDataStorage()) ||\n            new    CookieStorage();\n// Em seguida, pesquisa minha memória\nvar username = memory.getItem(\"username\");\n20.1.3   Eventos de armazenamento\nQuando os dados armazenados em localStorage ou sessionStorage mudam, o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3350,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1696",
+  "content": "a de \nestilos CSS. Observe que esse exemplo tem uma estrutura semelhante ao Exemplo 13-1 e utiliza o \nmecanismo de tratamento de evento onload da mesma maneira.\nExemplo 13-2 Um relógio digital simples em JavaScript\n<!DOCTYPE html>        <!-- Este é um arquivo HTML5 -->\n<html>                <!-- O elemento raiz -->\n<head>                <!-- Título, scripts e estilos ficam aqui -->\n<title>Digital Clock</title>\n<script>                               // Um script de código js\n// Define uma função para exibir a hora atual\nfunction displayTime() {\n    var elt = document.getElementById(\"clock\");",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1696,
+    "totalChunks": 10000
+  }
+}

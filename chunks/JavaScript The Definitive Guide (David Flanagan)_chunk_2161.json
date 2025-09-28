@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2161",
+  "content": "o Standards\n    var d = w.document;\n    if (document.compatMode == \"CSS1Compat\")\n        return { w: d.documentElement.clientWidth,\n                 h: d.documentElement.clientHeight };\n    // Para navegadores no modo Quirks\nreturn { w: d.body.clientWidth, h: d.body.clientWidth };\n}\nOs  dois  exemplos  anteriores  utilizaram  as  propriedades  scrollLeft, scrollTop, clientWidth  e  \nclientHeight. Vamos encontrar essas propriedades novamente na Seção 15.8.5.\n15.8.2   Consultando a geometria de um elemento\nA maneira mais fácil de determinar o tamanho e a posição de um elemento é chamando seu",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2161,
+    "totalChunks": 10000
+  }
+}

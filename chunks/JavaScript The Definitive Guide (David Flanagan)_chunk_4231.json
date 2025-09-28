@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4231",
+  "content": "ou incorporação de JavaScript pode usar \num objeto de qualquer tipo como objeto global, desde que o objeto defina as propriedades e funções \nbásicas listadas aqui. Em JavaScript do lado do cliente, por exemplo, o objeto global é um objeto \nWindow e representa a janela do navegador Web dentro da qual o código JavaScript está sendo \nexecutado.\nExemplo\nEm JavaScript básica, nenhuma das propriedades predefinidas do objeto global é enumerável; por-\ntanto, você pode listar todas as variáveis globais declaradas implícita e explicitamente com um laço \nfor/in, como segue:\nvar variables = \"\"\nfor(var",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4231,
+    "totalChunks": 10000
+  }
+}

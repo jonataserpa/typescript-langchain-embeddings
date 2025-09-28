@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_703",
+  "content": "um objeto testa se esse objeto tem uma propriedade própria com o \nnome dado. Ele retorna false para propriedades herdadas:\nvar o = { x: 1 }\no.hasOwnProperty(\"x\"); // verdadeiro: o tem uma propriedade própria x\no.hasOwnProperty(\"y\"); // falso: o não tem uma propriedade y\no.hasOwnProperty(\"toString\");   // falso: toString é uma propriedade herdada\nO método propertyIsEnumerable() refina o teste de hasOwnProperty(). Ele retorna true somente se \na propriedade nomeada é uma propriedade própria e seu atributo enumerável é true. Certas pro-\npriedades internas não são enumeráveis. As propriedades",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 703,
+    "totalChunks": 10000
+  }
+}

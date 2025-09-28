@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3647",
+  "content": "e desenho com esse preenchimento \n// translúcido\n21.4.8   Atributos de desenho de linhas\nVocê já viu a propriedade lineWidth, que especifica a largura das linhas desenhadas por stroke() e \nstrokeRect(). Além de lineWidth (e strokeStyle, é claro), existem outros três atributos gráficos que \nafetam o desenho de linhas.\nO valor padrão da propriedade \nlineWidth é 1 e ela pode ser configurada com qualquer número posi-\ntivo, mesmo valores fracionários menores do que 1. (Linhas menores do que um pixel de largura são \ndesenhadas com cores translúcidas, de modo que parecem menos escuras do que as",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3647,
+    "totalChunks": 10000
+  }
+}

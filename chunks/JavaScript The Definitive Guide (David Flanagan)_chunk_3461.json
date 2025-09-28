@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3461",
+  "content": "status(\"Newer note found on server.\");\n                  var    useit    =\n                     confirm(\"There is a newer version of the note\\n\" +\n                             \"on the server. Click Ok to use that version\\n\"+\n                             \"or click Cancel to continue editing this\\n\"+\n                             \"version and overwrite the server\");\n                var now = Date.now();\n                  if    (useit)    {\n                     editor.value = localStorage.note = xhr.responseText;\n\n598          Parte II     JavaScript do lado do cliente",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3461,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_85",
+  "content": "etorna o fatorial\n}\nfactorial2(5)                    // => 120: 1*2*3*4*5\nJavaScript é uma linguagem orientada a objetos, mas é bastante diferente da maioria. O Capítulo 9, \nClasses e módulos, aborda com detalhes a programação orientada a objetos em JavaScript, com mui-\ntos exemplos, sendo um dos capítulos mais longos do livro. Aqui está um exemplo muito simples \nque demonstra como definir uma classe JavaScript para representar pontos geométricos bidimen-\nsionais. Os objetos que são instâncias dessa classe têm um único método chamado r() que calcula a \ndistância do ponto a partir da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 85,
+    "totalChunks": 10000
+  }
+}

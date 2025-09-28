@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_459",
+  "content": "o. Isso significa que \n! sempre retorna true ou false e que é possível converter qualquer valor x em seu valor booleano \nequivalente aplicando esse operador duas vezes: !!x (consulte a Seção 3.8.2).\nComo um operador unário, \n! tem precedência alta e se vincula fortemente. Se quiser inverter o valor \nde uma expressão como p && q, você precisa usar parênteses: !(p && q). É interessante notar dois \nteoremas da álgebra booleana aqui, que podemos expressar usando sintaxe JavaScript:\n// Estas duas igualdades valem para qualquer valor de p e q\n!(p && q) === !p || !q\n!(p || q) === !p && !q\n4.11",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 459,
+    "totalChunks": 10000
+  }
+}

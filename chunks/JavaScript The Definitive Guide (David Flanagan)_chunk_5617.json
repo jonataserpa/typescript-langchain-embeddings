@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5617",
+  "content": "977\npropriedade width\n    objeto ClientRect, 865\n    objeto IFrame, 924\n    objeto    TextMetrics,    979\npropriedade window, objeto Window, 300, 988\npropriedade z-index, 411\npropriedades\n    atributos dataset convertidos em, 367\n    atributos de, 113, 128–131\n    classe,    193\n    consultando e confi gurando, 117–121\n        erros de acesso, 120\n        objetos como arrays associativos, 117\n        propriedades    herdadas,    119\n    convenções de atribuição de nomes para proprie-\ndades CSS em JavaScript, 420\n    convertendo nomes de atributo HTML em, 366\n    defi nidas, 112",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5617,
+    "totalChunks": 10000
+  }
+}

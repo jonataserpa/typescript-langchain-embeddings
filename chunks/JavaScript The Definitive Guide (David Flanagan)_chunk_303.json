@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_303",
+  "content": "lmente convertem as fun-\nções definidas pelo usuário em strings de código-fonte JavaScript. A classe Date define um método \ntoString() que retorna uma string de data e hora legível para seres humanos (e que pode ser analisa-\nda por JavaScript). A classe RegExp define um método toString() que converte objetos RegExp em \numa string semelhante a um literal RegExp:\n[1,2,3].toString()         // => \"1,2,3\"\n(function(x) { f(x); }).toString()   // => \"function(x) {\\n    f(x);\\n}\"\n/\\d+/g.toString()          // => \"/\\\\d+/g\"\nnew Date(2010,0,1).toString()       // => \"Sexta-feira 01 de Janeiro de 2010",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 303,
+    "totalChunks": 10000
+  }
+}

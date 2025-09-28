@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3242",
+  "content": "zero ou mais filtros. Os filtros são aplicados da esquerda para a direita, na ordem em que aparecem, \ne cada um reduz o conjunto de elementos selecionados. A Tabela 19-1 lista os filtros suportados \npela jQuery.\nTabela 19-1 Filtros seletores da jQuery\nFiltroSignificado\n#identificação\nCorresponde ao elemento com atributo id identificação. Os documentos HTML válidos nunca \ntêm mais de um elemento com a mesma identificação, de modo que esse filtro normalmente é usado \ncomo seletor independente.\n.classe\nCorresponde aos elementos cujo atributo class (quando interpretado como uma lista de palavras",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3242,
+    "totalChunks": 10000
+  }
+}

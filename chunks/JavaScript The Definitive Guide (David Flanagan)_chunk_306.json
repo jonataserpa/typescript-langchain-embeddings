@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_306",
+  "content": "ndos desde 1º de janeiro de 1970:\nvar d = new Date(2010, 0, 1);   // 1º de janeiro de 2010, (hora do Pacífico)\nd.valueOf()            // => 1262332800000\nExplicados os métodos toString() e valueOf(), podemos agora abordar as conversões de objeto para \nstring e de objeto para número. Note, contudo, que existem alguns casos especiais nos quais Java-\nScript realiza uma conversão diferente de objeto para valor primitivo. Esses casos especiais estão \nabordados no final desta seção.\nPara converter um objeto em uma string, JavaScript executa estas etapas:\n •   Se o objeto tem um método \ntoString(),",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 306,
+    "totalChunks": 10000
+  }
+}

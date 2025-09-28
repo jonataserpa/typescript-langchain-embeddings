@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1493",
+  "content": "nte.\nO último uso da palavra-chave let é uma variante do bloco let, na qual uma lista de variáveis e \ninicializadoras colocadas entre parênteses é seguida por uma única expressão, em vez de um bloco \nde instruções. Isso se chama expressão let e o código anterior poderia ser reescrito para utilizá-la, \ncomo segue:\nlet x=1, y=2;\nconsole.log(let (x=x+1,y=x+2) x+y);  // Imprime 5\nAlguma forma de const e let (não necessariamente todas as quatro formas descritas aqui) provavel-\nmente será incluída em uma futura versão do padrão ECMAScript.\n11.3   Atribuição de desestruturação\nO Spidermonkey 1.7",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1493,
+    "totalChunks": 10000
+  }
+}

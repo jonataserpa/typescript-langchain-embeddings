@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2115",
+  "content": "var val2 = cell2.textContent || cell2.innerText;  // das duas células\n        if (comparator) return comparator(val1, val2);    // Compara-os!\n        if (val1 < val2) return -1;\n        else if (val1 > val2) return 1;\n        else return 0;\n    });\n\n374          Parte II     JavaScript do lado do cliente\n    // Agora anexa as linhas no tbody, em sua ordem classificada.\n    // Isso as move automaticamente de sua posição atual; portanto, não há\n    // necessidade de removê-las primeiro. Se o <tbody> contiver quaisquer\n    // nós que não sejam elementos <tr>, esses nós vão flutuar para o topo.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2115,
+    "totalChunks": 10000
+  }
+}

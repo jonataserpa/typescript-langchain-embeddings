@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1737",
+  "content": "a programação com JavaScript simples e será discutido na \nSeção 13.3.3.\n13.3.1   Scripts síncronos, assíncronos e adiados\nQuando JavaScript foi adicionada pela primeira vez nos navegadores Web, não havia qualquer API \npara percorrer e manipular a estrutura e o conteúdo de um documento. A única maneira pela qual o \ncódigo JavaScript podia afetar o conteúdo de um documento era gerando esse conteúdo dinamica-\nmente, enquanto o documento estava sendo carregado. Isso era feito usando-se o método document.\nwrite(). O Exemplo 13-3 mostra como era o estado da arte do código JavaScript em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1737,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4319",
+  "content": "serão criadas ou configuradas.\ndescritores\nUm objeto que mapeia nomes de propriedade em descritores de propriedade.\nRetorna\nO objeto \no.\nLança\nTypeError\nSe o não é um objeto ou se qualquer uma das propriedades especificadas não pode ser \ncriada ou configurada. Essa função não é atômica: ela pode criar ou configurar certas pro-\npriedades e, então, lançar um erro antes mesmo de tentar criar ou configurar outras pro-\npriedades. Consulte a Seção 6.7 para ver uma lista de erros de configuração de propriedade \nque podem causar TypeError.\nDescrição\nObject.defineProperties() cria ou configura no",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4319,
+    "totalChunks": 10000
+  }
+}

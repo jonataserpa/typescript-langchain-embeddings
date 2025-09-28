@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1725",
+  "content": "r a expressão */\n    catch(ex) { r = ex; }              /* Ou lembra do erro */\n  } while(e);    /*  Continua até que nenhuma expressão seja inserida ou que seja clicado \nCancel */\n  void 0;        /* Isso impede que o documento corrente seja sobrescrito */\n  '>\nJavaScript Evaluator\n</a>\nNote que, mesmo esse URL de JavaScript sendo escrito em várias linhas, o analisador de HTML \no trata como uma única linha e comentários de uma linha // não funcionarão nele. Além disso, \nlembre-se de que todo o código faz parte de um atributo HTML entre aspas simples; portanto, o \ncódigo não pode conter aspas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1725,
+    "totalChunks": 10000
+  }
+}

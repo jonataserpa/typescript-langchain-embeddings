@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2900",
+  "content": "chega\n            case 4: reconnect(); break;          // Quando a requisição fecha\n }\n};\n\nCapítulo 18     Scripts HTTP      505\nJavaScript do\n lado do cliente\n        // E estabelece uma conexão de longa duração por meio dele\n        connect();\n        // Se a conexão se fecha normalmente, espera um segundo e tenta reiniciar\n        function reconnect() {\n            if (aborted) return;     // Não refaz a conexão após um cancelamento\n            if (xhr.status >= 300) return;   // Não refaz a conexão após um erro\n            setTimeout(connect, retrydelay); // Espera um pouco e depois",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2900,
+    "totalChunks": 10000
+  }
+}

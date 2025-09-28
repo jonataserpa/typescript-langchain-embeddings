@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_722",
+  "content": "dade tem um método getter e um método setter, ela é uma propriedade de leitura/gravação. \nSe ela tem somente um método getter, ela é uma propriedade somente de leitura. E se ela tem so-\nmente um método setter, ela é uma propriedade somente de gravação (algo que não é possível com \npropriedades de dados) e as tentativas de lê-la são sempre avaliadas como \nundefined.\nA maneira mais fácil de definir propriedades de acesso é com uma extensão da sintaxe de objeto \nliteral:\nvar o = {\n    // Uma propriedade de dados normal\n    data_prop:    value,\n    // Uma propriedade de acesso definida como um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 722,
+    "totalChunks": 10000
+  }
+}

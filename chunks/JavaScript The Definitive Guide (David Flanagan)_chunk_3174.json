@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3174",
+  "content": "usa o tipo “html”, jQuery.\ngetScript() usa o tipo “script” e jQuery.getJSON() usa o tipo “json”. No entanto, jQuery.get() e \njQuery.post() são mais flexíveis do que aqueles utilitários de propósito especial, e você pode especifi-\ncar qualquer um desses tipos. Os valores válidos para esse argumento, assim como o comportamento \nda jQuery quando se omite o argumento, estão explicados no quadro.\nTipos de dados Ajax da jQuery\nVocê pode passar qualquer um dos seis tipos a seguir como argumento para jQuery.get() ou jQuery.\npost()\n. Além disso, conforme vamos ver a seguir, pode passar um desses",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3174,
+    "totalChunks": 10000
+  }
+}

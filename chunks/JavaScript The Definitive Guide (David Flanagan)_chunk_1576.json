@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1576",
+  "content": "local\nvar tagname = d.body.name();\n\n280          Parte     I     JavaScript     básica\nvar bodyns = tagname.uri;\nvar localname = tagname.localName;\n// Selecionar o elemento <svg> é mais complicado, pois não está no\n// espaço de nomes padrão. Assim, cria um objeto Namespace para svg e usa o\n// operador :: para adicionar um namespace em um nome de marcação\nvar svg = new Namespace('http://www.w3.org/2000/svg');\nvar color = d..svg::rect.@fill  // \"red\"\n\nOs capítulos anteriores abordaram a linguagem JavaScript básica em detalhes e estamos para \niniciar a Parte II do livro, que explica como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1576,
+    "totalChunks": 10000
+  }
+}

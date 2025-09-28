@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2826",
+  "content": "o.\n\nCapítulo 18     Scripts HTTP      493\nJavaScript do\n lado do cliente\n// A resposta do servidor é ignorada.\nwhenReady(function() { // Executa quando o documento está pronto\n    var elts = document.getElementsByTagName(\"input\");  // Todos os elementos de entrada\n    for(var i = 0; i < elts.length; i++) { // Itera por eles\n        var input = elts[i];\n        if (input.type !== \"file\") continue;  // Pula todos os elementos, menos \n// o de carregamento de arquivo\n        var url = input.getAttribute(\"data-uploadto\");  // Obtém o URL para carregamento\n        if (!url) continue;     // Pula",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2826,
+    "totalChunks": 10000
+  }
+}

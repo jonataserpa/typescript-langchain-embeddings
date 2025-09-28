@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3258",
+  "content": "em ao seletor B e são descendentes de elementos que correspondem \nao seletor A. Note que o caractere combinador para essa combinação é simplesmente um espaço em branco.\nA > B\nSeleciona elementos do documento que correspondem ao seletor B e que são filhos diretos de elementos que \ncorrespondem ao seletor A.\nA + B\nSeleciona elementos do documento que correspondem ao seletor B e vêm imediatamente após (ignorando nós de texto \ne comentários) os elementos que correspondem ao seletor A.\nA ~ B\nSeleciona elementos do documento correspondentes a B e que são elementos irmãos que vêm após os elementos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3258,
+    "totalChunks": 10000
+  }
+}

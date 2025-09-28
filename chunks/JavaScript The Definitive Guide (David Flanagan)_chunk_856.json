@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_856",
+  "content": "//    =>    [2,3,4,5,6]\nNote que forEach() não fornece uma maneira de terminar a iteração antes que todos os elementos \ntenham sido passados para a função. Isto é, não há equivalente algum da instrução break que possa \nser usado com um laço for normal. Se precisar terminar antes, você deve lançar uma exceção e colo-\ncar a chamada de forEach() dentro de um bloco try. O código a seguir define uma função foreach() \nque chama o método forEach() dentro de um bloco try. Se a função passada para foreach() lança \nforeach.break, o laço termina antes:\nfunction foreach(a,f,t) {",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 856,
+    "totalChunks": 10000
+  }
+}

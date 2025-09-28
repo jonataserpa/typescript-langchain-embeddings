@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1809",
+  "content": "de teste de recurso é que resulta em código não vinculado a uma \nlista específica de fornecedores ou de números de versão de navegador. Ele funciona com o grupo de \nnavegadores existentes atualmente e deve continuar a funcionar com futuros navegadores, quaisquer \nque sejam os conjuntos de recursos que implementem. Note, entretanto, que isso exige aos forne-\ncedores de navegador não definirem uma propriedade ou um método, a não ser que a propriedade \nou o método seja totalmente funcional. Se a Microsoft definisse um método \naddEventListener() que \nimplementasse a especificação W3C apenas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1809,
+    "totalChunks": 10000
+  }
+}

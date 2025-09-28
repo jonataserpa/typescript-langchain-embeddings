@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2381",
+  "content": "maioria dos atributos HTML, style também é uma propriedade do \nobjeto Element e pode ser manipulada em JavaScript. No entanto, a propriedade style é incomum: \nseu valor não é uma string, mas um objeto CSSStyleDeclaration. As propriedades JavaScript des-\nse objeto estilo representam as propriedades CSS especificadas pelo atributo HTML style. Para \nConvenções de atribuição de nomes: propriedades CSS em JavaScript\nMuitas propriedades de estilo CSS, como font-size, contêm hifens em seus nomes. Em JavaScript, um \nhífen é interpretado como um sinal de subtração, de modo que não é possível escrever",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2381,
+    "totalChunks": 10000
+  }
+}

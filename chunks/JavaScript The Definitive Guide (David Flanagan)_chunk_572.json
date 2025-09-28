@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_572",
+  "content": "m laço for/in. Por exemplo, colocar a \nlinha a seguir no código anterior enumera os índices 0, 1 e 2 do array:\nfor(i in a) console.log(i);\nO laço for/in não enumera todas as propriedades de um objeto, mas somente as que são enumeráveis \n(consulte a Seção 6.7). Os vários métodos internos definidos por JavaScript básica não são enume-\n3\n  As implementações ECMAScript 3 podem, em vez disso, lançar um TypeError nesse caso.\n\nCapítulo     5     Instruções          99\nJavaScript básica\nráveis. Todos os objetos têm um método toString(), por exemplo, mas o laço for/in não enumera \nessa propriedade",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 572,
+    "totalChunks": 10000
+  }
+}

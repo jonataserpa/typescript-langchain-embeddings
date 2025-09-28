@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5487",
+  "content": "étodo next( )\n    geradores,    271–272\n    iteradores,    268–269\nmétodo normalize( ), objeto Node, 963\nmétodo not( ), jQuery, 565\nmétodo now( ), objeto Date, 736\nmétodo off set( ), jQuery, 520\nmétodo off setParent( ), jQuery, 521\nmétodo one( ), jQuery, 531\nmétodo open( )\n    objeto Document, 881\n    objeto Window, 345, 990\n        URL javascript: como argumento, 307\n    objeto XMLHttpRequest, 999\nmétodo parentsUntil( ), jQuery, 567\nmétodo parse( ), objeto Date, 736\nmétodo pause( ), objeto MediaElement, 603, 954\nmétodo play( ), objeto MediaElement, 603, 954\nmétodo pop( ), objeto Array, 147,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5487,
+    "totalChunks": 10000
+  }
+}

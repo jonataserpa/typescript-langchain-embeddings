@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_576",
+  "content": "avegador a alterem.\nO parágrafo anterior especifica uma ordem de enumeração de propriedade que serve indistintamen-\nte para objetos “simples”. A ordem de enumeração se torna dependente da implementação (e não \nserve indistintamente) se:\n •   o objeto herda propriedades enumeráveis;\n •   o objeto tem propriedades que são índices inteiros de array;\n •\ndelete foi usado para excluir propriedades existentes do objeto; ou\n •\nObject.defineProperty() (Seção 6.7) ou métodos semelhantes foram usados para alterar atri-\nbutos da propriedade do objeto.\nNormalmente  (mas  não  em  todas  as",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 576,
+    "totalChunks": 10000
+  }
+}

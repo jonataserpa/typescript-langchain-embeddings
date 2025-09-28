@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2997",
+  "content": "ão acontece.\n\n522          Parte II     JavaScript do lado do cliente\nO último par de métodos jQuery relacionados à geometria são scrollTop() e scrollLeft(), que con-\nsultam as posições da barra de rolagem de um elemento ou as configuram para todos os elementos. \nEsses métodos funcionam para o objeto Window e também para elementos do documento e, quan-\ndo chamados em um objeto Document, consultam ou configuram as posições da barra de rolagem \ndo objeto Window que contém o documento. Ao contrário do que acontece com outros métodos \nsetter, você não pode passar uma função para scrollTop() ou",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2997,
+    "totalChunks": 10000
+  }
+}

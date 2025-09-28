@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4427",
+  "content": "racteres e não consideram a ordem de comparação da localidade \ncorrente. A ordenação produzida dessa maneira nem sempre é correta. Considere o idioma espanhol, \npor exemplo, no qual as letras “ch” são tradicionalmente classificadas como se fossem uma única \nletra que aparecesse entre as letras “c” e “d”.\n\n      Referência de JavaScript básica      827\nReferência de \nJavaScript básica\nlocaleCompare() oferece um modo de comparar strings que leva em consideração a ordem de com-\nparação da localidade padrão. O padrão ECMAScript não especifica como a comparação específica \nda localidade é feita;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4427,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4723",
+  "content": "mais o preenchimento.\nreadonly long clientLeft\nreadonly long clientTop\nEssas propriedades retornam o número de pixels entre a margem esquerda ou superior da \nborda do elemento e a margem esquerda ou superior de seu preenchimento. Normalmen-\nte, essa é apenas a largura da borda esquerda e superior, mas essas quantidades também \npodem incluir a largura de uma barra de rolagem, caso uma seja renderizada à esquerda ou \nacima do elemento.\n\n888          Parte IV     Referência de JavaScript do lado do cliente\nCSSStyleDeclaration currentStyle\nEssa propriedade específica do IE representa o conjunto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4723,
+    "totalChunks": 10000
+  }
+}

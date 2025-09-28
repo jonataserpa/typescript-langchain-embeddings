@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_119",
+  "content": "e strict\"; //  Usa o modo restrito da ECMAScript 5 nos navegadores que o suportam\n/*\n *  Este script define a função calculate() chamada pelas rotinas de tratamento de evento\n * no código HTML acima. A função lê valores de elementos <input>, calcula\n *  as informações de pagamento de empréstimo, exibe o resultado em elementos <span>.\n * Também salva os dados do usuário, exibe links para financeiras e desenha um gráfico.\n */\nfunction calculate() {\n    // Pesquisa os elementos de entrada e saída no documento\n    var amount = document.getElementById(\"amount\");\n    var apr =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 119,
+    "totalChunks": 10000
+  }
+}

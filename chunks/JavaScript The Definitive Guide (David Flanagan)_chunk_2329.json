@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2329",
+  "content": "nela \ndo navegador) e centralizado dentro desse elemento:\n<div style=\"position: absolute; left: 25%; top: 25%; width: 50%; height: 50%;\n            border: 2px solid black\">\n</div>\n16.2.1.1   A terceira dimensão: z-index\nVimos que as propriedades left, top, right e bottom podem especificar as coordenadas X e Y de \num elemento dentro do plano bidimensional do elemento contêiner. A propriedade z-index define \numa espécie de terceira dimensão: ela permite especificar a ordem de empilhamento dos elementos \ne indicar quais de dois ou mais elementos sobrepostos é desenhado sobre os outros. A",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2329,
+    "totalChunks": 10000
+  }
+}

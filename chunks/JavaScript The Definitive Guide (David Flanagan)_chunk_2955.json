@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2955",
+  "content": "seletores CSS3 suportados por \n$() funcionam em \ntodos os navegadores e não apenas nos que suportam CSS3.\n •O objeto semelhante a um array retornado por \n$() (um objeto jQuery) é muito mais útil do que o \nobjeto semelhante a um array (um NodeList) retornado por \nquerySelectorAll().\nSe você quiser iterar por todos os elementos em um objeto jQuery, pode chamar o método each() \nem vez de escrever um laço for. O método each() é parecido com o método de array forEach() de \nECMAScript 5 (ES5). Ele espera uma função callback como único argumento e chama essa fun-\nção callback uma vez para cada",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2955,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3753",
+  "content": "essa função de tratamento fosse chamada, sua função \nanalisaria o valor de \nlocation.hash e exibiria novamente o aplicativo, usando a informação de estado \nque ele contém.\nHTML5 também define um procedimento um pouco mais complexo e robusto de gerenciamento \nde histórico, envolvendo o método \nhistory.pushState() e o evento popstate. Quando um aplicativo \nWeb entra em um novo estado, chama history.pushState() para adicionar esse estado no histórico \nde navegação. O primeiro argumento é um objeto contendo todas as informações de estado neces-\nsárias para restaurar o estado atual do documento.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3753,
+    "totalChunks": 10000
+  }
+}

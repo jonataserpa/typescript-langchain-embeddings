@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_369",
+  "content": "o modo \nrestrito são invocadas com undefined como valor de this, em vez do objeto global. Consulte a Seção \n5.7.3 para mais informações sobre o modo restrito.\n4.6   Expressões de criação de objeto\nUma expressão de criação de objeto gera um novo objeto e chama uma função (denominada constru-\ntora) para inicializar as propriedades desse objeto. As expressões de criação de objeto são como as \nexpressões de chamada, exceto que são prefixadas com a palavra-chave new:\nnew Object()\nnew Point(2,3)\n\nCapítulo 4     Expressões e operadores      61\nJavaScript básica\nSe nenhum argumento é passado para a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 369,
+    "totalChunks": 10000
+  }
+}

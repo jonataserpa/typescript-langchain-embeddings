@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5388",
+  "content": "posicionando com CSS, 409\n    propriedades de exibição e visibilidade (CSS), 415\n    selecionando elementos de documento, 354\n    selecionando elementos de formulário HTML, \n388\n    tamanho, posicionamento e transbordamento, \n384\nelementos <a>\n    atributo href, 307, 357\n    tendo atributo name em vez de atributo href, 357\nelementos <applet>, 523\nelementos <audio>, 601\n    atributo controls, 602\n    eventos,    442\nelementos <body>, rotinas de tratamento de evento \nem, 445\nelementos <canvas>, 616\n    objeto contexto, 622\nelementos <checkbox>, 392\nelementos <embed>, 523\nelementos <form>",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5388,
+    "totalChunks": 10000
+  }
+}

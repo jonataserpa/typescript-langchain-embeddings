@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5389",
+  "content": ", 616\n    objeto contexto, 622\nelementos <checkbox>, 392\nelementos <embed>, 523\nelementos <form>\n    atributo method, 389\n    atributos action, encoding, method e target, 389\n    confi gurando atributos form-submission de, 365\n    disparando evento submit em, 534\nelementos <frame> e <frameset> (desaprovados), \n344\nelementos <html>, atributo manifest, 587\nelementos <iframe>, 326\n    atributo name, 345\n    atributo sandbox em HTML5, 329\n    com nome e atributo id, tornando-se o valor de \nvariável global, 344\n    conteúdo retornando de, 567\n    documentos aninhados em documentos HTML, \n344",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5389,
+    "totalChunks": 10000
+  }
+}

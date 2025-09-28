@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3208",
+  "content": "empacotadora para a qual o servidor vai passar seus dados. Normalmente, \na jQuery sintetiza um nome de função exclusivo com base na hora atual. Configure essa opção \nse quiser substituir a função da jQuery pela sua própria. Contudo, se você fizer isso, vai impedir \nque a jQuery chame as funções de retorno success e complete e que dispare seus eventos normais.\nprocessData\nQuando  você  configura  a  opção  data como  um  objeto  (ou  passa  um  objeto  como  segun-\ndo argumento para jQuery.get() e métodos relacionados), normalmente a jQuery converte \nesse objeto em uma string no formato",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3208,
+    "totalChunks": 10000
+  }
+}

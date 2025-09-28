@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5644",
+  "content": "setSelectionRange( ), objeto Input, 929\nsetSelectionRange( ), objeto TextArea, 979\nsetTransform( ), CanvasRenderingContext2D, 624, \n627, 863\nshadowOff setX e shadowOff setY, CanvasRendering-\nContext2D, 856\nshowModalDialog( ), objeto Window, 340, 991\nsistema de arquivo persistente, 684–685\nsistema de arquivo temporário, 684–685\nsistemas de arquivo, 684–690\n    armazenamento do lado do cliente por aplicativos \nWeb, 574\n    lendo arquivos selecionados pelo usuário com \nJavaScript, 325\n    trabalhando com arquivos no sistema de arquivos \nlocal, 684–685\n    usando API de sistema de arquivos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5644,
+    "totalChunks": 10000
+  }
+}

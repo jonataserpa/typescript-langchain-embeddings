@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2610",
+  "content": "sedown ou\n *       algum elemento contêiner. Deve estar posicionado de forma absoluta. Seus\n *       valores de style.left e style.top vão mudar com base no arrasto \n *       do usuário.\n *\n *   evento: o objeto Event do evento mousedown.\n\nCapítulo 17     Tratando eventos      457\nJavaScript do\n lado do cliente\n**/\nfunction drag(elementToDrag, event) {\n    // A posição inicial do mouse, convertida para coordenadas do documento\n    var scroll = getScrollOffsets();  // Uma função utilitária de outro lugar\n    var startX = event.clientX + scroll.x;\n    var startY = event.clientY + scroll.y;",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2610,
+    "totalChunks": 10000
+  }
+}

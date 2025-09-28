@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_885",
+  "content": "lo menos deixam o comprimento do array inalterado.\nO código a seguir pega um objeto normal, adiciona propriedades para transformá-lo em um objeto \nsemelhante a um array e depois itera pelos “elementos” do pseudoarray resultante:\nvar a = {};  // Começa com um objeto vazio normal\n// Adiciona propriedades para torná-lo \"semelhante a um array\"\nvar i = 0;\nwhile(i < 10) {\n    a[i] = i * i;\n    i++;\n}\na.length = i;\n// Agora itera por ele como se fosse um array real\nvar total = 0;\nfor(var j = 0; j < a.length; j++)\n    total += a[j];\nO objeto Arguments, descrito na Seção 8.3.2, é um objeto semelhante",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 885,
+    "totalChunks": 10000
+  }
+}

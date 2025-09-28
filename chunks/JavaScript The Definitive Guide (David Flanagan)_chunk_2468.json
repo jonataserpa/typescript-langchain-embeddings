@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2468",
+  "content": "termos definidos, podemos agora passar a estudar os eventos e o tratamento de even-\ntos em detalhes. A seção a seguir é uma visão geral dos muitos tipos de evento suportados pelos \nnavegadores Web. Ela não aborda tipo algum de evento em detalhes, mas permite que você saiba \nquais tipos de eventos estão disponíveis para uso em seus aplicativos Web. Essa seção contêm \nreferências cruzadas para outras partes deste livro que demonstram alguns dos eventos em ação.\nApós a seção introdutória sobre tipos de evento, as duas seções seguintes explicam como registrar \nrotinas de tratamento de evento e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2468,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1960",
+  "content": "null:\nw.opener !== null;     // Verdadeiro para qualquer janela w criada por open()\nw.open().opener === w; // Verdadeiro para qualquer janela w\nWindow.open()\n é o método por meio do qual os anúncios se tornam “pop up” ou “pop under” en-\nquanto você navega na Web. Graças a essa enchente de pop ups irritantes, agora a maioria dos nave-\ngadores Web instituiu algum tipo de sistema de bloqueio de pop ups. Normalmente, as chamadas \npara o método \nopen() são bem-sucedidas somente se ocorrem em resposta a uma ação do usuário, \ncomo um clique em um botão ou em um link. O código JavaScript que tenta",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1960,
+    "totalChunks": 10000
+  }
+}

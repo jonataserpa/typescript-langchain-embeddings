@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2137",
+  "content": "TOC\". Se esse\n * elemento não existir, cria um no início do documento.\n *\n\n378          Parte II     JavaScript do lado do cliente\n * Em seguida, a função localiza todas as tags de <h1> a <h6>, as trata\n * como títulos de seção e cria um sumário dentro do elemento TOC.\n * A função adiciona números de seção em cada cabeçalho de seção\n * e encerra os cabeçalhos em âncoras nomeadas para que o TOC possa se vincular a\n * elas. As âncoras geradas têm nomes que começam com \"TOC\", de modo que\n * você deve evitar esse prefixo em sua própria HTML.\n *\n * As entradas no TOC gerado podem ser estilizadas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2137,
+    "totalChunks": 10000
+  }
+}

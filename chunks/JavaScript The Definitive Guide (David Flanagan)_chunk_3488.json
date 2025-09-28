@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3488",
+  "content": "guma outra mídia está sendo carregada ou reproduzida vai cancelar o carregamento ou \na reprodução da mídia antiga. Se você adiciona elementos <source> em um elemento mídia, em vez \nde configurar o atributo src, o elemento não pode saber quando um conjunto de elementos com-\npleto foi inserido e não vai começar a escolher entre os elementos <source> e a carregar dados até que \nvocê chame o método load() explicitamente.\n21.2.2   Controlando reprodução de mídia\nOs métodos mais importantes dos elementos <audio> e <video> são play() e pause(), que iniciam e \nparam a reprodução da mídia:\n// Quando o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3488,
+    "totalChunks": 10000
+  }
+}

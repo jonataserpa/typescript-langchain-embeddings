@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3698",
+  "content": "getImageData() retorna um objeto ImageData representando os pixels (como componen-\ntes R, G, B e A) brutos (não pré multiplicados) de uma região retangular de seu canvas. Você pode \ncriar objetos \nImageData em branco e vazios, com createImageData(). Os pixels de um objeto Image-\nData são graváveis, de modo que você pode configurá-los como quiser e depois copiá-los de volta no \ncanvas, com putImageData().\nEsses métodos de manipulação de pixels fornecem acesso de nível muito baixo ao canvas. O re-\ntângulo passado para \ngetImageData() está no sistema de coordenadas padrão: suas dimensões são",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3698,
+    "totalChunks": 10000
+  }
+}

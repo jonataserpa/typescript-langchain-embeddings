@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4187",
+  "content": "Error em uma string Anula Object.toString()\nSinopse\nerro.toString()\nRetorna\nUma string definida pela implementação. O padrão ECMAScript não especifica nada sobre o valor \nde retorno desse método, exceto que é uma string. Notadamente, ele não exige que a string retorna-\nda contenha o nome do erro ou a mensagem de erro.\nescape() desaprovado\ncodifica uma string\nSinopse\nescape(s)\nArgumentos\ns\nA string que deve ser “escapada” ou codificada.\n\n756          Parte III     Referência de JavaScript básica\nRetorna\nUma cópia codificada de \ns na qual certos caracteres foram substituídos por sequências de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4187,
+    "totalChunks": 10000
+  }
+}

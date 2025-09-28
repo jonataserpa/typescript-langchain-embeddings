@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3700",
+  "content": "ssamento de imagens. O \nExemplo 21-10 mostra como criar um motion blur simples ou efeito de “borrão” nos elementos \ngráficos de um canvas. O exemplo demonstra \ngetImageData() e putImageData() e mostra como ite-\nrar pelos valores de pixel e modificá-los em um objeto ImageData, mas não explica essas coisas em \ndetalhes. Para ver os detalhes completos sobre getImageData() e putImageData(), consulte as páginas \nde referência de CanvasRenderingContext2D e para detalhes sobre esse objeto, consulte a página de \nreferência de ImageData.\nExemplo 21-10 Motion blur com ImageData\n// Borra os pixels do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3700,
+    "totalChunks": 10000
+  }
+}

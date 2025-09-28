@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3126",
+  "content": "es envolvem funções de abrandamento. A propriedade easing do \nobjeto opções especifica o nome de uma função de abrandamento. Por padrão, a jQuery usa a fun-\nção senoidal, a qual chama de “swing”. Se quiser que suas animações sejam lineares, use um objeto \nopções como o seguinte:\n$(\"img\").animate({\"width\":\"+=100\"}, {duration: 500, easing:\"linear\"});\nLembre-se de que as opções duration, easing e complete também podem ser especificadas por argu-\nmentos de \nanimate(), em vez de se passar um objeto opções. Portanto, a animação anterior também \npoderia ser escrita como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3126,
+    "totalChunks": 10000
+  }
+}

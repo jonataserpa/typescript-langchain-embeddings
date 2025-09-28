@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1775",
+  "content": "adicional, como imagens. Quando o carregamento \nde todo o conteúdo termina e quando todos os scripts \nasync foram carregados e executados, a \npropriedade \ndocument.readyState muda para “complete” e o navegador Web dispara um even-\nto de carga (load) no objeto Window.\n    8.  Daí em diante, as rotinas de tratamento de evento são chamadas de forma assíncrona, em \nresposta a eventos de entrada do usuário, eventos de rede, expirações de cronômetro, etc.\nEssa é uma linha do tempo idealizada e navegador algum suporta todos os seus detalhes. O evento \nload é suportado universalmente: todos os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1775,
+    "totalChunks": 10000
+  }
+}

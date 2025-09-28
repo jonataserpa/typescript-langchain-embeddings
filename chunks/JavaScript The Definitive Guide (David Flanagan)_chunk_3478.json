@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3478",
+  "content": "ML5 introduz elementos <audio> e <video> que, teoricamente, são tão fáceis de usar como o ele-\nmento <img>. Nos navegadores habilitados para HTML5, você não precisa mais usar plug-ins (como \no Flash) para incorporar sons e filmes em seus documentos HTML:\n<audio src=\"background_music.mp3\"/>\n<video src=\"news.mov\" width=320 height=240/>\nNa prática, o uso desses elementos é mais complicado do que isso, pois os fornecedores de navegador \nnão concordaram com um codec de áudio e vídeo padrão que todos suportassem, de modo que você \nnormalmente acaba usando elementos <source> para especificar várias",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3478,
+    "totalChunks": 10000
+  }
+}

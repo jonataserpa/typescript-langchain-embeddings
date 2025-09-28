@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_524",
+  "content": "vírgulas de nomes de parâmetro entre parênteses. Esses iden-\ntificadores podem ser usados dentro do corpo da função para se referir aos valores de argumento \npassados quando a função é chamada.\nO corpo da função é composto de qualquer número de instruções JavaScript, contidas entre chaves. \nEssas instruções não são executadas quando a função é definida. Em vez disso, elas são associadas \nao novo objeto função, para execução quando a função for chamada. Note que as chaves são uma \nparte obrigatória da instrução \nfunction. Ao contrário dos blocos de instrução utilizados com laços \nwhile e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 524,
+    "totalChunks": 10000
+  }
+}

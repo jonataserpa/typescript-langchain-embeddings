@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2203",
+  "content": "o \"shipping\"\ndocument.querySelectorAll('#shipping input[type=\"radio\"]');\n// Todos os botões de opção com o nome \"method\" no formulário, com identificação \n// \"shipping\"\ndocument.querySelectorAll('#shipping input[type=\"radio\"][name=\"method\"]');\nContudo, conforme descrito nas Seções 14.7, 15.2.2 e 15.2.3, um elemento <form> com atributo \nname ou id pode ser selecionado de várias outras maneiras. Um <form> com atributo name=\"address\" \npode ser selecionado de qualquer uma destas maneiras:\nwindow.address             // Frágil: não use\ndocument.address           // Só funciona para formulários com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2203,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1473",
+  "content": "segurança dessas verificações em tempo de execução e a \nvelocidade de execução do código da caixa de areia.\nVários subconjuntos seguros foram implementados. Embora uma descrição completa de qualquer \nsubconjunto esteja fora dos objetivos deste livro, vamos descrever brevemente alguns dos mais im-\nportantes:\nADsafe\nO ADsafe (http://adsafe.org) foi um dos primeiros subconjuntos de segurança propostos. Foi \ncriado por Douglas Crockford (que também definiu o subconjunto The Good Parts). O AD-\nsafe conta apenas com verificação estática e utiliza o JSLint (http://jslint.org) como verificador. \nEle",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1473,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3511",
+  "content": "dia suficientes para que a mídia provavelmente possa \nser reproduzida continuamente, sem fazer pausa para colocar mais dados no buffer. \nreadyState é HAVE_ENOUGH_DATA.\nsuspend\nO elemento carregou dados suficientes no buffer e parou de baixar temporariamente. \nnetworkState mudou para NETWORK_IDLE.\nstalled\nO elemento está tentando carregar dados, mas eles não estão chegando. networkState \npermanece em NETWORK_LOADING.\nplay\nO método play() foi chamado ou o atributo autoplay causou o equivalente. Se foram \ncarregados dados suficientes, este evento será seguido por um evento de play. Caso",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3511,
+    "totalChunks": 10000
+  }
+}

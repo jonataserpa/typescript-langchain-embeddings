@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3014",
+  "content": "eúdo ou novos irmãos, mas eles mesmos \nnão são alterados. Os métodos da terceira coluna são chamados no conteúdo que está sendo \ninserido e retornam um novo objeto jQuery representando o novo conteúdo após sua inserção. \nEm especial, note que, se o conteúdo for inserido em vários locais, o objeto jQuery retornado \nvai conter um elemento para cada local.\nCom essas diferenças listadas, o código a seguir efetua as mesmas operações que o código anterior, \nusando os métodos da terceira coluna em vez dos da segunda. Observe que, na segunda linha, não \npodemos passar texto puro (sem sinais de menor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3014,
+    "totalChunks": 10000
+  }
+}

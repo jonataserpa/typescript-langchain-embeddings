@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_287",
+  "content": "trução if con-\nverte undefined em false, mas o operador == nunca tenta converter seus operandos para booleanos.\n3.8.2   Conversões   explícitas\nEmbora JavaScript faça muitas conversões de tipo automaticamente, às vezes será necessário realizar \numa conversão explícita ou talvez você prefira usar as conversões de forma explícita para manter o \ncódigo mais claro.\nO modo mais simples de fazer uma conversão de tipo explícita é usar as funções \nBoolean(), Number(), \nString() ou Object(). Já vimos essas funções como construtoras para objetos wrapper (na Seção \n3.6). Contudo, quando chamadas sem o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 287,
+    "totalChunks": 10000
+  }
+}

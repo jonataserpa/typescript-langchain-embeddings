@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_970",
+  "content": "valores, \nou seja, podem ser atribuídas a variáveis, armazenadas nas propriedades de objetos ou nos elementos \nde arrays, passadas como argumentos para funções, etc.\n3\nPara entender como as funções podem ser tanto dados como uma sintaxe de JavaScript, considere a \nseguinte definição de função:\nfunction square(x) { return x*x; }\nEssa definição cria um novo objeto função e o atribui à variável square. O nome de uma função é \nirrelevante; é simplesmente o nome de uma variável que se refere ao objeto função. A função pode \nser atribuída a outra variável e ainda funcionar da mesma maneira:\nvar s",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 970,
+    "totalChunks": 10000
+  }
+}

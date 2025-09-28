@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5483",
+  "content": "o hasClass( ), jQuery, 518\nmétodo hasFocus( ), objeto Document, 880\nmétodo hasOwnProperty( ), Object class, 122, \n801–802\nmétodo HEAD, pedido HTTP para detalhes de link \ncom CORS, 499\nmétodo height( ), jQuery, 521\nmétodo hide( ), jQuery, 539, 541\nmétodo hover( ), jQuery, 527, 531\nmétodo html( ), jQuery, 520\nmétodo inArray( ), 558\nmétodo index( ), jQuery, 516–517\n\n1032          Índice\nmétodo indexOf( )\n    objeto Array, 153, 711\n    objeto String, 824–825\nmétodo info( ), objeto Console, 867\nmétodo initEvent( ), objeto Event, 903–904\nmétodo insertAfter( ), jQuery, 524\nmétodo insertBefore( ),",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5483,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4950",
+  "content": "excluir os elementos que correspondem a sel, que \nestão incluídos em \nelts ou para o quais f retorna true. elts pode ser apenas um elemento ou \num objeto semelhante a um array de elementos. f é chamada como método de cada elemento \nselecionado.\noffsetParent()\nSeleciona o ascendente posicionado mais próximo de cada elemento selecionado.\nparent([sel])\nSeleciona o pai de cada elemento selecionado. Se sel é especificado, exclui qualquer um que \nnão corresponda.\nparents([sel])\nSeleciona os ascendentes de cada elemento selecionado. Se sel é especificado, exclui qualquer \num que não",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4950,
+    "totalChunks": 10000
+  }
+}

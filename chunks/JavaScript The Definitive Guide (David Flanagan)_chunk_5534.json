@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5534",
+  "content": "propriedade defaultPrevented, 452\n    propriedade returnValue, 452\n    propriedades,    899\n    propriedades propostas, especifi cação DOM Level \n3, 903–904\n\n1040          Índice\nobjeto EventSource, 502–508, 905\n    constantes    defi nindo valores da propriedade rea-\ndyState, 905\n    simulando com XMLHttpRequest, 504–506\n    usando em cliente de chat simples, 503\nobjeto EventTarget, 906\nobjeto FieldSet, 907\nobjeto FileError, 908\nobjeto FileList, 677–678\nobjeto FileReader, 908–911\n    constantes    defi nindo valores de propriedade rea-\ndyState, 909\n    eventos disparados no, 443",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5534,
+    "totalChunks": 10000
+  }
+}

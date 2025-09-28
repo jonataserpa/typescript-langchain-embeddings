@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2611",
+  "content": "utro lugar\n    var startX = event.clientX + scroll.x;\n    var startY = event.clientY + scroll.y;\n    // A posição original (em coordenadas do documento) do elemento\n    // que será arrastado. Como elementToDrag está posicionado de\n    // forma absoluta, supomos que seu offsetParent é o corpo do documento.\n    var origX = elementToDrag.offsetLeft;\n    var origY = elementToDrag.offsetTop;\n    // Calcula a distância entre o evento mousedown e o canto\n     // superior esquerdo do elemento. Vamos manter essa distância quando o mouse se mover.\n    var deltaX = startX – origX;\n    var deltaY =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2611,
+    "totalChunks": 10000
+  }
+}

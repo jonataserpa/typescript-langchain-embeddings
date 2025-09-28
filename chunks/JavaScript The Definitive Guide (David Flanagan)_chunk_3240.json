@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3240",
+  "content": "seletores simples e combinações \nde seletores podem ser agrupados em listas separadas com vírgulas. Esses grupos de seletores são o \ntipo mais geral de seletor que passamos para \n$(). Antes de explicarmos as combinações de seletores e \nos grupos de seletores, precisamos explicar a sintaxe dos seletores simples.\n\nCapítulo 19     A biblioteca jQuery      561\nJavaScript do\n lado do cliente\n19.8.1.1   Seletores   simples\nUm seletor simples começa (explícita ou implicitamente) com uma especificação de tipo de tag. Se \nvocê estivesse interessado apenas em elementos <p>, por exemplo, seu seletor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3240,
+    "totalChunks": 10000
+  }
+}

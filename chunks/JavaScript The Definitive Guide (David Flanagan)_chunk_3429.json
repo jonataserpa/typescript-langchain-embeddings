@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3429",
+  "content": "oad tiver terminado.\nwindow.applicationCache.oncached = function() {\n    status(\"This application is now cached locally\");\n    return    false;\n};\n// Quando um aplicativo que já está na cache é atualizado e o download está concluído,\n// o navegador dispara \"updateready\". Note que o usuário ainda vai ver\n// a versão antiga do aplicativo quando este evento chegar.\nwindow.applicationCache.onupdateready = function() {\n    status(\"A new version has been downloaded. Reload to run it\");\n    return    false;\n};\n// Se o navegador está off-line e o manifesto não pode ser verificado, um evento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3429,
+    "totalChunks": 10000
+  }
+}

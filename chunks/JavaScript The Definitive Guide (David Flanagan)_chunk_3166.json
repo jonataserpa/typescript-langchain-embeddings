@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3166",
+  "content": ".\n        this.form.action,           // seu url\n        $(this.form).serialize());  // com os dados do formulário anexados\n    event.preventDefault();         // Não faz o envio de formulário padrão\n    this.disabled = \"disabled\";     // Impede envios múltiplos\n});\nSe você configurar o argumento (ou opção) de dados de uma função Ajax da jQuery como um objeto, \nem vez de uma string, normalmente (com uma exceção, descrita a seguir) a jQuery vai converter esse \nobjeto em uma string automaticamente, chamando \njQuery.param(). Essa função utilitária trata proprie-\ndades de objeto como pares",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3166,
+    "totalChunks": 10000
+  }
+}

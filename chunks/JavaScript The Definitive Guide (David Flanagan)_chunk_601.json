@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_601",
+  "content": "e execução e quando o programa lança uma explicita-\nmente, usando a instrução throw. As exceções são capturadas com a instrução try/catch/finally, a \nqual está descrita na próxima seção.\nA instrução \nthrow tem a seguinte sintaxe:\nthrow expressão;\nexpressão\n pode ser avaliada com um valor de qualquer tipo. Pode-se lançar um número representan-\ndo um código de erro ou uma string contendo uma mensagem de erro legível para seres humanos. A \nclasse Error e suas subclasses são usadas quando o próprio interpretador JavaScript lança um erro, e \nvocê também pode usá-las. Um objeto Error tem uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 601,
+    "totalChunks": 10000
+  }
+}

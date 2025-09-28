@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4205",
+  "content": "te III     Referência de JavaScript básica\ncaller\nUma referência ao objeto Function que chamou essa, ou null, se a função foi chamada em \ncódigo de nível superior. Desaprovada.\nlength\nO número de argumentos nomeados, especificados quando a função foi declarada.\nprototype\nUm objeto que, para uma função construtora, define propriedades e métodos compartilhados \npor todos os objetos criados com essa função construtora.\nMétodos\napply()\nChama uma função como método de um objeto especificado, passando um array de argumen-\ntos especificado.\nbind()\nRetorna uma nova função que chama esta como método",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4205,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_899",
+  "content": "objeto, ela é conhecida como método desse objeto. \nQuando uma função é chamada em ou por meio de um objeto, esse objeto é o contexto da chamada \nou o valor de\n this da função. As funções projetadas para inicializar um objeto recém-criado são de-\nnominadas construtoras. As construtoras foram descritas na Seção 6.1 e serão abordadas novamente \nno Capítulo 9.\nEm JavaScript, as funções são objetos e podem ser manipuladas pelos programas. JavaScript pode \natribuir funções a variáveis e passá-las para outras funções, por exemplo. Como as funções são obje-\ntos, é possível definir propriedades e até",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 899,
+    "totalChunks": 10000
+  }
+}

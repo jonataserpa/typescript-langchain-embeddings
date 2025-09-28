@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1694",
+  "content": "com scripts CGI no lado do servidor por meio de envios de formulários \nHTML eram o “aplicativo Web” original e podem ser escritas sem o uso de JavaScript. Contudo, esse não é o tipo de aplica-\ntivo Web que vamos discutir neste livro.\n\n304          Parte II     JavaScript do lado do cliente\n<script>\n// Seu código JavaScript fica aqui\n</script>\nEm XHTML, o conteúdo de um elemento <script> é tratado como qualquer outro conteúdo. Se \nseu código JavaScript contém os caracteres < ou &, esses caracteres são interpretados como marcações \nXML. Por isso, é melhor colocar todo código JavaScript dentro",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1694,
+    "totalChunks": 10000
+  }
+}

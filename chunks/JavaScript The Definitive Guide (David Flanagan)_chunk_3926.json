@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3926",
+  "content": "o, mas exigia ser lançado com o flag de linha de \ncomando --unlimited-quota-for-files.\n\n686          Parte II     JavaScript do lado do cliente\nLer ou gravar um arquivo com essa API é um processo de várias etapas. Primeiro, você obtém o \nobjeto filesystem. Então, usa o diretório-raiz desse objeto para pesquisar (e, opcionalmente, criar) o \nobjeto FileEntry para o arquivo em que você está interessado. Depois, você usa o objeto FileEntry \npara obter o objeto File ou FileWriter para leitura ou gravação. Esse processo de várias etapas é espe-\ncialmente complexo ao se usar a API assíncrona:\n// Lê",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3926,
+    "totalChunks": 10000
+  }
+}

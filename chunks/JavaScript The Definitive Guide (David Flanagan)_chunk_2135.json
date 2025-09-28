@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2135",
+  "content": "eturn Insert.atStart(this, html);\n        case \"beforeend\": return Insert.atEnd(this, html);\n  }\n    };\n    return Insert;   // Finalmente, retorna as quatro funções de inserção\n}());\n15.7   Exemplo: gerando um sumário\nO  Exemplo  15-7  mostra  como  criar  um  sumário  para  um  documento  dinamicamente.  Ele  de-\nmonstra muitos dos conceitos de script de documento descritos nas seções anteriores: seleção de \nelementos, como percorrer documentos, configuração de atributos do elemento, configuração da \npropriedade \ninnerHTML e criação de novos nós e sua inserção no documento. O exemplo tem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2135,
+    "totalChunks": 10000
+  }
+}

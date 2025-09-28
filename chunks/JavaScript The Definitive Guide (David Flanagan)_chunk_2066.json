@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2066",
+  "content": "\"http://www.example.com/submit.php\";  // Configura o URL para envio.\nf.method = \"POST\";                     // Tipo de pedido HTTP\nAs funções do Exemplo 15-2 não são definidas como métodos de Element porque essa técnica não é su-\nportada pelo IE7.\nNo entanto, essa capacidade de estender tipos DOM ainda é útil se você quer implementar recursos espe-\ncíficos do IE em outros navegadores. Conforme mencionado anteriormente, a propriedade não padroniza-\nda \nchildren de Element foi introduzida pelo IE e adotada por outros navegadores. Você pode usar código \ncomo o seguinte para simulá-la em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2066,
+    "totalChunks": 10000
+  }
+}

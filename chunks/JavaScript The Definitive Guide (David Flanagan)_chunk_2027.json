@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2027",
+  "content": "tos que incluem todos os identificadores especificados em seus atributos class são coinciden-\ntes. A ordem dos identificadores não importa. Note que tanto o atributo class como os métodos \ngetElementsByClassName() separam identificadores de classe com espaços e não com vírgulas. Aqui \nestão alguns exemplos de getElementsByClassName():\n// Localiza todo os elementos que têm \"warning\" em seus atributos class\nvar warnings = document.getElementsByClassName(\"warning\");\n// Localiza todos os descendentes do elemento chamado \"log\" que têm a classe\n// \"error\" e a classe \"fatal\"\nvar log =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2027,
+    "totalChunks": 10000
+  }
+}

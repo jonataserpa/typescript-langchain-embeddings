@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5351",
+  "content": "809\n    método valueOf( ), 136, 809–810\n    métodos, 135, 791–792\n    métodos estáticos, 791–792\n    propriedade constructor, 791–792, 795–796\n    propriedade prototype, 115\nclasse RegExp, 29\n    método toString( ), 49\nclasse Uint16Array, 980\nclasse Uint32Array, 980\nclasse Uint8Array, 980\n\nÍndice          1011\nclasses, 29, 193–240\n (consulte também módulos; objetos)\n    aumentando pela adição de métodos no protóti-\npo, 202\n    construtoras,    195\n        e identidade de classe, 197\n        propriedade    constructor,    197\n    defi nição, exemplo, 8\n    defi nição, várias janelas e, 350",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5351,
+    "totalChunks": 10000
+  }
+}

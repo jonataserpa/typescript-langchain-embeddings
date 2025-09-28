@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1580",
+  "content": "é breve, destinado apenas a destacar algumas maneiras de usar JavaScript fora dos \nnavegadores Web. Ele não tenta abordar o Rhino ou o Node de forma abrangente e as APIs \ndiscutidas aqui não são abordadas na seção de referência. Obviamente, este capítulo não pode \ndocumentar a plataforma Java nem a API POSIX; portanto, a seção sobre Rhino presume certa \nfamiliaridade com Java e a seção sobre Node presume algum conhecimento de APIs Unix de \nbaixo nível.\n12.1   Scripts Java com Rhino\nO Rhino é um interpretador JavaScript escrito em Java e projetado para tornar fácil escrever progra-\nmas",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1580,
+    "totalChunks": 10000
+  }
+}

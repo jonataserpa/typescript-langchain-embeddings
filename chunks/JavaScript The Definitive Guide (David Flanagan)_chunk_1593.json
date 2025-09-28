@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1593",
+  "content": "camente pelo nome e pela assinatura:\n// Supõe que o objeto Java o tem um método chamado f que espera um int ou\n// um float. Em JavaScript, deve-se especificar a assinatura explicitamente:\n\n284          Parte     I     JavaScript     básica\no['f(int)'](3);        // Chama o método int\no['f(float)'](Math.PI);         // Chama o método float\nUm laço for/in pode ser usado para iterar pelos métodos, campos e propriedades de classes e objetos \nJava:\nimportClass(java.lang.System);\nfor(var m in System) print(m);  // Imprime os membros estáticos de java.lang.System\nfor(m in f) print(m);  // Imprime os",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1593,
+    "totalChunks": 10000
+  }
+}

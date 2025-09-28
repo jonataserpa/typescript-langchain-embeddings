@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2581",
+  "content": "ode ser usado para cancelar a ação padrão do navegador para o evento. Nos navega-\ndores que suportam addEventListener(), também é possível cancelar a ação padrão de um evento \nchamando o método preventDefault() do objeto evento. No IE antes do IE9, no entanto, você faz \no mesmo configurando como false a propriedade returnValue do objeto evento. O código a seguir \nmostra uma rotina de tratamento de evento fictícia que utiliza todas as três técnicas de cancelamento:\nfunction cancelHandler(event) {\n    var event = event || window.event;  // Para IE\n    /* Faz algo para tratar do evento aqui */",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2581,
+    "totalChunks": 10000
+  }
+}

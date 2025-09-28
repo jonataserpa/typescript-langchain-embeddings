@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_189",
+  "content": "são orientada a objetos de sort(a).\nA definição de método é abordada no Capítulo 9. Tecnicamente, em JavaScript apenas os objetos \npossuem métodos. Mas números, strings e valores booleanos se comportam como se tivessem méto-\ndos (a Seção 3.6 explica como isso funciona). Em JavaScript, \nnull e undefined são os únicos valores \nem que métodos não podem ser chamados.\nOs tipos de JavaScript podem ser divididos em tipos primitivos e tipos de objeto. E podem ser di-\nvididos em tipos com métodos e tipos sem métodos. Também podem ser classificados como tipos \nmutáveis e imutáveis. Um valor de um tipo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 189,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3039",
+  "content": "s (como o IE8 e anteriores) que não o suportam. Os objetos \nevento da jQuery têm o mesmo conjunto de campos em todos os navegadores. Isso é explicado em \ndetalhes na Seção 19.4.3.\nEm geral, as rotinas de tratamento de evento são chamadas apenas com o único argumento do obje-\nto evento. Mas se você dispara explicitamente um evento com \ntrigger() (consulte a Seção 19.4.6), \npode passar um array de argumentos extras. Se fizer isso, esses argumentos serão passados para a \nrotina de tratamento de evento após o primeiro argumento do objeto evento.\nIndependente de como é registrada, o valor de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3039,
+    "totalChunks": 10000
+  }
+}

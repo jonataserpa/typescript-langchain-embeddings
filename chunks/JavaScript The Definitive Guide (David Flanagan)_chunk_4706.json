@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4706",
+  "content": "icionado no documento como seu documentElement. \nSe nomeQualificado inclui um prefixo de namespace e dois-pontos, namespace deve ser o URI que \nidentifica exclusivamente o espaço de nomes. Se o argumento tipodoc não é null, a propriedade \nownerDocument desse objeto DocumentType é configurada como o documento recentemente criado \ne o nó DocumentType é adicionado no novo documento.\nDocumentType createDocumentType(string nomeQualificado, idPública, idSistema)\nEsse método cria e retorna um novo nó DocumentType para representar uma declaração <!DOCTYPE> \nque pode ser passada para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4706,
+    "totalChunks": 10000
+  }
+}

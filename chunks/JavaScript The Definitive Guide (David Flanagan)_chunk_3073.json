@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3073",
+  "content": "ro argumento e ele dispara \nas rotinas de tratamento registradas para eventos desse tipo em todos os elementos do objeto jQuery. \nAssim, a chamada de \nsubmit() anterior é equivalente a:\n$(\"#my_form\").trigger(\"submit\");\nAo contrário do que acontece com os métodos bind() e unbind(), você não pode especificar mais de \num tipo de evento nessa string. Contudo, assim como bind() e unbind(), pode especificar espaços de \nnomes de evento para disparar somente as rotinas de tratamento definidas nesse espaço de nomes. Se \nquiser disparar apenas rotinas de tratamento de evento que não têm espaço de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3073,
+    "totalChunks": 10000
+  }
+}

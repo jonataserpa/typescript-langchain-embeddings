@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3224",
+  "content": "ome do elemento do \narray ou propriedade do objeto, e o valor do elemento do array ou propriedade do objeto. O \nvalor de this para a função é igual ao segundo argumento. Se a função retorna false, jQuery.\neach() retorna imediatamente, sem concluir a iteração. jQuery.each() sempre retorna seu pri-\nmeiro argumento.\njQuery.each() enumera propriedades de objeto com um laço for/in normal, de modo que to-\ndas as propriedades enumeráveis são iteradas, mesmo as propriedades herdadas. jQuery.each() \nenumera elementos de array em ordem numérica pelo índice e não pula as propriedades inde-\nfinidas de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3224,
+    "totalChunks": 10000
+  }
+}

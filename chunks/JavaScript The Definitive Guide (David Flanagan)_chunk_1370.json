@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1370",
+  "content": "módulo retornou a construtora, a qual atribuímos então a uma variável global. O fato de \no valor ser retornado torna muito claro que ele está sendo exportado para fora do escopo da função. \nOs módulos que têm mais de um item na API podem retornar um objeto namespace. Para nosso \nmódulo sets, poderíamos escrever código como este:\n// Cria uma única variável global para conter todos os módulos relacionados a collection\nvar collections;\nif (!collections) collections = {};\n// Agora define o módulo sets\ncollections.sets = (function namespace() {\n    // Define as várias classes set aqui, usando",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1370,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3958",
+  "content": "pesquisa um objeto chamando o mé-\ntodo \nget() objeto armazenado ou armazena um novo objeto chamando put(). (Ou chamando add(), \nse não quiser sobrescrever objetos já existentes.) Se quiser pesquisar os objetos de um intervalo de \nchaves, crie um objeto IDBRange e passe-o para o método \nopenCursor() no objeto armazenado. Ou \nentão, se quiser fazer uma pesquisa usando uma chave secundária, pesquise o índice nomeado do \nobjeto armazenado e então chame o método \nget() ou openCursor() do objeto índice.\nContudo, essa simplicidade conceitual é complicada pelo fato de que a API precisa ser",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3958,
+    "totalChunks": 10000
+  }
+}

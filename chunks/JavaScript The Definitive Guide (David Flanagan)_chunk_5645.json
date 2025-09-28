@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5645",
+  "content": "rabalhando com arquivos no sistema de arquivos \nlocal, 684–685\n    usando API de sistema de arquivos assíncrona, \n685–686\n    usando API de sistema de arquivos síncrona, 689\nsistemas em caixa de areia, 260\nsistemas operacionais\n    navegadores Web como, 302\n    operações de arrastar e soltar baseadas nos, 442\nsniffi  ng de cliente, 322\nsniffi  ng de navegador, 322, 337\n    usando navigator.userAgent, 338\nsobrecarga de construtoras, 221\nsobreposição de janelas translúcidas (exemplo de \nCSS), 418–420\nsombras, desenhando no canvas, 639, 852–853\nsoquetes Web, 697–700\n    criando cliente de chat",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5645,
+    "totalChunks": 10000
+  }
+}

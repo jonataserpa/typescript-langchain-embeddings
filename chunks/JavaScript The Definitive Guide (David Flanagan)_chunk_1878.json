@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1878",
+  "content": "O Exemplo 14-1 define uma função utilitária que espera uma quantidade de tempo especificada, \nchama uma função repetidamente e então cancela as chamadas após outra quantidade de tempo \nespecificada. Ele demonstra \nsetTimeout(), setInterval() e clearInterval().\nExemplo 14-1 Uma função cronômetro utilitária\n/*\n * Agenda uma (ou mais) chamada de f() no futuro.\n * Espera start milissegundos e então chama f() a cada interval milissegundos,\n * parando após um total de start+end milissegundos.\n * Se interval for especificado, mas end for omitido, então nunca para de chamar f.\n * Se interval e end",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1878,
+    "totalChunks": 10000
+  }
+}

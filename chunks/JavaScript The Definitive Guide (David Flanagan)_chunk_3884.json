@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3884",
+  "content": "// Envia o pedido agora\n}\nSe o Blob é muito grande e você quiser começar a processá-lo enquanto ele está sendo baixado, \npode usar uma rotina de tratamento de evento \nonprogress, junto com as técnicas de leitura de Blob \ndemonstradas na Seção 22.6.5.\n22.6.3   Construindo   Blobs\nOs Blobs frequentemente representam trechos de dados de uma fonte externa, como um arquivo lo-\ncal, um URL ou um banco de dados. Mas às vezes um aplicativo Web quer criar seus próprios Blobs \npara carregar na Web ou armazenar em um arquivo ou banco de dados ou passar para outra thread. \nPara criar um Blob a partir de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3884,
+    "totalChunks": 10000
+  }
+}

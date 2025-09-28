@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3007",
+  "content": "pode ser um objeto \njQuery ou um objeto Element ou Node de texto. A inserção é feita no local, antes ou depois ou no \nlugar de (dependendo do método) cada um dos elementos selecionados. Se o conteúdo a ser inserido \né um elemento que já existe no documento, ele é movido de seu local atual. Se vai ser inserido mais \nde uma vez, o elemento é clonado conforme o necessário. Todos esses métodos retornam o objeto \njQuery no qual são chamados. Note, entretanto, que após a execução de replaceWith(), os elementos \ndo objeto jQuery não estão mais no documento:\n$(\"#log\").append(\"<br/>\"+message);   //",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3007,
+    "totalChunks": 10000
+  }
+}

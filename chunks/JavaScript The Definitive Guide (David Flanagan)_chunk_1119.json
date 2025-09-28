@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1119",
+  "content": "amos\n// a propriedade Range.prototype.constructor criada automaticamente.\nRange.prototype.includes = function(x) { return this.from<=x && x<=this.to; };\nRange.prototype.foreach = function(f) {\n    for(var x = Math.ceil(this.from); x <= this.to; x++) f(x);\n};\nRange.prototype.toString = function() {\n    return \"(\" + this.from + \"...\" + this.to + \")\";\n};\n\nCapítulo 9     Classes e módulos      199\nJavaScript básica\n9.3   Classes estilo Java em JavaScript\nSe você já programou em Java ou em uma linguagem orientada a objetos fortemente tipada seme-\nlhante, pode estar acostumado a pensar em quatro",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1119,
+    "totalChunks": 10000
+  }
+}

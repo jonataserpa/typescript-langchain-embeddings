@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2924",
+  "content": "res da jQuery e como usar métodos de seleção avançados da \njQuery\n •   Como estender a jQuery usando e escrevendo plug-ins\n •   A biblioteca jQuery UI (para interface do usuário)\n19.1   Fundamentos da jQuery\nA biblioteca jQuery define uma única função global chamada jQuery(). Essa função é utilizada com \ntanta frequência que a biblioteca também define o símbolo global $ como atalho para ela. Esses são \nos dois únicos símbolos que a jQuery define no espaço de nomes global\n2\n.\nEssa única função global com dois nomes é a principal função de consulta da jQuery. Aqui, por exem-\nplo, você pode ver",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2924,
+    "totalChunks": 10000
+  }
+}

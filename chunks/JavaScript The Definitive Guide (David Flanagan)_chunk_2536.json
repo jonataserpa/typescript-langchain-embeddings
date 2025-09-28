@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2536",
+  "content": "n-\nciam letras maiúsculas e minúsculas e são escritos com todas as letras minúsculas, mesmo quando o \ntipo de evento (como “readystatechange”) consiste em várias palavras. Aqui estão dois exemplos de \nregistro de rotina de tratamento de evento:\n// Configura a propriedade onload do objeto Window em uma função.\n// A função é a rotina de tratamento de evento: ela é chamada quando o documento é \n// carregado.\nwindow.onload = function() {\n    // Pesquisa um elemento <form>\n    var elt = document.getElementById(\"shipping_address\");\n    // Registra uma função de tratamento de evento que vai ser",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2536,
+    "totalChunks": 10000
+  }
+}

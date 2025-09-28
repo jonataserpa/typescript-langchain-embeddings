@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4440",
+  "content": "ntro de string onde a coincidência ocorreu e o último argumento da fun-\nção substituição é a própria string.\nExemplo\nPara garantir que as letras maiúsculas da palavra “JavaScript” estejam corretas:\ntext.replace(/javascript/i, \"JavaScript\");\nPara converter um nome do formato “Doe, John” para o formato “John Doe”:\nname.replace(/(\\w+)\\s*,\\s*(\\w+)/, \"$2 $1\");\nPara substituir todas as aspas duplas por aspas duplas para trás e aspas simples para frente:\ntext.replace(/\"([^\"]*)\"/g, \"''$1''\");\nPara que a primeira letra de todas as palavras em uma string seja maiúscula:\ntext.replace(/\\b\\w+\\b/g,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4440,
+    "totalChunks": 10000
+  }
+}

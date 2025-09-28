@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2030",
+  "content": "cumento, mas geralmente são dinâmicos e a lista \nde  elementos  que  contêm  pode  variar  à  medida  que  o  documento  muda.  Suponha  que  você  chame  \ngetElementsByTagName('div') em um documento sem nenhum elemento <div>. O valor de retorno é \num NodeList com \nlength igual a 0. Se, então, você insere um novo elemento <div> no documento, esse \nelemento se torna automaticamente um membro do NodeList e a propriedade \nlength muda para 1.\nNormalmente, o caráter dinâmico de NodeLists e HTMLCollections é muito útil. Contudo, se você vai adi-\ncionar ou remover elementos do documento enquanto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2030,
+    "totalChunks": 10000
+  }
+}

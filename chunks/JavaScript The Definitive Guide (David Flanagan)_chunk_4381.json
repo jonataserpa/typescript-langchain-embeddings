@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4381",
+  "content": "new ReferenceError()\nnew ReferenceError(mensagem)\nArgumentos\nmensagem\nUma mensagem de erro opcional fornecendo detalhes sobre a exceção. Se for especificado, esse \nargumento é usado como valor da propriedade message do objeto ReferenceError.\nRetorna\nUm objeto ReferenceError recentemente construído. Se o argumento mensagem é especificado, o objeto \nError o utiliza como valor de sua propriedade message; caso contrário, utiliza como valor dessa pro-\npriedade uma string padrão definida pela implementação. Quando a construtora ReferenceError() é \nchamada como função, sem o operador new, se",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4381,
+    "totalChunks": 10000
+  }
+}

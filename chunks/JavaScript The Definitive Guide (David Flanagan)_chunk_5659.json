@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5659",
+  "content": "Java, conversões no Rhino, 285\n    métodos,    29\n    números,    30–35\n        binários em ponto fl utuante e erros de arredon-\ndamento, 33\n        datas e horas, 34\n        literais em ponto fl utuante, 31\n        literais    inteiras,    31\n    objetos e arrays, 5\n    operador typeof, 80–81\n    operando e tipo de resultado, 63\n    texto,    35–39\n        comparação de padrões, 38\n        sequências de escape em strings literais, 36\n        strings    literais,    35\n        trabalhando com strings, 37\n    tipos de dados Ajax da jQuery, 549\n    tipos mutáveis e imutáveis, 30\n    tipos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5659,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5427",
+  "content": "782\nfunção seal( ), 134, 807–808\nfunção setInterval( ), 289, 314\nfunção setTimeout( ), 289, 314\n    implementando tempos-limite para XMLHttpRe-\nquest, 497\nfunção sin( ), objeto Math, 783–784\nfunção sqrt( ), objeto Math, 783–784\nfunção String( ), conversões de tipo com, 46\nfunção stringify( ), 135, 772–773\nfunção tan( ), objeto Math, 784–785\nfunção trigger( ), 535\nfunção trim( ), 560\nfunção unescape( ) (desaprovada), 839–840\nfunção writeFile( ), 291\nfunção writeFileSync( ), 291\nfuncionalidade de edição de rich-text, 400\nfunções, 158–192\n    aninhadas,    301\n    aplicação parcial de,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5427,
+    "totalChunks": 10000
+  }
+}

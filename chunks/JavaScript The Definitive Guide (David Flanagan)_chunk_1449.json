@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1449",
+  "content": "sult.index +\n          \"; next search begins at \" + pattern.lastIndex);\n}\nO outro método de RegExp é test(). test() é um método muito mais simples do que exec(). Ele \nrecebe uma string e retorna true se a string contém uma correspondência para a expressão regular:\nvar pattern = /java/i;\npattern.test(\"JavaScript\");     //     Retorna     true\nChamar test() é equivalente a chamar exec() e retornar true se o valor de retorno de exec() não for \nnull. Devido a essa equivalência, o método test() se comporta da mesma maneira que o método \nexec() quando chamado para uma expressão regular global: ele",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1449,
+    "totalChunks": 10000
+  }
+}

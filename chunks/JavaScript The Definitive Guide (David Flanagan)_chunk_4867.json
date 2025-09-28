@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4867",
+  "content": "ultipart/form-data usando um XMLHttpRequest. A codificação mul-\ntipart é necessária, por exemplo, se você quer carregar vários objetos File em uma única requisição.\nCrie um objeto FormData com a construtora e então adicione nele pares nome/valor com o método \nappend(). Uma vez que você tenha adicionado todas as partes do corpo de sua requisição, pode passar \no FormData para o método send() de um XMLHttpRequest.\n\n916          Parte IV     Referência de JavaScript do lado do cliente\nConstrutora\nnew FormData()\nEssa construtora sem argumentos retorna um objeto FormData vazio.\nMétodos\nvoid",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4867,
+    "totalChunks": 10000
+  }
+}

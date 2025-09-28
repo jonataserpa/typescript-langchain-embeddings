@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3084",
+  "content": "vento personalizado\n// para qualquer observador interessado que precise salvar seu estado e então\n// navegar para a página de logoff.\n$(\"#logoff\").click(function() {\n    $.event.trigger(\"logoff\");      // Transmite um evento\n    window.location = \"logoff.php\"; // Navega para uma nova página\n});\nVamos ver, na Seção 19.6.4, que os métodos Ajax da jQuery transmitem eventos personalizados \ncomo esse para notificar ouvintes interessados.\n19.4.8   Eventos   dinâmicos\nO método bind() vincula rotinas de tratamento de evento a elementos específicos do documento, \nexatamente como fazem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3084,
+    "totalChunks": 10000
+  }
+}

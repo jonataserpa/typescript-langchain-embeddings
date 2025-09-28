@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_742",
+  "content": "ct.defineProperties({}, {\n    x: { value: 1, writable: true, enumerable:true, configurable:true },\n    y: { value: 1, writable: true, enumerable:true, configurable:true },\n    r:    {\n        get: function() { return Math.sqrt(this.x*this.x + this.y*this.y) },\n        enumerable:true,\n        configurable:true\n }\n});\nEsse código começa com um objeto vazio e depois adiciona nele duas propriedades de dados e uma \npropriedade de acesso somente para leitura. Ele conta com o fato de que \nObject.defineProperties() \nretorna o objeto modificado (como acontece com Object.defineProperty()).\n\n130",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 742,
+    "totalChunks": 10000
+  }
+}

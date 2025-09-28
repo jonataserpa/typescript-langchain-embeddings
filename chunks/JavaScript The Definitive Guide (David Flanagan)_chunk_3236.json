@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3236",
+  "content": "ncia \nde recursos do navegador. A maior parte dessas propriedades de jQuery.support são detalhes \nde baixo nível utilizados internamente pela jQuery. Elas podem ter interesse para escritores de \nplug-ins, mas de modo geral não são úteis para escritores de aplicativos. Uma exceção é jQuery.\nsupport.boxModel: essa propriedade é true se o navegador usa o modelo CSS padrão “context-\n-box” e é false no IE6 e no IE7 no modo Quirks (consulte a Seção 16.2.3.1).\njQuery.trim()\nEsta função é como o método trim() acrescido de strings em ES5. Ela espera uma string como \nseu único argumento e retorna uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3236,
+    "totalChunks": 10000
+  }
+}

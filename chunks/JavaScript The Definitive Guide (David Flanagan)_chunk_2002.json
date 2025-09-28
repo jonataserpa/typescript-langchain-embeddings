@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2002",
+  "content": "ocumento, eles precisam de algum modo obter ou selecionar os objetos Element que se referem a \nesses elementos de documento. O DOM define várias maneiras de selecionar elementos. Você pode \nconsultar um documento quanto a um elemento (ou elementos):\n •   com um atributo \nid especificado;\n •   com um atributo \nname especificado;\n •   com o nome de marcação especificado;\n •   com a classe ou classes CSS especificadas; ou\n •   correspondente ao seletor CSS especificado\nAs subseções a seguir explicam cada uma dessas técnicas de seleção de elemento.\n15.2.1   Selecionando elementos pela",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2002,
+    "totalChunks": 10000
+  }
+}

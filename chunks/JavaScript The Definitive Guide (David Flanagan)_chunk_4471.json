@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4471",
+  "content": "ade  contém  a  \nstring passada para a construtora ou uma string padrão definida pela implementação. Consul-\nte Errormessage para ver os detalhes.\nname\nUma  string  especificando  o  tipo  da  exceção.  Todos  os  objetos  TypeError  herdam  o  valor  \n“TypeError” dessa propriedade.\nDescrição\nUma instância da classe TypeError é lançada quando um valor não é do tipo esperado. Isso aconte-\nce mais frequentemente quando se tenta acessar uma propriedade de um valor null ou undefined. \nTambém pode ocorrer se você chama um método definido por uma classe em um objeto que é \numa instância de alguma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4471,
+    "totalChunks": 10000
+  }
+}

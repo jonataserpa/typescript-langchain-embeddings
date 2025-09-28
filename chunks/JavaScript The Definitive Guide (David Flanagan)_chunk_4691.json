@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4691",
+  "content": "ficada. Alguns comandos de edição, como “negrito” e “itáli-\nco,” têm um estado true se o cursor ou a seleção está em itálico e false, caso contrário. Contudo, \na maioria dos comandos não tem estado e esse método sempre retorna false para eles. Consulte a \nSeção 15.10.4.\nboolean queryCommandSupported(string idComando)\nRetorna true se o navegador suporta o comando especificado e false, caso contrário. Consulte a \nSeção 15.10.4.\nstring queryCommandValue(string idComando)\nRetorna o estado do comando especificado como uma string. Consulte a Seção 15.10.4.\nElement querySelector(string",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4691,
+    "totalChunks": 10000
+  }
+}

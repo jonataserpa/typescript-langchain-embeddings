@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1977",
+  "content": "se referir à variável com o identificador i ou pode referenciá-la \nexplicitamente por meio do objeto Window:\nwindow.i\nComo o script do quadro B pode se referir ao objeto Window do quadro A, também pode se referir \nàs propriedades desse objeto:\nparent.A.i = 4;  // Altera o valor de uma variável no quadro A\nLembre-se de que a palavra-chave function, que define funções, cria uma variável exatamente como \nfaz a palavra-chave var. Se um script no quadro B declara uma função f (não aninhada), essa função \né uma variável global no quadro B e o código do quadro B pode chamar \nf como f(). Entretanto,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1977,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4735",
+  "content": "O valor do atributo style que especifica estilos CSS em linha para esse elemento. Note que \no valor dessa propriedade não é uma string, mas um objeto com propriedades de leitura/gra-\nvação correspondentes aos atributos de estilo CSS. Consulte CSSStyleDeclaration para ver os \ndetalhes.\nreadonly string tagName\nO nome de tag do elemento. Para documentos HTML, o nome de tag é retornado em maiús-\nculas, independente da caixa das letras na origem do documento; portanto, um elemento <p> \nteria uma propriedade tagName “P”. Os documentos XML diferenciam letras maiúsculas e mi-\nnúsculas e o nome de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4735,
+    "totalChunks": 10000
+  }
+}

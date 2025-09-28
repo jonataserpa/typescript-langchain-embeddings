@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_240",
+  "content": "do, com uma API útil. A gramática da expressão \nregular é complexa e a API não é trivial. Elas estão documentadas em detalhes no Capítulo 10. No \nentanto, como os objetos RegExp são poderosos e utilizados comumente para processamento de \ntexto, esta seção fornece uma breve visão geral.\nEmbora os objetos RegExp não sejam um dos tipos de dados fundamentais da linguagem, eles têm \numa sintaxe literal e podem ser codificados diretamente nos programas JavaScript. O texto entre um \npar de barras normais constitui uma expressão regular literal. A segunda barra normal do par também \npode ser seguida",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 240,
+    "totalChunks": 10000
+  }
+}

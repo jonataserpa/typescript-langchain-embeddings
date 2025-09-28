@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4445",
+  "content": "argumento for negativo, espe-\ncifica uma posição medida a partir do fim da string.\n\n      Referência de JavaScript básica      831\nReferência de \nJavaScript básica\nRetorna\nUma nova string contendo todos os caracteres de \nstring a partir de (e incluindo) início até (mas \nexcluindo) fim.\nDescrição\nslice() retorna uma string contendo uma fatia (ou substring) de string. Não modifica string.\nOs métodos de String \nslice(), substring() e o desaprovado substr() retornam partes específicas de \numa string. slice() é mais flexível do que substring(), pois permite valores de argumento negativos. \nslice()",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4445,
+    "totalChunks": 10000
+  }
+}

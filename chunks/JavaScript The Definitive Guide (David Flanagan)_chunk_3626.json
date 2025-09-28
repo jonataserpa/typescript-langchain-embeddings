@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3626",
+  "content": "t(280-3,280-3,6,6);\n// Define alguns atributos gráficos e desenha as curvas\nc.fillStyle = \"#aaa\"; // Preenchimentos cinza\nc.lineWidth = 5;      // Linhas pretas de 5 pixels (por default)\nc.fill();             // Preenche as curvas\nc.stroke();           // Traça seus contornos\n21.4.6   Retângulos\nCanvasRenderingContext2D define quatro métodos para desenhar retângulos. O Exemplo 21-7 \nusou um deles, \nfillRect(), para marcar os pontos de controle das curvas Bezier. Todos esses quatro \nmétodos de retângulo esperam dois argumentos que especificam um canto do retângulo, seguidos \nde sua largura e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3626,
+    "totalChunks": 10000
+  }
+}

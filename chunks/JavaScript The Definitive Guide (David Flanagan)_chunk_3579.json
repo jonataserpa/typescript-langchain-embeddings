@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3579",
+  "content": "stado gráfico geral do canvas. Se você define um método que desenha uma forma \ne não configura essas propriedades, o chamador de seu método pode definir a cor da forma \nconfigurando as propriedades strokeStyle e fillStyle antes de chamar o método. Essa separação \nde estado gráfico dos comandos de desenho é fundamental para a API Canvas e é semelhante à \nseparação da apresentação do conteúdo obtida pela aplicação de folhas de estilos CSS em docu-\nmentos HTML.\nA API Canvas define 15 propriedades de atributo gráfico no objeto CanvasRenderingContext-\n2D. Essas propriedades estão listadas na",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3579,
+    "totalChunks": 10000
+  }
+}

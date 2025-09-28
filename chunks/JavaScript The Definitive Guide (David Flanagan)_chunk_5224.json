@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5224",
+  "content": "pRequest.\nMétodos\nO objeto Window define os métodos a seguir e também herda todas as funções globais definidas por \nJavaScript básica (consulte Global, na Parte III).\nvoid alert(string mensagem)\nO método alert() exibe a mensagem de texto puro especificada para o usuário, em uma caixa de \ndiálogo. A caixa de diálogo contém um botão OK em que o usuário pode clicar para fechá-la. Nor-\nmalmente, a caixa de diálogo é modal (pelo menos para a guia corrente) e a chamada de alert() \nbloqueia até que a caixa de diálogo seja fechada.\nstring atob(string aparab)\nEssa função utilitária aceita uma string",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5224,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4289",
+  "content": "res, você também pode usar -Infinity, \nem vez de Number.NEGATIVE_INFINITY.\nConsulte também\nInfinity, isFinite()\nNumber.POSITIVE_INFINITY\ninfinito\nSinopse\nNumber.POSITIVE_INFINITY\nDescrição\nNumber.POSITIVE_INFINITY é um valor numérico especial retornado quando uma operação aritmé-\ntica ou função matemática estoura ou gera um valor maior do que o maior número representável \nem JavaScript (isto é, maior do que Number.MAX_VALUE). Note que quando os números causam um \n“estouro negativo” ou se tornam menores do que Number.MIN_VALUE, JavaScript os converte em zero.\nJavaScript exibe o valor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4289,
+    "totalChunks": 10000
+  }
+}

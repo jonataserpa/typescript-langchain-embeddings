@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5135",
+  "content": "m  das  propriedades  listadas  aqui,  os  elementos  Select  também  definem  as  propriedades  de  \nElement e FormControl e espelham atributos HTML com as seguintes propriedades de JavaScript: \nmultiple, required e size.\nunsigned long length\nO número de elementos no conjunto options. Os objetos Select em si são objetos semelhantes \na um array e, para um objeto Select s e um número n, s[n] é o mesmo que s.options[n].\nreadonly HTMLOptionsCollection options\nUm objeto semelhante a um array de elementos Option contidos nesse elemento Select. Con-\nsulte HTMLOptionsCollection para ver uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5135,
+    "totalChunks": 10000
+  }
+}

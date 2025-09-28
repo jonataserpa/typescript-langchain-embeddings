@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2271",
+  "content": "rito o texto \natualmente selecionado. Em outros navegadores (como o Firefox), atalhos de processador de texto \npadrão, como Ctrl-B e Ctrl-I, são funções interligadas, relacionadas ao navegador, não estando dis-\nponíveis para o editor de texto.\nOs navegadores definem vários comandos de edição de texto, a maioria dos quais não tem atalhos \nde teclado. Para executar esses comandos, você utiliza o método \nexecCommand() do objeto Docu-\nment. (Note que esse é um método do objeto Document e não do elemento no qual o atributo \ncontenteditable é configurado. Se um documento contém mais de um elemento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2271,
+    "totalChunks": 10000
+  }
+}

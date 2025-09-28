@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1532",
+  "content": "g(n); // Imprime números 3 a 8.\nAs funções geradoras nunca precisam retornar. Na verdade, um exemplo canônico é o uso de um \ngerador para gerar os números de Fibonacci:\n// Uma função geradora que gera a sequência de Fibonacci\nfunction fibonacci() {\n    let x = 0, y = 1;\n    while(true)    {\n        yield    y;\n        [x,y] = [y,x+y];\n }\n}\n// Chama a função geradora para obter um gerador.\nf = fibonacci();\n// Usa o gerador como iterador, imprimindo os 10 primeiros números de Fibonacci.\nfor(let i = 0; i < 10; i++) console.log(f.next());\nObserve que a função geradora fibonacci() nunca retorna.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1532,
+    "totalChunks": 10000
+  }
+}

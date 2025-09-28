@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_667",
+  "content": "o argumento. Note que inherit() não substitui Object.create() totalmente: ela não permite \na criação de objetos com protótipos null e não aceita o segundo argumento opcional que Object.\ncreate() aceita. Contudo, vamos usar inherit() em vários exemplos neste capítulo e novamente no \nCapítulo 9.\nUm uso de nossa função \ninherit() é quando você quer se precaver contra a modificação não inten-\ncional (mas não mal-intencionada) de um objeto por uma função de biblioteca sobre a qual não \ntem controle. Em vez de passar o objeto diretamente para a função, você pode passar um herdeiro. \nSe a função lê",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 667,
+    "totalChunks": 10000
+  }
+}

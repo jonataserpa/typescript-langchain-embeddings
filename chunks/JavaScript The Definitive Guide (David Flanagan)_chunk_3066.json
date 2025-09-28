@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3066",
+  "content": "mento de evento podem ser desvinculadas usando-se essa versão de dois argu-\nmentos de unbind() mesmo quando foram registradas com um valor de dados extra, usando a versão \nde três argumentos de bind().\nVocê também pode passar um único argumento objeto para \nunbind(). Nesse caso, unbind() é chama-\ndo recursivamente para cada propriedade do objeto. O nome da propriedade é usado como string de \ntipo de evento e o valor da propriedade é usado como função de tratamento:\n$('a').unbind({  // Remove rotinas de tratamento de mouseover e mouseout específicas\n    mouseover:    mouseoverHandler,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3066,
+    "totalChunks": 10000
+  }
+}

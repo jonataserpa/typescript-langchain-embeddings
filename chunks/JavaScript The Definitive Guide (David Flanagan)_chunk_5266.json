@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5266",
+  "content": "navegados nem recarregados, de modo \nque as propriedades de um objeto WorkerLocation são somente de leitura e o objeto não implemen-\nta os métodos do objeto Location.\nO objeto WorkerLocation não converte automaticamente para uma string, como faz um objeto \nlocation normal. Em um worker, você não pode escrever simplesmente \nlocation quando quer dizer \nlocation.href.\nPropriedades\nEstas propriedades têm os mesmos significados das propriedades de mesmo nome do objeto Location.\nreadonly string hash\nA parte do identificador de fragmento do URL, incluindo o sinal numérico à esquerda.\nreadonly",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5266,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_81",
+  "content": "ento do objeto \"this\"\n    var a = p2.x-p1.x; // Diferença em coordenadas X\n    var b = p2.y-p1.y; // Diferença em coordenadas Y\n    return Math.sqrt(a*a +       // O teorema de Pitágoras\n        b*b);         // Math.sqrt() calcula a raiz quadrada\n};\npoints.dist() // => 1,414: distância entre nossos 2 pontos\nAgora, conforme prometido, aqui estão algumas funções cujos corpos demonstram instruções de \nestruturas de controle JavaScript comuns:\n// As instruções JavaScript incluem condicionais e laços que usam a sintaxe\n// das linguagens C, C++, Java e outras.\nfunction abs(x) { // Uma função para",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 81,
+    "totalChunks": 10000
+  }
+}

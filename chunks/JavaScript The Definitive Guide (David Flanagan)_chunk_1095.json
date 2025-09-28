@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1095",
+  "content": "presentando um intervalo de valores (range).\n// Esta é uma função fábrica que retorna um novo objeto range.\nfunction range(from, to) {\n    // Usa a função inherit() para criar um objeto que herda do\n    // objeto protótipo definido a seguir. O objeto protótipo é armazenado\n    // como uma propriedade dessa função e define os métodos compartilhados          \n    //    (comportamento)\n    // de todos os objetos range.\n    var r = inherit(range.methods);\n    // Armazena os pontos inicial e final (estado) desse novo objeto range.\n    // Essas são propriedades não herdadas exclusivas desse",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1095,
+    "totalChunks": 10000
+  }
+}

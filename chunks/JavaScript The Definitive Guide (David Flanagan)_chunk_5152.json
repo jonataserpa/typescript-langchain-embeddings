@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5152",
+  "content": "métodos e propriedades \ntornam mais fácil trabalhar com tabelas, mas sua funcionalidade também pode ser duplicada com \nmétodos DOM básicos.\nAs  tabelas  HTML  são  compostas  de  seções,  linhas  e  células.  Consulte  \nTableCell, TableRow  e  \nTableSection.\nPropriedades\nAlém das propriedades listadas aqui, os elementos Table também têm uma propriedade summary que \nespelha o atributo HTML de mesmo nome.\nElement caption\nUma referência ao elemento <caption> da tabela ou null, se não houver nenhum.\nreadonly HTMLCollection rows\nUm objeto semelhante a um array de objetos TableRow representando",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5152,
+    "totalChunks": 10000
+  }
+}

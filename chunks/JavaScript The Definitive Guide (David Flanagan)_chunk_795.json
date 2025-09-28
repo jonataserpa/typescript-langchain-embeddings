@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_795",
+  "content": "ência ao array deve apare-\ncer à esquerda dos colchetes. Uma expressão arbitrária que tenha um valor inteiro não negativo deve \nficar dentro dos colchetes. Essa sintaxe pode ser usada tanto para ler como para gravar o valor de um \nelemento de um array. Assim, todas as instruções JavaScript a seguir são válidas:\nvar a = [\"world\"];    // Começa com um array de um elemento\nvar value = a[0];     // Lê o elemento 0\n\nCapítulo     7     Arrays          139\nJavaScript básica\na[1] = 3.14;          // Grava o elemento 1\ni = 2;\na[i] = 3;             // Grava o elemento 2\na[i + 1] = \"hello\";   // Grava o",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 795,
+    "totalChunks": 10000
+  }
+}

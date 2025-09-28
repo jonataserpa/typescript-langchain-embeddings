@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_157",
+  "content": "* Ele tem várias linhas.\n*/\n2.3   Literais\nUm literal é um valor de dados que aparece diretamente em um programa. Os valores seguintes são \ntodos literais:\n12       // O número doze\n1.2       // O número um ponto dois\n\"hello world\"      // Uma string de texto\n'Hi'      // Outra string\ntrue      // Um valor booleano\nfalse    // O outro valor booleano\n/javascript/gi     //          Uma \"expressão regular\" literal (para comparação de padrões)\nnull                // Ausência de um objeto\nOs detalhes completos sobre literais numéricos e string aparecem no Capítulo 3. As expressões regu-\nlares",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 157,
+    "totalChunks": 10000
+  }
+}

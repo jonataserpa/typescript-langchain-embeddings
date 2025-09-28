@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3796",
+  "content": "o permite ao usuário ver o que as pessoas estão tuitando sobre o destino do link,\n// antes de clicar nele.\nwindow.addEventListener(\"load\", function() {              // Não funciona no IE < 9\n    var origin = \"http://davidflanagan.com\";              // Origem do gadget\n    var gadget = \"/demos/TwitterSearch.html\";             // Caminho do gadget\n    var iframe = document.createElement(\"iframe\");       // Cria o iframe\n\nCapítulo 22     APIs de HTML5      665\nJavaScript do\n lado do cliente\n    iframe.src = origin + gadget;                        // Configura seu URL\n    iframe.width = \"250\";",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3796,
+    "totalChunks": 10000
+  }
+}

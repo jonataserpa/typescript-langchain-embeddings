@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_350",
+  "content": "estrito de ECMAScript 5, entretanto, uma tentativa de \navaliar com uma variável inexistente lança um ReferenceError.\n4.2   Inicializadores de objeto e array\nOs inicializadores de objeto e array são expressões cujo valor é um objeto ou array recém-criado. \nEssas expressões inicializadoras às vezes são chamadas de “objetos literais” e “array literais.” Contudo, \nao contrário dos verdadeiros literais, elas não são expressões primárias, pois incluem várias subex-\npressões que especificam valores de propriedade e elemento. Os inicializadores de array têm uma \nsintaxe um pouco mais simples e vamos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 350,
+    "totalChunks": 10000
+  }
+}

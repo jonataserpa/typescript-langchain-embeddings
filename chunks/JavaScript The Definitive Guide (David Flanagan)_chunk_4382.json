@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4382",
+  "content": "implementação. Quando a construtora ReferenceError() é \nchamada como função, sem o operador new, se comporta exatamente como faria com o operador new.\nPropriedades\nmessage\nUma  mensagem  de  erro  fornecendo  detalhes  sobre  a  exceção.  Essa  propriedade  contém  a  \nstring passada para a construtora ou uma string padrão definida pela implementação. Consul-\nte Error.message para ver os detalhes.\n\n814          Parte III     Referência de JavaScript básica\nname\nUma string especificando o tipo da exceção. Todos os objetos ReferenceError herdam o valor \n“ReferenceError” dessa",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4382,
+    "totalChunks": 10000
+  }
+}

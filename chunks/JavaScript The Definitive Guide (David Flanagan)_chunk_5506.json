@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5506",
+  "content": "defi nição, 7\n    emprestando,    218\n    especiais, restrição em subconjuntos seguros, 260\n    expressões de chamada, 60\n    Java, chamando com programas JavaScript no \nRhino, 283\n    jQuery,    514\n    métodos de objeto comuns, 135\n        toJSON(    ),    135–136\n        toLocaleString(    ),    135–136\n        toString(    ),    135–136\n        valueOf(    ),    136\nmétodos __defi neGetter__( ) e __defi neSetter__( ), \n131, 365\nmétodos __lookupGetter__( ) e __lookupSetter__( ), \n131\nmétodos abstratos, 222\nmétodos de comparação, implementação em classes, \n215–218\n    método compareTo(",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5506,
+    "totalChunks": 10000
+  }
+}

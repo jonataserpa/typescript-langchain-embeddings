@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5060",
+  "content": "normalmente \nentre contextos de execução JavaScript, como janelas ou threads worker. Os MessagePorts devem ser \nusados em pares conectados – consulte \nMessageChannel. Chamar postMessage() em um MessagePort \ndispara um evento message no MessagePort com o qual está conectado. A API de troca de men-\nsagens entre origens (Seção 22.3) e os Web Workers (Seção 22.4) também se comunicam usando \num método \npostMessage() e eventos message. Na verdade, essas APIs usam um objeto MessagePort \nimplícito. O uso explícito de MessageChannel e MessagePort permite a criação de canais de comu-\nnicação privativos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5060,
+    "totalChunks": 10000
+  }
+}

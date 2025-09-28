@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_154",
+  "content": "eles são tratados como caracteres ASCII nesse contexto e não são interpretados como \nUnicode.\n2.1.4   Normalização\nO Unicode permite mais de uma maneira de codificar o mesmo caractere. A string “é”, por exemplo, \npode ser codificada como o caractere Unicode \n\\u00E9 ou como um caractere ASCII “e” normal, \nseguido da marca de combinação de acento agudo \n\\u0301. Essas duas codificações podem parecer \nexatamente a mesma quando exibidas por um editor de textos, mas têm diferentes codificações \nbinárias e são consideradas diferentes pelo computador. O padrão Unicode define a codificação pre-\nferida",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 154,
+    "totalChunks": 10000
+  }
+}

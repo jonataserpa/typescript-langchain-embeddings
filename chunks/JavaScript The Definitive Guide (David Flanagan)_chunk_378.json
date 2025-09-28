@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_378",
+  "content": "bui a uma variável ou \npropriedade\nD2\nlval,qualquer→\nqualquer\n*=, /=, %=, +=,    Opera e atribuiD    2\nlval,qualquer→qualquer\n-=, &=, ^=, |=,\n<<=, >>=, >>>=\n,Descarta 1º operando, retorna \no segundo\nE2\nqualquer,qualquer→qualquer\n\nCapítulo 4     Expressões e operadores      63\nJavaScript básica\n4.7.1   Número de operandos\nOs operadores podem ser classificados de acordo com o número de operandos que esperam (sua ari-\ndade). A maioria dos operadores JavaScript, como o operador de multiplicação *, é de operadores bi-\nnários, que combinam duas expressões em uma mais complexa. Isto é, eles esperam",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 378,
+    "totalChunks": 10000
+  }
+}

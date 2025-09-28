@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2171",
+  "content": "r o \nelemento mais interno e mais externo (consulte o atributo CSS \nz-index na Seção 16.2.1.1) nesse \nponto. Se você especificar um ponto fora da janela de visualização, \nelementFromPoint() vai retor-\nnar \nnull, mesmo que esse ponto seja perfeitamente válido quando convertido em coordenadas \ndo documento.\nelementFromPoint() parece ser um método muito útil e o caso de uso óbvio é a passagem das coorde-\nnadas do cursor do mouse para determinar sobre qual elemento o mouse está. Contudo, conforme \nvamos aprender no Capítulo 17, os objetos “evento de mouse” já contêm essa informação em sua",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2171,
+    "totalChunks": 10000
+  }
+}

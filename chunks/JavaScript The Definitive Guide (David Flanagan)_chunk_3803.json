@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3803",
+  "content": "s faziam parte da especificação HTML5, mas foram isolados em uma especificação inde-\npendente, porém intimamente relacionada. Quando este livro estava sendo escrito, havia versões draft da especificação nos \nendereços http://dev.w3.org/html5/workers/ e http://whatwg.org/ww.\n\n666          Parte II     JavaScript do lado do cliente\nAssim como qualquer API de threads, existem duas partes na especificação Web Workers. A pri-\nmeira é o objeto Worker: é como um worker aparece de fora para a thread que o cria. A segunda é \no WorkerGlobalScope: é o objeto global de um novo worker e é como uma thread",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3803,
+    "totalChunks": 10000
+  }
+}

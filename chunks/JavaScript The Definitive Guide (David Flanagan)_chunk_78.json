@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_78",
+  "content": "ão alguns exemplos simples:\n// As funções são blocos de código JavaScript parametrizados que podemos chamar.\nfunction plus1(x) {       //  Define uma função chamada \"plus1\", com o parâmetro \"x\"\nreturn x+1; //  Retorna um valor uma unidade maior do que o que foi passado\n} // As funções são incluídas entre chaves\n\nCapítulo 1     Introdução a JavaScript      7\nplus1(y)              // => 4: y é 3; portanto, essa chamada retorna 3+1\nvar square = function(x) {      //  As funções são valores e podem ser atribuídas a\n                       //    variáveis\n    return x*x;        // Calcula o valor",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 78,
+    "totalChunks": 10000
+  }
+}

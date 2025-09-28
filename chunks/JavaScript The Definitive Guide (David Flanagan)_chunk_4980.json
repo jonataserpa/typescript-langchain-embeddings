@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4980",
+  "content": "(tipo, [dados], f(evento))\none(eventos)\nÉ como bind(), exceto que as rotinas de tratamento de evento registradas perdem seu registro \nautomaticamente após serem chamadas uma vez.\nready(f())\nRegistra f para ser chamada quando o documento estiver pronto ou a chama imediatamente, \ncaso o documento já esteja pronto. Esse método não usa os elementos selecionados e é sinô-\nnimo de $(f).\ntoggle(f1(evento), f2(evento),...)\nRegistra uma rotina de tratamento de evento “click” em todos os elementos selecionados que \nalternam entre as funções de tratamento de evento especificadas.\ntrigger(tipo,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4980,
+    "totalChunks": 10000
+  }
+}

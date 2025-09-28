@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4136",
+  "content": "data. Esse argumento não era suportado antes da padronização ECMAScript.\nRetorna\nA representação, em milissegundos, da data ajustada. Antes da padronização ECMAScript, esse \nmétodo não retornava nada.\nDate.setMilliseconds()\nconfigura o campo de milissegundos de um objeto Date\nSinopse\ndata.setMilliseconds(miliss)\nArgumentos\nmiliss\nO campo milissegundos a ser configurado em data, expresso na hora local. Esse argumento \ndeve ser um inteiro entre 0 e 999.\n\n      Referência de JavaScript básica      739\nReferência de \nJavaScript básica\nRetorna\nA representação, em milissegundos, da data",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4136,
+    "totalChunks": 10000
+  }
+}

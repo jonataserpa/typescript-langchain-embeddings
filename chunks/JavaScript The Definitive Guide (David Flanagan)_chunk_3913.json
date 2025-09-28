@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3913",
+  "content": "ipo do arquivo, configura uma propriedade no Blob de forma assíncrona.\nfunction typefile(file) {\n    var slice = file.slice(0,4);                // Lê apenas o início do arquivo\n    var reader = new FileReader();              // Cria um FileReader assíncrono\n    reader.readAsArrayBuffer(slice);                // Lê a fatia do arquivo\n    reader.onload = function(e) {\n        var buffer = reader.result;              // O ArrayBuffer resultante\n        var view = new DataView(buffer);         // Obtém acesso aos bytes resultantes\n        var magic = view.getUint32(0, false);    // Lê 4 bytes,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3913,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4130",
+  "content": "ring de data/hora\nSinopse\nDate.parse(data)\nArgumentos\ndata\nUma string contendo a data e hora a serem analisadas.\nRetorna\nO número de milissegundos entre a data e hora especificadas e a meia-noite GMT de 1º de janeiro \nde 1970.\nDescrição\nDate.parse() é um método estático de Date. Ele analisa a data especificada por seu argumento de \nstring e a retorna como o número de milissegundos desde a época. Esse valor de retorno pode ser \nusado diretamente, usado para criar um novo objeto Date ou usado para configurar a data em um \nobjeto Date já existente com \nDate.setTime().\n\n      Referência de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4130,
+    "totalChunks": 10000
+  }
+}

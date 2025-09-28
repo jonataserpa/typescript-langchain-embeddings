@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1504",
+  "content": "extension\",\n    impl: [{engine: \"spidermonkey\", version: 1.7},\n           {engine: \"rhino\", version: 1.7}]\n};\n// Usa atribuição de desestruturação para extrair quatro valores da estrutura de dados\nlet ({name:feature, impl: [{engine:impl1, version:v1},{engine:impl2}]} = data) {\n    console.log(feature);       // Imprime \"destructuring assigment\"\n    console.log(impl1);         // Imprime \"spidermonkey\"\n    console.log(v1);  // Imprime 1.7\n    console.log(impl2);         // Imprime \"rhino\"\n}\nNote que atribuições de desestruturação aninhadas como essa podem tornar seu código mais difícil \nde",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1504,
+    "totalChunks": 10000
+  }
+}

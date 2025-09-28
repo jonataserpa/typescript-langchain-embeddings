@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5006",
+  "content": "amespace global jQuery. Com dois \nou mais argumentos, copia as propriedades do segundo e dos objetos subsequentes, em \nordem, no objeto alvo. Se o argumento opcional profundidade for true, é feita uma cópia \n\n      Referência de JavaScript do lado do cliente      945\nReferência de \nJavaScript do lado \ndo cliente\nprofunda e as propriedades são copiadas recursivamente. O valor de retorno é o objeto que \nfoi estendido.\njQuery.globalEval(código):void\nExecuta o código JavaScript especificado como se fosse um <script> de nível superior. Não tem \nvalor de retorno.\njQuery.grep(a, f(elt,ind):boolean,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5006,
+    "totalChunks": 10000
+  }
+}

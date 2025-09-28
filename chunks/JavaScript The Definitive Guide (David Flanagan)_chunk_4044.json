@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4044",
+  "content": "ra a função predicado possa modificar).\nfilter() itera pelos índices de array, em ordem crescente, e chama predicado uma vez para cada \nelemento. Para um índice i, predicado é chamada com três argumentos,\npredicado(array[i], i, array)\nSe predicado retorna true ou um valor verdadeiro, então o elemento no índice i de array é anexado \nao array recentemente criado. Depois de filter() ter testado cada elemento de array, retorna o novo \narray.\nConsulte \nArray.forEach() para ver mais detalhes.\nExemplo\n[1,2,3].filter(function(x) { return x > 1; });   // => [2,3]\nConsulte também\nArray.every(),",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4044,
+    "totalChunks": 10000
+  }
+}

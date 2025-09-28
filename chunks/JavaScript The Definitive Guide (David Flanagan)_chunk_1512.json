@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1512",
+  "content": "mas definições.\nUm iterador é um objeto que permite iteração sobre uma coleção de valores e mantém o estado que \nfor necessário para monitorar a “posição” atual no conjunto.\nUm  iterador  deve  ter  um  método\n next().  Cada  chamada  de  next() retorna  o  próximo  valor  da  \ncoleção. A função counter() a seguir, por exemplo, retorna um iterador que retorna inteiros sucessi-\nvamente maiores a cada chamada de next(). Observe o uso do escopo de função como uma closure \nque contém o estado atual do contador:\n// Uma função que retorna um iterator;\nfunction counter(start) {\n    let nextValue =",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1512,
+    "totalChunks": 10000
+  }
+}

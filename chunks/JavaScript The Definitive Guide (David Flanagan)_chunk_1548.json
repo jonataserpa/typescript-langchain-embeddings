@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1548",
+  "content": "let está \nimplícito e a variável usada no array comprehension não é visível fora dos colchetes e não \nsobrescreve variáveis de mesmo nome já existentes.\n •   Uma palavra-chave \nif e uma expressão condicional entre parênteses podem aparecer após o \nobjeto que está sendo iterado. Se estiver presente, essa condicional é usada para filtrar os valo-\nres iterados. A condicional é avaliada depois que cada valor é produzido pelo laço for. Se for \nfalse, esse valor é pulado e nada é adicionado no array para esse valor. A cláusula if é opcional; \nse for omitida, a inclusão de array se comportará como",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1548,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1467",
+  "content": "•   Certas variáveis globais não são permitidas em subconjuntos seguros. Em JavaScript do lado \ndo cliente, o objeto janela do navegador também atua como objeto global, de modo que o \ncódigo não pode se referir ao objeto\n window. Da mesma forma, o objeto document no lado do \ncliente define métodos que permitem o controle completo do conteúdo da página. Isso é po-\nder demais para dar a um código não confiável. Os subconjuntos seguros podem adotar duas \nestratégias diferentes para variáveis globais como \ndocument. Podem proibi-las totalmente e, em \nvez disso, definir uma API personalizada que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1467,
+    "totalChunks": 10000
+  }
+}

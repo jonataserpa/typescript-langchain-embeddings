@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5649",
+  "content": "método fromCharCode( ), 469, 823–824\n        método indexOf( ), 824–825\n        método lastIndexOf( ), 825–826\n        método localeCompare ( ), 73\n        método localeCompare( ), 826–827\n        método match( ), 827–828\n        método replace( ), 828–829\n        método search( ), 829–830\n        método slice( ), 830–831\n        método split( ), 831–832\n        método substr( ) (desaprovado), 833–834\n        método substring( ), 833–834\n        método toLocaleLowerCase( ), 834–835\n        método toLocaleUpperCase( ), 835–836\n        método toLowerCase( ), 73, 835–836\n        método toSting(",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5649,
+    "totalChunks": 10000
+  }
+}

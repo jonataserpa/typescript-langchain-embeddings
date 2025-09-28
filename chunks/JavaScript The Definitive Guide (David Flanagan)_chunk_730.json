@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_730",
+  "content": "emplo que usa um método getter para implementar uma propriedade \ncom comportamento “mágico”.\n// Este objeto tem propriedades de acesso que retornam números aleatórios.\n// A expressão \"random.octet\", por exemplo, gera um número aleatório\n// entre 0 e 255 sempre que é avaliada.\nvar random = {\n    get octet() { return Math.floor(Math.random()*256); },\n    get uint16() { return Math.floor(Math.random()*65536); },\n    get int16() { return Math.floor(Math.random()*65536)-32768; }\n};\nEsta seção mostrou somente como se define propriedades de acesso ao criar um novo objeto a partir \nde um objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 730,
+    "totalChunks": 10000
+  }
+}

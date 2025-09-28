@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_903",
+  "content": "haves contendo zero ou mais instruções JavaScript. Essas instruções são o corpo da \nfunção: elas são executadas quando a função é chamada.\nO Exemplo 8-1 mostra algumas definições de função usando tanto a forma de instrução como de \nexpressão. Observe que uma função definida como expressão só é útil se faz parte de uma expressão \nmaior, como uma atribuição ou uma chamada, que faz algo com a função recém-definida.\nExemplo 8-1 Definindo funções em JavaScript\n// Imprime o nome e o valor de cada propriedade de o. Retorna undefined.\nfunction printprops(o) {\n    for(var p in o)\n        console.log(p",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 903,
+    "totalChunks": 10000
+  }
+}

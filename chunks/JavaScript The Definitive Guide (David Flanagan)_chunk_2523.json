@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2523",
+  "content": "s em um documento de outro servidor. Isso contorna as \nlimitações da política da mesma origem (Seção 13.6.2) de maneira segura. Cada mensagem enviada \ndispara um evento message no objeto Window do documento receptor. O objeto evento passado \npara a rotina de tratamento inclui uma propriedade \ndata com o conteúdo da mensagem, assim como \ndiretivas \nsource e origin identificando o remetente. O evento message é usado de maneiras similares \npara comunicação com Web Workers (Seção 22.4) e para comunicação em rede via Server-Sent \nEvents (Seção 18.3) e WebSockets (Seção 22.9).\nHTML5 e padrões",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2523,
+    "totalChunks": 10000
+  }
+}

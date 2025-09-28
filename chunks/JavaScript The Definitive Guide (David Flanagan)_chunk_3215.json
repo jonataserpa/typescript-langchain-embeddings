@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3215",
+  "content": "st e o segundo é o ob-\njeto opções. Isso significa, por exemplo, que uma rotina de tratamento para o evento ajaxSend pode \nadicionar cabeçalhos personalizados em um objeto XMLHttpRequest, exatamente como acontece \ncom a callback \nbeforeSend. O evento ajaxError é disparado com um terceiro argumento extra, além \ndos dois que acabamos de descrever. Esse último argumento da rotina de tratamento é o objeto Error \n(se houver) que foi lançado quando o erro ocorreu. Surpreendentemente, esses eventos Ajax não \nrecebem código de status da jQuery. Se a rotina de tratamento para um evento ajaxSuccess",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3215,
+    "totalChunks": 10000
+  }
+}

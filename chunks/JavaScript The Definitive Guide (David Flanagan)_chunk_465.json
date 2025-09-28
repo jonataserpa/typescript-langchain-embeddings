@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_465",
+  "content": "a = a – b\n*=a *= b       a = a * b\n/=a /= b       a = a / b\n%=a %= b       a = a % b\n<<=a <<= b      a = a << b\n>>=a >>= b      a = a >> b\n>>>=        a >>>= b     a = a >>> b\n&=a &= b       a = a & b\n|=a |= b       a = a | b\n^=a ^= b       a = a ^ b\nNa maioria dos casos, a expressão:\na op= b\n\n78          Parte     I     JavaScript     básica\nonde op é um operador, é equivalente à expressão:\na = a op b\nNa primeira linha, a expressão a é avaliada uma vez. Na segunda, ela é avaliada duas vezes. Os dois \ncasos vão diferir somente se a incluir efeitos colaterais, como em uma chamada de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 465,
+    "totalChunks": 10000
+  }
+}

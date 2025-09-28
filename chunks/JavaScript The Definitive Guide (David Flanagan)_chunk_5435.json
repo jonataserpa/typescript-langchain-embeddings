@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5435",
+  "content": "jeto Document, 155\ngetImageData( ), CanvasRenderingContext2D, 647, \n860\ngetModifi erState( ), objeto Event, 904\ngetResponseHeader( ), objeto XMLHttpRequest, \n999\nGMT (Greenwich Mean Time), 726\nGoogle\n    biblioteca Closure, 331\n    mecanismo JavaScript V8 e Node, 288\n    promovendo a capacidade de carregar scripts de \noutros sites, 305\n    subconjunto seguro Caja, 261\nGoogle Web Toolkit (GWT), 331\ngradientes (degradês)\n    objeto CanvasGradient, 850\ngradientes (degradês) em Canvas, 631–634\n    especifi cando para traço ou preenchimento, 633\ngradientes lineares, 633, 858\ngradientes radiais,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5435,
+    "totalChunks": 10000
+  }
+}

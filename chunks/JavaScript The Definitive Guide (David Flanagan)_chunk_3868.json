@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3868",
+  "content": "normes (como arquivos de vídeo), grandes demais para caber na memória prin-\ncipal sem primeiro serem decompostos em partes menores com slice(). Como os Blobs podem ser \nmuito grandes e exigir acesso a disco, as APIs que trabalham com eles são assíncronas (com versões \nsíncronas disponíveis para uso por threads worker).\nOs Blobs em si não são extremamente interessantes, mas servem como um mecanismo de troca de \ndados fundamental para várias APIs JavaScript que trabalham com dados binários. A Figura 22-2 \nilustra como os Blobs podem ser lidos e gravados na Web, no sistema de arquivo local, em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3868,
+    "totalChunks": 10000
+  }
+}

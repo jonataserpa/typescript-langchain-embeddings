@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3013",
+  "content": "a string para um dos métodos da terceira co-\nluna, ela é entendida como um seletor que identifica os elementos de destino. (Você também \npode identificar os elementos de destino diretamente, passando um objeto jQuery, Element \nou nó de texto.)\n •   Os métodos da terceira coluna não aceitam argumentos de função, como acontece com os \nmétodos da segunda coluna.\n •   Os métodos da segunda coluna retornam o objeto jQuery em que foram chamados. Os ele-\nmentos desse objeto jQuery podem ter novo conteúdo ou novos irmãos, mas eles mesmos \nnão são alterados. Os métodos da terceira coluna são chamados",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3013,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3249",
+  "content": "uery).\n:has(sel)\nCorresponde aos elementos que têm um descendente coincidente com o seletor aninhado sel.\n:header\nCorresponde a qualquer elemento de cabeçalho: <h1>, <h2>, <h3>, <h4>, <h5> ou <h6> \n(extensão da jQuery).\n:hidden\nCorresponde a qualquer elemento que não esteja visível na tela: em termos gerais, aqueles elementos \ncujos valores de \noffsetWidth e offsetHeight são 0.\n:image\nCorresponde aos elementos <input type=\"image\">. Note que isso não corresponde a \nelementos \n<img> (extensão da jQuery).\n:input\nCorresponde a elementos de entrada do usuário: <input>, <textarea>, <select> e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3249,
+    "totalChunks": 10000
+  }
+}

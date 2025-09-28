@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1040",
+  "content": "// Vincula this e y\ng(3)     // => 6: this.x está vinculado a 1, y está vinculado a 2 e z é 3\nPodemos vincular o valor de this e fazer aplicação parcial em ECMAScript 3. O método bind() \npadrão pode ser simulado com código como o que aparece no Exemplo 8-5. Note que salvamos esse \nmétodo como Function.prototype.bind para que todos os objetos função o herdem. Essa técnica está \nexplicada em detalhes na Seção 9.4.\n*  N. de R.T.: Em ciência da computação, “monkey-patching” é o processo pelo qual o código em linguagens dinâmicas é \nestendido ou modificado durante sua execução sem que",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1040,
+    "totalChunks": 10000
+  }
+}

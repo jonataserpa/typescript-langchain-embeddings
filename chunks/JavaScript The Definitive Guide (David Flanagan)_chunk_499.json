@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_499",
+  "content": "/ Erro de execução: x não está definida\nVamos ver o operador delete novamente na Seção 6.3.\n4.13.4   O operador void\nvoid é um operador unário que aparece antes de seu único operando, o qual pode ser de qualquer \ntipo. Esse operador é incomum e pouco utilizado: ele avalia seu operando e, então, descarta o valor \ne retorna undefined. Como o valor do operando é descartado, usar o operador void só faz sentido se \no operando tiver efeitos colaterais.\nO uso mais comum desse operador é em um URL \njavascript: no lado do cliente, onde ele permite \navaliar os efeitos colaterais de uma expressão sem",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 499,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4943",
+  "content": "Com \num argumento seletor, retorna o índice do primeiro elemento selecionado dentro do conjun-\nto de elementos que correspondem ao seletor sel ou -1, caso não seja encontrado. Com um \nargumento de elemento, retorna o índice de elt nos elementos selecionados ou -1, caso não \nseja encontrado.\nis(sel):boolean\nRetorna true se pelo menos um dos elementos selecionados também corresponde a sel.\n\n932          Parte IV     Referência de JavaScript do lado do cliente\nlength\nO número de elementos selecionados.\nmap(f(ind,elt)):jQuery\nChama f uma vez como método de cada elemento selecionado e retorna um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4943,
+    "totalChunks": 10000
+  }
+}

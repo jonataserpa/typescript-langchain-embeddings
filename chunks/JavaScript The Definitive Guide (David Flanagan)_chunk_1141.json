@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1141",
+  "content": "adicionamos um método bind() na classe de função em implementações ECMAScript 3, onde ele \nainda não existia:\nif (!Function.prototype.bind) {\n    Function.prototype.bind = function(o /*, args */) {\n\nCapítulo 9     Classes e módulos      203\nJavaScript básica\n        // O código do método bind fica aqui...\n    };\n}\nAqui estão alguns outros exemplos:\n// Chama a função f muitas vezes, passando o número da iteração\n// Por exemplo, para imprimir \"hello\" 3 vezes:\n//      var n = 3;\n//      n.times(function(n) { console.log(n + \" hello\"); });\nNumber.prototype.times = function(f, context) {\n    var n",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1141,
+    "totalChunks": 10000
+  }
+}

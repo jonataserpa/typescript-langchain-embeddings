@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_478",
+  "content": "faz uma eval global\n    var y = \"local\";   // Uma variável local\n    geval(\"y += 'changed';\");   // eval indireta configura variável global\n    return y;         // Retorna variável local inalterada\n}\nconsole.log(f(), x);   // Variável local alterada: imprime \"localchanged\n                              //    global\":\nconsole.log(g(), y);   // Variável global alterada: imprime \"local\n                              //    globalchanged\":\nObserve que a capacidade de fazer uma eval global não é apenas uma adaptação às necessidades do \notimizador; na verdade é um recurso tremendamente útil: ele",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 478,
+    "totalChunks": 10000
+  }
+}

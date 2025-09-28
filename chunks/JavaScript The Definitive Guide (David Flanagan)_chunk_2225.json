@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2225",
+  "content": "pela rotina de tratamento \nonclick puder ser conceitualizada \ncomo “seguir um link”; caso contrário, use um botão.\nOs elementos de envio e redefinição são exatamente como os elementos botão, mas têm ações pa-\ndrão (enviar e redefinir um formulário) associadas. Se a rotina de tratamento de evento \nonclick \nretorna \nfalse, a ação padrão desses botões não é executada. A rotina de tratamento onclick de um \nelemento de envio pode ser usada para realizar validação de formulário, mas é mais comum fazer isso \ncom a rotina de tratamento \nonsubmit do próprio objeto Form.\nA Parte IV não contém uma",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2225,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2608",
+  "content": "nto padrão, \nmas tem um método de propósito especial \nsetCapture() para capturar eventos de mouse em casos \ncomo este. O código de exemplo mostra como ele funciona.\nPor fim, note que as funções \nmoveHandler() e upHandler() são definidas dentro de drag(). Como são \ndefinidas nesse escopo aninhado, podem usar os argumentos e as variáveis locais de \ndrag(), o que \nsimplifica consideravelmente a implementação.\nExemplo 17-2 Arrastando elementos do documento\n/**\n * Drag.js: arrasta elementos HTML posicionados de forma absoluta.\n *\n * Este módulo define uma única função drag() projetada para ser",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2608,
+    "totalChunks": 10000
+  }
+}

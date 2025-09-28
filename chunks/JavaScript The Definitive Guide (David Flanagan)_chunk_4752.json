@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4752",
+  "content": "o será chamada quando ocorrer um tipo de evento específico no elemento (ou borbulhar até ele). \nVocê também pode usar os métodos definidos por EventTarget para registrar rotinas de tratamento \nde evento, evidentemente.\nA maioria dos eventos borbulha na hierarquia de documento até o nó Document e, então, de lá para \no objeto Window. Assim, cada uma das propriedades de tratamento de evento listadas aqui também \né definida nos objetos Document e Window. No entanto, o objeto Window tem muitas rotinas de \ntratamento de evento próprias e as propriedades marcadas com um asterisco na tabela a seguir",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4752,
+    "totalChunks": 10000
+  }
+}

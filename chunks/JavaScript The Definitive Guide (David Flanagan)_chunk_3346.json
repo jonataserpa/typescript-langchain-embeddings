@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3346",
+  "content": "a, o método \nremoveItem() é a única maneira portável de excluir um único \npar nome/valor, pois o IE8 não permite utilizar o operador \ndelete dessa maneira.\nSe os fornecedores de navegador implementarem totalmente a especificação e permitirem que ob-\njetos e arrays sejam armazenados em um objeto Storage, vai haver outro motivo para usar métodos \ncomo \nsetItem() e getItem(). Os valores de objeto e array normalmente são mutáveis, de modo que \num objeto Storage é obrigado a fazer uma cópia quando você armazena um valor, a fim de que todas \nas alterações subsequentes no valor original não tenham",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3346,
+    "totalChunks": 10000
+  }
+}

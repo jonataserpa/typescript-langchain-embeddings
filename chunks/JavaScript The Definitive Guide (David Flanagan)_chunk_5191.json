@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5191",
+  "content": "os comuns estão documentados em MediaElement. Esta \npágina documenta várias propriedades adicionais, específicas de objetos Video.\nPropriedades\nDOMSettableTokenList audio\nEssa propriedade especifica opções de áudio para o vídeo. As opções são especificadas como \numa lista de símbolos separados por espaços no atributo HTML audio e o conjunto é espe-\nlhado em JavaScript como DOMSettableTokenList. Contudo, quando este livro estava sendo \nescrito, o padrão HTML5 definia apenas um símbolo válido (“muted”) e você pode tratar essa \npropriedade como uma string.\nunsigned long height\nA altura na tela",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5191,
+    "totalChunks": 10000
+  }
+}

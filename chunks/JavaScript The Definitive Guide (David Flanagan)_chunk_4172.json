@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4172",
+  "content": "as sequências de escape hexadecimais.\nLança\nURIError\nIndica que uri contém pares substitutos Unicode mal-formados e não podem ser codificados.\nDescrição\nencodeURI() é uma função global que retorna uma cópia codificada de seu argumento uri. Letras e \ndígitos ASCII não são codificados nem os seguintes caracteres de pontuação ASCII:\n- _ . ! ~ * ' ( )\n\n752          Parte III     Referência de JavaScript básica\nComo encodeURI() se destina a codificar URIs completos, não é feito o escape dos seguintes caracte-\nres de pontuação ASCII, que têm significado especial em URIs:\n; / ? : @ & = + $ ,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4172,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1771",
+  "content": "inem fun-\nções e registram rotinas de tratamento de evento para uso posterior, mas podem percorrer e \nmanipular a árvore de documentos conforme ela existe ao serem executados. Isto é, os scripts \nsíncronos podem ver seus próprios elementos \n<script> e o conteúdo de documentos que ve-\nnham antes deles.\n    3.  Quando o analisador encontra um elemento \n<script> que tem o atributo async configurado, \ncomeça a baixar o texto do script e continua a analisar o documento. O script será executado \nassim que possível, depois de baixado, mas o analisador não para e espera o download. Os \n2\n  Alguns",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1771,
+    "totalChunks": 10000
+  }
+}

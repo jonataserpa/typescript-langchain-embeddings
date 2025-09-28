@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4067",
+  "content": "reduzir (\nn elementos de array, mais o valor inicial) e f é chamada n vezes.\nSe \narray está vazio e inicial não é especificado, reduce() lança um TypeError. Se array está vazio e \ninicial é especificado, reduce() retorna inicial e nunca chama f. Se array tem apenas um elemento \ne inicial não é especificado, reduce() retorna o único elemento de array sem chamar f.\nOs parágrafos anteriores descreveram dois argumentos para \nf, mas na verdade reduce() chama essa \nfunção com quatro argumentos. O terceiro argumento é o índice de array do segundo argumento. \nO quarto argumento é array em si. f é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4067,
+    "totalChunks": 10000
+  }
+}

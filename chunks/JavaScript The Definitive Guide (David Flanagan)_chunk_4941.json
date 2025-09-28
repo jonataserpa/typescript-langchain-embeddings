@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4941",
+  "content": ":empty                  :parent\n:has(selector)\nMétodos e propriedades básicos da jQuery\nEstes são os métodos e propriedades básicos de objetos jQuery. Eles não alteram a seleção ou os \nelementos selecionados de nenhuma maneira, mas permitem consultar e iterar pelo conjunto de \nelementos selecionados. Consulte a Seção 19.1.2 para ver os detalhes.\ncontext\nO contexto (ou elemento raiz) sob o qual a seleção foi feita. Esse é o segundo argumento de \n$() ou o objeto Document.\neach(f(ind,elt))\nChama f uma vez, como método de cada elemento selecionado. Para de iterar se a função \nretorna false.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4941,
+    "totalChunks": 10000
+  }
+}

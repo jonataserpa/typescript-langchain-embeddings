@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_604",
+  "content": "bloco de código no qual a exceção foi lançada não tem uma cláusula \ncatch associada, o interpretador verifica o próximo bloco de código circundante mais alto para ver se \nele tem uma rotina de tratamento de exceção associada. Isso continua até uma rotina de tratamento \nser encontrada. Se uma exceção é lançada em uma função que não contém uma instrução try/catch/\nfinally para tratar dela, a exceção se propaga para o código que chamou a função. Desse modo, as \nexceções se propagam pela estrutura léxica de métodos de JavaScript e para cima na pilha de chama-\ndas. Se nenhuma rotina de tratamento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 604,
+    "totalChunks": 10000
+  }
+}

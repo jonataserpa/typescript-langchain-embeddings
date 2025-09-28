@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4117",
+  "content": "ata especificado, usando hora local. Os valores de retorno estão entre \n1 e 31.\n\n      Referência de JavaScript básica      731\nReferência de \nJavaScript básica\nDate.getDay()\nretorna o campo de dia da semana de um objeto Date\nSinopse\ndata.getDay()\nRetorna\nO dia da semana do objeto Date \ndata especificado, usando hora local. Os valores de retorno estão \nentre 0 (domingo) e 6 (sábado).\nDate.getFullYear()\nretorna o campo de ano de um objeto Date\nSinopse\ndata.getFullYear()\nRetorna\nO ano resultante quando \ndata é expresso na hora local. O valor de retorno é um ano completo de \nquatro dígitos,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4117,
+    "totalChunks": 10000
+  }
+}

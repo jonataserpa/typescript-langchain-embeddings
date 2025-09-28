@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3430",
+  "content": "return    false;\n};\n// Se o navegador está off-line e o manifesto não pode ser verificado, um evento \"error\"\n// é disparado. Isso também acontece se um aplicativo que não está na cache faz \n// referência a um arquivo de manifesto que não existe\nwindow.applicationCache.onerror = function() {\n    status(\"Couldn't load manifest or cache application\");\n    return    false;\n};\n// Se um aplicativo colocado na cache faz referência a um arquivo de manifesto que não \n// existe, um evento obsolete é disparado e o aplicativo é removido da cache.\n\n592          Parte II     JavaScript do lado do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3430,
+    "totalChunks": 10000
+  }
+}

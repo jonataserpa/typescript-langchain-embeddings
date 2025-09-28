@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4431",
+  "content": "nformações sobre a \ncorrespondência encontrada. O elemento 0 do array contém o texto coincidente. Os elementos restantes \ncontêm o texto correspondente a quaisquer subexpressões entre parênteses dentro da expressão regular. \nAlém desses elementos de array normais, o array retornado também tem duas propriedades de objeto. \nA propriedade index do array especifica a posição do caractere dentro de string do início do texto \ncoincidente. Além disso, a propriedade input do array retornado é uma referência para a própria string.\nSe expreg tem o flag “g”, match() faz uma busca global, pesquisando",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4431,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1112",
+  "content": "ção de objetos como membros de uma classe. Se temos um objeto r e queremos saber se ele \né um objeto Range, podemos escrever:\nr instanceof Range    // retorna true se r herda de Range.prototype\nO operador instanceof não verifica se r foi inicializada pela construtora Range. Mas verifica se ela \nherda de Range.prototype. Contudo, a sintaxe de instanceof reforça o uso de construtoras como \nidentidade pública de uma classe. Vamos ver o operador instanceof outra vez, posteriormente neste \ncapítulo.\n9.2.2   A propriedade constructor\nNo Exemplo 9-2, configuramos Range.prototype como um novo objeto",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1112,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2333",
+  "content": "ção CSS3 inclui uma propriedade text-shadow para produzir efeitos de sombra projeta-\nda sob o texto. Ela é suportada por vários navegadores atuais, mas é possível usar propriedades de \nposicionamento de CSS para obter um efeito semelhante, desde que você esteja disposto a repetir e \nestilizar novamente o texto para produzir uma sombra:\n<!-- A propriedade text-shadow produz sombras automaticamente -->\n<span style=\"text-shadow: 3px 3px 1px #888\">Shadowed</span>\n<!-- Aqui está como podemos produzir um efeito semelhante com posicionamento. -->\n<span style=\"position:relative;\">\n Shadowed",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2333,
+    "totalChunks": 10000
+  }
+}

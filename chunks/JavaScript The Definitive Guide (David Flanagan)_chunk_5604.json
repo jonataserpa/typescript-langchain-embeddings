@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5604",
+  "content": "o WebSocket, 698–699, 984\n    objeto    WorkerLocation,    996\npropriedade prototype\n    funções,    181\n    objeto Function, 764–765\n    restrições em subconjuntos seguros, 260\npropriedade publicId, objeto DocumentType, \n882–883\npropriedade rangeOverfl ow, objeto FormValidity, \n916\npropriedade rangeUnderfl ow, objeto FormValidity, \n916\npropriedade readOnly, objeto Input, 928\npropriedade readyState\n    objeto Document, 315, 453, 878\n    objeto EventSource, 905\n    objeto FileReader, 682–683, 909\n    objeto MediaElement, 605, 949, 952\n    objeto    WebSocket,    983\n    objeto XMLHttpRequest,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5604,
+    "totalChunks": 10000
+  }
+}

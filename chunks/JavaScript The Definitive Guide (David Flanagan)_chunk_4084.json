@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4084",
+  "content": "no qual a inserção e/ou exclusão deve começar.\n\n722          Parte III     Referência de JavaScript básica\ncontExcl\nO número de elementos, começando em (e incluindo) início, a serem excluídos de array. \nEspecifique 0 para inserir elementos sem excluir nenhum.\nvalor, ...\nZero ou mais valores a serem inseridos em array, começando no índice especificado por início.\nRetorna\nUm array contendo os elementos, se houver, excluídos de \narray.\nDescrição\nsplice() exclui zero ou mais elementos do array, começando com (e incluindo) o elemento início, \ne os substitui por zero ou mais valores especificados",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4084,
+    "totalChunks": 10000
+  }
+}

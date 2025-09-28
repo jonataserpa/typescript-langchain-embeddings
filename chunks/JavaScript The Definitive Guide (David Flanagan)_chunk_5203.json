@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5203",
+  "content": "o lado \ndo cliente\nonerror\nUm evento error é disparado quando ocorre um erro de rede ou do protocolo WebSocket. O \nobjeto evento associado é um Event simples.\nonmessage\nQuando o servidor envia dados por meio do WebSocket, este dispara um evento message com \num objeto MessageEvent associado, cuja propriedade data se refere à mensagem recebida.\nonopen\nA construtora WebSocket() retorna antes que a conexão com o url especificado seja estabeleci-\nda. Quando o handshake da conexão termina e o WebSocket está pronto para enviar e receber \ndados, um evento open é disparado. O objeto evento associado é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5203,
+    "totalChunks": 10000
+  }
+}

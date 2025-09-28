@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4428",
+  "content": "dade padrão. O padrão ECMAScript não especifica como a comparação específica \nda localidade é feita; especifica apenas que essa função utiliza a ordem de comparação fornecida pelo \nsistema operacional subjacente.\nExemplo\nVocê pode usar código como o seguinte para classificar um array de strings em uma ordenação es-\npecífica da localidade:\nvar strings; // O array de strings a classificar; inicializado em algum lugar\nstrings.sort(function(a,b) { return a.localeCompare(b) });\nString.match()\nencontra uma ou mais correspondências de expressão",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4428,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2125",
+  "content": "enumerable: false, configurable: true\n                                });\n }\n    else    {\n        Element.prototype.__defineGetter__(\"outerHTML\",    outerHTMLGetter);\n        Element.prototype.__defineSetter__(\"outerHTML\",    outerHTMLSetter);\n }\n}());\n15.6.4   Usando   DocumentFragments\nDocumentFragment é um tipo especial de Node que serve como contêiner temporário para outros \nnós. Crie um DocumentFragment como segue:\nvar frag = document.createDocumentFragment();\nAssim como um nó Document, um DocumentFragment é independente e não faz parte de ne-\nnhum outro documento. Seu parentNode é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2125,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2460",
+  "content": "que especifica o tipo de evento e uma propriedade target \nque especifica o alvo do evento. (No IE8 e anteriores, use srcElement em vez de target.) Cada tipo \nde evento define um conjunto de propriedades para seu objeto evento associado. O objeto asso-\nciado a um evento de mouse contém as coordenadas do cursor do mouse, por exemplo, e o objeto \nassociado a um evento de teclado contém detalhes sobre a tecla que foi pressionada e sobre as teclas \nmodificadoras que foram mantidas pressionadas. Muitos tipos de evento definem apenas algumas \npropriedades padrão – como type e target – e não",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2460,
+    "totalChunks": 10000
+  }
+}

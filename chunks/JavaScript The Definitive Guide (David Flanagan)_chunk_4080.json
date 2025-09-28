@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4080",
+  "content": "a para especificar a ordem de classificação.\nRetorna\nUma referência para o array. Note que o array é classificado no local e nenhuma cópia é feita.\nDescrição\nO método sort() classifica os elementos de array no local: nenhuma cópia do array é feita. Se sort() \né chamado sem argumentos, os elementos do array são organizados em ordem alfabética (mais pre-\ncisamente, na ordem determinada pela codificação de caractere). Para fazer isso, primeiramente os \nelementos são convertidos em strings, se necessário, para que possam ser comparados.\nSe quiser classificar os elementos do array em alguma outra",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4080,
+    "totalChunks": 10000
+  }
+}

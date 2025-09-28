@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1034",
+  "content": "s da função atual, passando o array \narguments diretamente para apply(). O código a seguir demonstra isso:\n// Substitui o método chamado m do objeto o por uma versão que registra\n// mensagens antes e depois de chamar o método original.\nfunction trace(o, m) {\n    var original = o[m];        // Lembra do método original na closure.\n    o[m] = function() {         // Agora define o novo método.\n        console.log(new Date(), \"Entering:\", m);          // Registra a mensagem.\n        var result = original.apply(this, arguments);     // Chama original.\n        console.log(new Date(), \"Exiting:\",",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1034,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1644",
+  "content": "API para ligação em rede baseada em TCP. (Consulte o módulo “dgram” \npara ligação em rede baseada em datagramas.) Aqui está um servidor TCP muito simples em Node:\n// Um servidor de eco TCP simples em Node: recebe conexões na porta 2000\n// e ecoa os dados do cliente de volta para ele.\nvar net = require('net');\nvar server = net.createServer();\nserver.listen(2000, function() { console.log(\"Listening on port 2000\"); });\nserver.on(\"connection\", function(stream) {\n    console.log(\"Accepting connection from\", stream.remoteAddress);\n    stream.on(\"data\", function(data) { stream.write(data); });",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1644,
+    "totalChunks": 10000
+  }
+}

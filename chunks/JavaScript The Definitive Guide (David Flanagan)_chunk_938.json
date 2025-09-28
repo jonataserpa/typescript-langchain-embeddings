@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_938",
+  "content": "or algum ou se retorna um valor primitivo, esse \nvalor de retorno é ignorado e o novo objeto é usado como valor da chamada.\n8.2.4   Chamada   indireta\nEm JavaScript as funções são objetos e como todos os objetos em JavaScript, elas têm métodos. Dois \ndesses métodos, \ncall() e apply(), chamam a função indiretamente. Os dois métodos permitem es-\npecificar explicitamente o valor de this para a chamada, ou seja, é possível chamar qualquer função \ncomo método de qualquer objeto, mesmo que não seja realmente um método desse objeto. Os dois \nmétodos também permitem especificar os argumentos da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 938,
+    "totalChunks": 10000
+  }
+}

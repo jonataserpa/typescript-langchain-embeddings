@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3534",
+  "content": "to DOM no elemento <svg:text>\n        label.appendChild(document.createTextNode(labels[i]));\n        chart.appendChild(label);               // Adiciona texto no gráfico\n }\n    return    chart;\n}\nO código do Exemplo 21-2 é relativamente simples. Há um pouco de matemática para converter \nos dados que estão sendo representados no gráfico em ângulos de fatia de pizza. Contudo, a maior \nparte do exemplo é código DOM que cria elementos SVG e configura atributos nesses elementos. \nPara funcionar em navegadores que não suportam HTML5 totalmente, esse exemplo trata SVG \ncomo uma gramática de XML e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3534,
+    "totalChunks": 10000
+  }
+}

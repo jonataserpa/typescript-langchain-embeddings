@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3199",
+  "content": "o é “json” ou “jsonp”, o primei-\nro argumento é o objeto resultante da análise da resposta formatada como JSON feita pelo \nservidor. Se o tipo foi “script”, a resposta é o texto do script carregado (contudo, esse script \njá terá sido executado; portanto, a resposta normalmente pode ser ignorada nesse caso). Para \noutros tipos, a resposta é simplesmente o texto do recurso solicitado.\n\n554          Parte II     JavaScript do lado do cliente\nO código de status do segundo argumento normalmente é a string “success”, mas se você \ntiver configurado a opção\n ifModified, esse argumento poderá ser",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3199,
+    "totalChunks": 10000
+  }
+}

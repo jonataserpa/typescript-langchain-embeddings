@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4061",
+  "content": "ned.\nExemplo\npop() e seu método acompanhante push() fornecem a funcionalidade de uma pilha first-in, last-out.\nPor exemplo:\nvar stack = [];       // stack: []\nstack.push(1, 2);     // stack: [1,2]            Retorna   2\nstack.pop();          // stack: [1]              Retorna 2\nstack.push([4,5]);    // stack: [1,[4,5]]        Retorna 2\nstack.pop()           // stack: [1]              Retorna [4,5]\nstack.pop();          // stack: []               Retorna 1\nConsulte também\nArray.push()\nArray.push()\nanexa elementos em um array\nSinopse\narray.push(valor, ...)\nArgumentos\nvalor, ...\nUm ou mais",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4061,
+    "totalChunks": 10000
+  }
+}

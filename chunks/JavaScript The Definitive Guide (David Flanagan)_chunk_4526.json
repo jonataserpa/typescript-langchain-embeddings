@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4526",
+  "content": "anvasGradient, CanvasPattern, ImageData e TextMetrics para ver mais detalhes.\nCriando e renderizando caminhos\nUm recurso poderoso do canvas é sua capacidade de construir formas a partir de operações de de-\nsenho básicas e então desenhar seus contornos (traçá-los) ou pintar seu conteúdo (preenchê-los). As \noperações acumuladas são coletivamente referenciadas como caminho atual. Um canvas mantém um \núnico caminho atual.\nPara construir uma forma conectada a partir de vários segmentos, é necessário um ponto de junção \nentre as operações de desenho. Para esse propósito, o canvas mantém uma posição",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4526,
+    "totalChunks": 10000
+  }
+}

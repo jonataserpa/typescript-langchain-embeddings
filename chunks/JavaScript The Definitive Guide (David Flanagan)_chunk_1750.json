@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1750",
+  "content": "tipo geral do evento que ocorreu. Eles também têm um alvo, que \né o objeto em que ocorreram. Quando falamos de um evento, devemos especificar tanto o tipo (o \nnome) como o alvo: um evento click em um objeto HTMLButtonElement, por exemplo, ou um \nevento readystatechange em um objeto XMLHttpRequest.\nSe queremos que nosso programa responda a um evento, escrevemos uma função conhecida como \n“rotina de tratamento de evento”, “ouvinte de evento” ou, às vezes, apenas “retorno de chamada” (ou \ncallback). Então, registramos essa função para que seja ativada quando o evento ocorrer. Conforme",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1750,
+    "totalChunks": 10000
+  }
+}

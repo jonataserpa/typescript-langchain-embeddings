@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4593",
+  "content": "m \num retângulo que ultrapasse os limites de ImageData, o retângulo será cortado nesses limites. São \npermitidos valores negativos para \nsx e sy.\nUm uso para objetos ImageData é como “armazenamento de apoio” para um canvas – salvar uma \ncópia dos pixels do canvas em um objeto ImageData (usando \ngetImageData()) permite desenhar \ntemporariamente no canvas e então restaurá-lo ao seu estado original com putImageData().\nvoid quadraticCurveTo(double pcx, pcy, x, y)\nEsse método adiciona um segmento de curva Bezier quadrática no subcaminho atual. A curva co-\nmeça no ponto atual e termina em (x,y). O",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4593,
+    "totalChunks": 10000
+  }
+}

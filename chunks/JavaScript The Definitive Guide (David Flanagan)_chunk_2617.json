@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2617",
+  "content": "// Modelo de evento do IE\n        // Anula o registro das rotinas de captura de evento.\n        if (document.removeEventListener) {  // Modelo de evento do DOM\n            document.removeEventListener(\"mouseup\", upHandler, true);\n            document.removeEventListener(\"mousemove\", moveHandler, true);\n  }\n        else if (document.detachEvent) {  // Modelo de evento do IE 5+\n            elementToDrag.detachEvent(\"onlosecapture\",    upHandler);\n            elementToDrag.detachEvent(\"onmouseup\",    upHandler);\n            elementToDrag.detachEvent(\"onmousemove\",    moveHandler);",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2617,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2724",
+  "content": "elemento HTML especificado\nKeymap.prototype.install = function(element) {\n    // Esta é a função de tratamento de evento\n    var keymap = this;\n    function handler(event) { return keymap.dispatch(event, element); }\n    // Agora a instala\n    if    (element.addEventListener)\n        element.addEventListener(\"keydown\", handler, false);\n    else if (element.attachEvent)\n        element.attachEvent(\"onkeydown\",    handler);\n};\n// Este método envia eventos de tecla baseados nos vínculos de mapa de teclas.\nKeymap.prototype.dispatch = function(event, element) {\n    // Começamos sem modificadoras e",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2724,
+    "totalChunks": 10000
+  }
+}

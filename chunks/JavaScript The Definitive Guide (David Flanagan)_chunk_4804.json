@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4804",
+  "content": "“Event” para o método createEvent() de Document. Então, após \ninicializá-lo com esse método, envie-o em qualquer EventTarget, passando-o para o método dispa-\ntchEvent() desse alvo. As outras propriedades de evento padrão (além de type, bubbles e cancelable) \nserão inicializadas pelo envio. Se quiser criar, inicializar e enviar um evento sintético mais compli-\ncado, você vai ter de passar um argumento diferente (como “MouseEvent”) para createEvent() e \ndepois inicializar o objeto evento com uma função de inicialização específica para o tipo, como \ninitMouseEvent() (não documentada neste",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4804,
+    "totalChunks": 10000
+  }
+}

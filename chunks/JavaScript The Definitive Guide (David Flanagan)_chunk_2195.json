@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2195",
+  "content": "bora ainda possa ser útil). Os programas do lado \ndo servidor são baseados em envios de formulário – eles processam dados em trechos do tamanho \ndo formulário – e isso limita sua interatividade. Os programas do lado do cliente são baseados em \neventos – eles podem responder a eventos em elementos individuais do formulário – e isso os permite \nser muito mais responsivos. Um programa do lado do cliente poderia validar a entrada do usuário en-\nquanto ele a digita, por exemplo. Ou então, poderia responder a um clique em uma caixa de seleção, \nhabilitando um conjunto de opções que só têm",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2195,
+    "totalChunks": 10000
+  }
+}

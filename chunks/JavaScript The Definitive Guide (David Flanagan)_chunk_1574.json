@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1574",
+  "content": "/ exclui todas as marcações <weight>\nE4X é projetada de modo que seja possível fazer as manipulações de XML mais comuns usando \na sintaxe da linguagem. Ela também define métodos que podem ser chamados em objetos XML. \nAqui, por exemplo, está o método insertChildBefore():\npt.insertChildBefore(pt.element[1],\n                       <element    id=\"1\"><name>Deuterium</name></element>);\nE4X reconhece espaço de nomes e inclui sintaxe da linguagem e APIs para trabalhar com namespa-\nces XML:\n// Declara o espaço de nomes padrão usando uma instrução \"default xml namespace\":\ndefault xml espaço de nomes",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1574,
+    "totalChunks": 10000
+  }
+}

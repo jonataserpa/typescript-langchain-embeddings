@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_52",
+  "content": "icrosystems (agora Oracle), usada para descrever a implementação da lingua-\ngem pelo Netscape (agora Mozilla). A Netscape enviou a linguagem para a ECMA – European Computer \nManufacturer’s Association – para padronização e, devido a questões relacionadas à marca registrada, \na versão padronizada manteve o nome estranho “ECMAScript”. Pelos mesmos motivos ligados à marca \nregistrada, a versão da Microsoft da linguagem é formalmente conhecida como “JScript”. Na prática, quase \ntodo mundo chama a linguagem de JavaScript. Este livro usa o nome “ECMAScript” apenas para se referir \nao padrão da",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 52,
+    "totalChunks": 10000
+  }
+}

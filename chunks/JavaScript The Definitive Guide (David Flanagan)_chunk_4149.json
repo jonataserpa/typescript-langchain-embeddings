@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4149",
+  "content": "omo o novo valor (em hora universal) do campo de \nmilissegundos de data.\nRetorna\nA representação, em milissegundos, da data ajustada.\nDate.setUTCMonth()\nconfigura os campos de mês e dia de um objeto Date (hora universal)\nSinopse\ndata.setUTCMonth(mês)\ndata.setUTCMonth(mês, dia)\nArgumentos\nmês\nO mês a ser configurado em data, expresso em hora universal. Esse argumento deve ser um \ninteiro entre 0 (janeiro) e 11 (dezembro). Note que os meses são numerados a partir de 0, \nenquanto os dias dentro do mês são numerados a partir de 1.\ndia\nUm inteiro opcional entre 1 e 31 usado como o novo valor (em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4149,
+    "totalChunks": 10000
+  }
+}

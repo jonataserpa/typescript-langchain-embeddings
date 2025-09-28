@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4387",
+  "content": "ências \nem uma string.\nmultiline\nSe RegExp tem o atributo “m”.\nsource\nO texto de origem da expressão regular.\nMétodos\nexec()\nFaz comparação de padrões de uso geral poderosa.\ntest()\nTesta se uma string contém um padrão.\nDescrição\nO objeto RegExp representa uma expressão regular, uma ferramenta poderosa para fazer comparação \nde padrões em strings. Consulte o Capítulo 10 para ver detalhes completos sobre sintaxe e uso de \nexpressões regulares.\nConsulte também\nCapítulo 10\nRegExp.exec()\ncomparação de padrões de uso geral\nSinopse\nexpreg.exec(string)\nArgumentos\nstring\nA string a ser",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4387,
+    "totalChunks": 10000
+  }
+}

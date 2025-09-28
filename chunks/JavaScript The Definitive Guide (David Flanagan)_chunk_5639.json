@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5639",
+  "content": "328\nrotinas de tratamento de evento onreset, elementos \nde formulário, 390\nrotinas de tratamento de evento onsubmit, elemen-\ntos de formulário, 390\nS\nSafari\n    evento textInput, 441\n    eventos de gesto e toque em iPhone e iPad, 444\n    JavaScript em URLs, 308\n    mouse, trackball bidimensional, 459\n    versão atual, 319\nsave( ), CanvasRenderingContext2D, 622, 863\nScalable Vector Graphics (consulte SVG)\nscale( ), CanvasRenderingContext2D, 624, 863\nscripts\n    atributo type, especifi cando tipo MIME, 306\n    em arquivos externos, 305\n    função jQuery.getScript( ), 547\n    objeto Script,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5639,
+    "totalChunks": 10000
+  }
+}

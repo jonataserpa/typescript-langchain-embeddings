@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_269",
+  "content": "JavaScript existe uma diferença fundamental entre valores primitivos (undefined, null, boolea-\nnos, números e strings) e objetos (incluindo arrays e funções). Os valores primitivos são imutáveis: \nnão há como alterar (ou “mudar”) um valor primitivo. Isso é óbvio para números e booleanos – nem \nmesmo faz sentido mudar o valor de um número. No entanto, não é tão óbvio para strings. Como \nas strings são como arrays de caracteres, você poderia pensar que é possível alterar o caractere em \nqualquer índice especificado. Na verdade, JavaScript não permite isso e todos os métodos de string \nque",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 269,
+    "totalChunks": 10000
+  }
+}

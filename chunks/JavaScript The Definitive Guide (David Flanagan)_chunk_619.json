@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_619",
+  "content": "ipt do lado do cliente, por exemplo, talvez seja necessário digitar expressões \ncomo a seguinte para acessar elementos de um formulário HTML:\ndocument.forms[0].address.value\nCaso precise escrever expressões como essa várias vezes, você pode usar a instrução with para adicio-\nnar o objeto formulário no encadeamento de escopo:\nwith(document.forms[0]) {\n    // Acessa elementos do formulário diretamente aqui. Por exemplo:\n    name.value = \"\";\n    address.value = \"\";\n    email.value = \"\";\n}\nIsso reduz o volume de digitação necessária: não é mais preciso prefixar cada nome de propriedade \ndo",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 619,
+    "totalChunks": 10000
+  }
+}

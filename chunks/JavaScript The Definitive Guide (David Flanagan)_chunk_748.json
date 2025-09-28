@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_748",
+  "content": "rná-la gravável, depois alterar o valor e, então, convertê-la novamente \nem não gravável).\nO Exemplo 6-2 continha uma função extend() que copiava propriedades de um objeto para \noutro. Essa função simplesmente copiava o nome e o valor das propriedades e ignorava seus \natributos. Além disso, ela não copiava os métodos getter e setter de propriedades de acesso, mas \nsimplesmente os convertia em propriedades de dados estáticas. O Exemplo 6-3 mostra uma nova \nversão de \nextend() que usa Object.getOwnPropertyDescriptor() e Object.defineProperty() para co-\npiar todos os atributos de propriedade. Em",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 748,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4780",
+  "content": "ING_PHASE = 3\nO evento está borbulhando e sendo enviado nos ascendentes de seu alvo.\nPropriedades\nAs propriedades listadas aqui são definidas pelo modelo de evento padrão de objetos Event e tam-\nbém dos objetos evento associados a eventos de mouse e tecla. As propriedades dos modelos de \nevento do IE e da jQuery também estão listadas. As propriedades com um asterisco são definidas \ndiretamente por Event e estão universalmente disponíveis em qualquer objeto Event padrão, inde-\npendente do tipo de evento.\nreadonly boolean altKey\nSe a tecla Alt estava pressionada quando o evento ocorreu.",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4780,
+    "totalChunks": 10000
+  }
+}

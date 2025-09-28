@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5431",
+  "content": "em ser chamados, 186\n    processando arrays, 187–188\n    propriedades,    181\n        propriedade    length,    181\n        protótipo,    181,    197\n    restrições em subconjuntos seguros, 260\n    retornando arrays de valores, atribuição de deses-\ntruturação com, 265\n    variáveis declaradas com var ou let, 264\nfunções aninhadas, 161, 301\nfunções de abrandamento, 542\n    adicionando na jQuery, 570\nfunções de ordem mais alta, 188\n    combinadas com aplicação parcial, 191\nfunções fábrica\n    criando e inicializando novo objeto, 194\n    função fábrica de classe e encadeamento de méto-\ndos,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5431,
+    "totalChunks": 10000
+  }
+}

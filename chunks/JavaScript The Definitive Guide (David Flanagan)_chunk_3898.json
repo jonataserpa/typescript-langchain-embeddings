@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3898",
+  "content": "black 2px; width: 200px; height: 200px; }\n#droptarget.active { border: solid red 4px; }\n\n682          Parte II     JavaScript do lado do cliente\n</style>\n</head>\n<body> <!-- O documento começa apenas com o alvo de soltura de arquivo -->\n<div id=\"droptarget\">Drop Image Files Here</div>\n</body>\n</html>\nOs URLs de Blob têm a mesma origem (Seção 13.6.2) do script que os cria. Isso os torna muito mais \nversáteis do que os URLs file://, que têm uma origem separada e, portanto, são difíceis de usar \ndentro de um aplicativo Web. Um URL de Blob é válido apenas em documentos da mesma origem. \nSe, por",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3898,
+    "totalChunks": 10000
+  }
+}

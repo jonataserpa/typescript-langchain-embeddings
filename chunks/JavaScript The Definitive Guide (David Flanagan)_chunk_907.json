@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_907",
+  "content": "de fatorial anterior) que precisem fazer referência a si mes-\nmas. Se uma expressão de definição de função inclui um nome, o escopo de função local dessa \nfunção vai incluir um vínculo desse nome com o objeto função. Na verdade, o nome da função \nse torna uma variável local dentro da função. A maioria das funções definidas como expressões \nnão precisa de nomes, o que torna suas definições mais compactas. As expressões de definição \nde função são especialmente apropriadas para funções utilizadas apenas uma vez, como nos dois \núltimos exemplos.\nNomes de função\nQualquer identificador JavaScript",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 907,
+    "totalChunks": 10000
+  }
+}

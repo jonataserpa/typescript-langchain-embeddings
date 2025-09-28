@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2999",
+  "content": "// Obtém o tamanho de uma página\n    var current = w.scrollTop();       // Obtém a posição atual da barra de rolagem\n    w.scrollTop(current + n*pagesize);  // Configura a nova posição da barra de rolagem\n}\n19.2.7   Obtendo e configurando dados de elementos\nA jQuery define um método getter/setter chamado data() que configura ou consulta dados asso-\nciados a qualquer elemento do documento ou a objetos Document ou Window. A capacidade de \nassociar dados a qualquer elemento é importante e poderosa: é a base do registro de rotina de trata-\nmento de evento e dos mecanismos de enfileiramento de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2999,
+    "totalChunks": 10000
+  }
+}

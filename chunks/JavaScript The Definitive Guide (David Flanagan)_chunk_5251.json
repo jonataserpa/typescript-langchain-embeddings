@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5251",
+  "content": "odos\nvoid postMessage(any mensagem, [MessagePort[] portas])\nEnvia mensagem para o worker, o qual vai recebê-la como um objeto MessageEvent enviado para sua \nrotina de tratamento de evento onmessage. mensagem pode ser um valor primitivo de JavaScript ou ob-\njeto ou array, mas não uma função. Os tipos do lado do cliente ArrayBuffer, File, Blob e ImageData \nsão permitidos, mas Nodes, como Document e Element, não (consulte “Clones estruturados”, na \npágina 672 para ver os detalhes).\nO argumento opcional \nportas é um recurso avançado que permite passar um ou mais canais de co-\nmunicação diretos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5251,
+    "totalChunks": 10000
+  }
+}

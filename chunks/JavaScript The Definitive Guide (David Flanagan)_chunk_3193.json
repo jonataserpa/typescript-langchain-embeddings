@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3193",
+  "content": "rmal “success”. Assim, se você configurar a opção\n ifModified, deve \nverificar o código de status em sua callback – se o status for “notmodified”, o primeiro argu-\n\nCapítulo 19     A biblioteca jQuery      553\nJavaScript do\n lado do cliente\nmento (os dados da resposta) será indefinido. Note que nas versões da jQuery antes da 1.4, o \ncódigo HTTP 304 era considerado um erro e o código de status “notmodified” era passado \npara a callback error, em vez da callback success. Consulte o quadro na Seção 19.6.1 para mais \ninformações sobre códigos de status Ajax da jQuery.\nglobal\nEsta opção especifica",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3193,
+    "totalChunks": 10000
+  }
+}

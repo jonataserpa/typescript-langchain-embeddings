@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_739",
+  "content": "edade existe mas não é enumerável\no.x;              //    =>    1\nObject.keys(o)   // => []\n// Agora modifica a propriedade x para que ela seja somente para leitura\nObject.defineProperty(o, \"x\", { writable: false });\n// Tenta alterar o valor da propriedade\no.x = 2;     // Falha silenciosamente ou lança TypeError no modo restrito\no.x          // => 1\n// A propriedade ainda é configurável; portanto, podemos alterar seu valor, como segue:\nObject.defineProperty(o, “x”, { value: 2 });\no.x          // => 2\n// Agora altera x de uma propriedade de dados para uma propriedade de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 739,
+    "totalChunks": 10000
+  }
+}

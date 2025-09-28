@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1860",
+  "content": "essoal) e enviar esses dados para o \nsite B. O script injetado pode até monitorar os toques de tecla do usuário e enviar esses dados para \no site B.\nEm geral, o modo de evitar ataques de XSS é remover as marcações HTML de qualquer dado não \nconfiável antes de usá-lo para criar conteúdo de documento dinâmico. O arquivo greet.html mostra-\ndo anteriormente pode ser corrigido pela adição da seguinte linha de código para remover os sinais \nde menor e maior em torno das marcações \n<script>:\nname = name.replace(/</g, \"&lt;\").replace(/>/g, \"&gt;\");\nO código simples anterior substitui todos os sinais",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1860,
+    "totalChunks": 10000
+  }
+}

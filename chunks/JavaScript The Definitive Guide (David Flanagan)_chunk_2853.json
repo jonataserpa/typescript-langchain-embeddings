@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2853",
+  "content": "isição será cancelada automaticamente e também define um evento timeout, que deve ser \ndisparado (em vez do evento abort) quando decorre um tempo-limite. Quando este livro estava \nsendo escrito, os navegadores não implementavam esses tempos-limite automáticos (e seus objetos \nXMLHttpRequest não tinham propriedades \ntimeout ou ontimeout). Contudo, você pode implemen-\ntar seus próprios tempos-limite com setTimeout() (Seção 14.1) e o método abort(). O Exemplo \n18-12 demonstra como fazer isso.\nExemplo 18-12 Implementando tempos-limite\n// Faz uma requisição HTTP GET solicitando o conteúdo do URL",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2853,
+    "totalChunks": 10000
+  }
+}

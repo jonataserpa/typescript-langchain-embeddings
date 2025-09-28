@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4110",
+  "content": "três \nmétodos estáticos. Esses métodos são chamados por meio da própria construtora Date() e não dos \nobjetos Date individuais:\nDate.now()\nRetorna a hora atual, como milissegundos desde a época.\nDate.parse()\nAnalisa uma representação de string de uma data e hora e retorna a representação interna dessa \ndata em milissegundos.\nDate.UTC()\nRetorna a representação da data e hora UTC especificadas em milissegundos.\nDescrição\nO objeto Date é um tipo de dados interno da linguagem JavaScript. Os objetos Date são criados \ncom a sintaxe de newDate() mostrada anteriormente.\nUma vez criado um objeto Date,",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4110,
+    "totalChunks": 10000
+  }
+}

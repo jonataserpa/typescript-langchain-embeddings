@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1497",
+  "content": "// Troca o valor das duas variáveis\nconsole.log([x,y]);   //   Imprime   [3,2]\nObserve como a atribuição de desestruturação torna fácil trabalhar com funções que retornam arrays \nde valores:\n// Converte coordenadas [x,y] em coordenadas polares [r,theta]\nfunction polar(x,y) {\n    return [Math.sqrt(x*x+y*y), Math.atan2(y,x)];\n}\n// Converte coordenadas polares em cartesianas\nfunction cartesian(r,theta) {\n    return [r*Math.cos(theta), r*Math.sin(theta)];\n}\nlet [r,theta] = polar(1.0, 1.0); // r=Math.sqrt(2), theta=Math.PI/4\nlet [x,y] = cartesian(r,theta);  // x=1.0, y=1.0\nO número de",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1497,
+    "totalChunks": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_940",
+  "content": "tipo esperado para os parâmetros e as \nchamadas de função não fazem qualquer verificação de tipo nos valores de argumento passados. \nNa verdade, as chamadas de função em JavaScript nem mesmo verificam o número de argumentos \nque estão sendo passados. As subseções a seguir descrevem o que acontece quando uma função é \nchamada com menos argumentos do que parâmetros declarados ou com mais argumentos do que \nparâmetros declarados. Elas também demonstram como é possível testar explicitamente o tipo dos \nargumentos da função, caso seja necessário garantir que uma função não seja chamada com",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 940,
+    "totalChunks": 10000
+  }
+}

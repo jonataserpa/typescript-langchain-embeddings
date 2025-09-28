@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4012",
+  "content": "o 22-17 é um servidor de chat baseado em WebSocket, destinado a ser executado em \nNode (Seção 12.2). Compare esse exemplo com o Exemplo 18-17 para ver que os WebSockets sim-\nplificam o lado do servidor do aplicativo de chat e também o lado do cliente.\nExemplo 22-17 Um servidor de chat usando WebSockets e Node\n/*\n * Isto é código JavaScript do lado do servidor para ser executado com NodeJS.\n * Ele executa um servidor WebSocket em cima de um servidor HTTP, usando uma biblioteca\n * websocket externa do endereço https://github.com/miksago/node-websocket-server/\n * Se recebe uma requisição HTTP",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4012,
+    "totalChunks": 10000
+  }
+}

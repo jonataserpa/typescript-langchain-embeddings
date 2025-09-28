@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4992",
+  "content": "la nomeada de todos os \nelementos selecionados pelo array de funções novaf.\nFunções Ajax da jQuery\nA maior parte da funcionalidade da jQuery relacionada a Ajax assume a forma de funções utilitárias, \nem vez de métodos. Essas são algumas das funções mais complicadas da biblioteca jQuery. Consulte \na Seção 19.6 para ver detalhes completos.\nCódigos de status Ajax\nsuccess       error    notmodified     timeout      parsererror\nTipos de dados Ajax\ntext          html     xml                  script       json       jsonp\nEventos Ajax\najaxStart    ajaxSend        ajaxSuccess       ajaxError",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4992,
+    "totalChunks": 10000
+  }
+}

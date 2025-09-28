@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4930",
+  "content": "lue do elemento (consulte FormControl) como um objeto Date.\ndouble valueAsNumber*\nRetorna o value do elemento (consulte FormControl) como um número.\n\n      Referência de JavaScript do lado do cliente      929\nReferência de \nJavaScript do lado \ndo cliente\nMétodos\nAlém dos métodos listados aqui, os elementos Input também implementam todos os métodos defi-\nnidos por Element e FormControl. Os métodos marcados com um asterisco nessa lista foram definidos \nrecentemente por HTML5 e, quando este livro estava sendo escrito, ainda não eram amplamente \nimplementados.\nvoid select()\nEsse método seleciona",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4930,
+    "totalChunks": 10000
+  }
+}

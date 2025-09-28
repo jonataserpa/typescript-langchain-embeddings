@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_5107",
+  "content": "utput> de formulário HTML. Nos navegadores que os \nsuportam, os objetos Output implementam a maioria das propriedades de FormControl.\nPropriedades\nstring defaultValue\nEssa propriedade é o valor inicial do textContent (consulte Node) do elemento Output. Quan-\ndo o formulário é redefinido, seu value é restaurado nesse valor. Se essa propriedade é configu-\nrada e o elemento Output está sendo exibido com seu defaultValue anterior, é exibido o novo \nvalor padrão. Caso contrário, o valor atualmente exibido não será alterado.\nreadonly DOMSettableTokenList htmlFor\nO atributo HTML for de um elemento",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 5107,
+    "totalChunks": 10000
+  }
+}

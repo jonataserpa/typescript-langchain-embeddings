@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2396",
+  "content": "é 500 ms.\n\nCapítulo 16     Escrevendo script de CSS      423\nJavaScript do\n lado do cliente\nfunction shake(e, oncomplete, distance, time) {\n    // Manipula argumentos\n    if (typeof e === \"string\") e = document.getElementById(e);\n    if (!time) time = 500;\n    if (!distance) distance = 5;\n    var originalStyle = e.style.cssText;         // Salva o estilo original de e\n    e.style.position = \"relative\";              // Torna e posicionado relativamente\n    var start = (new Date()).getTime();          // Note o tempo de início da animação\n    animate();                        // Começa a",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2396,
+    "totalChunks": 10000
+  }
+}

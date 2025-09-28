@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3200",
+  "content": "é a string “success”, mas se você \ntiver configurado a opção\n ifModified, esse argumento poderá ser “notmodified”. Nesse caso, \no servidor não envia uma resposta e o primeiro argumento é indefinido. As requisições entre \ndomínios de tipo “script” e “jsonp” são feitas com um elemento \n<script>, em vez de XMLHt-\ntpRequest; portanto, para esses pedidos, o terceiro argumento será indefinido.\nerror\nEsta opção especifica a função callback a ser chamada se a requisição Ajax não for bem-suce-\ndida. O primeiro argumento dessa callback é o objeto XMLHttpRequest da requisição (se ele \nusou um). O",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3200,
+    "totalChunks": 10000
+  }
+}

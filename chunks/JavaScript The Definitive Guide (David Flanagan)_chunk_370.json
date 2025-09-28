@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_370",
+  "content": "apítulo 4     Expressões e operadores      61\nJavaScript básica\nSe nenhum argumento é passado para a função construtora em uma expressão de criação de objeto, \no par de parênteses vazio pode ser omitido:\nnew Object\nnew Date\nQuando uma expressão de criação de objeto é avaliada, JavaScript cria primeiro um novo objeto va-\nzio, exatamente como aquele criado pelo inicializador de objetos {}. Em seguida, ela chama a função \nespecificada com os argumentos especificados, passando o novo objeto como valor da palavra-chave \nthis. Então, a função pode usar this para inicializar as propriedades do",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 370,
+    "totalChunks": 10000
+  }
+}

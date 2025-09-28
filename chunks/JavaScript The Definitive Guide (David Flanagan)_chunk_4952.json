@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_4952",
+  "content": "eciona todos os irmãos antes de cada elemento selecionado. Se sel é especificado, exclui os \nque não correspondem.\nprevUntil(sel)\nSeleciona os irmãos anteriores a cada elemento selecionado, até (mas não incluindo) o primei-\nro irmão que corresponda a sel.\npushStack(elts)\nInsere o estado atual da seleção para que possa ser restaurado com end() e, então, seleciona os \nelementos do array elts (ou do objeto semelhante a um array).\nsiblings([sel])\nSeleciona os irmãos de cada elemento selecionado, excluindo o próprio elemento. Se sel é \nespecificado, exclui os irmãos que não",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 4952,
+    "totalChunks": 10000
+  }
+}

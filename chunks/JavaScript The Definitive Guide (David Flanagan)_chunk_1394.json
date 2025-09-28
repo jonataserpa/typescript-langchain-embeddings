@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1394",
+  "content": "tanto, \n/[\\s\\d]/ corresponde a qualquer caractere de espaço em branco ou dígito. Note que há um caso \nespecial. Conforme vamos ver posteriormente, o escape \\b tem um significado especial. Contudo, \nquando usado dentro de uma classe de caracteres, ele representa o caractere de backspace. Assim, \npara representar um caractere de backspace literalmente em uma expressão regular, use a classe de \ncaracteres com um único elemento: /[\\b]/.\n10.1.3   Repetição\nCom a sintaxe de expressões regulares que aprendeu até aqui, você pode descrever um número de \ndois dígitos como \n/\\d\\d/ e um número de quatro",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1394,
+    "totalChunks": 10000
+  }
+}

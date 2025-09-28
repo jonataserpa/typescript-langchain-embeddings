@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2254",
+  "content": "evento, ela não vai funcionar conforme o esperado – na verdade, \nela vai apagar o documento atual e os scripts que ele contém! (Você vai ver por que em breve.) Por \nmotivos semelhantes, você não deve usar \ndocument.write() em scripts que tenham os atributos de-\nfer ou async configurados.\nO Exemplo 13-3, no Capítulo 13, usou \ndocument.write() dessa maneira para gerar saída mais com-\nplicada.\nO método \nwrite() também pode ser usado para criar documentos inteiramente novos em outras ja-\nnelas ou quadros. (Contudo, ao trabalhar com várias janelas ou quadros, você deve tomar o cuidado \nde não",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2254,
+    "totalChunks": 10000
+  }
+}

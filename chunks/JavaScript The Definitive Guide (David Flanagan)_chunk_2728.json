@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_2728",
+  "content": "call(element, event, keyid);\n         // Se a rotina de tratamento retorna false, cancela o padrão e impede que borbulhe\n        if (retval === false) {\n            if (event.stopPropagation) event.stopPropagation();   // Modelo DOM\n            else event.cancelBubble = true;                       // Modelo IE\n            if (event.preventDefault) event.preventDefault();     // DOM\n            else event.returnValue = false;                       // IE\n  }\n        // Retorna o que a rotina de tratamento retornou\n        return    retval;\n }\n};\n// Função utilitária para converter um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 2728,
+    "totalChunks": 10000
+  }
+}

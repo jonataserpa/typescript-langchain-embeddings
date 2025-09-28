@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3658",
+  "content": "e para texto da esquerda para a direita, o alinhamento \n“start” é o mesmo que “left” e o alinhamento “end” é o mesmo que “right”. Contudo, se você confi-\ngura o atributo dir do elemento <canvas> como “rtl” (direita para a esquerda), o alinhamento “start” \nserá o mesmo que “right” e “end” será o mesmo que “left”.\nO padrão de \ntextBaseline é “alphabetic”, e isso é adequado para caracteres latinos e similares. O \nvalor “ideographic” é usado com caracteres ideográficos, como chinês e japonês. O valor “hanging” \né destinado para uso com caracteres Devangari e similares (que são usados por muitos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3658,
+    "totalChunks": 10000
+  }
+}

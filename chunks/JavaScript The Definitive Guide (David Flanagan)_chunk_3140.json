@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3140",
+  "content": "iblioteca, as funções enfileiradas tiram a próxima função da fila “manual-\nmente”, chamando o método \ndequeue():\n$(this).dequeue();    // Em vez de next()\nSe não há nada na fila, chamar dequeue() não faz nada. Caso contrário, remove uma função do início \nda fila e a chama, configurando o valor de\n this e passando a função descrita anteriormente.\nExistem ainda mais algumas maneiras pesadas de manipular a fila. \nclearQueue() limpa a fila. Passar \num array de funções para \nqueue(), em vez de uma única função, substitui a fila pelo novo array de \nfunções. E chamar \nqueue() sem uma função e sem um",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3140,
+    "totalChunks": 10000
+  }
+}

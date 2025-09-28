@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_1997",
+  "content": "elementos HTML. Neste livro, usamos frequentemente \nos nomes de classe genéricos Document e Element, mesmo ao nos referirmos a documentos \nHTML. Isso também vale para a seção de referência: as propriedades e os métodos dos tipos \nHTMLDocument e HTMLElement estão documentados nas páginas de referência de Docu-\nment e Element.\nDocument\nCharacterData\nElement\nAttr\nNode\nHTMLDocument\nTe x t\nComment\nHTMLElement\nHTMLTitleElement\nHTMLBodyElement\nHTMLHeadElement\nHTMLParagraphElement\nHTMLInputElement\nHTMLTableElement\n. . . etc.\nFigura 15-2 Uma hierarquia de classe parcial de nós de documento.\nTambém é",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 1997,
+    "totalChunks": 10000
+  }
+}

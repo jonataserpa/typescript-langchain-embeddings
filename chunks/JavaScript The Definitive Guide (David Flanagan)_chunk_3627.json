@@ -1,0 +1,9 @@
+{
+  "id": "JavaScript The Definitive Guide (David Flanagan)_chunk_3627",
+  "content": "retângulo esperam dois argumentos que especificam um canto do retângulo, seguidos \nde sua largura e altura. Normalmente, você especifica o canto superior esquerdo e, então, passa uma \nlargura positiva e uma altura positiva, mas também pode especificar outros cantos e passar dimen-\nsões negativas.\nfillRect() preenche o retângulo especificado com o fillStyle atual. strokeRect() traça o contorno \ndo retângulo especificado usando o \nstrokeStyle atual e outros atributos de linha. clearRect() é como \nfillRect(), mas ignora o estilo de preenchimento atual e preenche o retângulo com pixels pretos",
+  "metadata": {
+    "source": "/home/jonata/Documentos/typescript-langchain/tmp/JavaScript The Definitive Guide (David Flanagan).pdf",
+    "chunkIndex": 3627,
+    "totalChunks": 10000
+  }
+}
