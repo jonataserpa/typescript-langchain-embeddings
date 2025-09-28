@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   redis-stack:
     image: redis/redis-stack:latest
@@ -17,6 +15,19 @@ services:
       interval: 10s
       timeout: 3s
       retries: 5
+
+  # RedisInsight standalone (alternativa mais leve)
+  redisinsight:
+    image: redislabs/redisinsight:latest
+    container_name: redisinsight
+    ports:
+      - "8002:8001"
+    depends_on:
+      - redis-stack
+    restart: unless-stopped
+    environment:
+      - REDISINSIGHT_HOST=redis-stack
+      - REDISINSIGHT_PORT=6379
 
 volumes:
   redis_data:
