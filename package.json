@@ -1,0 +1,33 @@
+{
+  "name": "typescript-langchain-pdf-semantic-search",
+  "version": "1.0.0",
+  "description": "Projeto para processar PDFs e fazer busca semântica usando LangChain e Redis",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "process-pdf": "ts-node src/processPdf.ts",
+    "search": "ts-node src/search.ts",
+    "examples": "ts-node src/examples.ts",
+    "clean": "rm -rf dist"
+  },
+  "keywords": ["langchain", "pdf", "semantic-search", "redis", "openai"],
+  "author": "Jonata",
+  "license": "MIT",
+  "dependencies": {
+    "@langchain/community": "^0.0.28",
+    "@langchain/openai": "^0.0.14",
+    "@langchain/redis": "^0.0.2",
+    "langchain": "^0.1.0",
+    "pdf-parse": "^1.1.1",
+    "redis": "^4.6.12",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "@types/pdf-parse": "^1.1.4",
+    "typescript": "^5.3.0",
+    "ts-node": "^10.9.0"
+  }
+}

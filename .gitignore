@@ -78,7 +78,7 @@ jspm_packages/
 
 # Generated chunks
 chunks/
-*.json
+chunks/*.json
 *.txt
 
 # IDE
