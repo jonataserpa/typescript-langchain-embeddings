@@ -144,7 +144,31 @@ INSTRUÇÕES RIGOROSAS:
       'continue', 'return', 'throw', 'try', 'catch', 'finally', 'new', 'delete', 'typeof',
       'instanceof', 'in', 'of', 'void', 'with', 'eval', 'settimeout', 'setinterval',
       'console', 'alert', 'confirm', 'prompt', 'window', 'document', 'navigator', 'location',
-      'history', 'screen', 'localstorage', 'sessionstorage', 'cookies', 'cors', 'xhr'
+      'history', 'screen', 'localstorage', 'sessionstorage', 'cookies', 'cors', 'xhr',
+      // Métodos de Array
+      'filter', 'map', 'reduce', 'forEach', 'find', 'findindex', 'some', 'every', 'includes',
+      'indexof', 'lastindexof', 'slice', 'splice', 'push', 'pop', 'shift', 'unshift', 'concat',
+      'join', 'split', 'reverse', 'sort', 'fill', 'copywithin', 'entries', 'keys', 'values',
+      // Métodos de String
+      'charat', 'charcodeat', 'concat', 'indexof', 'lastindexof', 'localecompare', 'match',
+      'replace', 'search', 'slice', 'split', 'substr', 'substring', 'tolowercase', 'touppercase',
+      'trim', 'valueof', 'tostring', 'padstart', 'padend', 'repeat', 'startsWith', 'endsWith',
+      // Métodos de Object
+      'keys', 'values', 'entries', 'assign', 'create', 'defineproperty', 'defineproperties',
+      'freeze', 'seal', 'preventextensions', 'is', 'isfrozen', 'issealed', 'isextensible',
+      // Conceitos JavaScript
+      'sintaxe', 'syntax', 'método', 'method', 'propriedade', 'property', 'atributo', 'attribute',
+      'parâmetro', 'parameter', 'argumento', 'argument', 'retorno', 'return', 'valor', 'value',
+      'tipo', 'type', 'dados', 'data', 'estrutura', 'structure', 'algoritmo', 'algorithm',
+      'lógica', 'logic', 'condição', 'condition', 'expressão', 'expression', 'operador', 'operator',
+      'comparação', 'comparison', 'igualdade', 'equality', 'desigualdade', 'inequality',
+      'maior', 'greater', 'menor', 'less', 'maiorigual', 'greaterthan', 'menorigual', 'lessthan',
+      'incremento', 'increment', 'decremento', 'decrement', 'soma', 'sum', 'subtração', 'subtraction',
+      'multiplicação', 'multiplication', 'divisão', 'division', 'módulo', 'modulo', 'resto', 'remainder',
+      'potência', 'power', 'exponenciação', 'exponentiation', 'raiz', 'root', 'quadrado', 'square',
+      'cubo', 'cube', 'absoluto', 'absolute', 'arredondamento', 'round', 'teto', 'ceil', 'piso', 'floor',
+      'aleatório', 'random', 'máximo', 'max', 'mínimo', 'min', 'média', 'average', 'soma', 'sum',
+      'contagem', 'count', 'tamanho', 'size', 'comprimento', 'length', 'largura', 'width', 'altura', 'height'
     ];
 
     // Verificar se a pergunta contém palavras-chave relevantes
@@ -153,6 +177,7 @@ INSTRUÇÕES RIGOROSAS:
     );
 
     // Verificar se a pergunta não é sobre outros tópicos não relacionados
+    // Removendo palavras que podem aparecer em contexto JavaScript
     const unrelatedKeywords = [
       'python', 'java', 'c++', 'c#', 'php', 'ruby', 'go', 'rust', 'swift', 'kotlin', 'scala',
       'database', 'sql', 'mysql', 'postgresql', 'mongodb', 'redis', 'elasticsearch', 'oracle',
@@ -171,12 +196,18 @@ INSTRUÇÕES RIGOROSAS:
       'history', 'história', 'war', 'guerra', 'ancient', 'antigo', 'medieval', 'medieval',
       'science', 'ciência', 'physics', 'física', 'chemistry', 'química', 'biology', 'biologia',
       'math', 'matemática', 'algebra', 'álgebra', 'geometry', 'geometria', 'calculus', 'cálculo'
-    ];
-
-    const hasUnrelatedKeywords = unrelatedKeywords.some(keyword => 
-      questionLower.includes(keyword)
+    ].filter(keyword => 
+      // Remover palavras que podem aparecer em contexto JavaScript
+      !['do', 'in', 'of', 'to', 'for', 'with', 'by', 'at', 'on', 'up', 'down', 'out', 'off', 'over', 'under'].includes(keyword)
     );
 
+    const hasUnrelatedKeywords = unrelatedKeywords.some(keyword => {
+      // Escapar caracteres especiais na regex
+      const escapedKeyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      const regex = new RegExp(`\\b${escapedKeyword}\\b`, 'i');
+      return regex.test(questionLower);
+    });
+    
     // Se tem palavras não relacionadas, é irrelevante
     if (hasUnrelatedKeywords) {
       return false;
