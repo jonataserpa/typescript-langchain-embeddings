@@ -2,6 +2,7 @@ import { RedisVectorStore } from '@langchain/redis';
 import { OpenAIEmbeddings } from '@langchain/openai';
 import { Document } from 'langchain/document';
 import { createClient } from 'redis';
+import path from 'path';
 
 export interface RedisVectorStoreConfig {
   redisUrl: string;
@@ -53,20 +54,105 @@ export class RedisVectorStoreService {
   }
 
   async storeDocuments(documents: Document[]): Promise<void> {
-    console.log(`Armazenando ${documents.length} documentos no Redis Vector Store...`);
+    console.log(`\n💾 INICIANDO ARMAZENAMENTO NO REDIS (VERSÃO OTIMIZADA):`);
+    console.log(`   - Documentos para armazenar: ${documents.length}`);
+    console.log(`   - Índice: ${this.config.indexName}`);
+    console.log(`   - Prefixo: ${this.config.keyPrefix}`);
+    console.log(`   - Modelo de embedding: ${this.config.embeddingModel}`);
     
     try {
       // Verificar se o índice existe, se não, criar
       await this.ensureIndexExists();
       
-      // Adicionar documentos ao vector store
-      await this.vectorStore.addDocuments(documents);
+      // Log de exemplo do primeiro documento
+      if (documents.length > 0) {
+        const firstDoc = documents[0];
+        console.log(`\n📄 EXEMPLO DO PRIMEIRO DOCUMENTO:`);
+        console.log(`   - Conteúdo (100 chars): ${firstDoc.pageContent.substring(0, 100)}...`);
+        console.log(`   - Metadados:`, JSON.stringify(firstDoc.metadata, null, 2));
+        console.log(`   - Tem embedding?: ${firstDoc.metadata.embedding ? 'SIM' : 'NÃO'}`);
+        if (firstDoc.metadata.embedding) {
+          console.log(`   - Dimensão do embedding: ${firstDoc.metadata.embedding.length}`);
+        }
+      }
       
-      console.log('✅ Documentos armazenados no Redis Vector Store com sucesso!');
+      console.log(`\n⏳ Armazenando documentos em lotes no Redis...`);
+      
+      // Armazenar em lotes para evitar problemas de memória
+      const batchSize = 50; // Lotes ainda menores para Redis
+      const totalBatches = Math.ceil(documents.length / batchSize);
+      
+      console.log(`   - Total de lotes: ${totalBatches}`);
+      console.log(`   - Documentos por lote: ${batchSize}`);
+      
+      let totalStored = 0;
+      
+      for (let i = 0; i < documents.length; i += batchSize) {
+        const batchNumber = Math.floor(i / batchSize) + 1;
+        const batch = documents.slice(i, i + batchSize);
+        
+        console.log(`\n📦 Armazenando lote ${batchNumber}/${totalBatches} (${batch.length} documentos)...`);
+        
+        try {
+          // Log detalhado de cada documento no lote
+          console.log(`   - Documentos no lote:`);
+          batch.forEach((doc, index) => {
+            const chunkIndex = doc.metadata.chunkIndex || 'N/A';
+            const source = doc.metadata.source || 'N/A';
+            const fileName = path.basename(source);
+            console.log(`     ${index + 1}. Chunk ${chunkIndex} - ${fileName}`);
+          });
+          
+          await this.vectorStore.addDocuments(batch);
+          totalStored += batch.length;
+          
+          console.log(`   ✅ Lote ${batchNumber} armazenado com sucesso!`);
+          console.log(`   📊 Progresso: ${totalStored}/${documents.length} (${Math.round((totalStored / documents.length) * 100)}%)`);
+          
+          // Verificar status do Redis após cada lote
+          const currentIndexInfo = await this.getIndexInfo();
+          if (currentIndexInfo) {
+            console.log(`   📈 Documentos no Redis: ${currentIndexInfo.numDocs}`);
+          }
+          
+          // Pequena pausa entre lotes para não sobrecarregar o Redis
+          if (batchNumber < totalBatches) {
+            await this.sleep(200); // 200ms entre lotes
+          }
+          
+        } catch (error) {
+          console.error(`   ❌ Erro no lote ${batchNumber}:`, error);
+          console.error(`   - Documentos que falharam:`, batch.map(doc => doc.metadata.chunkIndex || 'N/A'));
+          throw error;
+        }
+      }
+      
+      console.log(`\n✅ TODOS OS DOCUMENTOS ARMAZENADOS COM SUCESSO!`);
+      console.log(`   - Total armazenado: ${totalStored} documentos`);
+      
+      // Verificação final detalhada
+      const indexInfo = await this.getIndexInfo();
+      if (indexInfo) {
+        console.log(`   - Documentos no índice: ${indexInfo.numDocs}`);
+        console.log(`   - Tamanho do índice: ${indexInfo.indexing} bytes`);
+        console.log(`   - Status: ${indexInfo.status}`);
+        
+        // Verificar se o número de documentos está correto
+        if (indexInfo.numDocs < totalStored) {
+          console.log(`   ⚠️ ATENÇÃO: Esperado ${totalStored} documentos, mas apenas ${indexInfo.numDocs} estão no Redis`);
+        } else {
+          console.log(`   ✅ CONFIRMADO: ${indexInfo.numDocs} documentos salvos no Redis`);
+        }
+      }
+      
     } catch (error) {
       console.error('❌ Erro ao armazenar documentos:', error);
       throw error;
     }
+  }
+
+  private sleep(ms: number): Promise<void> {
+    return new Promise(resolve => setTimeout(resolve, ms));
   }
 
   async searchSimilarDocuments(
@@ -161,13 +247,17 @@ export class RedisVectorStoreService {
 
   async closeConnection(): Promise<void> {
     try {
-      if (this.redisClient) {
+      if (this.redisClient && this.redisClient.isOpen) {
         await this.redisClient.quit();
         console.log('✅ Conexão Redis fechada com sucesso!');
       }
     } catch (error) {
-      console.error('❌ Erro ao fechar conexão Redis:', error);
-      throw error;
+      // Ignorar erros de fechamento se a conexão já estiver fechada
+      if (error instanceof Error && error.message.includes('closed')) {
+        console.log('ℹ️ Conexão Redis já estava fechada');
+      } else {
+        console.error('❌ Erro ao fechar conexão Redis:', error);
+      }
     }
   }
 

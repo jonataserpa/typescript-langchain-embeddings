@@ -12,6 +12,9 @@
     "examples": "ts-node src/examples.ts",
     "api": "ts-node src/api/server.ts",
     "api:prod": "node dist/api/server.js",
+    "test-pipeline": "ts-node src/test-pipeline.ts",
+    "process-optimized": "ts-node src/process-optimized.ts",
+    "process-all": "ts-node src/process-all-chunks.ts",
     "clean": "rm -rf dist"
   },
   "keywords": [
@@ -25,6 +28,7 @@
   "license": "MIT",
   "dependencies": {
     "@langchain/community": "^0.0.28",
+    "@langchain/core": "^0.3.77",
     "@langchain/openai": "^0.0.14",
     "@langchain/redis": "^0.0.2",
     "@types/cors": "^2.8.19",

@@ -1,6 +1,7 @@
 import { Document } from 'langchain/document';
 import { RedisVectorStoreService } from './redisVectorStore';
 import { EmbeddingService } from './embeddingService';
+import { PromptService, ContextualResponse } from './promptService';
 
 export interface SearchResult {
   document: Document;
@@ -18,20 +19,29 @@ export interface SearchOptions {
 export class SemanticSearchService {
   private vectorStoreService: RedisVectorStoreService;
   private embeddingService: EmbeddingService;
+  private promptService: PromptService;
 
   constructor(
     vectorStoreService: RedisVectorStoreService,
-    embeddingService: EmbeddingService
+    embeddingService: EmbeddingService,
+    promptService?: PromptService
   ) {
     this.vectorStoreService = vectorStoreService;
     this.embeddingService = embeddingService;
+    this.promptService = promptService || new PromptService({
+      model: 'gpt-3.5-turbo',
+      temperature: 0.7,
+      maxTokens: 1000
+    });
   }
 
   async search(
     query: string, 
     options: SearchOptions = {}
   ): Promise<SearchResult[]> {
-    console.log(`🔍 Iniciando busca semântica para: "${query}"`);
+    console.log(`\n🔍 INICIANDO BUSCA SEMÂNTICA (RETRIEVAL):`);
+    console.log(`   - Query: "${query}"`);
+    console.log(`   - Opções:`, JSON.stringify(options, null, 2));
     
     try {
       const {
@@ -41,14 +51,32 @@ export class SemanticSearchService {
         filterByMetadata
       } = options;
 
+      console.log(`\n📊 CONFIGURAÇÃO DA BUSCA:`);
+      console.log(`   - Max resultados: ${maxResults}`);
+      console.log(`   - Score threshold: ${scoreThreshold}`);
+      console.log(`   - Incluir scores: ${includeScore}`);
+
       // Buscar documentos similares
       let results: Array<[Document, number]> | Document[];
+      
+      console.log(`\n🔎 EXECUTANDO RETRIEVAL NO REDIS...`);
       
       if (includeScore) {
         results = await this.vectorStoreService.searchSimilarDocumentsWithScore(query, maxResults);
       } else {
         const docs = await this.vectorStoreService.searchSimilarDocuments(query, maxResults);
         results = docs.map(doc => [doc, 0] as [Document, number]);
+      }
+
+      console.log(`\n📋 RESULTADOS BRUTOS DO RETRIEVAL:`);
+      console.log(`   - Total encontrado: ${results.length}`);
+      
+      if (results.length > 0) {
+        console.log(`   - Primeiro resultado:`);
+        const [firstDoc, firstScore] = results[0] as [Document, number];
+        console.log(`     * Score: ${firstScore}`);
+        console.log(`     * Conteúdo (100 chars): ${firstDoc.pageContent.substring(0, 100)}...`);
+        console.log(`     * Metadados:`, JSON.stringify(firstDoc.metadata, null, 2));
       }
 
       // Processar resultados
@@ -62,15 +90,23 @@ export class SemanticSearchService {
         };
       });
 
+      console.log(`\n🎯 PROCESSANDO RESULTADOS:`);
+      console.log(`   - Antes do filtro: ${searchResults.length} resultados`);
+
       // Filtrar por threshold
       const filteredResults = searchResults.filter(result => result.score <= scoreThreshold);
+      console.log(`   - Após filtro de threshold (${scoreThreshold}): ${filteredResults.length} resultados`);
 
       // Aplicar filtros de metadados se especificado
       const finalResults = filterByMetadata 
         ? this.filterByMetadata(filteredResults, filterByMetadata)
         : filteredResults;
 
-      console.log(`✅ Busca concluída: ${finalResults.length} resultados encontrados`);
+      console.log(`\n✅ BUSCA CONCLUÍDA:`);
+      console.log(`   - Resultados finais: ${finalResults.length}`);
+      console.log(`   - Scores: ${finalResults.map(r => r.score.toFixed(3)).join(', ')}`);
+      console.log(`   - Relevâncias: ${finalResults.map(r => r.relevance).join(', ')}`);
+      
       return finalResults;
     } catch (error) {
       console.error('❌ Erro na busca semântica:', error);
@@ -203,6 +239,85 @@ export class SemanticSearchService {
         embedding: false,
         redis: false,
       };
+    }
+  }
+
+  async generateContextualAnswer(
+    question: string,
+    options: SearchOptions = {}
+  ): Promise<ContextualResponse> {
+    console.log(`\n🤖 GERANDO RESPOSTA CONTEXTUALIZADA:`);
+    console.log(`   - Pergunta: "${question}"`);
+    console.log(`   - Opções:`, JSON.stringify(options, null, 2));
+    
+    try {
+      // Buscar documentos relevantes
+      const searchResults = await this.search(question, {
+        maxResults: options.maxResults || 5,
+        scoreThreshold: options.scoreThreshold || 0.8,
+        includeScore: true,
+        ...options
+      });
+
+      console.log(`   - Documentos encontrados: ${searchResults.length}`);
+
+      // Extrair documentos para o contexto
+      const relevantDocuments = searchResults.map(result => result.document);
+
+      // Gerar resposta contextualizada
+      const response = await this.promptService.generateResponse(
+        question,
+        relevantDocuments,
+        {
+          maxContextLength: 4000,
+          includeMetadata: true
+        }
+      );
+
+      console.log(`\n✅ RESPOSTA GERADA:`);
+      console.log(`   - Relevante: ${response.isRelevant}`);
+      console.log(`   - Confiança: ${response.confidence}`);
+      console.log(`   - Fonte: ${response.source}`);
+      console.log(`   - Contextos usados: ${response.contextUsed.length}`);
+
+      return response;
+    } catch (error) {
+      console.error('❌ Erro ao gerar resposta contextualizada:', error);
+      throw error;
+    }
+  }
+
+  async askQuestion(
+    question: string,
+    options: SearchOptions = {}
+  ): Promise<{
+    question: string;
+    answer: string;
+    confidence: 'high' | 'medium' | 'low';
+    isRelevant: boolean;
+    sources: string[];
+    searchResults: SearchResult[];
+  }> {
+    console.log(`\n❓ PERGUNTA: "${question}"`);
+    
+    try {
+      // Gerar resposta contextualizada
+      const contextualResponse = await this.generateContextualAnswer(question, options);
+      
+      // Buscar resultados da busca para referência
+      const searchResults = await this.search(question, options);
+      
+      return {
+        question,
+        answer: contextualResponse.answer,
+        confidence: contextualResponse.confidence,
+        isRelevant: contextualResponse.isRelevant,
+        sources: contextualResponse.contextUsed,
+        searchResults
+      };
+    } catch (error) {
+      console.error('❌ Erro ao processar pergunta:', error);
+      throw error;
     }
   }
 }

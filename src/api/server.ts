@@ -6,6 +6,7 @@ import { config, validateConfig } from '../config/config';
 import { EmbeddingService } from '../services/embeddingService';
 import { RedisVectorStoreService } from '../services/redisVectorStore';
 import { SemanticSearchService } from '../services/semanticSearchService';
+import { PromptService } from '../services/promptService';
 
 export class APIServer {
   private app: express.Application;
@@ -46,9 +47,17 @@ export class APIServer {
       apiKey: config.openai.apiKey,
     });
     
+    // Inicializar PromptService
+    const promptService = new PromptService({
+      model: 'gpt-3.5-turbo',
+      temperature: 0.7,
+      maxTokens: 1000
+    });
+    
     this.semanticSearchService = new SemanticSearchService(
       this.vectorStoreService,
-      this.embeddingService
+      this.embeddingService,
+      promptService
     );
   }
 
@@ -223,6 +232,90 @@ export class APIServer {
       }
     });
 
+    // Pergunta contextualizada (usando PromptTemplate)
+    this.app.post('/ask', async (req, res) => {
+      try {
+        const { question, maxResults = 5, scoreThreshold = 0.8 } = req.body;
+        
+        if (!question || typeof question !== 'string' || question.trim() === '') {
+          return res.status(400).json({
+            success: false,
+            error: 'Pergunta é obrigatória e deve ser uma string não vazia',
+            timestamp: new Date().toISOString()
+          });
+        }
+
+        const response = await this.semanticSearchService.askQuestion(question, {
+          maxResults,
+          scoreThreshold
+        });
+
+        res.json({
+          success: true,
+          data: {
+            question: response.question,
+            answer: response.answer,
+            confidence: response.confidence,
+            isRelevant: response.isRelevant,
+            sources: response.sources,
+            searchResults: response.searchResults.map(result => ({
+              content: result.document.pageContent,
+              metadata: result.document.metadata,
+              score: result.score,
+              relevance: result.relevance
+            }))
+          },
+          timestamp: new Date().toISOString()
+        });
+      } catch (error) {
+        console.error('Erro na pergunta contextualizada:', error);
+        res.status(500).json({
+          success: false,
+          error: error instanceof Error ? error.message : 'Erro interno do servidor',
+          timestamp: new Date().toISOString()
+        });
+      }
+    });
+
+    // Resposta contextualizada (apenas resposta, sem detalhes da busca)
+    this.app.post('/answer', async (req, res) => {
+      try {
+        const { question, maxResults = 5, scoreThreshold = 0.8 } = req.body;
+        
+        if (!question || typeof question !== 'string' || question.trim() === '') {
+          return res.status(400).json({
+            success: false,
+            error: 'Pergunta é obrigatória e deve ser uma string não vazia',
+            timestamp: new Date().toISOString()
+          });
+        }
+
+        const response = await this.semanticSearchService.generateContextualAnswer(question, {
+          maxResults,
+          scoreThreshold
+        });
+
+        res.json({
+          success: true,
+          data: {
+            question,
+            answer: response.answer,
+            confidence: response.confidence,
+            isRelevant: response.isRelevant,
+            sources: response.contextUsed
+          },
+          timestamp: new Date().toISOString()
+        });
+      } catch (error) {
+        console.error('Erro na resposta contextualizada:', error);
+        res.status(500).json({
+          success: false,
+          error: error instanceof Error ? error.message : 'Erro interno do servidor',
+          timestamp: new Date().toISOString()
+        });
+      }
+    });
+
     // Rota de documentação da API
     this.app.get('/api-docs', (req, res) => {
       res.json({
@@ -234,6 +327,8 @@ export class APIServer {
           'GET /stats': 'Obter estatísticas do sistema',
           'POST /search': 'Busca semântica básica',
           'POST /search/advanced': 'Busca semântica com filtros avançados',
+          'POST /ask': 'Pergunta contextualizada com PromptTemplate (resposta completa)',
+          'POST /answer': 'Resposta contextualizada simples (apenas resposta)',
           'GET /api-docs': 'Documentação da API'
         },
         examples: {
@@ -246,17 +341,40 @@ export class APIServer {
               scoreThreshold: 0.8,
               includeScore: true
             }
+          },
+          ask: {
+            method: 'POST',
+            url: '/ask',
+            body: {
+              question: 'Como funciona o hoisting em JavaScript?',
+              maxResults: 5,
+              scoreThreshold: 0.8
+            }
+          },
+          answer: {
+            method: 'POST',
+            url: '/answer',
+            body: {
+              question: 'O que são closures em JavaScript?',
+              maxResults: 3,
+              scoreThreshold: 0.8
+            }
           }
+        },
+        context: {
+          book: 'JavaScript: The Definitive Guide by David Flanagan',
+          scope: 'Apenas perguntas sobre JavaScript, programação web, DOM e tecnologias relacionadas',
+          restrictions: 'Não responde perguntas fora do contexto do livro JavaScript'
         }
       });
     });
 
     // Rota 404
-    this.app.use('*', (req, res) => {
+    this.app.use((req, res) => {
       res.status(404).json({
         success: false,
         error: 'Endpoint não encontrado',
-        availableEndpoints: ['/health', '/stats', '/search', '/search/advanced', '/api-docs'],
+        availableEndpoints: ['/health', '/stats', '/search', '/search/advanced', '/ask', '/answer', '/api-docs'],
         timestamp: new Date().toISOString()
       });
     });
